@@ -1,0 +1,23 @@
+{
+  "picBed": {
+    "BarrY": {
+      "alias": "BarrY",
+      "token": "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",
+      "githubUsername": "Barry028",
+      "proxy": "",
+      "paging": false,
+      "customUrl": "https://cdn.staticaly.com/gh/{username}/{repo}@{branch}/{path}",
+      "picBedName": "github"
+    }
+  },
+  "settings": {
+    "pasteFormat": "markdown-with-link",
+    "downloadDir": "/Users/apple/Downloads/images",
+    "PreSignedExpire": 14400,
+    "isDownloadFileKeepDirStructure": true,
+    "isEncodeUrl": true,
+    "isShowThumbnail": true,
+    "isShowList": true
+  },
+  "currentPicBed": "placeholder"
+}
