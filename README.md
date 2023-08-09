@@ -1,5 +1,18 @@
-    
 
+
+  <kbd>
+    <img src="https://avatars.dicebear.com/api/pixel-art/s1.svg?background=%23898133&mood[]=sad&mood[]=happy)&radius=6" alt="avatar" width="88" />
+  </kbd>
+  <kbd>
+    <img src="https://avatars.dicebear.com/api/pixel-art/s2.svg?background=%23898133&mood[]=sad&mood[]=happy)&radius=6" alt="avatar" width="88" />
+  </kbd>
+  <kbd>
+    <img src="https://avatars.dicebear.com/api/pixel-art/s564120.svg?background=%23898133&mood[]=sad&mood[]=happy)&radius=6" alt="avatar" width="88" />
+  </kbd>
+  <kbd>
+    <img src="https://avatars.dicebear.com/api/pixel-art/s5545360.svg?background=%23898133&mood[]=sad&mood[]=happy)&radius=6" alt="avatar" width="88" />
+  </kbd>
+  
 ## Materials 常用素材
   將一些素材整合成圖床，方便寫文章或者文章使用時使用。
 
@@ -28,19 +41,19 @@
   </kbd>
 
   <kbd>
-    <img src="https://api.dicebear.com/6.x/pixel-art/svg?seed=Snowball&scale=175&rotate=80&backgroundRotation=0,360,240,210&randomizeIds=true&backgroundColor=A5EBFF,FFF9E9,C7FFCA,ffd5dc,72C0AE&radius=6" alt="avatar" width="88" />
+    <img src="https://api.dicebear.com/6.x/pixel-art/svg?seed=Snowball&scale=175&rotate=80&backgroundRotation=0,360,240,210&randomizeIds=true&backgroundColor=A5EBFF,FFF9E9,C7FFCA,ffd5dc,72C0AE&radius=6&mood[]" alt="avatar" width="88" />
   </kbd>
 
   <kbd>
-    <img src="https://api.dicebear.com/6.x/pixel-art/svg?seed=Midnight&scale=160&rotate=40&backgroundRotation=0,360,240,210&randomizeIds=true&backgroundColor=A5EBFF,FFF9E9,C7FFCA,ffd5dc,72C0AE&radius=6" alt="avatar" width="88" />
+    <img src="https://api.dicebear.com/6.x/pixel-art/svg?seed=Midnight&scale=160&rotate=40&backgroundRotation=0,360,240,210&randomizeIds=true&backgroundColor=A5EBFF,FFF9E9,C7FFCA,ffd5dc,72C0AE&radius=6&mood[]" alt="avatar" width="88" />
   </kbd>
 
   <kbd>
-    <img src="https://api.dicebear.com/6.x/pixel-art/svg?seed=Luna&scale=160&rotate=200&backgroundRotation=0,360,240,210&randomizeIds=true&backgroundColor=A5EBFF,FFF9E9,C7FFCA,ffd5dc,72C0AE&radius=6" alt="avatar" width="88" />
+    <img src="https://api.dicebear.com/6.x/pixel-art/svg?seed=Luna&scale=160&rotate=200&backgroundRotation=0,360,240,210&randomizeIds=true&backgroundColor=A5EBFF,FFF9E9,C7FFCA,ffd5dc,72C0AE&radius=6&mood[]" alt="avatar" width="88" />
   </kbd>
 
   <kbd>
-      <img src="https://api.dicebear.com/6.x/pixel-art/svg?seed=Boo&scale=160&rotate=45&backgroundType=gradientLinear&backgroundRotation=0,360,240,210&randomizeIds=true&backgroundColor=A5EBFF,FFF9E9,C7FFCA,ffd5dc,72C0AE&radius=6" alt="avatar" width="88" />
+      <img src="https://api.dicebear.com/6.x/pixel-art/svg?seed=Boo&scale=160&rotate=45&backgroundType=gradientLinear&backgroundRotation=0,360,240,210&randomizeIds=true&backgroundColor=A5EBFF,FFF9E9,C7FFCA,ffd5dc,72C0AE&radius=6&mood[]" alt="avatar" width="88" />
   </kbd>
 
   <kbd>
