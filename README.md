@@ -1,23 +1,21 @@
-
-
-  <kbd>
-    <img src="https://avatars.dicebear.com/api/pixel-art/s1.svg?background=%23898133&mood[]=sad&mood[]=happy)&radius=6" alt="avatar" width="88" />
-  </kbd>
-  <kbd>
-    <img src="https://avatars.dicebear.com/api/pixel-art/s2.svg?background=%23898133&mood[]=sad&mood[]=happy)&radius=6" alt="avatar" width="88" />
-  </kbd>
-  <kbd>
-    <img src="https://avatars.dicebear.com/api/pixel-art/s564120.svg?background=%23898133&mood[]=sad&mood[]=happy)&radius=6" alt="avatar" width="88" />
-  </kbd>
-  <kbd>
-    <img src="https://avatars.dicebear.com/api/pixel-art/s5545360.svg?background=%23898133&mood[]=sad&mood[]=happy)&radius=6" alt="avatar" width="88" />
-  </kbd>
-  
+![](https://api.dicebear.com/6.x/pixel-art-neutral/svg?seed=A&backgroundColor=b6e3f4&scale=120&rotate=30&radius=6&size=120)
+![](https://api.dicebear.com/6.x/pixel-art-neutral/svg?seed=B&backgroundColor=c0aede&scale=160&rotate=125&radius=6&size=120)
+![](https://api.dicebear.com/6.x/pixel-art-neutral/svg?seed=C&backgroundColor=DEB664&scale=110&rotate=55&radius=6&size=120)
+![](https://api.dicebear.com/6.x/pixel-art-neutral/svg?seed=D&backgroundColor=64C9DE&scale=145&rotate=180&radius=6&size=120)
+![](https://api.dicebear.com/6.x/pixel-art-neutral/svg?seed=E&backgroundColor=A77762&scale=125&rotate=325&radius=6&size=120)
+![](https://api.dicebear.com/6.x/pixel-art-neutral/svg?seed=F&backgroundColor=b6e3f4&scale=120&rotate=30&radius=6&size=120)
+![](https://api.dicebear.com/6.x/pixel-art-neutral/svg?seed=G&backgroundColor=32E97C&scale=160&rotate=125&radius=6&size=120)  <br/>
+![](https://api.dicebear.com/6.x/pixel-art-neutral/svg?seed=H&backgroundColor=B72225&scale=110&rotate=55&radius=6&size=120)
+![](https://api.dicebear.com/6.x/pixel-art-neutral/svg?seed=I&backgroundColor=64C9DE&scale=145&rotate=180&radius=6&size=120)
+![](https://api.dicebear.com/6.x/pixel-art-neutral/svg?seed=J&backgroundColor=22B7B4&scale=125&rotate=325&radius=6&size=120)
+![](https://api.dicebear.com/6.x/pixel-art-neutral/svg?seed=I&backgroundColor=381FF1&scale=145&rotate=180&radius=6&size=120)
+![](https://api.dicebear.com/6.x/pixel-art-neutral/svg?seed=J&backgroundColor=D8F11F&scale=125&rotate=325&radius=6&size=120)
+![](https://api.dicebear.com/6.x/pixel-art-neutral/svg?seed=I&backgroundColor=F4B518&scale=145&rotate=180&radius=6&size=120)
+![](https://api.dicebear.com/6.x/pixel-art-neutral/svg?seed=J&backgroundColor=FDF151&scale=125&rotate=325&radius=6&size=120)
 ## Materials 常用素材
   將一些素材整合成圖床，方便寫文章或者文章使用時使用。
-
+  
 ### 素材類型
-
  + [3Ds][1]
  + [Web Design System][2]
  + [Font Styles][3] 
@@ -37,7 +35,7 @@
 ### 線上圖床，使用 PicGo 上傳
   
   <kbd>
-    <img src="https://api.dicebear.com/6.x/pixel-art/svg?seed=Cleo&scale=160&rotate=60&backgroundType=gradientLinear&backgroundRotation=0,360,240,210&randomizeIds=true&backgroundColor=c0aede,d1d4f9,ffdfbf,ffd5dc,transparent,b6e3f4&radius=6" alt="avatar" width="88" />
+    <img src="https://api.dicebear.com/6.x/pixel-art/s1.svg?scale=160&rotate=60&backgroundType=gradientLinear&backgroundRotation=0,360,240,210&backgroundColor=c0aede,d1d4f9,ffdfbf,ffd5dc,transparent,b6e3f4&radius=6" alt="avatar" width="88" />
   </kbd>
 
   <kbd>
@@ -45,7 +43,7 @@
   </kbd>
 
   <kbd>
-    <img src="https://api.dicebear.com/6.x/pixel-art/svg?seed=Midnight&scale=160&rotate=40&backgroundRotation=0,360,240,210&randomizeIds=true&backgroundColor=A5EBFF,FFF9E9,C7FFCA,ffd5dc,72C0AE&radius=6&mood[]" alt="avatar" width="88" />
+    <img src="https://api.dicebear.com/6.x/pixel-art/svg?&scale=160&rotate=40&backgroundRotation=0,360,240,210&randomizeIds=true&backgroundColor=A5EBFF,FFF9E9,C7FFCA,ffd5dc,72C0AE&radius=6&mood[]" alt="avatar" width="88" />
   </kbd>
 
   <kbd>
