@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="calendar-arrow-left" transform="translate(10067.059 650.195)">
+    <rect id="Rectangle_151797" data-name="Rectangle 151797" width="24" height="24" transform="translate(-10067.059 -650.195)" fill="#fff"/>
+    <path id="calendar-arrow-left-2" data-name="calendar-arrow-left" d="M17,2H15V4H9V2H7V4H3v8H5V10H19V20H11v2H21V4H17Zm2,6H5V6H19Zm-6,8H7V14H9V12H7v2H5v2H3v2H5v2H7v2H9V20H7V18h6Z" transform="translate(-10067.059 -650.195)"/>
+  </g>
+</svg>
