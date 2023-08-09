@@ -13,7 +13,7 @@
 </kbd>
 
 <kbd>
-  <img src="https://api.dicebear.com/6.x/avataaars-neutral/svg?seed=Missy&radius=6" alt="avatar" width="88" />
+  <img src="https://api.dicebear.com/6.x/avataaars-neutral/svg?seed=Max&radius=6" alt="avatar" width="88" />
 </kbd>
 
 <kbd>
