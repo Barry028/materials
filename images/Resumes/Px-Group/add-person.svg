@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="add-person" transform="translate(9983.059 1434.195)">
+    <rect id="Rectangle_152368" data-name="Rectangle 152368" width="24" height="24" transform="translate(-9983.059 -1434.195)" fill="#fff"/>
+    <g id="Add_Person" transform="translate(-9983.059 -1434.195)">
+      <path id="Path_4370" data-name="Path 4370" d="M6,12H7v1h6V12h1V11h1V5H14V4H13V3H7V4H6V5H5v6H6ZM7,7H8V6H9V5h2V6h1V7h1V9H12v1H11v1H9V10H8V9H7Z"/>
+      <path id="Path_4371" data-name="Path 4371" d="M17,15H16V14H4v1H3v1H2v5H4V18H5V17H6V16h8v1h1v1h1v3h2V16H17Z"/>
+      <path id="Path_4372" data-name="Path 4372" d="M20,7V5H18V7H16V9h2v2h2V9h2V7Z"/>
+    </g>
+  </g>
+</svg>
