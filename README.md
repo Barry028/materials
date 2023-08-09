@@ -24,7 +24,7 @@
 ### 線上圖床，使用 PicGo 上傳
   
   <kbd>
-    <img src="https://api.dicebear.com/6.x/pixel-art/svg?seed=Cleo&scale=160&rotate=60&backgroundType=g radientLinear&backgroundRotation=0,360,240,210&randomizeIds=true&backgroundColor=c0aede,d1d4f9,ffdfbf,ffd5dc,transparent,b6e3f4&radius=6" alt="avatar" width="88" />
+    <img src="https://api.dicebear.com/6.x/pixel-art/svg?seed=Cleo&scale=160&rotate=60&backgroundType=gradientLinear&backgroundRotation=0,360,240,210&randomizeIds=true&backgroundColor=c0aede,d1d4f9,ffdfbf,ffd5dc,transparent,b6e3f4&radius=6" alt="avatar" width="88" />
   </kbd>
 
   <kbd>
