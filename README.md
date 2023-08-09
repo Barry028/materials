@@ -17,7 +17,7 @@
   [2]: images/Animations     "Animations"
   [3]: images/FontStyles     "Font Styles"
   [4]: images/iCons          "iCons"
-  [5: images/Illustrations  "Illustrations"
+  [5]: images/Illustrations  "Illustrations"
   [6]: images/Ux-meme        "Ux-meme"
 
   
