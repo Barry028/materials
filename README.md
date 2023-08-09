@@ -1,6 +1,27 @@
 # Materials
 
 
+<kbd>
+  <img src="https://api.dicebear.com/6.x/pixel-art/svg?seed=Cleo&radius=6" alt="avatar" width="88" />
+</kbd>
+
+<kbd>
+  <img src="https://api.dicebear.com/6.x/pixel-art/svg?seed=Snowball&radius=6" alt="avatar" width="88" />
+</kbd>
+
+<kbd>
+  <img src="https://api.dicebear.com/6.x/pixel-art/svg?seed=Midnight&radius=6" alt="avatar" width="88" />
+</kbd>
+
+<kbd>
+  <img src="https://api.dicebear.com/6.x/pixel-art/svg?seed=Luna&radius=6" alt="avatar" width="88" />
+</kbd>
+
+<kbd>
+  <img src="https://api.dicebear.com/6.x/pixel-art/svg?seed=Boo&radius=6" alt="avatar" width="88" />
+</kbd>
+
+
   <kbd>
     <img src="https://api.dicebear.com/6.x/bottts/svg?seed=Mittens&radius=6" alt="avatar" width="88" />
   </kbd>
