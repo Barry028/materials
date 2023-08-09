@@ -4,11 +4,12 @@
   
 ### 素材類型
  + [3Ds][1]
- + [Web Design System][2]
+ + [Animations][2]
+ + [Web Design System][6]
  + [Font Styles][3] 
  + [iCons][4]
  + [Illustrations][5]
- + [MeMe 梗圖][6]
+ + [MeMe 梗圖][7]
 
   [1]: images/3Ds            "3Ds"
   [2]: images/Animations     "Animations"
@@ -16,11 +17,17 @@
   [4]: images/iCons          "iCons"
   [5]: images/Illustrations  "Illustrations"
   [6]: images/Ux-meme        "Ux-meme"
+  [7]: images/Ux-meme        "Ux-meme"
 
   
 ### 線上圖床，使用 PicGo 上傳
-  上傳檔案只有 SVG、PNG、JPG 或者 WEBP
-  可以透過 Git 下載或者 直接使用網址來引入或下載。
+  上傳檔案只有 SVG、PNG、JPG 或者 WEBP。
+  可以透過 Git 下載整包 或 直接透過網址來引入或下載。
+
+  
+
+
+
 
 
 
@@ -92,18 +99,6 @@
 <kbd>
 <img src="https://api.dicebear.com/6.x/avataaars-neutral/svg?seed=Abby&radius=6" alt="avatar" width="88" />
 </kbd>
-
-
-
-
-
-
-
-
-
-
-
-
 
 ![](https://api.dicebear.com/6.x/pixel-art-neutral/svg?seed=A&backgroundColor=b6e3f4&scale=120&rotate=30&radius=6&size=120)
 ![](https://api.dicebear.com/6.x/pixel-art-neutral/svg?seed=B&backgroundColor=c0aede&scale=160&rotate=125&radius=6&size=120)
