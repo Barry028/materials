@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="wall" transform="translate(10179.059 510.195)">
+    <rect id="Rectangle_151762" data-name="Rectangle 151762" width="24" height="24" transform="translate(-10179.059 -510.195)" fill="#fff"/>
+    <path id="wall-2" data-name="wall" d="M19,20H4V15H1V7H4V2H19V7h2v8H19ZM12,7V4H6V7Zm5,0V4H14V7ZM8,13V9H3v4Zm11,0V9H10v4Zm-8,5V15H6v3Zm6,0V15H13v3Z" transform="translate(-10178.059 -509.195)"/>
+  </g>
+</svg>
