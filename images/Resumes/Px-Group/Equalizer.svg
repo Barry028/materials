@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Equalizer" transform="translate(10067.059 1378.195)">
+    <rect id="Rectangle_152336" data-name="Rectangle 152336" width="24" height="24" transform="translate(-10067.059 -1378.195)" fill="#fff"/>
+    <g id="Equalizer-2" data-name="Equalizer" transform="translate(-10067.059 -1378.195)">
+      <path id="Path_4434" data-name="Path 4434" d="M13,2H11V5h2Z"/>
+      <path id="Path_4435" data-name="Path 4435" d="M6,2H4V9H6Z"/>
+      <path id="Path_4436" data-name="Path 4436" d="M13,8V7H11V8H9v2h2v1h2V10h2V8Z"/>
+      <path id="Path_4437" data-name="Path 4437" d="M6,12V11H4v1H2v2H4v1H6V14H8V12Z"/>
+      <path id="Path_4438" data-name="Path 4438" d="M13,13H11v9h2Z"/>
+      <path id="Path_4439" data-name="Path 4439" d="M6,17H4v5H6Z"/>
+      <path id="Path_4440" data-name="Path 4440" d="M20,19H18v3h2Z"/>
+      <path id="Path_4441" data-name="Path 4441" d="M20,2H18v9h2Z"/>
+      <path id="Path_4442" data-name="Path 4442" d="M20,14V13H18v1H16v2h2v1h2V16h2V14Z"/>
+    </g>
+  </g>
+</svg>
