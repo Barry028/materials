@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="figma" transform="translate(9899.059 1462.195)">
+    <rect id="Rectangle_152389" data-name="Rectangle 152389" width="24" height="24" transform="translate(-9899.059 -1462.195)" fill="#fff"/>
+    <g id="Figma-2" data-name="Figma" transform="translate(-9909.059 -1466.195)">
+      <path id="Path_4258" data-name="Path 4258" d="M31,6V8H27v4h4v2H27v4h4v2H27v4H25V20H21V18h4V14H21V12h4V8H21V6Z" transform="translate(-4 0)"/>
+      <path id="Path_4259" data-name="Path 4259" d="M17,12v4H15V12Z" transform="translate(0 -4)"/>
+      <path id="Path_4260" data-name="Path 4260" d="M17,30v4H15V30Z" transform="translate(0 -16)"/>
+      <path id="Path_4261" data-name="Path 4261" d="M17,52V48H15v4Zm0,0h4v2H17Z" transform="translate(0 -28)" fill-rule="evenodd"/>
+      <path id="Path_4262" data-name="Path 4262" d="M51,34h2V30H51Z" transform="translate(-24 -16)"/>
+      <path id="Path_4263" data-name="Path 4263" d="M51,16V12h2v4Z" transform="translate(-24 -4)"/>
+    </g>
+  </g>
+</svg>
