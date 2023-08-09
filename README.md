@@ -2,7 +2,7 @@
 
 
 <kbd>
-  <img src="https://api.dicebear.com/6.x/pixel-art/svg?seed=Cleo&backgroundRotation=0,360,240,210&randomizeIds=true&backgroundColor=A5EBFF,FFF9E9,C7FFCA,ffd5dc,72C0AE&radius=6" alt="avatar" width="88" />
+  <img src="https://api.dicebear.com/6.x/pixel-art/svg?seed=Cleo&backgroundType=gradientLinear&backgroundRotation=0,360,240,210&randomizeIds=true&backgroundColor=c0aede,d1d4f9,ffdfbf,ffd5dc,transparent,b6e3f4&radius=6" alt="avatar" width="88" />
 </kbd>
 
 <kbd>
@@ -18,7 +18,7 @@
 </kbd>
 
 <kbd>
-  <img src="https://api.dicebear.com/6.x/pixel-art/svg?seed=Boo&backgroundRotation=0,360,240,210&randomizeIds=true&backgroundColor=A5EBFF,FFF9E9,C7FFCA,ffd5dc,72C0AE&radius=6" alt="avatar" width="88" />
+  <img src="https://api.dicebear.com/6.x/pixel-art/svg?seed=Boo&&backgroundType=gradientLinear&backgroundRotation=0,360,240,210&randomizeIds=true&backgroundColor=A5EBFF,FFF9E9,C7FFCA,ffd5dc,72C0AE&radius=6" alt="avatar" width="88" />
 </kbd>
 
 
