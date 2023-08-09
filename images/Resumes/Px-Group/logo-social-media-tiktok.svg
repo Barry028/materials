@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_330" data-name="Rectangle 330" width="20" height="20"/>
+    </clipPath>
+  </defs>
+  <g id="logo-social-media-tiktok" transform="translate(10291.059 1182.195)">
+    <rect id="Rectangle_152221" data-name="Rectangle 152221" width="24" height="24" transform="translate(-10291.059 -1182.195)" fill="#fff"/>
+    <g id="logo-social-media-tiktok-33" transform="translate(-10289.059 -1180.195)" clip-path="url(#clip-path)">
+      <path id="Path_6327" data-name="Path 6327" d="M46.661,4.575h-.956V20.762h.956Z" transform="translate(-26.661 -2.669)"/>
+      <path id="Path_6328" data-name="Path 6328" d="M44.375,43.425h-.95v.956h.95Z" transform="translate(-25.331 -25.331)"/>
+      <path id="Path_6329" data-name="Path 6329" d="M44.375,2.28h-.95v.956h.95Z" transform="translate(-25.331 -1.33)"/>
+      <path id="Path_6330" data-name="Path 6330" d="M20.754,45.72H4.56v.95H20.754Z" transform="translate(-2.66 -26.67)"/>
+      <path id="Path_6331" data-name="Path 6331" d="M19.8,8.381H17.9v.956h-.956V8.381h-.95v-.95h-.95V6.475h.95v-.95h-.95v-.95H13.135v.95h-.956V16.956h-.95v.95H9.323v-.95h-.95V13.144h.95v-.95h.956V9.337H7.416v.95h-.95v.95h-.95v.956H4.56v4.762h.956V13.144h.95v-.95h.95v-.956h.956v.956H7.416v.95h-.95v3.813h-.95v1.9h.95v-.95h.95v.95h.956v.956H7.416v.95h5.719v-.95h.95v-.956h.956v-.95h.95V11.237h.95v.956H19.8v-.956h.956v-1.9H19.8Zm-4.756,8.575h-.956V10.287h.956Z" transform="translate(-2.66 -2.669)"/>
+      <path id="Path_6332" data-name="Path 6332" d="M35.231,11.43h-.956v.95h.956Z" transform="translate(-19.994 -6.668)"/>
+      <path id="Path_6333" data-name="Path 6333" d="M32.945,9.135h-.95v.956h.95Z" transform="translate(-18.664 -5.329)"/>
+      <path id="Path_6334" data-name="Path 6334" d="M10.085,38.85h-.95v.956h.95Z" transform="translate(-5.329 -22.662)"/>
+      <path id="Path_6335" data-name="Path 6335" d="M20.754,0H4.56V.95H20.754Z" transform="translate(-2.66)"/>
+      <path id="Path_6336" data-name="Path 6336" d="M3.23,43.425H2.28v.956h.95Z" transform="translate(-1.33 -25.331)"/>
+      <path id="Path_6337" data-name="Path 6337" d="M3.23,2.28H2.28v.956h.95Z" transform="translate(-1.33 -1.33)"/>
+      <path id="Path_6338" data-name="Path 6338" d="M.95,4.575H0V20.762H.95Z" transform="translate(0 -2.669)"/>
+    </g>
+  </g>
+</svg>
