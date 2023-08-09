@@ -8,8 +8,6 @@
   - Illustrations
   - MeMe 梗圖
 
-
-
     <kbd>
       <img src="https://api.dicebear.com/6.x/pixel-art/svg?seed=Cleo&backgroundType=gradientLinear&backgroundRotation=0,360,240,210&randomizeIds=true&backgroundColor=c0aede,d1d4f9,ffdfbf,ffd5dc,transparent,b6e3f4&radius=6" alt="avatar" width="88" />
     </kbd>
