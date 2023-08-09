@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="interface-essential-hierarchy" transform="translate(10067.059 1210.195)">
+    <rect id="Rectangle_152206" data-name="Rectangle 152206" width="24" height="24" transform="translate(-10067.059 -1210.195)" fill="#fff"/>
+    <g id="interface-essential-hierarchy-2-44" transform="translate(-10065.059 -1210.194)">
+      <path id="Path_6047" data-name="Path 6047" d="M46.661,35.423h-.956v2.856h.956Z" transform="translate(-26.661 -18.664)"/>
+      <path id="Path_6048" data-name="Path 6048" d="M41.706,42.278H38.85v.956h2.856Z" transform="translate(-22.662 -22.663)"/>
+      <path id="Path_6049" data-name="Path 6049" d="M41.706,30.094v-.95h-.95V26.288H39.8v2.856h-.95v.95Z" transform="translate(-22.662 -13.335)"/>
+      <path id="Path_6050" data-name="Path 6050" d="M39.8,23.993h-.95v.956h.95Z" transform="translate(-22.662 -11.996)"/>
+      <path id="Path_6051" data-name="Path 6051" d="M37.52,35.423h-.95v2.856h.95Z" transform="translate(-21.333 -18.664)"/>
+      <path id="Path_6052" data-name="Path 6052" d="M15.8,16.375V13.519h.95v-.956H13.9v.956h.95v2.856H9.135v.95h5.713v3.813H13.9v.95h2.856v-.95H15.8V17.325h5.712v-.95Z" transform="translate(-5.329 -5.329)"/>
+      <path id="Path_6053" data-name="Path 6053" d="M28.37,35.423h-.95v2.856h.95Z" transform="translate(-15.995 -18.664)"/>
+      <path id="Path_6054" data-name="Path 6054" d="M28.37,5.708h-.95V8.564h.95Z" transform="translate(-15.995 -1.33)"/>
+      <path id="Path_6055" data-name="Path 6055" d="M23.421,42.278H20.565v.956h2.856Z" transform="translate(-11.996 -22.663)"/>
+      <path id="Path_6056" data-name="Path 6056" d="M23.421,3.427H20.565v.95h2.856Z" transform="translate(-11.996)"/>
+      <path id="Path_6057" data-name="Path 6057" d="M19.235,35.423h-.95v2.856h.95Z" transform="translate(-10.666 -18.664)"/>
+      <path id="Path_6058" data-name="Path 6058" d="M19.235,5.708h-.95V8.564h.95Z" transform="translate(-10.666 -1.33)"/>
+      <path id="Path_6059" data-name="Path 6059" d="M10.085,35.423h-.95v2.856h.95Z" transform="translate(-5.329 -18.664)"/>
+      <path id="Path_6060" data-name="Path 6060" d="M7.805,23.993h-.95v.956h.95Z" transform="translate(-3.999 -11.996)"/>
+      <path id="Path_6061" data-name="Path 6061" d="M5.136,42.278H2.28v.956H5.136Z" transform="translate(-1.33 -22.663)"/>
+      <path id="Path_6062" data-name="Path 6062" d="M3.23,29.144H2.28v.95H5.136v-.95h-.95V26.288H3.23Z" transform="translate(-1.33 -13.335)"/>
+      <path id="Path_6063" data-name="Path 6063" d="M.95,35.423H0v2.856H.95Z" transform="translate(0 -18.664)"/>
+    </g>
+  </g>
+</svg>
