@@ -1,17 +1,4 @@
-![](https://api.dicebear.com/6.x/pixel-art-neutral/svg?seed=A&backgroundColor=b6e3f4&scale=120&rotate=30&radius=6&size=120)
-![](https://api.dicebear.com/6.x/pixel-art-neutral/svg?seed=B&backgroundColor=c0aede&scale=160&rotate=125&radius=6&size=120)
-![](https://api.dicebear.com/6.x/pixel-art-neutral/svg?seed=C&backgroundColor=DEB664&scale=110&rotate=55&radius=6&size=120)
-![](https://api.dicebear.com/6.x/pixel-art-neutral/svg?seed=D&backgroundColor=64C9DE&scale=145&rotate=180&radius=6&size=120)
-![](https://api.dicebear.com/6.x/pixel-art-neutral/svg?seed=E&backgroundColor=A77762&scale=125&rotate=325&radius=6&size=120)
-![](https://api.dicebear.com/6.x/pixel-art-neutral/svg?seed=F&backgroundColor=b6e3f4&scale=120&rotate=30&radius=6&size=120)
-![](https://api.dicebear.com/6.x/pixel-art-neutral/svg?seed=G&backgroundColor=32E97C&scale=160&rotate=125&radius=6&size=120)  <br/>
-![](https://api.dicebear.com/6.x/pixel-art-neutral/svg?seed=H&backgroundColor=B72225&scale=110&rotate=55&radius=6&size=120)
-![](https://api.dicebear.com/6.x/pixel-art-neutral/svg?seed=I&backgroundColor=64C9DE&scale=145&rotate=180&radius=6&size=120)
-![](https://api.dicebear.com/6.x/pixel-art-neutral/svg?seed=J&backgroundColor=22B7B4&scale=125&rotate=325&radius=6&size=120)
-![](https://api.dicebear.com/6.x/pixel-art-neutral/svg?seed=I&backgroundColor=381FF1&scale=145&rotate=180&radius=6&size=120)
-![](https://api.dicebear.com/6.x/pixel-art-neutral/svg?seed=J&backgroundColor=D8F11F&scale=125&rotate=325&radius=6&size=120)
-![](https://api.dicebear.com/6.x/pixel-art-neutral/svg?seed=I&backgroundColor=F4B518&scale=145&rotate=180&radius=6&size=120)
-![](https://api.dicebear.com/6.x/pixel-art-neutral/svg?seed=J&backgroundColor=FDF151&scale=125&rotate=325&radius=6&size=120)
+
 ## Materials 常用素材
   將一些素材整合成圖床，方便寫文章或者文章使用時使用。
   
@@ -102,3 +89,29 @@
     <img src="https://api.dicebear.com/6.x/avataaars-neutral/svg?seed=Abby&radius=6" alt="avatar" width="88" />
   </kbd>
 
+
+
+
+
+
+
+
+
+
+
+
+
+![](https://api.dicebear.com/6.x/pixel-art-neutral/svg?seed=A&backgroundColor=b6e3f4&scale=120&rotate=30&radius=6&size=120)
+![](https://api.dicebear.com/6.x/pixel-art-neutral/svg?seed=B&backgroundColor=c0aede&scale=160&rotate=125&radius=6&size=120)
+![](https://api.dicebear.com/6.x/pixel-art-neutral/svg?seed=C&backgroundColor=DEB664&scale=110&rotate=55&radius=6&size=120)
+![](https://api.dicebear.com/6.x/pixel-art-neutral/svg?seed=D&backgroundColor=64C9DE&scale=145&rotate=180&radius=6&size=120)
+![](https://api.dicebear.com/6.x/pixel-art-neutral/svg?seed=E&backgroundColor=A77762&scale=125&rotate=325&radius=6&size=120)
+![](https://api.dicebear.com/6.x/pixel-art-neutral/svg?seed=F&backgroundColor=b6e3f4&scale=120&rotate=30&radius=6&size=120)
+![](https://api.dicebear.com/6.x/pixel-art-neutral/svg?seed=G&backgroundColor=32E97C&scale=160&rotate=125&radius=6&size=120)  <br/>
+![](https://api.dicebear.com/6.x/pixel-art-neutral/svg?seed=H&backgroundColor=B72225&scale=110&rotate=55&radius=6&size=120)
+![](https://api.dicebear.com/6.x/pixel-art-neutral/svg?seed=I&backgroundColor=64C9DE&scale=145&rotate=180&radius=6&size=120)
+![](https://api.dicebear.com/6.x/pixel-art-neutral/svg?seed=J&backgroundColor=22B7B4&scale=125&rotate=325&radius=6&size=120)
+![](https://api.dicebear.com/6.x/pixel-art-neutral/svg?seed=I&backgroundColor=381FF1&scale=145&rotate=180&radius=6&size=120)
+![](https://api.dicebear.com/6.x/pixel-art-neutral/svg?seed=J&backgroundColor=D8F11F&scale=125&rotate=325&radius=6&size=120)
+![](https://api.dicebear.com/6.x/pixel-art-neutral/svg?seed=I&backgroundColor=F4B518&scale=145&rotate=180&radius=6&size=120)
+![](https://api.dicebear.com/6.x/pixel-art-neutral/svg?seed=J&backgroundColor=FDF151&scale=125&rotate=325&radius=6&size=120)
