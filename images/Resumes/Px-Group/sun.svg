@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="sun" transform="translate(9955.059 1462.195)">
+    <rect id="Rectangle_152388" data-name="Rectangle 152388" width="24" height="24" transform="translate(-9955.059 -1462.195)" fill="#fff"/>
+    <g id="Sun-2" data-name="Sun" transform="translate(-9962.059 -1469.922)">
+      <path id="Path_4243" data-name="Path 4243" d="M35.222,9.727H33V11.95h2.222Z" transform="translate(-15.111)"/>
+      <path id="Path_4244" data-name="Path 4244" d="M51,15.727h2.222V17.95H51Z" transform="translate(-26.444 -3.778)"/>
+      <path id="Path_4245" data-name="Path 4245" d="M27,21.727h6.667V23.95H27Z" transform="translate(-11.333 -7.556)"/>
+      <path id="Path_4246" data-name="Path 4246" d="M23.222,34.394H21V27.727h2.222Z" transform="translate(-7.556 -11.333)"/>
+      <path id="Path_4247" data-name="Path 4247" d="M33.667,45.727V47.95H27V45.727Z" transform="translate(-11.333 -22.667)"/>
+      <path id="Path_4248" data-name="Path 4248" d="M45,34.394h2.222V27.727H45Z" transform="translate(-22.667 -11.333)"/>
+      <path id="Path_4249" data-name="Path 4249" d="M35.222,33.727H33V35.95h2.222Z" transform="translate(-15.111 -15.111)"/>
+      <path id="Path_4250" data-name="Path 4250" d="M15,15.727h2.222V17.95H15Z" transform="translate(-3.778 -3.778)"/>
+      <path id="Path_4251" data-name="Path 4251" d="M11.222,33.727H9V35.95h2.222Z" transform="translate(0 -15.111)"/>
+      <path id="Path_4252" data-name="Path 4252" d="M15,51.727h2.222V53.95H15Z" transform="translate(-3.778 -26.444)"/>
+      <path id="Path_4253" data-name="Path 4253" d="M35.222,57.727H33V59.95h2.222Z" transform="translate(-15.111 -30.222)"/>
+      <path id="Path_4254" data-name="Path 4254" d="M51,51.727h2.222V53.95H51Z" transform="translate(-26.444 -26.444)"/>
+      <path id="Path_4255" data-name="Path 4255" d="M59.222,33.727H57V35.95h2.222Z" transform="translate(-30.222 -15.111)"/>
+    </g>
+  </g>
+</svg>
