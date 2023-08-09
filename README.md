@@ -20,17 +20,11 @@
 
   
 ### 線上圖床，使用 PicGo 上傳
-  可以透過 Git 下載或者 直接使用網址來引入或下載
-
-
-    
+  可以透過 Git 下載或者 直接使用網址來引入或下載。
 
 
 
-
-
-
-
+---
 <kbd>
 <img src="https://api.dicebear.com/6.x/pixel-art/svg?scale=160&rotate=60&backgroundType=gradientLinear&backgroundRotation=0,360,240,210&backgroundColor=c0aede,d1d4f9,ffdfbf,ffd5dc,transparent,b6e3f4&radius=6" alt="avatar" width="88" />
 </kbd>
