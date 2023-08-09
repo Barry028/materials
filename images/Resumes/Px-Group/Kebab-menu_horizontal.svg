@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Kebab-menu_horizontal" transform="translate(10263.059 1350.195)">
+    <rect id="Rectangle_152323" data-name="Rectangle 152323" width="24" height="24" transform="translate(-10263.059 -1350.195)" fill="#fff"/>
+    <g id="Kebab_Menu_Horizontal" transform="translate(-10263.059 -1350.195)">
+      <path id="Path_4459" data-name="Path 4459" d="M7,10H5v1H4v2H5v1H7V13H8V11H7Z"/>
+      <path id="Path_4460" data-name="Path 4460" d="M13,10H11v1H10v2h1v1h2V13h1V11H13Z"/>
+      <path id="Path_4461" data-name="Path 4461" d="M19,11V10H17v1H16v2h1v1h2V13h1V11Z"/>
+    </g>
+  </g>
+</svg>
