@@ -2,23 +2,23 @@
 
 
 <kbd>
-  <img src="https://api.dicebear.com/6.x/pixel-art/svg?seed=Cleo&radius=6" alt="avatar" width="88" />
+  <img src="https://api.dicebear.com/6.x/pixel-art/svg?seed=Cleo&backgroundRotation=0,360,240,210&randomizeIds=true&backgroundColor=A5EBFF,FFF9E9,C7FFCA,ffd5dc,72C0AE&radius=6" alt="avatar" width="88" />
 </kbd>
 
 <kbd>
-  <img src="https://api.dicebear.com/6.x/pixel-art/svg?seed=Snowball&radius=6" alt="avatar" width="88" />
+  <img src="https://api.dicebear.com/6.x/pixel-art/svg?seed=Snowball&backgroundRotation=0,360,240,210&randomizeIds=true&backgroundColor=A5EBFF,FFF9E9,C7FFCA,ffd5dc,72C0AE&radius=6" alt="avatar" width="88" />
 </kbd>
 
 <kbd>
-  <img src="https://api.dicebear.com/6.x/pixel-art/svg?seed=Midnight&radius=6" alt="avatar" width="88" />
+  <img src="https://api.dicebear.com/6.x/pixel-art/svg?seed=Midnight&backgroundRotation=0,360,240,210&randomizeIds=true&backgroundColor=A5EBFF,FFF9E9,C7FFCA,ffd5dc,72C0AE&radius=6" alt="avatar" width="88" />
 </kbd>
 
 <kbd>
-  <img src="https://api.dicebear.com/6.x/pixel-art/svg?seed=Luna&radius=6" alt="avatar" width="88" />
+  <img src="https://api.dicebear.com/6.x/pixel-art/svg?seed=Luna&backgroundRotation=0,360,240,210&randomizeIds=true&backgroundColor=A5EBFF,FFF9E9,C7FFCA,ffd5dc,72C0AE&radius=6" alt="avatar" width="88" />
 </kbd>
 
 <kbd>
-  <img src="https://api.dicebear.com/6.x/pixel-art/svg?seed=Boo&radius=6" alt="avatar" width="88" />
+  <img src="https://api.dicebear.com/6.x/pixel-art/svg?seed=Boo&backgroundRotation=0,360,240,210&randomizeIds=true&backgroundColor=A5EBFF,FFF9E9,C7FFCA,ffd5dc,72C0AE&radius=6" alt="avatar" width="88" />
 </kbd>
 
 
