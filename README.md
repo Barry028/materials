@@ -31,6 +31,7 @@
     <kbd>
         <img src="https://api.dicebear.com/6.x/bottts/svg?seed=Mittens&radius=6" alt="avatar" width="88" />
     <kbd>
+      
     <kbd>
       <img src="https://api.dicebear.com/6.x/bottts/svg?seed=Oliver&radius=6" alt="avatar" width="88" />
     </kbd>
@@ -39,21 +40,21 @@
       <img src="https://api.dicebear.com/6.x/bottts/svg?seed=Kiki&radius=6" alt="avatar" width="88" />
     </kbd>
 
-  <kbd>
-    <img src="https://api.dicebear.com/6.x/bottts/svg?seed=Tinkerbell&radius=6" alt="avatar" width="88" />
-  </kbd>
+    <kbd>
+      <img src="https://api.dicebear.com/6.x/bottts/svg?seed=Tinkerbell&radius=6" alt="avatar" width="88" />
+    </kbd>
 
-  <kbd>
-    <img src="https://api.dicebear.com/6.x/bottts/svg?seed=Midnight&radius=6" alt="avatar" width="88" />
-  </kbd>
+    <kbd>
+      <img src="https://api.dicebear.com/6.x/bottts/svg?seed=Midnight&radius=6" alt="avatar" width="88" />
+    </kbd>
 
-  <kbd>
-    <img src="https://api.dicebear.com/6.x/bottts/svg?seed=George&radius=6" alt="avatar" width="88" />
-  </kbd>
+    <kbd>
+      <img src="https://api.dicebear.com/6.x/bottts/svg?seed=George&radius=6" alt="avatar" width="88" />
+    </kbd>
 
-  <kbd>
-    <img src="https://api.dicebear.com/6.x/bottts/svg?seed=Sassy&radius=6" alt="avatar" width="88" />
-  </kbd>
+    <kbd>
+      <img src="https://api.dicebear.com/6.x/bottts/svg?seed=Sassy&radius=6" alt="avatar" width="88" />
+    </kbd>
 
 
 
