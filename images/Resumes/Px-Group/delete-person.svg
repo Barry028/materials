@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="delete-person" transform="translate(10263.059 1378.195)">
+    <rect id="Rectangle_152329" data-name="Rectangle 152329" width="24" height="24" transform="translate(-10263.059 -1378.195)" fill="#fff"/>
+    <g id="Delete_Person" transform="translate(-10263.059 -1378.195)">
+      <path id="Path_4429" data-name="Path 4429" d="M6,12H7v1h6V12h1V11h1V5H14V4H13V3H7V4H6V5H5v6H6ZM7,7H8V6H9V5h2V6h1V7h1V9H12v1H11v1H9V10H8V9H7Z"/>
+      <path id="Path_4430" data-name="Path 4430" d="M17,15H16V14H4v1H3v1H2v5H4V18H5V17H6V16h8v1h1v1h1v3h2V16H17Z"/>
+      <path id="Path_4431" data-name="Path 4431" d="M22,7H16V9h6Z"/>
+    </g>
+  </g>
+</svg>
