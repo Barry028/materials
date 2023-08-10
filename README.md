@@ -32,11 +32,12 @@
    ```html
      <img src="https://cdn.jsdelivr.net/gh/Barry028/materials/images/Animations/BarrYUFO.svg"/>
    ```
-   ```
-    [ https://cdn.jsdelivr.net/gh/Barry028/materials/images/Animations/BarrYUFO.svg]      
-    (https://cdn.jsdelivr.net/gh/Barry028/materials/images/Animations/BarrYUFO.svg)
 
-    ```
+   ```
+     [https://cdn.jsdelivr.net/gh/Barry028/materials/images/Animations/BarrYUFO.svg]      
+     (https://cdn.jsdelivr.net/gh/Barry028/materials/images/Animations/BarrYUFO.svg)
+   ```
+  
   
 
 
