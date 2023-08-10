@@ -1,21 +1,19 @@
 {
   "picBed": {
-    "BarrY": {
-      "alias": "BarrY",
-      "token": "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",
+    "materials": {
+      "alias": "materials",
+      "token": "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",
       "githubUsername": "Barry028",
       "proxy": "",
       "paging": false,
-      "customUrl": "https://cdn.jsdelivr.net/gh/{username}/{repo}@{branch}/{path}",
+      "customUrl": "https://cdn.jsdelivr.net/gh/Barry028/materials/",
       "picBedName": "github"
     }
   },
   "settings": {
-    "pasteFormat": "markdown-with-link",
-    "downloadDir": "/Users/apple/download/dist",
-    "PreSignedExpire": 14400,
-    "isDownloadFileKeepDirStructure": true,
-    "isEncodeUrl": true
+    "downloadDir": "/Users/apple/Downloads/images",
+    "isShowThumbnail": true,
+    "isShowList": false
   },
   "currentPicBed": "placeholder"
 }
