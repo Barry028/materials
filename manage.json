@@ -12,7 +12,7 @@
   },
   "settings": {
     "pasteFormat": "markdown-with-link",
-    "downloadDir": "/Users/apple/Downloads/images",
+    "downloadDir": "/Users/apple/materials/dist",
     "PreSignedExpire": 14400,
     "isDownloadFileKeepDirStructure": true,
     "isEncodeUrl": true,
