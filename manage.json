@@ -2,11 +2,11 @@
   "picBed": {
     "materials": {
       "alias": "materials",
-      "token": "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",
+      "token": "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",
       "githubUsername": "Barry028",
       "proxy": "",
       "paging": false,
-      "customUrl": "https://cdn.jsdelivr.net/gh/Barry028/materials/",
+      "customUrl": "https://cdn.jsdelivr.net/gh/Barry028/materials",
       "picBedName": "github"
     }
   },
