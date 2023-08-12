@@ -29,14 +29,14 @@
       
       :link: **線上網址**：
 
-        http://cdn.jsdelivr.net/gh/ <big> `{UserName}` </big> / <big> `{Path}` </big> / <big> `{FileName}`  </big> /
+        http://cdn.jsdelivr.net/gh/ <big> `{UserName}` </big> / <big> `{Path}` </big> / <big> `{FileName}` </big>
 
         ![HTML5](https://cdn.jsdelivr.net/gh/Barry028/materials/dist/images/Html-windows.svg)
         
         ![MarkDown](https://cdn.jsdelivr.net/gh/Barry028/materials/images/MarkDown-windows.svg)
 
           
-        🖼️  <small> :speech_balloon: [以前做的圖床](https://codepen.io/barry199002/full/KKojxXX/13341a19a81088f2e3546004117a64e4) </small>
+        🖼️  <small> [以前做的圖床](https://codepen.io/barry199002/full/KKojxXX/13341a19a81088f2e3546004117a64e4) </small>
     
 
 <!--  
