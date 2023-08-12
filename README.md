@@ -1,17 +1,30 @@
                               
 ## :art: &nbsp; Materials 常用素材
-  將一些素材整合成圖床，方便寫文章或者文章使用時使用。
+  將一些素材整合成圖床         方便寫文章或者文章使用時使用。
 
 
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.dev/svgjs" viewBox="0 0 800 800" id="pppointed" width="100%" height="100%">
-  <g stroke-width="10" stroke="hsl(227, 71%, 57%)" fill="none" stroke-linecap="round" stroke-linejoin="round">
-  <path d="M250 250Q450 350 550 550 " marker-end="url(#SvgjsMarker1000)"></path>
+<svg xmlns=http://www.w3.org/2000/svg version=1.1 xmlns:xlink=http://www.w3.org/1999/xlink xmlns:svgjs=http://svgjs.dev/svgjs viewBox=0 0 800 800 id=pppointed width=100% height=100%>
+  <g stroke-width=10 stroke=hsl(227          71%          57%) fill=none stroke-linecap=round stroke-linejoin=round>
+  <path d=M250 250Q450 350 550 550  marker-end=url(#SvgjsMarker1000)></path>
   </g>
   <defs>
-    <marker markerWidth="5" markerHeight="5" refX="2.5" refY="2.5" viewBox="0 0 5 5" orient="auto" id="SvgjsMarker1000"><polygon points="0,5 1.6666666666666667,2.5 0,0 5,2.5" fill="hsl(227, 71%, 57%)"></polygon>
+    <marker markerWidth=5 markerHeight=5 refX=2.5 refY=2.5 viewBox=0 0 5 5 orient=auto id=SvgjsMarker1000><polygon points=0         5 1.6666666666666667         2.5 0         0 5         2.5 fill=hsl(227          71%          57%)></polygon>
     </marker>
   </defs>
 </svg>
+
+
+<img src="https://api.dicebear.com/6.x/pixel-art/svg?seed=INv1mh8&backgroundColor=0d177c&rotate=23&scale=68&radius=12&size=300" alt='avatar' />
+<img src="https://api.dicebear.com/6.x/pixel-art/svg?seed=0JIZq68&backgroundColor=c92486&rotate=293&scale=184&radius=12&size=300" alt='avatar' />         
+<img src="https://api.dicebear.com/6.x/pixel-art/svg?seed=rNRZDf8&backgroundColor=2e7725&rotate=98&scale=117&radius=12&size=300" alt='avatar' /> 
+<img src="https://api.dicebear.com/6.x/pixel-art/svg?seed=SFXw3a8&backgroundColor=b895f8&rotate=317&scale=116&radius=12&size=300" alt='avatar' />         <img src="https://api.dicebear.com/6.x/pixel-art/svg?seed=OSVEHF8&backgroundColor=3d0560&rotate=279&scale=182&radius=12&size=300" alt='avatar' />         <img src="https://api.dicebear.com/6.x/pixel-art/svg?seed=Tgl9sN8&backgroundColor=7dbb28&rotate=268&scale=132&radius=12&size=300" alt='avatar' /> 
+<img src="https://api.dicebear.com/6.x/pixel-art/svg?seed=ythK8n8&backgroundColor=e8be80&rotate=184&scale=178&radius=12&size=300" alt='avatar' />         <img src="https://api.dicebear.com/6.x/pixel-art/svg?seed=fsthid8&backgroundColor=f0db0a&rotate=119&scale=69&radius=12&size=300" alt='avatar' />         <img src="https://api.dicebear.com/6.x/pixel-art/svg?seed=VK9lFT8&backgroundColor=95a009&rotate=291&scale=80&radius=12&size=300" alt='avatar' /> 
+<img src="https://api.dicebear.com/6.x/pixel-art/svg?seed=5l92448&backgroundColor=5c6c9c&rotate=205&scale=169&radius=12&size=300" alt='avatar' />         <img src="https://api.dicebear.com/6.x/pixel-art/svg?seed=uXi3sl8&backgroundColor=2de90e&rotate=90&scale=136&radius=12&size=300" alt='avatar' />         <img src="https://api.dicebear.com/6.x/pixel-art/svg?seed=BT18TS8&backgroundColor=e1d3f5&rotate=12&scale=111&radius=12&size=300" alt='avatar' /> 
+<img src="https://api.dicebear.com/6.x/pixel-art/svg?seed=of8rmU8&backgroundColor=4de30c&rotate=181&scale=142&radius=12&size=300" alt='avatar' />         <img src="https://api.dicebear.com/6.x/pixel-art/svg?seed=INv1mh8&backgroundColor=0d177c&rotate=23&scale=68&radius=12&size=300" alt='avatar' />         <img src="https://api.dicebear.com/6.x/pixel-art/svg?seed=0JIZq68&backgroundColor=c92486&rotate=293&scale=184&radius=12&size=300" alt='avatar' />  
+<img src="https://api.dicebear.com/6.x/pixel-art/svg?seed=rNRZDf8&backgroundColor=2e7725&rotate=98&scale=117&radius=12&size=300" alt='avatar' />         <img src="https://api.dicebear.com/6.x/pixel-art/svg?seed=SFXw3a8&backgroundColor=b895f8&rotate=317&scale=116&radius=12&size=300" alt='avatar' />         <img src="https://api.dicebear.com/6.x/pixel-art/svg?seed=OSVEHF8&backgroundColor=3d0560&rotate=279&scale=182&radius=12&size=300" alt='avatar' />   
+<img src="https://api.dicebear.com/6.x/pixel-art/svg?seed=Tgl9sN8&backgroundColor=7dbb28&rotate=268&scale=132&radius=12&size=300" alt='avatar' />         <img src="https://api.dicebear.com/6.x/pixel-art/svg?seed=ythK8n8&backgroundColor=e8be80&rotate=184&scale=178&radius=12&size=300" alt='avatar' />         <img src="https://api.dicebear.com/6.x/pixel-art/svg?seed=fsthid8&backgroundColor=f0db0a&rotate=119&scale=69&radius=12&size=300" alt='avatar' />   
+<img src="https://api.dicebear.com/6.x/pixel-art/svg?seed=VK9lFT8&backgroundColor=95a009&rotate=291&scale=80&radius=12&size=300" alt='avatar' />         <img src="https://api.dicebear.com/6.x/pixel-art/svg?seed=5l92448&backgroundColor=5c6c9c&rotate=205&scale=169&radius=12&size=300" alt='avatar' />         <img src="https://api.dicebear.com/6.x/pixel-art/svg?seed=uXi3sl8&backgroundColor=2de90e&rotate=90&scale=136&radius=12&size=300" alt='avatar' />     
+<img src="https://api.dicebear.com/6.x/pixel-art/svg?seed=BT18TS8&backgroundColor=e1d3f5&rotate=12&scale=111&radius=12&size=300" alt='avatar' />         <img src="https://api.dicebear.com/6.x/pixel-art/svg?seed=of8rmU8&backgroundColor=4de30c&rotate=181&scale=142&radius=12&size=300" alt='avatar' />
 
 
   
@@ -26,18 +39,18 @@
    * [Web Design System][6]
    * [MeMe 梗圖][7]
   
-  [1]: images/3Ds            "3Ds"
-  [2]: images/Animations     "Animations"
-  [3]: images/FontStyles     "Font Styles"
-  [4]: images/iCons          "iCons"
-  [5]: images/Illustrations  "Illustrations"
-  [6]: images/DesignSystem   "Web Design System"
-  [7]: images/Ux-meme        "Ux-meme"
+  [1]: images/3Ds            3Ds
+  [2]: images/Animations     Animations
+  [3]: images/FontStyles     Font Styles
+  [4]: images/iCons          iCons
+  [5]: images/Illustrations  Illustrations
+  [6]: images/DesignSystem   Web Design System
+  [7]: images/Ux-meme        Ux-meme
 
   &nbsp;
 
 
-  ### :rocket: &nbsp; 線上圖床，使用 PicList 上傳
+  ### :rocket: &nbsp; 線上圖床         使用 PicList 上傳
   * 上傳檔案只有 SVG、PNG、JPG 或者 WEBP。
   * 可以透過 Git 下載整包 或 直接透過網址來引入下載。
 
@@ -47,17 +60,17 @@
   http://cdn.jsdelivr.net/gh/ <big> `{UserName}` </big> / <big> `{Path}` </big> / <big> `{FileName}` </big>
 
 
-  > ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  > ![HTML5]("https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   > 
-  > ![HTML5](https://cdn.jsdelivr.net/gh/Barry028/materials/dist/images/Html-windows.svg)
+  > ![HTML5]("https://cdn.jsdelivr.net/gh/Barry028/materials/dist/images/Html-windows.svg)
 
 
-  > ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+  > ![Markdown]("https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
   > 
-  > ![MarkDown](https://cdn.jsdelivr.net/gh/Barry028/materials/images/MarkDown-windows.svg)
+  > ![MarkDown]("https://cdn.jsdelivr.net/gh/Barry028/materials/images/MarkDown-windows.svg)
   
 
-  🖼️  <small> [以前做的圖床](https://codepen.io/barry199002/full/KKojxXX/13341a19a81088f2e3546004117a64e4) </small>
+  🖼️  <small> [以前做的圖床]("https://codepen.io/barry199002/full/KKojxXX/13341a19a81088f2e3546004117a64e4) </small>
     
 
 <!--  
@@ -183,96 +196,96 @@ top 🔝 :top:     top
 
 :money_
 <kbd>
-<img src="https://api.dicebear.com/6.x/pixel-art/svg?scale=160&rotate=60&backgroundType=gradientLinear&backgroundRotation=0,360,240,210&backgroundColor=c0aede,d1d4f9,ffdfbf,ffd5dc,transparent,b6e3f4&radius=6" alt="avatar" width="88" />
+<img src="https://api.dicebear.com/6.x/pixel-art/svg?scale=160&rotate=60&backgroundType=gradientLinear&backgroundRotation=0         360         240         210&backgroundColor=c0aede         d1d4f9         ffdfbf         ffd5dc         transparent         b6e3f4&radius=6 alt=avatar width=88 />
 </kbd>
 
 <kbd>
-<img src="https://api.dicebear.com/6.x/pixel-art/svg?seed=Snowball&scale=175&rotate=80&backgroundRotation=0,360,240,210&randomizeIds=true&backgroundColor=A5EBFF,FFF9E9,C7FFCA,ffd5dc,72C0AE&radius=6&mood[]" alt="avatar" width="88" />
+<img src="https://api.dicebear.com/6.x/pixel-art/svg?seed=Snowball&scale=175&rotate=80&backgroundRotation=0         360         240         210&randomizeIds=true&backgroundColor=A5EBFF         FFF9E9         C7FFCA         ffd5dc         72C0AE&radius=6&mood[] alt=avatar width=88 />
 </kbd>
 
 <kbd>
-<img src="https://api.dicebear.com/6.x/pixel-art/svg?&scale=160&rotate=40&backgroundRotation=0,360,240,210&randomizeIds=true&backgroundColor=A5EBFF,FFF9E9,C7FFCA,ffd5dc,72C0AE&radius=6&mood[]" alt="avatar" width="88" />
+<img src="https://api.dicebear.com/6.x/pixel-art/svg?&scale=160&rotate=40&backgroundRotation=0         360         240         210&randomizeIds=true&backgroundColor=A5EBFF         FFF9E9         C7FFCA         ffd5dc         72C0AE&radius=6&mood[] alt=avatar width=88 />
 </kbd>
 
 <kbd>
-<img src="https://api.dicebear.com/6.x/pixel-art/svg?seed=Luna&scale=160&rotate=200&backgroundRotation=0,360,240,210&randomizeIds=true&backgroundColor=A5EBFF,FFF9E9,C7FFCA,ffd5dc,72C0AE&radius=6&mood[]" alt="avatar" width="88" />
+<img src="https://api.dicebear.com/6.x/pixel-art/svg?seed=Luna&scale=160&rotate=200&backgroundRotation=0         360         240         210&randomizeIds=true&backgroundColor=A5EBFF         FFF9E9         C7FFCA         ffd5dc         72C0AE&radius=6&mood[] alt=avatar width=88 />
 </kbd>
 
 <kbd>
-  <img src="https://api.dicebear.com/6.x/pixel-art/svg?seed=Boo&scale=160&rotate=45&backgroundType=gradientLinear&backgroundRotation=0,360,240,210&randomizeIds=true&backgroundColor=A5EBFF,FFF9E9,C7FFCA,ffd5dc,72C0AE&radius=6&mood[]" alt="avatar" width="88" />
+  <img src="https://api.dicebear.com/6.x/pixel-art/svg?seed=Boo&scale=160&rotate=45&backgroundType=gradientLinear&backgroundRotation=0         360         240         210&randomizeIds=true&backgroundColor=A5EBFF         FFF9E9         C7FFCA         ffd5dc         72C0AE&radius=6&mood[] alt=avatar width=88 />
 </kbd>
 
 <kbd>
-  <img src="https://api.dicebear.com/6.x/bottts/svg?seed=Mittens&radius=6" alt="avatar" width="88" />
+  <img src="https://api.dicebear.com/6.x/bottts/svg?seed=Mittens&radius=6 alt=avatar width=88 />
 </kbd>
 
 <kbd>
-<img src="https://api.dicebear.com/6.x/bottts/svg?seed=Oliver&radius=6" alt="avatar" width="88" />
+<img src="https://api.dicebear.com/6.x/bottts/svg?seed=Oliver&radius=6 alt=avatar width=88 />
 </kbd>
 
 <kbd>
-<img src="https://api.dicebear.com/6.x/bottts/svg?seed=Kiki&radius=6" alt="avatar" width="88" />
+<img src="https://api.dicebear.com/6.x/bottts/svg?seed=Kiki&radius=6 alt=avatar width=88 />
 </kbd>
 
 <kbd>
-<img src="https://api.dicebear.com/6.x/bottts/svg?seed=Tinkerbell&radius=6" alt="avatar" width="88" />
+<img src="https://api.dicebear.com/6.x/bottts/svg?seed=Tinkerbell&radius=6 alt=avatar width=88 />
 </kbd>
 
 <kbd>
-<img src="https://api.dicebear.com/6.x/bottts/svg?seed=Midnight&radius=6" alt="avatar" width="88" />
+<img src="https://api.dicebear.com/6.x/bottts/svg?seed=Midnight&radius=6 alt=avatar width=88 />
 </kbd>
 
 <kbd>
-<img src="https://api.dicebear.com/6.x/bottts/svg?seed=George&radius=6" alt="avatar" width="88" />
+<img src="https://api.dicebear.com/6.x/bottts/svg?seed=George&radius=6 alt=avatar width=88 />
 </kbd>
 
 <kbd>
-<img src="https://api.dicebear.com/6.x/bottts/svg?seed=Sassy&radius=6" alt="avatar" width="88" />
+<img src="https://api.dicebear.com/6.x/bottts/svg?seed=Sassy&radius=6 alt=avatar width=88 />
 </kbd>
 
 <kbd>
-<img src="https://api.dicebear.com/6.x/avataaars-neutral/svg?seed=Whiskers&radius=6" alt="avatar" width="88" />
+<img src="https://api.dicebear.com/6.x/avataaars-neutral/svg?seed=Whiskers&radius=6 alt=avatar width=88 />
 </kbd>
 
 <kbd>
-<img src="https://api.dicebear.com/6.x/avataaars-neutral/svg?seed=Bear&radius=6" alt="avatar" width="88" />
+<img src="https://api.dicebear.com/6.x/avataaars-neutral/svg?seed=Bear&radius=6 alt=avatar width=88 />
 </kbd>
 
 <kbd>
-<img src="https://api.dicebear.com/6.x/avataaars-neutral/svg?seed=Daisy&radius=6" alt="avatar" width="88" />
+<img src="https://api.dicebear.com/6.x/avataaars-neutral/svg?seed=Daisy&radius=6 alt=avatar width=88 />
 </kbd>
 
 <kbd>
- <img src="https://api.dicebear.com/6.x/avataaars-neutral/svg?seed=Max&radius=6" alt="avatar" width="88" />
+ <img src="https://api.dicebear.com/6.x/avataaars-neutral/svg?seed=Max&radius=6 alt=avatar width=88 />
 </kbd>
 
 <kbd>
-<img src="https://api.dicebear.com/6.x/avataaars-neutral/svg?seed=Abby&radius=6" alt="avatar" width="88" />
+<img src="https://api.dicebear.com/6.x/avataaars-neutral/svg?seed=Abby&radius=6 alt=avatar width=88 />
 </kbd>
 
-![](https://api.dicebear.com/6.x/pixel-art-neutral/svg?seed=A&backgroundColor=b6e3f4&scale=120&rotate=30&radius=6&size=120)
-![](https://api.dicebear.com/6.x/pixel-art-neutral/svg?seed=B&backgroundColor=c0aede&scale=160&rotate=125&radius=6&size=120)
-![](https://api.dicebear.com/6.x/pixel-art-neutral/svg?seed=C&backgroundColor=DEB664&scale=110&rotate=55&radius=6&size=120)
-![](https://api.dicebear.com/6.x/pixel-art-neutral/svg?seed=D&backgroundColor=64C9DE&scale=145&rotate=180&radius=6&size=120)
-![](https://api.dicebear.com/6.x/pixel-art-neutral/svg?seed=E&backgroundColor=A77762&scale=125&rotate=325&radius=6&size=120)
-![](https://api.dicebear.com/6.x/pixel-art-neutral/svg?seed=F&backgroundColor=b6e3f4&scale=120&rotate=30&radius=6&size=120)
-![](https://api.dicebear.com/6.x/pixel-art-neutral/svg?seed=G&backgroundColor=32E97C&scale=160&rotate=125&radius=6&size=120)  <br/>
-![](https://api.dicebear.com/6.x/pixel-art-neutral/svg?seed=H&backgroundColor=B72225&scale=110&rotate=55&radius=6&size=120)
-![](https://api.dicebear.com/6.x/pixel-art-neutral/svg?seed=I&backgroundColor=64C9DE&scale=145&rotate=180&radius=6&size=120)
-![](https://api.dicebear.com/6.x/pixel-art-neutral/svg?seed=J&backgroundColor=22B7B4&scale=125&rotate=325&radius=6&size=120)
-![](https://api.dicebear.com/6.x/pixel-art-neutral/svg?seed=I&backgroundColor=381FF1&scale=145&rotate=180&radius=6&size=120)
-![](https://api.dicebear.com/6.x/pixel-art-neutral/svg?seed=J&backgroundColor=D8F11F&scale=125&rotate=325&radius=6&size=120)
-![](https://api.dicebear.com/6.x/pixel-art-neutral/svg?seed=I&backgroundColor=F4B518&scale=145&rotate=180&radius=6&size=120)
-![](https://api.dicebear.com/6.x/pixel-art-neutral/svg?seed=J&backgroundColor=FDF151&scale=125&rotate=325&radius=6&size=120)
+![]("https://api.dicebear.com/6.x/pixel-art-neutral/svg?seed=A&backgroundColor=b6e3f4&scale=120&rotate=30&radius=6&size=120)
+![]("https://api.dicebear.com/6.x/pixel-art-neutral/svg?seed=B&backgroundColor=c0aede&scale=160&rotate=125&radius=6&size=120)
+![]("https://api.dicebear.com/6.x/pixel-art-neutral/svg?seed=C&backgroundColor=DEB664&scale=110&rotate=55&radius=6&size=120)
+![]("https://api.dicebear.com/6.x/pixel-art-neutral/svg?seed=D&backgroundColor=64C9DE&scale=145&rotate=180&radius=6&size=120)
+![]("https://api.dicebear.com/6.x/pixel-art-neutral/svg?seed=E&backgroundColor=A77762&scale=125&rotate=325&radius=6&size=120)
+![]("https://api.dicebear.com/6.x/pixel-art-neutral/svg?seed=F&backgroundColor=b6e3f4&scale=120&rotate=30&radius=6&size=120)
+![]("https://api.dicebear.com/6.x/pixel-art-neutral/svg?seed=G&backgroundColor=32E97C&scale=160&rotate=125&radius=6&size=120)  <br/>
+![]("https://api.dicebear.com/6.x/pixel-art-neutral/svg?seed=H&backgroundColor=B72225&scale=110&rotate=55&radius=6&size=120)
+![]("https://api.dicebear.com/6.x/pixel-art-neutral/svg?seed=I&backgroundColor=64C9DE&scale=145&rotate=180&radius=6&size=120)
+![]("https://api.dicebear.com/6.x/pixel-art-neutral/svg?seed=J&backgroundColor=22B7B4&scale=125&rotate=325&radius=6&size=120)
+![]("https://api.dicebear.com/6.x/pixel-art-neutral/svg?seed=I&backgroundColor=381FF1&scale=145&rotate=180&radius=6&size=120)
+![]("https://api.dicebear.com/6.x/pixel-art-neutral/svg?seed=J&backgroundColor=D8F11F&scale=125&rotate=325&radius=6&size=120)
+![]("https://api.dicebear.com/6.x/pixel-art-neutral/svg?seed=I&backgroundColor=F4B518&scale=145&rotate=180&radius=6&size=120)
+![]("https://api.dicebear.com/6.x/pixel-art-neutral/svg?seed=J&backgroundColor=FDF151&scale=125&rotate=325&radius=6&size=120)
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
+![HTML5]("https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
 ``` html
-<img src="https://cdn.jsdelivr.net/gh/Barry028/materials/images/Animations/BarrYUFO.svg"  alt="BarrY UFO" />
+<img src="https://cdn.jsdelivr.net/gh/Barry028/materials/images/Animations/BarrYUFO.svg  alt=BarrY UFO />
 ```      
 
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![Markdown]("https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ``` markdown
-![Barry](https://cdn.jsdelivr.net/gh/Barry028/materials/images/Animations/BarrYUFO.svg)  
+![Barry]("https://cdn.jsdelivr.net/gh/Barry028/materials/images/Animations/BarrYUFO.svg)  
 ``` 
  
  -->  
