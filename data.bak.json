@@ -65,11 +65,11 @@
       "_configName": "MaterialsAll",
       "repo": "Barry028/materials",
       "branch": "main",
-      "token": "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",
+      "token": "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",
       "path": "images/",
       "_id": "647deb6e-82e8-4bc9-a1bc-e2732ef087b6",
       "_createdAt": 1691506809662,
-      "_updatedAt": 1691833762465,
+      "_updatedAt": 1691836162142,
       "customUrl": "https://cdn.jsdelivr.net/gh/Barry028/materials"
     },
     "webdavplist": {
@@ -79,16 +79,14 @@
       "_updatedAt": 1691604340135
     },
     "githubPlus": {
-      "_configName": "materials",
-      "_id": "94b49656-3aef-4bd4-88ba-51676f88d133",
-      "_createdAt": 1691716427825,
-      "_updatedAt": 1691834154297,
+      "lastSync": "2023-08-12 06:56:25",
       "repo": "Barry028/materials",
       "branch": "main",
-      "token": "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",
+      "token": "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",
       "path": "images",
       "customUrl": "https://cdn.jsdelivr.net/gh/Barry028/materials",
-      "origin": "github"
+      "origin": "github",
+      "_configName": "materials"
     },
     "local": {
       "_configName": "Materials",
@@ -134,7 +132,7 @@
       "username": "Barry028",
       "repo": "materials",
       "branch": "main",
-      "token": "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",
+      "token": "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",
       "proxy": "",
       "interval": 60
     },
@@ -153,7 +151,7 @@
     "picgo-plugin-dynamic-object-name": true,
     "picgo-plugin-free-uploader": false,
     "picgo-plugin-github-plus": true,
-    "picgo-plugin-dir-prefix": true
+    "picgo-plugin-dir-prefix": false
   },
   "debug": true,
   "PICGO_ENV": "GUI",
@@ -165,11 +163,11 @@
           "_configName": "MaterialsAll",
           "repo": "Barry028/materials",
           "branch": "main",
-          "token": "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",
+          "token": "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",
           "path": "images/",
           "_id": "647deb6e-82e8-4bc9-a1bc-e2732ef087b6",
           "_createdAt": 1691506809662,
-          "_updatedAt": 1691833762465,
+          "_updatedAt": 1691836162142,
           "customUrl": "https://cdn.jsdelivr.net/gh/Barry028/materials"
         },
         {
@@ -177,20 +175,20 @@
           "repo": "Barry028/materials",
           "branch": "main",
           "path": "images/3D/",
-          "token": "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",
+          "token": "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",
           "_id": "3e08e4fc-48e5-4a08-8977-a5aacb75572d",
           "_createdAt": 1691565997564,
-          "_updatedAt": 1691833359741,
+          "_updatedAt": 1691834309676,
           "customUrl": "https://cdn.jsdelivr.net/gh/Barry028/materials"
         },
         {
           "_configName": "iCons",
           "_id": "f8a553dd-d424-4477-8658-27036b583f29",
           "_createdAt": 1691736537676,
-          "_updatedAt": 1691833850106,
+          "_updatedAt": 1691834809539,
           "repo": "Barry028/materials",
           "branch": "main",
-          "token": "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",
+          "token": "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",
           "path": "images/iCons/",
           "customUrl": "https://cdn.jsdelivr.net/gh/Barry028/materials"
         }
@@ -217,7 +215,7 @@
           "_updatedAt": 1691834154297,
           "repo": "Barry028/materials",
           "branch": "main",
-          "token": "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",
+          "token": "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",
           "path": "images",
           "customUrl": "https://cdn.jsdelivr.net/gh/Barry028/materials",
           "origin": "github"
@@ -248,7 +246,7 @@
     "lastSync": "2023-08-11 10:08:53",
     "repo": "Barry028/materials",
     "branch": "main",
-    "token": "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",
+    "token": "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",
     "path": "images",
     "customUrl": "https://cdn.jsdelivr.net/gh/Barry028/materials",
     "origin": "github",
@@ -260,7 +258,7 @@
     "body": null,
     "format": "{localFolder:2}/{origin}{rand:0}",
     "directory": "/Volumes/BarrYDesk/圖庫/",
-    "height": "1",
+    "height": "2",
     "ignore": "Volumes BarrYDesk 圖庫 apple downloads 素材 Downloads Users"
   },
   "picgo-plugin-rename-file": {
@@ -268,7 +266,7 @@
     "_configName": "materials"
   },
   "picgo-plugin-github-plus": {
-    "lastSync": "2023-08-12 05:55:32"
+    "lastSync": "2023-08-12 07:01:45"
   },
   "uploaded": []
 }
