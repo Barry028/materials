@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="streamline-bubble" transform="translate(10347.059 1238.195)">
+    <rect id="Rectangle_152265" data-name="Rectangle 152265" width="24" height="24" transform="translate(-10347.059 -1238.195)" fill="#fff"/>
+    <g id="streamline_bubble_2" data-name="streamline bubble_2" transform="translate(-10345.481 -1240.629)">
+      <path id="Path_5309" data-name="Path 5309" d="M131.8,57.453v3.813h.95V57.453Z" transform="translate(-112.332 -44.925)"/>
+      <path id="Path_5310" data-name="Path 5310" d="M125.209,85.647h.956v-1.9h-.956Z" transform="translate(-106.693 -67.406)"/>
+      <path id="Path_5311" data-name="Path 5311" d="M125.209,46.213h.956V44.307h-.956Z" transform="translate(-106.693 -33.685)"/>
+      <path id="Path_5312" data-name="Path 5312" d="M118.657,98.757h.95V96.851h-.95Z" transform="translate(-101.091 -78.61)"/>
+      <path id="Path_5313" data-name="Path 5313" d="M118.657,33.1h.95V31.2h-.95Z" transform="translate(-101.091 -22.481)"/>
+      <path id="Path_5314" data-name="Path 5314" d="M113.055,110h-.95v.95h.95Z" transform="translate(-95.489 -89.85)"/>
+      <path id="Path_5315" data-name="Path 5315" d="M113.055,24.608h-.95v.956h.95Z" transform="translate(-95.489 -16.842)"/>
+      <path id="Path_5316" data-name="Path 5316" d="M98.959,116.549v.956h1.906v-.956Z" transform="translate(-84.249 -95.452)"/>
+      <path id="Path_5317" data-name="Path 5317" d="M100.865,19.006v-.95H98.959v.95Z" transform="translate(-84.249 -11.241)"/>
+      <path id="Path_5318" data-name="Path 5318" d="M92.364,50.9v1.9H94.27V50.9Z" transform="translate(-78.61 -39.323)"/>
+      <path id="Path_5319" data-name="Path 5319" d="M85.812,123.144v.95h1.906v-.95Z" transform="translate(-73.008 -101.091)"/>
+      <path id="Path_5320" data-name="Path 5320" d="M46.415,77.152v1.906h.95v.95h.956v.956h3.806v-.956h.95v-.95h.956V77.152Z" transform="translate(-39.323 -61.768)"/>
+      <path id="Path_5321" data-name="Path 5321" d="M87.718,12.418v-.956H85.812v.956Z" transform="translate(-73.008 -5.602)"/>
+      <path id="Path_5322" data-name="Path 5322" d="M59.561,129.7v.956h3.806V129.7Z" transform="translate(-50.564 -106.693)"/>
+      <path id="Path_5323" data-name="Path 5323" d="M63.368,5.859v-.95H59.561v.95Z" transform="translate(-50.564)"/>
+      <path id="Path_5324" data-name="Path 5324" d="M46.415,123.144v.95h1.906v-.95Z" transform="translate(-39.323 -101.091)"/>
+      <path id="Path_5325" data-name="Path 5325" d="M48.321,12.418v-.956H46.415v.956Z" transform="translate(-39.323 -5.602)"/>
+      <path id="Path_5326" data-name="Path 5326" d="M41.726,52.8V50.9H39.82v1.9Z" transform="translate(-33.685 -39.323)"/>
+      <path id="Path_5327" data-name="Path 5327" d="M40.776,116.549H39.82v.956h.956Z" transform="translate(-33.685 -95.452)"/>
+      <path id="Path_5328" data-name="Path 5328" d="M35.174,19.006v-.95H33.268v.95Z" transform="translate(-28.083 -11.241)"/>
+      <path id="Path_5329" data-name="Path 5329" d="M26.716,123.144v.95h1.9v-.95Z" transform="translate(-22.481 -101.091)"/>
+      <path id="Path_5330" data-name="Path 5330" d="M27.666,24.608h-.95v.956h.95Z" transform="translate(-22.481 -16.842)"/>
+      <path id="Path_5331" data-name="Path 5331" d="M21.077,96.851h-.956v1.906h.956Z" transform="translate(-16.842 -78.61)"/>
+      <path id="Path_5332" data-name="Path 5332" d="M21.077,31.2h-.956v1.9h.956Z" transform="translate(-16.842 -22.481)"/>
+      <path id="Path_5333" data-name="Path 5333" d="M2.329,124.094v-.95H1.372v.95H.422v.956H4.235v-.956Z" transform="translate(0 -101.091)"/>
+      <path id="Path_5334" data-name="Path 5334" d="M14.519,110h-.95V111.9h.95Z" transform="translate(-11.24 -89.85)"/>
+      <path id="Path_5335" data-name="Path 5335" d="M14.519,83.747h-.95v1.9h.95Z" transform="translate(-11.24 -67.406)"/>
+      <path id="Path_5336" data-name="Path 5336" d="M14.519,44.307h-.95v1.906h.95Z" transform="translate(-11.24 -33.685)"/>
+      <path id="Path_5337" data-name="Path 5337" d="M7.93,57.453H6.974v3.813H7.93Z" transform="translate(-5.602 -44.925)"/>
+    </g>
+  </g>
+</svg>

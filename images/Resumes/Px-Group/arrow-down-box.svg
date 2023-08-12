@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="arrow-down-box" transform="translate(9927.059 818.195)">
+    <rect id="Rectangle_151944" data-name="Rectangle 151944" width="24" height="24" transform="translate(-9927.059 -818.195)" fill="#fff"/>
+    <path id="arrow-down-box-2" data-name="arrow-down-box" d="M3,3H23V23H3ZM20.778,20.778V5.222H5.222V20.778ZM11.889,7.444h2.222v6.667h2.222v2.222H14.111v2.222H11.889V16.333H9.667V14.111h2.222ZM9.667,11.889v2.222H7.444V11.889Zm8.889,0H16.333v2.222h2.222Z" transform="translate(-9928.059 -819.195)"/>
+  </g>
+</svg>

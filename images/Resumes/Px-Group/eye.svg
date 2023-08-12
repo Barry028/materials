@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="eye" transform="translate(10067.059 902.195)">
+    <rect id="Rectangle_151998" data-name="Rectangle 151998" width="24" height="24" transform="translate(-10067.059 -902.195)" fill="#fff"/>
+    <path id="eye-2" data-name="eye" d="M6.667,6h6.667V7.667H6.667ZM3.333,9.333V7.667H6.667V9.333ZM1.667,11V9.333H3.333V11Zm0,1.667V11H0v1.667Zm1.667,1.667H1.667V12.667H3.333ZM6.667,16H3.333V14.333H6.667Zm6.667,0v1.667H6.667V16Zm3.333-1.667V16H13.333V14.333Zm1.667-1.667v1.667H16.667V12.667Zm0-1.667H20v1.667H18.333ZM16.667,9.333h1.667V11H16.667Zm0,0V7.667H13.333V9.333Zm-8.333.833h3.333V13.5H8.333Z" transform="translate(-10065.059 -902.028)"/>
+  </g>
+</svg>
