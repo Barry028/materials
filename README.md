@@ -95,12 +95,7 @@
   alt="avatar"
 />
 <img
-  src="https://api.dicebear.com/6.x/pixel-art/svg?seed=BT18TS8&backgroundColor=e1d3f5&rotate=12&scale=111&radius=12&size=66"
-  alt="avatar"
-/>
-<img src="https://api.dicebear.com/6.x/pixel-art/svg?seed=of8rmU8&backgroundColor=4de30c&rotate=181&scale=142&radius=12&size=66" alt="avatar" />
- src="https://api.dicebear.com/6.x/pixel-art/svg?seed=of8rmU8&backgroundColor=4de30c&rotate=181&scale=142&radius=12&size=66" alt="avatar" />
-
+  src="https://api.dicebear.com/6.x/pixel-art/svg?seed=BT18TS8&backgroundColor=e1d3f5&rotate=12&scale=111&radius=12&size=66" src='https://api.dicebear.com/6.x/pixel-art/svg?seed=LnF9eI8&backgroundColor=7124c5&rotate=173&scale=120&radius=12&size=300' alt='avatar' />""<img src='https://api.dicebear.com/6.x/pixel-art/svg?seed=RbvQOe8&backgroundColor=9523f4&rotate=208&scale=71&radius=12&size=300' alt='avatar' />""<img src='https://api.dicebear.com/6.x/pixel-art/svg?seed=iCxpCs8&backgroundColor=48d7b7&rotate=194&scale=87&radius=12&size=300' alt='avatar' />""<img src='https://api.dicebear.com/6.x/pixel-art/svg?seed=nStR708&backgroundColor=493b1b&rotate=9&scale=184&radius=12&size=300' alt='avatar' />""<img src='https://api.dicebear.com/6.x/pixel-art/svg?seed=n7uXIk8&backgroundColor=795ada&rotate=225&scale=164&radius=12&size=300' alt='avatar' />""<img src='https://api.dicebear.com/6.x/pixel-art/svg?seed=DXEV5r8&backgroundColor=b866d1&rotate=89&scale=60&radius=12&size=300' alt='avatar' />""<img src='https://api.dicebear.com/6.x/pixel-art/svg?seed=3vpclB8&backgroundColor=6fb7f6&rotate=209&scale=90&radius=12&size=300' alt='avatar' />""<img src='https://api.dicebear.com/6.x/pixel-art/svg?seed=kmkPmG8&backgroundColor=83d956&rotate=201&scale=71&radius=12&size=300' alt='avatar' />""<img src='https://api.dicebear.com/6.x/pixel-art/svg?seed=7kdfLn8&backgroundColor=dc834d&rotate=322&scale=109&radius=12&size=300' alt='avatar' />""<img src='https://api.dicebear.com/6.x/pixel-art/svg?seed=DK1nUa8&backgroundColor=feddf8&rotate=215&scale=128&radius=12&size=300' alt='avatar' />""<img src='https://api.dicebear.com/6.x/pixel-art/svg?seed=kgFqSd8&backgroundColor=0a52cc&rotate=272&scale=141&radius=12&size=300' alt='avatar' />""<img src='https://api.dicebear.com/6.x/pixel-art/svg?seed=gLQsik8&backgroundColor=99b576&rotate=13&scale=128&radius=12&size=300' alt='avatar' />
   &nbsp;
 
   ### :card_file_box: &nbsp; 素材類型
