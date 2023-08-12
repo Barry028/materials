@@ -33,7 +33,7 @@
 
         ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
           ![HTML5](https://cdn.jsdelivr.net/gh/Barry028/materials/dist/images/Html-windows.svg)
-        
+
         ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
           ![MarkDown](https://cdn.jsdelivr.net/gh/Barry028/materials/images/MarkDown-windows.svg)
 
