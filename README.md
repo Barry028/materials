@@ -4,7 +4,7 @@
 
 &nbsp;  
 
-### :card_file_box: 素材類型
+###  &nbsp; :card_file_box: 素材類型
 
    * [3Ds][1]
    * [Animations][2]
@@ -31,10 +31,7 @@
 
    
 
-   &nbsp; :link: :photo:  &nbsp; &nbsp; **線上網址**：  
-
-  <intention> [scope?][:?] <message>
-
+   &nbsp; :link: **線上網址**：  
 
    http://cdn.jsdelivr.net/gh/ 
    <big> `{UserName}`  </big> / <big> `{Path}` </big> / <big> `{FileName}`  </big> /
