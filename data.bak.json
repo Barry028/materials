@@ -62,15 +62,15 @@
       }
     ],
     "github": {
-      "_configName": "materials",
+      "_configName": "MaterialsAll",
       "repo": "Barry028/materials",
       "branch": "main",
-      "token": "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",
-      "path": "images",
+      "token": "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",
+      "path": "images/",
       "_id": "647deb6e-82e8-4bc9-a1bc-e2732ef087b6",
       "_createdAt": 1691506809662,
-      "_updatedAt": 1691731641854,
-      "customUrl": "https://cdn.jsdelivr.net/gh/Barry028/materials/"
+      "_updatedAt": 1691740093366,
+      "customUrl": "https://cdn.jsdelivr.net/gh/Barry028/materials"
     },
     "webdavplist": {
       "_configName": "Default",
@@ -79,16 +79,14 @@
       "_updatedAt": 1691604340135
     },
     "githubPlus": {
-      "_configName": "materials",
-      "_id": "94b49656-3aef-4bd4-88ba-51676f88d133",
-      "_createdAt": 1691716427825,
-      "_updatedAt": 1691718660997,
+      "lastSync": "2023-08-11 10:33:05",
       "repo": "Barry028/materials",
       "branch": "main",
-      "token": "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",
+      "token": "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",
       "path": "images",
       "customUrl": "https://cdn.jsdelivr.net/gh/Barry028/materials",
-      "origin": "github"
+      "origin": "github",
+      "_configName": "materials"
     },
     "local": {
       "_configName": "Materials",
@@ -104,7 +102,7 @@
     "autoRename": false,
     "language": "zh-TW",
     "privacyEnsure": true,
-    "pasteStyle": "HTML",
+    "pasteStyle": "URL",
     "shortKey": {
       "picgo-plugin-bitbw-upload:": {
         "enable": true,
@@ -128,20 +126,20 @@
     ],
     "logFileSizeLimit": 10,
     "isListeningClipboard": false,
-    "deleteCloudFile": false,
+    "deleteCloudFile": true,
     "sync": {
       "type": "github",
       "username": "Barry028",
       "repo": "materials",
       "branch": "main",
-      "token": "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",
+      "token": "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",
       "proxy": "",
       "interval": 60
     },
     "autoImport": true,
     "startMode": "main",
     "customLink": "![$fileName]($url)",
-    "useShortUrl": false,
+    "useShortUrl": true,
     "mainWindowWidth": 800,
     "mainWindowHeight": 600,
     "encodeOutputURL": true
@@ -162,26 +160,37 @@
     "github": {
       "configList": [
         {
-          "_configName": "materials",
+          "_configName": "MaterialsAll",
           "repo": "Barry028/materials",
           "branch": "main",
-          "token": "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",
-          "path": "images",
+          "token": "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",
+          "path": "images/",
           "_id": "647deb6e-82e8-4bc9-a1bc-e2732ef087b6",
           "_createdAt": 1691506809662,
-          "_updatedAt": 1691731641854,
-          "customUrl": "https://cdn.jsdelivr.net/gh/Barry028/materials/"
+          "_updatedAt": 1691740093366,
+          "customUrl": "https://cdn.jsdelivr.net/gh/Barry028/materials"
         },
         {
           "_configName": "3D",
           "repo": "Barry028/materials",
           "branch": "main",
           "path": "images/3D/",
-          "token": "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",
+          "token": "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",
           "_id": "3e08e4fc-48e5-4a08-8977-a5aacb75572d",
           "_createdAt": 1691565997564,
-          "_updatedAt": 1691566028927,
-          "customUrl": "Barry028/materials"
+          "_updatedAt": 1691740098682,
+          "customUrl": "https://cdn.jsdelivr.net/gh/Barry028/materials"
+        },
+        {
+          "_configName": "iCons",
+          "_id": "f8a553dd-d424-4477-8658-27036b583f29",
+          "_createdAt": 1691736537676,
+          "_updatedAt": 1691740102029,
+          "repo": "Barry028/materials",
+          "branch": "main",
+          "token": "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",
+          "path": "images/iCons/",
+          "customUrl": "https://cdn.jsdelivr.net/gh/Barry028/materials"
         }
       ],
       "defaultId": "647deb6e-82e8-4bc9-a1bc-e2732ef087b6"
@@ -203,10 +212,10 @@
           "_configName": "materials",
           "_id": "94b49656-3aef-4bd4-88ba-51676f88d133",
           "_createdAt": 1691716427825,
-          "_updatedAt": 1691718660997,
+          "_updatedAt": 1691740107425,
           "repo": "Barry028/materials",
           "branch": "main",
-          "token": "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",
+          "token": "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",
           "path": "images",
           "customUrl": "https://cdn.jsdelivr.net/gh/Barry028/materials",
           "origin": "github"
@@ -237,7 +246,7 @@
     "lastSync": "2023-08-11 10:08:53",
     "repo": "Barry028/materials",
     "branch": "main",
-    "token": "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",
+    "token": "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",
     "path": "images",
     "customUrl": "https://cdn.jsdelivr.net/gh/Barry028/materials",
     "origin": "github",
