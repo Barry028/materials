@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-  <g id="microphone-On" transform="translate(10067.059 1350.195)">
-    <rect id="Rectangle_152308" data-name="Rectangle 152308" width="24" height="24" transform="translate(-10067.059 -1350.195)" fill="#fff"/>
-    <g id="Microphone_On" transform="translate(-10067.059 -1350.195)">
-      <path id="Path_4474" data-name="Path 4474" d="M17,14v2H16v1H8V16H7V14H5v4H6v1h5v1H9v2h6V20H13V19h5V18h1V14Z"/>
-      <path id="Path_4475" data-name="Path 4475" d="M9,16h6V15h1V3H15V2H9V3H8V15H9ZM10,5h1V4h2V5h1v8H13v1H11V13H10Z"/>
-    </g>
-  </g>
-</svg>

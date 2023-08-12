@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-  <g id="scroll-horizontal" transform="translate(10263.059 706.195)">
-    <rect id="Rectangle_151893" data-name="Rectangle 151893" width="24" height="24" transform="translate(-10263.059 -706.195)" fill="#fff"/>
-    <path id="scroll-horizontal-2" data-name="scroll-horizontal" d="M22,2V4H2V2Zm0,18v2H2V20Zm-6-5V13H8v2H6V13H4V11H6V9H8v2h8V9h2v2h2v2H18v2Zm0,0v2H14V15Zm0-6H14V7h2ZM8,9V7h2V9Zm0,6h2v2H8Z" transform="translate(-10263.059 -706.195)"/>
-  </g>
-</svg>

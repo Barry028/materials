@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-  <g id="add-messages" transform="translate(10011.059 1434.195)">
-    <rect id="Rectangle_152375" data-name="Rectangle 152375" width="24" height="24" transform="translate(-10011.059 -1434.195)" fill="#fff"/>
-    <g id="Add_Messages" transform="translate(-10011.059 -1434.695)">
-      <path id="Path_4368" data-name="Path 4368" d="M20,5V3H18V5H16V7h2V9h2V7h2V5Z"/>
-      <path id="Path_4369" data-name="Path 4369" d="M20,11v8H19v1H5V19H4V11H5v1H7v1H9v1h1v1h4V14h1V13h2V11H13v1H11V11H9V10H7V9H5V8H4V7H5V6h8V4H3V5H2V21H3v1H21V21h1V11Z"/>
-    </g>
-  </g>
-</svg>

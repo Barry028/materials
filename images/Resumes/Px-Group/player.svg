@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-  <g id="player" transform="translate(10319.059 1154.195)">
-    <rect id="Rectangle_152173" data-name="Rectangle 152173" width="24" height="24" transform="translate(-10319.059 -1154.195)" fill="#fff"/>
-    <g id="arrow75" transform="translate(-10144.075 -1267.291)">
-      <path id="path1653" d="M-168.8,119.276v11.641h1.059V129.86c.442,0,.882,0,1.323,0V128.8h1.058v-1.058h1.058v-1.058h.795v4.233h1.056V129.86h1.059V128.8h1.058v-1.058h1.058v-1.059h1.058v-1.058h1.059v-1.059h-1.059v-1.058h-1.058v-1.058h-1.058v-1.057H-161.4v-1.058h-1.059v-1.058h-1.056v4.232h-.795v-1.058h-1.058v-1.057h-1.058v-1.058h-1.323v-1.058Z"/>
-    </g>
-  </g>
-</svg>
