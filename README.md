@@ -3,17 +3,6 @@
   將一些素材整合成圖床         方便寫文章或者文章使用時使用。
 
 
-<svg xmlns=http://www.w3.org/2000/svg version=1.1 xmlns:xlink=http://www.w3.org/1999/xlink xmlns:svgjs=http://svgjs.dev/svgjs viewBox=0 0 800 800 id=pppointed width=100% height=100%>
-  <g stroke-width=10 stroke=hsl(227          71%          57%) fill=none stroke-linecap=round stroke-linejoin=round>
-  <path d=M250 250Q450 350 550 550  marker-end=url(#SvgjsMarker1000)></path>
-  </g>
-  <defs>
-    <marker markerWidth=5 markerHeight=5 refX=2.5 refY=2.5 viewBox=0 0 5 5 orient=auto id=SvgjsMarker1000><polygon points=0         5 1.6666666666666667         2.5 0         0 5         2.5 fill=hsl(227          71%          57%)></polygon>
-    </marker>
-  </defs>
-</svg>
-
-
 <img src="https://api.dicebear.com/6.x/pixel-art/svg?seed=INv1mh8&backgroundColor=0d177c&rotate=23&scale=68&radius=12&size=300" alt='avatar' />
 <img src="https://api.dicebear.com/6.x/pixel-art/svg?seed=0JIZq68&backgroundColor=c92486&rotate=293&scale=184&radius=12&size=300" alt='avatar' />         
 <img src="https://api.dicebear.com/6.x/pixel-art/svg?seed=rNRZDf8&backgroundColor=2e7725&rotate=98&scale=117&radius=12&size=300" alt='avatar' /> 
