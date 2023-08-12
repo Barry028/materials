@@ -3,104 +3,104 @@
   將一些素材整合成圖床         方便寫文章或者文章使用時使用。
 
 <img
-  src="https://api.dicebear.com/6.x/pixel-art/svg?seed=INv1mh8&backgroundColor=0d177c&rotate=23&scale=68&radius=12&size=300"
+  src="https://api.dicebear.com/6.x/pixel-art/svg?seed=INv1mh8&backgroundColor=0d177c&rotate=23&scale=68&radius=12&size=66"
   alt="avatar"
 />
 <img
-  src="https://api.dicebear.com/6.x/pixel-art/svg?seed=0JIZq68&backgroundColor=c92486&rotate=293&scale=184&radius=12&size=300"
+  src="https://api.dicebear.com/6.x/pixel-art/svg?seed=0JIZq68&backgroundColor=c92486&rotate=293&scale=184&radius=12&size=66"
   alt="avatar"
 />
 <img
-  src="https://api.dicebear.com/6.x/pixel-art/svg?seed=rNRZDf8&backgroundColor=2e7725&rotate=98&scale=117&radius=12&size=300"
+  src="https://api.dicebear.com/6.x/pixel-art/svg?seed=rNRZDf8&backgroundColor=2e7725&rotate=98&scale=117&radius=12&size=66"
   alt="avatar"
 />
 <img
-  src="https://api.dicebear.com/6.x/pixel-art/svg?seed=SFXw3a8&backgroundColor=b895f8&rotate=317&scale=116&radius=12&size=300"
+  src="https://api.dicebear.com/6.x/pixel-art/svg?seed=SFXw3a8&backgroundColor=b895f8&rotate=317&scale=116&radius=12&size=66"
   alt="avatar"
 />
 <img
-  src="https://api.dicebear.com/6.x/pixel-art/svg?seed=OSVEHF8&backgroundColor=3d0560&rotate=279&scale=182&radius=12&size=300"
+  src="https://api.dicebear.com/6.x/pixel-art/svg?seed=OSVEHF8&backgroundColor=3d0560&rotate=279&scale=182&radius=12&size=66"
   alt="avatar"
 />
 <img
-  src="https://api.dicebear.com/6.x/pixel-art/svg?seed=Tgl9sN8&backgroundColor=7dbb28&rotate=268&scale=132&radius=12&size=300"
+  src="https://api.dicebear.com/6.x/pixel-art/svg?seed=Tgl9sN8&backgroundColor=7dbb28&rotate=268&scale=132&radius=12&size=66"
   alt="avatar"
 />
 <img
-  src="https://api.dicebear.com/6.x/pixel-art/svg?seed=ythK8n8&backgroundColor=e8be80&rotate=184&scale=178&radius=12&size=300"
+  src="https://api.dicebear.com/6.x/pixel-art/svg?seed=ythK8n8&backgroundColor=e8be80&rotate=184&scale=178&radius=12&size=66"
   alt="avatar"
 />
 <img
-  src="https://api.dicebear.com/6.x/pixel-art/svg?seed=fsthid8&backgroundColor=f0db0a&rotate=119&scale=69&radius=12&size=300"
+  src="https://api.dicebear.com/6.x/pixel-art/svg?seed=fsthid8&backgroundColor=f0db0a&rotate=119&scale=69&radius=12&size=66"
   alt="avatar"
 />
 <img
-  src="https://api.dicebear.com/6.x/pixel-art/svg?seed=VK9lFT8&backgroundColor=95a009&rotate=291&scale=80&radius=12&size=300"
+  src="https://api.dicebear.com/6.x/pixel-art/svg?seed=VK9lFT8&backgroundColor=95a009&rotate=291&scale=80&radius=12&size=66"
   alt="avatar"
 />
 <img
-  src="https://api.dicebear.com/6.x/pixel-art/svg?seed=5l92448&backgroundColor=5c6c9c&rotate=205&scale=169&radius=12&size=300"
+  src="https://api.dicebear.com/6.x/pixel-art/svg?seed=5l92448&backgroundColor=5c6c9c&rotate=205&scale=169&radius=12&size=66"
   alt="avatar"
 /> <img
-  src="https://api.dicebear.com/6.x/pixel-art/svg?seed=uXi3sl8&backgroundColor=2de90e&rotate=90&scale=136&radius=12&size=300"
+  src="https://api.dicebear.com/6.x/pixel-art/svg?seed=uXi3sl8&backgroundColor=2de90e&rotate=90&scale=136&radius=12&size=66"
   alt="avatar"
 />
 <img
-  src="https://api.dicebear.com/6.x/pixel-art/svg?seed=BT18TS8&backgroundColor=e1d3f5&rotate=12&scale=111&radius=12&size=300"
+  src="https://api.dicebear.com/6.x/pixel-art/svg?seed=BT18TS8&backgroundColor=e1d3f5&rotate=12&scale=111&radius=12&size=66"
   alt="avatar"
 />
 <img
-  src="https://api.dicebear.com/6.x/pixel-art/svg?seed=of8rmU8&backgroundColor=4de30c&rotate=181&scale=142&radius=12&size=300"
+  src="https://api.dicebear.com/6.x/pixel-art/svg?seed=of8rmU8&backgroundColor=4de30c&rotate=181&scale=142&radius=12&size=66"
   alt="avatar"
 /> <img
-  src="https://api.dicebear.com/6.x/pixel-art/svg?seed=INv1mh8&backgroundColor=0d177c&rotate=23&scale=68&radius=12&size=300"
+  src="https://api.dicebear.com/6.x/pixel-art/svg?seed=INv1mh8&backgroundColor=0d177c&rotate=23&scale=68&radius=12&size=66"
   alt="avatar"
 />
 <img
-  src="https://api.dicebear.com/6.x/pixel-art/svg?seed=0JIZq68&backgroundColor=c92486&rotate=293&scale=184&radius=12&size=300"
+  src="https://api.dicebear.com/6.x/pixel-art/svg?seed=0JIZq68&backgroundColor=c92486&rotate=293&scale=184&radius=12&size=66"
   alt="avatar"
 />
 <img
-  src="https://api.dicebear.com/6.x/pixel-art/svg?seed=rNRZDf8&backgroundColor=2e7725&rotate=98&scale=117&radius=12&size=300"
+  src="https://api.dicebear.com/6.x/pixel-art/svg?seed=rNRZDf8&backgroundColor=2e7725&rotate=98&scale=117&radius=12&size=66"
   alt="avatar"
 /> <img
-  src="https://api.dicebear.com/6.x/pixel-art/svg?seed=SFXw3a8&backgroundColor=b895f8&rotate=317&scale=116&radius=12&size=300"
+  src="https://api.dicebear.com/6.x/pixel-art/svg?seed=SFXw3a8&backgroundColor=b895f8&rotate=317&scale=116&radius=12&size=66"
   alt="avatar"
 />
 <img
-  src="https://api.dicebear.com/6.x/pixel-art/svg?seed=OSVEHF8&backgroundColor=3d0560&rotate=279&scale=182&radius=12&size=300"
+  src="https://api.dicebear.com/6.x/pixel-art/svg?seed=OSVEHF8&backgroundColor=3d0560&rotate=279&scale=182&radius=12&size=66"
   alt="avatar"
 />
 <img
-  src="https://api.dicebear.com/6.x/pixel-art/svg?seed=Tgl9sN8&backgroundColor=7dbb28&rotate=268&scale=132&radius=12&size=300"
+  src="https://api.dicebear.com/6.x/pixel-art/svg?seed=Tgl9sN8&backgroundColor=7dbb28&rotate=268&scale=132&radius=12&size=66"
   alt="avatar"
 /> <img
-  src="https://api.dicebear.com/6.x/pixel-art/svg?seed=ythK8n8&backgroundColor=e8be80&rotate=184&scale=178&radius=12&size=300"
+  src="https://api.dicebear.com/6.x/pixel-art/svg?seed=ythK8n8&backgroundColor=e8be80&rotate=184&scale=178&radius=12&size=66"
   alt="avatar"
 />
 <img
-  src="https://api.dicebear.com/6.x/pixel-art/svg?seed=fsthid8&backgroundColor=f0db0a&rotate=119&scale=69&radius=12&size=300"
+  src="https://api.dicebear.com/6.x/pixel-art/svg?seed=fsthid8&backgroundColor=f0db0a&rotate=119&scale=69&radius=12&size=66"
   alt="avatar"
 />
 <img
-  src="https://api.dicebear.com/6.x/pixel-art/svg?seed=VK9lFT8&backgroundColor=95a009&rotate=291&scale=80&radius=12&size=300"
-  alt="avatar"
-/> 
-<img
-  src="https://api.dicebear.com/6.x/pixel-art/svg?seed=5l92448&backgroundColor=5c6c9c&rotate=205&scale=169&radius=12&size=300"
+  src="https://api.dicebear.com/6.x/pixel-art/svg?seed=VK9lFT8&backgroundColor=95a009&rotate=291&scale=80&radius=12&size=66"
   alt="avatar"
 />
 <img
-  src="https://api.dicebear.com/6.x/pixel-art/svg?seed=uXi3sl8&backgroundColor=2de90e&rotate=90&scale=136&radius=12&size=300"
+  src="https://api.dicebear.com/6.x/pixel-art/svg?seed=5l92448&backgroundColor=5c6c9c&rotate=205&scale=169&radius=12&size=66"
   alt="avatar"
 />
 <img
-  src="https://api.dicebear.com/6.x/pixel-art/svg?seed=BT18TS8&backgroundColor=e1d3f5&rotate=12&scale=111&radius=12&size=300"
+  src="https://api.dicebear.com/6.x/pixel-art/svg?seed=uXi3sl8&backgroundColor=2de90e&rotate=90&scale=136&radius=12&size=66"
   alt="avatar"
 />
-<img src="https://api.dicebear.com/6.x/pixel-art/svg?seed=of8rmU8&backgroundColor=4de30c&rotate=181&scale=142&radius=12&size=300" alt="avatar" />
+<img
+  src="https://api.dicebear.com/6.x/pixel-art/svg?seed=BT18TS8&backgroundColor=e1d3f5&rotate=12&scale=111&radius=12&size=66"
+  alt="avatar"
+/>
+<img src="https://api.dicebear.com/6.x/pixel-art/svg?seed=of8rmU8&backgroundColor=4de30c&rotate=181&scale=142&radius=12&size=66" alt="avatar" />
+ src="https://api.dicebear.com/6.x/pixel-art/svg?seed=of8rmU8&backgroundColor=4de30c&rotate=181&scale=142&radius=12&size=66" alt="avatar" />
 
-  
   &nbsp;
 
   ### :card_file_box: &nbsp; 素材類型
@@ -138,7 +138,7 @@
   > ![HTML5]("https://cdn.jsdelivr.net/gh/Barry028/materials/dist/images/Html-windows.svg)
 
 
-  > ![Markdown]("https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+  > ![Markdown]("https://img.shields.io/badge/markdown-%2660000.svg?style=for-the-badge&logo=markdown&logoColor=white)
   > 
   > ![MarkDown]("https://cdn.jsdelivr.net/gh/Barry028/materials/images/MarkDown-windows.svg)
   
@@ -356,7 +356,7 @@ top 🔝 :top:     top
 <img src="https://cdn.jsdelivr.net/gh/Barry028/materials/images/Animations/BarrYUFO.svg  alt=BarrY UFO />
 ```      
 
-![Markdown]("https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![Markdown]("https://img.shields.io/badge/markdown-%2660000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ``` markdown
 ![Barry]("https://cdn.jsdelivr.net/gh/Barry028/materials/images/Animations/BarrYUFO.svg)  
 ``` 
