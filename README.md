@@ -31,9 +31,11 @@
 
         http://cdn.jsdelivr.net/gh/ <big> `{UserName}` </big> / <big> `{Path}` </big> / <big> `{FileName}` </big>
 
-        ![HTML5](https://cdn.jsdelivr.net/gh/Barry028/materials/dist/images/Html-windows.svg)
+        ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
+          ![HTML5](https://cdn.jsdelivr.net/gh/Barry028/materials/dist/images/Html-windows.svg)
         
-        ![MarkDown](https://cdn.jsdelivr.net/gh/Barry028/materials/images/MarkDown-windows.svg)
+        ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+          ![MarkDown](https://cdn.jsdelivr.net/gh/Barry028/materials/images/MarkDown-windows.svg)
 
           
         🖼️  <small> [以前做的圖床](https://codepen.io/barry199002/full/KKojxXX/13341a19a81088f2e3546004117a64e4) </small>
