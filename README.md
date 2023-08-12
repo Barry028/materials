@@ -23,13 +23,10 @@
   
   &nbsp;
 
-  ### :rocket: &nbsp; 線上圖床，使用 PicGo 上傳
+  ### :rocket: &nbsp; 線上圖床，使用 PicList 上傳
     &nbsp; 上傳檔案只有 SVG、PNG、JPG 或者 WEBP。
-    &nbsp; 可以透過 Git 下載整包 或 直接透過網址來引入或下載。
-  
-  
-  
-  :link: **線上網址**：
+    &nbsp; 可以透過 Git 下載整包 或 直接透過網址來引入或
+   :link: **線上網址**：
     http://cdn.jsdelivr.net/gh/
     <big> `{UserName}` </big> / <big> `{Path}` </big> / <big> `{FileName}`  </big> /
 
