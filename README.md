@@ -20,7 +20,7 @@
       [6]: images/DesignSystem   "Web Design System"
       [7]: images/Ux-meme        "Ux-meme"
     
-    nbsp;
+     &nbsp;
 
   ### :rocket: &nbsp; 線上圖床，使用 PicList 上傳
    * 上傳檔案只有 SVG、PNG、JPG 或者 WEBP。
