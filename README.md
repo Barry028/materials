@@ -1,7 +1,7 @@
                               
 ## :art: &nbsp; Materials 常用素材
   將一些素材整合成圖床，方便寫文章或者文章使用時使用。
-  &nbsp;  
+  &nbsp;
 
   ### :card_file_box: &nbsp; 素材類型
    * [3Ds][1]
@@ -20,7 +20,7 @@
   [5]: images/Illustrations  "Illustrations"
   [6]: images/DesignSystem   "Web Design System"
   [7]: images/Ux-meme        "Ux-meme"
-
+  
 &nbsp;
 
 ### :rocket: &nbsp; 線上圖床，使用 PicGo 上傳
@@ -34,12 +34,8 @@
    
    <big> `{UserName}`  </big> / <big> `{Path}` </big> / <big> `{FileName}`  </big> /
 
-<<<<<<< Updated upstream
-   ![html](https://cdn.jsdelivr.net/gh/Barry028/materials/dist/images/Html-windows.svg)
-=======
    ![HTML5](https://cdn.jsdelivr.net/gh/Barry028/materials/dist/images/Html-windows.svg)
->>>>>>> Stashed changes
-   
+
    ![MarkDown](https://cdn.jsdelivr.net/gh/Barry028/materials/images/MarkDown-windows.svg)
 
    <small> :speech_balloon: [以前做的圖床](https://codepen.io/barry199002/full/KKojxXX/13341a19a81088f2e3546004117a64e4) </small>
