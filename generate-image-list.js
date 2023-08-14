@@ -44,14 +44,3 @@ const imageFiles = getFilesRecursively(imageFolderPath);
 fs.writeFileSync(outputFile, JSON.stringify(imageFiles, null, 2));
 
 console.log(`Image list generated and saved to ${outputFile}`);
-
-
-
-
-
-//   let listfiles = [
-//     "images/3Ds/3D_Ecommercia/3d-Icon-ecommercia-09-60.png",
-//     "images/3Ds/3D_Education/BackPack-b3.png"]
-
-
-// console.log( listfiles )
