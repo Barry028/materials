@@ -1,0 +1,29 @@
+{
+  "name": "materials",
+  "version": "1.0.0",
+  "description": "image hosting ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "format": "prettier --write \"**/*.+(md|js|json)\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Barry028/materials.git"
+  },
+  "keywords": [
+    "materials",
+    "svg",
+    "image",
+    "picture"
+  ],
+  "author": "BarrY",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Barry028/materials/issues"
+  },
+  "homepage": "https://github.com/Barry028/materials#readme",
+  "devDependencies": {
+    "prettier": "3.0.1"
+  }
+}
