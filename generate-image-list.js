@@ -21,7 +21,15 @@ function getFilesRecursively(folderPath) {
       } else {
         const ext = path.extname(item).toLowerCase();
         if (supportedExtensions.includes(ext)) {
-          files.push(itemPath);
+          // 提取資料夾名稱並組成路徑
+          const imagePath = path.relative(imageFolderPath, itemPath);
+          const folderNames = imagePath.split(path.sep).slice(0, -1);
+          const folderPathNames = folderNames.map(name => name.toLowerCase());
+
+          files.push({
+            imagePath: imageFolderPath+imagePath,
+            folderNames: folderPathNames
+          });
         }
       }
     });
@@ -36,3 +44,14 @@ const imageFiles = getFilesRecursively(imageFolderPath);
 fs.writeFileSync(outputFile, JSON.stringify(imageFiles, null, 2));
 
 console.log(`Image list generated and saved to ${outputFile}`);
+
+
+
+
+
+//   let listfiles = [
+//     "images/3Ds/3D_Ecommercia/3d-Icon-ecommercia-09-60.png",
+//     "images/3Ds/3D_Education/BackPack-b3.png"]
+
+
+// console.log( listfiles )
