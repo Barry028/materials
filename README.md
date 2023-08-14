@@ -3,8 +3,8 @@
   將一些素材整合成圖床         方便寫文章或者文章使用時使用。
 
   
-<img src="https://api.dicebear.com/6.x/pixel-art/svg?seed=Guy&randomizeIds=true&backgroundType=gradientLinear,solid&backgroundColor=89b38f,78a27e,8be453,e1ffa9,transparent&backgroundRotation=168&translateX=10&translateY=4&rotate=184&scale=111&radius=4&size=88" alt="avatar"/> 
-<img src="https://api.dicebear.com/6.x/pixel-art/svg?seed=Gwendolyn&randomizeIds=true&backgroundType=gradientLinear,solid&backgroundColor=53e7b5,aaffff,304760,556c85,transparent&backgroundRotation=-163&translateX=20&translateY=-11&rotate=270&scale=63&radius=4&size=88" alt="avatar"/> 
+<img src="https://api.dicebear.com/6.x/pixel-art/svg?seed=Guy&randomizeIds=true&backgroundType=gradientLinear,solid&backgroundColor=89b38f,78a27e,8be453,e1ffa9,transparent&backgroundRotation=168&translateX=10&translateY=4&rotate=184&scale=111&radius=4&size=88" alt="avatar"/>
+<img src="https://api.dicebear.com/6.x/pixel-art/svg?seed=Gwendolyn&randomizeIds=true&backgroundType=gradientLinear,solid&backgroundColor=53e7b5,aaffff,304760,556c85,transparent&backgroundRotation=-163&translateX=20&translateY=-11&rotate=270&scale=63&radius=4&size=88" alt="avatar"/>
 <img src="https://api.dicebear.com/6.x/pixel-art/svg?seed=Pamela&randomizeIds=true&backgroundType=gradientLinear,solid&backgroundColor=cdc1b3,d7cbbd,d7f041,f6ff60,transparent&backgroundRotation=297&translateX=-14&translateY=13&rotate=254&scale=138&radius=4&size=88" alt="avatar"/> 
 <img src="https://api.dicebear.com/6.x/pixel-art/svg?seed=Eva&randomizeIds=true&backgroundType=gradientLinear,solid&backgroundColor=f0059b,ff49df,ea7316,ffab4e,transparent&backgroundRotation=-358&translateX=-3&translateY=-15&rotate=224&scale=84&radius=4&size=88" alt="avatar"/> 
 <img src="https://api.dicebear.com/6.x/pixel-art/svg?seed=Jamie&randomizeIds=true&backgroundType=gradientLinear,solid&backgroundColor=3b4bed,2535d7,a97c52,ca9d73,transparent&backgroundRotation=60&translateX=9&translateY=-8&rotate=146&scale=69&radius=4&size=88" alt="avatar"/> 
