@@ -11,9 +11,15 @@
     }
   },
   "settings": {
-    "downloadDir": "/Users/apple/Downloads/images",
+    "downloadDir": "/Users/barry/Downloads/PicListIn-img/images",
     "isShowThumbnail": true,
-    "isShowList": false
+    "isShowList": false,
+    "isAutoRefresh": true,
+    "isUsePreSignedUrl": true,
+    "isDownloadFileKeepDirStructure": true,
+    "pasteFormat": "rawurl",
+    "customPasteFormat": "$fileName",
+    "maxDownloadFileCount": 6
   },
   "currentPicBed": "placeholder"
 }
