@@ -1,0 +1,16 @@
+<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<rect x="0.0649414" y="0.0649414" width="24" height="24" fill="white" fill-opacity="0.01"/>
+<path d="M0.0649414 0.0649414H24.0649M0.0649414 0.0649414V24.0649M0.0649414 0.0649414L24.0649 24.0649M24.0649 0.0649414V24.0649M24.0649 0.0649414L0.0649414 24.0649M24.0649 24.0649H0.0649414" stroke="#DADEE4" stroke-width="0.13"/>
+<circle cx="12.0649" cy="12.0649" r="10" stroke="#DADEE4" stroke-width="0.13"/>
+<rect x="2.06494" y="4.06494" width="20" height="16" rx="1" stroke="#DADEE4" stroke-width="0.13"/>
+<rect x="4.06494" y="2.06494" width="16" height="20" rx="1" stroke="#DADEE4" stroke-width="0.13"/>
+<rect x="3.06494" y="3.06494" width="18" height="18" rx="1" stroke="#DADEE4" stroke-width="0.13"/>
+<circle cx="12.0649" cy="12.0649" r="4" stroke="#DADEE4" stroke-width="0.13"/>
+<rect x="3.06494" y="3.06494" width="18" height="18" fill="url(#pattern0_3_8754)"/>
+<defs>
+<pattern id="pattern0_3_8754" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0_3_8754" transform="scale(0.0138889)"/>
+</pattern>
+<image id="image0_3_8754" width="72" height="72" preserveAspectRatio="none" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAYAAABV7bNHAAACP0lEQVR4Xu2cXU7CQBDHZyzREl56hBr6rkeANyIkcgRvIJ5AOIFwAj2CJmJ8kxvIATD2CL4gIOCY9Sv4ETcyaTYsf96asp3Ob/8zuztJh+nbL0wqJaZgn0TqxBx/v+/jNRP1ian/PJ23xul1uugjf1xEcSma5ArHRNTwEcI/fGpvzYath7T3YMa8AjJwnnKFGyHa/ceDvP2rUdTmbFg2kF4B5ZPqCZTzY77bo0H3iMO4EnMuuPdWDgrHhLjMYbF6ykwHiuf4O1Skw/mkekvIPb9PMlNqAIm/EtB7ZgU0GnQ/twJ6cz+fYJsg1/YByBJBAARAfycGW4hDQVAQFKRaXBFiFnwABECqCDOVjD9PEljFACjjVUwn4NUfbQ2x1XdR5wEAWfgBEAAhxHQEoCAdP+QgrYJc14Rd27cqyPULurYPQDiLZXwWcy1x1/YRYggxhJhqJ4iKImrSKgGhJm3DhxDLOsRsM+D7fes+yHcANv8ASFvusBH2/T4UBAXpNA4FQUEZK8h1Pca1fWuIuX5B1/YBCAUzFMxUWRin+axP866TpGv7SNJI0kjSSNIqAkjSOnxY5qEgKMjpV9fYB2n3QToBr/5oDot797wmjZSWmK4+54t7bWI+XGKw90OY6YzDpFZikhvvvV3CQZnNt98aLBVrbWKBihYhinRGd1eN9xZd9WiSmxoVoUXXW9+yry26DLgorkeTYNZceyWJdLbmj80vTd4WlWVadlEQNJlpZ10UJSIpE10Ib5yPB5e9RR4vK3/2VHUwgNIAAAAASUVORK5CYII="/>
+</defs>
+</svg>

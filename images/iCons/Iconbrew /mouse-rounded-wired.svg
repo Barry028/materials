@@ -1,0 +1,19 @@
+<svg width="54" height="28" viewBox="0 0 54 28" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="0.5" y="0.5" width="53" height="27" rx="4.5" stroke="#7B61FF" stroke-dasharray="10 5"/>
+<g clip-path="url(#clip0_1_2830)">
+<path d="M14 23C11.7909 23 10 21.2091 10 19L10 15C10 12.7909 11.7909 11 14 11C16.2091 11 18 12.7909 18 15L18 19C18 21.2091 16.2091 23 14 23Z" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M14 13.5L14 10.3079C14 9.62222 14 9.27938 14.0633 9.03372C14.3199 8.03886 15.2884 7.40019 16.3039 7.5563C16.5547 7.59485 16.8698 7.7299 17.5 8C18.1302 8.2701 18.4453 8.40515 18.6961 8.4437C19.7116 8.59981 20.6801 7.96114 20.9367 6.96628C21 6.72062 21 6.37778 21 5.69212L21 5" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g clip-path="url(#clip1_1_2830)">
+<path d="M43 20.5C41.3431 20.5 40 19.1569 40 17.5L40 14.5C40 12.8431 41.3431 11.5 43 11.5C44.6569 11.5 46 12.8431 46 14.5L46 17.5C46 19.1569 44.6569 20.5 43 20.5Z" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M43 13L43 10.8634C43 10.3967 43 10.1633 43.0325 10.0236C43.2203 9.21593 44.1281 8.81163 44.8541 9.21235C44.9796 9.28165 45.1531 9.43777 45.5 9.75C45.8469 10.0622 46.0204 10.2184 46.1459 10.2877C46.8719 10.6884 47.7797 10.2841 47.9675 9.47639C48 9.33671 48 9.10334 48 8.63659L48 7.5" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<defs>
+<clipPath id="clip0_1_2830">
+<rect width="24" height="24" fill="white" transform="translate(2 2)"/>
+</clipPath>
+<clipPath id="clip1_1_2830">
+<rect width="18" height="18" fill="white" transform="translate(34 5)"/>
+</clipPath>
+</defs>
+</svg>

@@ -1,0 +1,29 @@
+<svg width="244" height="203" viewBox="0 0 244 203" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M112 25C112 11.1929 123.193 0 137 0H219C232.807 0 244 11.1929 244 25V68C244 81.8071 232.807 93 219 93H137C123.193 93 112 81.8071 112 68V25Z" fill="#003CFF"/>
+<foreignObject x="-30" y="-7" width="240" height="240"><div xmlns="http://www.w3.org/1999/xhtml" style="backdrop-filter:blur(15px);clip-path:url(#bgblur_0_18_25_clip_path);height:100%;width:100%"></div></foreignObject><path data-figma-bg-blur-radius="30" d="M180 113C180 162.706 139.706 203 90 203C40.2944 203 0 162.706 0 113C0 63.2944 40.2944 23 90 23C139.706 23 180 63.2944 180 113Z" fill="url(#paint0_linear_18_25)" fill-opacity="0.3"/>
+<foreignObject x="-30" y="-7" width="240" height="240"><div xmlns="http://www.w3.org/1999/xhtml" style="backdrop-filter:blur(15px);clip-path:url(#bgblur_1_18_25_clip_path);height:100%;width:100%"></div></foreignObject><g data-figma-bg-blur-radius="30">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M90 202.5C139.429 202.5 179.5 162.429 179.5 113C179.5 63.5705 139.429 23.5 90 23.5C40.5705 23.5 0.5 63.5705 0.5 113C0.5 162.429 40.5705 202.5 90 202.5ZM90 203C139.706 203 180 162.706 180 113C180 63.2944 139.706 23 90 23C40.2944 23 0 63.2944 0 113C0 162.706 40.2944 203 90 203Z" fill="url(#paint1_linear_18_25)"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M90 202.5C139.429 202.5 179.5 162.429 179.5 113C179.5 63.5705 139.429 23.5 90 23.5C40.5705 23.5 0.5 63.5705 0.5 113C0.5 162.429 40.5705 202.5 90 202.5ZM90 203C139.706 203 180 162.706 180 113C180 63.2944 139.706 23 90 23C40.2944 23 0 63.2944 0 113C0 162.706 40.2944 203 90 203Z" fill="url(#paint2_radial_18_25)"/>
+</g>
+<path d="M67 93C67 98.5228 62.5228 103 57 103C51.4772 103 47 98.5228 47 93C47 87.4772 51.4772 83 57 83C62.5228 83 67 87.4772 67 93Z" fill="white"/>
+<path d="M132 93C132 98.5228 127.523 103 122 103C116.477 103 112 98.5228 112 93C112 87.4772 116.477 83 122 83C127.523 83 132 87.4772 132 93Z" fill="white"/>
+<path d="M114.985 129.259C117.454 130.495 118.482 133.527 116.892 135.785C114.22 139.581 110.776 142.796 106.766 145.208C101.321 148.483 95.0574 150.141 88.7057 149.991C82.3541 149.84 76.1762 147.886 70.8929 144.357C67.0017 141.758 63.714 138.384 61.2241 134.465C59.7433 132.134 60.9141 129.154 63.4392 128.036L65.1071 127.298C67.6322 126.18 70.5447 127.371 72.2102 129.573C73.6643 131.496 75.4362 133.173 77.4604 134.525C80.8789 136.808 84.8763 138.072 88.9861 138.17C93.0959 138.267 97.1487 137.194 100.672 135.075C102.758 133.821 104.607 132.23 106.151 130.378C107.919 128.257 110.884 127.206 113.354 128.442L114.985 129.259Z" fill="white"/>
+<defs>
+<clipPath id="bgblur_0_18_25_clip_path" transform="translate(30 7)"><path d="M180 113C180 162.706 139.706 203 90 203C40.2944 203 0 162.706 0 113C0 63.2944 40.2944 23 90 23C139.706 23 180 63.2944 180 113Z"/>
+</clipPath><clipPath id="bgblur_1_18_25_clip_path" transform="translate(30 7)"><path fill-rule="evenodd" clip-rule="evenodd" d="M90 202.5C139.429 202.5 179.5 162.429 179.5 113C179.5 63.5705 139.429 23.5 90 23.5C40.5705 23.5 0.5 63.5705 0.5 113C0.5 162.429 40.5705 202.5 90 202.5ZM90 203C139.706 203 180 162.706 180 113C180 63.2944 139.706 23 90 23C40.2944 23 0 63.2944 0 113C0 162.706 40.2944 203 90 203Z"/>
+</clipPath><linearGradient id="paint0_linear_18_25" x1="19.262" y1="39.6072" x2="213.548" y2="140.206" gradientUnits="userSpaceOnUse">
+<stop stop-color="#5A81FF" stop-opacity="0.9"/>
+<stop offset="0.447036" stop-color="#567DFF" stop-opacity="0.955296"/>
+<stop offset="1" stop-color="#4E78FF" stop-opacity="0.9"/>
+</linearGradient>
+<linearGradient id="paint1_linear_18_25" x1="25.9041" y1="16.5714" x2="194.624" y2="115.081" gradientUnits="userSpaceOnUse">
+<stop offset="0.188941" stop-color="#E7F0FF" stop-opacity="0.523483"/>
+<stop offset="0.526042" stop-color="#88A4FF"/>
+<stop offset="1" stop-color="#B4D2FF" stop-opacity="0.1"/>
+</linearGradient>
+<radialGradient id="paint2_radial_18_25" cx="0" cy="0" r="1" gradientTransform="matrix(89.0037 -109.821 109.821 231.594 26.9004 197.107)" gradientUnits="userSpaceOnUse">
+<stop stop-color="white"/>
+<stop offset="1" stop-color="white" stop-opacity="0"/>
+</radialGradient>
+</defs>
+</svg>

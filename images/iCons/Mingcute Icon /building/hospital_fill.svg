@@ -1,0 +1,16 @@
+<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<rect x="0.0650024" y="0.0650024" width="24" height="24" fill="white" fill-opacity="0.01"/>
+<path d="M0.0650024 0.0650024H24.065M0.0650024 0.0650024V24.065M0.0650024 0.0650024L24.065 24.065M24.065 0.0650024V24.065M24.065 0.0650024L0.0650024 24.065M24.065 24.065H0.0650024" stroke="#DADEE4" stroke-width="0.13"/>
+<circle cx="12.065" cy="12.065" r="10" stroke="#DADEE4" stroke-width="0.13"/>
+<rect x="2.065" y="4.065" width="20" height="16" rx="1" stroke="#DADEE4" stroke-width="0.13"/>
+<rect x="4.065" y="2.065" width="16" height="20" rx="1" stroke="#DADEE4" stroke-width="0.13"/>
+<rect x="3.065" y="3.065" width="18" height="18" rx="1" stroke="#DADEE4" stroke-width="0.13"/>
+<circle cx="12.065" cy="12.065" r="4" stroke="#DADEE4" stroke-width="0.13"/>
+<rect x="3.065" y="2.065" width="18" height="20" fill="url(#pattern0_3_12261)"/>
+<defs>
+<pattern id="pattern0_3_12261" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0_3_12261" transform="scale(0.0138889 0.0125)"/>
+</pattern>
+<image id="image0_3_12261" width="72" height="80" preserveAspectRatio="none" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABQCAYAAAC6aDOxAAAD7klEQVR4Xu2cUVLbMBCGd+vQOM1LeoN04r6HEzR5Y3A7pSdouQGcADgB4QRwg9KZhnamD3AD8k4y+AbNA2kS4lgdeQoFNbGiSI5lun7L2FKkT/+uVlrLCMLlehsNBOc9MLYFiFXxvo2/EaADCJ1oMj0YBd8Dk23Eu8oq1UZlXCjvAcCOyT/IoK5WMRwc9IOLvon/jgFxOLeF8jkDqJuoNOs6uKKeh4OmCUgxoJLnHz4B5Yjj0hp227u6g4VudaOKBedatyIbyzPA5qj79UKnbejW/GNE+KRTibVlGTsa9s60fCqWPP8Snojv+WegEILhVfuVzgByQEynAtvLDrvt+5l6mbYSIAk1AkSAyMQSNZAPH8QgYIjbbnjT4dHti9q7LQbRISCkvtazHxCDoDgdrIthf6W6VRk7k8u0IVkPaMqiD7e9b6ez7MD13jYQ2Pky0++iZawHlNTAWEWFyc9FO7vMc7kG9GehnGqgSoAksiJABGgZz/O3jB0KEuIcvS4BmIyTsgc0J87RhWQqTsocUFKcowvJRJyUOSDdBiRBNBEn6bZPe7ujGA5emsgezAOlu6GXOSATG+Pz4MTOGqPPOqaaOSBIzUk3KmOnrL2YzR4QH14GAUK0+2vOolRFATyJOSq4dWTOsYmVvh2AEgjIGqjrY2Twxf8v1/yPEUKLJ5Tvyibl9rWdtGoDxedXDahU868lynyU2///AC2Q5nqY2ydA800gzu2nDkgWJ63cxBZQ0B0zHsKkDigpTjIR56j6QKUBYewodUDz4qT4hS0DcU6qgBCC9AEJcZLpOCdVQACwGkCyXqR4X4yDlEyMAMlHhhQkYUSACNDjtzvIBwmKICetmBcjBZGC5FPzwyfIxMjE1BQjPk0KyruCGMAFA/iC4drpKDiNz3Ktvd6sOwB1jHDPxMZ8EiObFcTPax0Mu22+QT73Knk+P0vBz6ndb6LrGdXj0rYC6ofImpOrs84ineWKKjDk7yoah2QroF2ZcmZkN7iS+Lk1o5d9gBgEw95yJ2xKns9V1DBJyDpAjLHtUe/sZJlOFj1/55lhFVkHKMTb9cnVj4V8jwgxjdOP1gGSpZplylJdTMrqI0B5CxRJQYojJjOBGdO90TfvycQUB0zVxxnftCcTUxwxMjGBACmIFKRqFMnbC6q1qTpRWf00iykqWnUAaBaTACZABMiy3DxN84pOUTbL0FpMkZDqLCOr3rppXtbgvN03PovlDYCsvQRo1dO8bETydp8riH9cxHhGM28gZraXHxR0vc19BOS5cboEAohwgqYO8D85uvxrEtNpM/7GIE/YgePsI8CbtF9HyQHIPgM8csObFj/u/htYSeOTw+6DHAAAAABJRU5ErkJggg=="/>
+</defs>
+</svg>

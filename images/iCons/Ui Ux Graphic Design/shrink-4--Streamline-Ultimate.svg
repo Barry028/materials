@@ -1,0 +1,21 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_3303_2512)">
+<path d="M3 2.5H21C21 2.5 21.5 2.5 21.5 3V21C21.5 21 21.5 21.5 21 21.5H3C3 21.5 2.5 21.5 2.5 21V3C2.5 3 2.5 2.5 3 2.5Z" fill="#DFF9FF"/>
+<path d="M10.515 9.51401H13.515C13.515 9.51401 14.515 9.51401 14.515 10.514V13.514C14.515 13.514 14.515 14.514 13.515 14.514H10.515C10.515 14.514 9.51501 14.514 9.51501 13.514V10.514C9.51501 10.514 9.51501 9.51401 10.515 9.51401Z" fill="#9FEAFF"/>
+<path d="M14.515 11V10.514C14.515 10.2488 14.4097 9.99444 14.2221 9.8069C14.0346 9.61936 13.7802 9.51401 13.515 9.51401H10.515C10.2498 9.51401 9.99544 9.61936 9.80791 9.8069C9.62037 9.99444 9.51501 10.2488 9.51501 10.514V11H14.515Z" fill="#DFF9FF"/>
+<path d="M10.515 9.51401H13.515C13.515 9.51401 14.515 9.51401 14.515 10.514V13.514C14.515 13.514 14.515 14.514 13.515 14.514H10.515C10.515 14.514 9.51501 14.514 9.51501 13.514V10.514C9.51501 10.514 9.51501 9.51401 10.515 9.51401Z" stroke="#00303E" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M0.531006 23.499L7.51501 16.514" stroke="#00303E" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M16.515 7.51399L23.5 0.528992" stroke="#00303E" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M21.515 7.51401H16.515V2.51401" stroke="#00303E" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M7.51501 21.514V16.514H2.51501" stroke="#00303E" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M0.522949 0.520996L7.51495 7.514" stroke="#00303E" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M16.515 16.514L23.5 23.499" stroke="#00303E" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M16.515 21.514V16.514H21.515" stroke="#00303E" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M2.51501 7.51401H7.51501V2.51401" stroke="#00303E" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<defs>
+<clipPath id="clip0_3303_2512">
+<rect width="24" height="24" fill="white"/>
+</clipPath>
+</defs>
+</svg>

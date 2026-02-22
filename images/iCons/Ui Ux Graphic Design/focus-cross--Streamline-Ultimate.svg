@@ -1,0 +1,21 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M21.5 5.5V18.5C21.5 18.5 21.5 19.5 20.5 19.5H3.5C3.5 19.5 2.5 19.5 2.5 18.5V5.5C2.5 5.5 2.5 4.5 3.5 4.5H20.5C20.5 4.5 21.5 4.5 21.5 5.5Z" fill="#DFF9FF"/>
+<path d="M0.5 18.531V20.5C0.5 20.7652 0.605357 21.0196 0.792893 21.2071C0.98043 21.3946 1.23478 21.5 1.5 21.5H3.469" stroke="#00303E" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M3.469 2.5H1.5C1.23478 2.5 0.98043 2.60536 0.792893 2.79289C0.605357 2.98043 0.5 3.23478 0.5 3.5V5.469" stroke="#00303E" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M23.5 5.469V3.5C23.5 3.23478 23.3946 2.98043 23.2071 2.79289C23.0196 2.60536 22.7652 2.5 22.5 2.5H20.531" stroke="#00303E" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M20.531 21.5H22.5C22.7652 21.5 23.0196 21.3946 23.2071 21.2071C23.3946 21.0196 23.5 20.7652 23.5 20.5V18.531" stroke="#00303E" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M11 3.5H13C13 3.5 13.5 3.5 13.5 4V6C13.5 6 13.5 6.5 13 6.5H11C11 6.5 10.5 6.5 10.5 6V4C10.5 4 10.5 3.5 11 3.5Z" fill="#9FEAFF"/>
+<path d="M11 17.5H13C13 17.5 13.5 17.5 13.5 18V20C13.5 20 13.5 20.5 13 20.5H11C11 20.5 10.5 20.5 10.5 20V18C10.5 18 10.5 17.5 11 17.5Z" fill="#9FEAFF"/>
+<path d="M11 10.5H13C13 10.5 13.5 10.5 13.5 11V13C13.5 13 13.5 13.5 13 13.5H11C11 13.5 10.5 13.5 10.5 13V11C10.5 11 10.5 10.5 11 10.5Z" fill="#9FEAFF"/>
+<path d="M20 10.5H22C22 10.5 22.5 10.5 22.5 11V13C22.5 13 22.5 13.5 22 13.5H20C20 13.5 19.5 13.5 19.5 13V11C19.5 11 19.5 10.5 20 10.5Z" fill="#9FEAFF"/>
+<path d="M2 10.5H4C4 10.5 4.5 10.5 4.5 11V13C4.5 13 4.5 13.5 4 13.5H2C2 13.5 1.5 13.5 1.5 13V11C1.5 11 1.5 10.5 2 10.5Z" fill="#9FEAFF"/>
+<path d="M23.5 5.5V3.5C23.5 3.23478 23.3946 2.98043 23.2071 2.79289C23.0196 2.60536 22.7652 2.5 22.5 2.5H20.5" stroke="#00303E" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M23.5 18.5V20.5C23.5 20.7652 23.3946 21.0196 23.2071 21.2071C23.0196 21.3946 22.7652 21.5 22.5 21.5H20.5" stroke="#00303E" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M0.5 5.5V3.5C0.5 3.23478 0.605357 2.98043 0.792893 2.79289C0.98043 2.60536 1.23478 2.5 1.5 2.5H3.5" stroke="#00303E" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M0.5 18.5V20.5C0.5 20.7652 0.605357 21.0196 0.792893 21.2071C0.98043 21.3946 1.23478 21.5 1.5 21.5H3.5" stroke="#00303E" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M11 3.5H13C13 3.5 13.5 3.5 13.5 4V6C13.5 6 13.5 6.5 13 6.5H11C11 6.5 10.5 6.5 10.5 6V4C10.5 4 10.5 3.5 11 3.5Z" stroke="#00303E" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M11 17.5H13C13 17.5 13.5 17.5 13.5 18V20C13.5 20 13.5 20.5 13 20.5H11C11 20.5 10.5 20.5 10.5 20V18C10.5 18 10.5 17.5 11 17.5Z" stroke="#00303E" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M11 10.5H13C13 10.5 13.5 10.5 13.5 11V13C13.5 13 13.5 13.5 13 13.5H11C11 13.5 10.5 13.5 10.5 13V11C10.5 11 10.5 10.5 11 10.5Z" stroke="#00303E" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M20 10.5H22C22 10.5 22.5 10.5 22.5 11V13C22.5 13 22.5 13.5 22 13.5H20C20 13.5 19.5 13.5 19.5 13V11C19.5 11 19.5 10.5 20 10.5Z" stroke="#00303E" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M2 10.5H4C4 10.5 4.5 10.5 4.5 11V13C4.5 13 4.5 13.5 4 13.5H2C2 13.5 1.5 13.5 1.5 13V11C1.5 11 1.5 10.5 2 10.5Z" stroke="#00303E" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
