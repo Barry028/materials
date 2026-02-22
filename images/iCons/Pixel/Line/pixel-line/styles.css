@@ -1,0 +1,340 @@
+@charset "UTF-8";
+
+@font-face {
+  font-family: "pixel-line";
+  src:url("fonts/pixel-line.eot");
+  src:url("fonts/pixel-line.eot?#iefix") format("embedded-opentype"),
+    url("fonts/pixel-line.woff") format("woff"),
+    url("fonts/pixel-line.ttf") format("truetype"),
+    url("fonts/pixel-line.svg#pixel-line") format("svg");
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+[data-icon]:before {
+  font-family: "pixel-line" !important;
+  content: attr(data-icon);
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+[class^="pxli-"]:before,
+[class*=" pxli-"]:before {
+  font-family: "pixel-line" !important;
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.pxli-accounting-budget-calc-svgrepo-com:before {
+  content: "\61";
+}
+.pxli-agenda-calendar-date-svgrepo-com:before {
+  content: "\62";
+}
+.pxli-agenda-handbook-note-svgrepo-com:before {
+  content: "\63";
+}
+.pxli-anchor-office-pen-svgrepo-com:before {
+  content: "\64";
+}
+.pxli-archive-cabinet-cupboard-svgrepo-com:before {
+  content: "\65";
+}
+.pxli-archive-documents-folders-svgrepo-com:before {
+  content: "\66";
+}
+.pxli-badge-card-identity-svgrepo-com:before {
+  content: "\67";
+}
+.pxli-bag-briefcase-business-svgrepo-com:before {
+  content: "\68";
+}
+.pxli-book-office-pages-svgrepo-com:before {
+  content: "\69";
+}
+.pxli-boss-business-chair-svgrepo-com:before {
+  content: "\6a";
+}
+.pxli-boss-discussion-interview-svgrepo-com:before {
+  content: "\6b";
+}
+.pxli-breakfast-clock-morning-svgrepo-com:before {
+  content: "\6c";
+}
+.pxli-communication-contact-e-mail-svgrepo-com:before {
+  content: "\6d";
+}
+.pxli-communication-contact-fax-svgrepo-com:before {
+  content: "\6e";
+}
+.pxli-computer-desktop-office-svgrepo-com:before {
+  content: "\6f";
+}
+.pxli-container-cupboard-drawers-svgrepo-com:before {
+  content: "\70";
+}
+.pxli-copy-office-paper-svgrepo-com:before {
+  content: "\71";
+}
+.pxli-delete-garbage-office-svgrepo-com:before {
+  content: "\72";
+}
+.pxli-desktop-hotel-lamp-svgrepo-com:before {
+  content: "\73";
+}
+.pxli-document-file-office-svgrepo-com:before {
+  content: "\74";
+}
+.pxli-eraser-gum-office-svgrepo-com:before {
+  content: "\75";
+}
+.pxli-mark-office-seal-svgrepo-com:before {
+  content: "\76";
+}
+.pxli-office-paper-remove-svgrepo-com:before {
+  content: "\77";
+}
+.pxli-tea-office-drink-svgrepo-com:before {
+  content: "\78";
+}
+.pxli-delete-office-paper-svgrepo-com:before {
+  content: "\79";
+}
+.pxli-align-center-svgrepo-com:before {
+  content: "\7a";
+}
+.pxli-align-justify-svgrepo-com:before {
+  content: "\41";
+}
+.pxli-align-left-svgrepo-com:before {
+  content: "\42";
+}
+.pxli-align-right-svgrepo-com:before {
+  content: "\43";
+}
+.pxli-battery-1-svgrepo-com:before {
+  content: "\44";
+}
+.pxli-battery-2-svgrepo-com:before {
+  content: "\45";
+}
+.pxli-battery-3-svgrepo-com:before {
+  content: "\46";
+}
+.pxli-battery-4-svgrepo-com:before {
+  content: "\47";
+}
+.pxli-book-svgrepo-com:before {
+  content: "\48";
+}
+.pxli-brick-wall-svgrepo-com:before {
+  content: "\49";
+}
+.pxli-briefcase-1-svgrepo-com:before {
+  content: "\4a";
+}
+.pxli-briefcase-2-svgrepo-com:before {
+  content: "\4b";
+}
+.pxli-briefcase-3-svgrepo-com:before {
+  content: "\4c";
+}
+.pxli-browser-1-svgrepo-com:before {
+  content: "\4d";
+}
+.pxli-browser-2-svgrepo-com:before {
+  content: "\4e";
+}
+.pxli-browser-3-svgrepo-com:before {
+  content: "\4f";
+}
+.pxli-browser-4-svgrepo-com:before {
+  content: "\50";
+}
+.pxli-browser-5-svgrepo-com:before {
+  content: "\51";
+}
+.pxli-browser-6-svgrepo-com:before {
+  content: "\52";
+}
+.pxli-calculator-svgrepo-com:before {
+  content: "\53";
+}
+.pxli-calendar-1-svgrepo-com:before {
+  content: "\54";
+}
+.pxli-calendar-2-svgrepo-com:before {
+  content: "\55";
+}
+.pxli-chair-svgrepo-com:before {
+  content: "\56";
+}
+.pxli-clock-svgrepo-com:before {
+  content: "\57";
+}
+.pxli-cupboard-svgrepo-com:before {
+  content: "\58";
+}
+.pxli-desk-svgrepo-com:before {
+  content: "\59";
+}
+.pxli-document-1-svgrepo-com:before {
+  content: "\5a";
+}
+.pxli-document-2-svgrepo-com:before {
+  content: "\30";
+}
+.pxli-document-3-svgrepo-com:before {
+  content: "\31";
+}
+.pxli-door-svgrepo-com:before {
+  content: "\32";
+}
+.pxli-drawer-svgrepo-com:before {
+  content: "\33";
+}
+.pxli-film-svgrepo-com:before {
+  content: "\34";
+}
+.pxli-first-aid-svgrepo-com:before {
+  content: "\35";
+}
+.pxli-floppy-disk-svgrepo-com:before {
+  content: "\36";
+}
+.pxli-fullscreen-svgrepo-com:before {
+  content: "\37";
+}
+.pxli-gift-svgrepo-com:before {
+  content: "\38";
+}
+.pxli-imac-svgrepo-com:before {
+  content: "\39";
+}
+.pxli-laptop-svgrepo-com:before {
+  content: "\21";
+}
+.pxli-list-1-svgrepo-com:before {
+  content: "\22";
+}
+.pxli-list-2-svgrepo-com:before {
+  content: "\23";
+}
+.pxli-list-3-svgrepo-com:before {
+  content: "\24";
+}
+.pxli-lock-svgrepo-com:before {
+  content: "\25";
+}
+.pxli-menu-svgrepo-com:before {
+  content: "\26";
+}
+.pxli-minus-svgrepo-com:before {
+  content: "\27";
+}
+.pxli-monitor-svgrepo-com:before {
+  content: "\28";
+}
+.pxli-mouse-svgrepo-com:before {
+  content: "\29";
+}
+.pxli-mug-svgrepo-com:before {
+  content: "\2a";
+}
+.pxli-notebook-svgrepo-com:before {
+  content: "\2b";
+}
+.pxli-notepad-1-svgrepo-com:before {
+  content: "\2c";
+}
+.pxli-notepad-2-svgrepo-com:before {
+  content: "\2d";
+}
+.pxli-outline-svgrepo-com:before {
+  content: "\2e";
+}
+.pxli-pc-case-svgrepo-com:before {
+  content: "\2f";
+}
+.pxli-pen-1-svgrepo-com:before {
+  content: "\3a";
+}
+.pxli-pen-2-svgrepo-com:before {
+  content: "\3b";
+}
+.pxli-photo-gallery-svgrepo-com:before {
+  content: "\3c";
+}
+.pxli-plus-svgrepo-com:before {
+  content: "\3d";
+}
+.pxli-printer-svgrepo-com:before {
+  content: "\3e";
+}
+.pxli-resize-svgrepo-com:before {
+  content: "\3f";
+}
+.pxli-ruler-svgrepo-com:before {
+  content: "\40";
+}
+.pxli-smart-phone-1-svgrepo-com:before {
+  content: "\5b";
+}
+.pxli-smart-phone-2-svgrepo-com:before {
+  content: "\5d";
+}
+.pxli-smart-phone-3-svgrepo-com:before {
+  content: "\5e";
+}
+.pxli-smart-phone-4-svgrepo-com:before {
+  content: "\5f";
+}
+.pxli-sofa-svgrepo-com:before {
+  content: "\60";
+}
+.pxli-table-svgrepo-com:before {
+  content: "\7b";
+}
+.pxli-tablet-1-svgrepo-com:before {
+  content: "\7c";
+}
+.pxli-tablet-2-svgrepo-com:before {
+  content: "\7d";
+}
+.pxli-tablet-3-svgrepo-com:before {
+  content: "\7e";
+}
+.pxli-tablet-4-svgrepo-com:before {
+  content: "\5c";
+}
+.pxli-transform-svgrepo-com:before {
+  content: "\e000";
+}
+.pxli-trash-1-svgrepo-com:before {
+  content: "\e001";
+}
+.pxli-trash-2-svgrepo-com:before {
+  content: "\e002";
+}
+.pxli-unlock-svgrepo-com:before {
+  content: "\e003";
+}
+.pxli-video-game-controller-svgrepo-com:before {
+  content: "\e004";
+}
+.pxli-window-svgrepo-com:before {
+  content: "\e005";
+}

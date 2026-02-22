@@ -1,0 +1,496 @@
+@charset "UTF-8";
+
+@font-face {
+  font-family: "industrialsharp";
+  src:url("fonts/industrialsharp.eot");
+  src:url("fonts/industrialsharp.eot?#iefix") format("embedded-opentype"),
+    url("fonts/industrialsharp.woff") format("woff"),
+    url("fonts/industrialsharp.ttf") format("truetype"),
+    url("fonts/industrialsharp.svg#industrialsharp") format("svg");
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+[data-icon]:before {
+  font-family: "industrialsharp" !important;
+  content: attr(data-icon);
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+[class^="insh-"]:before,
+[class*=" insh-"]:before {
+  font-family: "industrialsharp" !important;
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.insh-add-document-note-svgrepo-com:before {
+  content: "\61";
+}
+.insh-add-eye-svgrepo-com:before {
+  content: "\62";
+}
+.insh-add-task-list-svgrepo-com:before {
+  content: "\63";
+}
+.insh-add-task-svgrepo-com:before {
+  content: "\64";
+}
+.insh-ai-svgrepo-com:before {
+  content: "\65";
+}
+.insh-alarm-bell-cancelled-svgrepo-com:before {
+  content: "\66";
+}
+.insh-alarm-bell-svgrepo-com:before {
+  content: "\67";
+}
+.insh-alarm-clock-svgrepo-com:before {
+  content: "\68";
+}
+.insh-analyze-svgrepo-com:before {
+  content: "\69";
+}
+.insh-anomaly-found-svgrepo-com:before {
+  content: "\6a";
+}
+.insh-anomaly-svgrepo-com:before {
+  content: "\6b";
+}
+.insh-app-menu-svgrepo-com:before {
+  content: "\6c";
+}
+.insh-apps-svgrepo-com:before {
+  content: "\6d";
+}
+.insh-attach-svgrepo-com:before {
+  content: "\6e";
+}
+.insh-attachment-upload-svgrepo-com:before {
+  content: "\6f";
+}
+.insh-audio-description1-svgrepo-com:before {
+  content: "\70";
+}
+.insh-audio-description2-svgrepo-com:before {
+  content: "\71";
+}
+.insh-audit-report-svgrepo-com:before {
+  content: "\72";
+}
+.insh-average-svgrepo-com:before {
+  content: "\73";
+}
+.insh-bar-code-svgrepo-com:before {
+  content: "\74";
+}
+.insh-barchart-svgrepo-com:before {
+  content: "\75";
+}
+.insh-battery-empty-question-svgrepo-com:before {
+  content: "\76";
+}
+.insh-binoculars-svgrepo-com:before {
+  content: "\77";
+}
+.insh-book-svgrepo-com:before {
+  content: "\78";
+}
+.insh-building1-svgrepo-com:before {
+  content: "\79";
+}
+.insh-building2-svgrepo-com:before {
+  content: "\7a";
+}
+.insh-bulb-svgrepo-com:before {
+  content: "\41";
+}
+.insh-calendar-settings-svgrepo-com:before {
+  content: "\42";
+}
+.insh-calendar-svgrepo-com:before {
+  content: "\43";
+}
+.insh-cancel-svgrepo-com:before {
+  content: "\44";
+}
+.insh-cancelled-svgrepo-com:before {
+  content: "\45";
+}
+.insh-capacity-svgrepo-com:before {
+  content: "\46";
+}
+.insh-capture-svgrepo-com:before {
+  content: "\47";
+}
+.insh-card-layout-svgrepo-com:before {
+  content: "\48";
+}
+.insh-cloud-download-add-svgrepo-com:before {
+  content: "\49";
+}
+.insh-cloud-download-list-svgrepo-com:before {
+  content: "\4a";
+}
+.insh-cloud-upload-svgrepo-com:before {
+  content: "\4b";
+}
+.insh-code-svgrepo-com:before {
+  content: "\4c";
+}
+.insh-cogwheel-svgrepo-com:before {
+  content: "\4d";
+}
+.insh-combine-svgrepo-com:before {
+  content: "\4e";
+}
+.insh-compound-block-svgrepo-com:before {
+  content: "\4f";
+}
+.insh-configure-svgrepo-com:before {
+  content: "\50";
+}
+.insh-contact-details-svgrepo-com:before {
+  content: "\51";
+}
+.insh-controlled-device-svgrepo-com:before {
+  content: "\52";
+}
+.insh-controller-device-svgrepo-com:before {
+  content: "\53";
+}
+.insh-copy-svgrepo-com:before {
+  content: "\54";
+}
+.insh-details-svgrepo-com:before {
+  content: "\55";
+}
+.insh-diagram-module-library-svgrepo-com:before {
+  content: "\56";
+}
+.insh-diagram-module-new-svgrepo-com:before {
+  content: "\57";
+}
+.insh-diagram-module-svgrepo-com:before {
+  content: "\58";
+}
+.insh-disk-pen-svgrepo-com:before {
+  content: "\59";
+}
+.insh-disk-svgrepo-com:before {
+  content: "\5a";
+}
+.insh-doc-document-svgrepo-com:before {
+  content: "\30";
+}
+.insh-document-bulk-svgrepo-com:before {
+  content: "\31";
+}
+.insh-document-info-svgrepo-com:before {
+  content: "\32";
+}
+.insh-document-link-svgrepo-com:before {
+  content: "\33";
+}
+.insh-document-management-svgrepo-com:before {
+  content: "\34";
+}
+.insh-document-reference-svgrepo-com:before {
+  content: "\35";
+}
+.insh-document-settings-svgrepo-com:before {
+  content: "\36";
+}
+.insh-document-success-svgrepo-com:before {
+  content: "\37";
+}
+.insh-document-svgrepo-com:before {
+  content: "\38";
+}
+.insh-double-check-svgrepo-com:before {
+  content: "\39";
+}
+.insh-double-chevron-left-svgrepo-com:before {
+  content: "\21";
+}
+.insh-double-chevron-right-svgrepo-com:before {
+  content: "\22";
+}
+.insh-double-chevron-up-svgrepo-com:before {
+  content: "\23";
+}
+.insh-doublet-svgrepo-com:before {
+  content: "\24";
+}
+.insh-download-list-svgrepo-com:before {
+  content: "\25";
+}
+.insh-duplicate-document-svgrepo-com:before {
+  content: "\26";
+}
+.insh-duplicate-svgrepo-com:before {
+  content: "\27";
+}
+.insh-e-mail-svgrepo-com:before {
+  content: "\28";
+}
+.insh-earth-svgrepo-com:before {
+  content: "\29";
+}
+.insh-edit-plant-svgrepo-com:before {
+  content: "\2a";
+}
+.insh-folder-outline-svgrepo-com:before {
+  content: "\2b";
+}
+.insh-folder-up-svgrepo-com:before {
+  content: "\2c";
+}
+.insh-function-diagram-svgrepo-com:before {
+  content: "\2d";
+}
+.insh-group-svgrepo-com:before {
+  content: "\2e";
+}
+.insh-hardware-cabinet-svgrepo-com:before {
+  content: "\2f";
+}
+.insh-hierarchy-svgrepo-com:before {
+  content: "\3a";
+}
+.insh-highlight-svgrepo-com:before {
+  content: "\3b";
+}
+.insh-history-list-svgrepo-com:before {
+  content: "\3c";
+}
+.insh-history-svgrepo-com:before {
+  content: "\3d";
+}
+.insh-hourglass-svgrepo-com:before {
+  content: "\3e";
+}
+.insh-image-svgrepo-com:before {
+  content: "\3f";
+}
+.insh-info-feed-svgrepo-com:before {
+  content: "\40";
+}
+.insh-ingestion-report-svgrepo-com:before {
+  content: "\5b";
+}
+.insh-inquiry-mail-svgrepo-com:before {
+  content: "\5d";
+}
+.insh-inquiry-svgrepo-com:before {
+  content: "\5e";
+}
+.insh-language-svgrepo-com:before {
+  content: "\5f";
+}
+.insh-layers-svgrepo-com:before {
+  content: "\60";
+}
+.insh-library-new-svgrepo-com:before {
+  content: "\7b";
+}
+.insh-library-svgrepo-com:before {
+  content: "\7c";
+}
+.insh-link-svgrepo-com:before {
+  content: "\7d";
+}
+.insh-live-schedule-svgrepo-com:before {
+  content: "\7e";
+}
+.insh-log-in-svgrepo-com:before {
+  content: "\5c";
+}
+.insh-log-svgrepo-com:before {
+  content: "\e000";
+}
+.insh-logic-diagram-svgrepo-com:before {
+  content: "\e001";
+}
+.insh-mail-svgrepo-com:before {
+  content: "\e002";
+}
+.insh-maintenance-documents-svgrepo-com:before {
+  content: "\e003";
+}
+.insh-monitor-svgrepo-com:before {
+  content: "\e004";
+}
+.insh-mouse-click-svgrepo-com:before {
+  content: "\e005";
+}
+.insh-mouse-select-svgrepo-com:before {
+  content: "\e006";
+}
+.insh-navigation-left-svgrepo-com:before {
+  content: "\e007";
+}
+.insh-navigation-svgrepo-com:before {
+  content: "\e008";
+}
+.insh-note-svgrepo-com:before {
+  content: "\e009";
+}
+.insh-notification-svgrepo-com:before {
+  content: "\e00a";
+}
+.insh-notifications-svgrepo-com:before {
+  content: "\e00b";
+}
+.insh-ontology-svgrepo-com:before {
+  content: "\e00c";
+}
+.insh-operate-plant-svgrepo-com:before {
+  content: "\e00d";
+}
+.insh-paste-svgrepo-com:before {
+  content: "\e00e";
+}
+.insh-pdf-document-svgrepo-com:before {
+  content: "\e00f";
+}
+.insh-ppt-document-svgrepo-com:before {
+  content: "\e010";
+}
+.insh-product-catalog-svgrepo-com:before {
+  content: "\e011";
+}
+.insh-protocol-svgrepo-com:before {
+  content: "\e012";
+}
+.insh-qr-code-svgrepo-com:before {
+  content: "\e013";
+}
+.insh-random-svgrepo-com:before {
+  content: "\e014";
+}
+.insh-rename-svgrepo-com:before {
+  content: "\e015";
+}
+.insh-report-barchart-svgrepo-com:before {
+  content: "\e016";
+}
+.insh-report-linechart-svgrepo-com:before {
+  content: "\e017";
+}
+.insh-report-text-svgrepo-com:before {
+  content: "\e018";
+}
+.insh-reset-svgrepo-com:before {
+  content: "\e019";
+}
+.insh-rhomb-svgrepo-com:before {
+  content: "\e01a";
+}
+.insh-rocket-svgrepo-com:before {
+  content: "\e01b";
+}
+.insh-scheduler-svgrepo-com:before {
+  content: "\e01c";
+}
+.insh-screen-svgrepo-com:before {
+  content: "\e01d";
+}
+.insh-screenshot-svgrepo-com:before {
+  content: "\e01e";
+}
+.insh-sign-language-svgrepo-com:before {
+  content: "\e01f";
+}
+.insh-spatial-svgrepo-com:before {
+  content: "\e020";
+}
+.insh-split-horizontally-svgrepo-com:before {
+  content: "\e021";
+}
+.insh-split-vertically-svgrepo-com:before {
+  content: "\e022";
+}
+.insh-start-data-analysis-svgrepo-com:before {
+  content: "\e023";
+}
+.insh-svg-document-svgrepo-com:before {
+  content: "\e024";
+}
+.insh-table-columns-svgrepo-com:before {
+  content: "\e025";
+}
+.insh-table-settings-svgrepo-com:before {
+  content: "\e026";
+}
+.insh-table-svgrepo-com:before {
+  content: "\e027";
+}
+.insh-tasks-done-svgrepo-com:before {
+  content: "\e028";
+}
+.insh-tasks-open-svgrepo-com:before {
+  content: "\e029";
+}
+.insh-text-document-svgrepo-com:before {
+  content: "\e02a";
+}
+.insh-threshold-off-svgrepo-com:before {
+  content: "\e02b";
+}
+.insh-threshold-on-svgrepo-com:before {
+  content: "\e02c";
+}
+.insh-topic-svgrepo-com:before {
+  content: "\e02d";
+}
+.insh-touch-svgrepo-com:before {
+  content: "\e02e";
+}
+.insh-trashcan-svgrepo-com:before {
+  content: "\e02f";
+}
+.insh-tree-svgrepo-com:before {
+  content: "\e030";
+}
+.insh-txt-document-svgrepo-com:before {
+  content: "\e031";
+}
+.insh-validate-svgrepo-com:before {
+  content: "\e032";
+}
+.insh-warning-rhomb-svgrepo-com:before {
+  content: "\e033";
+}
+.insh-warning-svgrepo-com:before {
+  content: "\e034";
+}
+.insh-xls-document-svgrepo-com:before {
+  content: "\e035";
+}
+.insh-xml-document-svgrepo-com:before {
+  content: "\e036";
+}
+.insh-y-axis-settings-svgrepo-com:before {
+  content: "\e037";
+}
+.insh-youtube-svgrepo-com:before {
+  content: "\e038";
+}
+.insh-zoom-selection-svgrepo-com:before {
+  content: "\e039";
+}

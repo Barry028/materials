@@ -1,0 +1,421 @@
+@charset "UTF-8";
+
+@font-face {
+  font-family: "16px";
+  src:url("fonts/16px.eot");
+  src:url("fonts/16px.eot?#iefix") format("embedded-opentype"),
+    url("fonts/16px.woff") format("woff"),
+    url("fonts/16px.ttf") format("truetype"),
+    url("fonts/16px.svg#16px") format("svg");
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+[data-icon]:before {
+  font-family: "16px" !important;
+  content: attr(data-icon);
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+[class^="px16-"]:before,
+[class*=" px16-"]:before {
+  font-family: "16px" !important;
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.px16-align-bottom-svgrepo-com:before {
+  content: "\61";
+}
+.px16-align-horizontal-svgrepo-com:before {
+  content: "\62";
+}
+.px16-align-left-svgrepo-com:before {
+  content: "\63";
+}
+.px16-align-right-svgrepo-com:before {
+  content: "\64";
+}
+.px16-align-top-svgrepo-com:before {
+  content: "\65";
+}
+.px16-align-verticle-svgrepo-com:before {
+  content: "\66";
+}
+.px16-anchor-svgrepo-com:before {
+  content: "\67";
+}
+.px16-arcadestick-svgrepo-com:before {
+  content: "\68";
+}
+.px16-archive-svgrepo-com:before {
+  content: "\69";
+}
+.px16-arrows-down-svgrepo-com:before {
+  content: "\6a";
+}
+.px16-arrows-horizontal-svgrepo-com:before {
+  content: "\6b";
+}
+.px16-arrows-left-svgrepo-com:before {
+  content: "\6c";
+}
+.px16-arrows-right-svgrepo-com:before {
+  content: "\6d";
+}
+.px16-arrows-up-svgrepo-com:before {
+  content: "\6e";
+}
+.px16-arrows-verticle-svgrepo-com:before {
+  content: "\6f";
+}
+.px16-audio-svgrepo-com:before {
+  content: "\70";
+}
+.px16-branch-svgrepo-com:before {
+  content: "\71";
+}
+.px16-browser-svgrepo-com:before {
+  content: "\72";
+}
+.px16-calculator-svgrepo-com:before {
+  content: "\73";
+}
+.px16-calendar-svgrepo-com:before {
+  content: "\74";
+}
+.px16-chat-svgrepo-com:before {
+  content: "\75";
+}
+.px16-circle-arrow-down-svgrepo-com:before {
+  content: "\76";
+}
+.px16-circle-arrow-left-svgrepo-com:before {
+  content: "\77";
+}
+.px16-circle-arrow-right-svgrepo-com:before {
+  content: "\78";
+}
+.px16-circle-arrow-up-svgrepo-com:before {
+  content: "\79";
+}
+.px16-circle-attention-svgrepo-com:before {
+  content: "\7a";
+}
+.px16-circle-delete-svgrepo-com:before {
+  content: "\41";
+}
+.px16-circle-info-svgrepo-com:before {
+  content: "\42";
+}
+.px16-circle-minus-svgrepo-com:before {
+  content: "\43";
+}
+.px16-circle-pause-svgrepo-com:before {
+  content: "\44";
+}
+.px16-circle-play-svgrepo-com:before {
+  content: "\45";
+}
+.px16-circle-plus-svgrepo-com:before {
+  content: "\46";
+}
+.px16-circle-skip-left-svgrepo-com:before {
+  content: "\47";
+}
+.px16-circle-skip-right-svgrepo-com:before {
+  content: "\48";
+}
+.px16-circle-tick-svgrepo-com:before {
+  content: "\49";
+}
+.px16-clock-svgrepo-com:before {
+  content: "\4a";
+}
+.px16-contrast-svgrepo-com:before {
+  content: "\4b";
+}
+.px16-copy-svgrepo-com:before {
+  content: "\4c";
+}
+.px16-cross-svgrepo-com:before {
+  content: "\4d";
+}
+.px16-crosshair-svgrepo-com:before {
+  content: "\4e";
+}
+.px16-cup-svgrepo-com:before {
+  content: "\4f";
+}
+.px16-diamond-svgrepo-com:before {
+  content: "\50";
+}
+.px16-exit-svgrepo-com:before {
+  content: "\51";
+}
+.px16-external-svgrepo-com:before {
+  content: "\52";
+}
+.px16-factory-svgrepo-com:before {
+  content: "\53";
+}
+.px16-file-download-svgrepo-com:before {
+  content: "\54";
+}
+.px16-file-text-svgrepo-com:before {
+  content: "\55";
+}
+.px16-file-upload-svgrepo-com:before {
+  content: "\56";
+}
+.px16-flag-svgrepo-com:before {
+  content: "\57";
+}
+.px16-flower-svgrepo-com:before {
+  content: "\58";
+}
+.px16-folder-svgrepo-com:before {
+  content: "\59";
+}
+.px16-font-svgrepo-com:before {
+  content: "\5a";
+}
+.px16-fork-svgrepo-com:before {
+  content: "\30";
+}
+.px16-frown-svgrepo-com:before {
+  content: "\31";
+}
+.px16-fullscreen-svgrepo-com:before {
+  content: "\32";
+}
+.px16-ghost-svgrepo-com:before {
+  content: "\33";
+}
+.px16-heart-svgrepo-com:before {
+  content: "\34";
+}
+.px16-house-svgrepo-com:before {
+  content: "\35";
+}
+.px16-justify-center-svgrepo-com:before {
+  content: "\36";
+}
+.px16-justify-left-svgrepo-com:before {
+  content: "\37";
+}
+.px16-justify-right-svgrepo-com:before {
+  content: "\38";
+}
+.px16-layout-svgrepo-com:before {
+  content: "\39";
+}
+.px16-lock-svgrepo-com:before {
+  content: "\21";
+}
+.px16-mail-inbox-svgrepo-com:before {
+  content: "\22";
+}
+.px16-mail-open-svgrepo-com:before {
+  content: "\23";
+}
+.px16-mail-outbox-svgrepo-com:before {
+  content: "\24";
+}
+.px16-maximise-svgrepo-com:before {
+  content: "\25";
+}
+.px16-menu-four-svgrepo-com:before {
+  content: "\26";
+}
+.px16-menu-two-svgrepo-com:before {
+  content: "\27";
+}
+.px16-microphone-svgrepo-com:before {
+  content: "\28";
+}
+.px16-minimise-svgrepo-com:before {
+  content: "\29";
+}
+.px16-monitor-svgrepo-com:before {
+  content: "\2a";
+}
+.px16-monitor-svgrepo-com-1:before {
+  content: "\2b";
+}
+.px16-network-port-svgrepo-com:before {
+  content: "\2c";
+}
+.px16-network-svgrepo-com:before {
+  content: "\2d";
+}
+.px16-noentry-svgrepo-com:before {
+  content: "\2e";
+}
+.px16-notification-svgrepo-com:before {
+  content: "\2f";
+}
+.px16-photo-svgrepo-com:before {
+  content: "\3a";
+}
+.px16-photoset-svgrepo-com:before {
+  content: "\3b";
+}
+.px16-pie-svgrepo-com:before {
+  content: "\3c";
+}
+.px16-pin-svgrepo-com:before {
+  content: "\3d";
+}
+.px16-pixel-magnifying-glass-svgrepo-com:before {
+  content: "\3e";
+}
+.px16-pixelarticons-svgrepo-com:before {
+  content: "\3f";
+}
+.px16-plug-svgrepo-com:before {
+  content: "\40";
+}
+.px16-printer-svgrepo-com:before {
+  content: "\5b";
+}
+.px16-quote-svgrepo-com:before {
+  content: "\5d";
+}
+.px16-refresh-svgrepo-com:before {
+  content: "\5e";
+}
+.px16-robot-svgrepo-com:before {
+  content: "\5f";
+}
+.px16-save-svgrepo-com:before {
+  content: "\60";
+}
+.px16-scissors-svgrepo-com:before {
+  content: "\7b";
+}
+.px16-search-svgrepo-com:before {
+  content: "\7c";
+}
+.px16-server-svgrepo-com:before {
+  content: "\7d";
+}
+.px16-settings-svgrepo-com:before {
+  content: "\7e";
+}
+.px16-share-svgrepo-com:before {
+  content: "\5c";
+}
+.px16-skull-svgrepo-com:before {
+  content: "\e000";
+}
+.px16-smile-svgrepo-com:before {
+  content: "\e001";
+}
+.px16-sort-ascending-svgrepo-com:before {
+  content: "\e002";
+}
+.px16-sort-descending-svgrepo-com:before {
+  content: "\e003";
+}
+.px16-sound-off-svgrepo-com:before {
+  content: "\e004";
+}
+.px16-sound-on-svgrepo-com:before {
+  content: "\e005";
+}
+.px16-soup-svgrepo-com:before {
+  content: "\e006";
+}
+.px16-square-arrow-down-svgrepo-com:before {
+  content: "\e007";
+}
+.px16-square-arrow-left-svgrepo-com:before {
+  content: "\e008";
+}
+.px16-square-arrow-right-svgrepo-com:before {
+  content: "\e009";
+}
+.px16-square-arrow-up-svgrepo-com:before {
+  content: "\e00a";
+}
+.px16-square-attention-svgrepo-com:before {
+  content: "\e00b";
+}
+.px16-square-delete-svgrepo-com:before {
+  content: "\e00c";
+}
+.px16-square-info-svgrepo-com:before {
+  content: "\e00d";
+}
+.px16-square-lock-svgrepo-com:before {
+  content: "\e00e";
+}
+.px16-square-minus-svgrepo-com:before {
+  content: "\e00f";
+}
+.px16-square-more-svgrepo-com:before {
+  content: "\e010";
+}
+.px16-square-pause-svgrepo-com:before {
+  content: "\e011";
+}
+.px16-square-play-svgrepo-com:before {
+  content: "\e012";
+}
+.px16-square-plus-svgrepo-com:before {
+  content: "\e013";
+}
+.px16-square-skip-left-svgrepo-com:before {
+  content: "\e014";
+}
+.px16-square-skip-right-svgrepo-com:before {
+  content: "\e015";
+}
+.px16-square-tick-svgrepo-com:before {
+  content: "\e016";
+}
+.px16-stack-svgrepo-com:before {
+  content: "\e017";
+}
+.px16-stockgraph-svgrepo-com:before {
+  content: "\e018";
+}
+.px16-tag-svgrepo-com:before {
+  content: "\e019";
+}
+.px16-target-svgrepo-com:before {
+  content: "\e01a";
+}
+.px16-thumbdown-svgrepo-com:before {
+  content: "\e01b";
+}
+.px16-thumbup-svgrepo-com:before {
+  content: "\e01c";
+}
+.px16-towerblock-svgrepo-com:before {
+  content: "\e01d";
+}
+.px16-usb-svgrepo-com:before {
+  content: "\e01e";
+}
+.px16-video-svgrepo-com:before {
+  content: "\e01f";
+}
+.px16-zip-svgrepo-com:before {
+  content: "\e020";
+}

@@ -1,0 +1,340 @@
+@charset "UTF-8";
+
+@font-face {
+  font-family: "pixel";
+  src:url("fonts/pixel.eot");
+  src:url("fonts/pixel.eot?#iefix") format("embedded-opentype"),
+    url("fonts/pixel.woff") format("woff"),
+    url("fonts/pixel.ttf") format("truetype"),
+    url("fonts/pixel.svg#pixel") format("svg");
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+[data-icon]:before {
+  font-family: "pixel" !important;
+  content: attr(data-icon);
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+[class^="ip-"]:before,
+[class*=" ip-"]:before {
+  font-family: "pixel" !important;
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.ip-add:before {
+  content: "\62";
+}
+.ip-add-bookmark:before {
+  content: "\63";
+}
+.ip-align-left:before {
+  content: "\61";
+}
+.ip-align-right:before {
+  content: "\64";
+}
+.ip-attention:before {
+  content: "\65";
+}
+.ip-block:before {
+  content: "\66";
+}
+.ip-block-person:before {
+  content: "\67";
+}
+.ip-bluetooth:before {
+  content: "\68";
+}
+.ip-bold:before {
+  content: "\69";
+}
+.ip-bookmark:before {
+  content: "\6a";
+}
+.ip-calls-delete:before {
+  content: "\6b";
+}
+.ip-cart:before {
+  content: "\6c";
+}
+.ip-chat:before {
+  content: "\6d";
+}
+.ip-clock:before {
+  content: "\6e";
+}
+.ip-complete:before {
+  content: "\6f";
+}
+.ip-copy-document:before {
+  content: "\70";
+}
+.ip-copy-folder:before {
+  content: "\71";
+}
+.ip-create-document:before {
+  content: "\72";
+}
+.ip-delete-message:before {
+  content: "\73";
+}
+.ip-delete-person:before {
+  content: "\74";
+}
+.ip-diary:before {
+  content: "\75";
+}
+.ip-document:before {
+  content: "\76";
+}
+.ip-down-arrow:before {
+  content: "\77";
+}
+.ip-down-left-arrow:before {
+  content: "\78";
+}
+.ip-down-right-arrow:before {
+  content: "\79";
+}
+.ip-download:before {
+  content: "\7a";
+}
+.ip-gift:before {
+  content: "\41";
+}
+.ip-hash:before {
+  content: "\42";
+}
+.ip-hide:before {
+  content: "\43";
+}
+.ip-home:before {
+  content: "\44";
+}
+.ip-image:before {
+  content: "\45";
+}
+.ip-incoming-call:before {
+  content: "\46";
+}
+.ip-info:before {
+  content: "\47";
+}
+.ip-italic:before {
+  content: "\48";
+}
+.ip-levels-2:before {
+  content: "\49";
+}
+.ip-losed:before {
+  content: "\4a";
+}
+.ip-messages:before {
+  content: "\4b";
+}
+.ip-microphone-off:before {
+  content: "\4c";
+}
+.ip-microphone-on:before {
+  content: "\4d";
+}
+.ip-minus:before {
+  content: "\4e";
+}
+.ip-missed-call:before {
+  content: "\4f";
+}
+.ip-mute:before {
+  content: "\50";
+}
+.ip-person:before {
+  content: "\51";
+}
+.ip-person-added:before {
+  content: "\52";
+}
+.ip-person-group:before {
+  content: "\53";
+}
+.ip-photo:before {
+  content: "\54";
+}
+.ip-play:before {
+  content: "\55";
+}
+.ip-plus:before {
+  content: "\56";
+}
+.ip-pointer-arrow:before {
+  content: "\57";
+}
+.ip-pointer-down:before {
+  content: "\58";
+}
+.ip-repeat:before {
+  content: "\59";
+}
+.ip-replay:before {
+  content: "\5a";
+}
+.ip-right-arrow:before {
+  content: "\30";
+}
+.ip-share:before {
+  content: "\31";
+}
+.ip-show:before {
+  content: "\32";
+}
+.ip-sound-off:before {
+  content: "\33";
+}
+.ip-sound-on:before {
+  content: "\34";
+}
+.ip-stop:before {
+  content: "\35";
+}
+.ip-work:before {
+  content: "\36";
+}
+.ip-zoom:before {
+  content: "\37";
+}
+.ip-zoom-up:before {
+  content: "\38";
+}
+.ip-zoom-down:before {
+  content: "\39";
+}
+.ip-add-messages:before {
+  content: "\21";
+}
+.ip-add-person:before {
+  content: "\22";
+}
+.ip-align-center:before {
+  content: "\23";
+}
+.ip-call-on:before {
+  content: "\24";
+}
+.ip-calls:before {
+  content: "\25";
+}
+.ip-calls-add:before {
+  content: "\26";
+}
+.ip-delete-bookmark:before {
+  content: "\27";
+}
+.ip-delete-document:before {
+  content: "\28";
+}
+.ip-delete-folder:before {
+  content: "\29";
+}
+.ip-flag:before {
+  content: "\2a";
+}
+.ip-folder:before {
+  content: "\2b";
+}
+.ip-geotag:before {
+  content: "\2c";
+}
+.ip-kebab-menu-vertical:before {
+  content: "\2d";
+}
+.ip-left-arrow:before {
+  content: "\2e";
+}
+.ip-levels-1:before {
+  content: "\2f";
+}
+.ip-outgoing-call:before {
+  content: "\3a";
+}
+.ip-paste-document:before {
+  content: "\3b";
+}
+.ip-paste-folder:before {
+  content: "\3c";
+}
+.ip-print:before {
+  content: "\3d";
+}
+.ip-protection:before {
+  content: "\3e";
+}
+.ip-redo:before {
+  content: "\3f";
+}
+.ip-up-arrow:before {
+  content: "\40";
+}
+.ip-up-left-arrow:before {
+  content: "\5b";
+}
+.ip-up-right-arrow:before {
+  content: "\5d";
+}
+.ip-bubble:before {
+  content: "\5e";
+}
+.ip-calendar:before {
+  content: "\5f";
+}
+.ip-create-folder:before {
+  content: "\60";
+}
+.ip-delete:before {
+  content: "\7b";
+}
+.ip-equalizer:before {
+  content: "\7c";
+}
+.ip-favorites:before {
+  content: "\7d";
+}
+.ip-justify:before {
+  content: "\7e";
+}
+.ip-kebab-menu-horizontal:before {
+  content: "\5c";
+}
+.ip-next:before {
+  content: "\e000";
+}
+.ip-opened:before {
+  content: "\e001";
+}
+.ip-pointer-left:before {
+  content: "\e002";
+}
+.ip-pointer-right:before {
+  content: "\e003";
+}
+.ip-text:before {
+  content: "\e004";
+}
+.ip-underlined:before {
+  content: "\e005";
+}
