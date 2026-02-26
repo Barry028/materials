@@ -1,7 +1,42 @@
-      - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install Pillow
+- name: Install dependencies
+  run: |
+    python -m pip install --upgrade pip
+    pip install Pillow
 
-      - name: Run Gallery Script
+- name: Run Gallery Script
+  run: python generate_gallery.py
+
+
+name: Generate Vertical Gallery
+
+on:
+  push:
+    paths: ['images/**']
+  workflow_dispatch:
+
+jobs:
+  update-gallery:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Install Dependencies
+        run: pip install Pillow
+
+      - name: Run Script
         run: python generate_gallery.py
+
+      - name: Commit and Push
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "docs: update image gallery with metadata" || exit 0
+          git push

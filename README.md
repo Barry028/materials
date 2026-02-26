@@ -1,18 +1,12 @@
 # My Photo Gallery
 
+# 📸 我的圖庫清單
+
 <!-- thumbnails-start -->
-### cats
-
-| | |
-|:---:|:---:|
-| ![](thumbnails/cats/cat1.jpg) | ![](thumbnails/cats/cat2.png) |
-
-### dogs
-
-| | |
-|:---:|:---:|
-| ![](thumbnails/dogs/dog1.webp) | |
 <!-- thumbnails-end -->
+
+
+
                               
 ## :art: &nbsp; Materials 常用素材
   將一些素材整合成圖床         方便寫文章或者文章使用時使用。
