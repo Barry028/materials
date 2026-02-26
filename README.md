@@ -1,13 +1,4 @@
-# My Photo Gallery
-
-# 📸 我的圖庫清單
-
-<!-- thumbnails-start -->
-<!-- thumbnails-end -->
-
-
-
-                              
+                          
 ## :art: &nbsp; Materials 常用素材
   將一些素材整合成圖床         方便寫文章或者文章使用時使用。
 
