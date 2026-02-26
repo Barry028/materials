@@ -3,9 +3,8 @@ import datetime
 import re
 from PIL import Image
 
-# 設定
 IMAGE_DIR = 'images'
-README_FILE = 'README.md'
+ROOT_README = 'README.md'
 START_MARKER = '<!-- thumbnails-start -->'
 END_MARKER = '<!-- thumbnails-end -->'
 
@@ -14,36 +13,46 @@ def get_size_format(b):
         if b < 1024: return f"{b:.2f}{unit}B"
         b /= 1024
 
-content = []
+subdir_links = []
+
+# 1. 遍歷所有子目錄生成各別 README
 for root, dirs, files in sorted(os.walk(IMAGE_DIR)):
-    folder_name = os.path.basename(root)
     valid_files = [f for f in files if f.lower().endswith(('.png', '.jpg', '.jpeg', '.gif', '.webp'))]
     
-    if folder_name and valid_files:
-        content.append(f"\n### 📁 {folder_name.capitalize()}\n")
-        content.append("| 預覽 (點擊放大) | 檔案詳細資訊 |")
-        content.append("| :--- | :--- |")
+    if valid_files:
+        folder_path = os.path.relpath(root, '.')
+        folder_name = os.path.basename(root)
+        readme_path = os.path.join(root, 'README.md')
         
+        # 紀錄給根目錄導覽使用
+        subdir_links.append(f"- [📁 {folder_name}]({folder_path}/README.md) ({len(valid_files)} images)")
+        
+        # 建立子目錄圖庫內容
+        content = [f"# 🖼️ {folder_name} Gallery\n", "| 預覽 | 詳細資訊 |", "| :--- | :--- |"]
         for f in sorted(valid_files):
-            path = os.path.join(root, f)
-            stat = os.stat(path)
-            size = get_size_format(stat.st_size)
-            mtime = datetime.datetime.fromtimestamp(stat.st_mtime).strftime('%Y-%m-%d')
-            
-            with Image.open(path) as img:
+            full_path = os.path.join(root, f)
+            stat = os.stat(full_path)
+            with Image.open(full_path) as img:
                 w, h = img.size
             
-            # 建立帶連結的圖片標籤與資訊
-            img_tag = f'<a href="{path}"><img src="{path}" width="200" alt="{f}"></a>'
-            info = f"**檔名:** `{f}`<br>**尺寸:** {w}x{h}<br>**大小:** {size}<br>**更新:** {mtime}"
+            img_tag = f'<a href="{f}"><img src="{f}" width="250"></a>'
+            info = f"**{f}**<br>{w}x{h} | {get_size_format(stat.st_size)}"
             content.append(f"| {img_tag} | {info} |")
 
-# 讀取並替換 README
-with open(README_FILE, 'r', encoding='utf-8') as f:
-    text = f.read()
+        with open(readme_path, 'w', encoding='utf-8') as f:
+            f.write("\n".join(content))
 
-new_section = f"{START_MARKER}\n" + "\n".join(content) + f"\n{END_MARKER}"
-text = re.sub(f"{START_MARKER}.*?{END_MARKER}", new_section, text, flags=re.DOTALL)
-
-with open(README_FILE, 'w', encoding='utf-8') as f:
-    f.write(text)
+# 2. 更新根目錄 README 的導覽選單
+if os.path.exists(ROOT_README):
+    with open(ROOT_README, 'r', encoding='utf-8') as f:
+        root_text = f.read()
+    
+    nav_menu = f"{START_MARKER}\n### 📂 分類導覽\n" + "\n".join(subdir_links) + f"\n{END_MARKER}"
+    
+    if START_MARKER in root_text:
+        root_text = re.sub(f"{START_MARKER}.*?{END_MARKER}", nav_menu, root_text, flags=re.DOTALL)
+    else:
+        root_text += f"\n\n{nav_menu}"
+        
+    with open(ROOT_README, 'w', encoding='utf-8') as f:
+        f.write(root_text)
