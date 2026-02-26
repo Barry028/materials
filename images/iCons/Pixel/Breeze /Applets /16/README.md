@@ -1,7 +1,7 @@
-# 🖼️ 16 Gallery
+# 🖼️ 16 素材庫
 
-[⬅️ 回到首頁](../../README.md)
+[⬅️ 返回主目錄](../../README.md)
 
-| 預覽 | 詳細資訊 |
+| 預覽 (點擊放大) | 檔案資訊 |
 | :--- | :--- |
-| <a href="car.svg"><img src="car.svg" width="250" alt="car.svg"></a> | **car.svg**<br>Vector (SVG) \| 480.00B<br>更新: 2026-02-26 |
+| <a href="car.svg"><img src="car.svg" width="250"></a> | **car.svg**<br>Vector (SVG) | 480.00B |

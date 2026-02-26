@@ -1,104 +1,104 @@
-# 🖼️ editor Gallery
+# 🖼️ editor 素材庫
 
-[⬅️ 回到首頁](../../README.md)
+[⬅️ 返回主目錄](../../README.md)
 
-| 預覽 | 詳細資訊 |
+| 預覽 (點擊放大) | 檔案資訊 |
 | :--- | :--- |
-| <a href="&and_fill.svg"><img src="&and_fill.svg" width="250" alt="&and_fill.svg"></a> | **&and_fill.svg**<br>Vector (SVG) \| 9.35KB<br>更新: 2026-02-26 |
-| <a href="&and_line.svg"><img src="&and_line.svg" width="250" alt="&and_line.svg"></a> | **&and_line.svg**<br>Vector (SVG) \| 9.35KB<br>更新: 2026-02-26 |
-| <a href="A-Z_sort_ascending_letters_fill.svg"><img src="A-Z_sort_ascending_letters_fill.svg" width="250" alt="A-Z_sort_ascending_letters_fill.svg"></a> | **A-Z_sort_ascending_letters_fill.svg**<br>Vector (SVG) \| 9.27KB<br>更新: 2026-02-26 |
-| <a href="A-Z_sort_ascending_letters_line.svg"><img src="A-Z_sort_ascending_letters_line.svg" width="250" alt="A-Z_sort_ascending_letters_line.svg"></a> | **A-Z_sort_ascending_letters_line.svg**<br>Vector (SVG) \| 9.24KB<br>更新: 2026-02-26 |
-| <a href="Heading_1_fill.svg"><img src="Heading_1_fill.svg" width="250" alt="Heading_1_fill.svg"></a> | **Heading_1_fill.svg**<br>Vector (SVG) \| 1.64KB<br>更新: 2026-02-26 |
-| <a href="Heading_1_line.svg"><img src="Heading_1_line.svg" width="250" alt="Heading_1_line.svg"></a> | **Heading_1_line.svg**<br>Vector (SVG) \| 2.06KB<br>更新: 2026-02-26 |
-| <a href="Heading_2_fill.svg"><img src="Heading_2_fill.svg" width="250" alt="Heading_2_fill.svg"></a> | **Heading_2_fill.svg**<br>Vector (SVG) \| 1.98KB<br>更新: 2026-02-26 |
-| <a href="Heading_2_line.svg"><img src="Heading_2_line.svg" width="250" alt="Heading_2_line.svg"></a> | **Heading_2_line.svg**<br>Vector (SVG) \| 2.73KB<br>更新: 2026-02-26 |
-| <a href="Heading_3_fill.svg"><img src="Heading_3_fill.svg" width="250" alt="Heading_3_fill.svg"></a> | **Heading_3_fill.svg**<br>Vector (SVG) \| 2.21KB<br>更新: 2026-02-26 |
-| <a href="Heading_3_line.svg"><img src="Heading_3_line.svg" width="250" alt="Heading_3_line.svg"></a> | **Heading_3_line.svg**<br>Vector (SVG) \| 2.59KB<br>更新: 2026-02-26 |
-| <a href="Z-A_sort_descending_letters_fill.svg"><img src="Z-A_sort_descending_letters_fill.svg" width="250" alt="Z-A_sort_descending_letters_fill.svg"></a> | **Z-A_sort_descending_letters_fill.svg**<br>Vector (SVG) \| 9.28KB<br>更新: 2026-02-26 |
-| <a href="Z-A_sort_descending_letters_line.svg"><img src="Z-A_sort_descending_letters_line.svg" width="250" alt="Z-A_sort_descending_letters_line.svg"></a> | **Z-A_sort_descending_letters_line.svg**<br>Vector (SVG) \| 9.28KB<br>更新: 2026-02-26 |
-| <a href="_asterisk_fill.svg"><img src="_asterisk_fill.svg" width="250" alt="_asterisk_fill.svg"></a> | **_asterisk_fill.svg**<br>Vector (SVG) \| 8.71KB<br>更新: 2026-02-26 |
-| <a href="_asterisk_line.svg"><img src="_asterisk_line.svg" width="250" alt="_asterisk_line.svg"></a> | **_asterisk_line.svg**<br>Vector (SVG) \| 8.72KB<br>更新: 2026-02-26 |
-| <a href="align_center_fill.svg"><img src="align_center_fill.svg" width="250" alt="align_center_fill.svg"></a> | **align_center_fill.svg**<br>Vector (SVG) \| 1.77KB<br>更新: 2026-02-26 |
-| <a href="align_center_line.svg"><img src="align_center_line.svg" width="250" alt="align_center_line.svg"></a> | **align_center_line.svg**<br>Vector (SVG) \| 1.77KB<br>更新: 2026-02-26 |
-| <a href="align_left_fill.svg"><img src="align_left_fill.svg" width="250" alt="align_left_fill.svg"></a> | **align_left_fill.svg**<br>Vector (SVG) \| 1.77KB<br>更新: 2026-02-26 |
-| <a href="align_left_line.svg"><img src="align_left_line.svg" width="250" alt="align_left_line.svg"></a> | **align_left_line.svg**<br>Vector (SVG) \| 1.77KB<br>更新: 2026-02-26 |
-| <a href="align_right_fill.svg"><img src="align_right_fill.svg" width="250" alt="align_right_fill.svg"></a> | **align_right_fill.svg**<br>Vector (SVG) \| 1.85KB<br>更新: 2026-02-26 |
-| <a href="align_right_line.svg"><img src="align_right_line.svg" width="250" alt="align_right_line.svg"></a> | **align_right_line.svg**<br>Vector (SVG) \| 1.85KB<br>更新: 2026-02-26 |
-| <a href="at_fill.svg"><img src="at_fill.svg" width="250" alt="at_fill.svg"></a> | **at_fill.svg**<br>Vector (SVG) \| 2.37KB<br>更新: 2026-02-26 |
-| <a href="at_line.svg"><img src="at_line.svg" width="250" alt="at_line.svg"></a> | **at_line.svg**<br>Vector (SVG) \| 4.89KB<br>更新: 2026-02-26 |
-| <a href="bold_fill.svg"><img src="bold_fill.svg" width="250" alt="bold_fill.svg"></a> | **bold_fill.svg**<br>Vector (SVG) \| 1.51KB<br>更新: 2026-02-26 |
-| <a href="bold_line.svg"><img src="bold_line.svg" width="250" alt="bold_line.svg"></a> | **bold_line.svg**<br>Vector (SVG) \| 1.51KB<br>更新: 2026-02-26 |
-| <a href="column_fill.svg"><img src="column_fill.svg" width="250" alt="column_fill.svg"></a> | **column_fill.svg**<br>Vector (SVG) \| 15.04KB<br>更新: 2026-02-26 |
-| <a href="column_line.svg"><img src="column_line.svg" width="250" alt="column_line.svg"></a> | **column_line.svg**<br>Vector (SVG) \| 14.92KB<br>更新: 2026-02-26 |
-| <a href="dividing_line_fill.svg"><img src="dividing_line_fill.svg" width="250" alt="dividing_line_fill.svg"></a> | **dividing_line_fill.svg**<br>Vector (SVG) \| 9.69KB<br>更新: 2026-02-26 |
-| <a href="dividing_line_line.svg"><img src="dividing_line_line.svg" width="250" alt="dividing_line_line.svg"></a> | **dividing_line_line.svg**<br>Vector (SVG) \| 9.69KB<br>更新: 2026-02-26 |
-| <a href="edit_2_fill.svg"><img src="edit_2_fill.svg" width="250" alt="edit_2_fill.svg"></a> | **edit_2_fill.svg**<br>Vector (SVG) \| 13.78KB<br>更新: 2026-02-26 |
-| <a href="edit_2_line.svg"><img src="edit_2_line.svg" width="250" alt="edit_2_line.svg"></a> | **edit_2_line.svg**<br>Vector (SVG) \| 13.88KB<br>更新: 2026-02-26 |
-| <a href="edit_3_fill.svg"><img src="edit_3_fill.svg" width="250" alt="edit_3_fill.svg"></a> | **edit_3_fill.svg**<br>Vector (SVG) \| 13.74KB<br>更新: 2026-02-26 |
-| <a href="edit_3_line.svg"><img src="edit_3_line.svg" width="250" alt="edit_3_line.svg"></a> | **edit_3_line.svg**<br>Vector (SVG) \| 13.90KB<br>更新: 2026-02-26 |
-| <a href="edit_fill.svg"><img src="edit_fill.svg" width="250" alt="edit_fill.svg"></a> | **edit_fill.svg**<br>Vector (SVG) \| 2.39KB<br>更新: 2026-02-26 |
-| <a href="edit_line.svg"><img src="edit_line.svg" width="250" alt="edit_line.svg"></a> | **edit_line.svg**<br>Vector (SVG) \| 2.40KB<br>更新: 2026-02-26 |
-| <a href="eraser_fill.svg"><img src="eraser_fill.svg" width="250" alt="eraser_fill.svg"></a> | **eraser_fill.svg**<br>Vector (SVG) \| 8.56KB<br>更新: 2026-02-26 |
-| <a href="eraser_line.svg"><img src="eraser_line.svg" width="250" alt="eraser_line.svg"></a> | **eraser_line.svg**<br>Vector (SVG) \| 8.67KB<br>更新: 2026-02-26 |
-| <a href="font_fill.svg"><img src="font_fill.svg" width="250" alt="font_fill.svg"></a> | **font_fill.svg**<br>Vector (SVG) \| 1.33KB<br>更新: 2026-02-26 |
-| <a href="font_line.svg"><img src="font_line.svg" width="250" alt="font_line.svg"></a> | **font_line.svg**<br>Vector (SVG) \| 1.33KB<br>更新: 2026-02-26 |
-| <a href="font_size_fill.svg"><img src="font_size_fill.svg" width="250" alt="font_size_fill.svg"></a> | **font_size_fill.svg**<br>Vector (SVG) \| 2.01KB<br>更新: 2026-02-26 |
-| <a href="font_size_line.svg"><img src="font_size_line.svg" width="250" alt="font_size_line.svg"></a> | **font_size_line.svg**<br>Vector (SVG) \| 1.97KB<br>更新: 2026-02-26 |
-| <a href="formula_fill.svg"><img src="formula_fill.svg" width="250" alt="formula_fill.svg"></a> | **formula_fill.svg**<br>Vector (SVG) \| 8.69KB<br>更新: 2026-02-26 |
-| <a href="formula_line.svg"><img src="formula_line.svg" width="250" alt="formula_line.svg"></a> | **formula_line.svg**<br>Vector (SVG) \| 8.70KB<br>更新: 2026-02-26 |
-| <a href="frame_fill.svg"><img src="frame_fill.svg" width="250" alt="frame_fill.svg"></a> | **frame_fill.svg**<br>Vector (SVG) \| 15.02KB<br>更新: 2026-02-26 |
-| <a href="frame_line.svg"><img src="frame_line.svg" width="250" alt="frame_line.svg"></a> | **frame_line.svg**<br>Vector (SVG) \| 14.87KB<br>更新: 2026-02-26 |
-| <a href="hashtag_fill.svg"><img src="hashtag_fill.svg" width="250" alt="hashtag_fill.svg"></a> | **hashtag_fill.svg**<br>Vector (SVG) \| 1.99KB<br>更新: 2026-02-26 |
-| <a href="hashtag_line.svg"><img src="hashtag_line.svg" width="250" alt="hashtag_line.svg"></a> | **hashtag_line.svg**<br>Vector (SVG) \| 1.98KB<br>更新: 2026-02-26 |
-| <a href="indent_decrease_fill.svg"><img src="indent_decrease_fill.svg" width="250" alt="indent_decrease_fill.svg"></a> | **indent_decrease_fill.svg**<br>Vector (SVG) \| 2.31KB<br>更新: 2026-02-26 |
-| <a href="indent_decrease_line.svg"><img src="indent_decrease_line.svg" width="250" alt="indent_decrease_line.svg"></a> | **indent_decrease_line.svg**<br>Vector (SVG) \| 2.30KB<br>更新: 2026-02-26 |
-| <a href="indent_increase_fill.svg"><img src="indent_increase_fill.svg" width="250" alt="indent_increase_fill.svg"></a> | **indent_increase_fill.svg**<br>Vector (SVG) \| 2.31KB<br>更新: 2026-02-26 |
-| <a href="indent_increase_line.svg"><img src="indent_increase_line.svg" width="250" alt="indent_increase_line.svg"></a> | **indent_increase_line.svg**<br>Vector (SVG) \| 2.30KB<br>更新: 2026-02-26 |
-| <a href="italic_fill.svg"><img src="italic_fill.svg" width="250" alt="italic_fill.svg"></a> | **italic_fill.svg**<br>Vector (SVG) \| 1.46KB<br>更新: 2026-02-26 |
-| <a href="italic_line.svg"><img src="italic_line.svg" width="250" alt="italic_line.svg"></a> | **italic_line.svg**<br>Vector (SVG) \| 1.41KB<br>更新: 2026-02-26 |
-| <a href="letter_spacing_fill.svg"><img src="letter_spacing_fill.svg" width="250" alt="letter_spacing_fill.svg"></a> | **letter_spacing_fill.svg**<br>Vector (SVG) \| 16.46KB<br>更新: 2026-02-26 |
-| <a href="letter_spacing_line.svg"><img src="letter_spacing_line.svg" width="250" alt="letter_spacing_line.svg"></a> | **letter_spacing_line.svg**<br>Vector (SVG) \| 16.35KB<br>更新: 2026-02-26 |
-| <a href="line_height_fill.svg"><img src="line_height_fill.svg" width="250" alt="line_height_fill.svg"></a> | **line_height_fill.svg**<br>Vector (SVG) \| 14.64KB<br>更新: 2026-02-26 |
-| <a href="line_height_line.svg"><img src="line_height_line.svg" width="250" alt="line_height_line.svg"></a> | **line_height_line.svg**<br>Vector (SVG) \| 14.70KB<br>更新: 2026-02-26 |
-| <a href="list_check_2_fill.svg"><img src="list_check_2_fill.svg" width="250" alt="list_check_2_fill.svg"></a> | **list_check_2_fill.svg**<br>Vector (SVG) \| 15.08KB<br>更新: 2026-02-26 |
-| <a href="list_check_2_line.svg"><img src="list_check_2_line.svg" width="250" alt="list_check_2_line.svg"></a> | **list_check_2_line.svg**<br>Vector (SVG) \| 15.07KB<br>更新: 2026-02-26 |
-| <a href="list_check_3_fill.svg"><img src="list_check_3_fill.svg" width="250" alt="list_check_3_fill.svg"></a> | **list_check_3_fill.svg**<br>Vector (SVG) \| 14.77KB<br>更新: 2026-02-26 |
-| <a href="list_check_3_line.svg"><img src="list_check_3_line.svg" width="250" alt="list_check_3_line.svg"></a> | **list_check_3_line.svg**<br>Vector (SVG) \| 14.94KB<br>更新: 2026-02-26 |
-| <a href="list_check_fill.svg"><img src="list_check_fill.svg" width="250" alt="list_check_fill.svg"></a> | **list_check_fill.svg**<br>Vector (SVG) \| 2.30KB<br>更新: 2026-02-26 |
-| <a href="list_check_line.svg"><img src="list_check_line.svg" width="250" alt="list_check_line.svg"></a> | **list_check_line.svg**<br>Vector (SVG) \| 2.30KB<br>更新: 2026-02-26 |
-| <a href="list_ordered_fill.svg"><img src="list_ordered_fill.svg" width="250" alt="list_ordered_fill.svg"></a> | **list_ordered_fill.svg**<br>Vector (SVG) \| 3.45KB<br>更新: 2026-02-26 |
-| <a href="list_ordered_line.svg"><img src="list_ordered_line.svg" width="250" alt="list_ordered_line.svg"></a> | **list_ordered_line.svg**<br>Vector (SVG) \| 3.39KB<br>更新: 2026-02-26 |
-| <a href="menu_fill.svg"><img src="menu_fill.svg" width="250" alt="menu_fill.svg"></a> | **menu_fill.svg**<br>Vector (SVG) \| 1.75KB<br>更新: 2026-02-26 |
-| <a href="menu_line.svg"><img src="menu_line.svg" width="250" alt="menu_line.svg"></a> | **menu_line.svg**<br>Vector (SVG) \| 1.75KB<br>更新: 2026-02-26 |
-| <a href="paint_fill.svg"><img src="paint_fill.svg" width="250" alt="paint_fill.svg"></a> | **paint_fill.svg**<br>Vector (SVG) \| 3.74KB<br>更新: 2026-02-26 |
-| <a href="paint_line.svg"><img src="paint_line.svg" width="250" alt="paint_line.svg"></a> | **paint_line.svg**<br>Vector (SVG) \| 3.89KB<br>更新: 2026-02-26 |
-| <a href="paragraph_fill.svg"><img src="paragraph_fill.svg" width="250" alt="paragraph_fill.svg"></a> | **paragraph_fill.svg**<br>Vector (SVG) \| 8.67KB<br>更新: 2026-02-26 |
-| <a href="paragraph_line.svg"><img src="paragraph_line.svg" width="250" alt="paragraph_line.svg"></a> | **paragraph_line.svg**<br>Vector (SVG) \| 8.67KB<br>更新: 2026-02-26 |
-| <a href="pen_2_fill.svg"><img src="pen_2_fill.svg" width="250" alt="pen_2_fill.svg"></a> | **pen_2_fill.svg**<br>Vector (SVG) \| 8.71KB<br>更新: 2026-02-26 |
-| <a href="pen_2_line.svg"><img src="pen_2_line.svg" width="250" alt="pen_2_line.svg"></a> | **pen_2_line.svg**<br>Vector (SVG) \| 8.93KB<br>更新: 2026-02-26 |
-| <a href="pencil_fill.svg"><img src="pencil_fill.svg" width="250" alt="pencil_fill.svg"></a> | **pencil_fill.svg**<br>Vector (SVG) \| 2.77KB<br>更新: 2026-02-26 |
-| <a href="pencil_line.svg"><img src="pencil_line.svg" width="250" alt="pencil_line.svg"></a> | **pencil_line.svg**<br>Vector (SVG) \| 3.07KB<br>更新: 2026-02-26 |
-| <a href="quote_left_fill.svg"><img src="quote_left_fill.svg" width="250" alt="quote_left_fill.svg"></a> | **quote_left_fill.svg**<br>Vector (SVG) \| 8.89KB<br>更新: 2026-02-26 |
-| <a href="quote_left_line.svg"><img src="quote_left_line.svg" width="250" alt="quote_left_line.svg"></a> | **quote_left_line.svg**<br>Vector (SVG) \| 9.43KB<br>更新: 2026-02-26 |
-| <a href="quote_right_fill.svg"><img src="quote_right_fill.svg" width="250" alt="quote_right_fill.svg"></a> | **quote_right_fill.svg**<br>Vector (SVG) \| 8.89KB<br>更新: 2026-02-26 |
-| <a href="quote_right_line.svg"><img src="quote_right_line.svg" width="250" alt="quote_right_line.svg"></a> | **quote_right_line.svg**<br>Vector (SVG) \| 9.44KB<br>更新: 2026-02-26 |
-| <a href="sort_ascending_fill.svg"><img src="sort_ascending_fill.svg" width="250" alt="sort_ascending_fill.svg"></a> | **sort_ascending_fill.svg**<br>Vector (SVG) \| 9.09KB<br>更新: 2026-02-26 |
-| <a href="sort_ascending_line.svg"><img src="sort_ascending_line.svg" width="250" alt="sort_ascending_line.svg"></a> | **sort_ascending_line.svg**<br>Vector (SVG) \| 9.09KB<br>更新: 2026-02-26 |
-| <a href="sort_descending_fill.svg"><img src="sort_descending_fill.svg" width="250" alt="sort_descending_fill.svg"></a> | **sort_descending_fill.svg**<br>Vector (SVG) \| 9.15KB<br>更新: 2026-02-26 |
-| <a href="sort_descending_line.svg"><img src="sort_descending_line.svg" width="250" alt="sort_descending_line.svg"></a> | **sort_descending_line.svg**<br>Vector (SVG) \| 9.15KB<br>更新: 2026-02-26 |
-| <a href="spacing_horizontal_fill.svg"><img src="spacing_horizontal_fill.svg" width="250" alt="spacing_horizontal_fill.svg"></a> | **spacing_horizontal_fill.svg**<br>Vector (SVG) \| 15.49KB<br>更新: 2026-02-26 |
-| <a href="spacing_horizontal_line.svg"><img src="spacing_horizontal_line.svg" width="250" alt="spacing_horizontal_line.svg"></a> | **spacing_horizontal_line.svg**<br>Vector (SVG) \| 15.33KB<br>更新: 2026-02-26 |
-| <a href="spacing_vertical_fill.svg"><img src="spacing_vertical_fill.svg" width="250" alt="spacing_vertical_fill.svg"></a> | **spacing_vertical_fill.svg**<br>Vector (SVG) \| 15.36KB<br>更新: 2026-02-26 |
-| <a href="spacing_vertical_line.svg"><img src="spacing_vertical_line.svg" width="250" alt="spacing_vertical_line.svg"></a> | **spacing_vertical_line.svg**<br>Vector (SVG) \| 15.17KB<br>更新: 2026-02-26 |
-| <a href="strikethrough_fill.svg"><img src="strikethrough_fill.svg" width="250" alt="strikethrough_fill.svg"></a> | **strikethrough_fill.svg**<br>Vector (SVG) \| 2.47KB<br>更新: 2026-02-26 |
-| <a href="strikethrough_line.svg"><img src="strikethrough_line.svg" width="250" alt="strikethrough_line.svg"></a> | **strikethrough_line.svg**<br>Vector (SVG) \| 2.46KB<br>更新: 2026-02-26 |
-| <a href="table_fill.svg"><img src="table_fill.svg" width="250" alt="table_fill.svg"></a> | **table_fill.svg**<br>Vector (SVG) \| 2.10KB<br>更新: 2026-02-26 |
-| <a href="table_line.svg"><img src="table_line.svg" width="250" alt="table_line.svg"></a> | **table_line.svg**<br>Vector (SVG) \| 2.10KB<br>更新: 2026-02-26 |
-| <a href="text_fill.svg"><img src="text_fill.svg" width="250" alt="text_fill.svg"></a> | **text_fill.svg**<br>Vector (SVG) \| 1.22KB<br>更新: 2026-02-26 |
-| <a href="text_line.svg"><img src="text_line.svg" width="250" alt="text_line.svg"></a> | **text_line.svg**<br>Vector (SVG) \| 1.22KB<br>更新: 2026-02-26 |
-| <a href="translate_fill.svg"><img src="translate_fill.svg" width="250" alt="translate_fill.svg"></a> | **translate_fill.svg**<br>Vector (SVG) \| 9.79KB<br>更新: 2026-02-26 |
-| <a href="translate_line.svg"><img src="translate_line.svg" width="250" alt="translate_line.svg"></a> | **translate_line.svg**<br>Vector (SVG) \| 9.80KB<br>更新: 2026-02-26 |
-| <a href="underline_fill.svg"><img src="underline_fill.svg" width="250" alt="underline_fill.svg"></a> | **underline_fill.svg**<br>Vector (SVG) \| 1.56KB<br>更新: 2026-02-26 |
-| <a href="underline_line.svg"><img src="underline_line.svg" width="250" alt="underline_line.svg"></a> | **underline_line.svg**<br>Vector (SVG) \| 1.56KB<br>更新: 2026-02-26 |
-| <a href="Ωomega_fill.svg"><img src="Ωomega_fill.svg" width="250" alt="Ωomega_fill.svg"></a> | **Ωomega_fill.svg**<br>Vector (SVG) \| 8.84KB<br>更新: 2026-02-26 |
-| <a href="Ωomega_line.svg"><img src="Ωomega_line.svg" width="250" alt="Ωomega_line.svg"></a> | **Ωomega_line.svg**<br>Vector (SVG) \| 8.85KB<br>更新: 2026-02-26 |
+| <a href="&and_fill.svg"><img src="&and_fill.svg" width="250"></a> | **&and_fill.svg**<br>Vector (SVG) | 9.35KB |
+| <a href="&and_line.svg"><img src="&and_line.svg" width="250"></a> | **&and_line.svg**<br>Vector (SVG) | 9.35KB |
+| <a href="A-Z_sort_ascending_letters_fill.svg"><img src="A-Z_sort_ascending_letters_fill.svg" width="250"></a> | **A-Z_sort_ascending_letters_fill.svg**<br>Vector (SVG) | 9.27KB |
+| <a href="A-Z_sort_ascending_letters_line.svg"><img src="A-Z_sort_ascending_letters_line.svg" width="250"></a> | **A-Z_sort_ascending_letters_line.svg**<br>Vector (SVG) | 9.24KB |
+| <a href="Heading_1_fill.svg"><img src="Heading_1_fill.svg" width="250"></a> | **Heading_1_fill.svg**<br>Vector (SVG) | 1.64KB |
+| <a href="Heading_1_line.svg"><img src="Heading_1_line.svg" width="250"></a> | **Heading_1_line.svg**<br>Vector (SVG) | 2.06KB |
+| <a href="Heading_2_fill.svg"><img src="Heading_2_fill.svg" width="250"></a> | **Heading_2_fill.svg**<br>Vector (SVG) | 1.98KB |
+| <a href="Heading_2_line.svg"><img src="Heading_2_line.svg" width="250"></a> | **Heading_2_line.svg**<br>Vector (SVG) | 2.73KB |
+| <a href="Heading_3_fill.svg"><img src="Heading_3_fill.svg" width="250"></a> | **Heading_3_fill.svg**<br>Vector (SVG) | 2.21KB |
+| <a href="Heading_3_line.svg"><img src="Heading_3_line.svg" width="250"></a> | **Heading_3_line.svg**<br>Vector (SVG) | 2.59KB |
+| <a href="Z-A_sort_descending_letters_fill.svg"><img src="Z-A_sort_descending_letters_fill.svg" width="250"></a> | **Z-A_sort_descending_letters_fill.svg**<br>Vector (SVG) | 9.28KB |
+| <a href="Z-A_sort_descending_letters_line.svg"><img src="Z-A_sort_descending_letters_line.svg" width="250"></a> | **Z-A_sort_descending_letters_line.svg**<br>Vector (SVG) | 9.28KB |
+| <a href="_asterisk_fill.svg"><img src="_asterisk_fill.svg" width="250"></a> | **_asterisk_fill.svg**<br>Vector (SVG) | 8.71KB |
+| <a href="_asterisk_line.svg"><img src="_asterisk_line.svg" width="250"></a> | **_asterisk_line.svg**<br>Vector (SVG) | 8.72KB |
+| <a href="align_center_fill.svg"><img src="align_center_fill.svg" width="250"></a> | **align_center_fill.svg**<br>Vector (SVG) | 1.77KB |
+| <a href="align_center_line.svg"><img src="align_center_line.svg" width="250"></a> | **align_center_line.svg**<br>Vector (SVG) | 1.77KB |
+| <a href="align_left_fill.svg"><img src="align_left_fill.svg" width="250"></a> | **align_left_fill.svg**<br>Vector (SVG) | 1.77KB |
+| <a href="align_left_line.svg"><img src="align_left_line.svg" width="250"></a> | **align_left_line.svg**<br>Vector (SVG) | 1.77KB |
+| <a href="align_right_fill.svg"><img src="align_right_fill.svg" width="250"></a> | **align_right_fill.svg**<br>Vector (SVG) | 1.85KB |
+| <a href="align_right_line.svg"><img src="align_right_line.svg" width="250"></a> | **align_right_line.svg**<br>Vector (SVG) | 1.85KB |
+| <a href="at_fill.svg"><img src="at_fill.svg" width="250"></a> | **at_fill.svg**<br>Vector (SVG) | 2.37KB |
+| <a href="at_line.svg"><img src="at_line.svg" width="250"></a> | **at_line.svg**<br>Vector (SVG) | 4.89KB |
+| <a href="bold_fill.svg"><img src="bold_fill.svg" width="250"></a> | **bold_fill.svg**<br>Vector (SVG) | 1.51KB |
+| <a href="bold_line.svg"><img src="bold_line.svg" width="250"></a> | **bold_line.svg**<br>Vector (SVG) | 1.51KB |
+| <a href="column_fill.svg"><img src="column_fill.svg" width="250"></a> | **column_fill.svg**<br>Vector (SVG) | 15.04KB |
+| <a href="column_line.svg"><img src="column_line.svg" width="250"></a> | **column_line.svg**<br>Vector (SVG) | 14.92KB |
+| <a href="dividing_line_fill.svg"><img src="dividing_line_fill.svg" width="250"></a> | **dividing_line_fill.svg**<br>Vector (SVG) | 9.69KB |
+| <a href="dividing_line_line.svg"><img src="dividing_line_line.svg" width="250"></a> | **dividing_line_line.svg**<br>Vector (SVG) | 9.69KB |
+| <a href="edit_2_fill.svg"><img src="edit_2_fill.svg" width="250"></a> | **edit_2_fill.svg**<br>Vector (SVG) | 13.78KB |
+| <a href="edit_2_line.svg"><img src="edit_2_line.svg" width="250"></a> | **edit_2_line.svg**<br>Vector (SVG) | 13.88KB |
+| <a href="edit_3_fill.svg"><img src="edit_3_fill.svg" width="250"></a> | **edit_3_fill.svg**<br>Vector (SVG) | 13.74KB |
+| <a href="edit_3_line.svg"><img src="edit_3_line.svg" width="250"></a> | **edit_3_line.svg**<br>Vector (SVG) | 13.90KB |
+| <a href="edit_fill.svg"><img src="edit_fill.svg" width="250"></a> | **edit_fill.svg**<br>Vector (SVG) | 2.39KB |
+| <a href="edit_line.svg"><img src="edit_line.svg" width="250"></a> | **edit_line.svg**<br>Vector (SVG) | 2.40KB |
+| <a href="eraser_fill.svg"><img src="eraser_fill.svg" width="250"></a> | **eraser_fill.svg**<br>Vector (SVG) | 8.56KB |
+| <a href="eraser_line.svg"><img src="eraser_line.svg" width="250"></a> | **eraser_line.svg**<br>Vector (SVG) | 8.67KB |
+| <a href="font_fill.svg"><img src="font_fill.svg" width="250"></a> | **font_fill.svg**<br>Vector (SVG) | 1.33KB |
+| <a href="font_line.svg"><img src="font_line.svg" width="250"></a> | **font_line.svg**<br>Vector (SVG) | 1.33KB |
+| <a href="font_size_fill.svg"><img src="font_size_fill.svg" width="250"></a> | **font_size_fill.svg**<br>Vector (SVG) | 2.01KB |
+| <a href="font_size_line.svg"><img src="font_size_line.svg" width="250"></a> | **font_size_line.svg**<br>Vector (SVG) | 1.97KB |
+| <a href="formula_fill.svg"><img src="formula_fill.svg" width="250"></a> | **formula_fill.svg**<br>Vector (SVG) | 8.69KB |
+| <a href="formula_line.svg"><img src="formula_line.svg" width="250"></a> | **formula_line.svg**<br>Vector (SVG) | 8.70KB |
+| <a href="frame_fill.svg"><img src="frame_fill.svg" width="250"></a> | **frame_fill.svg**<br>Vector (SVG) | 15.02KB |
+| <a href="frame_line.svg"><img src="frame_line.svg" width="250"></a> | **frame_line.svg**<br>Vector (SVG) | 14.87KB |
+| <a href="hashtag_fill.svg"><img src="hashtag_fill.svg" width="250"></a> | **hashtag_fill.svg**<br>Vector (SVG) | 1.99KB |
+| <a href="hashtag_line.svg"><img src="hashtag_line.svg" width="250"></a> | **hashtag_line.svg**<br>Vector (SVG) | 1.98KB |
+| <a href="indent_decrease_fill.svg"><img src="indent_decrease_fill.svg" width="250"></a> | **indent_decrease_fill.svg**<br>Vector (SVG) | 2.31KB |
+| <a href="indent_decrease_line.svg"><img src="indent_decrease_line.svg" width="250"></a> | **indent_decrease_line.svg**<br>Vector (SVG) | 2.30KB |
+| <a href="indent_increase_fill.svg"><img src="indent_increase_fill.svg" width="250"></a> | **indent_increase_fill.svg**<br>Vector (SVG) | 2.31KB |
+| <a href="indent_increase_line.svg"><img src="indent_increase_line.svg" width="250"></a> | **indent_increase_line.svg**<br>Vector (SVG) | 2.30KB |
+| <a href="italic_fill.svg"><img src="italic_fill.svg" width="250"></a> | **italic_fill.svg**<br>Vector (SVG) | 1.46KB |
+| <a href="italic_line.svg"><img src="italic_line.svg" width="250"></a> | **italic_line.svg**<br>Vector (SVG) | 1.41KB |
+| <a href="letter_spacing_fill.svg"><img src="letter_spacing_fill.svg" width="250"></a> | **letter_spacing_fill.svg**<br>Vector (SVG) | 16.46KB |
+| <a href="letter_spacing_line.svg"><img src="letter_spacing_line.svg" width="250"></a> | **letter_spacing_line.svg**<br>Vector (SVG) | 16.35KB |
+| <a href="line_height_fill.svg"><img src="line_height_fill.svg" width="250"></a> | **line_height_fill.svg**<br>Vector (SVG) | 14.64KB |
+| <a href="line_height_line.svg"><img src="line_height_line.svg" width="250"></a> | **line_height_line.svg**<br>Vector (SVG) | 14.70KB |
+| <a href="list_check_2_fill.svg"><img src="list_check_2_fill.svg" width="250"></a> | **list_check_2_fill.svg**<br>Vector (SVG) | 15.08KB |
+| <a href="list_check_2_line.svg"><img src="list_check_2_line.svg" width="250"></a> | **list_check_2_line.svg**<br>Vector (SVG) | 15.07KB |
+| <a href="list_check_3_fill.svg"><img src="list_check_3_fill.svg" width="250"></a> | **list_check_3_fill.svg**<br>Vector (SVG) | 14.77KB |
+| <a href="list_check_3_line.svg"><img src="list_check_3_line.svg" width="250"></a> | **list_check_3_line.svg**<br>Vector (SVG) | 14.94KB |
+| <a href="list_check_fill.svg"><img src="list_check_fill.svg" width="250"></a> | **list_check_fill.svg**<br>Vector (SVG) | 2.30KB |
+| <a href="list_check_line.svg"><img src="list_check_line.svg" width="250"></a> | **list_check_line.svg**<br>Vector (SVG) | 2.30KB |
+| <a href="list_ordered_fill.svg"><img src="list_ordered_fill.svg" width="250"></a> | **list_ordered_fill.svg**<br>Vector (SVG) | 3.45KB |
+| <a href="list_ordered_line.svg"><img src="list_ordered_line.svg" width="250"></a> | **list_ordered_line.svg**<br>Vector (SVG) | 3.39KB |
+| <a href="menu_fill.svg"><img src="menu_fill.svg" width="250"></a> | **menu_fill.svg**<br>Vector (SVG) | 1.75KB |
+| <a href="menu_line.svg"><img src="menu_line.svg" width="250"></a> | **menu_line.svg**<br>Vector (SVG) | 1.75KB |
+| <a href="paint_fill.svg"><img src="paint_fill.svg" width="250"></a> | **paint_fill.svg**<br>Vector (SVG) | 3.74KB |
+| <a href="paint_line.svg"><img src="paint_line.svg" width="250"></a> | **paint_line.svg**<br>Vector (SVG) | 3.89KB |
+| <a href="paragraph_fill.svg"><img src="paragraph_fill.svg" width="250"></a> | **paragraph_fill.svg**<br>Vector (SVG) | 8.67KB |
+| <a href="paragraph_line.svg"><img src="paragraph_line.svg" width="250"></a> | **paragraph_line.svg**<br>Vector (SVG) | 8.67KB |
+| <a href="pen_2_fill.svg"><img src="pen_2_fill.svg" width="250"></a> | **pen_2_fill.svg**<br>Vector (SVG) | 8.71KB |
+| <a href="pen_2_line.svg"><img src="pen_2_line.svg" width="250"></a> | **pen_2_line.svg**<br>Vector (SVG) | 8.93KB |
+| <a href="pencil_fill.svg"><img src="pencil_fill.svg" width="250"></a> | **pencil_fill.svg**<br>Vector (SVG) | 2.77KB |
+| <a href="pencil_line.svg"><img src="pencil_line.svg" width="250"></a> | **pencil_line.svg**<br>Vector (SVG) | 3.07KB |
+| <a href="quote_left_fill.svg"><img src="quote_left_fill.svg" width="250"></a> | **quote_left_fill.svg**<br>Vector (SVG) | 8.89KB |
+| <a href="quote_left_line.svg"><img src="quote_left_line.svg" width="250"></a> | **quote_left_line.svg**<br>Vector (SVG) | 9.43KB |
+| <a href="quote_right_fill.svg"><img src="quote_right_fill.svg" width="250"></a> | **quote_right_fill.svg**<br>Vector (SVG) | 8.89KB |
+| <a href="quote_right_line.svg"><img src="quote_right_line.svg" width="250"></a> | **quote_right_line.svg**<br>Vector (SVG) | 9.44KB |
+| <a href="sort_ascending_fill.svg"><img src="sort_ascending_fill.svg" width="250"></a> | **sort_ascending_fill.svg**<br>Vector (SVG) | 9.09KB |
+| <a href="sort_ascending_line.svg"><img src="sort_ascending_line.svg" width="250"></a> | **sort_ascending_line.svg**<br>Vector (SVG) | 9.09KB |
+| <a href="sort_descending_fill.svg"><img src="sort_descending_fill.svg" width="250"></a> | **sort_descending_fill.svg**<br>Vector (SVG) | 9.15KB |
+| <a href="sort_descending_line.svg"><img src="sort_descending_line.svg" width="250"></a> | **sort_descending_line.svg**<br>Vector (SVG) | 9.15KB |
+| <a href="spacing_horizontal_fill.svg"><img src="spacing_horizontal_fill.svg" width="250"></a> | **spacing_horizontal_fill.svg**<br>Vector (SVG) | 15.49KB |
+| <a href="spacing_horizontal_line.svg"><img src="spacing_horizontal_line.svg" width="250"></a> | **spacing_horizontal_line.svg**<br>Vector (SVG) | 15.33KB |
+| <a href="spacing_vertical_fill.svg"><img src="spacing_vertical_fill.svg" width="250"></a> | **spacing_vertical_fill.svg**<br>Vector (SVG) | 15.36KB |
+| <a href="spacing_vertical_line.svg"><img src="spacing_vertical_line.svg" width="250"></a> | **spacing_vertical_line.svg**<br>Vector (SVG) | 15.17KB |
+| <a href="strikethrough_fill.svg"><img src="strikethrough_fill.svg" width="250"></a> | **strikethrough_fill.svg**<br>Vector (SVG) | 2.47KB |
+| <a href="strikethrough_line.svg"><img src="strikethrough_line.svg" width="250"></a> | **strikethrough_line.svg**<br>Vector (SVG) | 2.46KB |
+| <a href="table_fill.svg"><img src="table_fill.svg" width="250"></a> | **table_fill.svg**<br>Vector (SVG) | 2.10KB |
+| <a href="table_line.svg"><img src="table_line.svg" width="250"></a> | **table_line.svg**<br>Vector (SVG) | 2.10KB |
+| <a href="text_fill.svg"><img src="text_fill.svg" width="250"></a> | **text_fill.svg**<br>Vector (SVG) | 1.22KB |
+| <a href="text_line.svg"><img src="text_line.svg" width="250"></a> | **text_line.svg**<br>Vector (SVG) | 1.22KB |
+| <a href="translate_fill.svg"><img src="translate_fill.svg" width="250"></a> | **translate_fill.svg**<br>Vector (SVG) | 9.79KB |
+| <a href="translate_line.svg"><img src="translate_line.svg" width="250"></a> | **translate_line.svg**<br>Vector (SVG) | 9.80KB |
+| <a href="underline_fill.svg"><img src="underline_fill.svg" width="250"></a> | **underline_fill.svg**<br>Vector (SVG) | 1.56KB |
+| <a href="underline_line.svg"><img src="underline_line.svg" width="250"></a> | **underline_line.svg**<br>Vector (SVG) | 1.56KB |
+| <a href="Ωomega_fill.svg"><img src="Ωomega_fill.svg" width="250"></a> | **Ωomega_fill.svg**<br>Vector (SVG) | 8.84KB |
+| <a href="Ωomega_line.svg"><img src="Ωomega_line.svg" width="250"></a> | **Ωomega_line.svg**<br>Vector (SVG) | 8.85KB |

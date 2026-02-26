@@ -1,101 +1,101 @@
-# 🖼️ 22 Gallery
+# 🖼️ 22 素材庫
 
-[⬅️ 回到首頁](../../README.md)
+[⬅️ 返回主目錄](../../README.md)
 
-| 預覽 | 詳細資訊 |
+| 預覽 (點擊放大) | 檔案資訊 |
 | :--- | :--- |
-| <a href="device-notifier.svg"><img src="device-notifier.svg" width="250" alt="device-notifier.svg"></a> | **device-notifier.svg**<br>Vector (SVG) \| 2.21KB<br>更新: 2026-02-26 |
-| <a href="drive-removable-media.svg"><img src="drive-removable-media.svg" width="250" alt="drive-removable-media.svg"></a> | **drive-removable-media.svg**<br>Vector (SVG) \| 2.55KB<br>更新: 2026-02-26 |
-| <a href="plasma-search.svg"><img src="plasma-search.svg" width="250" alt="plasma-search.svg"></a> | **plasma-search.svg**<br>Vector (SVG) \| 3.16KB<br>更新: 2026-02-26 |
-| <a href="podcast-amarok.svg"><img src="podcast-amarok.svg" width="250" alt="podcast-amarok.svg"></a> | **podcast-amarok.svg**<br>Vector (SVG) \| 1.96KB<br>更新: 2026-02-26 |
-| <a href="preferences-desktop-accessibility.svg"><img src="preferences-desktop-accessibility.svg" width="250" alt="preferences-desktop-accessibility.svg"></a> | **preferences-desktop-accessibility.svg**<br>Vector (SVG) \| 4.20KB<br>更新: 2026-02-26 |
-| <a href="preferences-desktop-activities.svg"><img src="preferences-desktop-activities.svg" width="250" alt="preferences-desktop-activities.svg"></a> | **preferences-desktop-activities.svg**<br>Vector (SVG) \| 11.08KB<br>更新: 2026-02-26 |
-| <a href="preferences-desktop-baloo.svg"><img src="preferences-desktop-baloo.svg" width="250" alt="preferences-desktop-baloo.svg"></a> | **preferences-desktop-baloo.svg**<br>Vector (SVG) \| 3.09KB<br>更新: 2026-02-26 |
-| <a href="preferences-desktop-color.svg"><img src="preferences-desktop-color.svg" width="250" alt="preferences-desktop-color.svg"></a> | **preferences-desktop-color.svg**<br>Vector (SVG) \| 9.83KB<br>更新: 2026-02-26 |
-| <a href="preferences-desktop-cryptography.svg"><img src="preferences-desktop-cryptography.svg" width="250" alt="preferences-desktop-cryptography.svg"></a> | **preferences-desktop-cryptography.svg**<br>Vector (SVG) \| 1.87KB<br>更新: 2026-02-26 |
-| <a href="preferences-desktop-cursors.svg"><img src="preferences-desktop-cursors.svg" width="250" alt="preferences-desktop-cursors.svg"></a> | **preferences-desktop-cursors.svg**<br>Vector (SVG) \| 2.30KB<br>更新: 2026-02-26 |
-| <a href="preferences-desktop-default-applications.svg"><img src="preferences-desktop-default-applications.svg" width="250" alt="preferences-desktop-default-applications.svg"></a> | **preferences-desktop-default-applications.svg**<br>Vector (SVG) \| 615.00B<br>更新: 2026-02-26 |
-| <a href="preferences-desktop-display-color.svg"><img src="preferences-desktop-display-color.svg" width="250" alt="preferences-desktop-display-color.svg"></a> | **preferences-desktop-display-color.svg**<br>Vector (SVG) \| 12.81KB<br>更新: 2026-02-26 |
-| <a href="preferences-desktop-display-randr-symbolic.svg"><img src="preferences-desktop-display-randr-symbolic.svg" width="250" alt="preferences-desktop-display-randr-symbolic.svg"></a> | **preferences-desktop-display-randr-symbolic.svg**<br>Vector (SVG) \| 1.44KB<br>更新: 2026-02-26 |
-| <a href="preferences-desktop-display.svg"><img src="preferences-desktop-display.svg" width="250" alt="preferences-desktop-display.svg"></a> | **preferences-desktop-display.svg**<br>Vector (SVG) \| 1.63KB<br>更新: 2026-02-26 |
-| <a href="preferences-desktop-effects.svg"><img src="preferences-desktop-effects.svg" width="250" alt="preferences-desktop-effects.svg"></a> | **preferences-desktop-effects.svg**<br>Vector (SVG) \| 3.74KB<br>更新: 2026-02-26 |
-| <a href="preferences-desktop-emoticons.svg"><img src="preferences-desktop-emoticons.svg" width="250" alt="preferences-desktop-emoticons.svg"></a> | **preferences-desktop-emoticons.svg**<br>Vector (SVG) \| 1.41KB<br>更新: 2026-02-26 |
-| <a href="preferences-desktop-filetype-association.svg"><img src="preferences-desktop-filetype-association.svg" width="250" alt="preferences-desktop-filetype-association.svg"></a> | **preferences-desktop-filetype-association.svg**<br>Vector (SVG) \| 2.64KB<br>更新: 2026-02-26 |
-| <a href="preferences-desktop-filter.svg"><img src="preferences-desktop-filter.svg" width="250" alt="preferences-desktop-filter.svg"></a> | **preferences-desktop-filter.svg**<br>Vector (SVG) \| 1011.00B<br>更新: 2026-02-26 |
-| <a href="preferences-desktop-font.svg"><img src="preferences-desktop-font.svg" width="250" alt="preferences-desktop-font.svg"></a> | **preferences-desktop-font.svg**<br>Vector (SVG) \| 2.59KB<br>更新: 2026-02-26 |
-| <a href="preferences-desktop-gestures-screenedges.svg"><img src="preferences-desktop-gestures-screenedges.svg" width="250" alt="preferences-desktop-gestures-screenedges.svg"></a> | **preferences-desktop-gestures-screenedges.svg**<br>Vector (SVG) \| 2.97KB<br>更新: 2026-02-26 |
-| <a href="preferences-desktop-gestures-touch.svg"><img src="preferences-desktop-gestures-touch.svg" width="250" alt="preferences-desktop-gestures-touch.svg"></a> | **preferences-desktop-gestures-touch.svg**<br>Vector (SVG) \| 4.35KB<br>更新: 2026-02-26 |
-| <a href="preferences-desktop-icons.svg"><img src="preferences-desktop-icons.svg" width="250" alt="preferences-desktop-icons.svg"></a> | **preferences-desktop-icons.svg**<br>Vector (SVG) \| 1.60KB<br>更新: 2026-02-26 |
-| <a href="preferences-desktop-keyboard.svg"><img src="preferences-desktop-keyboard.svg" width="250" alt="preferences-desktop-keyboard.svg"></a> | **preferences-desktop-keyboard.svg**<br>Vector (SVG) \| 1.01KB<br>更新: 2026-02-26 |
-| <a href="preferences-desktop-launch-feedback.svg"><img src="preferences-desktop-launch-feedback.svg" width="250" alt="preferences-desktop-launch-feedback.svg"></a> | **preferences-desktop-launch-feedback.svg**<br>Vector (SVG) \| 2.32KB<br>更新: 2026-02-26 |
-| <a href="preferences-desktop-locale.svg"><img src="preferences-desktop-locale.svg" width="250" alt="preferences-desktop-locale.svg"></a> | **preferences-desktop-locale.svg**<br>Vector (SVG) \| 1.19KB<br>更新: 2026-02-26 |
-| <a href="preferences-desktop-multimedia.svg"><img src="preferences-desktop-multimedia.svg" width="250" alt="preferences-desktop-multimedia.svg"></a> | **preferences-desktop-multimedia.svg**<br>Vector (SVG) \| 2.03KB<br>更新: 2026-02-26 |
-| <a href="preferences-desktop-navigation.svg"><img src="preferences-desktop-navigation.svg" width="250" alt="preferences-desktop-navigation.svg"></a> | **preferences-desktop-navigation.svg**<br>Vector (SVG) \| 3.27KB<br>更新: 2026-02-26 |
-| <a href="preferences-desktop-notification-bell.svg"><img src="preferences-desktop-notification-bell.svg" width="250" alt="preferences-desktop-notification-bell.svg"></a> | **preferences-desktop-notification-bell.svg**<br>Vector (SVG) \| 1.50KB<br>更新: 2026-02-26 |
-| <a href="preferences-desktop-plasma-theme.svg"><img src="preferences-desktop-plasma-theme.svg" width="250" alt="preferences-desktop-plasma-theme.svg"></a> | **preferences-desktop-plasma-theme.svg**<br>Vector (SVG) \| 4.77KB<br>更新: 2026-02-26 |
-| <a href="preferences-desktop-plasma.svg"><img src="preferences-desktop-plasma.svg" width="250" alt="preferences-desktop-plasma.svg"></a> | **preferences-desktop-plasma.svg**<br>Vector (SVG) \| 4.64KB<br>更新: 2026-02-26 |
-| <a href="preferences-desktop-screensaver.svg"><img src="preferences-desktop-screensaver.svg" width="250" alt="preferences-desktop-screensaver.svg"></a> | **preferences-desktop-screensaver.svg**<br>Vector (SVG) \| 4.59KB<br>更新: 2026-02-26 |
-| <a href="preferences-desktop-search.svg"><img src="preferences-desktop-search.svg" width="250" alt="preferences-desktop-search.svg"></a> | **preferences-desktop-search.svg**<br>Vector (SVG) \| 3.41KB<br>更新: 2026-02-26 |
-| <a href="preferences-desktop-sound.svg"><img src="preferences-desktop-sound.svg" width="250" alt="preferences-desktop-sound.svg"></a> | **preferences-desktop-sound.svg**<br>Vector (SVG) \| 3.13KB<br>更新: 2026-02-26 |
-| <a href="preferences-desktop-tablet.svg"><img src="preferences-desktop-tablet.svg" width="250" alt="preferences-desktop-tablet.svg"></a> | **preferences-desktop-tablet.svg**<br>Vector (SVG) \| 1.42KB<br>更新: 2026-02-26 |
-| <a href="preferences-desktop-text-to-speech.svg"><img src="preferences-desktop-text-to-speech.svg" width="250" alt="preferences-desktop-text-to-speech.svg"></a> | **preferences-desktop-text-to-speech.svg**<br>Vector (SVG) \| 1.01KB<br>更新: 2026-02-26 |
-| <a href="preferences-desktop-theme-applications.svg"><img src="preferences-desktop-theme-applications.svg" width="250" alt="preferences-desktop-theme-applications.svg"></a> | **preferences-desktop-theme-applications.svg**<br>Vector (SVG) \| 2.20KB<br>更新: 2026-02-26 |
-| <a href="preferences-desktop-theme-global.svg"><img src="preferences-desktop-theme-global.svg" width="250" alt="preferences-desktop-theme-global.svg"></a> | **preferences-desktop-theme-global.svg**<br>Vector (SVG) \| 6.51KB<br>更新: 2026-02-26 |
-| <a href="preferences-desktop-theme-windowdecorations.svg"><img src="preferences-desktop-theme-windowdecorations.svg" width="250" alt="preferences-desktop-theme-windowdecorations.svg"></a> | **preferences-desktop-theme-windowdecorations.svg**<br>Vector (SVG) \| 1.21KB<br>更新: 2026-02-26 |
-| <a href="preferences-desktop-thunderbolt.svg"><img src="preferences-desktop-thunderbolt.svg" width="250" alt="preferences-desktop-thunderbolt.svg"></a> | **preferences-desktop-thunderbolt.svg**<br>Vector (SVG) \| 1.09KB<br>更新: 2026-02-26 |
-| <a href="preferences-desktop-touchpad.svg"><img src="preferences-desktop-touchpad.svg" width="250" alt="preferences-desktop-touchpad.svg"></a> | **preferences-desktop-touchpad.svg**<br>Vector (SVG) \| 2.70KB<br>更新: 2026-02-26 |
-| <a href="preferences-desktop-touchscreen.svg"><img src="preferences-desktop-touchscreen.svg" width="250" alt="preferences-desktop-touchscreen.svg"></a> | **preferences-desktop-touchscreen.svg**<br>Vector (SVG) \| 5.57KB<br>更新: 2026-02-26 |
-| <a href="preferences-desktop-user-password.svg"><img src="preferences-desktop-user-password.svg" width="250" alt="preferences-desktop-user-password.svg"></a> | **preferences-desktop-user-password.svg**<br>Vector (SVG) \| 4.58KB<br>更新: 2026-02-26 |
-| <a href="preferences-desktop-user.svg"><img src="preferences-desktop-user.svg" width="250" alt="preferences-desktop-user.svg"></a> | **preferences-desktop-user.svg**<br>Vector (SVG) \| 1.87KB<br>更新: 2026-02-26 |
-| <a href="preferences-desktop-virtual.svg"><img src="preferences-desktop-virtual.svg" width="250" alt="preferences-desktop-virtual.svg"></a> | **preferences-desktop-virtual.svg**<br>Vector (SVG) \| 2.13KB<br>更新: 2026-02-26 |
-| <a href="preferences-desktop-wallpaper.svg"><img src="preferences-desktop-wallpaper.svg" width="250" alt="preferences-desktop-wallpaper.svg"></a> | **preferences-desktop-wallpaper.svg**<br>Vector (SVG) \| 3.90KB<br>更新: 2026-02-26 |
-| <a href="preferences-desktop.svg"><img src="preferences-desktop.svg" width="250" alt="preferences-desktop.svg"></a> | **preferences-desktop.svg**<br>Vector (SVG) \| 3.70KB<br>更新: 2026-02-26 |
-| <a href="preferences-devices-cpu.svg"><img src="preferences-devices-cpu.svg" width="250" alt="preferences-devices-cpu.svg"></a> | **preferences-devices-cpu.svg**<br>Vector (SVG) \| 1.50KB<br>更新: 2026-02-26 |
-| <a href="preferences-devices-drive-optical-check.svg"><img src="preferences-devices-drive-optical-check.svg" width="250" alt="preferences-devices-drive-optical-check.svg"></a> | **preferences-devices-drive-optical-check.svg**<br>Vector (SVG) \| 2.18KB<br>更新: 2026-02-26 |
-| <a href="preferences-devices-printer.svg"><img src="preferences-devices-printer.svg" width="250" alt="preferences-devices-printer.svg"></a> | **preferences-devices-printer.svg**<br>Vector (SVG) \| 3.35KB<br>更新: 2026-02-26 |
-| <a href="preferences-devices-scanner.svg"><img src="preferences-devices-scanner.svg" width="250" alt="preferences-devices-scanner.svg"></a> | **preferences-devices-scanner.svg**<br>Vector (SVG) \| 2.74KB<br>更新: 2026-02-26 |
-| <a href="preferences-devices-tree.svg"><img src="preferences-devices-tree.svg" width="250" alt="preferences-devices-tree.svg"></a> | **preferences-devices-tree.svg**<br>Vector (SVG) \| 3.48KB<br>更新: 2026-02-26 |
-| <a href="preferences-gtk-config.svg"><img src="preferences-gtk-config.svg" width="250" alt="preferences-gtk-config.svg"></a> | **preferences-gtk-config.svg**<br>Vector (SVG) \| 3.02KB<br>更新: 2026-02-26 |
-| <a href="preferences-kde-connect.svg"><img src="preferences-kde-connect.svg" width="250" alt="preferences-kde-connect.svg"></a> | **preferences-kde-connect.svg**<br>Vector (SVG) \| 1.81KB<br>更新: 2026-02-26 |
-| <a href="preferences-online-accounts.svg"><img src="preferences-online-accounts.svg" width="250" alt="preferences-online-accounts.svg"></a> | **preferences-online-accounts.svg**<br>Vector (SVG) \| 1.99KB<br>更新: 2026-02-26 |
-| <a href="preferences-other.svg"><img src="preferences-other.svg" width="250" alt="preferences-other.svg"></a> | **preferences-other.svg**<br>Vector (SVG) \| 1.34KB<br>更新: 2026-02-26 |
-| <a href="preferences-plugin.svg"><img src="preferences-plugin.svg" width="250" alt="preferences-plugin.svg"></a> | **preferences-plugin.svg**<br>Vector (SVG) \| 1.54KB<br>更新: 2026-02-26 |
-| <a href="preferences-security-kerberos.svg"><img src="preferences-security-kerberos.svg" width="250" alt="preferences-security-kerberos.svg"></a> | **preferences-security-kerberos.svg**<br>Vector (SVG) \| 3.38KB<br>更新: 2026-02-26 |
-| <a href="preferences-security.svg"><img src="preferences-security.svg" width="250" alt="preferences-security.svg"></a> | **preferences-security.svg**<br>Vector (SVG) \| 1.38KB<br>更新: 2026-02-26 |
-| <a href="preferences-smart-status.svg"><img src="preferences-smart-status.svg" width="250" alt="preferences-smart-status.svg"></a> | **preferences-smart-status.svg**<br>Vector (SVG) \| 2.48KB<br>更新: 2026-02-26 |
-| <a href="preferences-system-bluetooth-activated-symbolic.svg"><img src="preferences-system-bluetooth-activated-symbolic.svg" width="250" alt="preferences-system-bluetooth-activated-symbolic.svg"></a> | **preferences-system-bluetooth-activated-symbolic.svg**<br>Vector (SVG) \| 1.87KB<br>更新: 2026-02-26 |
-| <a href="preferences-system-bluetooth-symbolic.svg"><img src="preferences-system-bluetooth-symbolic.svg" width="250" alt="preferences-system-bluetooth-symbolic.svg"></a> | **preferences-system-bluetooth-symbolic.svg**<br>Vector (SVG) \| 1.58KB<br>更新: 2026-02-26 |
-| <a href="preferences-system-bluetooth.svg"><img src="preferences-system-bluetooth.svg" width="250" alt="preferences-system-bluetooth.svg"></a> | **preferences-system-bluetooth.svg**<br>Vector (SVG) \| 1.38KB<br>更新: 2026-02-26 |
-| <a href="preferences-system-disks.svg"><img src="preferences-system-disks.svg" width="250" alt="preferences-system-disks.svg"></a> | **preferences-system-disks.svg**<br>Vector (SVG) \| 1.30KB<br>更新: 2026-02-26 |
-| <a href="preferences-system-linux.svg"><img src="preferences-system-linux.svg" width="250" alt="preferences-system-linux.svg"></a> | **preferences-system-linux.svg**<br>Vector (SVG) \| 6.54KB<br>更新: 2026-02-26 |
-| <a href="preferences-system-login.svg"><img src="preferences-system-login.svg" width="250" alt="preferences-system-login.svg"></a> | **preferences-system-login.svg**<br>Vector (SVG) \| 2.31KB<br>更新: 2026-02-26 |
-| <a href="preferences-system-network-dsl.svg"><img src="preferences-system-network-dsl.svg" width="250" alt="preferences-system-network-dsl.svg"></a> | **preferences-system-network-dsl.svg**<br>Vector (SVG) \| 3.04KB<br>更新: 2026-02-26 |
-| <a href="preferences-system-network-ethernet.svg"><img src="preferences-system-network-ethernet.svg" width="250" alt="preferences-system-network-ethernet.svg"></a> | **preferences-system-network-ethernet.svg**<br>Vector (SVG) \| 3.51KB<br>更新: 2026-02-26 |
-| <a href="preferences-system-network-ldap.svg"><img src="preferences-system-network-ldap.svg" width="250" alt="preferences-system-network-ldap.svg"></a> | **preferences-system-network-ldap.svg**<br>Vector (SVG) \| 2.52KB<br>更新: 2026-02-26 |
-| <a href="preferences-system-network-nis.svg"><img src="preferences-system-network-nis.svg" width="250" alt="preferences-system-network-nis.svg"></a> | **preferences-system-network-nis.svg**<br>Vector (SVG) \| 2.11KB<br>更新: 2026-02-26 |
-| <a href="preferences-system-network-proxy.svg"><img src="preferences-system-network-proxy.svg" width="250" alt="preferences-system-network-proxy.svg"></a> | **preferences-system-network-proxy.svg**<br>Vector (SVG) \| 2.55KB<br>更新: 2026-02-26 |
-| <a href="preferences-system-network-share-windows.svg"><img src="preferences-system-network-share-windows.svg" width="250" alt="preferences-system-network-share-windows.svg"></a> | **preferences-system-network-share-windows.svg**<br>Vector (SVG) \| 3.60KB<br>更新: 2026-02-26 |
-| <a href="preferences-system-network-sharing.svg"><img src="preferences-system-network-sharing.svg" width="250" alt="preferences-system-network-sharing.svg"></a> | **preferences-system-network-sharing.svg**<br>Vector (SVG) \| 1.91KB<br>更新: 2026-02-26 |
-| <a href="preferences-system-network-vpn.svg"><img src="preferences-system-network-vpn.svg" width="250" alt="preferences-system-network-vpn.svg"></a> | **preferences-system-network-vpn.svg**<br>Vector (SVG) \| 2.73KB<br>更新: 2026-02-26 |
-| <a href="preferences-system-network-wakeonlan.svg"><img src="preferences-system-network-wakeonlan.svg" width="250" alt="preferences-system-network-wakeonlan.svg"></a> | **preferences-system-network-wakeonlan.svg**<br>Vector (SVG) \| 1.77KB<br>更新: 2026-02-26 |
-| <a href="preferences-system-power-management.svg"><img src="preferences-system-power-management.svg" width="250" alt="preferences-system-power-management.svg"></a> | **preferences-system-power-management.svg**<br>Vector (SVG) \| 1.02KB<br>更新: 2026-02-26 |
-| <a href="preferences-system-services.svg"><img src="preferences-system-services.svg" width="250" alt="preferences-system-services.svg"></a> | **preferences-system-services.svg**<br>Vector (SVG) \| 1.89KB<br>更新: 2026-02-26 |
-| <a href="preferences-system-session-services.svg"><img src="preferences-system-session-services.svg" width="250" alt="preferences-system-session-services.svg"></a> | **preferences-system-session-services.svg**<br>Vector (SVG) \| 3.65KB<br>更新: 2026-02-26 |
-| <a href="preferences-system-splash.svg"><img src="preferences-system-splash.svg" width="250" alt="preferences-system-splash.svg"></a> | **preferences-system-splash.svg**<br>Vector (SVG) \| 5.34KB<br>更新: 2026-02-26 |
-| <a href="preferences-system-startup.svg"><img src="preferences-system-startup.svg" width="250" alt="preferences-system-startup.svg"></a> | **preferences-system-startup.svg**<br>Vector (SVG) \| 3.51KB<br>更新: 2026-02-26 |
-| <a href="preferences-system-time.svg"><img src="preferences-system-time.svg" width="250" alt="preferences-system-time.svg"></a> | **preferences-system-time.svg**<br>Vector (SVG) \| 1.41KB<br>更新: 2026-02-26 |
-| <a href="preferences-system-user-sudo.svg"><img src="preferences-system-user-sudo.svg" width="250" alt="preferences-system-user-sudo.svg"></a> | **preferences-system-user-sudo.svg**<br>Vector (SVG) \| 1.87KB<br>更新: 2026-02-26 |
-| <a href="preferences-system-windows-actions.svg"><img src="preferences-system-windows-actions.svg" width="250" alt="preferences-system-windows-actions.svg"></a> | **preferences-system-windows-actions.svg**<br>Vector (SVG) \| 2.17KB<br>更新: 2026-02-26 |
-| <a href="preferences-system-windows-behavior.svg"><img src="preferences-system-windows-behavior.svg" width="250" alt="preferences-system-windows-behavior.svg"></a> | **preferences-system-windows-behavior.svg**<br>Vector (SVG) \| 1.75KB<br>更新: 2026-02-26 |
-| <a href="preferences-system-windows-move.svg"><img src="preferences-system-windows-move.svg" width="250" alt="preferences-system-windows-move.svg"></a> | **preferences-system-windows-move.svg**<br>Vector (SVG) \| 1.48KB<br>更新: 2026-02-26 |
-| <a href="preferences-system-windows.svg"><img src="preferences-system-windows.svg" width="250" alt="preferences-system-windows.svg"></a> | **preferences-system-windows.svg**<br>Vector (SVG) \| 1.06KB<br>更新: 2026-02-26 |
-| <a href="preferences-virtualization-container.svg"><img src="preferences-virtualization-container.svg" width="250" alt="preferences-virtualization-container.svg"></a> | **preferences-virtualization-container.svg**<br>Vector (SVG) \| 1.85KB<br>更新: 2026-02-26 |
-| <a href="preferences-web-browser-cache.svg"><img src="preferences-web-browser-cache.svg" width="250" alt="preferences-web-browser-cache.svg"></a> | **preferences-web-browser-cache.svg**<br>Vector (SVG) \| 1.73KB<br>更新: 2026-02-26 |
-| <a href="preferences-web-browser-cookies.svg"><img src="preferences-web-browser-cookies.svg" width="250" alt="preferences-web-browser-cookies.svg"></a> | **preferences-web-browser-cookies.svg**<br>Vector (SVG) \| 2.78KB<br>更新: 2026-02-26 |
-| <a href="preferences-web-browser-identification.svg"><img src="preferences-web-browser-identification.svg" width="250" alt="preferences-web-browser-identification.svg"></a> | **preferences-web-browser-identification.svg**<br>Vector (SVG) \| 1.95KB<br>更新: 2026-02-26 |
-| <a href="preferences-web-browser-shortcuts.svg"><img src="preferences-web-browser-shortcuts.svg" width="250" alt="preferences-web-browser-shortcuts.svg"></a> | **preferences-web-browser-shortcuts.svg**<br>Vector (SVG) \| 1.68KB<br>更新: 2026-02-26 |
-| <a href="preferences-web-browser-ssl.svg"><img src="preferences-web-browser-ssl.svg" width="250" alt="preferences-web-browser-ssl.svg"></a> | **preferences-web-browser-ssl.svg**<br>Vector (SVG) \| 1.78KB<br>更新: 2026-02-26 |
-| <a href="preferences-web-browser-stylesheets.svg"><img src="preferences-web-browser-stylesheets.svg" width="250" alt="preferences-web-browser-stylesheets.svg"></a> | **preferences-web-browser-stylesheets.svg**<br>Vector (SVG) \| 2.44KB<br>更新: 2026-02-26 |
-| <a href="system-users.svg"><img src="system-users.svg" width="250" alt="system-users.svg"></a> | **system-users.svg**<br>Vector (SVG) \| 2.56KB<br>更新: 2026-02-26 |
-| <a href="window-duplicate.svg"><img src="window-duplicate.svg" width="250" alt="window-duplicate.svg"></a> | **window-duplicate.svg**<br>Vector (SVG) \| 2.21KB<br>更新: 2026-02-26 |
-| <a href="yast-disk.svg"><img src="yast-disk.svg" width="250" alt="yast-disk.svg"></a> | **yast-disk.svg**<br>Vector (SVG) \| 1.94KB<br>更新: 2026-02-26 |
+| <a href="device-notifier.svg"><img src="device-notifier.svg" width="250"></a> | **device-notifier.svg**<br>Vector (SVG) | 2.21KB |
+| <a href="drive-removable-media.svg"><img src="drive-removable-media.svg" width="250"></a> | **drive-removable-media.svg**<br>Vector (SVG) | 2.55KB |
+| <a href="plasma-search.svg"><img src="plasma-search.svg" width="250"></a> | **plasma-search.svg**<br>Vector (SVG) | 3.16KB |
+| <a href="podcast-amarok.svg"><img src="podcast-amarok.svg" width="250"></a> | **podcast-amarok.svg**<br>Vector (SVG) | 1.96KB |
+| <a href="preferences-desktop-accessibility.svg"><img src="preferences-desktop-accessibility.svg" width="250"></a> | **preferences-desktop-accessibility.svg**<br>Vector (SVG) | 4.20KB |
+| <a href="preferences-desktop-activities.svg"><img src="preferences-desktop-activities.svg" width="250"></a> | **preferences-desktop-activities.svg**<br>Vector (SVG) | 11.08KB |
+| <a href="preferences-desktop-baloo.svg"><img src="preferences-desktop-baloo.svg" width="250"></a> | **preferences-desktop-baloo.svg**<br>Vector (SVG) | 3.09KB |
+| <a href="preferences-desktop-color.svg"><img src="preferences-desktop-color.svg" width="250"></a> | **preferences-desktop-color.svg**<br>Vector (SVG) | 9.83KB |
+| <a href="preferences-desktop-cryptography.svg"><img src="preferences-desktop-cryptography.svg" width="250"></a> | **preferences-desktop-cryptography.svg**<br>Vector (SVG) | 1.87KB |
+| <a href="preferences-desktop-cursors.svg"><img src="preferences-desktop-cursors.svg" width="250"></a> | **preferences-desktop-cursors.svg**<br>Vector (SVG) | 2.30KB |
+| <a href="preferences-desktop-default-applications.svg"><img src="preferences-desktop-default-applications.svg" width="250"></a> | **preferences-desktop-default-applications.svg**<br>Vector (SVG) | 615.00B |
+| <a href="preferences-desktop-display-color.svg"><img src="preferences-desktop-display-color.svg" width="250"></a> | **preferences-desktop-display-color.svg**<br>Vector (SVG) | 12.81KB |
+| <a href="preferences-desktop-display-randr-symbolic.svg"><img src="preferences-desktop-display-randr-symbolic.svg" width="250"></a> | **preferences-desktop-display-randr-symbolic.svg**<br>Vector (SVG) | 1.44KB |
+| <a href="preferences-desktop-display.svg"><img src="preferences-desktop-display.svg" width="250"></a> | **preferences-desktop-display.svg**<br>Vector (SVG) | 1.63KB |
+| <a href="preferences-desktop-effects.svg"><img src="preferences-desktop-effects.svg" width="250"></a> | **preferences-desktop-effects.svg**<br>Vector (SVG) | 3.74KB |
+| <a href="preferences-desktop-emoticons.svg"><img src="preferences-desktop-emoticons.svg" width="250"></a> | **preferences-desktop-emoticons.svg**<br>Vector (SVG) | 1.41KB |
+| <a href="preferences-desktop-filetype-association.svg"><img src="preferences-desktop-filetype-association.svg" width="250"></a> | **preferences-desktop-filetype-association.svg**<br>Vector (SVG) | 2.64KB |
+| <a href="preferences-desktop-filter.svg"><img src="preferences-desktop-filter.svg" width="250"></a> | **preferences-desktop-filter.svg**<br>Vector (SVG) | 1011.00B |
+| <a href="preferences-desktop-font.svg"><img src="preferences-desktop-font.svg" width="250"></a> | **preferences-desktop-font.svg**<br>Vector (SVG) | 2.59KB |
+| <a href="preferences-desktop-gestures-screenedges.svg"><img src="preferences-desktop-gestures-screenedges.svg" width="250"></a> | **preferences-desktop-gestures-screenedges.svg**<br>Vector (SVG) | 2.97KB |
+| <a href="preferences-desktop-gestures-touch.svg"><img src="preferences-desktop-gestures-touch.svg" width="250"></a> | **preferences-desktop-gestures-touch.svg**<br>Vector (SVG) | 4.35KB |
+| <a href="preferences-desktop-icons.svg"><img src="preferences-desktop-icons.svg" width="250"></a> | **preferences-desktop-icons.svg**<br>Vector (SVG) | 1.60KB |
+| <a href="preferences-desktop-keyboard.svg"><img src="preferences-desktop-keyboard.svg" width="250"></a> | **preferences-desktop-keyboard.svg**<br>Vector (SVG) | 1.01KB |
+| <a href="preferences-desktop-launch-feedback.svg"><img src="preferences-desktop-launch-feedback.svg" width="250"></a> | **preferences-desktop-launch-feedback.svg**<br>Vector (SVG) | 2.32KB |
+| <a href="preferences-desktop-locale.svg"><img src="preferences-desktop-locale.svg" width="250"></a> | **preferences-desktop-locale.svg**<br>Vector (SVG) | 1.19KB |
+| <a href="preferences-desktop-multimedia.svg"><img src="preferences-desktop-multimedia.svg" width="250"></a> | **preferences-desktop-multimedia.svg**<br>Vector (SVG) | 2.03KB |
+| <a href="preferences-desktop-navigation.svg"><img src="preferences-desktop-navigation.svg" width="250"></a> | **preferences-desktop-navigation.svg**<br>Vector (SVG) | 3.27KB |
+| <a href="preferences-desktop-notification-bell.svg"><img src="preferences-desktop-notification-bell.svg" width="250"></a> | **preferences-desktop-notification-bell.svg**<br>Vector (SVG) | 1.50KB |
+| <a href="preferences-desktop-plasma-theme.svg"><img src="preferences-desktop-plasma-theme.svg" width="250"></a> | **preferences-desktop-plasma-theme.svg**<br>Vector (SVG) | 4.77KB |
+| <a href="preferences-desktop-plasma.svg"><img src="preferences-desktop-plasma.svg" width="250"></a> | **preferences-desktop-plasma.svg**<br>Vector (SVG) | 4.64KB |
+| <a href="preferences-desktop-screensaver.svg"><img src="preferences-desktop-screensaver.svg" width="250"></a> | **preferences-desktop-screensaver.svg**<br>Vector (SVG) | 4.59KB |
+| <a href="preferences-desktop-search.svg"><img src="preferences-desktop-search.svg" width="250"></a> | **preferences-desktop-search.svg**<br>Vector (SVG) | 3.41KB |
+| <a href="preferences-desktop-sound.svg"><img src="preferences-desktop-sound.svg" width="250"></a> | **preferences-desktop-sound.svg**<br>Vector (SVG) | 3.13KB |
+| <a href="preferences-desktop-tablet.svg"><img src="preferences-desktop-tablet.svg" width="250"></a> | **preferences-desktop-tablet.svg**<br>Vector (SVG) | 1.42KB |
+| <a href="preferences-desktop-text-to-speech.svg"><img src="preferences-desktop-text-to-speech.svg" width="250"></a> | **preferences-desktop-text-to-speech.svg**<br>Vector (SVG) | 1.01KB |
+| <a href="preferences-desktop-theme-applications.svg"><img src="preferences-desktop-theme-applications.svg" width="250"></a> | **preferences-desktop-theme-applications.svg**<br>Vector (SVG) | 2.20KB |
+| <a href="preferences-desktop-theme-global.svg"><img src="preferences-desktop-theme-global.svg" width="250"></a> | **preferences-desktop-theme-global.svg**<br>Vector (SVG) | 6.51KB |
+| <a href="preferences-desktop-theme-windowdecorations.svg"><img src="preferences-desktop-theme-windowdecorations.svg" width="250"></a> | **preferences-desktop-theme-windowdecorations.svg**<br>Vector (SVG) | 1.21KB |
+| <a href="preferences-desktop-thunderbolt.svg"><img src="preferences-desktop-thunderbolt.svg" width="250"></a> | **preferences-desktop-thunderbolt.svg**<br>Vector (SVG) | 1.09KB |
+| <a href="preferences-desktop-touchpad.svg"><img src="preferences-desktop-touchpad.svg" width="250"></a> | **preferences-desktop-touchpad.svg**<br>Vector (SVG) | 2.70KB |
+| <a href="preferences-desktop-touchscreen.svg"><img src="preferences-desktop-touchscreen.svg" width="250"></a> | **preferences-desktop-touchscreen.svg**<br>Vector (SVG) | 5.57KB |
+| <a href="preferences-desktop-user-password.svg"><img src="preferences-desktop-user-password.svg" width="250"></a> | **preferences-desktop-user-password.svg**<br>Vector (SVG) | 4.58KB |
+| <a href="preferences-desktop-user.svg"><img src="preferences-desktop-user.svg" width="250"></a> | **preferences-desktop-user.svg**<br>Vector (SVG) | 1.87KB |
+| <a href="preferences-desktop-virtual.svg"><img src="preferences-desktop-virtual.svg" width="250"></a> | **preferences-desktop-virtual.svg**<br>Vector (SVG) | 2.13KB |
+| <a href="preferences-desktop-wallpaper.svg"><img src="preferences-desktop-wallpaper.svg" width="250"></a> | **preferences-desktop-wallpaper.svg**<br>Vector (SVG) | 3.90KB |
+| <a href="preferences-desktop.svg"><img src="preferences-desktop.svg" width="250"></a> | **preferences-desktop.svg**<br>Vector (SVG) | 3.70KB |
+| <a href="preferences-devices-cpu.svg"><img src="preferences-devices-cpu.svg" width="250"></a> | **preferences-devices-cpu.svg**<br>Vector (SVG) | 1.50KB |
+| <a href="preferences-devices-drive-optical-check.svg"><img src="preferences-devices-drive-optical-check.svg" width="250"></a> | **preferences-devices-drive-optical-check.svg**<br>Vector (SVG) | 2.18KB |
+| <a href="preferences-devices-printer.svg"><img src="preferences-devices-printer.svg" width="250"></a> | **preferences-devices-printer.svg**<br>Vector (SVG) | 3.35KB |
+| <a href="preferences-devices-scanner.svg"><img src="preferences-devices-scanner.svg" width="250"></a> | **preferences-devices-scanner.svg**<br>Vector (SVG) | 2.74KB |
+| <a href="preferences-devices-tree.svg"><img src="preferences-devices-tree.svg" width="250"></a> | **preferences-devices-tree.svg**<br>Vector (SVG) | 3.48KB |
+| <a href="preferences-gtk-config.svg"><img src="preferences-gtk-config.svg" width="250"></a> | **preferences-gtk-config.svg**<br>Vector (SVG) | 3.02KB |
+| <a href="preferences-kde-connect.svg"><img src="preferences-kde-connect.svg" width="250"></a> | **preferences-kde-connect.svg**<br>Vector (SVG) | 1.81KB |
+| <a href="preferences-online-accounts.svg"><img src="preferences-online-accounts.svg" width="250"></a> | **preferences-online-accounts.svg**<br>Vector (SVG) | 1.99KB |
+| <a href="preferences-other.svg"><img src="preferences-other.svg" width="250"></a> | **preferences-other.svg**<br>Vector (SVG) | 1.34KB |
+| <a href="preferences-plugin.svg"><img src="preferences-plugin.svg" width="250"></a> | **preferences-plugin.svg**<br>Vector (SVG) | 1.54KB |
+| <a href="preferences-security-kerberos.svg"><img src="preferences-security-kerberos.svg" width="250"></a> | **preferences-security-kerberos.svg**<br>Vector (SVG) | 3.38KB |
+| <a href="preferences-security.svg"><img src="preferences-security.svg" width="250"></a> | **preferences-security.svg**<br>Vector (SVG) | 1.38KB |
+| <a href="preferences-smart-status.svg"><img src="preferences-smart-status.svg" width="250"></a> | **preferences-smart-status.svg**<br>Vector (SVG) | 2.48KB |
+| <a href="preferences-system-bluetooth-activated-symbolic.svg"><img src="preferences-system-bluetooth-activated-symbolic.svg" width="250"></a> | **preferences-system-bluetooth-activated-symbolic.svg**<br>Vector (SVG) | 1.87KB |
+| <a href="preferences-system-bluetooth-symbolic.svg"><img src="preferences-system-bluetooth-symbolic.svg" width="250"></a> | **preferences-system-bluetooth-symbolic.svg**<br>Vector (SVG) | 1.58KB |
+| <a href="preferences-system-bluetooth.svg"><img src="preferences-system-bluetooth.svg" width="250"></a> | **preferences-system-bluetooth.svg**<br>Vector (SVG) | 1.38KB |
+| <a href="preferences-system-disks.svg"><img src="preferences-system-disks.svg" width="250"></a> | **preferences-system-disks.svg**<br>Vector (SVG) | 1.30KB |
+| <a href="preferences-system-linux.svg"><img src="preferences-system-linux.svg" width="250"></a> | **preferences-system-linux.svg**<br>Vector (SVG) | 6.54KB |
+| <a href="preferences-system-login.svg"><img src="preferences-system-login.svg" width="250"></a> | **preferences-system-login.svg**<br>Vector (SVG) | 2.31KB |
+| <a href="preferences-system-network-dsl.svg"><img src="preferences-system-network-dsl.svg" width="250"></a> | **preferences-system-network-dsl.svg**<br>Vector (SVG) | 3.04KB |
+| <a href="preferences-system-network-ethernet.svg"><img src="preferences-system-network-ethernet.svg" width="250"></a> | **preferences-system-network-ethernet.svg**<br>Vector (SVG) | 3.51KB |
+| <a href="preferences-system-network-ldap.svg"><img src="preferences-system-network-ldap.svg" width="250"></a> | **preferences-system-network-ldap.svg**<br>Vector (SVG) | 2.52KB |
+| <a href="preferences-system-network-nis.svg"><img src="preferences-system-network-nis.svg" width="250"></a> | **preferences-system-network-nis.svg**<br>Vector (SVG) | 2.11KB |
+| <a href="preferences-system-network-proxy.svg"><img src="preferences-system-network-proxy.svg" width="250"></a> | **preferences-system-network-proxy.svg**<br>Vector (SVG) | 2.55KB |
+| <a href="preferences-system-network-share-windows.svg"><img src="preferences-system-network-share-windows.svg" width="250"></a> | **preferences-system-network-share-windows.svg**<br>Vector (SVG) | 3.60KB |
+| <a href="preferences-system-network-sharing.svg"><img src="preferences-system-network-sharing.svg" width="250"></a> | **preferences-system-network-sharing.svg**<br>Vector (SVG) | 1.91KB |
+| <a href="preferences-system-network-vpn.svg"><img src="preferences-system-network-vpn.svg" width="250"></a> | **preferences-system-network-vpn.svg**<br>Vector (SVG) | 2.73KB |
+| <a href="preferences-system-network-wakeonlan.svg"><img src="preferences-system-network-wakeonlan.svg" width="250"></a> | **preferences-system-network-wakeonlan.svg**<br>Vector (SVG) | 1.77KB |
+| <a href="preferences-system-power-management.svg"><img src="preferences-system-power-management.svg" width="250"></a> | **preferences-system-power-management.svg**<br>Vector (SVG) | 1.02KB |
+| <a href="preferences-system-services.svg"><img src="preferences-system-services.svg" width="250"></a> | **preferences-system-services.svg**<br>Vector (SVG) | 1.89KB |
+| <a href="preferences-system-session-services.svg"><img src="preferences-system-session-services.svg" width="250"></a> | **preferences-system-session-services.svg**<br>Vector (SVG) | 3.65KB |
+| <a href="preferences-system-splash.svg"><img src="preferences-system-splash.svg" width="250"></a> | **preferences-system-splash.svg**<br>Vector (SVG) | 5.34KB |
+| <a href="preferences-system-startup.svg"><img src="preferences-system-startup.svg" width="250"></a> | **preferences-system-startup.svg**<br>Vector (SVG) | 3.51KB |
+| <a href="preferences-system-time.svg"><img src="preferences-system-time.svg" width="250"></a> | **preferences-system-time.svg**<br>Vector (SVG) | 1.41KB |
+| <a href="preferences-system-user-sudo.svg"><img src="preferences-system-user-sudo.svg" width="250"></a> | **preferences-system-user-sudo.svg**<br>Vector (SVG) | 1.87KB |
+| <a href="preferences-system-windows-actions.svg"><img src="preferences-system-windows-actions.svg" width="250"></a> | **preferences-system-windows-actions.svg**<br>Vector (SVG) | 2.17KB |
+| <a href="preferences-system-windows-behavior.svg"><img src="preferences-system-windows-behavior.svg" width="250"></a> | **preferences-system-windows-behavior.svg**<br>Vector (SVG) | 1.75KB |
+| <a href="preferences-system-windows-move.svg"><img src="preferences-system-windows-move.svg" width="250"></a> | **preferences-system-windows-move.svg**<br>Vector (SVG) | 1.48KB |
+| <a href="preferences-system-windows.svg"><img src="preferences-system-windows.svg" width="250"></a> | **preferences-system-windows.svg**<br>Vector (SVG) | 1.06KB |
+| <a href="preferences-virtualization-container.svg"><img src="preferences-virtualization-container.svg" width="250"></a> | **preferences-virtualization-container.svg**<br>Vector (SVG) | 1.85KB |
+| <a href="preferences-web-browser-cache.svg"><img src="preferences-web-browser-cache.svg" width="250"></a> | **preferences-web-browser-cache.svg**<br>Vector (SVG) | 1.73KB |
+| <a href="preferences-web-browser-cookies.svg"><img src="preferences-web-browser-cookies.svg" width="250"></a> | **preferences-web-browser-cookies.svg**<br>Vector (SVG) | 2.78KB |
+| <a href="preferences-web-browser-identification.svg"><img src="preferences-web-browser-identification.svg" width="250"></a> | **preferences-web-browser-identification.svg**<br>Vector (SVG) | 1.95KB |
+| <a href="preferences-web-browser-shortcuts.svg"><img src="preferences-web-browser-shortcuts.svg" width="250"></a> | **preferences-web-browser-shortcuts.svg**<br>Vector (SVG) | 1.68KB |
+| <a href="preferences-web-browser-ssl.svg"><img src="preferences-web-browser-ssl.svg" width="250"></a> | **preferences-web-browser-ssl.svg**<br>Vector (SVG) | 1.78KB |
+| <a href="preferences-web-browser-stylesheets.svg"><img src="preferences-web-browser-stylesheets.svg" width="250"></a> | **preferences-web-browser-stylesheets.svg**<br>Vector (SVG) | 2.44KB |
+| <a href="system-users.svg"><img src="system-users.svg" width="250"></a> | **system-users.svg**<br>Vector (SVG) | 2.56KB |
+| <a href="window-duplicate.svg"><img src="window-duplicate.svg" width="250"></a> | **window-duplicate.svg**<br>Vector (SVG) | 2.21KB |
+| <a href="yast-disk.svg"><img src="yast-disk.svg" width="250"></a> | **yast-disk.svg**<br>Vector (SVG) | 1.94KB |

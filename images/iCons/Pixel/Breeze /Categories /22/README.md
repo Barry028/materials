@@ -1,7 +1,7 @@
-# 🖼️ 22 Gallery
+# 🖼️ 22 素材庫
 
-[⬅️ 回到首頁](../../README.md)
+[⬅️ 返回主目錄](../../README.md)
 
-| 預覽 | 詳細資訊 |
+| 預覽 (點擊放大) | 檔案資訊 |
 | :--- | :--- |
-| <a href="applications-all-symbolic.svg"><img src="applications-all-symbolic.svg" width="250" alt="applications-all-symbolic.svg"></a> | **applications-all-symbolic.svg**<br>Vector (SVG) \| 2.04KB<br>更新: 2026-02-26 |
+| <a href="applications-all-symbolic.svg"><img src="applications-all-symbolic.svg" width="250"></a> | **applications-all-symbolic.svg**<br>Vector (SVG) | 2.04KB |

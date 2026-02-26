@@ -1,29 +1,29 @@
-# 🖼️ 16 Gallery
+# 🖼️ 16 素材庫
 
-[⬅️ 回到首頁](../../README.md)
+[⬅️ 返回主目錄](../../README.md)
 
-| 預覽 | 詳細資訊 |
+| 預覽 (點擊放大) | 檔案資訊 |
 | :--- | :--- |
-| <a href="anydesk.svg"><img src="anydesk.svg" width="250" alt="anydesk.svg"></a> | **anydesk.svg**<br>Vector (SVG) \| 953.00B<br>更新: 2026-02-26 |
-| <a href="elisa-symbolic.svg"><img src="elisa-symbolic.svg" width="250" alt="elisa-symbolic.svg"></a> | **elisa-symbolic.svg**<br>Vector (SVG) \| 1.08KB<br>更新: 2026-02-26 |
-| <a href="hotspot-symbolic.svg"><img src="hotspot-symbolic.svg" width="250" alt="hotspot-symbolic.svg"></a> | **hotspot-symbolic.svg**<br>Vector (SVG) \| 1.56KB<br>更新: 2026-02-26 |
-| <a href="kate-symbolic.svg"><img src="kate-symbolic.svg" width="250" alt="kate-symbolic.svg"></a> | **kate-symbolic.svg**<br>Vector (SVG) \| 2.26KB<br>更新: 2026-02-26 |
-| <a href="kdeconnect-symbolic.svg"><img src="kdeconnect-symbolic.svg" width="250" alt="kdeconnect-symbolic.svg"></a> | **kdeconnect-symbolic.svg**<br>Vector (SVG) \| 4.87KB<br>更新: 2026-02-26 |
-| <a href="kdesrc-build.svg"><img src="kdesrc-build.svg" width="250" alt="kdesrc-build.svg"></a> | **kdesrc-build.svg**<br>Vector (SVG) \| 6.04KB<br>更新: 2026-02-26 |
-| <a href="kmymoney.svg"><img src="kmymoney.svg" width="250" alt="kmymoney.svg"></a> | **kmymoney.svg**<br>Vector (SVG) \| 5.10KB<br>更新: 2026-02-26 |
-| <a href="konversation.svg"><img src="konversation.svg" width="250" alt="konversation.svg"></a> | **konversation.svg**<br>Vector (SVG) \| 1.57KB<br>更新: 2026-02-26 |
-| <a href="kwrite.svg"><img src="kwrite.svg" width="250" alt="kwrite.svg"></a> | **kwrite.svg**<br>Vector (SVG) \| 98.45KB<br>更新: 2026-02-26 |
-| <a href="libreoffice-base.svg"><img src="libreoffice-base.svg" width="250" alt="libreoffice-base.svg"></a> | **libreoffice-base.svg**<br>Vector (SVG) \| 1.25KB<br>更新: 2026-02-26 |
-| <a href="libreoffice-calc.svg"><img src="libreoffice-calc.svg" width="250" alt="libreoffice-calc.svg"></a> | **libreoffice-calc.svg**<br>Vector (SVG) \| 1.25KB<br>更新: 2026-02-26 |
-| <a href="libreoffice-draw.svg"><img src="libreoffice-draw.svg" width="250" alt="libreoffice-draw.svg"></a> | **libreoffice-draw.svg**<br>Vector (SVG) \| 1.47KB<br>更新: 2026-02-26 |
-| <a href="libreoffice-impress.svg"><img src="libreoffice-impress.svg" width="250" alt="libreoffice-impress.svg"></a> | **libreoffice-impress.svg**<br>Vector (SVG) \| 1.24KB<br>更新: 2026-02-26 |
-| <a href="libreoffice-main.svg"><img src="libreoffice-main.svg" width="250" alt="libreoffice-main.svg"></a> | **libreoffice-main.svg**<br>Vector (SVG) \| 1.23KB<br>更新: 2026-02-26 |
-| <a href="libreoffice-math.svg"><img src="libreoffice-math.svg" width="250" alt="libreoffice-math.svg"></a> | **libreoffice-math.svg**<br>Vector (SVG) \| 1.49KB<br>更新: 2026-02-26 |
-| <a href="libreoffice-writer.svg"><img src="libreoffice-writer.svg" width="250" alt="libreoffice-writer.svg"></a> | **libreoffice-writer.svg**<br>Vector (SVG) \| 1.60KB<br>更新: 2026-02-26 |
-| <a href="plasmavault-symbolic.svg"><img src="plasmavault-symbolic.svg" width="250" alt="plasmavault-symbolic.svg"></a> | **plasmavault-symbolic.svg**<br>Vector (SVG) \| 602.00B<br>更新: 2026-02-26 |
-| <a href="system-file-manager.svg"><img src="system-file-manager.svg" width="250" alt="system-file-manager.svg"></a> | **system-file-manager.svg**<br>Vector (SVG) \| 9.03KB<br>更新: 2026-02-26 |
-| <a href="systemsettings.svg"><img src="systemsettings.svg" width="250" alt="systemsettings.svg"></a> | **systemsettings.svg**<br>Vector (SVG) \| 3.76KB<br>更新: 2026-02-26 |
-| <a href="umbrello.svg"><img src="umbrello.svg" width="250" alt="umbrello.svg"></a> | **umbrello.svg**<br>Vector (SVG) \| 13.16KB<br>更新: 2026-02-26 |
-| <a href="utilities-terminal.svg"><img src="utilities-terminal.svg" width="250" alt="utilities-terminal.svg"></a> | **utilities-terminal.svg**<br>Vector (SVG) \| 5.21KB<br>更新: 2026-02-26 |
-| <a href="virt-manager-symbolic.svg"><img src="virt-manager-symbolic.svg" width="250" alt="virt-manager-symbolic.svg"></a> | **virt-manager-symbolic.svg**<br>Vector (SVG) \| 906.00B<br>更新: 2026-02-26 |
-| <a href="vvave.svg"><img src="vvave.svg" width="250" alt="vvave.svg"></a> | **vvave.svg**<br>Vector (SVG) \| 2.68KB<br>更新: 2026-02-26 |
+| <a href="anydesk.svg"><img src="anydesk.svg" width="250"></a> | **anydesk.svg**<br>Vector (SVG) | 953.00B |
+| <a href="elisa-symbolic.svg"><img src="elisa-symbolic.svg" width="250"></a> | **elisa-symbolic.svg**<br>Vector (SVG) | 1.08KB |
+| <a href="hotspot-symbolic.svg"><img src="hotspot-symbolic.svg" width="250"></a> | **hotspot-symbolic.svg**<br>Vector (SVG) | 1.56KB |
+| <a href="kate-symbolic.svg"><img src="kate-symbolic.svg" width="250"></a> | **kate-symbolic.svg**<br>Vector (SVG) | 2.26KB |
+| <a href="kdeconnect-symbolic.svg"><img src="kdeconnect-symbolic.svg" width="250"></a> | **kdeconnect-symbolic.svg**<br>Vector (SVG) | 4.87KB |
+| <a href="kdesrc-build.svg"><img src="kdesrc-build.svg" width="250"></a> | **kdesrc-build.svg**<br>Vector (SVG) | 6.04KB |
+| <a href="kmymoney.svg"><img src="kmymoney.svg" width="250"></a> | **kmymoney.svg**<br>Vector (SVG) | 5.10KB |
+| <a href="konversation.svg"><img src="konversation.svg" width="250"></a> | **konversation.svg**<br>Vector (SVG) | 1.57KB |
+| <a href="kwrite.svg"><img src="kwrite.svg" width="250"></a> | **kwrite.svg**<br>Vector (SVG) | 98.45KB |
+| <a href="libreoffice-base.svg"><img src="libreoffice-base.svg" width="250"></a> | **libreoffice-base.svg**<br>Vector (SVG) | 1.25KB |
+| <a href="libreoffice-calc.svg"><img src="libreoffice-calc.svg" width="250"></a> | **libreoffice-calc.svg**<br>Vector (SVG) | 1.25KB |
+| <a href="libreoffice-draw.svg"><img src="libreoffice-draw.svg" width="250"></a> | **libreoffice-draw.svg**<br>Vector (SVG) | 1.47KB |
+| <a href="libreoffice-impress.svg"><img src="libreoffice-impress.svg" width="250"></a> | **libreoffice-impress.svg**<br>Vector (SVG) | 1.24KB |
+| <a href="libreoffice-main.svg"><img src="libreoffice-main.svg" width="250"></a> | **libreoffice-main.svg**<br>Vector (SVG) | 1.23KB |
+| <a href="libreoffice-math.svg"><img src="libreoffice-math.svg" width="250"></a> | **libreoffice-math.svg**<br>Vector (SVG) | 1.49KB |
+| <a href="libreoffice-writer.svg"><img src="libreoffice-writer.svg" width="250"></a> | **libreoffice-writer.svg**<br>Vector (SVG) | 1.60KB |
+| <a href="plasmavault-symbolic.svg"><img src="plasmavault-symbolic.svg" width="250"></a> | **plasmavault-symbolic.svg**<br>Vector (SVG) | 602.00B |
+| <a href="system-file-manager.svg"><img src="system-file-manager.svg" width="250"></a> | **system-file-manager.svg**<br>Vector (SVG) | 9.03KB |
+| <a href="systemsettings.svg"><img src="systemsettings.svg" width="250"></a> | **systemsettings.svg**<br>Vector (SVG) | 3.76KB |
+| <a href="umbrello.svg"><img src="umbrello.svg" width="250"></a> | **umbrello.svg**<br>Vector (SVG) | 13.16KB |
+| <a href="utilities-terminal.svg"><img src="utilities-terminal.svg" width="250"></a> | **utilities-terminal.svg**<br>Vector (SVG) | 5.21KB |
+| <a href="virt-manager-symbolic.svg"><img src="virt-manager-symbolic.svg" width="250"></a> | **virt-manager-symbolic.svg**<br>Vector (SVG) | 906.00B |
+| <a href="vvave.svg"><img src="vvave.svg" width="250"></a> | **vvave.svg**<br>Vector (SVG) | 2.68KB |

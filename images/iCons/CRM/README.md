@@ -1,191 +1,191 @@
-# 🖼️ CRM Gallery
+# 🖼️ CRM 素材庫
 
-[⬅️ 回到首頁](../../README.md)
+[⬅️ 返回主目錄](../../README.md)
 
-| 預覽 | 詳細資訊 |
+| 預覽 (點擊放大) | 檔案資訊 |
 | :--- | :--- |
-| <a href="Add File Duotone Black.1.svg"><img src="Add File Duotone Black.1.svg" width="250" alt="Add File Duotone Black.1.svg"></a> | **Add File Duotone Black.1.svg**<br>Vector (SVG) \| 1.51KB<br>更新: 2026-02-26 |
-| <a href="Add File Duotone Black.svg"><img src="Add File Duotone Black.svg" width="250" alt="Add File Duotone Black.svg"></a> | **Add File Duotone Black.svg**<br>Vector (SVG) \| 1.50KB<br>更新: 2026-02-26 |
-| <a href="Add File Monotone Black.svg"><img src="Add File Monotone Black.svg" width="250" alt="Add File Monotone Black.svg"></a> | **Add File Monotone Black.svg**<br>Vector (SVG) \| 1.49KB<br>更新: 2026-02-26 |
-| <a href="Add User Duotone Black.1.svg"><img src="Add User Duotone Black.1.svg" width="250" alt="Add User Duotone Black.1.svg"></a> | **Add User Duotone Black.1.svg**<br>Vector (SVG) \| 1.28KB<br>更新: 2026-02-26 |
-| <a href="Add User Duotone Black.svg"><img src="Add User Duotone Black.svg" width="250" alt="Add User Duotone Black.svg"></a> | **Add User Duotone Black.svg**<br>Vector (SVG) \| 1.29KB<br>更新: 2026-02-26 |
-| <a href="Add User Monotone Black.svg"><img src="Add User Monotone Black.svg" width="250" alt="Add User Monotone Black.svg"></a> | **Add User Monotone Black.svg**<br>Vector (SVG) \| 1.26KB<br>更新: 2026-02-26 |
-| <a href="Arrow Left Duotone Black.1.svg"><img src="Arrow Left Duotone Black.1.svg" width="250" alt="Arrow Left Duotone Black.1.svg"></a> | **Arrow Left Duotone Black.1.svg**<br>Vector (SVG) \| 1.00KB<br>更新: 2026-02-26 |
-| <a href="Arrow Left Duotone Black.svg"><img src="Arrow Left Duotone Black.svg" width="250" alt="Arrow Left Duotone Black.svg"></a> | **Arrow Left Duotone Black.svg**<br>Vector (SVG) \| 1.01KB<br>更新: 2026-02-26 |
-| <a href="Arrow Left Monotone Black.svg"><img src="Arrow Left Monotone Black.svg" width="250" alt="Arrow Left Monotone Black.svg"></a> | **Arrow Left Monotone Black.svg**<br>Vector (SVG) \| 1017.00B<br>更新: 2026-02-26 |
-| <a href="Arrow Right Duotone Black.1.svg"><img src="Arrow Right Duotone Black.1.svg" width="250" alt="Arrow Right Duotone Black.1.svg"></a> | **Arrow Right Duotone Black.1.svg**<br>Vector (SVG) \| 986.00B<br>更新: 2026-02-26 |
-| <a href="Arrow Right Duotone Black.svg"><img src="Arrow Right Duotone Black.svg" width="250" alt="Arrow Right Duotone Black.svg"></a> | **Arrow Right Duotone Black.svg**<br>Vector (SVG) \| 992.00B<br>更新: 2026-02-26 |
-| <a href="Arrow Right Monotone Black.svg"><img src="Arrow Right Monotone Black.svg" width="250" alt="Arrow Right Monotone Black.svg"></a> | **Arrow Right Monotone Black.svg**<br>Vector (SVG) \| 978.00B<br>更新: 2026-02-26 |
-| <a href="Calendar Duotone Black.1.svg"><img src="Calendar Duotone Black.1.svg" width="250" alt="Calendar Duotone Black.1.svg"></a> | **Calendar Duotone Black.1.svg**<br>Vector (SVG) \| 1.45KB<br>更新: 2026-02-26 |
-| <a href="Calendar Duotone Black.svg"><img src="Calendar Duotone Black.svg" width="250" alt="Calendar Duotone Black.svg"></a> | **Calendar Duotone Black.svg**<br>Vector (SVG) \| 1.45KB<br>更新: 2026-02-26 |
-| <a href="Calendar Monotone Black.svg"><img src="Calendar Monotone Black.svg" width="250" alt="Calendar Monotone Black.svg"></a> | **Calendar Monotone Black.svg**<br>Vector (SVG) \| 1.44KB<br>更新: 2026-02-26 |
-| <a href="Check List Duotone Black.1.svg"><img src="Check List Duotone Black.1.svg" width="250" alt="Check List Duotone Black.1.svg"></a> | **Check List Duotone Black.1.svg**<br>Vector (SVG) \| 1.14KB<br>更新: 2026-02-26 |
-| <a href="Check List Duotone Black.svg"><img src="Check List Duotone Black.svg" width="250" alt="Check List Duotone Black.svg"></a> | **Check List Duotone Black.svg**<br>Vector (SVG) \| 1.14KB<br>更新: 2026-02-26 |
-| <a href="Check List Monotone Black.svg"><img src="Check List Monotone Black.svg" width="250" alt="Check List Monotone Black.svg"></a> | **Check List Monotone Black.svg**<br>Vector (SVG) \| 1.13KB<br>更新: 2026-02-26 |
-| <a href="Clock Duotone Black.1.svg"><img src="Clock Duotone Black.1.svg" width="250" alt="Clock Duotone Black.1.svg"></a> | **Clock Duotone Black.1.svg**<br>Vector (SVG) \| 1.19KB<br>更新: 2026-02-26 |
-| <a href="Clock Duotone Black.svg"><img src="Clock Duotone Black.svg" width="250" alt="Clock Duotone Black.svg"></a> | **Clock Duotone Black.svg**<br>Vector (SVG) \| 1.19KB<br>更新: 2026-02-26 |
-| <a href="Clock Monotone Black.svg"><img src="Clock Monotone Black.svg" width="250" alt="Clock Monotone Black.svg"></a> | **Clock Monotone Black.svg**<br>Vector (SVG) \| 1.18KB<br>更新: 2026-02-26 |
-| <a href="Conversation Duotone Black.1.svg"><img src="Conversation Duotone Black.1.svg" width="250" alt="Conversation Duotone Black.1.svg"></a> | **Conversation Duotone Black.1.svg**<br>Vector (SVG) \| 2.10KB<br>更新: 2026-02-26 |
-| <a href="Conversation Duotone Black.svg"><img src="Conversation Duotone Black.svg" width="250" alt="Conversation Duotone Black.svg"></a> | **Conversation Duotone Black.svg**<br>Vector (SVG) \| 2.09KB<br>更新: 2026-02-26 |
-| <a href="Conversation Monotone Black.svg"><img src="Conversation Monotone Black.svg" width="250" alt="Conversation Monotone Black.svg"></a> | **Conversation Monotone Black.svg**<br>Vector (SVG) \| 2.08KB<br>更新: 2026-02-26 |
-| <a href="Credit Duotone Black.1.svg"><img src="Credit Duotone Black.1.svg" width="250" alt="Credit Duotone Black.1.svg"></a> | **Credit Duotone Black.1.svg**<br>Vector (SVG) \| 697.00B<br>更新: 2026-02-26 |
-| <a href="Credit Duotone Black.svg"><img src="Credit Duotone Black.svg" width="250" alt="Credit Duotone Black.svg"></a> | **Credit Duotone Black.svg**<br>Vector (SVG) \| 703.00B<br>更新: 2026-02-26 |
-| <a href="Credit Monotone Black.svg"><img src="Credit Monotone Black.svg" width="250" alt="Credit Monotone Black.svg"></a> | **Credit Monotone Black.svg**<br>Vector (SVG) \| 689.00B<br>更新: 2026-02-26 |
-| <a href="Download Duotone Black.1.svg"><img src="Download Duotone Black.1.svg" width="250" alt="Download Duotone Black.1.svg"></a> | **Download Duotone Black.1.svg**<br>Vector (SVG) \| 1.19KB<br>更新: 2026-02-26 |
-| <a href="Download Duotone Black.svg"><img src="Download Duotone Black.svg" width="250" alt="Download Duotone Black.svg"></a> | **Download Duotone Black.svg**<br>Vector (SVG) \| 1.19KB<br>更新: 2026-02-26 |
-| <a href="Download Monotone Black.svg"><img src="Download Monotone Black.svg" width="250" alt="Download Monotone Black.svg"></a> | **Download Monotone Black.svg**<br>Vector (SVG) \| 1.17KB<br>更新: 2026-02-26 |
-| <a href="Edti Duotone Black.1.svg"><img src="Edti Duotone Black.1.svg" width="250" alt="Edti Duotone Black.1.svg"></a> | **Edti Duotone Black.1.svg**<br>Vector (SVG) \| 916.00B<br>更新: 2026-02-26 |
-| <a href="Edti Duotone Black.svg"><img src="Edti Duotone Black.svg" width="250" alt="Edti Duotone Black.svg"></a> | **Edti Duotone Black.svg**<br>Vector (SVG) \| 911.00B<br>更新: 2026-02-26 |
-| <a href="Edti Monotone Black.svg"><img src="Edti Monotone Black.svg" width="250" alt="Edti Monotone Black.svg"></a> | **Edti Monotone Black.svg**<br>Vector (SVG) \| 888.00B<br>更新: 2026-02-26 |
-| <a href="Export Duotone Black.1.svg"><img src="Export Duotone Black.1.svg" width="250" alt="Export Duotone Black.1.svg"></a> | **Export Duotone Black.1.svg**<br>Vector (SVG) \| 1.59KB<br>更新: 2026-02-26 |
-| <a href="Export Duotone Black.svg"><img src="Export Duotone Black.svg" width="250" alt="Export Duotone Black.svg"></a> | **Export Duotone Black.svg**<br>Vector (SVG) \| 1.59KB<br>更新: 2026-02-26 |
-| <a href="Export Monotone Black.svg"><img src="Export Monotone Black.svg" width="250" alt="Export Monotone Black.svg"></a> | **Export Monotone Black.svg**<br>Vector (SVG) \| 1.57KB<br>更新: 2026-02-26 |
-| <a href="Eye Duotone Black.1.svg"><img src="Eye Duotone Black.1.svg" width="250" alt="Eye Duotone Black.1.svg"></a> | **Eye Duotone Black.1.svg**<br>Vector (SVG) \| 1.38KB<br>更新: 2026-02-26 |
-| <a href="Eye Duotone Black.svg"><img src="Eye Duotone Black.svg" width="250" alt="Eye Duotone Black.svg"></a> | **Eye Duotone Black.svg**<br>Vector (SVG) \| 1.37KB<br>更新: 2026-02-26 |
-| <a href="Eye Monotone Black.svg"><img src="Eye Monotone Black.svg" width="250" alt="Eye Monotone Black.svg"></a> | **Eye Monotone Black.svg**<br>Vector (SVG) \| 1.37KB<br>更新: 2026-02-26 |
-| <a href="Filter Duotone Black.1.svg"><img src="Filter Duotone Black.1.svg" width="250" alt="Filter Duotone Black.1.svg"></a> | **Filter Duotone Black.1.svg**<br>Vector (SVG) \| 424.00B<br>更新: 2026-02-26 |
-| <a href="Filter Duotone Black.svg"><img src="Filter Duotone Black.svg" width="250" alt="Filter Duotone Black.svg"></a> | **Filter Duotone Black.svg**<br>Vector (SVG) \| 419.00B<br>更新: 2026-02-26 |
-| <a href="Filter Monotone Black.svg"><img src="Filter Monotone Black.svg" width="250" alt="Filter Monotone Black.svg"></a> | **Filter Monotone Black.svg**<br>Vector (SVG) \| 396.00B<br>更新: 2026-02-26 |
-| <a href="Label Duotone Black.1.svg"><img src="Label Duotone Black.1.svg" width="250" alt="Label Duotone Black.1.svg"></a> | **Label Duotone Black.1.svg**<br>Vector (SVG) \| 1.26KB<br>更新: 2026-02-26 |
-| <a href="Label Duotone Black.svg"><img src="Label Duotone Black.svg" width="250" alt="Label Duotone Black.svg"></a> | **Label Duotone Black.svg**<br>Vector (SVG) \| 1.25KB<br>更新: 2026-02-26 |
-| <a href="Label Monotone Black.svg"><img src="Label Monotone Black.svg" width="250" alt="Label Monotone Black.svg"></a> | **Label Monotone Black.svg**<br>Vector (SVG) \| 1.25KB<br>更新: 2026-02-26 |
-| <a href="List Duotone Black.1.svg"><img src="List Duotone Black.1.svg" width="250" alt="List Duotone Black.1.svg"></a> | **List Duotone Black.1.svg**<br>Vector (SVG) \| 2.22KB<br>更新: 2026-02-26 |
-| <a href="List Duotone Black.svg"><img src="List Duotone Black.svg" width="250" alt="List Duotone Black.svg"></a> | **List Duotone Black.svg**<br>Vector (SVG) \| 2.22KB<br>更新: 2026-02-26 |
-| <a href="List Monotone Black.svg"><img src="List Monotone Black.svg" width="250" alt="List Monotone Black.svg"></a> | **List Monotone Black.svg**<br>Vector (SVG) \| 2.21KB<br>更新: 2026-02-26 |
-| <a href="Location Duotone Black.1.svg"><img src="Location Duotone Black.1.svg" width="250" alt="Location Duotone Black.1.svg"></a> | **Location Duotone Black.1.svg**<br>Vector (SVG) \| 1.08KB<br>更新: 2026-02-26 |
-| <a href="Location Duotone Black.svg"><img src="Location Duotone Black.svg" width="250" alt="Location Duotone Black.svg"></a> | **Location Duotone Black.svg**<br>Vector (SVG) \| 1.08KB<br>更新: 2026-02-26 |
-| <a href="Location Monotone Black.svg"><img src="Location Monotone Black.svg" width="250" alt="Location Monotone Black.svg"></a> | **Location Monotone Black.svg**<br>Vector (SVG) \| 1.07KB<br>更新: 2026-02-26 |
-| <a href="Notification Duotone Black.1.svg"><img src="Notification Duotone Black.1.svg" width="250" alt="Notification Duotone Black.1.svg"></a> | **Notification Duotone Black.1.svg**<br>Vector (SVG) \| 1.14KB<br>更新: 2026-02-26 |
-| <a href="Notification Duotone Black.svg"><img src="Notification Duotone Black.svg" width="250" alt="Notification Duotone Black.svg"></a> | **Notification Duotone Black.svg**<br>Vector (SVG) \| 1.13KB<br>更新: 2026-02-26 |
-| <a href="Notification Monotone Black.svg"><img src="Notification Monotone Black.svg" width="250" alt="Notification Monotone Black.svg"></a> | **Notification Monotone Black.svg**<br>Vector (SVG) \| 1.12KB<br>更新: 2026-02-26 |
-| <a href="Overview Duotone Black.1.svg"><img src="Overview Duotone Black.1.svg" width="250" alt="Overview Duotone Black.1.svg"></a> | **Overview Duotone Black.1.svg**<br>Vector (SVG) \| 476.00B<br>更新: 2026-02-26 |
-| <a href="Overview Duotone Black.svg"><img src="Overview Duotone Black.svg" width="250" alt="Overview Duotone Black.svg"></a> | **Overview Duotone Black.svg**<br>Vector (SVG) \| 483.00B<br>更新: 2026-02-26 |
-| <a href="Overview Monotone Black.svg"><img src="Overview Monotone Black.svg" width="250" alt="Overview Monotone Black.svg"></a> | **Overview Monotone Black.svg**<br>Vector (SVG) \| 448.00B<br>更新: 2026-02-26 |
-| <a href="Package Duotone Black.1.svg"><img src="Package Duotone Black.1.svg" width="250" alt="Package Duotone Black.1.svg"></a> | **Package Duotone Black.1.svg**<br>Vector (SVG) \| 1.20KB<br>更新: 2026-02-26 |
-| <a href="Package Duotone Black.svg"><img src="Package Duotone Black.svg" width="250" alt="Package Duotone Black.svg"></a> | **Package Duotone Black.svg**<br>Vector (SVG) \| 1.20KB<br>更新: 2026-02-26 |
-| <a href="Package Monotone Black.svg"><img src="Package Monotone Black.svg" width="250" alt="Package Monotone Black.svg"></a> | **Package Monotone Black.svg**<br>Vector (SVG) \| 1.17KB<br>更新: 2026-02-26 |
-| <a href="Phone Duotone Black.1.svg"><img src="Phone Duotone Black.1.svg" width="250" alt="Phone Duotone Black.1.svg"></a> | **Phone Duotone Black.1.svg**<br>Vector (SVG) \| 2.52KB<br>更新: 2026-02-26 |
-| <a href="Phone Duotone Black.svg"><img src="Phone Duotone Black.svg" width="250" alt="Phone Duotone Black.svg"></a> | **Phone Duotone Black.svg**<br>Vector (SVG) \| 2.52KB<br>更新: 2026-02-26 |
-| <a href="Phone Monotone Black.svg"><img src="Phone Monotone Black.svg" width="250" alt="Phone Monotone Black.svg"></a> | **Phone Monotone Black.svg**<br>Vector (SVG) \| 2.50KB<br>更新: 2026-02-26 |
-| <a href="Print Duotone Black.1.svg"><img src="Print Duotone Black.1.svg" width="250" alt="Print Duotone Black.1.svg"></a> | **Print Duotone Black.1.svg**<br>Vector (SVG) \| 1.44KB<br>更新: 2026-02-26 |
-| <a href="Print Duotone Black.svg"><img src="Print Duotone Black.svg" width="250" alt="Print Duotone Black.svg"></a> | **Print Duotone Black.svg**<br>Vector (SVG) \| 1.45KB<br>更新: 2026-02-26 |
-| <a href="Print Monotone Black.svg"><img src="Print Monotone Black.svg" width="250" alt="Print Monotone Black.svg"></a> | **Print Monotone Black.svg**<br>Vector (SVG) \| 1.43KB<br>更新: 2026-02-26 |
-| <a href="Product Duotone Black.1.svg"><img src="Product Duotone Black.1.svg" width="250" alt="Product Duotone Black.1.svg"></a> | **Product Duotone Black.1.svg**<br>Vector (SVG) \| 1.24KB<br>更新: 2026-02-26 |
-| <a href="Product Duotone Black.svg"><img src="Product Duotone Black.svg" width="250" alt="Product Duotone Black.svg"></a> | **Product Duotone Black.svg**<br>Vector (SVG) \| 1.23KB<br>更新: 2026-02-26 |
-| <a href="Product Monotone Black.svg"><img src="Product Monotone Black.svg" width="250" alt="Product Monotone Black.svg"></a> | **Product Monotone Black.svg**<br>Vector (SVG) \| 1.22KB<br>更新: 2026-02-26 |
-| <a href="Receipt Duotone Black.1.svg"><img src="Receipt Duotone Black.1.svg" width="250" alt="Receipt Duotone Black.1.svg"></a> | **Receipt Duotone Black.1.svg**<br>Vector (SVG) \| 1.64KB<br>更新: 2026-02-26 |
-| <a href="Receipt Duotone Black.svg"><img src="Receipt Duotone Black.svg" width="250" alt="Receipt Duotone Black.svg"></a> | **Receipt Duotone Black.svg**<br>Vector (SVG) \| 1.64KB<br>更新: 2026-02-26 |
-| <a href="Receipt Monotone Black.svg"><img src="Receipt Monotone Black.svg" width="250" alt="Receipt Monotone Black.svg"></a> | **Receipt Monotone Black.svg**<br>Vector (SVG) \| 1.63KB<br>更新: 2026-02-26 |
-| <a href="Reminder Duotone Black.1.svg"><img src="Reminder Duotone Black.1.svg" width="250" alt="Reminder Duotone Black.1.svg"></a> | **Reminder Duotone Black.1.svg**<br>Vector (SVG) \| 1.40KB<br>更新: 2026-02-26 |
-| <a href="Reminder Duotone Black.svg"><img src="Reminder Duotone Black.svg" width="250" alt="Reminder Duotone Black.svg"></a> | **Reminder Duotone Black.svg**<br>Vector (SVG) \| 1.40KB<br>更新: 2026-02-26 |
-| <a href="Reminder Monotone Black.svg"><img src="Reminder Monotone Black.svg" width="250" alt="Reminder Monotone Black.svg"></a> | **Reminder Monotone Black.svg**<br>Vector (SVG) \| 1.38KB<br>更新: 2026-02-26 |
-| <a href="Save Duotone Black.1.svg"><img src="Save Duotone Black.1.svg" width="250" alt="Save Duotone Black.1.svg"></a> | **Save Duotone Black.1.svg**<br>Vector (SVG) \| 1003.00B<br>更新: 2026-02-26 |
-| <a href="Save Duotone Black.svg"><img src="Save Duotone Black.svg" width="250" alt="Save Duotone Black.svg"></a> | **Save Duotone Black.svg**<br>Vector (SVG) \| 998.00B<br>更新: 2026-02-26 |
-| <a href="Save Monotone Black.svg"><img src="Save Monotone Black.svg" width="250" alt="Save Monotone Black.svg"></a> | **Save Monotone Black.svg**<br>Vector (SVG) \| 975.00B<br>更新: 2026-02-26 |
-| <a href="Search Duotone Black.1.svg"><img src="Search Duotone Black.1.svg" width="250" alt="Search Duotone Black.1.svg"></a> | **Search Duotone Black.1.svg**<br>Vector (SVG) \| 1.23KB<br>更新: 2026-02-26 |
-| <a href="Search Duotone Black.svg"><img src="Search Duotone Black.svg" width="250" alt="Search Duotone Black.svg"></a> | **Search Duotone Black.svg**<br>Vector (SVG) \| 1.22KB<br>更新: 2026-02-26 |
-| <a href="Search Monotone Black.svg"><img src="Search Monotone Black.svg" width="250" alt="Search Monotone Black.svg"></a> | **Search Monotone Black.svg**<br>Vector (SVG) \| 1.21KB<br>更新: 2026-02-26 |
-| <a href="Security Duotone Black.1.svg"><img src="Security Duotone Black.1.svg" width="250" alt="Security Duotone Black.1.svg"></a> | **Security Duotone Black.1.svg**<br>Vector (SVG) \| 893.00B<br>更新: 2026-02-26 |
-| <a href="Security Duotone Black.svg"><img src="Security Duotone Black.svg" width="250" alt="Security Duotone Black.svg"></a> | **Security Duotone Black.svg**<br>Vector (SVG) \| 887.00B<br>更新: 2026-02-26 |
-| <a href="Security Monotone Black.svg"><img src="Security Monotone Black.svg" width="250" alt="Security Monotone Black.svg"></a> | **Security Monotone Black.svg**<br>Vector (SVG) \| 879.00B<br>更新: 2026-02-26 |
-| <a href="Setting Duotone Black.1.svg"><img src="Setting Duotone Black.1.svg" width="250" alt="Setting Duotone Black.1.svg"></a> | **Setting Duotone Black.1.svg**<br>Vector (SVG) \| 2.77KB<br>更新: 2026-02-26 |
-| <a href="Setting Duotone Black.svg"><img src="Setting Duotone Black.svg" width="250" alt="Setting Duotone Black.svg"></a> | **Setting Duotone Black.svg**<br>Vector (SVG) \| 2.76KB<br>更新: 2026-02-26 |
-| <a href="Setting Monotone Black.svg"><img src="Setting Monotone Black.svg" width="250" alt="Setting Monotone Black.svg"></a> | **Setting Monotone Black.svg**<br>Vector (SVG) \| 2.75KB<br>更新: 2026-02-26 |
-| <a href="Sort Duotone Black.1.svg"><img src="Sort Duotone Black.1.svg" width="250" alt="Sort Duotone Black.1.svg"></a> | **Sort Duotone Black.1.svg**<br>Vector (SVG) \| 1.20KB<br>更新: 2026-02-26 |
-| <a href="Sort Duotone Black.svg"><img src="Sort Duotone Black.svg" width="250" alt="Sort Duotone Black.svg"></a> | **Sort Duotone Black.svg**<br>Vector (SVG) \| 1.20KB<br>更新: 2026-02-26 |
-| <a href="Sort Monotone Black.svg"><img src="Sort Monotone Black.svg" width="250" alt="Sort Monotone Black.svg"></a> | **Sort Monotone Black.svg**<br>Vector (SVG) \| 1.19KB<br>更新: 2026-02-26 |
-| <a href="Stat Duotone Black.1.svg"><img src="Stat Duotone Black.1.svg" width="250" alt="Stat Duotone Black.1.svg"></a> | **Stat Duotone Black.1.svg**<br>Vector (SVG) \| 424.00B<br>更新: 2026-02-26 |
-| <a href="Stat Duotone Black.svg"><img src="Stat Duotone Black.svg" width="250" alt="Stat Duotone Black.svg"></a> | **Stat Duotone Black.svg**<br>Vector (SVG) \| 418.00B<br>更新: 2026-02-26 |
-| <a href="Stat Monotone Black.svg"><img src="Stat Monotone Black.svg" width="250" alt="Stat Monotone Black.svg"></a> | **Stat Monotone Black.svg**<br>Vector (SVG) \| 404.00B<br>更新: 2026-02-26 |
-| <a href="Table Duotone Black.1.svg"><img src="Table Duotone Black.1.svg" width="250" alt="Table Duotone Black.1.svg"></a> | **Table Duotone Black.1.svg**<br>Vector (SVG) \| 622.00B<br>更新: 2026-02-26 |
-| <a href="Table Duotone Black.svg"><img src="Table Duotone Black.svg" width="250" alt="Table Duotone Black.svg"></a> | **Table Duotone Black.svg**<br>Vector (SVG) \| 642.00B<br>更新: 2026-02-26 |
-| <a href="Table Monotone Black.svg"><img src="Table Monotone Black.svg" width="250" alt="Table Monotone Black.svg"></a> | **Table Monotone Black.svg**<br>Vector (SVG) \| 580.00B<br>更新: 2026-02-26 |
-| <a href="Task Duotone Black.1.svg"><img src="Task Duotone Black.1.svg" width="250" alt="Task Duotone Black.1.svg"></a> | **Task Duotone Black.1.svg**<br>Vector (SVG) \| 1.58KB<br>更新: 2026-02-26 |
-| <a href="Task Duotone Black.svg"><img src="Task Duotone Black.svg" width="250" alt="Task Duotone Black.svg"></a> | **Task Duotone Black.svg**<br>Vector (SVG) \| 1.58KB<br>更新: 2026-02-26 |
-| <a href="Task Monotone Black.svg"><img src="Task Monotone Black.svg" width="250" alt="Task Monotone Black.svg"></a> | **Task Monotone Black.svg**<br>Vector (SVG) \| 1.57KB<br>更新: 2026-02-26 |
-| <a href="Time List Duotone Black.1.svg"><img src="Time List Duotone Black.1.svg" width="250" alt="Time List Duotone Black.1.svg"></a> | **Time List Duotone Black.1.svg**<br>Vector (SVG) \| 1.98KB<br>更新: 2026-02-26 |
-| <a href="Time List Duotone Black.svg"><img src="Time List Duotone Black.svg" width="250" alt="Time List Duotone Black.svg"></a> | **Time List Duotone Black.svg**<br>Vector (SVG) \| 1.94KB<br>更新: 2026-02-26 |
-| <a href="Time List Monotone Black.svg"><img src="Time List Monotone Black.svg" width="250" alt="Time List Monotone Black.svg"></a> | **Time List Monotone Black.svg**<br>Vector (SVG) \| 1.93KB<br>更新: 2026-02-26 |
-| <a href="Trash Duotone Black.1.svg"><img src="Trash Duotone Black.1.svg" width="250" alt="Trash Duotone Black.1.svg"></a> | **Trash Duotone Black.1.svg**<br>Vector (SVG) \| 1.31KB<br>更新: 2026-02-26 |
-| <a href="Trash Duotone Black.svg"><img src="Trash Duotone Black.svg" width="250" alt="Trash Duotone Black.svg"></a> | **Trash Duotone Black.svg**<br>Vector (SVG) \| 1.30KB<br>更新: 2026-02-26 |
-| <a href="Trash Monotone Black.svg"><img src="Trash Monotone Black.svg" width="250" alt="Trash Monotone Black.svg"></a> | **Trash Monotone Black.svg**<br>Vector (SVG) \| 1.30KB<br>更新: 2026-02-26 |
-| <a href="Type Duotone Black.1.svg"><img src="Type Duotone Black.1.svg" width="250" alt="Type Duotone Black.1.svg"></a> | **Type Duotone Black.1.svg**<br>Vector (SVG) \| 320.00B<br>更新: 2026-02-26 |
-| <a href="Type Duotone Black.svg"><img src="Type Duotone Black.svg" width="250" alt="Type Duotone Black.svg"></a> | **Type Duotone Black.svg**<br>Vector (SVG) \| 326.00B<br>更新: 2026-02-26 |
-| <a href="Type Monotone Black.svg"><img src="Type Monotone Black.svg" width="250" alt="Type Monotone Black.svg"></a> | **Type Monotone Black.svg**<br>Vector (SVG) \| 312.00B<br>更新: 2026-02-26 |
-| <a href="Upload Duotone Black.1.svg"><img src="Upload Duotone Black.1.svg" width="250" alt="Upload Duotone Black.1.svg"></a> | **Upload Duotone Black.1.svg**<br>Vector (SVG) \| 1.04KB<br>更新: 2026-02-26 |
-| <a href="Upload Duotone Black.svg"><img src="Upload Duotone Black.svg" width="250" alt="Upload Duotone Black.svg"></a> | **Upload Duotone Black.svg**<br>Vector (SVG) \| 1.04KB<br>更新: 2026-02-26 |
-| <a href="Upload Monotone Black.svg"><img src="Upload Monotone Black.svg" width="250" alt="Upload Monotone Black.svg"></a> | **Upload Monotone Black.svg**<br>Vector (SVG) \| 1.02KB<br>更新: 2026-02-26 |
-| <a href="add-file-duotone-black.svg"><img src="add-file-duotone-black.svg" width="250" alt="add-file-duotone-black.svg"></a> | **add-file-duotone-black.svg**<br>Vector (SVG) \| 558.00B<br>更新: 2026-02-26 |
-| <a href="add-file-monotone-black.svg"><img src="add-file-monotone-black.svg" width="250" alt="add-file-monotone-black.svg"></a> | **add-file-monotone-black.svg**<br>Vector (SVG) \| 531.00B<br>更新: 2026-02-26 |
-| <a href="add-user-duotone-black.svg"><img src="add-user-duotone-black.svg" width="250" alt="add-user-duotone-black.svg"></a> | **add-user-duotone-black.svg**<br>Vector (SVG) \| 592.00B<br>更新: 2026-02-26 |
-| <a href="add-user-monotone-black.svg"><img src="add-user-monotone-black.svg" width="250" alt="add-user-monotone-black.svg"></a> | **add-user-monotone-black.svg**<br>Vector (SVG) \| 565.00B<br>更新: 2026-02-26 |
-| <a href="arrow-left-duotone-black.svg"><img src="arrow-left-duotone-black.svg" width="250" alt="arrow-left-duotone-black.svg"></a> | **arrow-left-duotone-black.svg**<br>Vector (SVG) \| 428.00B<br>更新: 2026-02-26 |
-| <a href="arrow-left-monotone-black.svg"><img src="arrow-left-monotone-black.svg" width="250" alt="arrow-left-monotone-black.svg"></a> | **arrow-left-monotone-black.svg**<br>Vector (SVG) \| 401.00B<br>更新: 2026-02-26 |
-| <a href="arrow-right-duotone-black.svg"><img src="arrow-right-duotone-black.svg" width="250" alt="arrow-right-duotone-black.svg"></a> | **arrow-right-duotone-black.svg**<br>Vector (SVG) \| 431.00B<br>更新: 2026-02-26 |
-| <a href="arrow-right-monotone-black.svg"><img src="arrow-right-monotone-black.svg" width="250" alt="arrow-right-monotone-black.svg"></a> | **arrow-right-monotone-black.svg**<br>Vector (SVG) \| 404.00B<br>更新: 2026-02-26 |
-| <a href="calendar-duotone-black.svg"><img src="calendar-duotone-black.svg" width="250" alt="calendar-duotone-black.svg"></a> | **calendar-duotone-black.svg**<br>Vector (SVG) \| 562.00B<br>更新: 2026-02-26 |
-| <a href="calendar-monotone-black.svg"><img src="calendar-monotone-black.svg" width="250" alt="calendar-monotone-black.svg"></a> | **calendar-monotone-black.svg**<br>Vector (SVG) \| 535.00B<br>更新: 2026-02-26 |
-| <a href="check-list-duotone-black.svg"><img src="check-list-duotone-black.svg" width="250" alt="check-list-duotone-black.svg"></a> | **check-list-duotone-black.svg**<br>Vector (SVG) \| 509.00B<br>更新: 2026-02-26 |
-| <a href="check-list-monotone-black.svg"><img src="check-list-monotone-black.svg" width="250" alt="check-list-monotone-black.svg"></a> | **check-list-monotone-black.svg**<br>Vector (SVG) \| 482.00B<br>更新: 2026-02-26 |
-| <a href="clock-duotone-black.svg"><img src="clock-duotone-black.svg" width="250" alt="clock-duotone-black.svg"></a> | **clock-duotone-black.svg**<br>Vector (SVG) \| 478.00B<br>更新: 2026-02-26 |
-| <a href="clock-monotone-black.svg"><img src="clock-monotone-black.svg" width="250" alt="clock-monotone-black.svg"></a> | **clock-monotone-black.svg**<br>Vector (SVG) \| 451.00B<br>更新: 2026-02-26 |
-| <a href="conversation-duotone-black.svg"><img src="conversation-duotone-black.svg" width="250" alt="conversation-duotone-black.svg"></a> | **conversation-duotone-black.svg**<br>Vector (SVG) \| 714.00B<br>更新: 2026-02-26 |
-| <a href="conversation-monotone-black.svg"><img src="conversation-monotone-black.svg" width="250" alt="conversation-monotone-black.svg"></a> | **conversation-monotone-black.svg**<br>Vector (SVG) \| 687.00B<br>更新: 2026-02-26 |
-| <a href="credit-duotone-black.svg"><img src="credit-duotone-black.svg" width="250" alt="credit-duotone-black.svg"></a> | **credit-duotone-black.svg**<br>Vector (SVG) \| 355.00B<br>更新: 2026-02-26 |
-| <a href="credit-monotone-black.svg"><img src="credit-monotone-black.svg" width="250" alt="credit-monotone-black.svg"></a> | **credit-monotone-black.svg**<br>Vector (SVG) \| 328.00B<br>更新: 2026-02-26 |
-| <a href="download-duotone-black.svg"><img src="download-duotone-black.svg" width="250" alt="download-duotone-black.svg"></a> | **download-duotone-black.svg**<br>Vector (SVG) \| 510.00B<br>更新: 2026-02-26 |
-| <a href="download-monotone-black.svg"><img src="download-monotone-black.svg" width="250" alt="download-monotone-black.svg"></a> | **download-monotone-black.svg**<br>Vector (SVG) \| 483.00B<br>更新: 2026-02-26 |
-| <a href="edti-duotone-black.svg"><img src="edti-duotone-black.svg" width="250" alt="edti-duotone-black.svg"></a> | **edti-duotone-black.svg**<br>Vector (SVG) \| 495.00B<br>更新: 2026-02-26 |
-| <a href="edti-monotone-black.svg"><img src="edti-monotone-black.svg" width="250" alt="edti-monotone-black.svg"></a> | **edti-monotone-black.svg**<br>Vector (SVG) \| 468.00B<br>更新: 2026-02-26 |
-| <a href="export-duotone-black.svg"><img src="export-duotone-black.svg" width="250" alt="export-duotone-black.svg"></a> | **export-duotone-black.svg**<br>Vector (SVG) \| 631.00B<br>更新: 2026-02-26 |
-| <a href="export-monotone-black.svg"><img src="export-monotone-black.svg" width="250" alt="export-monotone-black.svg"></a> | **export-monotone-black.svg**<br>Vector (SVG) \| 604.00B<br>更新: 2026-02-26 |
-| <a href="eye-duotone-black.svg"><img src="eye-duotone-black.svg" width="250" alt="eye-duotone-black.svg"></a> | **eye-duotone-black.svg**<br>Vector (SVG) \| 525.00B<br>更新: 2026-02-26 |
-| <a href="eye-monotone-black.svg"><img src="eye-monotone-black.svg" width="250" alt="eye-monotone-black.svg"></a> | **eye-monotone-black.svg**<br>Vector (SVG) \| 498.00B<br>更新: 2026-02-26 |
-| <a href="filter-duotone-black.svg"><img src="filter-duotone-black.svg" width="250" alt="filter-duotone-black.svg"></a> | **filter-duotone-black.svg**<br>Vector (SVG) \| 382.00B<br>更新: 2026-02-26 |
-| <a href="filter-monotone-black.svg"><img src="filter-monotone-black.svg" width="250" alt="filter-monotone-black.svg"></a> | **filter-monotone-black.svg**<br>Vector (SVG) \| 355.00B<br>更新: 2026-02-26 |
-| <a href="label-duotone-black.svg"><img src="label-duotone-black.svg" width="250" alt="label-duotone-black.svg"></a> | **label-duotone-black.svg**<br>Vector (SVG) \| 540.00B<br>更新: 2026-02-26 |
-| <a href="label-monotone-black.svg"><img src="label-monotone-black.svg" width="250" alt="label-monotone-black.svg"></a> | **label-monotone-black.svg**<br>Vector (SVG) \| 513.00B<br>更新: 2026-02-26 |
-| <a href="list-duotone-black.svg"><img src="list-duotone-black.svg" width="250" alt="list-duotone-black.svg"></a> | **list-duotone-black.svg**<br>Vector (SVG) \| 725.00B<br>更新: 2026-02-26 |
-| <a href="list-monotone-black.svg"><img src="list-monotone-black.svg" width="250" alt="list-monotone-black.svg"></a> | **list-monotone-black.svg**<br>Vector (SVG) \| 698.00B<br>更新: 2026-02-26 |
-| <a href="location-duotone-black.svg"><img src="location-duotone-black.svg" width="250" alt="location-duotone-black.svg"></a> | **location-duotone-black.svg**<br>Vector (SVG) \| 537.00B<br>更新: 2026-02-26 |
-| <a href="location-monotone-black.svg"><img src="location-monotone-black.svg" width="250" alt="location-monotone-black.svg"></a> | **location-monotone-black.svg**<br>Vector (SVG) \| 510.00B<br>更新: 2026-02-26 |
-| <a href="notification-duotone-black.svg"><img src="notification-duotone-black.svg" width="250" alt="notification-duotone-black.svg"></a> | **notification-duotone-black.svg**<br>Vector (SVG) \| 481.00B<br>更新: 2026-02-26 |
-| <a href="notification-monotone-black.svg"><img src="notification-monotone-black.svg" width="250" alt="notification-monotone-black.svg"></a> | **notification-monotone-black.svg**<br>Vector (SVG) \| 454.00B<br>更新: 2026-02-26 |
-| <a href="overview-duotone-black.svg"><img src="overview-duotone-black.svg" width="250" alt="overview-duotone-black.svg"></a> | **overview-duotone-black.svg**<br>Vector (SVG) \| 420.00B<br>更新: 2026-02-26 |
-| <a href="overview-monotone-black.svg"><img src="overview-monotone-black.svg" width="250" alt="overview-monotone-black.svg"></a> | **overview-monotone-black.svg**<br>Vector (SVG) \| 393.00B<br>更新: 2026-02-26 |
-| <a href="package-duotone-black.svg"><img src="package-duotone-black.svg" width="250" alt="package-duotone-black.svg"></a> | **package-duotone-black.svg**<br>Vector (SVG) \| 644.00B<br>更新: 2026-02-26 |
-| <a href="package-monotone-black.svg"><img src="package-monotone-black.svg" width="250" alt="package-monotone-black.svg"></a> | **package-monotone-black.svg**<br>Vector (SVG) \| 582.00B<br>更新: 2026-02-26 |
-| <a href="phone-duotone-black.svg"><img src="phone-duotone-black.svg" width="250" alt="phone-duotone-black.svg"></a> | **phone-duotone-black.svg**<br>Vector (SVG) \| 1.03KB<br>更新: 2026-02-26 |
-| <a href="phone-monotone-black.svg"><img src="phone-monotone-black.svg" width="250" alt="phone-monotone-black.svg"></a> | **phone-monotone-black.svg**<br>Vector (SVG) \| 1.00KB<br>更新: 2026-02-26 |
-| <a href="print-duotone-black.svg"><img src="print-duotone-black.svg" width="250" alt="print-duotone-black.svg"></a> | **print-duotone-black.svg**<br>Vector (SVG) \| 674.00B<br>更新: 2026-02-26 |
-| <a href="print-monotone-black.svg"><img src="print-monotone-black.svg" width="250" alt="print-monotone-black.svg"></a> | **print-monotone-black.svg**<br>Vector (SVG) \| 662.00B<br>更新: 2026-02-26 |
-| <a href="product-duotone-black.svg"><img src="product-duotone-black.svg" width="250" alt="product-duotone-black.svg"></a> | **product-duotone-black.svg**<br>Vector (SVG) \| 550.00B<br>更新: 2026-02-26 |
-| <a href="product-monotone-black.svg"><img src="product-monotone-black.svg" width="250" alt="product-monotone-black.svg"></a> | **product-monotone-black.svg**<br>Vector (SVG) \| 523.00B<br>更新: 2026-02-26 |
-| <a href="receipt-duotone-black.svg"><img src="receipt-duotone-black.svg" width="250" alt="receipt-duotone-black.svg"></a> | **receipt-duotone-black.svg**<br>Vector (SVG) \| 744.00B<br>更新: 2026-02-26 |
-| <a href="receipt-monotone-black.svg"><img src="receipt-monotone-black.svg" width="250" alt="receipt-monotone-black.svg"></a> | **receipt-monotone-black.svg**<br>Vector (SVG) \| 717.00B<br>更新: 2026-02-26 |
-| <a href="reminder-duotone-black.svg"><img src="reminder-duotone-black.svg" width="250" alt="reminder-duotone-black.svg"></a> | **reminder-duotone-black.svg**<br>Vector (SVG) \| 611.00B<br>更新: 2026-02-26 |
-| <a href="reminder-monotone-black.svg"><img src="reminder-monotone-black.svg" width="250" alt="reminder-monotone-black.svg"></a> | **reminder-monotone-black.svg**<br>Vector (SVG) \| 570.00B<br>更新: 2026-02-26 |
-| <a href="save-duotone-black.svg"><img src="save-duotone-black.svg" width="250" alt="save-duotone-black.svg"></a> | **save-duotone-black.svg**<br>Vector (SVG) \| 496.00B<br>更新: 2026-02-26 |
-| <a href="save-monotone-black.svg"><img src="save-monotone-black.svg" width="250" alt="save-monotone-black.svg"></a> | **save-monotone-black.svg**<br>Vector (SVG) \| 469.00B<br>更新: 2026-02-26 |
-| <a href="search-duotone-black.svg"><img src="search-duotone-black.svg" width="250" alt="search-duotone-black.svg"></a> | **search-duotone-black.svg**<br>Vector (SVG) \| 495.00B<br>更新: 2026-02-26 |
-| <a href="search-monotone-black.svg"><img src="search-monotone-black.svg" width="250" alt="search-monotone-black.svg"></a> | **search-monotone-black.svg**<br>Vector (SVG) \| 468.00B<br>更新: 2026-02-26 |
-| <a href="security-duotone-black.svg"><img src="security-duotone-black.svg" width="250" alt="security-duotone-black.svg"></a> | **security-duotone-black.svg**<br>Vector (SVG) \| 399.00B<br>更新: 2026-02-26 |
-| <a href="security-monotone-black.svg"><img src="security-monotone-black.svg" width="250" alt="security-monotone-black.svg"></a> | **security-monotone-black.svg**<br>Vector (SVG) \| 372.00B<br>更新: 2026-02-26 |
-| <a href="setting-duotone-black.svg"><img src="setting-duotone-black.svg" width="250" alt="setting-duotone-black.svg"></a> | **setting-duotone-black.svg**<br>Vector (SVG) \| 931.00B<br>更新: 2026-02-26 |
-| <a href="setting-monotone-black.svg"><img src="setting-monotone-black.svg" width="250" alt="setting-monotone-black.svg"></a> | **setting-monotone-black.svg**<br>Vector (SVG) \| 904.00B<br>更新: 2026-02-26 |
-| <a href="sort-duotone-black.svg"><img src="sort-duotone-black.svg" width="250" alt="sort-duotone-black.svg"></a> | **sort-duotone-black.svg**<br>Vector (SVG) \| 517.00B<br>更新: 2026-02-26 |
-| <a href="sort-monotone-black.svg"><img src="sort-monotone-black.svg" width="250" alt="sort-monotone-black.svg"></a> | **sort-monotone-black.svg**<br>Vector (SVG) \| 490.00B<br>更新: 2026-02-26 |
-| <a href="stat-duotone-black.svg"><img src="stat-duotone-black.svg" width="250" alt="stat-duotone-black.svg"></a> | **stat-duotone-black.svg**<br>Vector (SVG) \| 390.00B<br>更新: 2026-02-26 |
-| <a href="stat-monotone-black.svg"><img src="stat-monotone-black.svg" width="250" alt="stat-monotone-black.svg"></a> | **stat-monotone-black.svg**<br>Vector (SVG) \| 363.00B<br>更新: 2026-02-26 |
-| <a href="table-duotone-black.svg"><img src="table-duotone-black.svg" width="250" alt="table-duotone-black.svg"></a> | **table-duotone-black.svg**<br>Vector (SVG) \| 548.00B<br>更新: 2026-02-26 |
-| <a href="table-monotone-black.svg"><img src="table-monotone-black.svg" width="250" alt="table-monotone-black.svg"></a> | **table-monotone-black.svg**<br>Vector (SVG) \| 521.00B<br>更新: 2026-02-26 |
-| <a href="task-duotone-black.svg"><img src="task-duotone-black.svg" width="250" alt="task-duotone-black.svg"></a> | **task-duotone-black.svg**<br>Vector (SVG) \| 616.00B<br>更新: 2026-02-26 |
-| <a href="task-monotone-black.svg"><img src="task-monotone-black.svg" width="250" alt="task-monotone-black.svg"></a> | **task-monotone-black.svg**<br>Vector (SVG) \| 589.00B<br>更新: 2026-02-26 |
-| <a href="time-list-duotone-black.svg"><img src="time-list-duotone-black.svg" width="250" alt="time-list-duotone-black.svg"></a> | **time-list-duotone-black.svg**<br>Vector (SVG) \| 803.00B<br>更新: 2026-02-26 |
-| <a href="time-list-monotone-black.svg"><img src="time-list-monotone-black.svg" width="250" alt="time-list-monotone-black.svg"></a> | **time-list-monotone-black.svg**<br>Vector (SVG) \| 776.00B<br>更新: 2026-02-26 |
-| <a href="trash-duotone-black.svg"><img src="trash-duotone-black.svg" width="250" alt="trash-duotone-black.svg"></a> | **trash-duotone-black.svg**<br>Vector (SVG) \| 517.00B<br>更新: 2026-02-26 |
-| <a href="trash-monotone-black.svg"><img src="trash-monotone-black.svg" width="250" alt="trash-monotone-black.svg"></a> | **trash-monotone-black.svg**<br>Vector (SVG) \| 490.00B<br>更新: 2026-02-26 |
-| <a href="type-duotone-black.svg"><img src="type-duotone-black.svg" width="250" alt="type-duotone-black.svg"></a> | **type-duotone-black.svg**<br>Vector (SVG) \| 296.00B<br>更新: 2026-02-26 |
-| <a href="type-monotone-black.svg"><img src="type-monotone-black.svg" width="250" alt="type-monotone-black.svg"></a> | **type-monotone-black.svg**<br>Vector (SVG) \| 269.00B<br>更新: 2026-02-26 |
-| <a href="upload-duotone-black.svg"><img src="upload-duotone-black.svg" width="250" alt="upload-duotone-black.svg"></a> | **upload-duotone-black.svg**<br>Vector (SVG) \| 485.00B<br>更新: 2026-02-26 |
-| <a href="upload-monotone-black.svg"><img src="upload-monotone-black.svg" width="250" alt="upload-monotone-black.svg"></a> | **upload-monotone-black.svg**<br>Vector (SVG) \| 458.00B<br>更新: 2026-02-26 |
+| <a href="Add File Duotone Black.1.svg"><img src="Add File Duotone Black.1.svg" width="250"></a> | **Add File Duotone Black.1.svg**<br>Vector (SVG) | 1.51KB |
+| <a href="Add File Duotone Black.svg"><img src="Add File Duotone Black.svg" width="250"></a> | **Add File Duotone Black.svg**<br>Vector (SVG) | 1.50KB |
+| <a href="Add File Monotone Black.svg"><img src="Add File Monotone Black.svg" width="250"></a> | **Add File Monotone Black.svg**<br>Vector (SVG) | 1.49KB |
+| <a href="Add User Duotone Black.1.svg"><img src="Add User Duotone Black.1.svg" width="250"></a> | **Add User Duotone Black.1.svg**<br>Vector (SVG) | 1.28KB |
+| <a href="Add User Duotone Black.svg"><img src="Add User Duotone Black.svg" width="250"></a> | **Add User Duotone Black.svg**<br>Vector (SVG) | 1.29KB |
+| <a href="Add User Monotone Black.svg"><img src="Add User Monotone Black.svg" width="250"></a> | **Add User Monotone Black.svg**<br>Vector (SVG) | 1.26KB |
+| <a href="Arrow Left Duotone Black.1.svg"><img src="Arrow Left Duotone Black.1.svg" width="250"></a> | **Arrow Left Duotone Black.1.svg**<br>Vector (SVG) | 1.00KB |
+| <a href="Arrow Left Duotone Black.svg"><img src="Arrow Left Duotone Black.svg" width="250"></a> | **Arrow Left Duotone Black.svg**<br>Vector (SVG) | 1.01KB |
+| <a href="Arrow Left Monotone Black.svg"><img src="Arrow Left Monotone Black.svg" width="250"></a> | **Arrow Left Monotone Black.svg**<br>Vector (SVG) | 1017.00B |
+| <a href="Arrow Right Duotone Black.1.svg"><img src="Arrow Right Duotone Black.1.svg" width="250"></a> | **Arrow Right Duotone Black.1.svg**<br>Vector (SVG) | 986.00B |
+| <a href="Arrow Right Duotone Black.svg"><img src="Arrow Right Duotone Black.svg" width="250"></a> | **Arrow Right Duotone Black.svg**<br>Vector (SVG) | 992.00B |
+| <a href="Arrow Right Monotone Black.svg"><img src="Arrow Right Monotone Black.svg" width="250"></a> | **Arrow Right Monotone Black.svg**<br>Vector (SVG) | 978.00B |
+| <a href="Calendar Duotone Black.1.svg"><img src="Calendar Duotone Black.1.svg" width="250"></a> | **Calendar Duotone Black.1.svg**<br>Vector (SVG) | 1.45KB |
+| <a href="Calendar Duotone Black.svg"><img src="Calendar Duotone Black.svg" width="250"></a> | **Calendar Duotone Black.svg**<br>Vector (SVG) | 1.45KB |
+| <a href="Calendar Monotone Black.svg"><img src="Calendar Monotone Black.svg" width="250"></a> | **Calendar Monotone Black.svg**<br>Vector (SVG) | 1.44KB |
+| <a href="Check List Duotone Black.1.svg"><img src="Check List Duotone Black.1.svg" width="250"></a> | **Check List Duotone Black.1.svg**<br>Vector (SVG) | 1.14KB |
+| <a href="Check List Duotone Black.svg"><img src="Check List Duotone Black.svg" width="250"></a> | **Check List Duotone Black.svg**<br>Vector (SVG) | 1.14KB |
+| <a href="Check List Monotone Black.svg"><img src="Check List Monotone Black.svg" width="250"></a> | **Check List Monotone Black.svg**<br>Vector (SVG) | 1.13KB |
+| <a href="Clock Duotone Black.1.svg"><img src="Clock Duotone Black.1.svg" width="250"></a> | **Clock Duotone Black.1.svg**<br>Vector (SVG) | 1.19KB |
+| <a href="Clock Duotone Black.svg"><img src="Clock Duotone Black.svg" width="250"></a> | **Clock Duotone Black.svg**<br>Vector (SVG) | 1.19KB |
+| <a href="Clock Monotone Black.svg"><img src="Clock Monotone Black.svg" width="250"></a> | **Clock Monotone Black.svg**<br>Vector (SVG) | 1.18KB |
+| <a href="Conversation Duotone Black.1.svg"><img src="Conversation Duotone Black.1.svg" width="250"></a> | **Conversation Duotone Black.1.svg**<br>Vector (SVG) | 2.10KB |
+| <a href="Conversation Duotone Black.svg"><img src="Conversation Duotone Black.svg" width="250"></a> | **Conversation Duotone Black.svg**<br>Vector (SVG) | 2.09KB |
+| <a href="Conversation Monotone Black.svg"><img src="Conversation Monotone Black.svg" width="250"></a> | **Conversation Monotone Black.svg**<br>Vector (SVG) | 2.08KB |
+| <a href="Credit Duotone Black.1.svg"><img src="Credit Duotone Black.1.svg" width="250"></a> | **Credit Duotone Black.1.svg**<br>Vector (SVG) | 697.00B |
+| <a href="Credit Duotone Black.svg"><img src="Credit Duotone Black.svg" width="250"></a> | **Credit Duotone Black.svg**<br>Vector (SVG) | 703.00B |
+| <a href="Credit Monotone Black.svg"><img src="Credit Monotone Black.svg" width="250"></a> | **Credit Monotone Black.svg**<br>Vector (SVG) | 689.00B |
+| <a href="Download Duotone Black.1.svg"><img src="Download Duotone Black.1.svg" width="250"></a> | **Download Duotone Black.1.svg**<br>Vector (SVG) | 1.19KB |
+| <a href="Download Duotone Black.svg"><img src="Download Duotone Black.svg" width="250"></a> | **Download Duotone Black.svg**<br>Vector (SVG) | 1.19KB |
+| <a href="Download Monotone Black.svg"><img src="Download Monotone Black.svg" width="250"></a> | **Download Monotone Black.svg**<br>Vector (SVG) | 1.17KB |
+| <a href="Edti Duotone Black.1.svg"><img src="Edti Duotone Black.1.svg" width="250"></a> | **Edti Duotone Black.1.svg**<br>Vector (SVG) | 916.00B |
+| <a href="Edti Duotone Black.svg"><img src="Edti Duotone Black.svg" width="250"></a> | **Edti Duotone Black.svg**<br>Vector (SVG) | 911.00B |
+| <a href="Edti Monotone Black.svg"><img src="Edti Monotone Black.svg" width="250"></a> | **Edti Monotone Black.svg**<br>Vector (SVG) | 888.00B |
+| <a href="Export Duotone Black.1.svg"><img src="Export Duotone Black.1.svg" width="250"></a> | **Export Duotone Black.1.svg**<br>Vector (SVG) | 1.59KB |
+| <a href="Export Duotone Black.svg"><img src="Export Duotone Black.svg" width="250"></a> | **Export Duotone Black.svg**<br>Vector (SVG) | 1.59KB |
+| <a href="Export Monotone Black.svg"><img src="Export Monotone Black.svg" width="250"></a> | **Export Monotone Black.svg**<br>Vector (SVG) | 1.57KB |
+| <a href="Eye Duotone Black.1.svg"><img src="Eye Duotone Black.1.svg" width="250"></a> | **Eye Duotone Black.1.svg**<br>Vector (SVG) | 1.38KB |
+| <a href="Eye Duotone Black.svg"><img src="Eye Duotone Black.svg" width="250"></a> | **Eye Duotone Black.svg**<br>Vector (SVG) | 1.37KB |
+| <a href="Eye Monotone Black.svg"><img src="Eye Monotone Black.svg" width="250"></a> | **Eye Monotone Black.svg**<br>Vector (SVG) | 1.37KB |
+| <a href="Filter Duotone Black.1.svg"><img src="Filter Duotone Black.1.svg" width="250"></a> | **Filter Duotone Black.1.svg**<br>Vector (SVG) | 424.00B |
+| <a href="Filter Duotone Black.svg"><img src="Filter Duotone Black.svg" width="250"></a> | **Filter Duotone Black.svg**<br>Vector (SVG) | 419.00B |
+| <a href="Filter Monotone Black.svg"><img src="Filter Monotone Black.svg" width="250"></a> | **Filter Monotone Black.svg**<br>Vector (SVG) | 396.00B |
+| <a href="Label Duotone Black.1.svg"><img src="Label Duotone Black.1.svg" width="250"></a> | **Label Duotone Black.1.svg**<br>Vector (SVG) | 1.26KB |
+| <a href="Label Duotone Black.svg"><img src="Label Duotone Black.svg" width="250"></a> | **Label Duotone Black.svg**<br>Vector (SVG) | 1.25KB |
+| <a href="Label Monotone Black.svg"><img src="Label Monotone Black.svg" width="250"></a> | **Label Monotone Black.svg**<br>Vector (SVG) | 1.25KB |
+| <a href="List Duotone Black.1.svg"><img src="List Duotone Black.1.svg" width="250"></a> | **List Duotone Black.1.svg**<br>Vector (SVG) | 2.22KB |
+| <a href="List Duotone Black.svg"><img src="List Duotone Black.svg" width="250"></a> | **List Duotone Black.svg**<br>Vector (SVG) | 2.22KB |
+| <a href="List Monotone Black.svg"><img src="List Monotone Black.svg" width="250"></a> | **List Monotone Black.svg**<br>Vector (SVG) | 2.21KB |
+| <a href="Location Duotone Black.1.svg"><img src="Location Duotone Black.1.svg" width="250"></a> | **Location Duotone Black.1.svg**<br>Vector (SVG) | 1.08KB |
+| <a href="Location Duotone Black.svg"><img src="Location Duotone Black.svg" width="250"></a> | **Location Duotone Black.svg**<br>Vector (SVG) | 1.08KB |
+| <a href="Location Monotone Black.svg"><img src="Location Monotone Black.svg" width="250"></a> | **Location Monotone Black.svg**<br>Vector (SVG) | 1.07KB |
+| <a href="Notification Duotone Black.1.svg"><img src="Notification Duotone Black.1.svg" width="250"></a> | **Notification Duotone Black.1.svg**<br>Vector (SVG) | 1.14KB |
+| <a href="Notification Duotone Black.svg"><img src="Notification Duotone Black.svg" width="250"></a> | **Notification Duotone Black.svg**<br>Vector (SVG) | 1.13KB |
+| <a href="Notification Monotone Black.svg"><img src="Notification Monotone Black.svg" width="250"></a> | **Notification Monotone Black.svg**<br>Vector (SVG) | 1.12KB |
+| <a href="Overview Duotone Black.1.svg"><img src="Overview Duotone Black.1.svg" width="250"></a> | **Overview Duotone Black.1.svg**<br>Vector (SVG) | 476.00B |
+| <a href="Overview Duotone Black.svg"><img src="Overview Duotone Black.svg" width="250"></a> | **Overview Duotone Black.svg**<br>Vector (SVG) | 483.00B |
+| <a href="Overview Monotone Black.svg"><img src="Overview Monotone Black.svg" width="250"></a> | **Overview Monotone Black.svg**<br>Vector (SVG) | 448.00B |
+| <a href="Package Duotone Black.1.svg"><img src="Package Duotone Black.1.svg" width="250"></a> | **Package Duotone Black.1.svg**<br>Vector (SVG) | 1.20KB |
+| <a href="Package Duotone Black.svg"><img src="Package Duotone Black.svg" width="250"></a> | **Package Duotone Black.svg**<br>Vector (SVG) | 1.20KB |
+| <a href="Package Monotone Black.svg"><img src="Package Monotone Black.svg" width="250"></a> | **Package Monotone Black.svg**<br>Vector (SVG) | 1.17KB |
+| <a href="Phone Duotone Black.1.svg"><img src="Phone Duotone Black.1.svg" width="250"></a> | **Phone Duotone Black.1.svg**<br>Vector (SVG) | 2.52KB |
+| <a href="Phone Duotone Black.svg"><img src="Phone Duotone Black.svg" width="250"></a> | **Phone Duotone Black.svg**<br>Vector (SVG) | 2.52KB |
+| <a href="Phone Monotone Black.svg"><img src="Phone Monotone Black.svg" width="250"></a> | **Phone Monotone Black.svg**<br>Vector (SVG) | 2.50KB |
+| <a href="Print Duotone Black.1.svg"><img src="Print Duotone Black.1.svg" width="250"></a> | **Print Duotone Black.1.svg**<br>Vector (SVG) | 1.44KB |
+| <a href="Print Duotone Black.svg"><img src="Print Duotone Black.svg" width="250"></a> | **Print Duotone Black.svg**<br>Vector (SVG) | 1.45KB |
+| <a href="Print Monotone Black.svg"><img src="Print Monotone Black.svg" width="250"></a> | **Print Monotone Black.svg**<br>Vector (SVG) | 1.43KB |
+| <a href="Product Duotone Black.1.svg"><img src="Product Duotone Black.1.svg" width="250"></a> | **Product Duotone Black.1.svg**<br>Vector (SVG) | 1.24KB |
+| <a href="Product Duotone Black.svg"><img src="Product Duotone Black.svg" width="250"></a> | **Product Duotone Black.svg**<br>Vector (SVG) | 1.23KB |
+| <a href="Product Monotone Black.svg"><img src="Product Monotone Black.svg" width="250"></a> | **Product Monotone Black.svg**<br>Vector (SVG) | 1.22KB |
+| <a href="Receipt Duotone Black.1.svg"><img src="Receipt Duotone Black.1.svg" width="250"></a> | **Receipt Duotone Black.1.svg**<br>Vector (SVG) | 1.64KB |
+| <a href="Receipt Duotone Black.svg"><img src="Receipt Duotone Black.svg" width="250"></a> | **Receipt Duotone Black.svg**<br>Vector (SVG) | 1.64KB |
+| <a href="Receipt Monotone Black.svg"><img src="Receipt Monotone Black.svg" width="250"></a> | **Receipt Monotone Black.svg**<br>Vector (SVG) | 1.63KB |
+| <a href="Reminder Duotone Black.1.svg"><img src="Reminder Duotone Black.1.svg" width="250"></a> | **Reminder Duotone Black.1.svg**<br>Vector (SVG) | 1.40KB |
+| <a href="Reminder Duotone Black.svg"><img src="Reminder Duotone Black.svg" width="250"></a> | **Reminder Duotone Black.svg**<br>Vector (SVG) | 1.40KB |
+| <a href="Reminder Monotone Black.svg"><img src="Reminder Monotone Black.svg" width="250"></a> | **Reminder Monotone Black.svg**<br>Vector (SVG) | 1.38KB |
+| <a href="Save Duotone Black.1.svg"><img src="Save Duotone Black.1.svg" width="250"></a> | **Save Duotone Black.1.svg**<br>Vector (SVG) | 1003.00B |
+| <a href="Save Duotone Black.svg"><img src="Save Duotone Black.svg" width="250"></a> | **Save Duotone Black.svg**<br>Vector (SVG) | 998.00B |
+| <a href="Save Monotone Black.svg"><img src="Save Monotone Black.svg" width="250"></a> | **Save Monotone Black.svg**<br>Vector (SVG) | 975.00B |
+| <a href="Search Duotone Black.1.svg"><img src="Search Duotone Black.1.svg" width="250"></a> | **Search Duotone Black.1.svg**<br>Vector (SVG) | 1.23KB |
+| <a href="Search Duotone Black.svg"><img src="Search Duotone Black.svg" width="250"></a> | **Search Duotone Black.svg**<br>Vector (SVG) | 1.22KB |
+| <a href="Search Monotone Black.svg"><img src="Search Monotone Black.svg" width="250"></a> | **Search Monotone Black.svg**<br>Vector (SVG) | 1.21KB |
+| <a href="Security Duotone Black.1.svg"><img src="Security Duotone Black.1.svg" width="250"></a> | **Security Duotone Black.1.svg**<br>Vector (SVG) | 893.00B |
+| <a href="Security Duotone Black.svg"><img src="Security Duotone Black.svg" width="250"></a> | **Security Duotone Black.svg**<br>Vector (SVG) | 887.00B |
+| <a href="Security Monotone Black.svg"><img src="Security Monotone Black.svg" width="250"></a> | **Security Monotone Black.svg**<br>Vector (SVG) | 879.00B |
+| <a href="Setting Duotone Black.1.svg"><img src="Setting Duotone Black.1.svg" width="250"></a> | **Setting Duotone Black.1.svg**<br>Vector (SVG) | 2.77KB |
+| <a href="Setting Duotone Black.svg"><img src="Setting Duotone Black.svg" width="250"></a> | **Setting Duotone Black.svg**<br>Vector (SVG) | 2.76KB |
+| <a href="Setting Monotone Black.svg"><img src="Setting Monotone Black.svg" width="250"></a> | **Setting Monotone Black.svg**<br>Vector (SVG) | 2.75KB |
+| <a href="Sort Duotone Black.1.svg"><img src="Sort Duotone Black.1.svg" width="250"></a> | **Sort Duotone Black.1.svg**<br>Vector (SVG) | 1.20KB |
+| <a href="Sort Duotone Black.svg"><img src="Sort Duotone Black.svg" width="250"></a> | **Sort Duotone Black.svg**<br>Vector (SVG) | 1.20KB |
+| <a href="Sort Monotone Black.svg"><img src="Sort Monotone Black.svg" width="250"></a> | **Sort Monotone Black.svg**<br>Vector (SVG) | 1.19KB |
+| <a href="Stat Duotone Black.1.svg"><img src="Stat Duotone Black.1.svg" width="250"></a> | **Stat Duotone Black.1.svg**<br>Vector (SVG) | 424.00B |
+| <a href="Stat Duotone Black.svg"><img src="Stat Duotone Black.svg" width="250"></a> | **Stat Duotone Black.svg**<br>Vector (SVG) | 418.00B |
+| <a href="Stat Monotone Black.svg"><img src="Stat Monotone Black.svg" width="250"></a> | **Stat Monotone Black.svg**<br>Vector (SVG) | 404.00B |
+| <a href="Table Duotone Black.1.svg"><img src="Table Duotone Black.1.svg" width="250"></a> | **Table Duotone Black.1.svg**<br>Vector (SVG) | 622.00B |
+| <a href="Table Duotone Black.svg"><img src="Table Duotone Black.svg" width="250"></a> | **Table Duotone Black.svg**<br>Vector (SVG) | 642.00B |
+| <a href="Table Monotone Black.svg"><img src="Table Monotone Black.svg" width="250"></a> | **Table Monotone Black.svg**<br>Vector (SVG) | 580.00B |
+| <a href="Task Duotone Black.1.svg"><img src="Task Duotone Black.1.svg" width="250"></a> | **Task Duotone Black.1.svg**<br>Vector (SVG) | 1.58KB |
+| <a href="Task Duotone Black.svg"><img src="Task Duotone Black.svg" width="250"></a> | **Task Duotone Black.svg**<br>Vector (SVG) | 1.58KB |
+| <a href="Task Monotone Black.svg"><img src="Task Monotone Black.svg" width="250"></a> | **Task Monotone Black.svg**<br>Vector (SVG) | 1.57KB |
+| <a href="Time List Duotone Black.1.svg"><img src="Time List Duotone Black.1.svg" width="250"></a> | **Time List Duotone Black.1.svg**<br>Vector (SVG) | 1.98KB |
+| <a href="Time List Duotone Black.svg"><img src="Time List Duotone Black.svg" width="250"></a> | **Time List Duotone Black.svg**<br>Vector (SVG) | 1.94KB |
+| <a href="Time List Monotone Black.svg"><img src="Time List Monotone Black.svg" width="250"></a> | **Time List Monotone Black.svg**<br>Vector (SVG) | 1.93KB |
+| <a href="Trash Duotone Black.1.svg"><img src="Trash Duotone Black.1.svg" width="250"></a> | **Trash Duotone Black.1.svg**<br>Vector (SVG) | 1.31KB |
+| <a href="Trash Duotone Black.svg"><img src="Trash Duotone Black.svg" width="250"></a> | **Trash Duotone Black.svg**<br>Vector (SVG) | 1.30KB |
+| <a href="Trash Monotone Black.svg"><img src="Trash Monotone Black.svg" width="250"></a> | **Trash Monotone Black.svg**<br>Vector (SVG) | 1.30KB |
+| <a href="Type Duotone Black.1.svg"><img src="Type Duotone Black.1.svg" width="250"></a> | **Type Duotone Black.1.svg**<br>Vector (SVG) | 320.00B |
+| <a href="Type Duotone Black.svg"><img src="Type Duotone Black.svg" width="250"></a> | **Type Duotone Black.svg**<br>Vector (SVG) | 326.00B |
+| <a href="Type Monotone Black.svg"><img src="Type Monotone Black.svg" width="250"></a> | **Type Monotone Black.svg**<br>Vector (SVG) | 312.00B |
+| <a href="Upload Duotone Black.1.svg"><img src="Upload Duotone Black.1.svg" width="250"></a> | **Upload Duotone Black.1.svg**<br>Vector (SVG) | 1.04KB |
+| <a href="Upload Duotone Black.svg"><img src="Upload Duotone Black.svg" width="250"></a> | **Upload Duotone Black.svg**<br>Vector (SVG) | 1.04KB |
+| <a href="Upload Monotone Black.svg"><img src="Upload Monotone Black.svg" width="250"></a> | **Upload Monotone Black.svg**<br>Vector (SVG) | 1.02KB |
+| <a href="add-file-duotone-black.svg"><img src="add-file-duotone-black.svg" width="250"></a> | **add-file-duotone-black.svg**<br>Vector (SVG) | 558.00B |
+| <a href="add-file-monotone-black.svg"><img src="add-file-monotone-black.svg" width="250"></a> | **add-file-monotone-black.svg**<br>Vector (SVG) | 531.00B |
+| <a href="add-user-duotone-black.svg"><img src="add-user-duotone-black.svg" width="250"></a> | **add-user-duotone-black.svg**<br>Vector (SVG) | 592.00B |
+| <a href="add-user-monotone-black.svg"><img src="add-user-monotone-black.svg" width="250"></a> | **add-user-monotone-black.svg**<br>Vector (SVG) | 565.00B |
+| <a href="arrow-left-duotone-black.svg"><img src="arrow-left-duotone-black.svg" width="250"></a> | **arrow-left-duotone-black.svg**<br>Vector (SVG) | 428.00B |
+| <a href="arrow-left-monotone-black.svg"><img src="arrow-left-monotone-black.svg" width="250"></a> | **arrow-left-monotone-black.svg**<br>Vector (SVG) | 401.00B |
+| <a href="arrow-right-duotone-black.svg"><img src="arrow-right-duotone-black.svg" width="250"></a> | **arrow-right-duotone-black.svg**<br>Vector (SVG) | 431.00B |
+| <a href="arrow-right-monotone-black.svg"><img src="arrow-right-monotone-black.svg" width="250"></a> | **arrow-right-monotone-black.svg**<br>Vector (SVG) | 404.00B |
+| <a href="calendar-duotone-black.svg"><img src="calendar-duotone-black.svg" width="250"></a> | **calendar-duotone-black.svg**<br>Vector (SVG) | 562.00B |
+| <a href="calendar-monotone-black.svg"><img src="calendar-monotone-black.svg" width="250"></a> | **calendar-monotone-black.svg**<br>Vector (SVG) | 535.00B |
+| <a href="check-list-duotone-black.svg"><img src="check-list-duotone-black.svg" width="250"></a> | **check-list-duotone-black.svg**<br>Vector (SVG) | 509.00B |
+| <a href="check-list-monotone-black.svg"><img src="check-list-monotone-black.svg" width="250"></a> | **check-list-monotone-black.svg**<br>Vector (SVG) | 482.00B |
+| <a href="clock-duotone-black.svg"><img src="clock-duotone-black.svg" width="250"></a> | **clock-duotone-black.svg**<br>Vector (SVG) | 478.00B |
+| <a href="clock-monotone-black.svg"><img src="clock-monotone-black.svg" width="250"></a> | **clock-monotone-black.svg**<br>Vector (SVG) | 451.00B |
+| <a href="conversation-duotone-black.svg"><img src="conversation-duotone-black.svg" width="250"></a> | **conversation-duotone-black.svg**<br>Vector (SVG) | 714.00B |
+| <a href="conversation-monotone-black.svg"><img src="conversation-monotone-black.svg" width="250"></a> | **conversation-monotone-black.svg**<br>Vector (SVG) | 687.00B |
+| <a href="credit-duotone-black.svg"><img src="credit-duotone-black.svg" width="250"></a> | **credit-duotone-black.svg**<br>Vector (SVG) | 355.00B |
+| <a href="credit-monotone-black.svg"><img src="credit-monotone-black.svg" width="250"></a> | **credit-monotone-black.svg**<br>Vector (SVG) | 328.00B |
+| <a href="download-duotone-black.svg"><img src="download-duotone-black.svg" width="250"></a> | **download-duotone-black.svg**<br>Vector (SVG) | 510.00B |
+| <a href="download-monotone-black.svg"><img src="download-monotone-black.svg" width="250"></a> | **download-monotone-black.svg**<br>Vector (SVG) | 483.00B |
+| <a href="edti-duotone-black.svg"><img src="edti-duotone-black.svg" width="250"></a> | **edti-duotone-black.svg**<br>Vector (SVG) | 495.00B |
+| <a href="edti-monotone-black.svg"><img src="edti-monotone-black.svg" width="250"></a> | **edti-monotone-black.svg**<br>Vector (SVG) | 468.00B |
+| <a href="export-duotone-black.svg"><img src="export-duotone-black.svg" width="250"></a> | **export-duotone-black.svg**<br>Vector (SVG) | 631.00B |
+| <a href="export-monotone-black.svg"><img src="export-monotone-black.svg" width="250"></a> | **export-monotone-black.svg**<br>Vector (SVG) | 604.00B |
+| <a href="eye-duotone-black.svg"><img src="eye-duotone-black.svg" width="250"></a> | **eye-duotone-black.svg**<br>Vector (SVG) | 525.00B |
+| <a href="eye-monotone-black.svg"><img src="eye-monotone-black.svg" width="250"></a> | **eye-monotone-black.svg**<br>Vector (SVG) | 498.00B |
+| <a href="filter-duotone-black.svg"><img src="filter-duotone-black.svg" width="250"></a> | **filter-duotone-black.svg**<br>Vector (SVG) | 382.00B |
+| <a href="filter-monotone-black.svg"><img src="filter-monotone-black.svg" width="250"></a> | **filter-monotone-black.svg**<br>Vector (SVG) | 355.00B |
+| <a href="label-duotone-black.svg"><img src="label-duotone-black.svg" width="250"></a> | **label-duotone-black.svg**<br>Vector (SVG) | 540.00B |
+| <a href="label-monotone-black.svg"><img src="label-monotone-black.svg" width="250"></a> | **label-monotone-black.svg**<br>Vector (SVG) | 513.00B |
+| <a href="list-duotone-black.svg"><img src="list-duotone-black.svg" width="250"></a> | **list-duotone-black.svg**<br>Vector (SVG) | 725.00B |
+| <a href="list-monotone-black.svg"><img src="list-monotone-black.svg" width="250"></a> | **list-monotone-black.svg**<br>Vector (SVG) | 698.00B |
+| <a href="location-duotone-black.svg"><img src="location-duotone-black.svg" width="250"></a> | **location-duotone-black.svg**<br>Vector (SVG) | 537.00B |
+| <a href="location-monotone-black.svg"><img src="location-monotone-black.svg" width="250"></a> | **location-monotone-black.svg**<br>Vector (SVG) | 510.00B |
+| <a href="notification-duotone-black.svg"><img src="notification-duotone-black.svg" width="250"></a> | **notification-duotone-black.svg**<br>Vector (SVG) | 481.00B |
+| <a href="notification-monotone-black.svg"><img src="notification-monotone-black.svg" width="250"></a> | **notification-monotone-black.svg**<br>Vector (SVG) | 454.00B |
+| <a href="overview-duotone-black.svg"><img src="overview-duotone-black.svg" width="250"></a> | **overview-duotone-black.svg**<br>Vector (SVG) | 420.00B |
+| <a href="overview-monotone-black.svg"><img src="overview-monotone-black.svg" width="250"></a> | **overview-monotone-black.svg**<br>Vector (SVG) | 393.00B |
+| <a href="package-duotone-black.svg"><img src="package-duotone-black.svg" width="250"></a> | **package-duotone-black.svg**<br>Vector (SVG) | 644.00B |
+| <a href="package-monotone-black.svg"><img src="package-monotone-black.svg" width="250"></a> | **package-monotone-black.svg**<br>Vector (SVG) | 582.00B |
+| <a href="phone-duotone-black.svg"><img src="phone-duotone-black.svg" width="250"></a> | **phone-duotone-black.svg**<br>Vector (SVG) | 1.03KB |
+| <a href="phone-monotone-black.svg"><img src="phone-monotone-black.svg" width="250"></a> | **phone-monotone-black.svg**<br>Vector (SVG) | 1.00KB |
+| <a href="print-duotone-black.svg"><img src="print-duotone-black.svg" width="250"></a> | **print-duotone-black.svg**<br>Vector (SVG) | 674.00B |
+| <a href="print-monotone-black.svg"><img src="print-monotone-black.svg" width="250"></a> | **print-monotone-black.svg**<br>Vector (SVG) | 662.00B |
+| <a href="product-duotone-black.svg"><img src="product-duotone-black.svg" width="250"></a> | **product-duotone-black.svg**<br>Vector (SVG) | 550.00B |
+| <a href="product-monotone-black.svg"><img src="product-monotone-black.svg" width="250"></a> | **product-monotone-black.svg**<br>Vector (SVG) | 523.00B |
+| <a href="receipt-duotone-black.svg"><img src="receipt-duotone-black.svg" width="250"></a> | **receipt-duotone-black.svg**<br>Vector (SVG) | 744.00B |
+| <a href="receipt-monotone-black.svg"><img src="receipt-monotone-black.svg" width="250"></a> | **receipt-monotone-black.svg**<br>Vector (SVG) | 717.00B |
+| <a href="reminder-duotone-black.svg"><img src="reminder-duotone-black.svg" width="250"></a> | **reminder-duotone-black.svg**<br>Vector (SVG) | 611.00B |
+| <a href="reminder-monotone-black.svg"><img src="reminder-monotone-black.svg" width="250"></a> | **reminder-monotone-black.svg**<br>Vector (SVG) | 570.00B |
+| <a href="save-duotone-black.svg"><img src="save-duotone-black.svg" width="250"></a> | **save-duotone-black.svg**<br>Vector (SVG) | 496.00B |
+| <a href="save-monotone-black.svg"><img src="save-monotone-black.svg" width="250"></a> | **save-monotone-black.svg**<br>Vector (SVG) | 469.00B |
+| <a href="search-duotone-black.svg"><img src="search-duotone-black.svg" width="250"></a> | **search-duotone-black.svg**<br>Vector (SVG) | 495.00B |
+| <a href="search-monotone-black.svg"><img src="search-monotone-black.svg" width="250"></a> | **search-monotone-black.svg**<br>Vector (SVG) | 468.00B |
+| <a href="security-duotone-black.svg"><img src="security-duotone-black.svg" width="250"></a> | **security-duotone-black.svg**<br>Vector (SVG) | 399.00B |
+| <a href="security-monotone-black.svg"><img src="security-monotone-black.svg" width="250"></a> | **security-monotone-black.svg**<br>Vector (SVG) | 372.00B |
+| <a href="setting-duotone-black.svg"><img src="setting-duotone-black.svg" width="250"></a> | **setting-duotone-black.svg**<br>Vector (SVG) | 931.00B |
+| <a href="setting-monotone-black.svg"><img src="setting-monotone-black.svg" width="250"></a> | **setting-monotone-black.svg**<br>Vector (SVG) | 904.00B |
+| <a href="sort-duotone-black.svg"><img src="sort-duotone-black.svg" width="250"></a> | **sort-duotone-black.svg**<br>Vector (SVG) | 517.00B |
+| <a href="sort-monotone-black.svg"><img src="sort-monotone-black.svg" width="250"></a> | **sort-monotone-black.svg**<br>Vector (SVG) | 490.00B |
+| <a href="stat-duotone-black.svg"><img src="stat-duotone-black.svg" width="250"></a> | **stat-duotone-black.svg**<br>Vector (SVG) | 390.00B |
+| <a href="stat-monotone-black.svg"><img src="stat-monotone-black.svg" width="250"></a> | **stat-monotone-black.svg**<br>Vector (SVG) | 363.00B |
+| <a href="table-duotone-black.svg"><img src="table-duotone-black.svg" width="250"></a> | **table-duotone-black.svg**<br>Vector (SVG) | 548.00B |
+| <a href="table-monotone-black.svg"><img src="table-monotone-black.svg" width="250"></a> | **table-monotone-black.svg**<br>Vector (SVG) | 521.00B |
+| <a href="task-duotone-black.svg"><img src="task-duotone-black.svg" width="250"></a> | **task-duotone-black.svg**<br>Vector (SVG) | 616.00B |
+| <a href="task-monotone-black.svg"><img src="task-monotone-black.svg" width="250"></a> | **task-monotone-black.svg**<br>Vector (SVG) | 589.00B |
+| <a href="time-list-duotone-black.svg"><img src="time-list-duotone-black.svg" width="250"></a> | **time-list-duotone-black.svg**<br>Vector (SVG) | 803.00B |
+| <a href="time-list-monotone-black.svg"><img src="time-list-monotone-black.svg" width="250"></a> | **time-list-monotone-black.svg**<br>Vector (SVG) | 776.00B |
+| <a href="trash-duotone-black.svg"><img src="trash-duotone-black.svg" width="250"></a> | **trash-duotone-black.svg**<br>Vector (SVG) | 517.00B |
+| <a href="trash-monotone-black.svg"><img src="trash-monotone-black.svg" width="250"></a> | **trash-monotone-black.svg**<br>Vector (SVG) | 490.00B |
+| <a href="type-duotone-black.svg"><img src="type-duotone-black.svg" width="250"></a> | **type-duotone-black.svg**<br>Vector (SVG) | 296.00B |
+| <a href="type-monotone-black.svg"><img src="type-monotone-black.svg" width="250"></a> | **type-monotone-black.svg**<br>Vector (SVG) | 269.00B |
+| <a href="upload-duotone-black.svg"><img src="upload-duotone-black.svg" width="250"></a> | **upload-duotone-black.svg**<br>Vector (SVG) | 485.00B |
+| <a href="upload-monotone-black.svg"><img src="upload-monotone-black.svg" width="250"></a> | **upload-monotone-black.svg**<br>Vector (SVG) | 458.00B |

@@ -1,7 +1,7 @@
-# 🖼️ 12 Gallery
+# 🖼️ 12 素材庫
 
-[⬅️ 回到首頁](../../README.md)
+[⬅️ 返回主目錄](../../README.md)
 
-| 預覽 | 詳細資訊 |
+| 預覽 (點擊放大) | 檔案資訊 |
 | :--- | :--- |
-| <a href="transform-affect-stroke.svg"><img src="transform-affect-stroke.svg" width="250" alt="transform-affect-stroke.svg"></a> | **transform-affect-stroke.svg**<br>Vector (SVG) \| 715.00B<br>更新: 2026-02-26 |
+| <a href="transform-affect-stroke.svg"><img src="transform-affect-stroke.svg" width="250"></a> | **transform-affect-stroke.svg**<br>Vector (SVG) | 715.00B |

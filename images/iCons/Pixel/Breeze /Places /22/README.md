@@ -1,78 +1,78 @@
-# 🖼️ 22 Gallery
+# 🖼️ 22 素材庫
 
-[⬅️ 回到首頁](../../README.md)
+[⬅️ 返回主目錄](../../README.md)
 
-| 預覽 | 詳細資訊 |
+| 預覽 (點擊放大) | 檔案資訊 |
 | :--- | :--- |
-| <a href="folder-activities.svg"><img src="folder-activities.svg" width="250" alt="folder-activities.svg"></a> | **folder-activities.svg**<br>Vector (SVG) \| 661.00B<br>更新: 2026-02-26 |
-| <a href="folder-add.svg"><img src="folder-add.svg" width="250" alt="folder-add.svg"></a> | **folder-add.svg**<br>Vector (SVG) \| 578.00B<br>更新: 2026-02-26 |
-| <a href="folder-android.svg"><img src="folder-android.svg" width="250" alt="folder-android.svg"></a> | **folder-android.svg**<br>Vector (SVG) \| 1.01KB<br>更新: 2026-02-26 |
-| <a href="folder-appimage.svg"><img src="folder-appimage.svg" width="250" alt="folder-appimage.svg"></a> | **folder-appimage.svg**<br>Vector (SVG) \| 1.12KB<br>更新: 2026-02-26 |
-| <a href="folder-black.svg"><img src="folder-black.svg" width="250" alt="folder-black.svg"></a> | **folder-black.svg**<br>Vector (SVG) \| 510.00B<br>更新: 2026-02-26 |
-| <a href="folder-blender.svg"><img src="folder-blender.svg" width="250" alt="folder-blender.svg"></a> | **folder-blender.svg**<br>Vector (SVG) \| 995.00B<br>更新: 2026-02-26 |
-| <a href="folder-blue.svg"><img src="folder-blue.svg" width="250" alt="folder-blue.svg"></a> | **folder-blue.svg**<br>Vector (SVG) \| 510.00B<br>更新: 2026-02-26 |
-| <a href="folder-brown.svg"><img src="folder-brown.svg" width="250" alt="folder-brown.svg"></a> | **folder-brown.svg**<br>Vector (SVG) \| 510.00B<br>更新: 2026-02-26 |
-| <a href="folder-build.svg"><img src="folder-build.svg" width="250" alt="folder-build.svg"></a> | **folder-build.svg**<br>Vector (SVG) \| 3.59KB<br>更新: 2026-02-26 |
-| <a href="folder-calculate.svg"><img src="folder-calculate.svg" width="250" alt="folder-calculate.svg"></a> | **folder-calculate.svg**<br>Vector (SVG) \| 801.00B<br>更新: 2026-02-26 |
-| <a href="folder-chart.svg"><img src="folder-chart.svg" width="250" alt="folder-chart.svg"></a> | **folder-chart.svg**<br>Vector (SVG) \| 507.00B<br>更新: 2026-02-26 |
-| <a href="folder-cloud.svg"><img src="folder-cloud.svg" width="250" alt="folder-cloud.svg"></a> | **folder-cloud.svg**<br>Vector (SVG) \| 624.00B<br>更新: 2026-02-26 |
-| <a href="folder-crash.svg"><img src="folder-crash.svg" width="250" alt="folder-crash.svg"></a> | **folder-crash.svg**<br>Vector (SVG) \| 928.00B<br>更新: 2026-02-26 |
-| <a href="folder-cyan.svg"><img src="folder-cyan.svg" width="250" alt="folder-cyan.svg"></a> | **folder-cyan.svg**<br>Vector (SVG) \| 510.00B<br>更新: 2026-02-26 |
-| <a href="folder-database.svg"><img src="folder-database.svg" width="250" alt="folder-database.svg"></a> | **folder-database.svg**<br>Vector (SVG) \| 690.00B<br>更新: 2026-02-26 |
-| <a href="folder-deb.svg"><img src="folder-deb.svg" width="250" alt="folder-deb.svg"></a> | **folder-deb.svg**<br>Vector (SVG) \| 10.43KB<br>更新: 2026-02-26 |
-| <a href="folder-design.svg"><img src="folder-design.svg" width="250" alt="folder-design.svg"></a> | **folder-design.svg**<br>Vector (SVG) \| 2.81KB<br>更新: 2026-02-26 |
-| <a href="folder-desktop.svg"><img src="folder-desktop.svg" width="250" alt="folder-desktop.svg"></a> | **folder-desktop.svg**<br>Vector (SVG) \| 882.00B<br>更新: 2026-02-26 |
-| <a href="folder-docker.svg"><img src="folder-docker.svg" width="250" alt="folder-docker.svg"></a> | **folder-docker.svg**<br>Vector (SVG) \| 1.24KB<br>更新: 2026-02-26 |
-| <a href="folder-download.svg"><img src="folder-download.svg" width="250" alt="folder-download.svg"></a> | **folder-download.svg**<br>Vector (SVG) \| 542.00B<br>更新: 2026-02-26 |
-| <a href="folder-drawing.svg"><img src="folder-drawing.svg" width="250" alt="folder-drawing.svg"></a> | **folder-drawing.svg**<br>Vector (SVG) \| 1.72KB<br>更新: 2026-02-26 |
-| <a href="folder-extension.svg"><img src="folder-extension.svg" width="250" alt="folder-extension.svg"></a> | **folder-extension.svg**<br>Vector (SVG) \| 494.00B<br>更新: 2026-02-26 |
-| <a href="folder-favorites.svg"><img src="folder-favorites.svg" width="250" alt="folder-favorites.svg"></a> | **folder-favorites.svg**<br>Vector (SVG) \| 423.00B<br>更新: 2026-02-26 |
-| <a href="folder-flatpak.svg"><img src="folder-flatpak.svg" width="250" alt="folder-flatpak.svg"></a> | **folder-flatpak.svg**<br>Vector (SVG) \| 523.00B<br>更新: 2026-02-26 |
-| <a href="folder-games.svg"><img src="folder-games.svg" width="250" alt="folder-games.svg"></a> | **folder-games.svg**<br>Vector (SVG) \| 1.27KB<br>更新: 2026-02-26 |
-| <a href="folder-gdrive.svg"><img src="folder-gdrive.svg" width="250" alt="folder-gdrive.svg"></a> | **folder-gdrive.svg**<br>Vector (SVG) \| 471.00B<br>更新: 2026-02-26 |
-| <a href="folder-git.svg"><img src="folder-git.svg" width="250" alt="folder-git.svg"></a> | **folder-git.svg**<br>Vector (SVG) \| 1.23KB<br>更新: 2026-02-26 |
-| <a href="folder-godot.svg"><img src="folder-godot.svg" width="250" alt="folder-godot.svg"></a> | **folder-godot.svg**<br>Vector (SVG) \| 3.81KB<br>更新: 2026-02-26 |
-| <a href="folder-green.svg"><img src="folder-green.svg" width="250" alt="folder-green.svg"></a> | **folder-green.svg**<br>Vector (SVG) \| 510.00B<br>更新: 2026-02-26 |
-| <a href="folder-grey.svg"><img src="folder-grey.svg" width="250" alt="folder-grey.svg"></a> | **folder-grey.svg**<br>Vector (SVG) \| 510.00B<br>更新: 2026-02-26 |
-| <a href="folder-important.svg"><img src="folder-important.svg" width="250" alt="folder-important.svg"></a> | **folder-important.svg**<br>Vector (SVG) \| 367.00B<br>更新: 2026-02-26 |
-| <a href="folder-java.svg"><img src="folder-java.svg" width="250" alt="folder-java.svg"></a> | **folder-java.svg**<br>Vector (SVG) \| 832.00B<br>更新: 2026-02-26 |
-| <a href="folder-language.svg"><img src="folder-language.svg" width="250" alt="folder-language.svg"></a> | **folder-language.svg**<br>Vector (SVG) \| 982.00B<br>更新: 2026-02-26 |
-| <a href="folder-locked.svg"><img src="folder-locked.svg" width="250" alt="folder-locked.svg"></a> | **folder-locked.svg**<br>Vector (SVG) \| 506.00B<br>更新: 2026-02-26 |
-| <a href="folder-log.svg"><img src="folder-log.svg" width="250" alt="folder-log.svg"></a> | **folder-log.svg**<br>Vector (SVG) \| 738.00B<br>更新: 2026-02-26 |
-| <a href="folder-mac.svg"><img src="folder-mac.svg" width="250" alt="folder-mac.svg"></a> | **folder-mac.svg**<br>Vector (SVG) \| 593.00B<br>更新: 2026-02-26 |
-| <a href="folder-magenta.svg"><img src="folder-magenta.svg" width="250" alt="folder-magenta.svg"></a> | **folder-magenta.svg**<br>Vector (SVG) \| 510.00B<br>更新: 2026-02-26 |
-| <a href="folder-mail.svg"><img src="folder-mail.svg" width="250" alt="folder-mail.svg"></a> | **folder-mail.svg**<br>Vector (SVG) \| 573.00B<br>更新: 2026-02-26 |
-| <a href="folder-network.svg"><img src="folder-network.svg" width="250" alt="folder-network.svg"></a> | **folder-network.svg**<br>Vector (SVG) \| 930.00B<br>更新: 2026-02-26 |
-| <a href="folder-notes.svg"><img src="folder-notes.svg" width="250" alt="folder-notes.svg"></a> | **folder-notes.svg**<br>Vector (SVG) \| 1.07KB<br>更新: 2026-02-26 |
-| <a href="folder-open.svg"><img src="folder-open.svg" width="250" alt="folder-open.svg"></a> | **folder-open.svg**<br>Vector (SVG) \| 474.00B<br>更新: 2026-02-26 |
-| <a href="folder-orange.svg"><img src="folder-orange.svg" width="250" alt="folder-orange.svg"></a> | **folder-orange.svg**<br>Vector (SVG) \| 510.00B<br>更新: 2026-02-26 |
-| <a href="folder-paint.svg"><img src="folder-paint.svg" width="250" alt="folder-paint.svg"></a> | **folder-paint.svg**<br>Vector (SVG) \| 1.62KB<br>更新: 2026-02-26 |
-| <a href="folder-pictures.svg"><img src="folder-pictures.svg" width="250" alt="folder-pictures.svg"></a> | **folder-pictures.svg**<br>Vector (SVG) \| 557.00B<br>更新: 2026-02-26 |
-| <a href="folder-podcast.svg"><img src="folder-podcast.svg" width="250" alt="folder-podcast.svg"></a> | **folder-podcast.svg**<br>Vector (SVG) \| 508.00B<br>更新: 2026-02-26 |
-| <a href="folder-presentation.svg"><img src="folder-presentation.svg" width="250" alt="folder-presentation.svg"></a> | **folder-presentation.svg**<br>Vector (SVG) \| 826.00B<br>更新: 2026-02-26 |
-| <a href="folder-publicshare.svg"><img src="folder-publicshare.svg" width="250" alt="folder-publicshare.svg"></a> | **folder-publicshare.svg**<br>Vector (SVG) \| 952.00B<br>更新: 2026-02-26 |
-| <a href="folder-red.svg"><img src="folder-red.svg" width="250" alt="folder-red.svg"></a> | **folder-red.svg**<br>Vector (SVG) \| 510.00B<br>更新: 2026-02-26 |
-| <a href="folder-root.svg"><img src="folder-root.svg" width="250" alt="folder-root.svg"></a> | **folder-root.svg**<br>Vector (SVG) \| 395.00B<br>更新: 2026-02-26 |
-| <a href="folder-rpm.svg"><img src="folder-rpm.svg" width="250" alt="folder-rpm.svg"></a> | **folder-rpm.svg**<br>Vector (SVG) \| 1.16KB<br>更新: 2026-02-26 |
-| <a href="folder-sign.svg"><img src="folder-sign.svg" width="250" alt="folder-sign.svg"></a> | **folder-sign.svg**<br>Vector (SVG) \| 7.61KB<br>更新: 2026-02-26 |
-| <a href="folder-snap.svg"><img src="folder-snap.svg" width="250" alt="folder-snap.svg"></a> | **folder-snap.svg**<br>Vector (SVG) \| 432.00B<br>更新: 2026-02-26 |
-| <a href="folder-sound.svg"><img src="folder-sound.svg" width="250" alt="folder-sound.svg"></a> | **folder-sound.svg**<br>Vector (SVG) \| 627.00B<br>更新: 2026-02-26 |
-| <a href="folder-table.svg"><img src="folder-table.svg" width="250" alt="folder-table.svg"></a> | **folder-table.svg**<br>Vector (SVG) \| 613.00B<br>更新: 2026-02-26 |
-| <a href="folder-tar.svg"><img src="folder-tar.svg" width="250" alt="folder-tar.svg"></a> | **folder-tar.svg**<br>Vector (SVG) \| 769.00B<br>更新: 2026-02-26 |
-| <a href="folder-temp.svg"><img src="folder-temp.svg" width="250" alt="folder-temp.svg"></a> | **folder-temp.svg**<br>Vector (SVG) \| 523.00B<br>更新: 2026-02-26 |
-| <a href="folder-templates.svg"><img src="folder-templates.svg" width="250" alt="folder-templates.svg"></a> | **folder-templates.svg**<br>Vector (SVG) \| 550.00B<br>更新: 2026-02-26 |
-| <a href="folder-text.svg"><img src="folder-text.svg" width="250" alt="folder-text.svg"></a> | **folder-text.svg**<br>Vector (SVG) \| 509.00B<br>更新: 2026-02-26 |
-| <a href="folder-trash.svg"><img src="folder-trash.svg" width="250" alt="folder-trash.svg"></a> | **folder-trash.svg**<br>Vector (SVG) \| 1.95KB<br>更新: 2026-02-26 |
-| <a href="folder-videos.svg"><img src="folder-videos.svg" width="250" alt="folder-videos.svg"></a> | **folder-videos.svg**<br>Vector (SVG) \| 1003.00B<br>更新: 2026-02-26 |
-| <a href="folder-violet.svg"><img src="folder-violet.svg" width="250" alt="folder-violet.svg"></a> | **folder-violet.svg**<br>Vector (SVG) \| 510.00B<br>更新: 2026-02-26 |
-| <a href="folder-windows.svg"><img src="folder-windows.svg" width="250" alt="folder-windows.svg"></a> | **folder-windows.svg**<br>Vector (SVG) \| 584.00B<br>更新: 2026-02-26 |
-| <a href="folder-yellow.svg"><img src="folder-yellow.svg" width="250" alt="folder-yellow.svg"></a> | **folder-yellow.svg**<br>Vector (SVG) \| 510.00B<br>更新: 2026-02-26 |
-| <a href="folder.svg"><img src="folder.svg" width="250" alt="folder.svg"></a> | **folder.svg**<br>Vector (SVG) \| 539.00B<br>更新: 2026-02-26 |
-| <a href="mail-folder-inbox.svg"><img src="mail-folder-inbox.svg" width="250" alt="mail-folder-inbox.svg"></a> | **mail-folder-inbox.svg**<br>Vector (SVG) \| 520.00B<br>更新: 2026-02-26 |
-| <a href="mail-folder-outbox.svg"><img src="mail-folder-outbox.svg" width="250" alt="mail-folder-outbox.svg"></a> | **mail-folder-outbox.svg**<br>Vector (SVG) \| 577.00B<br>更新: 2026-02-26 |
-| <a href="mail-message.svg"><img src="mail-message.svg" width="250" alt="mail-message.svg"></a> | **mail-message.svg**<br>Vector (SVG) \| 821.00B<br>更新: 2026-02-26 |
-| <a href="network-server-database.svg"><img src="network-server-database.svg" width="250" alt="network-server-database.svg"></a> | **network-server-database.svg**<br>Vector (SVG) \| 684.00B<br>更新: 2026-02-26 |
-| <a href="network-workgroup.svg"><img src="network-workgroup.svg" width="250" alt="network-workgroup.svg"></a> | **network-workgroup.svg**<br>Vector (SVG) \| 546.00B<br>更新: 2026-02-26 |
-| <a href="user-desktop.svg"><img src="user-desktop.svg" width="250" alt="user-desktop.svg"></a> | **user-desktop.svg**<br>Vector (SVG) \| 427.00B<br>更新: 2026-02-26 |
-| <a href="user-trash-full.svg"><img src="user-trash-full.svg" width="250" alt="user-trash-full.svg"></a> | **user-trash-full.svg**<br>Vector (SVG) \| 511.00B<br>更新: 2026-02-26 |
-| <a href="user-trash.svg"><img src="user-trash.svg" width="250" alt="user-trash.svg"></a> | **user-trash.svg**<br>Vector (SVG) \| 588.00B<br>更新: 2026-02-26 |
+| <a href="folder-activities.svg"><img src="folder-activities.svg" width="250"></a> | **folder-activities.svg**<br>Vector (SVG) | 661.00B |
+| <a href="folder-add.svg"><img src="folder-add.svg" width="250"></a> | **folder-add.svg**<br>Vector (SVG) | 578.00B |
+| <a href="folder-android.svg"><img src="folder-android.svg" width="250"></a> | **folder-android.svg**<br>Vector (SVG) | 1.01KB |
+| <a href="folder-appimage.svg"><img src="folder-appimage.svg" width="250"></a> | **folder-appimage.svg**<br>Vector (SVG) | 1.12KB |
+| <a href="folder-black.svg"><img src="folder-black.svg" width="250"></a> | **folder-black.svg**<br>Vector (SVG) | 510.00B |
+| <a href="folder-blender.svg"><img src="folder-blender.svg" width="250"></a> | **folder-blender.svg**<br>Vector (SVG) | 995.00B |
+| <a href="folder-blue.svg"><img src="folder-blue.svg" width="250"></a> | **folder-blue.svg**<br>Vector (SVG) | 510.00B |
+| <a href="folder-brown.svg"><img src="folder-brown.svg" width="250"></a> | **folder-brown.svg**<br>Vector (SVG) | 510.00B |
+| <a href="folder-build.svg"><img src="folder-build.svg" width="250"></a> | **folder-build.svg**<br>Vector (SVG) | 3.59KB |
+| <a href="folder-calculate.svg"><img src="folder-calculate.svg" width="250"></a> | **folder-calculate.svg**<br>Vector (SVG) | 801.00B |
+| <a href="folder-chart.svg"><img src="folder-chart.svg" width="250"></a> | **folder-chart.svg**<br>Vector (SVG) | 507.00B |
+| <a href="folder-cloud.svg"><img src="folder-cloud.svg" width="250"></a> | **folder-cloud.svg**<br>Vector (SVG) | 624.00B |
+| <a href="folder-crash.svg"><img src="folder-crash.svg" width="250"></a> | **folder-crash.svg**<br>Vector (SVG) | 928.00B |
+| <a href="folder-cyan.svg"><img src="folder-cyan.svg" width="250"></a> | **folder-cyan.svg**<br>Vector (SVG) | 510.00B |
+| <a href="folder-database.svg"><img src="folder-database.svg" width="250"></a> | **folder-database.svg**<br>Vector (SVG) | 690.00B |
+| <a href="folder-deb.svg"><img src="folder-deb.svg" width="250"></a> | **folder-deb.svg**<br>Vector (SVG) | 10.43KB |
+| <a href="folder-design.svg"><img src="folder-design.svg" width="250"></a> | **folder-design.svg**<br>Vector (SVG) | 2.81KB |
+| <a href="folder-desktop.svg"><img src="folder-desktop.svg" width="250"></a> | **folder-desktop.svg**<br>Vector (SVG) | 882.00B |
+| <a href="folder-docker.svg"><img src="folder-docker.svg" width="250"></a> | **folder-docker.svg**<br>Vector (SVG) | 1.24KB |
+| <a href="folder-download.svg"><img src="folder-download.svg" width="250"></a> | **folder-download.svg**<br>Vector (SVG) | 542.00B |
+| <a href="folder-drawing.svg"><img src="folder-drawing.svg" width="250"></a> | **folder-drawing.svg**<br>Vector (SVG) | 1.72KB |
+| <a href="folder-extension.svg"><img src="folder-extension.svg" width="250"></a> | **folder-extension.svg**<br>Vector (SVG) | 494.00B |
+| <a href="folder-favorites.svg"><img src="folder-favorites.svg" width="250"></a> | **folder-favorites.svg**<br>Vector (SVG) | 423.00B |
+| <a href="folder-flatpak.svg"><img src="folder-flatpak.svg" width="250"></a> | **folder-flatpak.svg**<br>Vector (SVG) | 523.00B |
+| <a href="folder-games.svg"><img src="folder-games.svg" width="250"></a> | **folder-games.svg**<br>Vector (SVG) | 1.27KB |
+| <a href="folder-gdrive.svg"><img src="folder-gdrive.svg" width="250"></a> | **folder-gdrive.svg**<br>Vector (SVG) | 471.00B |
+| <a href="folder-git.svg"><img src="folder-git.svg" width="250"></a> | **folder-git.svg**<br>Vector (SVG) | 1.23KB |
+| <a href="folder-godot.svg"><img src="folder-godot.svg" width="250"></a> | **folder-godot.svg**<br>Vector (SVG) | 3.81KB |
+| <a href="folder-green.svg"><img src="folder-green.svg" width="250"></a> | **folder-green.svg**<br>Vector (SVG) | 510.00B |
+| <a href="folder-grey.svg"><img src="folder-grey.svg" width="250"></a> | **folder-grey.svg**<br>Vector (SVG) | 510.00B |
+| <a href="folder-important.svg"><img src="folder-important.svg" width="250"></a> | **folder-important.svg**<br>Vector (SVG) | 367.00B |
+| <a href="folder-java.svg"><img src="folder-java.svg" width="250"></a> | **folder-java.svg**<br>Vector (SVG) | 832.00B |
+| <a href="folder-language.svg"><img src="folder-language.svg" width="250"></a> | **folder-language.svg**<br>Vector (SVG) | 982.00B |
+| <a href="folder-locked.svg"><img src="folder-locked.svg" width="250"></a> | **folder-locked.svg**<br>Vector (SVG) | 506.00B |
+| <a href="folder-log.svg"><img src="folder-log.svg" width="250"></a> | **folder-log.svg**<br>Vector (SVG) | 738.00B |
+| <a href="folder-mac.svg"><img src="folder-mac.svg" width="250"></a> | **folder-mac.svg**<br>Vector (SVG) | 593.00B |
+| <a href="folder-magenta.svg"><img src="folder-magenta.svg" width="250"></a> | **folder-magenta.svg**<br>Vector (SVG) | 510.00B |
+| <a href="folder-mail.svg"><img src="folder-mail.svg" width="250"></a> | **folder-mail.svg**<br>Vector (SVG) | 573.00B |
+| <a href="folder-network.svg"><img src="folder-network.svg" width="250"></a> | **folder-network.svg**<br>Vector (SVG) | 930.00B |
+| <a href="folder-notes.svg"><img src="folder-notes.svg" width="250"></a> | **folder-notes.svg**<br>Vector (SVG) | 1.07KB |
+| <a href="folder-open.svg"><img src="folder-open.svg" width="250"></a> | **folder-open.svg**<br>Vector (SVG) | 474.00B |
+| <a href="folder-orange.svg"><img src="folder-orange.svg" width="250"></a> | **folder-orange.svg**<br>Vector (SVG) | 510.00B |
+| <a href="folder-paint.svg"><img src="folder-paint.svg" width="250"></a> | **folder-paint.svg**<br>Vector (SVG) | 1.62KB |
+| <a href="folder-pictures.svg"><img src="folder-pictures.svg" width="250"></a> | **folder-pictures.svg**<br>Vector (SVG) | 557.00B |
+| <a href="folder-podcast.svg"><img src="folder-podcast.svg" width="250"></a> | **folder-podcast.svg**<br>Vector (SVG) | 508.00B |
+| <a href="folder-presentation.svg"><img src="folder-presentation.svg" width="250"></a> | **folder-presentation.svg**<br>Vector (SVG) | 826.00B |
+| <a href="folder-publicshare.svg"><img src="folder-publicshare.svg" width="250"></a> | **folder-publicshare.svg**<br>Vector (SVG) | 952.00B |
+| <a href="folder-red.svg"><img src="folder-red.svg" width="250"></a> | **folder-red.svg**<br>Vector (SVG) | 510.00B |
+| <a href="folder-root.svg"><img src="folder-root.svg" width="250"></a> | **folder-root.svg**<br>Vector (SVG) | 395.00B |
+| <a href="folder-rpm.svg"><img src="folder-rpm.svg" width="250"></a> | **folder-rpm.svg**<br>Vector (SVG) | 1.16KB |
+| <a href="folder-sign.svg"><img src="folder-sign.svg" width="250"></a> | **folder-sign.svg**<br>Vector (SVG) | 7.61KB |
+| <a href="folder-snap.svg"><img src="folder-snap.svg" width="250"></a> | **folder-snap.svg**<br>Vector (SVG) | 432.00B |
+| <a href="folder-sound.svg"><img src="folder-sound.svg" width="250"></a> | **folder-sound.svg**<br>Vector (SVG) | 627.00B |
+| <a href="folder-table.svg"><img src="folder-table.svg" width="250"></a> | **folder-table.svg**<br>Vector (SVG) | 613.00B |
+| <a href="folder-tar.svg"><img src="folder-tar.svg" width="250"></a> | **folder-tar.svg**<br>Vector (SVG) | 769.00B |
+| <a href="folder-temp.svg"><img src="folder-temp.svg" width="250"></a> | **folder-temp.svg**<br>Vector (SVG) | 523.00B |
+| <a href="folder-templates.svg"><img src="folder-templates.svg" width="250"></a> | **folder-templates.svg**<br>Vector (SVG) | 550.00B |
+| <a href="folder-text.svg"><img src="folder-text.svg" width="250"></a> | **folder-text.svg**<br>Vector (SVG) | 509.00B |
+| <a href="folder-trash.svg"><img src="folder-trash.svg" width="250"></a> | **folder-trash.svg**<br>Vector (SVG) | 1.95KB |
+| <a href="folder-videos.svg"><img src="folder-videos.svg" width="250"></a> | **folder-videos.svg**<br>Vector (SVG) | 1003.00B |
+| <a href="folder-violet.svg"><img src="folder-violet.svg" width="250"></a> | **folder-violet.svg**<br>Vector (SVG) | 510.00B |
+| <a href="folder-windows.svg"><img src="folder-windows.svg" width="250"></a> | **folder-windows.svg**<br>Vector (SVG) | 584.00B |
+| <a href="folder-yellow.svg"><img src="folder-yellow.svg" width="250"></a> | **folder-yellow.svg**<br>Vector (SVG) | 510.00B |
+| <a href="folder.svg"><img src="folder.svg" width="250"></a> | **folder.svg**<br>Vector (SVG) | 539.00B |
+| <a href="mail-folder-inbox.svg"><img src="mail-folder-inbox.svg" width="250"></a> | **mail-folder-inbox.svg**<br>Vector (SVG) | 520.00B |
+| <a href="mail-folder-outbox.svg"><img src="mail-folder-outbox.svg" width="250"></a> | **mail-folder-outbox.svg**<br>Vector (SVG) | 577.00B |
+| <a href="mail-message.svg"><img src="mail-message.svg" width="250"></a> | **mail-message.svg**<br>Vector (SVG) | 821.00B |
+| <a href="network-server-database.svg"><img src="network-server-database.svg" width="250"></a> | **network-server-database.svg**<br>Vector (SVG) | 684.00B |
+| <a href="network-workgroup.svg"><img src="network-workgroup.svg" width="250"></a> | **network-workgroup.svg**<br>Vector (SVG) | 546.00B |
+| <a href="user-desktop.svg"><img src="user-desktop.svg" width="250"></a> | **user-desktop.svg**<br>Vector (SVG) | 427.00B |
+| <a href="user-trash-full.svg"><img src="user-trash-full.svg" width="250"></a> | **user-trash-full.svg**<br>Vector (SVG) | 511.00B |
+| <a href="user-trash.svg"><img src="user-trash.svg" width="250"></a> | **user-trash.svg**<br>Vector (SVG) | 588.00B |

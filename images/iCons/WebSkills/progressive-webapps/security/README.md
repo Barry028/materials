@@ -1,12 +1,12 @@
-# 🖼️ security Gallery
+# 🖼️ security 素材庫
 
-[⬅️ 回到首頁](../../README.md)
+[⬅️ 返回主目錄](../../README.md)
 
-| 預覽 | 詳細資訊 |
+| 預覽 (點擊放大) | 檔案資訊 |
 | :--- | :--- |
-| <a href="browser-sandbox.svg"><img src="browser-sandbox.svg" width="250" alt="browser-sandbox.svg"></a> | **browser-sandbox.svg**<br>Vector (SVG) \| 8.67KB<br>更新: 2026-02-26 |
-| <a href="clickjacking.svg"><img src="clickjacking.svg" width="250" alt="clickjacking.svg"></a> | **clickjacking.svg**<br>Vector (SVG) \| 4.72KB<br>更新: 2026-02-26 |
-| <a href="content-security-policy.svg"><img src="content-security-policy.svg" width="250" alt="content-security-policy.svg"></a> | **content-security-policy.svg**<br>Vector (SVG) \| 7.35KB<br>更新: 2026-02-26 |
-| <a href="cross-site-scripting.svg"><img src="cross-site-scripting.svg" width="250" alt="cross-site-scripting.svg"></a> | **cross-site-scripting.svg**<br>Vector (SVG) \| 7.58KB<br>更新: 2026-02-26 |
-| <a href="https.svg"><img src="https.svg" width="250" alt="https.svg"></a> | **https.svg**<br>Vector (SVG) \| 4.40KB<br>更新: 2026-02-26 |
-| <a href="owasp.svg"><img src="owasp.svg" width="250" alt="owasp.svg"></a> | **owasp.svg**<br>Vector (SVG) \| 9.38KB<br>更新: 2026-02-26 |
+| <a href="browser-sandbox.svg"><img src="browser-sandbox.svg" width="250"></a> | **browser-sandbox.svg**<br>Vector (SVG) | 8.67KB |
+| <a href="clickjacking.svg"><img src="clickjacking.svg" width="250"></a> | **clickjacking.svg**<br>Vector (SVG) | 4.72KB |
+| <a href="content-security-policy.svg"><img src="content-security-policy.svg" width="250"></a> | **content-security-policy.svg**<br>Vector (SVG) | 7.35KB |
+| <a href="cross-site-scripting.svg"><img src="cross-site-scripting.svg" width="250"></a> | **cross-site-scripting.svg**<br>Vector (SVG) | 7.58KB |
+| <a href="https.svg"><img src="https.svg" width="250"></a> | **https.svg**<br>Vector (SVG) | 4.40KB |
+| <a href="owasp.svg"><img src="owasp.svg" width="250"></a> | **owasp.svg**<br>Vector (SVG) | 9.38KB |

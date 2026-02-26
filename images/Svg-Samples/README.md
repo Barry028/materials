@@ -1,7 +1,7 @@
-# 🖼️ Svg-Samples Gallery
+# 🖼️ Svg-Samples 素材庫
 
-[⬅️ 回到首頁](../../README.md)
+[⬅️ 返回主目錄](../../README.md)
 
-| 預覽 | 詳細資訊 |
+| 預覽 (點擊放大) | 檔案資訊 |
 | :--- | :--- |
-| <a href="Illustration-01.svg"><img src="Illustration-01.svg" width="250" alt="Illustration-01.svg"></a> | **Illustration-01.svg**<br>Vector (SVG) \| 114.21KB<br>更新: 2026-02-26 |
+| <a href="Illustration-01.svg"><img src="Illustration-01.svg" width="250"></a> | **Illustration-01.svg**<br>Vector (SVG) | 114.21KB |

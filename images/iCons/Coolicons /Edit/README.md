@@ -1,78 +1,78 @@
-# 🖼️ Edit Gallery
+# 🖼️ Edit 素材庫
 
-[⬅️ 回到首頁](../../README.md)
+[⬅️ 返回主目錄](../../README.md)
 
-| 預覽 | 詳細資訊 |
+| 預覽 (點擊放大) | 檔案資訊 |
 | :--- | :--- |
-| <a href="Add_Column.svg"><img src="Add_Column.svg" width="250" alt="Add_Column.svg"></a> | **Add_Column.svg**<br>Vector (SVG) \| 323.00B<br>更新: 2026-02-26 |
-| <a href="Add_Minus_Square.svg"><img src="Add_Minus_Square.svg" width="250" alt="Add_Minus_Square.svg"></a> | **Add_Minus_Square.svg**<br>Vector (SVG) \| 728.00B<br>更新: 2026-02-26 |
-| <a href="Add_Plus.svg"><img src="Add_Plus.svg" width="250" alt="Add_Plus.svg"></a> | **Add_Plus.svg**<br>Vector (SVG) \| 229.00B<br>更新: 2026-02-26 |
-| <a href="Add_Plus_Circle.svg"><img src="Add_Plus_Circle.svg" width="250" alt="Add_Plus_Circle.svg"></a> | **Add_Plus_Circle.svg**<br>Vector (SVG) \| 342.00B<br>更新: 2026-02-26 |
-| <a href="Add_Plus_Square.svg"><img src="Add_Plus_Square.svg" width="250" alt="Add_Plus_Square.svg"></a> | **Add_Plus_Square.svg**<br>Vector (SVG) \| 754.00B<br>更新: 2026-02-26 |
-| <a href="Add_Row.svg"><img src="Add_Row.svg" width="250" alt="Add_Row.svg"></a> | **Add_Row.svg**<br>Vector (SVG) \| 326.00B<br>更新: 2026-02-26 |
-| <a href="Add_To_Queue.svg"><img src="Add_To_Queue.svg" width="250" alt="Add_To_Queue.svg"></a> | **Add_To_Queue.svg**<br>Vector (SVG) \| 894.00B<br>更新: 2026-02-26 |
-| <a href="Bold.svg"><img src="Bold.svg" width="250" alt="Bold.svg"></a> | **Bold.svg**<br>Vector (SVG) \| 344.00B<br>更新: 2026-02-26 |
-| <a href="Close_Circle.svg"><img src="Close_Circle.svg" width="250" alt="Close_Circle.svg"></a> | **Close_Circle.svg**<br>Vector (SVG) \| 412.00B<br>更新: 2026-02-26 |
-| <a href="Close_Square.svg"><img src="Close_Square.svg" width="250" alt="Close_Square.svg"></a> | **Close_Square.svg**<br>Vector (SVG) \| 824.00B<br>更新: 2026-02-26 |
-| <a href="Columns.svg"><img src="Columns.svg" width="250" alt="Columns.svg"></a> | **Columns.svg**<br>Vector (SVG) \| 1.27KB<br>更新: 2026-02-26 |
-| <a href="Combine_Cells.svg"><img src="Combine_Cells.svg" width="250" alt="Combine_Cells.svg"></a> | **Combine_Cells.svg**<br>Vector (SVG) \| 721.00B<br>更新: 2026-02-26 |
-| <a href="Copy.svg"><img src="Copy.svg" width="250" alt="Copy.svg"></a> | **Copy.svg**<br>Vector (SVG) \| 1.08KB<br>更新: 2026-02-26 |
-| <a href="Crop.svg"><img src="Crop.svg" width="250" alt="Crop.svg"></a> | **Crop.svg**<br>Vector (SVG) \| 490.00B<br>更新: 2026-02-26 |
-| <a href="Delete_Column.svg"><img src="Delete_Column.svg" width="250" alt="Delete_Column.svg"></a> | **Delete_Column.svg**<br>Vector (SVG) \| 296.00B<br>更新: 2026-02-26 |
-| <a href="Delete_Row.svg"><img src="Delete_Row.svg" width="250" alt="Delete_Row.svg"></a> | **Delete_Row.svg**<br>Vector (SVG) \| 296.00B<br>更新: 2026-02-26 |
-| <a href="Double_Quotes_L.svg"><img src="Double_Quotes_L.svg" width="250" alt="Double_Quotes_L.svg"></a> | **Double_Quotes_L.svg**<br>Vector (SVG) \| 1010.00B<br>更新: 2026-02-26 |
-| <a href="Double_Quotes_R.svg"><img src="Double_Quotes_R.svg" width="250" alt="Double_Quotes_R.svg"></a> | **Double_Quotes_R.svg**<br>Vector (SVG) \| 1.03KB<br>更新: 2026-02-26 |
-| <a href="Edit_Pencil_01.svg"><img src="Edit_Pencil_01.svg" width="250" alt="Edit_Pencil_01.svg"></a> | **Edit_Pencil_01.svg**<br>Vector (SVG) \| 636.00B<br>更新: 2026-02-26 |
-| <a href="Edit_Pencil_02.svg"><img src="Edit_Pencil_02.svg" width="250" alt="Edit_Pencil_02.svg"></a> | **Edit_Pencil_02.svg**<br>Vector (SVG) \| 581.00B<br>更新: 2026-02-26 |
-| <a href="Edit_Pencil_Line_01.svg"><img src="Edit_Pencil_Line_01.svg" width="250" alt="Edit_Pencil_Line_01.svg"></a> | **Edit_Pencil_Line_01.svg**<br>Vector (SVG) \| 659.00B<br>更新: 2026-02-26 |
-| <a href="Edit_Pencil_Line_02.svg"><img src="Edit_Pencil_Line_02.svg" width="250" alt="Edit_Pencil_Line_02.svg"></a> | **Edit_Pencil_Line_02.svg**<br>Vector (SVG) \| 594.00B<br>更新: 2026-02-26 |
-| <a href="Figma.svg"><img src="Figma.svg" width="250" alt="Figma.svg"></a> | **Figma.svg**<br>Vector (SVG) \| 620.00B<br>更新: 2026-02-26 |
-| <a href="Font.svg"><img src="Font.svg" width="250" alt="Font.svg"></a> | **Font.svg**<br>Vector (SVG) \| 355.00B<br>更新: 2026-02-26 |
-| <a href="Heading.svg"><img src="Heading.svg" width="250" alt="Heading.svg"></a> | **Heading.svg**<br>Vector (SVG) \| 235.00B<br>更新: 2026-02-26 |
-| <a href="Heading_H1.svg"><img src="Heading_H1.svg" width="250" alt="Heading_H1.svg"></a> | **Heading_H1.svg**<br>Vector (SVG) \| 252.00B<br>更新: 2026-02-26 |
-| <a href="Heading_H2.svg"><img src="Heading_H2.svg" width="250" alt="Heading_H2.svg"></a> | **Heading_H2.svg**<br>Vector (SVG) \| 386.00B<br>更新: 2026-02-26 |
-| <a href="Heading_H3.svg"><img src="Heading_H3.svg" width="250" alt="Heading_H3.svg"></a> | **Heading_H3.svg**<br>Vector (SVG) \| 399.00B<br>更新: 2026-02-26 |
-| <a href="Heading_H4.svg"><img src="Heading_H4.svg" width="250" alt="Heading_H4.svg"></a> | **Heading_H4.svg**<br>Vector (SVG) \| 278.00B<br>更新: 2026-02-26 |
-| <a href="Heading_H5.svg"><img src="Heading_H5.svg" width="250" alt="Heading_H5.svg"></a> | **Heading_H5.svg**<br>Vector (SVG) \| 628.00B<br>更新: 2026-02-26 |
-| <a href="Heading_H6.svg"><img src="Heading_H6.svg" width="250" alt="Heading_H6.svg"></a> | **Heading_H6.svg**<br>Vector (SVG) \| 468.00B<br>更新: 2026-02-26 |
-| <a href="Hide.svg"><img src="Hide.svg" width="250" alt="Hide.svg"></a> | **Hide.svg**<br>Vector (SVG) \| 951.00B<br>更新: 2026-02-26 |
-| <a href="Italic.svg"><img src="Italic.svg" width="250" alt="Italic.svg"></a> | **Italic.svg**<br>Vector (SVG) \| 239.00B<br>更新: 2026-02-26 |
-| <a href="Layer.svg"><img src="Layer.svg" width="250" alt="Layer.svg"></a> | **Layer.svg**<br>Vector (SVG) \| 241.00B<br>更新: 2026-02-26 |
-| <a href="Layers.svg"><img src="Layers.svg" width="250" alt="Layers.svg"></a> | **Layers.svg**<br>Vector (SVG) \| 255.00B<br>更新: 2026-02-26 |
-| <a href="List_Add.svg"><img src="List_Add.svg" width="250" alt="List_Add.svg"></a> | **List_Add.svg**<br>Vector (SVG) \| 254.00B<br>更新: 2026-02-26 |
-| <a href="List_Check.svg"><img src="List_Check.svg" width="250" alt="List_Check.svg"></a> | **List_Check.svg**<br>Vector (SVG) \| 236.00B<br>更新: 2026-02-26 |
-| <a href="List_Checklist.svg"><img src="List_Checklist.svg" width="250" alt="List_Checklist.svg"></a> | **List_Checklist.svg**<br>Vector (SVG) \| 269.00B<br>更新: 2026-02-26 |
-| <a href="List_Ordered.svg"><img src="List_Ordered.svg" width="250" alt="List_Ordered.svg"></a> | **List_Ordered.svg**<br>Vector (SVG) \| 388.00B<br>更新: 2026-02-26 |
-| <a href="List_Remove.svg"><img src="List_Remove.svg" width="250" alt="List_Remove.svg"></a> | **List_Remove.svg**<br>Vector (SVG) \| 227.00B<br>更新: 2026-02-26 |
-| <a href="List_Unordered.svg"><img src="List_Unordered.svg" width="250" alt="List_Unordered.svg"></a> | **List_Unordered.svg**<br>Vector (SVG) \| 333.00B<br>更新: 2026-02-26 |
-| <a href="Mention.svg"><img src="Mention.svg" width="250" alt="Mention.svg"></a> | **Mention.svg**<br>Vector (SVG) \| 832.00B<br>更新: 2026-02-26 |
-| <a href="Move.svg"><img src="Move.svg" width="250" alt="Move.svg"></a> | **Move.svg**<br>Vector (SVG) \| 313.00B<br>更新: 2026-02-26 |
-| <a href="Move_Horizontal.svg"><img src="Move_Horizontal.svg" width="250" alt="Move_Horizontal.svg"></a> | **Move_Horizontal.svg**<br>Vector (SVG) \| 245.00B<br>更新: 2026-02-26 |
-| <a href="Move_Vertical.svg"><img src="Move_Vertical.svg" width="250" alt="Move_Vertical.svg"></a> | **Move_Vertical.svg**<br>Vector (SVG) \| 245.00B<br>更新: 2026-02-26 |
-| <a href="Paperclip_Attechment_Horizontal.svg"><img src="Paperclip_Attechment_Horizontal.svg" width="250" alt="Paperclip_Attechment_Horizontal.svg"></a> | **Paperclip_Attechment_Horizontal.svg**<br>Vector (SVG) \| 403.00B<br>更新: 2026-02-26 |
-| <a href="Paperclip_Attechment_Tilt.svg"><img src="Paperclip_Attechment_Tilt.svg" width="250" alt="Paperclip_Attechment_Tilt.svg"></a> | **Paperclip_Attechment_Tilt.svg**<br>Vector (SVG) \| 556.00B<br>更新: 2026-02-26 |
-| <a href="Paragraph.svg"><img src="Paragraph.svg" width="250" alt="Paragraph.svg"></a> | **Paragraph.svg**<br>Vector (SVG) \| 298.00B<br>更新: 2026-02-26 |
-| <a href="Path.svg"><img src="Path.svg" width="250" alt="Path.svg"></a> | **Path.svg**<br>Vector (SVG) \| 597.00B<br>更新: 2026-02-26 |
-| <a href="Redo.svg"><img src="Redo.svg" width="250" alt="Redo.svg"></a> | **Redo.svg**<br>Vector (SVG) \| 611.00B<br>更新: 2026-02-26 |
-| <a href="Remove_Minus.svg"><img src="Remove_Minus.svg" width="250" alt="Remove_Minus.svg"></a> | **Remove_Minus.svg**<br>Vector (SVG) \| 203.00B<br>更新: 2026-02-26 |
-| <a href="Remove_Minus_Circle.svg"><img src="Remove_Minus_Circle.svg" width="250" alt="Remove_Minus_Circle.svg"></a> | **Remove_Minus_Circle.svg**<br>Vector (SVG) \| 316.00B<br>更新: 2026-02-26 |
-| <a href="Rows.svg"><img src="Rows.svg" width="250" alt="Rows.svg"></a> | **Rows.svg**<br>Vector (SVG) \| 1.27KB<br>更新: 2026-02-26 |
-| <a href="Ruler.svg"><img src="Ruler.svg" width="250" alt="Ruler.svg"></a> | **Ruler.svg**<br>Vector (SVG) \| 939.00B<br>更新: 2026-02-26 |
-| <a href="Select_Multiple.svg"><img src="Select_Multiple.svg" width="250" alt="Select_Multiple.svg"></a> | **Select_Multiple.svg**<br>Vector (SVG) \| 876.00B<br>更新: 2026-02-26 |
-| <a href="Show.svg"><img src="Show.svg" width="250" alt="Show.svg"></a> | **Show.svg**<br>Vector (SVG) \| 877.00B<br>更新: 2026-02-26 |
-| <a href="Single_Quotes_L.svg"><img src="Single_Quotes_L.svg" width="250" alt="Single_Quotes_L.svg"></a> | **Single_Quotes_L.svg**<br>Vector (SVG) \| 607.00B<br>更新: 2026-02-26 |
-| <a href="Single_Quotes_R.svg"><img src="Single_Quotes_R.svg" width="250" alt="Single_Quotes_R.svg"></a> | **Single_Quotes_R.svg**<br>Vector (SVG) \| 609.00B<br>更新: 2026-02-26 |
-| <a href="Sort_Ascending.svg"><img src="Sort_Ascending.svg" width="250" alt="Sort_Ascending.svg"></a> | **Sort_Ascending.svg**<br>Vector (SVG) \| 251.00B<br>更新: 2026-02-26 |
-| <a href="Sort_Descending.svg"><img src="Sort_Descending.svg" width="250" alt="Sort_Descending.svg"></a> | **Sort_Descending.svg**<br>Vector (SVG) \| 246.00B<br>更新: 2026-02-26 |
-| <a href="Strikethrough.svg"><img src="Strikethrough.svg" width="250" alt="Strikethrough.svg"></a> | **Strikethrough.svg**<br>Vector (SVG) \| 974.00B<br>更新: 2026-02-26 |
-| <a href="Swatches_Palette.svg"><img src="Swatches_Palette.svg" width="250" alt="Swatches_Palette.svg"></a> | **Swatches_Palette.svg**<br>Vector (SVG) \| 730.00B<br>更新: 2026-02-26 |
-| <a href="Table.svg"><img src="Table.svg" width="250" alt="Table.svg"></a> | **Table.svg**<br>Vector (SVG) \| 788.00B<br>更新: 2026-02-26 |
-| <a href="Table_Add.svg"><img src="Table_Add.svg" width="250" alt="Table_Add.svg"></a> | **Table_Add.svg**<br>Vector (SVG) \| 711.00B<br>更新: 2026-02-26 |
-| <a href="Table_Remove.svg"><img src="Table_Remove.svg" width="250" alt="Table_Remove.svg"></a> | **Table_Remove.svg**<br>Vector (SVG) \| 684.00B<br>更新: 2026-02-26 |
-| <a href="Text.svg"><img src="Text.svg" width="250" alt="Text.svg"></a> | **Text.svg**<br>Vector (SVG) \| 240.00B<br>更新: 2026-02-26 |
-| <a href="Text_Align_Center.svg"><img src="Text_Align_Center.svg" width="250" alt="Text_Align_Center.svg"></a> | **Text_Align_Center.svg**<br>Vector (SVG) \| 226.00B<br>更新: 2026-02-26 |
-| <a href="Text_Align_Justify.svg"><img src="Text_Align_Justify.svg" width="250" alt="Text_Align_Justify.svg"></a> | **Text_Align_Justify.svg**<br>Vector (SVG) \| 226.00B<br>更新: 2026-02-26 |
-| <a href="Text_Align_Left.svg"><img src="Text_Align_Left.svg" width="250" alt="Text_Align_Left.svg"></a> | **Text_Align_Left.svg**<br>Vector (SVG) \| 226.00B<br>更新: 2026-02-26 |
-| <a href="Text_Align_Right.svg"><img src="Text_Align_Right.svg" width="250" alt="Text_Align_Right.svg"></a> | **Text_Align_Right.svg**<br>Vector (SVG) \| 228.00B<br>更新: 2026-02-26 |
-| <a href="Underline.svg"><img src="Underline.svg" width="250" alt="Underline.svg"></a> | **Underline.svg**<br>Vector (SVG) \| 267.00B<br>更新: 2026-02-26 |
-| <a href="Undo.svg"><img src="Undo.svg" width="250" alt="Undo.svg"></a> | **Undo.svg**<br>Vector (SVG) \| 597.00B<br>更新: 2026-02-26 |
+| <a href="Add_Column.svg"><img src="Add_Column.svg" width="250"></a> | **Add_Column.svg**<br>Vector (SVG) | 323.00B |
+| <a href="Add_Minus_Square.svg"><img src="Add_Minus_Square.svg" width="250"></a> | **Add_Minus_Square.svg**<br>Vector (SVG) | 728.00B |
+| <a href="Add_Plus.svg"><img src="Add_Plus.svg" width="250"></a> | **Add_Plus.svg**<br>Vector (SVG) | 229.00B |
+| <a href="Add_Plus_Circle.svg"><img src="Add_Plus_Circle.svg" width="250"></a> | **Add_Plus_Circle.svg**<br>Vector (SVG) | 342.00B |
+| <a href="Add_Plus_Square.svg"><img src="Add_Plus_Square.svg" width="250"></a> | **Add_Plus_Square.svg**<br>Vector (SVG) | 754.00B |
+| <a href="Add_Row.svg"><img src="Add_Row.svg" width="250"></a> | **Add_Row.svg**<br>Vector (SVG) | 326.00B |
+| <a href="Add_To_Queue.svg"><img src="Add_To_Queue.svg" width="250"></a> | **Add_To_Queue.svg**<br>Vector (SVG) | 894.00B |
+| <a href="Bold.svg"><img src="Bold.svg" width="250"></a> | **Bold.svg**<br>Vector (SVG) | 344.00B |
+| <a href="Close_Circle.svg"><img src="Close_Circle.svg" width="250"></a> | **Close_Circle.svg**<br>Vector (SVG) | 412.00B |
+| <a href="Close_Square.svg"><img src="Close_Square.svg" width="250"></a> | **Close_Square.svg**<br>Vector (SVG) | 824.00B |
+| <a href="Columns.svg"><img src="Columns.svg" width="250"></a> | **Columns.svg**<br>Vector (SVG) | 1.27KB |
+| <a href="Combine_Cells.svg"><img src="Combine_Cells.svg" width="250"></a> | **Combine_Cells.svg**<br>Vector (SVG) | 721.00B |
+| <a href="Copy.svg"><img src="Copy.svg" width="250"></a> | **Copy.svg**<br>Vector (SVG) | 1.08KB |
+| <a href="Crop.svg"><img src="Crop.svg" width="250"></a> | **Crop.svg**<br>Vector (SVG) | 490.00B |
+| <a href="Delete_Column.svg"><img src="Delete_Column.svg" width="250"></a> | **Delete_Column.svg**<br>Vector (SVG) | 296.00B |
+| <a href="Delete_Row.svg"><img src="Delete_Row.svg" width="250"></a> | **Delete_Row.svg**<br>Vector (SVG) | 296.00B |
+| <a href="Double_Quotes_L.svg"><img src="Double_Quotes_L.svg" width="250"></a> | **Double_Quotes_L.svg**<br>Vector (SVG) | 1010.00B |
+| <a href="Double_Quotes_R.svg"><img src="Double_Quotes_R.svg" width="250"></a> | **Double_Quotes_R.svg**<br>Vector (SVG) | 1.03KB |
+| <a href="Edit_Pencil_01.svg"><img src="Edit_Pencil_01.svg" width="250"></a> | **Edit_Pencil_01.svg**<br>Vector (SVG) | 636.00B |
+| <a href="Edit_Pencil_02.svg"><img src="Edit_Pencil_02.svg" width="250"></a> | **Edit_Pencil_02.svg**<br>Vector (SVG) | 581.00B |
+| <a href="Edit_Pencil_Line_01.svg"><img src="Edit_Pencil_Line_01.svg" width="250"></a> | **Edit_Pencil_Line_01.svg**<br>Vector (SVG) | 659.00B |
+| <a href="Edit_Pencil_Line_02.svg"><img src="Edit_Pencil_Line_02.svg" width="250"></a> | **Edit_Pencil_Line_02.svg**<br>Vector (SVG) | 594.00B |
+| <a href="Figma.svg"><img src="Figma.svg" width="250"></a> | **Figma.svg**<br>Vector (SVG) | 620.00B |
+| <a href="Font.svg"><img src="Font.svg" width="250"></a> | **Font.svg**<br>Vector (SVG) | 355.00B |
+| <a href="Heading.svg"><img src="Heading.svg" width="250"></a> | **Heading.svg**<br>Vector (SVG) | 235.00B |
+| <a href="Heading_H1.svg"><img src="Heading_H1.svg" width="250"></a> | **Heading_H1.svg**<br>Vector (SVG) | 252.00B |
+| <a href="Heading_H2.svg"><img src="Heading_H2.svg" width="250"></a> | **Heading_H2.svg**<br>Vector (SVG) | 386.00B |
+| <a href="Heading_H3.svg"><img src="Heading_H3.svg" width="250"></a> | **Heading_H3.svg**<br>Vector (SVG) | 399.00B |
+| <a href="Heading_H4.svg"><img src="Heading_H4.svg" width="250"></a> | **Heading_H4.svg**<br>Vector (SVG) | 278.00B |
+| <a href="Heading_H5.svg"><img src="Heading_H5.svg" width="250"></a> | **Heading_H5.svg**<br>Vector (SVG) | 628.00B |
+| <a href="Heading_H6.svg"><img src="Heading_H6.svg" width="250"></a> | **Heading_H6.svg**<br>Vector (SVG) | 468.00B |
+| <a href="Hide.svg"><img src="Hide.svg" width="250"></a> | **Hide.svg**<br>Vector (SVG) | 951.00B |
+| <a href="Italic.svg"><img src="Italic.svg" width="250"></a> | **Italic.svg**<br>Vector (SVG) | 239.00B |
+| <a href="Layer.svg"><img src="Layer.svg" width="250"></a> | **Layer.svg**<br>Vector (SVG) | 241.00B |
+| <a href="Layers.svg"><img src="Layers.svg" width="250"></a> | **Layers.svg**<br>Vector (SVG) | 255.00B |
+| <a href="List_Add.svg"><img src="List_Add.svg" width="250"></a> | **List_Add.svg**<br>Vector (SVG) | 254.00B |
+| <a href="List_Check.svg"><img src="List_Check.svg" width="250"></a> | **List_Check.svg**<br>Vector (SVG) | 236.00B |
+| <a href="List_Checklist.svg"><img src="List_Checklist.svg" width="250"></a> | **List_Checklist.svg**<br>Vector (SVG) | 269.00B |
+| <a href="List_Ordered.svg"><img src="List_Ordered.svg" width="250"></a> | **List_Ordered.svg**<br>Vector (SVG) | 388.00B |
+| <a href="List_Remove.svg"><img src="List_Remove.svg" width="250"></a> | **List_Remove.svg**<br>Vector (SVG) | 227.00B |
+| <a href="List_Unordered.svg"><img src="List_Unordered.svg" width="250"></a> | **List_Unordered.svg**<br>Vector (SVG) | 333.00B |
+| <a href="Mention.svg"><img src="Mention.svg" width="250"></a> | **Mention.svg**<br>Vector (SVG) | 832.00B |
+| <a href="Move.svg"><img src="Move.svg" width="250"></a> | **Move.svg**<br>Vector (SVG) | 313.00B |
+| <a href="Move_Horizontal.svg"><img src="Move_Horizontal.svg" width="250"></a> | **Move_Horizontal.svg**<br>Vector (SVG) | 245.00B |
+| <a href="Move_Vertical.svg"><img src="Move_Vertical.svg" width="250"></a> | **Move_Vertical.svg**<br>Vector (SVG) | 245.00B |
+| <a href="Paperclip_Attechment_Horizontal.svg"><img src="Paperclip_Attechment_Horizontal.svg" width="250"></a> | **Paperclip_Attechment_Horizontal.svg**<br>Vector (SVG) | 403.00B |
+| <a href="Paperclip_Attechment_Tilt.svg"><img src="Paperclip_Attechment_Tilt.svg" width="250"></a> | **Paperclip_Attechment_Tilt.svg**<br>Vector (SVG) | 556.00B |
+| <a href="Paragraph.svg"><img src="Paragraph.svg" width="250"></a> | **Paragraph.svg**<br>Vector (SVG) | 298.00B |
+| <a href="Path.svg"><img src="Path.svg" width="250"></a> | **Path.svg**<br>Vector (SVG) | 597.00B |
+| <a href="Redo.svg"><img src="Redo.svg" width="250"></a> | **Redo.svg**<br>Vector (SVG) | 611.00B |
+| <a href="Remove_Minus.svg"><img src="Remove_Minus.svg" width="250"></a> | **Remove_Minus.svg**<br>Vector (SVG) | 203.00B |
+| <a href="Remove_Minus_Circle.svg"><img src="Remove_Minus_Circle.svg" width="250"></a> | **Remove_Minus_Circle.svg**<br>Vector (SVG) | 316.00B |
+| <a href="Rows.svg"><img src="Rows.svg" width="250"></a> | **Rows.svg**<br>Vector (SVG) | 1.27KB |
+| <a href="Ruler.svg"><img src="Ruler.svg" width="250"></a> | **Ruler.svg**<br>Vector (SVG) | 939.00B |
+| <a href="Select_Multiple.svg"><img src="Select_Multiple.svg" width="250"></a> | **Select_Multiple.svg**<br>Vector (SVG) | 876.00B |
+| <a href="Show.svg"><img src="Show.svg" width="250"></a> | **Show.svg**<br>Vector (SVG) | 877.00B |
+| <a href="Single_Quotes_L.svg"><img src="Single_Quotes_L.svg" width="250"></a> | **Single_Quotes_L.svg**<br>Vector (SVG) | 607.00B |
+| <a href="Single_Quotes_R.svg"><img src="Single_Quotes_R.svg" width="250"></a> | **Single_Quotes_R.svg**<br>Vector (SVG) | 609.00B |
+| <a href="Sort_Ascending.svg"><img src="Sort_Ascending.svg" width="250"></a> | **Sort_Ascending.svg**<br>Vector (SVG) | 251.00B |
+| <a href="Sort_Descending.svg"><img src="Sort_Descending.svg" width="250"></a> | **Sort_Descending.svg**<br>Vector (SVG) | 246.00B |
+| <a href="Strikethrough.svg"><img src="Strikethrough.svg" width="250"></a> | **Strikethrough.svg**<br>Vector (SVG) | 974.00B |
+| <a href="Swatches_Palette.svg"><img src="Swatches_Palette.svg" width="250"></a> | **Swatches_Palette.svg**<br>Vector (SVG) | 730.00B |
+| <a href="Table.svg"><img src="Table.svg" width="250"></a> | **Table.svg**<br>Vector (SVG) | 788.00B |
+| <a href="Table_Add.svg"><img src="Table_Add.svg" width="250"></a> | **Table_Add.svg**<br>Vector (SVG) | 711.00B |
+| <a href="Table_Remove.svg"><img src="Table_Remove.svg" width="250"></a> | **Table_Remove.svg**<br>Vector (SVG) | 684.00B |
+| <a href="Text.svg"><img src="Text.svg" width="250"></a> | **Text.svg**<br>Vector (SVG) | 240.00B |
+| <a href="Text_Align_Center.svg"><img src="Text_Align_Center.svg" width="250"></a> | **Text_Align_Center.svg**<br>Vector (SVG) | 226.00B |
+| <a href="Text_Align_Justify.svg"><img src="Text_Align_Justify.svg" width="250"></a> | **Text_Align_Justify.svg**<br>Vector (SVG) | 226.00B |
+| <a href="Text_Align_Left.svg"><img src="Text_Align_Left.svg" width="250"></a> | **Text_Align_Left.svg**<br>Vector (SVG) | 226.00B |
+| <a href="Text_Align_Right.svg"><img src="Text_Align_Right.svg" width="250"></a> | **Text_Align_Right.svg**<br>Vector (SVG) | 228.00B |
+| <a href="Underline.svg"><img src="Underline.svg" width="250"></a> | **Underline.svg**<br>Vector (SVG) | 267.00B |
+| <a href="Undo.svg"><img src="Undo.svg" width="250"></a> | **Undo.svg**<br>Vector (SVG) | 597.00B |

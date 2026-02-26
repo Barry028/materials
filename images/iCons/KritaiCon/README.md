@@ -1,289 +1,289 @@
-# 🖼️ KritaiCon Gallery
+# 🖼️ KritaiCon 素材庫
 
-[⬅️ 回到首頁](../../README.md)
+[⬅️ 返回主目錄](../../README.md)
 
-| 預覽 | 詳細資訊 |
+| 預覽 (點擊放大) | 檔案資訊 |
 | :--- | :--- |
-| <a href="16_dark_align-horizontal-right.svg"><img src="16_dark_align-horizontal-right.svg" width="250" alt="16_dark_align-horizontal-right.svg"></a> | **16_dark_align-horizontal-right.svg**<br>Vector (SVG) \| 223.00B<br>更新: 2026-02-26 |
-| <a href="16_dark_align-vertical-bottom.svg"><img src="16_dark_align-vertical-bottom.svg" width="250" alt="16_dark_align-vertical-bottom.svg"></a> | **16_dark_align-vertical-bottom.svg**<br>Vector (SVG) \| 3.14KB<br>更新: 2026-02-26 |
-| <a href="16_dark_align-vertical-center.svg"><img src="16_dark_align-vertical-center.svg" width="250" alt="16_dark_align-vertical-center.svg"></a> | **16_dark_align-vertical-center.svg**<br>Vector (SVG) \| 3.14KB<br>更新: 2026-02-26 |
-| <a href="16_dark_application-x-krz.svg"><img src="16_dark_application-x-krz.svg" width="250" alt="16_dark_application-x-krz.svg"></a> | **16_dark_application-x-krz.svg**<br>Vector (SVG) \| 1.83KB<br>更新: 2026-02-26 |
-| <a href="16_dark_character-set.svg"><img src="16_dark_character-set.svg" width="250" alt="16_dark_character-set.svg"></a> | **16_dark_character-set.svg**<br>Vector (SVG) \| 2.97KB<br>更新: 2026-02-26 |
-| <a href="16_dark_draw-arrow-back.svg"><img src="16_dark_draw-arrow-back.svg" width="250" alt="16_dark_draw-arrow-back.svg"></a> | **16_dark_draw-arrow-back.svg**<br>Vector (SVG) \| 2.80KB<br>更新: 2026-02-26 |
-| <a href="16_dark_draw-arrow-down.svg"><img src="16_dark_draw-arrow-down.svg" width="250" alt="16_dark_draw-arrow-down.svg"></a> | **16_dark_draw-arrow-down.svg**<br>Vector (SVG) \| 2.80KB<br>更新: 2026-02-26 |
-| <a href="16_dark_draw-arrow-forward.svg"><img src="16_dark_draw-arrow-forward.svg" width="250" alt="16_dark_draw-arrow-forward.svg"></a> | **16_dark_draw-arrow-forward.svg**<br>Vector (SVG) \| 2.80KB<br>更新: 2026-02-26 |
-| <a href="16_dark_draw-arrow-up.svg"><img src="16_dark_draw-arrow-up.svg" width="250" alt="16_dark_draw-arrow-up.svg"></a> | **16_dark_draw-arrow-up.svg**<br>Vector (SVG) \| 2.79KB<br>更新: 2026-02-26 |
-| <a href="16_dark_draw-freehand.svg"><img src="16_dark_draw-freehand.svg" width="250" alt="16_dark_draw-freehand.svg"></a> | **16_dark_draw-freehand.svg**<br>Vector (SVG) \| 3.85KB<br>更新: 2026-02-26 |
-| <a href="16_dark_edit-rename.svg"><img src="16_dark_edit-rename.svg" width="250" alt="16_dark_edit-rename.svg"></a> | **16_dark_edit-rename.svg**<br>Vector (SVG) \| 3.00KB<br>更新: 2026-02-26 |
-| <a href="16_dark_edit-select-all.svg"><img src="16_dark_edit-select-all.svg" width="250" alt="16_dark_edit-select-all.svg"></a> | **16_dark_edit-select-all.svg**<br>Vector (SVG) \| 4.21KB<br>更新: 2026-02-26 |
-| <a href="16_dark_format-indent-less.svg"><img src="16_dark_format-indent-less.svg" width="250" alt="16_dark_format-indent-less.svg"></a> | **16_dark_format-indent-less.svg**<br>Vector (SVG) \| 3.03KB<br>更新: 2026-02-26 |
-| <a href="16_dark_format-indent-more.svg"><img src="16_dark_format-indent-more.svg" width="250" alt="16_dark_format-indent-more.svg"></a> | **16_dark_format-indent-more.svg**<br>Vector (SVG) \| 3.06KB<br>更新: 2026-02-26 |
-| <a href="16_dark_format-justify-center.svg"><img src="16_dark_format-justify-center.svg" width="250" alt="16_dark_format-justify-center.svg"></a> | **16_dark_format-justify-center.svg**<br>Vector (SVG) \| 3.12KB<br>更新: 2026-02-26 |
-| <a href="16_dark_format-justify-fill.svg"><img src="16_dark_format-justify-fill.svg" width="250" alt="16_dark_format-justify-fill.svg"></a> | **16_dark_format-justify-fill.svg**<br>Vector (SVG) \| 3.12KB<br>更新: 2026-02-26 |
-| <a href="16_dark_format-justify-left.svg"><img src="16_dark_format-justify-left.svg" width="250" alt="16_dark_format-justify-left.svg"></a> | **16_dark_format-justify-left.svg**<br>Vector (SVG) \| 4.70KB<br>更新: 2026-02-26 |
-| <a href="16_dark_format-justify-right.svg"><img src="16_dark_format-justify-right.svg" width="250" alt="16_dark_format-justify-right.svg"></a> | **16_dark_format-justify-right.svg**<br>Vector (SVG) \| 4.87KB<br>更新: 2026-02-26 |
-| <a href="16_dark_format-list-ordered.svg"><img src="16_dark_format-list-ordered.svg" width="250" alt="16_dark_format-list-ordered.svg"></a> | **16_dark_format-list-ordered.svg**<br>Vector (SVG) \| 3.41KB<br>更新: 2026-02-26 |
-| <a href="16_dark_format-stroke-color.svg"><img src="16_dark_format-stroke-color.svg" width="250" alt="16_dark_format-stroke-color.svg"></a> | **16_dark_format-stroke-color.svg**<br>Vector (SVG) \| 3.97KB<br>更新: 2026-02-26 |
-| <a href="16_dark_format-text-bold.svg"><img src="16_dark_format-text-bold.svg" width="250" alt="16_dark_format-text-bold.svg"></a> | **16_dark_format-text-bold.svg**<br>Vector (SVG) \| 3.19KB<br>更新: 2026-02-26 |
-| <a href="16_dark_format-text-color.svg"><img src="16_dark_format-text-color.svg" width="250" alt="16_dark_format-text-color.svg"></a> | **16_dark_format-text-color.svg**<br>Vector (SVG) \| 3.10KB<br>更新: 2026-02-26 |
-| <a href="16_dark_format-text-direction-rtl.svg"><img src="16_dark_format-text-direction-rtl.svg" width="250" alt="16_dark_format-text-direction-rtl.svg"></a> | **16_dark_format-text-direction-rtl.svg**<br>Vector (SVG) \| 4.75KB<br>更新: 2026-02-26 |
-| <a href="16_dark_format-text-italic.svg"><img src="16_dark_format-text-italic.svg" width="250" alt="16_dark_format-text-italic.svg"></a> | **16_dark_format-text-italic.svg**<br>Vector (SVG) \| 3.38KB<br>更新: 2026-02-26 |
-| <a href="16_dark_format-text-strikethrough.svg"><img src="16_dark_format-text-strikethrough.svg" width="250" alt="16_dark_format-text-strikethrough.svg"></a> | **16_dark_format-text-strikethrough.svg**<br>Vector (SVG) \| 3.03KB<br>更新: 2026-02-26 |
-| <a href="16_dark_format-text-subscript.svg"><img src="16_dark_format-text-subscript.svg" width="250" alt="16_dark_format-text-subscript.svg"></a> | **16_dark_format-text-subscript.svg**<br>Vector (SVG) \| 19.23KB<br>更新: 2026-02-26 |
-| <a href="16_dark_format-text-superscript.svg"><img src="16_dark_format-text-superscript.svg" width="250" alt="16_dark_format-text-superscript.svg"></a> | **16_dark_format-text-superscript.svg**<br>Vector (SVG) \| 3.63KB<br>更新: 2026-02-26 |
-| <a href="16_dark_format-text-underline.svg"><img src="16_dark_format-text-underline.svg" width="250" alt="16_dark_format-text-underline.svg"></a> | **16_dark_format-text-underline.svg**<br>Vector (SVG) \| 3.24KB<br>更新: 2026-02-26 |
-| <a href="16_dark_insert-text.svg"><img src="16_dark_insert-text.svg" width="250" alt="16_dark_insert-text.svg"></a> | **16_dark_insert-text.svg**<br>Vector (SVG) \| 5.04KB<br>更新: 2026-02-26 |
-| <a href="16_dark_media-floppy.svg"><img src="16_dark_media-floppy.svg" width="250" alt="16_dark_media-floppy.svg"></a> | **16_dark_media-floppy.svg**<br>Vector (SVG) \| 3.00KB<br>更新: 2026-02-26 |
-| <a href="16_dark_object-align-horizontal-center-calligra.svg"><img src="16_dark_object-align-horizontal-center-calligra.svg" width="250" alt="16_dark_object-align-horizontal-center-calligra.svg"></a> | **16_dark_object-align-horizontal-center-calligra.svg**<br>Vector (SVG) \| 3.18KB<br>更新: 2026-02-26 |
-| <a href="16_dark_object-align-horizontal-left-calligra.svg"><img src="16_dark_object-align-horizontal-left-calligra.svg" width="250" alt="16_dark_object-align-horizontal-left-calligra.svg"></a> | **16_dark_object-align-horizontal-left-calligra.svg**<br>Vector (SVG) \| 3.10KB<br>更新: 2026-02-26 |
-| <a href="16_dark_object-align-vertical-top-calligra.svg"><img src="16_dark_object-align-vertical-top-calligra.svg" width="250" alt="16_dark_object-align-vertical-top-calligra.svg"></a> | **16_dark_object-align-vertical-top-calligra.svg**<br>Vector (SVG) \| 3.00KB<br>更新: 2026-02-26 |
-| <a href="16_dark_object-group-calligra.svg"><img src="16_dark_object-group-calligra.svg" width="250" alt="16_dark_object-group-calligra.svg"></a> | **16_dark_object-group-calligra.svg**<br>Vector (SVG) \| 3.23KB<br>更新: 2026-02-26 |
-| <a href="16_dark_shape-choose.svg"><img src="16_dark_shape-choose.svg" width="250" alt="16_dark_shape-choose.svg"></a> | **16_dark_shape-choose.svg**<br>Vector (SVG) \| 3.60KB<br>更新: 2026-02-26 |
-| <a href="16_dark_snap-extension.svg"><img src="16_dark_snap-extension.svg" width="250" alt="16_dark_snap-extension.svg"></a> | **16_dark_snap-extension.svg**<br>Vector (SVG) \| 3.41KB<br>更新: 2026-02-26 |
-| <a href="16_dark_snap-guideline.svg"><img src="16_dark_snap-guideline.svg" width="250" alt="16_dark_snap-guideline.svg"></a> | **16_dark_snap-guideline.svg**<br>Vector (SVG) \| 4.09KB<br>更新: 2026-02-26 |
-| <a href="16_dark_snap-intersection.svg"><img src="16_dark_snap-intersection.svg" width="250" alt="16_dark_snap-intersection.svg"></a> | **16_dark_snap-intersection.svg**<br>Vector (SVG) \| 3.07KB<br>更新: 2026-02-26 |
-| <a href="16_dark_snap-node.svg"><img src="16_dark_snap-node.svg" width="250" alt="16_dark_snap-node.svg"></a> | **16_dark_snap-node.svg**<br>Vector (SVG) \| 3.59KB<br>更新: 2026-02-26 |
-| <a href="16_dark_split.svg"><img src="16_dark_split.svg" width="250" alt="16_dark_split.svg"></a> | **16_dark_split.svg**<br>Vector (SVG) \| 2.88KB<br>更新: 2026-02-26 |
-| <a href="16_dark_tab-new.svg"><img src="16_dark_tab-new.svg" width="250" alt="16_dark_tab-new.svg"></a> | **16_dark_tab-new.svg**<br>Vector (SVG) \| 3.29KB<br>更新: 2026-02-26 |
-| <a href="16_dark_transform-move.svg"><img src="16_dark_transform-move.svg" width="250" alt="16_dark_transform-move.svg"></a> | **16_dark_transform-move.svg**<br>Vector (SVG) \| 3.33KB<br>更新: 2026-02-26 |
-| <a href="16_dark_trash-empty.svg"><img src="16_dark_trash-empty.svg" width="250" alt="16_dark_trash-empty.svg"></a> | **16_dark_trash-empty.svg**<br>Vector (SVG) \| 2.92KB<br>更新: 2026-02-26 |
-| <a href="16_dark_warning.svg"><img src="16_dark_warning.svg" width="250" alt="16_dark_warning.svg"></a> | **16_dark_warning.svg**<br>Vector (SVG) \| 3.14KB<br>更新: 2026-02-26 |
-| <a href="16_dark_zoom-fit-best.svg"><img src="16_dark_zoom-fit-best.svg" width="250" alt="16_dark_zoom-fit-best.svg"></a> | **16_dark_zoom-fit-best.svg**<br>Vector (SVG) \| 3.16KB<br>更新: 2026-02-26 |
-| <a href="16_light_align-horizontal-right.svg"><img src="16_light_align-horizontal-right.svg" width="250" alt="16_light_align-horizontal-right.svg"></a> | **16_light_align-horizontal-right.svg**<br>Vector (SVG) \| 3.10KB<br>更新: 2026-02-26 |
-| <a href="16_light_align-vertical-bottom.svg"><img src="16_light_align-vertical-bottom.svg" width="250" alt="16_light_align-vertical-bottom.svg"></a> | **16_light_align-vertical-bottom.svg**<br>Vector (SVG) \| 3.14KB<br>更新: 2026-02-26 |
-| <a href="16_light_align-vertical-center.svg"><img src="16_light_align-vertical-center.svg" width="250" alt="16_light_align-vertical-center.svg"></a> | **16_light_align-vertical-center.svg**<br>Vector (SVG) \| 3.14KB<br>更新: 2026-02-26 |
-| <a href="16_light_application-x-krita.svg"><img src="16_light_application-x-krita.svg" width="250" alt="16_light_application-x-krita.svg"></a> | **16_light_application-x-krita.svg**<br>Vector (SVG) \| 1.48KB<br>更新: 2026-02-26 |
-| <a href="16_light_application-x-krz.svg"><img src="16_light_application-x-krz.svg" width="250" alt="16_light_application-x-krz.svg"></a> | **16_light_application-x-krz.svg**<br>Vector (SVG) \| 1.83KB<br>更新: 2026-02-26 |
-| <a href="16_light_application-x-wmf.svg"><img src="16_light_application-x-wmf.svg" width="250" alt="16_light_application-x-wmf.svg"></a> | **16_light_application-x-wmf.svg**<br>Vector (SVG) \| 3.78KB<br>更新: 2026-02-26 |
-| <a href="16_light_character-set.svg"><img src="16_light_character-set.svg" width="250" alt="16_light_character-set.svg"></a> | **16_light_character-set.svg**<br>Vector (SVG) \| 2.97KB<br>更新: 2026-02-26 |
-| <a href="16_light_draw-arrow-back.svg"><img src="16_light_draw-arrow-back.svg" width="250" alt="16_light_draw-arrow-back.svg"></a> | **16_light_draw-arrow-back.svg**<br>Vector (SVG) \| 2.80KB<br>更新: 2026-02-26 |
-| <a href="16_light_draw-arrow-down.svg"><img src="16_light_draw-arrow-down.svg" width="250" alt="16_light_draw-arrow-down.svg"></a> | **16_light_draw-arrow-down.svg**<br>Vector (SVG) \| 2.80KB<br>更新: 2026-02-26 |
-| <a href="16_light_draw-arrow-forward.svg"><img src="16_light_draw-arrow-forward.svg" width="250" alt="16_light_draw-arrow-forward.svg"></a> | **16_light_draw-arrow-forward.svg**<br>Vector (SVG) \| 2.80KB<br>更新: 2026-02-26 |
-| <a href="16_light_draw-arrow-up.svg"><img src="16_light_draw-arrow-up.svg" width="250" alt="16_light_draw-arrow-up.svg"></a> | **16_light_draw-arrow-up.svg**<br>Vector (SVG) \| 2.79KB<br>更新: 2026-02-26 |
-| <a href="16_light_draw-freehand.svg"><img src="16_light_draw-freehand.svg" width="250" alt="16_light_draw-freehand.svg"></a> | **16_light_draw-freehand.svg**<br>Vector (SVG) \| 3.85KB<br>更新: 2026-02-26 |
-| <a href="16_light_edit-rename.svg"><img src="16_light_edit-rename.svg" width="250" alt="16_light_edit-rename.svg"></a> | **16_light_edit-rename.svg**<br>Vector (SVG) \| 3.00KB<br>更新: 2026-02-26 |
-| <a href="16_light_edit-select-all.svg"><img src="16_light_edit-select-all.svg" width="250" alt="16_light_edit-select-all.svg"></a> | **16_light_edit-select-all.svg**<br>Vector (SVG) \| 4.21KB<br>更新: 2026-02-26 |
-| <a href="16_light_format-indent-less.svg"><img src="16_light_format-indent-less.svg" width="250" alt="16_light_format-indent-less.svg"></a> | **16_light_format-indent-less.svg**<br>Vector (SVG) \| 3.03KB<br>更新: 2026-02-26 |
-| <a href="16_light_format-indent-more.svg"><img src="16_light_format-indent-more.svg" width="250" alt="16_light_format-indent-more.svg"></a> | **16_light_format-indent-more.svg**<br>Vector (SVG) \| 3.06KB<br>更新: 2026-02-26 |
-| <a href="16_light_format-justify-center.svg"><img src="16_light_format-justify-center.svg" width="250" alt="16_light_format-justify-center.svg"></a> | **16_light_format-justify-center.svg**<br>Vector (SVG) \| 3.12KB<br>更新: 2026-02-26 |
-| <a href="16_light_format-justify-fill.svg"><img src="16_light_format-justify-fill.svg" width="250" alt="16_light_format-justify-fill.svg"></a> | **16_light_format-justify-fill.svg**<br>Vector (SVG) \| 3.12KB<br>更新: 2026-02-26 |
-| <a href="16_light_format-justify-left.svg"><img src="16_light_format-justify-left.svg" width="250" alt="16_light_format-justify-left.svg"></a> | **16_light_format-justify-left.svg**<br>Vector (SVG) \| 4.70KB<br>更新: 2026-02-26 |
-| <a href="16_light_format-justify-right.svg"><img src="16_light_format-justify-right.svg" width="250" alt="16_light_format-justify-right.svg"></a> | **16_light_format-justify-right.svg**<br>Vector (SVG) \| 4.87KB<br>更新: 2026-02-26 |
-| <a href="16_light_format-list-ordered.svg"><img src="16_light_format-list-ordered.svg" width="250" alt="16_light_format-list-ordered.svg"></a> | **16_light_format-list-ordered.svg**<br>Vector (SVG) \| 3.41KB<br>更新: 2026-02-26 |
-| <a href="16_light_format-stroke-color.svg"><img src="16_light_format-stroke-color.svg" width="250" alt="16_light_format-stroke-color.svg"></a> | **16_light_format-stroke-color.svg**<br>Vector (SVG) \| 3.97KB<br>更新: 2026-02-26 |
-| <a href="16_light_format-text-bold.svg"><img src="16_light_format-text-bold.svg" width="250" alt="16_light_format-text-bold.svg"></a> | **16_light_format-text-bold.svg**<br>Vector (SVG) \| 3.19KB<br>更新: 2026-02-26 |
-| <a href="16_light_format-text-color.svg"><img src="16_light_format-text-color.svg" width="250" alt="16_light_format-text-color.svg"></a> | **16_light_format-text-color.svg**<br>Vector (SVG) \| 3.10KB<br>更新: 2026-02-26 |
-| <a href="16_light_format-text-direction-rtl.svg"><img src="16_light_format-text-direction-rtl.svg" width="250" alt="16_light_format-text-direction-rtl.svg"></a> | **16_light_format-text-direction-rtl.svg**<br>Vector (SVG) \| 4.75KB<br>更新: 2026-02-26 |
-| <a href="16_light_format-text-italic.svg"><img src="16_light_format-text-italic.svg" width="250" alt="16_light_format-text-italic.svg"></a> | **16_light_format-text-italic.svg**<br>Vector (SVG) \| 3.38KB<br>更新: 2026-02-26 |
-| <a href="16_light_format-text-strikethrough.svg"><img src="16_light_format-text-strikethrough.svg" width="250" alt="16_light_format-text-strikethrough.svg"></a> | **16_light_format-text-strikethrough.svg**<br>Vector (SVG) \| 3.03KB<br>更新: 2026-02-26 |
-| <a href="16_light_format-text-subscript.svg"><img src="16_light_format-text-subscript.svg" width="250" alt="16_light_format-text-subscript.svg"></a> | **16_light_format-text-subscript.svg**<br>Vector (SVG) \| 19.23KB<br>更新: 2026-02-26 |
-| <a href="16_light_format-text-superscript.svg"><img src="16_light_format-text-superscript.svg" width="250" alt="16_light_format-text-superscript.svg"></a> | **16_light_format-text-superscript.svg**<br>Vector (SVG) \| 3.63KB<br>更新: 2026-02-26 |
-| <a href="16_light_format-text-underline.svg"><img src="16_light_format-text-underline.svg" width="250" alt="16_light_format-text-underline.svg"></a> | **16_light_format-text-underline.svg**<br>Vector (SVG) \| 3.24KB<br>更新: 2026-02-26 |
-| <a href="16_light_insert-text.svg"><img src="16_light_insert-text.svg" width="250" alt="16_light_insert-text.svg"></a> | **16_light_insert-text.svg**<br>Vector (SVG) \| 5.04KB<br>更新: 2026-02-26 |
-| <a href="16_light_list-remove.svg"><img src="16_light_list-remove.svg" width="250" alt="16_light_list-remove.svg"></a> | **16_light_list-remove.svg**<br>Vector (SVG) \| 3.03KB<br>更新: 2026-02-26 |
-| <a href="16_light_media-floppy.svg"><img src="16_light_media-floppy.svg" width="250" alt="16_light_media-floppy.svg"></a> | **16_light_media-floppy.svg**<br>Vector (SVG) \| 3.00KB<br>更新: 2026-02-26 |
-| <a href="16_light_object-align-horizontal-center-calligra.svg"><img src="16_light_object-align-horizontal-center-calligra.svg" width="250" alt="16_light_object-align-horizontal-center-calligra.svg"></a> | **16_light_object-align-horizontal-center-calligra.svg**<br>Vector (SVG) \| 3.18KB<br>更新: 2026-02-26 |
-| <a href="16_light_object-align-horizontal-left-calligra.svg"><img src="16_light_object-align-horizontal-left-calligra.svg" width="250" alt="16_light_object-align-horizontal-left-calligra.svg"></a> | **16_light_object-align-horizontal-left-calligra.svg**<br>Vector (SVG) \| 3.10KB<br>更新: 2026-02-26 |
-| <a href="16_light_object-align-vertical-top-calligra.svg"><img src="16_light_object-align-vertical-top-calligra.svg" width="250" alt="16_light_object-align-vertical-top-calligra.svg"></a> | **16_light_object-align-vertical-top-calligra.svg**<br>Vector (SVG) \| 3.00KB<br>更新: 2026-02-26 |
-| <a href="16_light_object-group-calligra.svg"><img src="16_light_object-group-calligra.svg" width="250" alt="16_light_object-group-calligra.svg"></a> | **16_light_object-group-calligra.svg**<br>Vector (SVG) \| 3.23KB<br>更新: 2026-02-26 |
-| <a href="16_light_shape-choose.svg"><img src="16_light_shape-choose.svg" width="250" alt="16_light_shape-choose.svg"></a> | **16_light_shape-choose.svg**<br>Vector (SVG) \| 3.60KB<br>更新: 2026-02-26 |
-| <a href="16_light_snap-extension.svg"><img src="16_light_snap-extension.svg" width="250" alt="16_light_snap-extension.svg"></a> | **16_light_snap-extension.svg**<br>Vector (SVG) \| 3.41KB<br>更新: 2026-02-26 |
-| <a href="16_light_snap-guideline.svg"><img src="16_light_snap-guideline.svg" width="250" alt="16_light_snap-guideline.svg"></a> | **16_light_snap-guideline.svg**<br>Vector (SVG) \| 4.09KB<br>更新: 2026-02-26 |
-| <a href="16_light_snap-intersection.svg"><img src="16_light_snap-intersection.svg" width="250" alt="16_light_snap-intersection.svg"></a> | **16_light_snap-intersection.svg**<br>Vector (SVG) \| 3.07KB<br>更新: 2026-02-26 |
-| <a href="16_light_snap-node.svg"><img src="16_light_snap-node.svg" width="250" alt="16_light_snap-node.svg"></a> | **16_light_snap-node.svg**<br>Vector (SVG) \| 3.59KB<br>更新: 2026-02-26 |
-| <a href="16_light_split.svg"><img src="16_light_split.svg" width="250" alt="16_light_split.svg"></a> | **16_light_split.svg**<br>Vector (SVG) \| 2.88KB<br>更新: 2026-02-26 |
-| <a href="16_light_tab-close.svg"><img src="16_light_tab-close.svg" width="250" alt="16_light_tab-close.svg"></a> | **16_light_tab-close.svg**<br>Vector (SVG) \| 3.05KB<br>更新: 2026-02-26 |
-| <a href="16_light_tab-new.svg"><img src="16_light_tab-new.svg" width="250" alt="16_light_tab-new.svg"></a> | **16_light_tab-new.svg**<br>Vector (SVG) \| 3.29KB<br>更新: 2026-02-26 |
-| <a href="16_light_transform-move.svg"><img src="16_light_transform-move.svg" width="250" alt="16_light_transform-move.svg"></a> | **16_light_transform-move.svg**<br>Vector (SVG) \| 3.33KB<br>更新: 2026-02-26 |
-| <a href="16_light_trash-empty.svg"><img src="16_light_trash-empty.svg" width="250" alt="16_light_trash-empty.svg"></a> | **16_light_trash-empty.svg**<br>Vector (SVG) \| 2.92KB<br>更新: 2026-02-26 |
-| <a href="16_light_warning.svg"><img src="16_light_warning.svg" width="250" alt="16_light_warning.svg"></a> | **16_light_warning.svg**<br>Vector (SVG) \| 3.14KB<br>更新: 2026-02-26 |
-| <a href="16_light_zoom-fit-best.svg"><img src="16_light_zoom-fit-best.svg" width="250" alt="16_light_zoom-fit-best.svg"></a> | **16_light_zoom-fit-best.svg**<br>Vector (SVG) \| 3.16KB<br>更新: 2026-02-26 |
-| <a href="22_dark_align-horizontal-right.svg"><img src="22_dark_align-horizontal-right.svg" width="250" alt="22_dark_align-horizontal-right.svg"></a> | **22_dark_align-horizontal-right.svg**<br>Vector (SVG) \| 3.31KB<br>更新: 2026-02-26 |
-| <a href="22_dark_align-vertical-bottom.svg"><img src="22_dark_align-vertical-bottom.svg" width="250" alt="22_dark_align-vertical-bottom.svg"></a> | **22_dark_align-vertical-bottom.svg**<br>Vector (SVG) \| 3.36KB<br>更新: 2026-02-26 |
-| <a href="22_dark_align-vertical-center.svg"><img src="22_dark_align-vertical-center.svg" width="250" alt="22_dark_align-vertical-center.svg"></a> | **22_dark_align-vertical-center.svg**<br>Vector (SVG) \| 3.39KB<br>更新: 2026-02-26 |
-| <a href="22_dark_application-x-krz.svg"><img src="22_dark_application-x-krz.svg" width="250" alt="22_dark_application-x-krz.svg"></a> | **22_dark_application-x-krz.svg**<br>Vector (SVG) \| 3.74KB<br>更新: 2026-02-26 |
-| <a href="22_dark_character-set.svg"><img src="22_dark_character-set.svg" width="250" alt="22_dark_character-set.svg"></a> | **22_dark_character-set.svg**<br>Vector (SVG) \| 4.03KB<br>更新: 2026-02-26 |
-| <a href="22_dark_draw-arrow-back.svg"><img src="22_dark_draw-arrow-back.svg" width="250" alt="22_dark_draw-arrow-back.svg"></a> | **22_dark_draw-arrow-back.svg**<br>Vector (SVG) \| 6.80KB<br>更新: 2026-02-26 |
-| <a href="22_dark_draw-arrow-down.svg"><img src="22_dark_draw-arrow-down.svg" width="250" alt="22_dark_draw-arrow-down.svg"></a> | **22_dark_draw-arrow-down.svg**<br>Vector (SVG) \| 7.28KB<br>更新: 2026-02-26 |
-| <a href="22_dark_draw-arrow-forward.svg"><img src="22_dark_draw-arrow-forward.svg" width="250" alt="22_dark_draw-arrow-forward.svg"></a> | **22_dark_draw-arrow-forward.svg**<br>Vector (SVG) \| 7.83KB<br>更新: 2026-02-26 |
-| <a href="22_dark_draw-arrow-up.svg"><img src="22_dark_draw-arrow-up.svg" width="250" alt="22_dark_draw-arrow-up.svg"></a> | **22_dark_draw-arrow-up.svg**<br>Vector (SVG) \| 6.49KB<br>更新: 2026-02-26 |
-| <a href="22_dark_draw-freehand.svg"><img src="22_dark_draw-freehand.svg" width="250" alt="22_dark_draw-freehand.svg"></a> | **22_dark_draw-freehand.svg**<br>Vector (SVG) \| 5.09KB<br>更新: 2026-02-26 |
-| <a href="22_dark_edit-rename.svg"><img src="22_dark_edit-rename.svg" width="250" alt="22_dark_edit-rename.svg"></a> | **22_dark_edit-rename.svg**<br>Vector (SVG) \| 5.74KB<br>更新: 2026-02-26 |
-| <a href="22_dark_edit-select-all.svg"><img src="22_dark_edit-select-all.svg" width="250" alt="22_dark_edit-select-all.svg"></a> | **22_dark_edit-select-all.svg**<br>Vector (SVG) \| 3.31KB<br>更新: 2026-02-26 |
-| <a href="22_dark_format-indent-less.svg"><img src="22_dark_format-indent-less.svg" width="250" alt="22_dark_format-indent-less.svg"></a> | **22_dark_format-indent-less.svg**<br>Vector (SVG) \| 3.25KB<br>更新: 2026-02-26 |
-| <a href="22_dark_format-indent-more.svg"><img src="22_dark_format-indent-more.svg" width="250" alt="22_dark_format-indent-more.svg"></a> | **22_dark_format-indent-more.svg**<br>Vector (SVG) \| 3.13KB<br>更新: 2026-02-26 |
-| <a href="22_dark_format-justify-center.svg"><img src="22_dark_format-justify-center.svg" width="250" alt="22_dark_format-justify-center.svg"></a> | **22_dark_format-justify-center.svg**<br>Vector (SVG) \| 3.11KB<br>更新: 2026-02-26 |
-| <a href="22_dark_format-justify-fill.svg"><img src="22_dark_format-justify-fill.svg" width="250" alt="22_dark_format-justify-fill.svg"></a> | **22_dark_format-justify-fill.svg**<br>Vector (SVG) \| 3.12KB<br>更新: 2026-02-26 |
-| <a href="22_dark_format-justify-left.svg"><img src="22_dark_format-justify-left.svg" width="250" alt="22_dark_format-justify-left.svg"></a> | **22_dark_format-justify-left.svg**<br>Vector (SVG) \| 3.35KB<br>更新: 2026-02-26 |
-| <a href="22_dark_format-justify-right.svg"><img src="22_dark_format-justify-right.svg" width="250" alt="22_dark_format-justify-right.svg"></a> | **22_dark_format-justify-right.svg**<br>Vector (SVG) \| 3.31KB<br>更新: 2026-02-26 |
-| <a href="22_dark_format-list-ordered.svg"><img src="22_dark_format-list-ordered.svg" width="250" alt="22_dark_format-list-ordered.svg"></a> | **22_dark_format-list-ordered.svg**<br>Vector (SVG) \| 3.22KB<br>更新: 2026-02-26 |
-| <a href="22_dark_format-stroke-color.svg"><img src="22_dark_format-stroke-color.svg" width="250" alt="22_dark_format-stroke-color.svg"></a> | **22_dark_format-stroke-color.svg**<br>Vector (SVG) \| 3.18KB<br>更新: 2026-02-26 |
-| <a href="22_dark_format-text-bold.svg"><img src="22_dark_format-text-bold.svg" width="250" alt="22_dark_format-text-bold.svg"></a> | **22_dark_format-text-bold.svg**<br>Vector (SVG) \| 3.40KB<br>更新: 2026-02-26 |
-| <a href="22_dark_format-text-color.svg"><img src="22_dark_format-text-color.svg" width="250" alt="22_dark_format-text-color.svg"></a> | **22_dark_format-text-color.svg**<br>Vector (SVG) \| 3.92KB<br>更新: 2026-02-26 |
-| <a href="22_dark_format-text-direction-rtl.svg"><img src="22_dark_format-text-direction-rtl.svg" width="250" alt="22_dark_format-text-direction-rtl.svg"></a> | **22_dark_format-text-direction-rtl.svg**<br>Vector (SVG) \| 3.43KB<br>更新: 2026-02-26 |
-| <a href="22_dark_format-text-italic.svg"><img src="22_dark_format-text-italic.svg" width="250" alt="22_dark_format-text-italic.svg"></a> | **22_dark_format-text-italic.svg**<br>Vector (SVG) \| 3.28KB<br>更新: 2026-02-26 |
-| <a href="22_dark_format-text-strikethrough.svg"><img src="22_dark_format-text-strikethrough.svg" width="250" alt="22_dark_format-text-strikethrough.svg"></a> | **22_dark_format-text-strikethrough.svg**<br>Vector (SVG) \| 3.22KB<br>更新: 2026-02-26 |
-| <a href="22_dark_format-text-subscript.svg"><img src="22_dark_format-text-subscript.svg" width="250" alt="22_dark_format-text-subscript.svg"></a> | **22_dark_format-text-subscript.svg**<br>Vector (SVG) \| 3.86KB<br>更新: 2026-02-26 |
-| <a href="22_dark_format-text-superscript.svg"><img src="22_dark_format-text-superscript.svg" width="250" alt="22_dark_format-text-superscript.svg"></a> | **22_dark_format-text-superscript.svg**<br>Vector (SVG) \| 3.75KB<br>更新: 2026-02-26 |
-| <a href="22_dark_format-text-underline.svg"><img src="22_dark_format-text-underline.svg" width="250" alt="22_dark_format-text-underline.svg"></a> | **22_dark_format-text-underline.svg**<br>Vector (SVG) \| 3.38KB<br>更新: 2026-02-26 |
-| <a href="22_dark_insert-text.svg"><img src="22_dark_insert-text.svg" width="250" alt="22_dark_insert-text.svg"></a> | **22_dark_insert-text.svg**<br>Vector (SVG) \| 3.11KB<br>更新: 2026-02-26 |
-| <a href="22_dark_media-floppy.svg"><img src="22_dark_media-floppy.svg" width="250" alt="22_dark_media-floppy.svg"></a> | **22_dark_media-floppy.svg**<br>Vector (SVG) \| 7.89KB<br>更新: 2026-02-26 |
-| <a href="22_dark_object-align-horizontal-center-calligra.svg"><img src="22_dark_object-align-horizontal-center-calligra.svg" width="250" alt="22_dark_object-align-horizontal-center-calligra.svg"></a> | **22_dark_object-align-horizontal-center-calligra.svg**<br>Vector (SVG) \| 3.49KB<br>更新: 2026-02-26 |
-| <a href="22_dark_object-align-horizontal-left-calligra.svg"><img src="22_dark_object-align-horizontal-left-calligra.svg" width="250" alt="22_dark_object-align-horizontal-left-calligra.svg"></a> | **22_dark_object-align-horizontal-left-calligra.svg**<br>Vector (SVG) \| 3.32KB<br>更新: 2026-02-26 |
-| <a href="22_dark_object-align-vertical-top-calligra.svg"><img src="22_dark_object-align-vertical-top-calligra.svg" width="250" alt="22_dark_object-align-vertical-top-calligra.svg"></a> | **22_dark_object-align-vertical-top-calligra.svg**<br>Vector (SVG) \| 3.31KB<br>更新: 2026-02-26 |
-| <a href="22_dark_object-group-calligra.svg"><img src="22_dark_object-group-calligra.svg" width="250" alt="22_dark_object-group-calligra.svg"></a> | **22_dark_object-group-calligra.svg**<br>Vector (SVG) \| 3.96KB<br>更新: 2026-02-26 |
-| <a href="22_dark_shape-choose.svg"><img src="22_dark_shape-choose.svg" width="250" alt="22_dark_shape-choose.svg"></a> | **22_dark_shape-choose.svg**<br>Vector (SVG) \| 3.30KB<br>更新: 2026-02-26 |
-| <a href="22_dark_snap-extension.svg"><img src="22_dark_snap-extension.svg" width="250" alt="22_dark_snap-extension.svg"></a> | **22_dark_snap-extension.svg**<br>Vector (SVG) \| 3.30KB<br>更新: 2026-02-26 |
-| <a href="22_dark_snap-guideline.svg"><img src="22_dark_snap-guideline.svg" width="250" alt="22_dark_snap-guideline.svg"></a> | **22_dark_snap-guideline.svg**<br>Vector (SVG) \| 3.36KB<br>更新: 2026-02-26 |
-| <a href="22_dark_snap-intersection.svg"><img src="22_dark_snap-intersection.svg" width="250" alt="22_dark_snap-intersection.svg"></a> | **22_dark_snap-intersection.svg**<br>Vector (SVG) \| 3.43KB<br>更新: 2026-02-26 |
-| <a href="22_dark_snap-node.svg"><img src="22_dark_snap-node.svg" width="250" alt="22_dark_snap-node.svg"></a> | **22_dark_snap-node.svg**<br>Vector (SVG) \| 3.32KB<br>更新: 2026-02-26 |
-| <a href="22_dark_snap-orthogonal.svg"><img src="22_dark_snap-orthogonal.svg" width="250" alt="22_dark_snap-orthogonal.svg"></a> | **22_dark_snap-orthogonal.svg**<br>Vector (SVG) \| 3.49KB<br>更新: 2026-02-26 |
-| <a href="22_dark_split.svg"><img src="22_dark_split.svg" width="250" alt="22_dark_split.svg"></a> | **22_dark_split.svg**<br>Vector (SVG) \| 3.22KB<br>更新: 2026-02-26 |
-| <a href="22_dark_tab-new.svg"><img src="22_dark_tab-new.svg" width="250" alt="22_dark_tab-new.svg"></a> | **22_dark_tab-new.svg**<br>Vector (SVG) \| 3.48KB<br>更新: 2026-02-26 |
-| <a href="22_dark_transform-move.svg"><img src="22_dark_transform-move.svg" width="250" alt="22_dark_transform-move.svg"></a> | **22_dark_transform-move.svg**<br>Vector (SVG) \| 3.56KB<br>更新: 2026-02-26 |
-| <a href="22_dark_trash-empty.svg"><img src="22_dark_trash-empty.svg" width="250" alt="22_dark_trash-empty.svg"></a> | **22_dark_trash-empty.svg**<br>Vector (SVG) \| 3.50KB<br>更新: 2026-02-26 |
-| <a href="22_dark_zoom-fit-best.svg"><img src="22_dark_zoom-fit-best.svg" width="250" alt="22_dark_zoom-fit-best.svg"></a> | **22_dark_zoom-fit-best.svg**<br>Vector (SVG) \| 4.89KB<br>更新: 2026-02-26 |
-| <a href="22_light_align-horizontal-right.svg"><img src="22_light_align-horizontal-right.svg" width="250" alt="22_light_align-horizontal-right.svg"></a> | **22_light_align-horizontal-right.svg**<br>Vector (SVG) \| 3.31KB<br>更新: 2026-02-26 |
-| <a href="22_light_align-vertical-bottom.svg"><img src="22_light_align-vertical-bottom.svg" width="250" alt="22_light_align-vertical-bottom.svg"></a> | **22_light_align-vertical-bottom.svg**<br>Vector (SVG) \| 3.36KB<br>更新: 2026-02-26 |
-| <a href="22_light_align-vertical-center.svg"><img src="22_light_align-vertical-center.svg" width="250" alt="22_light_align-vertical-center.svg"></a> | **22_light_align-vertical-center.svg**<br>Vector (SVG) \| 3.39KB<br>更新: 2026-02-26 |
-| <a href="22_light_application-x-krita.svg"><img src="22_light_application-x-krita.svg" width="250" alt="22_light_application-x-krita.svg"></a> | **22_light_application-x-krita.svg**<br>Vector (SVG) \| 3.39KB<br>更新: 2026-02-26 |
-| <a href="22_light_application-x-krz.svg"><img src="22_light_application-x-krz.svg" width="250" alt="22_light_application-x-krz.svg"></a> | **22_light_application-x-krz.svg**<br>Vector (SVG) \| 3.74KB<br>更新: 2026-02-26 |
-| <a href="22_light_application-x-wmf.svg"><img src="22_light_application-x-wmf.svg" width="250" alt="22_light_application-x-wmf.svg"></a> | **22_light_application-x-wmf.svg**<br>Vector (SVG) \| 4.93KB<br>更新: 2026-02-26 |
-| <a href="22_light_character-set.svg"><img src="22_light_character-set.svg" width="250" alt="22_light_character-set.svg"></a> | **22_light_character-set.svg**<br>Vector (SVG) \| 3.88KB<br>更新: 2026-02-26 |
-| <a href="22_light_draw-arrow-back.svg"><img src="22_light_draw-arrow-back.svg" width="250" alt="22_light_draw-arrow-back.svg"></a> | **22_light_draw-arrow-back.svg**<br>Vector (SVG) \| 6.80KB<br>更新: 2026-02-26 |
-| <a href="22_light_draw-arrow-down.svg"><img src="22_light_draw-arrow-down.svg" width="250" alt="22_light_draw-arrow-down.svg"></a> | **22_light_draw-arrow-down.svg**<br>Vector (SVG) \| 7.28KB<br>更新: 2026-02-26 |
-| <a href="22_light_draw-arrow-forward.svg"><img src="22_light_draw-arrow-forward.svg" width="250" alt="22_light_draw-arrow-forward.svg"></a> | **22_light_draw-arrow-forward.svg**<br>Vector (SVG) \| 7.83KB<br>更新: 2026-02-26 |
-| <a href="22_light_draw-arrow-up.svg"><img src="22_light_draw-arrow-up.svg" width="250" alt="22_light_draw-arrow-up.svg"></a> | **22_light_draw-arrow-up.svg**<br>Vector (SVG) \| 6.49KB<br>更新: 2026-02-26 |
-| <a href="22_light_draw-freehand.svg"><img src="22_light_draw-freehand.svg" width="250" alt="22_light_draw-freehand.svg"></a> | **22_light_draw-freehand.svg**<br>Vector (SVG) \| 5.09KB<br>更新: 2026-02-26 |
-| <a href="22_light_edit-rename.svg"><img src="22_light_edit-rename.svg" width="250" alt="22_light_edit-rename.svg"></a> | **22_light_edit-rename.svg**<br>Vector (SVG) \| 5.74KB<br>更新: 2026-02-26 |
-| <a href="22_light_edit-select-all.svg"><img src="22_light_edit-select-all.svg" width="250" alt="22_light_edit-select-all.svg"></a> | **22_light_edit-select-all.svg**<br>Vector (SVG) \| 3.33KB<br>更新: 2026-02-26 |
-| <a href="22_light_format-indent-less.svg"><img src="22_light_format-indent-less.svg" width="250" alt="22_light_format-indent-less.svg"></a> | **22_light_format-indent-less.svg**<br>Vector (SVG) \| 3.25KB<br>更新: 2026-02-26 |
-| <a href="22_light_format-indent-more.svg"><img src="22_light_format-indent-more.svg" width="250" alt="22_light_format-indent-more.svg"></a> | **22_light_format-indent-more.svg**<br>Vector (SVG) \| 3.13KB<br>更新: 2026-02-26 |
-| <a href="22_light_format-justify-center.svg"><img src="22_light_format-justify-center.svg" width="250" alt="22_light_format-justify-center.svg"></a> | **22_light_format-justify-center.svg**<br>Vector (SVG) \| 3.11KB<br>更新: 2026-02-26 |
-| <a href="22_light_format-justify-fill.svg"><img src="22_light_format-justify-fill.svg" width="250" alt="22_light_format-justify-fill.svg"></a> | **22_light_format-justify-fill.svg**<br>Vector (SVG) \| 3.12KB<br>更新: 2026-02-26 |
-| <a href="22_light_format-justify-left.svg"><img src="22_light_format-justify-left.svg" width="250" alt="22_light_format-justify-left.svg"></a> | **22_light_format-justify-left.svg**<br>Vector (SVG) \| 3.35KB<br>更新: 2026-02-26 |
-| <a href="22_light_format-justify-right.svg"><img src="22_light_format-justify-right.svg" width="250" alt="22_light_format-justify-right.svg"></a> | **22_light_format-justify-right.svg**<br>Vector (SVG) \| 3.31KB<br>更新: 2026-02-26 |
-| <a href="22_light_format-list-ordered.svg"><img src="22_light_format-list-ordered.svg" width="250" alt="22_light_format-list-ordered.svg"></a> | **22_light_format-list-ordered.svg**<br>Vector (SVG) \| 3.22KB<br>更新: 2026-02-26 |
-| <a href="22_light_format-stroke-color.svg"><img src="22_light_format-stroke-color.svg" width="250" alt="22_light_format-stroke-color.svg"></a> | **22_light_format-stroke-color.svg**<br>Vector (SVG) \| 3.18KB<br>更新: 2026-02-26 |
-| <a href="22_light_format-text-bold.svg"><img src="22_light_format-text-bold.svg" width="250" alt="22_light_format-text-bold.svg"></a> | **22_light_format-text-bold.svg**<br>Vector (SVG) \| 3.40KB<br>更新: 2026-02-26 |
-| <a href="22_light_format-text-color.svg"><img src="22_light_format-text-color.svg" width="250" alt="22_light_format-text-color.svg"></a> | **22_light_format-text-color.svg**<br>Vector (SVG) \| 3.92KB<br>更新: 2026-02-26 |
-| <a href="22_light_format-text-direction-rtl.svg"><img src="22_light_format-text-direction-rtl.svg" width="250" alt="22_light_format-text-direction-rtl.svg"></a> | **22_light_format-text-direction-rtl.svg**<br>Vector (SVG) \| 3.43KB<br>更新: 2026-02-26 |
-| <a href="22_light_format-text-italic.svg"><img src="22_light_format-text-italic.svg" width="250" alt="22_light_format-text-italic.svg"></a> | **22_light_format-text-italic.svg**<br>Vector (SVG) \| 3.28KB<br>更新: 2026-02-26 |
-| <a href="22_light_format-text-strikethrough.svg"><img src="22_light_format-text-strikethrough.svg" width="250" alt="22_light_format-text-strikethrough.svg"></a> | **22_light_format-text-strikethrough.svg**<br>Vector (SVG) \| 3.22KB<br>更新: 2026-02-26 |
-| <a href="22_light_format-text-subscript.svg"><img src="22_light_format-text-subscript.svg" width="250" alt="22_light_format-text-subscript.svg"></a> | **22_light_format-text-subscript.svg**<br>Vector (SVG) \| 3.86KB<br>更新: 2026-02-26 |
-| <a href="22_light_format-text-superscript.svg"><img src="22_light_format-text-superscript.svg" width="250" alt="22_light_format-text-superscript.svg"></a> | **22_light_format-text-superscript.svg**<br>Vector (SVG) \| 3.75KB<br>更新: 2026-02-26 |
-| <a href="22_light_format-text-underline.svg"><img src="22_light_format-text-underline.svg" width="250" alt="22_light_format-text-underline.svg"></a> | **22_light_format-text-underline.svg**<br>Vector (SVG) \| 3.38KB<br>更新: 2026-02-26 |
-| <a href="22_light_insert-text.svg"><img src="22_light_insert-text.svg" width="250" alt="22_light_insert-text.svg"></a> | **22_light_insert-text.svg**<br>Vector (SVG) \| 3.11KB<br>更新: 2026-02-26 |
-| <a href="22_light_list-remove.svg"><img src="22_light_list-remove.svg" width="250" alt="22_light_list-remove.svg"></a> | **22_light_list-remove.svg**<br>Vector (SVG) \| 4.32KB<br>更新: 2026-02-26 |
-| <a href="22_light_media-floppy.svg"><img src="22_light_media-floppy.svg" width="250" alt="22_light_media-floppy.svg"></a> | **22_light_media-floppy.svg**<br>Vector (SVG) \| 7.89KB<br>更新: 2026-02-26 |
-| <a href="22_light_object-align-horizontal-center-calligra.svg"><img src="22_light_object-align-horizontal-center-calligra.svg" width="250" alt="22_light_object-align-horizontal-center-calligra.svg"></a> | **22_light_object-align-horizontal-center-calligra.svg**<br>Vector (SVG) \| 3.49KB<br>更新: 2026-02-26 |
-| <a href="22_light_object-align-horizontal-left-calligra.svg"><img src="22_light_object-align-horizontal-left-calligra.svg" width="250" alt="22_light_object-align-horizontal-left-calligra.svg"></a> | **22_light_object-align-horizontal-left-calligra.svg**<br>Vector (SVG) \| 3.32KB<br>更新: 2026-02-26 |
-| <a href="22_light_object-align-vertical-top-calligra.svg"><img src="22_light_object-align-vertical-top-calligra.svg" width="250" alt="22_light_object-align-vertical-top-calligra.svg"></a> | **22_light_object-align-vertical-top-calligra.svg**<br>Vector (SVG) \| 3.31KB<br>更新: 2026-02-26 |
-| <a href="22_light_object-group-calligra.svg"><img src="22_light_object-group-calligra.svg" width="250" alt="22_light_object-group-calligra.svg"></a> | **22_light_object-group-calligra.svg**<br>Vector (SVG) \| 3.96KB<br>更新: 2026-02-26 |
-| <a href="22_light_shape-choose.svg"><img src="22_light_shape-choose.svg" width="250" alt="22_light_shape-choose.svg"></a> | **22_light_shape-choose.svg**<br>Vector (SVG) \| 3.30KB<br>更新: 2026-02-26 |
-| <a href="22_light_snap-extension.svg"><img src="22_light_snap-extension.svg" width="250" alt="22_light_snap-extension.svg"></a> | **22_light_snap-extension.svg**<br>Vector (SVG) \| 3.30KB<br>更新: 2026-02-26 |
-| <a href="22_light_snap-guideline.svg"><img src="22_light_snap-guideline.svg" width="250" alt="22_light_snap-guideline.svg"></a> | **22_light_snap-guideline.svg**<br>Vector (SVG) \| 3.36KB<br>更新: 2026-02-26 |
-| <a href="22_light_snap-intersection.svg"><img src="22_light_snap-intersection.svg" width="250" alt="22_light_snap-intersection.svg"></a> | **22_light_snap-intersection.svg**<br>Vector (SVG) \| 3.43KB<br>更新: 2026-02-26 |
-| <a href="22_light_snap-node.svg"><img src="22_light_snap-node.svg" width="250" alt="22_light_snap-node.svg"></a> | **22_light_snap-node.svg**<br>Vector (SVG) \| 3.32KB<br>更新: 2026-02-26 |
-| <a href="22_light_snap-orthogonal.svg"><img src="22_light_snap-orthogonal.svg" width="250" alt="22_light_snap-orthogonal.svg"></a> | **22_light_snap-orthogonal.svg**<br>Vector (SVG) \| 3.49KB<br>更新: 2026-02-26 |
-| <a href="22_light_split.svg"><img src="22_light_split.svg" width="250" alt="22_light_split.svg"></a> | **22_light_split.svg**<br>Vector (SVG) \| 3.22KB<br>更新: 2026-02-26 |
-| <a href="22_light_tab-close.svg"><img src="22_light_tab-close.svg" width="250" alt="22_light_tab-close.svg"></a> | **22_light_tab-close.svg**<br>Vector (SVG) \| 3.54KB<br>更新: 2026-02-26 |
-| <a href="22_light_tab-new.svg"><img src="22_light_tab-new.svg" width="250" alt="22_light_tab-new.svg"></a> | **22_light_tab-new.svg**<br>Vector (SVG) \| 3.48KB<br>更新: 2026-02-26 |
-| <a href="22_light_transform-move.svg"><img src="22_light_transform-move.svg" width="250" alt="22_light_transform-move.svg"></a> | **22_light_transform-move.svg**<br>Vector (SVG) \| 3.56KB<br>更新: 2026-02-26 |
-| <a href="22_light_trash-empty.svg"><img src="22_light_trash-empty.svg" width="250" alt="22_light_trash-empty.svg"></a> | **22_light_trash-empty.svg**<br>Vector (SVG) \| 3.50KB<br>更新: 2026-02-26 |
-| <a href="22_light_zoom-fit-best.svg"><img src="22_light_zoom-fit-best.svg" width="250" alt="22_light_zoom-fit-best.svg"></a> | **22_light_zoom-fit-best.svg**<br>Vector (SVG) \| 4.89KB<br>更新: 2026-02-26 |
-| <a href="24_dark_align-horizontal-center.svg"><img src="24_dark_align-horizontal-center.svg" width="250" alt="24_dark_align-horizontal-center.svg"></a> | **24_dark_align-horizontal-center.svg**<br>Vector (SVG) \| 3.27KB<br>更新: 2026-02-26 |
-| <a href="24_dark_align-horizontal-left.svg"><img src="24_dark_align-horizontal-left.svg" width="250" alt="24_dark_align-horizontal-left.svg"></a> | **24_dark_align-horizontal-left.svg**<br>Vector (SVG) \| 3.19KB<br>更新: 2026-02-26 |
-| <a href="24_dark_align-horizontal-right.svg"><img src="24_dark_align-horizontal-right.svg" width="250" alt="24_dark_align-horizontal-right.svg"></a> | **24_dark_align-horizontal-right.svg**<br>Vector (SVG) \| 3.19KB<br>更新: 2026-02-26 |
-| <a href="24_dark_align-vertical-bottom.svg"><img src="24_dark_align-vertical-bottom.svg" width="250" alt="24_dark_align-vertical-bottom.svg"></a> | **24_dark_align-vertical-bottom.svg**<br>Vector (SVG) \| 3.19KB<br>更新: 2026-02-26 |
-| <a href="24_dark_align-vertical-center.svg"><img src="24_dark_align-vertical-center.svg" width="250" alt="24_dark_align-vertical-center.svg"></a> | **24_dark_align-vertical-center.svg**<br>Vector (SVG) \| 3.27KB<br>更新: 2026-02-26 |
-| <a href="24_dark_align-vertical-top.svg"><img src="24_dark_align-vertical-top.svg" width="250" alt="24_dark_align-vertical-top.svg"></a> | **24_dark_align-vertical-top.svg**<br>Vector (SVG) \| 3.19KB<br>更新: 2026-02-26 |
-| <a href="24_dark_character-set.svg"><img src="24_dark_character-set.svg" width="250" alt="24_dark_character-set.svg"></a> | **24_dark_character-set.svg**<br>Vector (SVG) \| 3.81KB<br>更新: 2026-02-26 |
-| <a href="24_dark_draw-arrow-back.svg"><img src="24_dark_draw-arrow-back.svg" width="250" alt="24_dark_draw-arrow-back.svg"></a> | **24_dark_draw-arrow-back.svg**<br>Vector (SVG) \| 14.93KB<br>更新: 2026-02-26 |
-| <a href="24_dark_draw-arrow-down.svg"><img src="24_dark_draw-arrow-down.svg" width="250" alt="24_dark_draw-arrow-down.svg"></a> | **24_dark_draw-arrow-down.svg**<br>Vector (SVG) \| 3.95KB<br>更新: 2026-02-26 |
-| <a href="24_dark_draw-arrow-forward.svg"><img src="24_dark_draw-arrow-forward.svg" width="250" alt="24_dark_draw-arrow-forward.svg"></a> | **24_dark_draw-arrow-forward.svg**<br>Vector (SVG) \| 3.94KB<br>更新: 2026-02-26 |
-| <a href="24_dark_draw-arrow-up.svg"><img src="24_dark_draw-arrow-up.svg" width="250" alt="24_dark_draw-arrow-up.svg"></a> | **24_dark_draw-arrow-up.svg**<br>Vector (SVG) \| 14.89KB<br>更新: 2026-02-26 |
-| <a href="24_dark_draw-freehand.svg"><img src="24_dark_draw-freehand.svg" width="250" alt="24_dark_draw-freehand.svg"></a> | **24_dark_draw-freehand.svg**<br>Vector (SVG) \| 5.20KB<br>更新: 2026-02-26 |
-| <a href="24_dark_edit-rename.svg"><img src="24_dark_edit-rename.svg" width="250" alt="24_dark_edit-rename.svg"></a> | **24_dark_edit-rename.svg**<br>Vector (SVG) \| 9.30KB<br>更新: 2026-02-26 |
-| <a href="24_dark_edit-select-all.svg"><img src="24_dark_edit-select-all.svg" width="250" alt="24_dark_edit-select-all.svg"></a> | **24_dark_edit-select-all.svg**<br>Vector (SVG) \| 3.67KB<br>更新: 2026-02-26 |
-| <a href="24_dark_format-indent-less.svg"><img src="24_dark_format-indent-less.svg" width="250" alt="24_dark_format-indent-less.svg"></a> | **24_dark_format-indent-less.svg**<br>Vector (SVG) \| 3.53KB<br>更新: 2026-02-26 |
-| <a href="24_dark_format-indent-more.svg"><img src="24_dark_format-indent-more.svg" width="250" alt="24_dark_format-indent-more.svg"></a> | **24_dark_format-indent-more.svg**<br>Vector (SVG) \| 3.40KB<br>更新: 2026-02-26 |
-| <a href="24_dark_format-justify-center.svg"><img src="24_dark_format-justify-center.svg" width="250" alt="24_dark_format-justify-center.svg"></a> | **24_dark_format-justify-center.svg**<br>Vector (SVG) \| 3.39KB<br>更新: 2026-02-26 |
-| <a href="24_dark_format-justify-fill.svg"><img src="24_dark_format-justify-fill.svg" width="250" alt="24_dark_format-justify-fill.svg"></a> | **24_dark_format-justify-fill.svg**<br>Vector (SVG) \| 3.39KB<br>更新: 2026-02-26 |
-| <a href="24_dark_format-justify-left.svg"><img src="24_dark_format-justify-left.svg" width="250" alt="24_dark_format-justify-left.svg"></a> | **24_dark_format-justify-left.svg**<br>Vector (SVG) \| 3.65KB<br>更新: 2026-02-26 |
-| <a href="24_dark_format-justify-right.svg"><img src="24_dark_format-justify-right.svg" width="250" alt="24_dark_format-justify-right.svg"></a> | **24_dark_format-justify-right.svg**<br>Vector (SVG) \| 3.61KB<br>更新: 2026-02-26 |
-| <a href="24_dark_format-list-ordered.svg"><img src="24_dark_format-list-ordered.svg" width="250" alt="24_dark_format-list-ordered.svg"></a> | **24_dark_format-list-ordered.svg**<br>Vector (SVG) \| 3.50KB<br>更新: 2026-02-26 |
-| <a href="24_dark_format-stroke-color.svg"><img src="24_dark_format-stroke-color.svg" width="250" alt="24_dark_format-stroke-color.svg"></a> | **24_dark_format-stroke-color.svg**<br>Vector (SVG) \| 3.51KB<br>更新: 2026-02-26 |
-| <a href="24_dark_format-text-bold.svg"><img src="24_dark_format-text-bold.svg" width="250" alt="24_dark_format-text-bold.svg"></a> | **24_dark_format-text-bold.svg**<br>Vector (SVG) \| 3.67KB<br>更新: 2026-02-26 |
-| <a href="24_dark_format-text-color.svg"><img src="24_dark_format-text-color.svg" width="250" alt="24_dark_format-text-color.svg"></a> | **24_dark_format-text-color.svg**<br>Vector (SVG) \| 3.88KB<br>更新: 2026-02-26 |
-| <a href="24_dark_format-text-direction-rtl.svg"><img src="24_dark_format-text-direction-rtl.svg" width="250" alt="24_dark_format-text-direction-rtl.svg"></a> | **24_dark_format-text-direction-rtl.svg**<br>Vector (SVG) \| 3.44KB<br>更新: 2026-02-26 |
-| <a href="24_dark_format-text-italic.svg"><img src="24_dark_format-text-italic.svg" width="250" alt="24_dark_format-text-italic.svg"></a> | **24_dark_format-text-italic.svg**<br>Vector (SVG) \| 3.55KB<br>更新: 2026-02-26 |
-| <a href="24_dark_format-text-strikethrough.svg"><img src="24_dark_format-text-strikethrough.svg" width="250" alt="24_dark_format-text-strikethrough.svg"></a> | **24_dark_format-text-strikethrough.svg**<br>Vector (SVG) \| 3.88KB<br>更新: 2026-02-26 |
-| <a href="24_dark_format-text-subscript.svg"><img src="24_dark_format-text-subscript.svg" width="250" alt="24_dark_format-text-subscript.svg"></a> | **24_dark_format-text-subscript.svg**<br>Vector (SVG) \| 4.45KB<br>更新: 2026-02-26 |
-| <a href="24_dark_format-text-superscript.svg"><img src="24_dark_format-text-superscript.svg" width="250" alt="24_dark_format-text-superscript.svg"></a> | **24_dark_format-text-superscript.svg**<br>Vector (SVG) \| 4.32KB<br>更新: 2026-02-26 |
-| <a href="24_dark_format-text-underline.svg"><img src="24_dark_format-text-underline.svg" width="250" alt="24_dark_format-text-underline.svg"></a> | **24_dark_format-text-underline.svg**<br>Vector (SVG) \| 3.95KB<br>更新: 2026-02-26 |
-| <a href="24_dark_insert-text.svg"><img src="24_dark_insert-text.svg" width="250" alt="24_dark_insert-text.svg"></a> | **24_dark_insert-text.svg**<br>Vector (SVG) \| 3.66KB<br>更新: 2026-02-26 |
-| <a href="24_dark_snap-extension.svg"><img src="24_dark_snap-extension.svg" width="250" alt="24_dark_snap-extension.svg"></a> | **24_dark_snap-extension.svg**<br>Vector (SVG) \| 4.84KB<br>更新: 2026-02-26 |
-| <a href="24_dark_snap-guideline.svg"><img src="24_dark_snap-guideline.svg" width="250" alt="24_dark_snap-guideline.svg"></a> | **24_dark_snap-guideline.svg**<br>Vector (SVG) \| 4.95KB<br>更新: 2026-02-26 |
-| <a href="24_dark_snap-intersection.svg"><img src="24_dark_snap-intersection.svg" width="250" alt="24_dark_snap-intersection.svg"></a> | **24_dark_snap-intersection.svg**<br>Vector (SVG) \| 4.94KB<br>更新: 2026-02-26 |
-| <a href="24_dark_snap-node.svg"><img src="24_dark_snap-node.svg" width="250" alt="24_dark_snap-node.svg"></a> | **24_dark_snap-node.svg**<br>Vector (SVG) \| 4.85KB<br>更新: 2026-02-26 |
-| <a href="24_dark_snap-orthogonal.svg"><img src="24_dark_snap-orthogonal.svg" width="250" alt="24_dark_snap-orthogonal.svg"></a> | **24_dark_snap-orthogonal.svg**<br>Vector (SVG) \| 4.97KB<br>更新: 2026-02-26 |
-| <a href="24_dark_split.svg"><img src="24_dark_split.svg" width="250" alt="24_dark_split.svg"></a> | **24_dark_split.svg**<br>Vector (SVG) \| 4.79KB<br>更新: 2026-02-26 |
-| <a href="24_dark_tab-new.svg"><img src="24_dark_tab-new.svg" width="250" alt="24_dark_tab-new.svg"></a> | **24_dark_tab-new.svg**<br>Vector (SVG) \| 4.75KB<br>更新: 2026-02-26 |
-| <a href="24_dark_transform-move.svg"><img src="24_dark_transform-move.svg" width="250" alt="24_dark_transform-move.svg"></a> | **24_dark_transform-move.svg**<br>Vector (SVG) \| 4.46KB<br>更新: 2026-02-26 |
-| <a href="24_dark_trash-empty.svg"><img src="24_dark_trash-empty.svg" width="250" alt="24_dark_trash-empty.svg"></a> | **24_dark_trash-empty.svg**<br>Vector (SVG) \| 4.40KB<br>更新: 2026-02-26 |
-| <a href="24_dark_zoom-fit-best.svg"><img src="24_dark_zoom-fit-best.svg" width="250" alt="24_dark_zoom-fit-best.svg"></a> | **24_dark_zoom-fit-best.svg**<br>Vector (SVG) \| 4.85KB<br>更新: 2026-02-26 |
-| <a href="24_light_align-horizontal-center.svg"><img src="24_light_align-horizontal-center.svg" width="250" alt="24_light_align-horizontal-center.svg"></a> | **24_light_align-horizontal-center.svg**<br>Vector (SVG) \| 3.27KB<br>更新: 2026-02-26 |
-| <a href="24_light_align-horizontal-left.svg"><img src="24_light_align-horizontal-left.svg" width="250" alt="24_light_align-horizontal-left.svg"></a> | **24_light_align-horizontal-left.svg**<br>Vector (SVG) \| 3.19KB<br>更新: 2026-02-26 |
-| <a href="24_light_align-horizontal-right.svg"><img src="24_light_align-horizontal-right.svg" width="250" alt="24_light_align-horizontal-right.svg"></a> | **24_light_align-horizontal-right.svg**<br>Vector (SVG) \| 3.19KB<br>更新: 2026-02-26 |
-| <a href="24_light_align-vertical-bottom.svg"><img src="24_light_align-vertical-bottom.svg" width="250" alt="24_light_align-vertical-bottom.svg"></a> | **24_light_align-vertical-bottom.svg**<br>Vector (SVG) \| 3.19KB<br>更新: 2026-02-26 |
-| <a href="24_light_align-vertical-center.svg"><img src="24_light_align-vertical-center.svg" width="250" alt="24_light_align-vertical-center.svg"></a> | **24_light_align-vertical-center.svg**<br>Vector (SVG) \| 3.27KB<br>更新: 2026-02-26 |
-| <a href="24_light_align-vertical-top.svg"><img src="24_light_align-vertical-top.svg" width="250" alt="24_light_align-vertical-top.svg"></a> | **24_light_align-vertical-top.svg**<br>Vector (SVG) \| 3.19KB<br>更新: 2026-02-26 |
-| <a href="24_light_character-set.svg"><img src="24_light_character-set.svg" width="250" alt="24_light_character-set.svg"></a> | **24_light_character-set.svg**<br>Vector (SVG) \| 3.81KB<br>更新: 2026-02-26 |
-| <a href="24_light_draw-arrow-back.svg"><img src="24_light_draw-arrow-back.svg" width="250" alt="24_light_draw-arrow-back.svg"></a> | **24_light_draw-arrow-back.svg**<br>Vector (SVG) \| 14.93KB<br>更新: 2026-02-26 |
-| <a href="24_light_draw-arrow-down.svg"><img src="24_light_draw-arrow-down.svg" width="250" alt="24_light_draw-arrow-down.svg"></a> | **24_light_draw-arrow-down.svg**<br>Vector (SVG) \| 3.95KB<br>更新: 2026-02-26 |
-| <a href="24_light_draw-arrow-forward.svg"><img src="24_light_draw-arrow-forward.svg" width="250" alt="24_light_draw-arrow-forward.svg"></a> | **24_light_draw-arrow-forward.svg**<br>Vector (SVG) \| 3.94KB<br>更新: 2026-02-26 |
-| <a href="24_light_draw-arrow-up.svg"><img src="24_light_draw-arrow-up.svg" width="250" alt="24_light_draw-arrow-up.svg"></a> | **24_light_draw-arrow-up.svg**<br>Vector (SVG) \| 14.89KB<br>更新: 2026-02-26 |
-| <a href="24_light_draw-freehand.svg"><img src="24_light_draw-freehand.svg" width="250" alt="24_light_draw-freehand.svg"></a> | **24_light_draw-freehand.svg**<br>Vector (SVG) \| 5.20KB<br>更新: 2026-02-26 |
-| <a href="24_light_edit-rename.svg"><img src="24_light_edit-rename.svg" width="250" alt="24_light_edit-rename.svg"></a> | **24_light_edit-rename.svg**<br>Vector (SVG) \| 9.30KB<br>更新: 2026-02-26 |
-| <a href="24_light_edit-select-all.svg"><img src="24_light_edit-select-all.svg" width="250" alt="24_light_edit-select-all.svg"></a> | **24_light_edit-select-all.svg**<br>Vector (SVG) \| 3.67KB<br>更新: 2026-02-26 |
-| <a href="24_light_format-indent-less.svg"><img src="24_light_format-indent-less.svg" width="250" alt="24_light_format-indent-less.svg"></a> | **24_light_format-indent-less.svg**<br>Vector (SVG) \| 3.53KB<br>更新: 2026-02-26 |
-| <a href="24_light_format-indent-more.svg"><img src="24_light_format-indent-more.svg" width="250" alt="24_light_format-indent-more.svg"></a> | **24_light_format-indent-more.svg**<br>Vector (SVG) \| 3.40KB<br>更新: 2026-02-26 |
-| <a href="24_light_format-justify-center.svg"><img src="24_light_format-justify-center.svg" width="250" alt="24_light_format-justify-center.svg"></a> | **24_light_format-justify-center.svg**<br>Vector (SVG) \| 3.39KB<br>更新: 2026-02-26 |
-| <a href="24_light_format-justify-fill.svg"><img src="24_light_format-justify-fill.svg" width="250" alt="24_light_format-justify-fill.svg"></a> | **24_light_format-justify-fill.svg**<br>Vector (SVG) \| 3.39KB<br>更新: 2026-02-26 |
-| <a href="24_light_format-justify-left.svg"><img src="24_light_format-justify-left.svg" width="250" alt="24_light_format-justify-left.svg"></a> | **24_light_format-justify-left.svg**<br>Vector (SVG) \| 3.65KB<br>更新: 2026-02-26 |
-| <a href="24_light_format-justify-right.svg"><img src="24_light_format-justify-right.svg" width="250" alt="24_light_format-justify-right.svg"></a> | **24_light_format-justify-right.svg**<br>Vector (SVG) \| 3.61KB<br>更新: 2026-02-26 |
-| <a href="24_light_format-list-ordered.svg"><img src="24_light_format-list-ordered.svg" width="250" alt="24_light_format-list-ordered.svg"></a> | **24_light_format-list-ordered.svg**<br>Vector (SVG) \| 3.50KB<br>更新: 2026-02-26 |
-| <a href="24_light_format-stroke-color.svg"><img src="24_light_format-stroke-color.svg" width="250" alt="24_light_format-stroke-color.svg"></a> | **24_light_format-stroke-color.svg**<br>Vector (SVG) \| 3.51KB<br>更新: 2026-02-26 |
-| <a href="24_light_format-text-bold.svg"><img src="24_light_format-text-bold.svg" width="250" alt="24_light_format-text-bold.svg"></a> | **24_light_format-text-bold.svg**<br>Vector (SVG) \| 3.67KB<br>更新: 2026-02-26 |
-| <a href="24_light_format-text-color.svg"><img src="24_light_format-text-color.svg" width="250" alt="24_light_format-text-color.svg"></a> | **24_light_format-text-color.svg**<br>Vector (SVG) \| 3.88KB<br>更新: 2026-02-26 |
-| <a href="24_light_format-text-direction-rtl.svg"><img src="24_light_format-text-direction-rtl.svg" width="250" alt="24_light_format-text-direction-rtl.svg"></a> | **24_light_format-text-direction-rtl.svg**<br>Vector (SVG) \| 3.44KB<br>更新: 2026-02-26 |
-| <a href="24_light_format-text-italic.svg"><img src="24_light_format-text-italic.svg" width="250" alt="24_light_format-text-italic.svg"></a> | **24_light_format-text-italic.svg**<br>Vector (SVG) \| 3.55KB<br>更新: 2026-02-26 |
-| <a href="24_light_format-text-strikethrough.svg"><img src="24_light_format-text-strikethrough.svg" width="250" alt="24_light_format-text-strikethrough.svg"></a> | **24_light_format-text-strikethrough.svg**<br>Vector (SVG) \| 3.88KB<br>更新: 2026-02-26 |
-| <a href="24_light_format-text-subscript.svg"><img src="24_light_format-text-subscript.svg" width="250" alt="24_light_format-text-subscript.svg"></a> | **24_light_format-text-subscript.svg**<br>Vector (SVG) \| 4.45KB<br>更新: 2026-02-26 |
-| <a href="24_light_format-text-superscript.svg"><img src="24_light_format-text-superscript.svg" width="250" alt="24_light_format-text-superscript.svg"></a> | **24_light_format-text-superscript.svg**<br>Vector (SVG) \| 4.32KB<br>更新: 2026-02-26 |
-| <a href="24_light_format-text-underline.svg"><img src="24_light_format-text-underline.svg" width="250" alt="24_light_format-text-underline.svg"></a> | **24_light_format-text-underline.svg**<br>Vector (SVG) \| 3.95KB<br>更新: 2026-02-26 |
-| <a href="24_light_insert-text.svg"><img src="24_light_insert-text.svg" width="250" alt="24_light_insert-text.svg"></a> | **24_light_insert-text.svg**<br>Vector (SVG) \| 3.66KB<br>更新: 2026-02-26 |
-| <a href="24_light_list-remove.svg"><img src="24_light_list-remove.svg" width="250" alt="24_light_list-remove.svg"></a> | **24_light_list-remove.svg**<br>Vector (SVG) \| 3.83KB<br>更新: 2026-02-26 |
-| <a href="24_light_snap-extension.svg"><img src="24_light_snap-extension.svg" width="250" alt="24_light_snap-extension.svg"></a> | **24_light_snap-extension.svg**<br>Vector (SVG) \| 4.84KB<br>更新: 2026-02-26 |
-| <a href="24_light_snap-guideline.svg"><img src="24_light_snap-guideline.svg" width="250" alt="24_light_snap-guideline.svg"></a> | **24_light_snap-guideline.svg**<br>Vector (SVG) \| 4.95KB<br>更新: 2026-02-26 |
-| <a href="24_light_snap-intersection.svg"><img src="24_light_snap-intersection.svg" width="250" alt="24_light_snap-intersection.svg"></a> | **24_light_snap-intersection.svg**<br>Vector (SVG) \| 4.94KB<br>更新: 2026-02-26 |
-| <a href="24_light_snap-node.svg"><img src="24_light_snap-node.svg" width="250" alt="24_light_snap-node.svg"></a> | **24_light_snap-node.svg**<br>Vector (SVG) \| 4.85KB<br>更新: 2026-02-26 |
-| <a href="24_light_snap-orthogonal.svg"><img src="24_light_snap-orthogonal.svg" width="250" alt="24_light_snap-orthogonal.svg"></a> | **24_light_snap-orthogonal.svg**<br>Vector (SVG) \| 4.97KB<br>更新: 2026-02-26 |
-| <a href="24_light_split.svg"><img src="24_light_split.svg" width="250" alt="24_light_split.svg"></a> | **24_light_split.svg**<br>Vector (SVG) \| 4.79KB<br>更新: 2026-02-26 |
-| <a href="24_light_tab-close.svg"><img src="24_light_tab-close.svg" width="250" alt="24_light_tab-close.svg"></a> | **24_light_tab-close.svg**<br>Vector (SVG) \| 4.22KB<br>更新: 2026-02-26 |
-| <a href="24_light_tab-new.svg"><img src="24_light_tab-new.svg" width="250" alt="24_light_tab-new.svg"></a> | **24_light_tab-new.svg**<br>Vector (SVG) \| 4.75KB<br>更新: 2026-02-26 |
-| <a href="24_light_transform-move.svg"><img src="24_light_transform-move.svg" width="250" alt="24_light_transform-move.svg"></a> | **24_light_transform-move.svg**<br>Vector (SVG) \| 4.46KB<br>更新: 2026-02-26 |
-| <a href="24_light_trash-empty.svg"><img src="24_light_trash-empty.svg" width="250" alt="24_light_trash-empty.svg"></a> | **24_light_trash-empty.svg**<br>Vector (SVG) \| 4.40KB<br>更新: 2026-02-26 |
-| <a href="24_light_zoom-fit-best.svg"><img src="24_light_zoom-fit-best.svg" width="250" alt="24_light_zoom-fit-best.svg"></a> | **24_light_zoom-fit-best.svg**<br>Vector (SVG) \| 4.85KB<br>更新: 2026-02-26 |
-| <a href="32_dark_application-x-krita.svg"><img src="32_dark_application-x-krita.svg" width="250" alt="32_dark_application-x-krita.svg"></a> | **32_dark_application-x-krita.svg**<br>Vector (SVG) \| 5.30KB<br>更新: 2026-02-26 |
-| <a href="32_dark_application-x-krz.svg"><img src="32_dark_application-x-krz.svg" width="250" alt="32_dark_application-x-krz.svg"></a> | **32_dark_application-x-krz.svg**<br>Vector (SVG) \| 8.90KB<br>更新: 2026-02-26 |
-| <a href="32_light_application-x-krita.svg"><img src="32_light_application-x-krita.svg" width="250" alt="32_light_application-x-krita.svg"></a> | **32_light_application-x-krita.svg**<br>Vector (SVG) \| 5.31KB<br>更新: 2026-02-26 |
-| <a href="32_light_application-x-krz.svg"><img src="32_light_application-x-krz.svg" width="250" alt="32_light_application-x-krz.svg"></a> | **32_light_application-x-krz.svg**<br>Vector (SVG) \| 8.90KB<br>更新: 2026-02-26 |
-| <a href="32_light_application-x-wmf.svg"><img src="32_light_application-x-wmf.svg" width="250" alt="32_light_application-x-wmf.svg"></a> | **32_light_application-x-wmf.svg**<br>Vector (SVG) \| 8.17KB<br>更新: 2026-02-26 |
-| <a href="48_light_klipper.svg"><img src="48_light_klipper.svg" width="250" alt="48_light_klipper.svg"></a> | **48_light_klipper.svg**<br>Vector (SVG) \| 9.54KB<br>更新: 2026-02-26 |
-| <a href="64_dark_application-x-krita.svg"><img src="64_dark_application-x-krita.svg" width="250" alt="64_dark_application-x-krita.svg"></a> | **64_dark_application-x-krita.svg**<br>Vector (SVG) \| 3.72KB<br>更新: 2026-02-26 |
-| <a href="64_dark_application-x-krz.svg"><img src="64_dark_application-x-krz.svg" width="250" alt="64_dark_application-x-krz.svg"></a> | **64_dark_application-x-krz.svg**<br>Vector (SVG) \| 6.54KB<br>更新: 2026-02-26 |
-| <a href="64_light_application-x-krita.svg"><img src="64_light_application-x-krita.svg" width="250" alt="64_light_application-x-krita.svg"></a> | **64_light_application-x-krita.svg**<br>Vector (SVG) \| 3.70KB<br>更新: 2026-02-26 |
-| <a href="64_light_application-x-krz.svg"><img src="64_light_application-x-krz.svg" width="250" alt="64_light_application-x-krz.svg"></a> | **64_light_application-x-krz.svg**<br>Vector (SVG) \| 6.53KB<br>更新: 2026-02-26 |
-| <a href="64_light_application-x-wmf.svg"><img src="64_light_application-x-wmf.svg" width="250" alt="64_light_application-x-wmf.svg"></a> | **64_light_application-x-wmf.svg**<br>Vector (SVG) \| 6.89KB<br>更新: 2026-02-26 |
+| <a href="16_dark_align-horizontal-right.svg"><img src="16_dark_align-horizontal-right.svg" width="250"></a> | **16_dark_align-horizontal-right.svg**<br>Vector (SVG) | 223.00B |
+| <a href="16_dark_align-vertical-bottom.svg"><img src="16_dark_align-vertical-bottom.svg" width="250"></a> | **16_dark_align-vertical-bottom.svg**<br>Vector (SVG) | 3.14KB |
+| <a href="16_dark_align-vertical-center.svg"><img src="16_dark_align-vertical-center.svg" width="250"></a> | **16_dark_align-vertical-center.svg**<br>Vector (SVG) | 3.14KB |
+| <a href="16_dark_application-x-krz.svg"><img src="16_dark_application-x-krz.svg" width="250"></a> | **16_dark_application-x-krz.svg**<br>Vector (SVG) | 1.83KB |
+| <a href="16_dark_character-set.svg"><img src="16_dark_character-set.svg" width="250"></a> | **16_dark_character-set.svg**<br>Vector (SVG) | 2.97KB |
+| <a href="16_dark_draw-arrow-back.svg"><img src="16_dark_draw-arrow-back.svg" width="250"></a> | **16_dark_draw-arrow-back.svg**<br>Vector (SVG) | 2.80KB |
+| <a href="16_dark_draw-arrow-down.svg"><img src="16_dark_draw-arrow-down.svg" width="250"></a> | **16_dark_draw-arrow-down.svg**<br>Vector (SVG) | 2.80KB |
+| <a href="16_dark_draw-arrow-forward.svg"><img src="16_dark_draw-arrow-forward.svg" width="250"></a> | **16_dark_draw-arrow-forward.svg**<br>Vector (SVG) | 2.80KB |
+| <a href="16_dark_draw-arrow-up.svg"><img src="16_dark_draw-arrow-up.svg" width="250"></a> | **16_dark_draw-arrow-up.svg**<br>Vector (SVG) | 2.79KB |
+| <a href="16_dark_draw-freehand.svg"><img src="16_dark_draw-freehand.svg" width="250"></a> | **16_dark_draw-freehand.svg**<br>Vector (SVG) | 3.85KB |
+| <a href="16_dark_edit-rename.svg"><img src="16_dark_edit-rename.svg" width="250"></a> | **16_dark_edit-rename.svg**<br>Vector (SVG) | 3.00KB |
+| <a href="16_dark_edit-select-all.svg"><img src="16_dark_edit-select-all.svg" width="250"></a> | **16_dark_edit-select-all.svg**<br>Vector (SVG) | 4.21KB |
+| <a href="16_dark_format-indent-less.svg"><img src="16_dark_format-indent-less.svg" width="250"></a> | **16_dark_format-indent-less.svg**<br>Vector (SVG) | 3.03KB |
+| <a href="16_dark_format-indent-more.svg"><img src="16_dark_format-indent-more.svg" width="250"></a> | **16_dark_format-indent-more.svg**<br>Vector (SVG) | 3.06KB |
+| <a href="16_dark_format-justify-center.svg"><img src="16_dark_format-justify-center.svg" width="250"></a> | **16_dark_format-justify-center.svg**<br>Vector (SVG) | 3.12KB |
+| <a href="16_dark_format-justify-fill.svg"><img src="16_dark_format-justify-fill.svg" width="250"></a> | **16_dark_format-justify-fill.svg**<br>Vector (SVG) | 3.12KB |
+| <a href="16_dark_format-justify-left.svg"><img src="16_dark_format-justify-left.svg" width="250"></a> | **16_dark_format-justify-left.svg**<br>Vector (SVG) | 4.70KB |
+| <a href="16_dark_format-justify-right.svg"><img src="16_dark_format-justify-right.svg" width="250"></a> | **16_dark_format-justify-right.svg**<br>Vector (SVG) | 4.87KB |
+| <a href="16_dark_format-list-ordered.svg"><img src="16_dark_format-list-ordered.svg" width="250"></a> | **16_dark_format-list-ordered.svg**<br>Vector (SVG) | 3.41KB |
+| <a href="16_dark_format-stroke-color.svg"><img src="16_dark_format-stroke-color.svg" width="250"></a> | **16_dark_format-stroke-color.svg**<br>Vector (SVG) | 3.97KB |
+| <a href="16_dark_format-text-bold.svg"><img src="16_dark_format-text-bold.svg" width="250"></a> | **16_dark_format-text-bold.svg**<br>Vector (SVG) | 3.19KB |
+| <a href="16_dark_format-text-color.svg"><img src="16_dark_format-text-color.svg" width="250"></a> | **16_dark_format-text-color.svg**<br>Vector (SVG) | 3.10KB |
+| <a href="16_dark_format-text-direction-rtl.svg"><img src="16_dark_format-text-direction-rtl.svg" width="250"></a> | **16_dark_format-text-direction-rtl.svg**<br>Vector (SVG) | 4.75KB |
+| <a href="16_dark_format-text-italic.svg"><img src="16_dark_format-text-italic.svg" width="250"></a> | **16_dark_format-text-italic.svg**<br>Vector (SVG) | 3.38KB |
+| <a href="16_dark_format-text-strikethrough.svg"><img src="16_dark_format-text-strikethrough.svg" width="250"></a> | **16_dark_format-text-strikethrough.svg**<br>Vector (SVG) | 3.03KB |
+| <a href="16_dark_format-text-subscript.svg"><img src="16_dark_format-text-subscript.svg" width="250"></a> | **16_dark_format-text-subscript.svg**<br>Vector (SVG) | 19.23KB |
+| <a href="16_dark_format-text-superscript.svg"><img src="16_dark_format-text-superscript.svg" width="250"></a> | **16_dark_format-text-superscript.svg**<br>Vector (SVG) | 3.63KB |
+| <a href="16_dark_format-text-underline.svg"><img src="16_dark_format-text-underline.svg" width="250"></a> | **16_dark_format-text-underline.svg**<br>Vector (SVG) | 3.24KB |
+| <a href="16_dark_insert-text.svg"><img src="16_dark_insert-text.svg" width="250"></a> | **16_dark_insert-text.svg**<br>Vector (SVG) | 5.04KB |
+| <a href="16_dark_media-floppy.svg"><img src="16_dark_media-floppy.svg" width="250"></a> | **16_dark_media-floppy.svg**<br>Vector (SVG) | 3.00KB |
+| <a href="16_dark_object-align-horizontal-center-calligra.svg"><img src="16_dark_object-align-horizontal-center-calligra.svg" width="250"></a> | **16_dark_object-align-horizontal-center-calligra.svg**<br>Vector (SVG) | 3.18KB |
+| <a href="16_dark_object-align-horizontal-left-calligra.svg"><img src="16_dark_object-align-horizontal-left-calligra.svg" width="250"></a> | **16_dark_object-align-horizontal-left-calligra.svg**<br>Vector (SVG) | 3.10KB |
+| <a href="16_dark_object-align-vertical-top-calligra.svg"><img src="16_dark_object-align-vertical-top-calligra.svg" width="250"></a> | **16_dark_object-align-vertical-top-calligra.svg**<br>Vector (SVG) | 3.00KB |
+| <a href="16_dark_object-group-calligra.svg"><img src="16_dark_object-group-calligra.svg" width="250"></a> | **16_dark_object-group-calligra.svg**<br>Vector (SVG) | 3.23KB |
+| <a href="16_dark_shape-choose.svg"><img src="16_dark_shape-choose.svg" width="250"></a> | **16_dark_shape-choose.svg**<br>Vector (SVG) | 3.60KB |
+| <a href="16_dark_snap-extension.svg"><img src="16_dark_snap-extension.svg" width="250"></a> | **16_dark_snap-extension.svg**<br>Vector (SVG) | 3.41KB |
+| <a href="16_dark_snap-guideline.svg"><img src="16_dark_snap-guideline.svg" width="250"></a> | **16_dark_snap-guideline.svg**<br>Vector (SVG) | 4.09KB |
+| <a href="16_dark_snap-intersection.svg"><img src="16_dark_snap-intersection.svg" width="250"></a> | **16_dark_snap-intersection.svg**<br>Vector (SVG) | 3.07KB |
+| <a href="16_dark_snap-node.svg"><img src="16_dark_snap-node.svg" width="250"></a> | **16_dark_snap-node.svg**<br>Vector (SVG) | 3.59KB |
+| <a href="16_dark_split.svg"><img src="16_dark_split.svg" width="250"></a> | **16_dark_split.svg**<br>Vector (SVG) | 2.88KB |
+| <a href="16_dark_tab-new.svg"><img src="16_dark_tab-new.svg" width="250"></a> | **16_dark_tab-new.svg**<br>Vector (SVG) | 3.29KB |
+| <a href="16_dark_transform-move.svg"><img src="16_dark_transform-move.svg" width="250"></a> | **16_dark_transform-move.svg**<br>Vector (SVG) | 3.33KB |
+| <a href="16_dark_trash-empty.svg"><img src="16_dark_trash-empty.svg" width="250"></a> | **16_dark_trash-empty.svg**<br>Vector (SVG) | 2.92KB |
+| <a href="16_dark_warning.svg"><img src="16_dark_warning.svg" width="250"></a> | **16_dark_warning.svg**<br>Vector (SVG) | 3.14KB |
+| <a href="16_dark_zoom-fit-best.svg"><img src="16_dark_zoom-fit-best.svg" width="250"></a> | **16_dark_zoom-fit-best.svg**<br>Vector (SVG) | 3.16KB |
+| <a href="16_light_align-horizontal-right.svg"><img src="16_light_align-horizontal-right.svg" width="250"></a> | **16_light_align-horizontal-right.svg**<br>Vector (SVG) | 3.10KB |
+| <a href="16_light_align-vertical-bottom.svg"><img src="16_light_align-vertical-bottom.svg" width="250"></a> | **16_light_align-vertical-bottom.svg**<br>Vector (SVG) | 3.14KB |
+| <a href="16_light_align-vertical-center.svg"><img src="16_light_align-vertical-center.svg" width="250"></a> | **16_light_align-vertical-center.svg**<br>Vector (SVG) | 3.14KB |
+| <a href="16_light_application-x-krita.svg"><img src="16_light_application-x-krita.svg" width="250"></a> | **16_light_application-x-krita.svg**<br>Vector (SVG) | 1.48KB |
+| <a href="16_light_application-x-krz.svg"><img src="16_light_application-x-krz.svg" width="250"></a> | **16_light_application-x-krz.svg**<br>Vector (SVG) | 1.83KB |
+| <a href="16_light_application-x-wmf.svg"><img src="16_light_application-x-wmf.svg" width="250"></a> | **16_light_application-x-wmf.svg**<br>Vector (SVG) | 3.78KB |
+| <a href="16_light_character-set.svg"><img src="16_light_character-set.svg" width="250"></a> | **16_light_character-set.svg**<br>Vector (SVG) | 2.97KB |
+| <a href="16_light_draw-arrow-back.svg"><img src="16_light_draw-arrow-back.svg" width="250"></a> | **16_light_draw-arrow-back.svg**<br>Vector (SVG) | 2.80KB |
+| <a href="16_light_draw-arrow-down.svg"><img src="16_light_draw-arrow-down.svg" width="250"></a> | **16_light_draw-arrow-down.svg**<br>Vector (SVG) | 2.80KB |
+| <a href="16_light_draw-arrow-forward.svg"><img src="16_light_draw-arrow-forward.svg" width="250"></a> | **16_light_draw-arrow-forward.svg**<br>Vector (SVG) | 2.80KB |
+| <a href="16_light_draw-arrow-up.svg"><img src="16_light_draw-arrow-up.svg" width="250"></a> | **16_light_draw-arrow-up.svg**<br>Vector (SVG) | 2.79KB |
+| <a href="16_light_draw-freehand.svg"><img src="16_light_draw-freehand.svg" width="250"></a> | **16_light_draw-freehand.svg**<br>Vector (SVG) | 3.85KB |
+| <a href="16_light_edit-rename.svg"><img src="16_light_edit-rename.svg" width="250"></a> | **16_light_edit-rename.svg**<br>Vector (SVG) | 3.00KB |
+| <a href="16_light_edit-select-all.svg"><img src="16_light_edit-select-all.svg" width="250"></a> | **16_light_edit-select-all.svg**<br>Vector (SVG) | 4.21KB |
+| <a href="16_light_format-indent-less.svg"><img src="16_light_format-indent-less.svg" width="250"></a> | **16_light_format-indent-less.svg**<br>Vector (SVG) | 3.03KB |
+| <a href="16_light_format-indent-more.svg"><img src="16_light_format-indent-more.svg" width="250"></a> | **16_light_format-indent-more.svg**<br>Vector (SVG) | 3.06KB |
+| <a href="16_light_format-justify-center.svg"><img src="16_light_format-justify-center.svg" width="250"></a> | **16_light_format-justify-center.svg**<br>Vector (SVG) | 3.12KB |
+| <a href="16_light_format-justify-fill.svg"><img src="16_light_format-justify-fill.svg" width="250"></a> | **16_light_format-justify-fill.svg**<br>Vector (SVG) | 3.12KB |
+| <a href="16_light_format-justify-left.svg"><img src="16_light_format-justify-left.svg" width="250"></a> | **16_light_format-justify-left.svg**<br>Vector (SVG) | 4.70KB |
+| <a href="16_light_format-justify-right.svg"><img src="16_light_format-justify-right.svg" width="250"></a> | **16_light_format-justify-right.svg**<br>Vector (SVG) | 4.87KB |
+| <a href="16_light_format-list-ordered.svg"><img src="16_light_format-list-ordered.svg" width="250"></a> | **16_light_format-list-ordered.svg**<br>Vector (SVG) | 3.41KB |
+| <a href="16_light_format-stroke-color.svg"><img src="16_light_format-stroke-color.svg" width="250"></a> | **16_light_format-stroke-color.svg**<br>Vector (SVG) | 3.97KB |
+| <a href="16_light_format-text-bold.svg"><img src="16_light_format-text-bold.svg" width="250"></a> | **16_light_format-text-bold.svg**<br>Vector (SVG) | 3.19KB |
+| <a href="16_light_format-text-color.svg"><img src="16_light_format-text-color.svg" width="250"></a> | **16_light_format-text-color.svg**<br>Vector (SVG) | 3.10KB |
+| <a href="16_light_format-text-direction-rtl.svg"><img src="16_light_format-text-direction-rtl.svg" width="250"></a> | **16_light_format-text-direction-rtl.svg**<br>Vector (SVG) | 4.75KB |
+| <a href="16_light_format-text-italic.svg"><img src="16_light_format-text-italic.svg" width="250"></a> | **16_light_format-text-italic.svg**<br>Vector (SVG) | 3.38KB |
+| <a href="16_light_format-text-strikethrough.svg"><img src="16_light_format-text-strikethrough.svg" width="250"></a> | **16_light_format-text-strikethrough.svg**<br>Vector (SVG) | 3.03KB |
+| <a href="16_light_format-text-subscript.svg"><img src="16_light_format-text-subscript.svg" width="250"></a> | **16_light_format-text-subscript.svg**<br>Vector (SVG) | 19.23KB |
+| <a href="16_light_format-text-superscript.svg"><img src="16_light_format-text-superscript.svg" width="250"></a> | **16_light_format-text-superscript.svg**<br>Vector (SVG) | 3.63KB |
+| <a href="16_light_format-text-underline.svg"><img src="16_light_format-text-underline.svg" width="250"></a> | **16_light_format-text-underline.svg**<br>Vector (SVG) | 3.24KB |
+| <a href="16_light_insert-text.svg"><img src="16_light_insert-text.svg" width="250"></a> | **16_light_insert-text.svg**<br>Vector (SVG) | 5.04KB |
+| <a href="16_light_list-remove.svg"><img src="16_light_list-remove.svg" width="250"></a> | **16_light_list-remove.svg**<br>Vector (SVG) | 3.03KB |
+| <a href="16_light_media-floppy.svg"><img src="16_light_media-floppy.svg" width="250"></a> | **16_light_media-floppy.svg**<br>Vector (SVG) | 3.00KB |
+| <a href="16_light_object-align-horizontal-center-calligra.svg"><img src="16_light_object-align-horizontal-center-calligra.svg" width="250"></a> | **16_light_object-align-horizontal-center-calligra.svg**<br>Vector (SVG) | 3.18KB |
+| <a href="16_light_object-align-horizontal-left-calligra.svg"><img src="16_light_object-align-horizontal-left-calligra.svg" width="250"></a> | **16_light_object-align-horizontal-left-calligra.svg**<br>Vector (SVG) | 3.10KB |
+| <a href="16_light_object-align-vertical-top-calligra.svg"><img src="16_light_object-align-vertical-top-calligra.svg" width="250"></a> | **16_light_object-align-vertical-top-calligra.svg**<br>Vector (SVG) | 3.00KB |
+| <a href="16_light_object-group-calligra.svg"><img src="16_light_object-group-calligra.svg" width="250"></a> | **16_light_object-group-calligra.svg**<br>Vector (SVG) | 3.23KB |
+| <a href="16_light_shape-choose.svg"><img src="16_light_shape-choose.svg" width="250"></a> | **16_light_shape-choose.svg**<br>Vector (SVG) | 3.60KB |
+| <a href="16_light_snap-extension.svg"><img src="16_light_snap-extension.svg" width="250"></a> | **16_light_snap-extension.svg**<br>Vector (SVG) | 3.41KB |
+| <a href="16_light_snap-guideline.svg"><img src="16_light_snap-guideline.svg" width="250"></a> | **16_light_snap-guideline.svg**<br>Vector (SVG) | 4.09KB |
+| <a href="16_light_snap-intersection.svg"><img src="16_light_snap-intersection.svg" width="250"></a> | **16_light_snap-intersection.svg**<br>Vector (SVG) | 3.07KB |
+| <a href="16_light_snap-node.svg"><img src="16_light_snap-node.svg" width="250"></a> | **16_light_snap-node.svg**<br>Vector (SVG) | 3.59KB |
+| <a href="16_light_split.svg"><img src="16_light_split.svg" width="250"></a> | **16_light_split.svg**<br>Vector (SVG) | 2.88KB |
+| <a href="16_light_tab-close.svg"><img src="16_light_tab-close.svg" width="250"></a> | **16_light_tab-close.svg**<br>Vector (SVG) | 3.05KB |
+| <a href="16_light_tab-new.svg"><img src="16_light_tab-new.svg" width="250"></a> | **16_light_tab-new.svg**<br>Vector (SVG) | 3.29KB |
+| <a href="16_light_transform-move.svg"><img src="16_light_transform-move.svg" width="250"></a> | **16_light_transform-move.svg**<br>Vector (SVG) | 3.33KB |
+| <a href="16_light_trash-empty.svg"><img src="16_light_trash-empty.svg" width="250"></a> | **16_light_trash-empty.svg**<br>Vector (SVG) | 2.92KB |
+| <a href="16_light_warning.svg"><img src="16_light_warning.svg" width="250"></a> | **16_light_warning.svg**<br>Vector (SVG) | 3.14KB |
+| <a href="16_light_zoom-fit-best.svg"><img src="16_light_zoom-fit-best.svg" width="250"></a> | **16_light_zoom-fit-best.svg**<br>Vector (SVG) | 3.16KB |
+| <a href="22_dark_align-horizontal-right.svg"><img src="22_dark_align-horizontal-right.svg" width="250"></a> | **22_dark_align-horizontal-right.svg**<br>Vector (SVG) | 3.31KB |
+| <a href="22_dark_align-vertical-bottom.svg"><img src="22_dark_align-vertical-bottom.svg" width="250"></a> | **22_dark_align-vertical-bottom.svg**<br>Vector (SVG) | 3.36KB |
+| <a href="22_dark_align-vertical-center.svg"><img src="22_dark_align-vertical-center.svg" width="250"></a> | **22_dark_align-vertical-center.svg**<br>Vector (SVG) | 3.39KB |
+| <a href="22_dark_application-x-krz.svg"><img src="22_dark_application-x-krz.svg" width="250"></a> | **22_dark_application-x-krz.svg**<br>Vector (SVG) | 3.74KB |
+| <a href="22_dark_character-set.svg"><img src="22_dark_character-set.svg" width="250"></a> | **22_dark_character-set.svg**<br>Vector (SVG) | 4.03KB |
+| <a href="22_dark_draw-arrow-back.svg"><img src="22_dark_draw-arrow-back.svg" width="250"></a> | **22_dark_draw-arrow-back.svg**<br>Vector (SVG) | 6.80KB |
+| <a href="22_dark_draw-arrow-down.svg"><img src="22_dark_draw-arrow-down.svg" width="250"></a> | **22_dark_draw-arrow-down.svg**<br>Vector (SVG) | 7.28KB |
+| <a href="22_dark_draw-arrow-forward.svg"><img src="22_dark_draw-arrow-forward.svg" width="250"></a> | **22_dark_draw-arrow-forward.svg**<br>Vector (SVG) | 7.83KB |
+| <a href="22_dark_draw-arrow-up.svg"><img src="22_dark_draw-arrow-up.svg" width="250"></a> | **22_dark_draw-arrow-up.svg**<br>Vector (SVG) | 6.49KB |
+| <a href="22_dark_draw-freehand.svg"><img src="22_dark_draw-freehand.svg" width="250"></a> | **22_dark_draw-freehand.svg**<br>Vector (SVG) | 5.09KB |
+| <a href="22_dark_edit-rename.svg"><img src="22_dark_edit-rename.svg" width="250"></a> | **22_dark_edit-rename.svg**<br>Vector (SVG) | 5.74KB |
+| <a href="22_dark_edit-select-all.svg"><img src="22_dark_edit-select-all.svg" width="250"></a> | **22_dark_edit-select-all.svg**<br>Vector (SVG) | 3.31KB |
+| <a href="22_dark_format-indent-less.svg"><img src="22_dark_format-indent-less.svg" width="250"></a> | **22_dark_format-indent-less.svg**<br>Vector (SVG) | 3.25KB |
+| <a href="22_dark_format-indent-more.svg"><img src="22_dark_format-indent-more.svg" width="250"></a> | **22_dark_format-indent-more.svg**<br>Vector (SVG) | 3.13KB |
+| <a href="22_dark_format-justify-center.svg"><img src="22_dark_format-justify-center.svg" width="250"></a> | **22_dark_format-justify-center.svg**<br>Vector (SVG) | 3.11KB |
+| <a href="22_dark_format-justify-fill.svg"><img src="22_dark_format-justify-fill.svg" width="250"></a> | **22_dark_format-justify-fill.svg**<br>Vector (SVG) | 3.12KB |
+| <a href="22_dark_format-justify-left.svg"><img src="22_dark_format-justify-left.svg" width="250"></a> | **22_dark_format-justify-left.svg**<br>Vector (SVG) | 3.35KB |
+| <a href="22_dark_format-justify-right.svg"><img src="22_dark_format-justify-right.svg" width="250"></a> | **22_dark_format-justify-right.svg**<br>Vector (SVG) | 3.31KB |
+| <a href="22_dark_format-list-ordered.svg"><img src="22_dark_format-list-ordered.svg" width="250"></a> | **22_dark_format-list-ordered.svg**<br>Vector (SVG) | 3.22KB |
+| <a href="22_dark_format-stroke-color.svg"><img src="22_dark_format-stroke-color.svg" width="250"></a> | **22_dark_format-stroke-color.svg**<br>Vector (SVG) | 3.18KB |
+| <a href="22_dark_format-text-bold.svg"><img src="22_dark_format-text-bold.svg" width="250"></a> | **22_dark_format-text-bold.svg**<br>Vector (SVG) | 3.40KB |
+| <a href="22_dark_format-text-color.svg"><img src="22_dark_format-text-color.svg" width="250"></a> | **22_dark_format-text-color.svg**<br>Vector (SVG) | 3.92KB |
+| <a href="22_dark_format-text-direction-rtl.svg"><img src="22_dark_format-text-direction-rtl.svg" width="250"></a> | **22_dark_format-text-direction-rtl.svg**<br>Vector (SVG) | 3.43KB |
+| <a href="22_dark_format-text-italic.svg"><img src="22_dark_format-text-italic.svg" width="250"></a> | **22_dark_format-text-italic.svg**<br>Vector (SVG) | 3.28KB |
+| <a href="22_dark_format-text-strikethrough.svg"><img src="22_dark_format-text-strikethrough.svg" width="250"></a> | **22_dark_format-text-strikethrough.svg**<br>Vector (SVG) | 3.22KB |
+| <a href="22_dark_format-text-subscript.svg"><img src="22_dark_format-text-subscript.svg" width="250"></a> | **22_dark_format-text-subscript.svg**<br>Vector (SVG) | 3.86KB |
+| <a href="22_dark_format-text-superscript.svg"><img src="22_dark_format-text-superscript.svg" width="250"></a> | **22_dark_format-text-superscript.svg**<br>Vector (SVG) | 3.75KB |
+| <a href="22_dark_format-text-underline.svg"><img src="22_dark_format-text-underline.svg" width="250"></a> | **22_dark_format-text-underline.svg**<br>Vector (SVG) | 3.38KB |
+| <a href="22_dark_insert-text.svg"><img src="22_dark_insert-text.svg" width="250"></a> | **22_dark_insert-text.svg**<br>Vector (SVG) | 3.11KB |
+| <a href="22_dark_media-floppy.svg"><img src="22_dark_media-floppy.svg" width="250"></a> | **22_dark_media-floppy.svg**<br>Vector (SVG) | 7.89KB |
+| <a href="22_dark_object-align-horizontal-center-calligra.svg"><img src="22_dark_object-align-horizontal-center-calligra.svg" width="250"></a> | **22_dark_object-align-horizontal-center-calligra.svg**<br>Vector (SVG) | 3.49KB |
+| <a href="22_dark_object-align-horizontal-left-calligra.svg"><img src="22_dark_object-align-horizontal-left-calligra.svg" width="250"></a> | **22_dark_object-align-horizontal-left-calligra.svg**<br>Vector (SVG) | 3.32KB |
+| <a href="22_dark_object-align-vertical-top-calligra.svg"><img src="22_dark_object-align-vertical-top-calligra.svg" width="250"></a> | **22_dark_object-align-vertical-top-calligra.svg**<br>Vector (SVG) | 3.31KB |
+| <a href="22_dark_object-group-calligra.svg"><img src="22_dark_object-group-calligra.svg" width="250"></a> | **22_dark_object-group-calligra.svg**<br>Vector (SVG) | 3.96KB |
+| <a href="22_dark_shape-choose.svg"><img src="22_dark_shape-choose.svg" width="250"></a> | **22_dark_shape-choose.svg**<br>Vector (SVG) | 3.30KB |
+| <a href="22_dark_snap-extension.svg"><img src="22_dark_snap-extension.svg" width="250"></a> | **22_dark_snap-extension.svg**<br>Vector (SVG) | 3.30KB |
+| <a href="22_dark_snap-guideline.svg"><img src="22_dark_snap-guideline.svg" width="250"></a> | **22_dark_snap-guideline.svg**<br>Vector (SVG) | 3.36KB |
+| <a href="22_dark_snap-intersection.svg"><img src="22_dark_snap-intersection.svg" width="250"></a> | **22_dark_snap-intersection.svg**<br>Vector (SVG) | 3.43KB |
+| <a href="22_dark_snap-node.svg"><img src="22_dark_snap-node.svg" width="250"></a> | **22_dark_snap-node.svg**<br>Vector (SVG) | 3.32KB |
+| <a href="22_dark_snap-orthogonal.svg"><img src="22_dark_snap-orthogonal.svg" width="250"></a> | **22_dark_snap-orthogonal.svg**<br>Vector (SVG) | 3.49KB |
+| <a href="22_dark_split.svg"><img src="22_dark_split.svg" width="250"></a> | **22_dark_split.svg**<br>Vector (SVG) | 3.22KB |
+| <a href="22_dark_tab-new.svg"><img src="22_dark_tab-new.svg" width="250"></a> | **22_dark_tab-new.svg**<br>Vector (SVG) | 3.48KB |
+| <a href="22_dark_transform-move.svg"><img src="22_dark_transform-move.svg" width="250"></a> | **22_dark_transform-move.svg**<br>Vector (SVG) | 3.56KB |
+| <a href="22_dark_trash-empty.svg"><img src="22_dark_trash-empty.svg" width="250"></a> | **22_dark_trash-empty.svg**<br>Vector (SVG) | 3.50KB |
+| <a href="22_dark_zoom-fit-best.svg"><img src="22_dark_zoom-fit-best.svg" width="250"></a> | **22_dark_zoom-fit-best.svg**<br>Vector (SVG) | 4.89KB |
+| <a href="22_light_align-horizontal-right.svg"><img src="22_light_align-horizontal-right.svg" width="250"></a> | **22_light_align-horizontal-right.svg**<br>Vector (SVG) | 3.31KB |
+| <a href="22_light_align-vertical-bottom.svg"><img src="22_light_align-vertical-bottom.svg" width="250"></a> | **22_light_align-vertical-bottom.svg**<br>Vector (SVG) | 3.36KB |
+| <a href="22_light_align-vertical-center.svg"><img src="22_light_align-vertical-center.svg" width="250"></a> | **22_light_align-vertical-center.svg**<br>Vector (SVG) | 3.39KB |
+| <a href="22_light_application-x-krita.svg"><img src="22_light_application-x-krita.svg" width="250"></a> | **22_light_application-x-krita.svg**<br>Vector (SVG) | 3.39KB |
+| <a href="22_light_application-x-krz.svg"><img src="22_light_application-x-krz.svg" width="250"></a> | **22_light_application-x-krz.svg**<br>Vector (SVG) | 3.74KB |
+| <a href="22_light_application-x-wmf.svg"><img src="22_light_application-x-wmf.svg" width="250"></a> | **22_light_application-x-wmf.svg**<br>Vector (SVG) | 4.93KB |
+| <a href="22_light_character-set.svg"><img src="22_light_character-set.svg" width="250"></a> | **22_light_character-set.svg**<br>Vector (SVG) | 3.88KB |
+| <a href="22_light_draw-arrow-back.svg"><img src="22_light_draw-arrow-back.svg" width="250"></a> | **22_light_draw-arrow-back.svg**<br>Vector (SVG) | 6.80KB |
+| <a href="22_light_draw-arrow-down.svg"><img src="22_light_draw-arrow-down.svg" width="250"></a> | **22_light_draw-arrow-down.svg**<br>Vector (SVG) | 7.28KB |
+| <a href="22_light_draw-arrow-forward.svg"><img src="22_light_draw-arrow-forward.svg" width="250"></a> | **22_light_draw-arrow-forward.svg**<br>Vector (SVG) | 7.83KB |
+| <a href="22_light_draw-arrow-up.svg"><img src="22_light_draw-arrow-up.svg" width="250"></a> | **22_light_draw-arrow-up.svg**<br>Vector (SVG) | 6.49KB |
+| <a href="22_light_draw-freehand.svg"><img src="22_light_draw-freehand.svg" width="250"></a> | **22_light_draw-freehand.svg**<br>Vector (SVG) | 5.09KB |
+| <a href="22_light_edit-rename.svg"><img src="22_light_edit-rename.svg" width="250"></a> | **22_light_edit-rename.svg**<br>Vector (SVG) | 5.74KB |
+| <a href="22_light_edit-select-all.svg"><img src="22_light_edit-select-all.svg" width="250"></a> | **22_light_edit-select-all.svg**<br>Vector (SVG) | 3.33KB |
+| <a href="22_light_format-indent-less.svg"><img src="22_light_format-indent-less.svg" width="250"></a> | **22_light_format-indent-less.svg**<br>Vector (SVG) | 3.25KB |
+| <a href="22_light_format-indent-more.svg"><img src="22_light_format-indent-more.svg" width="250"></a> | **22_light_format-indent-more.svg**<br>Vector (SVG) | 3.13KB |
+| <a href="22_light_format-justify-center.svg"><img src="22_light_format-justify-center.svg" width="250"></a> | **22_light_format-justify-center.svg**<br>Vector (SVG) | 3.11KB |
+| <a href="22_light_format-justify-fill.svg"><img src="22_light_format-justify-fill.svg" width="250"></a> | **22_light_format-justify-fill.svg**<br>Vector (SVG) | 3.12KB |
+| <a href="22_light_format-justify-left.svg"><img src="22_light_format-justify-left.svg" width="250"></a> | **22_light_format-justify-left.svg**<br>Vector (SVG) | 3.35KB |
+| <a href="22_light_format-justify-right.svg"><img src="22_light_format-justify-right.svg" width="250"></a> | **22_light_format-justify-right.svg**<br>Vector (SVG) | 3.31KB |
+| <a href="22_light_format-list-ordered.svg"><img src="22_light_format-list-ordered.svg" width="250"></a> | **22_light_format-list-ordered.svg**<br>Vector (SVG) | 3.22KB |
+| <a href="22_light_format-stroke-color.svg"><img src="22_light_format-stroke-color.svg" width="250"></a> | **22_light_format-stroke-color.svg**<br>Vector (SVG) | 3.18KB |
+| <a href="22_light_format-text-bold.svg"><img src="22_light_format-text-bold.svg" width="250"></a> | **22_light_format-text-bold.svg**<br>Vector (SVG) | 3.40KB |
+| <a href="22_light_format-text-color.svg"><img src="22_light_format-text-color.svg" width="250"></a> | **22_light_format-text-color.svg**<br>Vector (SVG) | 3.92KB |
+| <a href="22_light_format-text-direction-rtl.svg"><img src="22_light_format-text-direction-rtl.svg" width="250"></a> | **22_light_format-text-direction-rtl.svg**<br>Vector (SVG) | 3.43KB |
+| <a href="22_light_format-text-italic.svg"><img src="22_light_format-text-italic.svg" width="250"></a> | **22_light_format-text-italic.svg**<br>Vector (SVG) | 3.28KB |
+| <a href="22_light_format-text-strikethrough.svg"><img src="22_light_format-text-strikethrough.svg" width="250"></a> | **22_light_format-text-strikethrough.svg**<br>Vector (SVG) | 3.22KB |
+| <a href="22_light_format-text-subscript.svg"><img src="22_light_format-text-subscript.svg" width="250"></a> | **22_light_format-text-subscript.svg**<br>Vector (SVG) | 3.86KB |
+| <a href="22_light_format-text-superscript.svg"><img src="22_light_format-text-superscript.svg" width="250"></a> | **22_light_format-text-superscript.svg**<br>Vector (SVG) | 3.75KB |
+| <a href="22_light_format-text-underline.svg"><img src="22_light_format-text-underline.svg" width="250"></a> | **22_light_format-text-underline.svg**<br>Vector (SVG) | 3.38KB |
+| <a href="22_light_insert-text.svg"><img src="22_light_insert-text.svg" width="250"></a> | **22_light_insert-text.svg**<br>Vector (SVG) | 3.11KB |
+| <a href="22_light_list-remove.svg"><img src="22_light_list-remove.svg" width="250"></a> | **22_light_list-remove.svg**<br>Vector (SVG) | 4.32KB |
+| <a href="22_light_media-floppy.svg"><img src="22_light_media-floppy.svg" width="250"></a> | **22_light_media-floppy.svg**<br>Vector (SVG) | 7.89KB |
+| <a href="22_light_object-align-horizontal-center-calligra.svg"><img src="22_light_object-align-horizontal-center-calligra.svg" width="250"></a> | **22_light_object-align-horizontal-center-calligra.svg**<br>Vector (SVG) | 3.49KB |
+| <a href="22_light_object-align-horizontal-left-calligra.svg"><img src="22_light_object-align-horizontal-left-calligra.svg" width="250"></a> | **22_light_object-align-horizontal-left-calligra.svg**<br>Vector (SVG) | 3.32KB |
+| <a href="22_light_object-align-vertical-top-calligra.svg"><img src="22_light_object-align-vertical-top-calligra.svg" width="250"></a> | **22_light_object-align-vertical-top-calligra.svg**<br>Vector (SVG) | 3.31KB |
+| <a href="22_light_object-group-calligra.svg"><img src="22_light_object-group-calligra.svg" width="250"></a> | **22_light_object-group-calligra.svg**<br>Vector (SVG) | 3.96KB |
+| <a href="22_light_shape-choose.svg"><img src="22_light_shape-choose.svg" width="250"></a> | **22_light_shape-choose.svg**<br>Vector (SVG) | 3.30KB |
+| <a href="22_light_snap-extension.svg"><img src="22_light_snap-extension.svg" width="250"></a> | **22_light_snap-extension.svg**<br>Vector (SVG) | 3.30KB |
+| <a href="22_light_snap-guideline.svg"><img src="22_light_snap-guideline.svg" width="250"></a> | **22_light_snap-guideline.svg**<br>Vector (SVG) | 3.36KB |
+| <a href="22_light_snap-intersection.svg"><img src="22_light_snap-intersection.svg" width="250"></a> | **22_light_snap-intersection.svg**<br>Vector (SVG) | 3.43KB |
+| <a href="22_light_snap-node.svg"><img src="22_light_snap-node.svg" width="250"></a> | **22_light_snap-node.svg**<br>Vector (SVG) | 3.32KB |
+| <a href="22_light_snap-orthogonal.svg"><img src="22_light_snap-orthogonal.svg" width="250"></a> | **22_light_snap-orthogonal.svg**<br>Vector (SVG) | 3.49KB |
+| <a href="22_light_split.svg"><img src="22_light_split.svg" width="250"></a> | **22_light_split.svg**<br>Vector (SVG) | 3.22KB |
+| <a href="22_light_tab-close.svg"><img src="22_light_tab-close.svg" width="250"></a> | **22_light_tab-close.svg**<br>Vector (SVG) | 3.54KB |
+| <a href="22_light_tab-new.svg"><img src="22_light_tab-new.svg" width="250"></a> | **22_light_tab-new.svg**<br>Vector (SVG) | 3.48KB |
+| <a href="22_light_transform-move.svg"><img src="22_light_transform-move.svg" width="250"></a> | **22_light_transform-move.svg**<br>Vector (SVG) | 3.56KB |
+| <a href="22_light_trash-empty.svg"><img src="22_light_trash-empty.svg" width="250"></a> | **22_light_trash-empty.svg**<br>Vector (SVG) | 3.50KB |
+| <a href="22_light_zoom-fit-best.svg"><img src="22_light_zoom-fit-best.svg" width="250"></a> | **22_light_zoom-fit-best.svg**<br>Vector (SVG) | 4.89KB |
+| <a href="24_dark_align-horizontal-center.svg"><img src="24_dark_align-horizontal-center.svg" width="250"></a> | **24_dark_align-horizontal-center.svg**<br>Vector (SVG) | 3.27KB |
+| <a href="24_dark_align-horizontal-left.svg"><img src="24_dark_align-horizontal-left.svg" width="250"></a> | **24_dark_align-horizontal-left.svg**<br>Vector (SVG) | 3.19KB |
+| <a href="24_dark_align-horizontal-right.svg"><img src="24_dark_align-horizontal-right.svg" width="250"></a> | **24_dark_align-horizontal-right.svg**<br>Vector (SVG) | 3.19KB |
+| <a href="24_dark_align-vertical-bottom.svg"><img src="24_dark_align-vertical-bottom.svg" width="250"></a> | **24_dark_align-vertical-bottom.svg**<br>Vector (SVG) | 3.19KB |
+| <a href="24_dark_align-vertical-center.svg"><img src="24_dark_align-vertical-center.svg" width="250"></a> | **24_dark_align-vertical-center.svg**<br>Vector (SVG) | 3.27KB |
+| <a href="24_dark_align-vertical-top.svg"><img src="24_dark_align-vertical-top.svg" width="250"></a> | **24_dark_align-vertical-top.svg**<br>Vector (SVG) | 3.19KB |
+| <a href="24_dark_character-set.svg"><img src="24_dark_character-set.svg" width="250"></a> | **24_dark_character-set.svg**<br>Vector (SVG) | 3.81KB |
+| <a href="24_dark_draw-arrow-back.svg"><img src="24_dark_draw-arrow-back.svg" width="250"></a> | **24_dark_draw-arrow-back.svg**<br>Vector (SVG) | 14.93KB |
+| <a href="24_dark_draw-arrow-down.svg"><img src="24_dark_draw-arrow-down.svg" width="250"></a> | **24_dark_draw-arrow-down.svg**<br>Vector (SVG) | 3.95KB |
+| <a href="24_dark_draw-arrow-forward.svg"><img src="24_dark_draw-arrow-forward.svg" width="250"></a> | **24_dark_draw-arrow-forward.svg**<br>Vector (SVG) | 3.94KB |
+| <a href="24_dark_draw-arrow-up.svg"><img src="24_dark_draw-arrow-up.svg" width="250"></a> | **24_dark_draw-arrow-up.svg**<br>Vector (SVG) | 14.89KB |
+| <a href="24_dark_draw-freehand.svg"><img src="24_dark_draw-freehand.svg" width="250"></a> | **24_dark_draw-freehand.svg**<br>Vector (SVG) | 5.20KB |
+| <a href="24_dark_edit-rename.svg"><img src="24_dark_edit-rename.svg" width="250"></a> | **24_dark_edit-rename.svg**<br>Vector (SVG) | 9.30KB |
+| <a href="24_dark_edit-select-all.svg"><img src="24_dark_edit-select-all.svg" width="250"></a> | **24_dark_edit-select-all.svg**<br>Vector (SVG) | 3.67KB |
+| <a href="24_dark_format-indent-less.svg"><img src="24_dark_format-indent-less.svg" width="250"></a> | **24_dark_format-indent-less.svg**<br>Vector (SVG) | 3.53KB |
+| <a href="24_dark_format-indent-more.svg"><img src="24_dark_format-indent-more.svg" width="250"></a> | **24_dark_format-indent-more.svg**<br>Vector (SVG) | 3.40KB |
+| <a href="24_dark_format-justify-center.svg"><img src="24_dark_format-justify-center.svg" width="250"></a> | **24_dark_format-justify-center.svg**<br>Vector (SVG) | 3.39KB |
+| <a href="24_dark_format-justify-fill.svg"><img src="24_dark_format-justify-fill.svg" width="250"></a> | **24_dark_format-justify-fill.svg**<br>Vector (SVG) | 3.39KB |
+| <a href="24_dark_format-justify-left.svg"><img src="24_dark_format-justify-left.svg" width="250"></a> | **24_dark_format-justify-left.svg**<br>Vector (SVG) | 3.65KB |
+| <a href="24_dark_format-justify-right.svg"><img src="24_dark_format-justify-right.svg" width="250"></a> | **24_dark_format-justify-right.svg**<br>Vector (SVG) | 3.61KB |
+| <a href="24_dark_format-list-ordered.svg"><img src="24_dark_format-list-ordered.svg" width="250"></a> | **24_dark_format-list-ordered.svg**<br>Vector (SVG) | 3.50KB |
+| <a href="24_dark_format-stroke-color.svg"><img src="24_dark_format-stroke-color.svg" width="250"></a> | **24_dark_format-stroke-color.svg**<br>Vector (SVG) | 3.51KB |
+| <a href="24_dark_format-text-bold.svg"><img src="24_dark_format-text-bold.svg" width="250"></a> | **24_dark_format-text-bold.svg**<br>Vector (SVG) | 3.67KB |
+| <a href="24_dark_format-text-color.svg"><img src="24_dark_format-text-color.svg" width="250"></a> | **24_dark_format-text-color.svg**<br>Vector (SVG) | 3.88KB |
+| <a href="24_dark_format-text-direction-rtl.svg"><img src="24_dark_format-text-direction-rtl.svg" width="250"></a> | **24_dark_format-text-direction-rtl.svg**<br>Vector (SVG) | 3.44KB |
+| <a href="24_dark_format-text-italic.svg"><img src="24_dark_format-text-italic.svg" width="250"></a> | **24_dark_format-text-italic.svg**<br>Vector (SVG) | 3.55KB |
+| <a href="24_dark_format-text-strikethrough.svg"><img src="24_dark_format-text-strikethrough.svg" width="250"></a> | **24_dark_format-text-strikethrough.svg**<br>Vector (SVG) | 3.88KB |
+| <a href="24_dark_format-text-subscript.svg"><img src="24_dark_format-text-subscript.svg" width="250"></a> | **24_dark_format-text-subscript.svg**<br>Vector (SVG) | 4.45KB |
+| <a href="24_dark_format-text-superscript.svg"><img src="24_dark_format-text-superscript.svg" width="250"></a> | **24_dark_format-text-superscript.svg**<br>Vector (SVG) | 4.32KB |
+| <a href="24_dark_format-text-underline.svg"><img src="24_dark_format-text-underline.svg" width="250"></a> | **24_dark_format-text-underline.svg**<br>Vector (SVG) | 3.95KB |
+| <a href="24_dark_insert-text.svg"><img src="24_dark_insert-text.svg" width="250"></a> | **24_dark_insert-text.svg**<br>Vector (SVG) | 3.66KB |
+| <a href="24_dark_snap-extension.svg"><img src="24_dark_snap-extension.svg" width="250"></a> | **24_dark_snap-extension.svg**<br>Vector (SVG) | 4.84KB |
+| <a href="24_dark_snap-guideline.svg"><img src="24_dark_snap-guideline.svg" width="250"></a> | **24_dark_snap-guideline.svg**<br>Vector (SVG) | 4.95KB |
+| <a href="24_dark_snap-intersection.svg"><img src="24_dark_snap-intersection.svg" width="250"></a> | **24_dark_snap-intersection.svg**<br>Vector (SVG) | 4.94KB |
+| <a href="24_dark_snap-node.svg"><img src="24_dark_snap-node.svg" width="250"></a> | **24_dark_snap-node.svg**<br>Vector (SVG) | 4.85KB |
+| <a href="24_dark_snap-orthogonal.svg"><img src="24_dark_snap-orthogonal.svg" width="250"></a> | **24_dark_snap-orthogonal.svg**<br>Vector (SVG) | 4.97KB |
+| <a href="24_dark_split.svg"><img src="24_dark_split.svg" width="250"></a> | **24_dark_split.svg**<br>Vector (SVG) | 4.79KB |
+| <a href="24_dark_tab-new.svg"><img src="24_dark_tab-new.svg" width="250"></a> | **24_dark_tab-new.svg**<br>Vector (SVG) | 4.75KB |
+| <a href="24_dark_transform-move.svg"><img src="24_dark_transform-move.svg" width="250"></a> | **24_dark_transform-move.svg**<br>Vector (SVG) | 4.46KB |
+| <a href="24_dark_trash-empty.svg"><img src="24_dark_trash-empty.svg" width="250"></a> | **24_dark_trash-empty.svg**<br>Vector (SVG) | 4.40KB |
+| <a href="24_dark_zoom-fit-best.svg"><img src="24_dark_zoom-fit-best.svg" width="250"></a> | **24_dark_zoom-fit-best.svg**<br>Vector (SVG) | 4.85KB |
+| <a href="24_light_align-horizontal-center.svg"><img src="24_light_align-horizontal-center.svg" width="250"></a> | **24_light_align-horizontal-center.svg**<br>Vector (SVG) | 3.27KB |
+| <a href="24_light_align-horizontal-left.svg"><img src="24_light_align-horizontal-left.svg" width="250"></a> | **24_light_align-horizontal-left.svg**<br>Vector (SVG) | 3.19KB |
+| <a href="24_light_align-horizontal-right.svg"><img src="24_light_align-horizontal-right.svg" width="250"></a> | **24_light_align-horizontal-right.svg**<br>Vector (SVG) | 3.19KB |
+| <a href="24_light_align-vertical-bottom.svg"><img src="24_light_align-vertical-bottom.svg" width="250"></a> | **24_light_align-vertical-bottom.svg**<br>Vector (SVG) | 3.19KB |
+| <a href="24_light_align-vertical-center.svg"><img src="24_light_align-vertical-center.svg" width="250"></a> | **24_light_align-vertical-center.svg**<br>Vector (SVG) | 3.27KB |
+| <a href="24_light_align-vertical-top.svg"><img src="24_light_align-vertical-top.svg" width="250"></a> | **24_light_align-vertical-top.svg**<br>Vector (SVG) | 3.19KB |
+| <a href="24_light_character-set.svg"><img src="24_light_character-set.svg" width="250"></a> | **24_light_character-set.svg**<br>Vector (SVG) | 3.81KB |
+| <a href="24_light_draw-arrow-back.svg"><img src="24_light_draw-arrow-back.svg" width="250"></a> | **24_light_draw-arrow-back.svg**<br>Vector (SVG) | 14.93KB |
+| <a href="24_light_draw-arrow-down.svg"><img src="24_light_draw-arrow-down.svg" width="250"></a> | **24_light_draw-arrow-down.svg**<br>Vector (SVG) | 3.95KB |
+| <a href="24_light_draw-arrow-forward.svg"><img src="24_light_draw-arrow-forward.svg" width="250"></a> | **24_light_draw-arrow-forward.svg**<br>Vector (SVG) | 3.94KB |
+| <a href="24_light_draw-arrow-up.svg"><img src="24_light_draw-arrow-up.svg" width="250"></a> | **24_light_draw-arrow-up.svg**<br>Vector (SVG) | 14.89KB |
+| <a href="24_light_draw-freehand.svg"><img src="24_light_draw-freehand.svg" width="250"></a> | **24_light_draw-freehand.svg**<br>Vector (SVG) | 5.20KB |
+| <a href="24_light_edit-rename.svg"><img src="24_light_edit-rename.svg" width="250"></a> | **24_light_edit-rename.svg**<br>Vector (SVG) | 9.30KB |
+| <a href="24_light_edit-select-all.svg"><img src="24_light_edit-select-all.svg" width="250"></a> | **24_light_edit-select-all.svg**<br>Vector (SVG) | 3.67KB |
+| <a href="24_light_format-indent-less.svg"><img src="24_light_format-indent-less.svg" width="250"></a> | **24_light_format-indent-less.svg**<br>Vector (SVG) | 3.53KB |
+| <a href="24_light_format-indent-more.svg"><img src="24_light_format-indent-more.svg" width="250"></a> | **24_light_format-indent-more.svg**<br>Vector (SVG) | 3.40KB |
+| <a href="24_light_format-justify-center.svg"><img src="24_light_format-justify-center.svg" width="250"></a> | **24_light_format-justify-center.svg**<br>Vector (SVG) | 3.39KB |
+| <a href="24_light_format-justify-fill.svg"><img src="24_light_format-justify-fill.svg" width="250"></a> | **24_light_format-justify-fill.svg**<br>Vector (SVG) | 3.39KB |
+| <a href="24_light_format-justify-left.svg"><img src="24_light_format-justify-left.svg" width="250"></a> | **24_light_format-justify-left.svg**<br>Vector (SVG) | 3.65KB |
+| <a href="24_light_format-justify-right.svg"><img src="24_light_format-justify-right.svg" width="250"></a> | **24_light_format-justify-right.svg**<br>Vector (SVG) | 3.61KB |
+| <a href="24_light_format-list-ordered.svg"><img src="24_light_format-list-ordered.svg" width="250"></a> | **24_light_format-list-ordered.svg**<br>Vector (SVG) | 3.50KB |
+| <a href="24_light_format-stroke-color.svg"><img src="24_light_format-stroke-color.svg" width="250"></a> | **24_light_format-stroke-color.svg**<br>Vector (SVG) | 3.51KB |
+| <a href="24_light_format-text-bold.svg"><img src="24_light_format-text-bold.svg" width="250"></a> | **24_light_format-text-bold.svg**<br>Vector (SVG) | 3.67KB |
+| <a href="24_light_format-text-color.svg"><img src="24_light_format-text-color.svg" width="250"></a> | **24_light_format-text-color.svg**<br>Vector (SVG) | 3.88KB |
+| <a href="24_light_format-text-direction-rtl.svg"><img src="24_light_format-text-direction-rtl.svg" width="250"></a> | **24_light_format-text-direction-rtl.svg**<br>Vector (SVG) | 3.44KB |
+| <a href="24_light_format-text-italic.svg"><img src="24_light_format-text-italic.svg" width="250"></a> | **24_light_format-text-italic.svg**<br>Vector (SVG) | 3.55KB |
+| <a href="24_light_format-text-strikethrough.svg"><img src="24_light_format-text-strikethrough.svg" width="250"></a> | **24_light_format-text-strikethrough.svg**<br>Vector (SVG) | 3.88KB |
+| <a href="24_light_format-text-subscript.svg"><img src="24_light_format-text-subscript.svg" width="250"></a> | **24_light_format-text-subscript.svg**<br>Vector (SVG) | 4.45KB |
+| <a href="24_light_format-text-superscript.svg"><img src="24_light_format-text-superscript.svg" width="250"></a> | **24_light_format-text-superscript.svg**<br>Vector (SVG) | 4.32KB |
+| <a href="24_light_format-text-underline.svg"><img src="24_light_format-text-underline.svg" width="250"></a> | **24_light_format-text-underline.svg**<br>Vector (SVG) | 3.95KB |
+| <a href="24_light_insert-text.svg"><img src="24_light_insert-text.svg" width="250"></a> | **24_light_insert-text.svg**<br>Vector (SVG) | 3.66KB |
+| <a href="24_light_list-remove.svg"><img src="24_light_list-remove.svg" width="250"></a> | **24_light_list-remove.svg**<br>Vector (SVG) | 3.83KB |
+| <a href="24_light_snap-extension.svg"><img src="24_light_snap-extension.svg" width="250"></a> | **24_light_snap-extension.svg**<br>Vector (SVG) | 4.84KB |
+| <a href="24_light_snap-guideline.svg"><img src="24_light_snap-guideline.svg" width="250"></a> | **24_light_snap-guideline.svg**<br>Vector (SVG) | 4.95KB |
+| <a href="24_light_snap-intersection.svg"><img src="24_light_snap-intersection.svg" width="250"></a> | **24_light_snap-intersection.svg**<br>Vector (SVG) | 4.94KB |
+| <a href="24_light_snap-node.svg"><img src="24_light_snap-node.svg" width="250"></a> | **24_light_snap-node.svg**<br>Vector (SVG) | 4.85KB |
+| <a href="24_light_snap-orthogonal.svg"><img src="24_light_snap-orthogonal.svg" width="250"></a> | **24_light_snap-orthogonal.svg**<br>Vector (SVG) | 4.97KB |
+| <a href="24_light_split.svg"><img src="24_light_split.svg" width="250"></a> | **24_light_split.svg**<br>Vector (SVG) | 4.79KB |
+| <a href="24_light_tab-close.svg"><img src="24_light_tab-close.svg" width="250"></a> | **24_light_tab-close.svg**<br>Vector (SVG) | 4.22KB |
+| <a href="24_light_tab-new.svg"><img src="24_light_tab-new.svg" width="250"></a> | **24_light_tab-new.svg**<br>Vector (SVG) | 4.75KB |
+| <a href="24_light_transform-move.svg"><img src="24_light_transform-move.svg" width="250"></a> | **24_light_transform-move.svg**<br>Vector (SVG) | 4.46KB |
+| <a href="24_light_trash-empty.svg"><img src="24_light_trash-empty.svg" width="250"></a> | **24_light_trash-empty.svg**<br>Vector (SVG) | 4.40KB |
+| <a href="24_light_zoom-fit-best.svg"><img src="24_light_zoom-fit-best.svg" width="250"></a> | **24_light_zoom-fit-best.svg**<br>Vector (SVG) | 4.85KB |
+| <a href="32_dark_application-x-krita.svg"><img src="32_dark_application-x-krita.svg" width="250"></a> | **32_dark_application-x-krita.svg**<br>Vector (SVG) | 5.30KB |
+| <a href="32_dark_application-x-krz.svg"><img src="32_dark_application-x-krz.svg" width="250"></a> | **32_dark_application-x-krz.svg**<br>Vector (SVG) | 8.90KB |
+| <a href="32_light_application-x-krita.svg"><img src="32_light_application-x-krita.svg" width="250"></a> | **32_light_application-x-krita.svg**<br>Vector (SVG) | 5.31KB |
+| <a href="32_light_application-x-krz.svg"><img src="32_light_application-x-krz.svg" width="250"></a> | **32_light_application-x-krz.svg**<br>Vector (SVG) | 8.90KB |
+| <a href="32_light_application-x-wmf.svg"><img src="32_light_application-x-wmf.svg" width="250"></a> | **32_light_application-x-wmf.svg**<br>Vector (SVG) | 8.17KB |
+| <a href="48_light_klipper.svg"><img src="48_light_klipper.svg" width="250"></a> | **48_light_klipper.svg**<br>Vector (SVG) | 9.54KB |
+| <a href="64_dark_application-x-krita.svg"><img src="64_dark_application-x-krita.svg" width="250"></a> | **64_dark_application-x-krita.svg**<br>Vector (SVG) | 3.72KB |
+| <a href="64_dark_application-x-krz.svg"><img src="64_dark_application-x-krz.svg" width="250"></a> | **64_dark_application-x-krz.svg**<br>Vector (SVG) | 6.54KB |
+| <a href="64_light_application-x-krita.svg"><img src="64_light_application-x-krita.svg" width="250"></a> | **64_light_application-x-krita.svg**<br>Vector (SVG) | 3.70KB |
+| <a href="64_light_application-x-krz.svg"><img src="64_light_application-x-krz.svg" width="250"></a> | **64_light_application-x-krz.svg**<br>Vector (SVG) | 6.53KB |
+| <a href="64_light_application-x-wmf.svg"><img src="64_light_application-x-wmf.svg" width="250"></a> | **64_light_application-x-wmf.svg**<br>Vector (SVG) | 6.89KB |

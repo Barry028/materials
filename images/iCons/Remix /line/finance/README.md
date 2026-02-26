@@ -1,72 +1,72 @@
-# 🖼️ finance Gallery
+# 🖼️ finance 素材庫
 
-[⬅️ 回到首頁](../../README.md)
+[⬅️ 返回主目錄](../../README.md)
 
-| 預覽 | 詳細資訊 |
+| 預覽 (點擊放大) | 檔案資訊 |
 | :--- | :--- |
-| <a href="24-hours-line.svg"><img src="24-hours-line.svg" width="250" alt="24-hours-line.svg"></a> | **24-hours-line.svg**<br>Vector (SVG) \| 735.00B<br>更新: 2026-02-26 |
-| <a href="auction-line.svg"><img src="auction-line.svg" width="250" alt="auction-line.svg"></a> | **auction-line.svg**<br>Vector (SVG) \| 576.00B<br>更新: 2026-02-26 |
-| <a href="bank-card-2-line.svg"><img src="bank-card-2-line.svg" width="250" alt="bank-card-2-line.svg"></a> | **bank-card-2-line.svg**<br>Vector (SVG) \| 615.00B<br>更新: 2026-02-26 |
-| <a href="bank-card-line.svg"><img src="bank-card-line.svg" width="250" alt="bank-card-line.svg"></a> | **bank-card-line.svg**<br>Vector (SVG) \| 634.00B<br>更新: 2026-02-26 |
-| <a href="bit-coin-line.svg"><img src="bit-coin-line.svg" width="250" alt="bit-coin-line.svg"></a> | **bit-coin-line.svg**<br>Vector (SVG) \| 1.38KB<br>更新: 2026-02-26 |
-| <a href="coin-line.svg"><img src="coin-line.svg" width="250" alt="coin-line.svg"></a> | **coin-line.svg**<br>Vector (SVG) \| 643.00B<br>更新: 2026-02-26 |
-| <a href="coins-line.svg"><img src="coins-line.svg" width="250" alt="coins-line.svg"></a> | **coins-line.svg**<br>Vector (SVG) \| 2.65KB<br>更新: 2026-02-26 |
-| <a href="copper-coin-line.svg"><img src="copper-coin-line.svg" width="250" alt="copper-coin-line.svg"></a> | **copper-coin-line.svg**<br>Vector (SVG) \| 768.00B<br>更新: 2026-02-26 |
-| <a href="copper-diamond-line.svg"><img src="copper-diamond-line.svg" width="250" alt="copper-diamond-line.svg"></a> | **copper-diamond-line.svg**<br>Vector (SVG) \| 771.00B<br>更新: 2026-02-26 |
-| <a href="coupon-2-line.svg"><img src="coupon-2-line.svg" width="250" alt="coupon-2-line.svg"></a> | **coupon-2-line.svg**<br>Vector (SVG) \| 1.28KB<br>更新: 2026-02-26 |
-| <a href="coupon-3-line.svg"><img src="coupon-3-line.svg" width="250" alt="coupon-3-line.svg"></a> | **coupon-3-line.svg**<br>Vector (SVG) \| 1.89KB<br>更新: 2026-02-26 |
-| <a href="coupon-4-line.svg"><img src="coupon-4-line.svg" width="250" alt="coupon-4-line.svg"></a> | **coupon-4-line.svg**<br>Vector (SVG) \| 1.21KB<br>更新: 2026-02-26 |
-| <a href="coupon-5-line.svg"><img src="coupon-5-line.svg" width="250" alt="coupon-5-line.svg"></a> | **coupon-5-line.svg**<br>Vector (SVG) \| 1.10KB<br>更新: 2026-02-26 |
-| <a href="coupon-line.svg"><img src="coupon-line.svg" width="250" alt="coupon-line.svg"></a> | **coupon-line.svg**<br>Vector (SVG) \| 1.29KB<br>更新: 2026-02-26 |
-| <a href="currency-line.svg"><img src="currency-line.svg" width="250" alt="currency-line.svg"></a> | **currency-line.svg**<br>Vector (SVG) \| 1.44KB<br>更新: 2026-02-26 |
-| <a href="exchange-box-line.svg"><img src="exchange-box-line.svg" width="250" alt="exchange-box-line.svg"></a> | **exchange-box-line.svg**<br>Vector (SVG) \| 641.00B<br>更新: 2026-02-26 |
-| <a href="exchange-cny-line.svg"><img src="exchange-cny-line.svg" width="250" alt="exchange-cny-line.svg"></a> | **exchange-cny-line.svg**<br>Vector (SVG) \| 1.24KB<br>更新: 2026-02-26 |
-| <a href="exchange-dollar-line.svg"><img src="exchange-dollar-line.svg" width="250" alt="exchange-dollar-line.svg"></a> | **exchange-dollar-line.svg**<br>Vector (SVG) \| 1.76KB<br>更新: 2026-02-26 |
-| <a href="exchange-funds-fill.svg"><img src="exchange-funds-fill.svg" width="250" alt="exchange-funds-fill.svg"></a> | **exchange-funds-fill.svg**<br>Vector (SVG) \| 1.02KB<br>更新: 2026-02-26 |
-| <a href="exchange-line.svg"><img src="exchange-line.svg" width="250" alt="exchange-line.svg"></a> | **exchange-line.svg**<br>Vector (SVG) \| 721.00B<br>更新: 2026-02-26 |
-| <a href="funds-box-line.svg"><img src="funds-box-line.svg" width="250" alt="funds-box-line.svg"></a> | **funds-box-line.svg**<br>Vector (SVG) \| 730.00B<br>更新: 2026-02-26 |
-| <a href="funds-line.svg"><img src="funds-line.svg" width="250" alt="funds-line.svg"></a> | **funds-line.svg**<br>Vector (SVG) \| 994.00B<br>更新: 2026-02-26 |
-| <a href="gift-2-line.svg"><img src="gift-2-line.svg" width="250" alt="gift-2-line.svg"></a> | **gift-2-line.svg**<br>Vector (SVG) \| 1.83KB<br>更新: 2026-02-26 |
-| <a href="gift-line.svg"><img src="gift-line.svg" width="250" alt="gift-line.svg"></a> | **gift-line.svg**<br>Vector (SVG) \| 1.59KB<br>更新: 2026-02-26 |
-| <a href="hand-coin-line.svg"><img src="hand-coin-line.svg" width="250" alt="hand-coin-line.svg"></a> | **hand-coin-line.svg**<br>Vector (SVG) \| 2.44KB<br>更新: 2026-02-26 |
-| <a href="hand-heart-line.svg"><img src="hand-heart-line.svg" width="250" alt="hand-heart-line.svg"></a> | **hand-heart-line.svg**<br>Vector (SVG) \| 2.53KB<br>更新: 2026-02-26 |
-| <a href="increase-decrease-line.svg"><img src="increase-decrease-line.svg" width="250" alt="increase-decrease-line.svg"></a> | **increase-decrease-line.svg**<br>Vector (SVG) \| 652.00B<br>更新: 2026-02-26 |
-| <a href="money-cny-box-line.svg"><img src="money-cny-box-line.svg" width="250" alt="money-cny-box-line.svg"></a> | **money-cny-box-line.svg**<br>Vector (SVG) \| 727.00B<br>更新: 2026-02-26 |
-| <a href="money-cny-circle-line.svg"><img src="money-cny-circle-line.svg" width="250" alt="money-cny-circle-line.svg"></a> | **money-cny-circle-line.svg**<br>Vector (SVG) \| 805.00B<br>更新: 2026-02-26 |
-| <a href="money-dollar-box-line.svg"><img src="money-dollar-box-line.svg" width="250" alt="money-dollar-box-line.svg"></a> | **money-dollar-box-line.svg**<br>Vector (SVG) \| 1.25KB<br>更新: 2026-02-26 |
-| <a href="money-dollar-circle-line.svg"><img src="money-dollar-circle-line.svg" width="250" alt="money-dollar-circle-line.svg"></a> | **money-dollar-circle-line.svg**<br>Vector (SVG) \| 1.33KB<br>更新: 2026-02-26 |
-| <a href="money-euro-box-line.svg"><img src="money-euro-box-line.svg" width="250" alt="money-euro-box-line.svg"></a> | **money-euro-box-line.svg**<br>Vector (SVG) \| 1.37KB<br>更新: 2026-02-26 |
-| <a href="money-euro-circle-line.svg"><img src="money-euro-circle-line.svg" width="250" alt="money-euro-circle-line.svg"></a> | **money-euro-circle-line.svg**<br>Vector (SVG) \| 1.45KB<br>更新: 2026-02-26 |
-| <a href="money-pound-box-line.svg"><img src="money-pound-box-line.svg" width="250" alt="money-pound-box-line.svg"></a> | **money-pound-box-line.svg**<br>Vector (SVG) \| 1023.00B<br>更新: 2026-02-26 |
-| <a href="money-pound-circle-line.svg"><img src="money-pound-circle-line.svg" width="250" alt="money-pound-circle-line.svg"></a> | **money-pound-circle-line.svg**<br>Vector (SVG) \| 1.08KB<br>更新: 2026-02-26 |
-| <a href="percent-line.svg"><img src="percent-line.svg" width="250" alt="percent-line.svg"></a> | **percent-line.svg**<br>Vector (SVG) \| 1.74KB<br>更新: 2026-02-26 |
-| <a href="price-tag-2-line.svg"><img src="price-tag-2-line.svg" width="250" alt="price-tag-2-line.svg"></a> | **price-tag-2-line.svg**<br>Vector (SVG) \| 977.00B<br>更新: 2026-02-26 |
-| <a href="price-tag-3-line.svg"><img src="price-tag-3-line.svg" width="250" alt="price-tag-3-line.svg"></a> | **price-tag-3-line.svg**<br>Vector (SVG) \| 1.11KB<br>更新: 2026-02-26 |
-| <a href="price-tag-line.svg"><img src="price-tag-line.svg" width="250" alt="price-tag-line.svg"></a> | **price-tag-line.svg**<br>Vector (SVG) \| 943.00B<br>更新: 2026-02-26 |
-| <a href="red-packet-line.svg"><img src="red-packet-line.svg" width="250" alt="red-packet-line.svg"></a> | **red-packet-line.svg**<br>Vector (SVG) \| 1.15KB<br>更新: 2026-02-26 |
-| <a href="refund-2-line.svg"><img src="refund-2-line.svg" width="250" alt="refund-2-line.svg"></a> | **refund-2-line.svg**<br>Vector (SVG) \| 1.72KB<br>更新: 2026-02-26 |
-| <a href="refund-line.svg"><img src="refund-line.svg" width="250" alt="refund-line.svg"></a> | **refund-line.svg**<br>Vector (SVG) \| 643.00B<br>更新: 2026-02-26 |
-| <a href="safe-2-line.svg"><img src="safe-2-line.svg" width="250" alt="safe-2-line.svg"></a> | **safe-2-line.svg**<br>Vector (SVG) \| 1.29KB<br>更新: 2026-02-26 |
-| <a href="safe-line.svg"><img src="safe-line.svg" width="250" alt="safe-line.svg"></a> | **safe-line.svg**<br>Vector (SVG) \| 1.29KB<br>更新: 2026-02-26 |
-| <a href="secure-payment-line.svg"><img src="secure-payment-line.svg" width="250" alt="secure-payment-line.svg"></a> | **secure-payment-line.svg**<br>Vector (SVG) \| 1.12KB<br>更新: 2026-02-26 |
-| <a href="shopping-bag-2-line.svg"><img src="shopping-bag-2-line.svg" width="250" alt="shopping-bag-2-line.svg"></a> | **shopping-bag-2-line.svg**<br>Vector (SVG) \| 918.00B<br>更新: 2026-02-26 |
-| <a href="shopping-bag-3-line.svg"><img src="shopping-bag-3-line.svg" width="250" alt="shopping-bag-3-line.svg"></a> | **shopping-bag-3-line.svg**<br>Vector (SVG) \| 976.00B<br>更新: 2026-02-26 |
-| <a href="shopping-bag-line.svg"><img src="shopping-bag-line.svg" width="250" alt="shopping-bag-line.svg"></a> | **shopping-bag-line.svg**<br>Vector (SVG) \| 932.00B<br>更新: 2026-02-26 |
-| <a href="shopping-basket-2-line.svg"><img src="shopping-basket-2-line.svg" width="250" alt="shopping-basket-2-line.svg"></a> | **shopping-basket-2-line.svg**<br>Vector (SVG) \| 716.00B<br>更新: 2026-02-26 |
-| <a href="shopping-basket-line.svg"><img src="shopping-basket-line.svg" width="250" alt="shopping-basket-line.svg"></a> | **shopping-basket-line.svg**<br>Vector (SVG) \| 938.00B<br>更新: 2026-02-26 |
-| <a href="shopping-cart-2-line.svg"><img src="shopping-cart-2-line.svg" width="250" alt="shopping-cart-2-line.svg"></a> | **shopping-cart-2-line.svg**<br>Vector (SVG) \| 1.48KB<br>更新: 2026-02-26 |
-| <a href="shopping-cart-line.svg"><img src="shopping-cart-line.svg" width="250" alt="shopping-cart-line.svg"></a> | **shopping-cart-line.svg**<br>Vector (SVG) \| 1.32KB<br>更新: 2026-02-26 |
-| <a href="stock-line.svg"><img src="stock-line.svg" width="250" alt="stock-line.svg"></a> | **stock-line.svg**<br>Vector (SVG) \| 379.00B<br>更新: 2026-02-26 |
-| <a href="swap-box-line.svg"><img src="swap-box-line.svg" width="250" alt="swap-box-line.svg"></a> | **swap-box-line.svg**<br>Vector (SVG) \| 662.00B<br>更新: 2026-02-26 |
-| <a href="swap-line.svg"><img src="swap-line.svg" width="250" alt="swap-line.svg"></a> | **swap-line.svg**<br>Vector (SVG) \| 742.00B<br>更新: 2026-02-26 |
-| <a href="ticket-2-line.svg"><img src="ticket-2-line.svg" width="250" alt="ticket-2-line.svg"></a> | **ticket-2-line.svg**<br>Vector (SVG) \| 1.29KB<br>更新: 2026-02-26 |
-| <a href="ticket-line.svg"><img src="ticket-line.svg" width="250" alt="ticket-line.svg"></a> | **ticket-line.svg**<br>Vector (SVG) \| 1.28KB<br>更新: 2026-02-26 |
-| <a href="trophy-line.svg"><img src="trophy-line.svg" width="250" alt="trophy-line.svg"></a> | **trophy-line.svg**<br>Vector (SVG) \| 660.00B<br>更新: 2026-02-26 |
-| <a href="vip-crown-2-line.svg"><img src="vip-crown-2-line.svg" width="250" alt="vip-crown-2-line.svg"></a> | **vip-crown-2-line.svg**<br>Vector (SVG) \| 1.57KB<br>更新: 2026-02-26 |
-| <a href="vip-crown-line.svg"><img src="vip-crown-line.svg" width="250" alt="vip-crown-line.svg"></a> | **vip-crown-line.svg**<br>Vector (SVG) \| 390.00B<br>更新: 2026-02-26 |
-| <a href="vip-diamond-line.svg"><img src="vip-diamond-line.svg" width="250" alt="vip-diamond-line.svg"></a> | **vip-diamond-line.svg**<br>Vector (SVG) \| 894.00B<br>更新: 2026-02-26 |
-| <a href="vip-line.svg"><img src="vip-line.svg" width="250" alt="vip-line.svg"></a> | **vip-line.svg**<br>Vector (SVG) \| 728.00B<br>更新: 2026-02-26 |
-| <a href="wallet-2-line.svg"><img src="wallet-2-line.svg" width="250" alt="wallet-2-line.svg"></a> | **wallet-2-line.svg**<br>Vector (SVG) \| 795.00B<br>更新: 2026-02-26 |
-| <a href="wallet-3-line.svg"><img src="wallet-3-line.svg" width="250" alt="wallet-3-line.svg"></a> | **wallet-3-line.svg**<br>Vector (SVG) \| 952.00B<br>更新: 2026-02-26 |
-| <a href="wallet-line.svg"><img src="wallet-line.svg" width="250" alt="wallet-line.svg"></a> | **wallet-line.svg**<br>Vector (SVG) \| 636.00B<br>更新: 2026-02-26 |
-| <a href="water-flash-line.svg"><img src="water-flash-line.svg" width="250" alt="water-flash-line.svg"></a> | **water-flash-line.svg**<br>Vector (SVG) \| 1.08KB<br>更新: 2026-02-26 |
+| <a href="24-hours-line.svg"><img src="24-hours-line.svg" width="250"></a> | **24-hours-line.svg**<br>Vector (SVG) | 735.00B |
+| <a href="auction-line.svg"><img src="auction-line.svg" width="250"></a> | **auction-line.svg**<br>Vector (SVG) | 576.00B |
+| <a href="bank-card-2-line.svg"><img src="bank-card-2-line.svg" width="250"></a> | **bank-card-2-line.svg**<br>Vector (SVG) | 615.00B |
+| <a href="bank-card-line.svg"><img src="bank-card-line.svg" width="250"></a> | **bank-card-line.svg**<br>Vector (SVG) | 634.00B |
+| <a href="bit-coin-line.svg"><img src="bit-coin-line.svg" width="250"></a> | **bit-coin-line.svg**<br>Vector (SVG) | 1.38KB |
+| <a href="coin-line.svg"><img src="coin-line.svg" width="250"></a> | **coin-line.svg**<br>Vector (SVG) | 643.00B |
+| <a href="coins-line.svg"><img src="coins-line.svg" width="250"></a> | **coins-line.svg**<br>Vector (SVG) | 2.65KB |
+| <a href="copper-coin-line.svg"><img src="copper-coin-line.svg" width="250"></a> | **copper-coin-line.svg**<br>Vector (SVG) | 768.00B |
+| <a href="copper-diamond-line.svg"><img src="copper-diamond-line.svg" width="250"></a> | **copper-diamond-line.svg**<br>Vector (SVG) | 771.00B |
+| <a href="coupon-2-line.svg"><img src="coupon-2-line.svg" width="250"></a> | **coupon-2-line.svg**<br>Vector (SVG) | 1.28KB |
+| <a href="coupon-3-line.svg"><img src="coupon-3-line.svg" width="250"></a> | **coupon-3-line.svg**<br>Vector (SVG) | 1.89KB |
+| <a href="coupon-4-line.svg"><img src="coupon-4-line.svg" width="250"></a> | **coupon-4-line.svg**<br>Vector (SVG) | 1.21KB |
+| <a href="coupon-5-line.svg"><img src="coupon-5-line.svg" width="250"></a> | **coupon-5-line.svg**<br>Vector (SVG) | 1.10KB |
+| <a href="coupon-line.svg"><img src="coupon-line.svg" width="250"></a> | **coupon-line.svg**<br>Vector (SVG) | 1.29KB |
+| <a href="currency-line.svg"><img src="currency-line.svg" width="250"></a> | **currency-line.svg**<br>Vector (SVG) | 1.44KB |
+| <a href="exchange-box-line.svg"><img src="exchange-box-line.svg" width="250"></a> | **exchange-box-line.svg**<br>Vector (SVG) | 641.00B |
+| <a href="exchange-cny-line.svg"><img src="exchange-cny-line.svg" width="250"></a> | **exchange-cny-line.svg**<br>Vector (SVG) | 1.24KB |
+| <a href="exchange-dollar-line.svg"><img src="exchange-dollar-line.svg" width="250"></a> | **exchange-dollar-line.svg**<br>Vector (SVG) | 1.76KB |
+| <a href="exchange-funds-fill.svg"><img src="exchange-funds-fill.svg" width="250"></a> | **exchange-funds-fill.svg**<br>Vector (SVG) | 1.02KB |
+| <a href="exchange-line.svg"><img src="exchange-line.svg" width="250"></a> | **exchange-line.svg**<br>Vector (SVG) | 721.00B |
+| <a href="funds-box-line.svg"><img src="funds-box-line.svg" width="250"></a> | **funds-box-line.svg**<br>Vector (SVG) | 730.00B |
+| <a href="funds-line.svg"><img src="funds-line.svg" width="250"></a> | **funds-line.svg**<br>Vector (SVG) | 994.00B |
+| <a href="gift-2-line.svg"><img src="gift-2-line.svg" width="250"></a> | **gift-2-line.svg**<br>Vector (SVG) | 1.83KB |
+| <a href="gift-line.svg"><img src="gift-line.svg" width="250"></a> | **gift-line.svg**<br>Vector (SVG) | 1.59KB |
+| <a href="hand-coin-line.svg"><img src="hand-coin-line.svg" width="250"></a> | **hand-coin-line.svg**<br>Vector (SVG) | 2.44KB |
+| <a href="hand-heart-line.svg"><img src="hand-heart-line.svg" width="250"></a> | **hand-heart-line.svg**<br>Vector (SVG) | 2.53KB |
+| <a href="increase-decrease-line.svg"><img src="increase-decrease-line.svg" width="250"></a> | **increase-decrease-line.svg**<br>Vector (SVG) | 652.00B |
+| <a href="money-cny-box-line.svg"><img src="money-cny-box-line.svg" width="250"></a> | **money-cny-box-line.svg**<br>Vector (SVG) | 727.00B |
+| <a href="money-cny-circle-line.svg"><img src="money-cny-circle-line.svg" width="250"></a> | **money-cny-circle-line.svg**<br>Vector (SVG) | 805.00B |
+| <a href="money-dollar-box-line.svg"><img src="money-dollar-box-line.svg" width="250"></a> | **money-dollar-box-line.svg**<br>Vector (SVG) | 1.25KB |
+| <a href="money-dollar-circle-line.svg"><img src="money-dollar-circle-line.svg" width="250"></a> | **money-dollar-circle-line.svg**<br>Vector (SVG) | 1.33KB |
+| <a href="money-euro-box-line.svg"><img src="money-euro-box-line.svg" width="250"></a> | **money-euro-box-line.svg**<br>Vector (SVG) | 1.37KB |
+| <a href="money-euro-circle-line.svg"><img src="money-euro-circle-line.svg" width="250"></a> | **money-euro-circle-line.svg**<br>Vector (SVG) | 1.45KB |
+| <a href="money-pound-box-line.svg"><img src="money-pound-box-line.svg" width="250"></a> | **money-pound-box-line.svg**<br>Vector (SVG) | 1023.00B |
+| <a href="money-pound-circle-line.svg"><img src="money-pound-circle-line.svg" width="250"></a> | **money-pound-circle-line.svg**<br>Vector (SVG) | 1.08KB |
+| <a href="percent-line.svg"><img src="percent-line.svg" width="250"></a> | **percent-line.svg**<br>Vector (SVG) | 1.74KB |
+| <a href="price-tag-2-line.svg"><img src="price-tag-2-line.svg" width="250"></a> | **price-tag-2-line.svg**<br>Vector (SVG) | 977.00B |
+| <a href="price-tag-3-line.svg"><img src="price-tag-3-line.svg" width="250"></a> | **price-tag-3-line.svg**<br>Vector (SVG) | 1.11KB |
+| <a href="price-tag-line.svg"><img src="price-tag-line.svg" width="250"></a> | **price-tag-line.svg**<br>Vector (SVG) | 943.00B |
+| <a href="red-packet-line.svg"><img src="red-packet-line.svg" width="250"></a> | **red-packet-line.svg**<br>Vector (SVG) | 1.15KB |
+| <a href="refund-2-line.svg"><img src="refund-2-line.svg" width="250"></a> | **refund-2-line.svg**<br>Vector (SVG) | 1.72KB |
+| <a href="refund-line.svg"><img src="refund-line.svg" width="250"></a> | **refund-line.svg**<br>Vector (SVG) | 643.00B |
+| <a href="safe-2-line.svg"><img src="safe-2-line.svg" width="250"></a> | **safe-2-line.svg**<br>Vector (SVG) | 1.29KB |
+| <a href="safe-line.svg"><img src="safe-line.svg" width="250"></a> | **safe-line.svg**<br>Vector (SVG) | 1.29KB |
+| <a href="secure-payment-line.svg"><img src="secure-payment-line.svg" width="250"></a> | **secure-payment-line.svg**<br>Vector (SVG) | 1.12KB |
+| <a href="shopping-bag-2-line.svg"><img src="shopping-bag-2-line.svg" width="250"></a> | **shopping-bag-2-line.svg**<br>Vector (SVG) | 918.00B |
+| <a href="shopping-bag-3-line.svg"><img src="shopping-bag-3-line.svg" width="250"></a> | **shopping-bag-3-line.svg**<br>Vector (SVG) | 976.00B |
+| <a href="shopping-bag-line.svg"><img src="shopping-bag-line.svg" width="250"></a> | **shopping-bag-line.svg**<br>Vector (SVG) | 932.00B |
+| <a href="shopping-basket-2-line.svg"><img src="shopping-basket-2-line.svg" width="250"></a> | **shopping-basket-2-line.svg**<br>Vector (SVG) | 716.00B |
+| <a href="shopping-basket-line.svg"><img src="shopping-basket-line.svg" width="250"></a> | **shopping-basket-line.svg**<br>Vector (SVG) | 938.00B |
+| <a href="shopping-cart-2-line.svg"><img src="shopping-cart-2-line.svg" width="250"></a> | **shopping-cart-2-line.svg**<br>Vector (SVG) | 1.48KB |
+| <a href="shopping-cart-line.svg"><img src="shopping-cart-line.svg" width="250"></a> | **shopping-cart-line.svg**<br>Vector (SVG) | 1.32KB |
+| <a href="stock-line.svg"><img src="stock-line.svg" width="250"></a> | **stock-line.svg**<br>Vector (SVG) | 379.00B |
+| <a href="swap-box-line.svg"><img src="swap-box-line.svg" width="250"></a> | **swap-box-line.svg**<br>Vector (SVG) | 662.00B |
+| <a href="swap-line.svg"><img src="swap-line.svg" width="250"></a> | **swap-line.svg**<br>Vector (SVG) | 742.00B |
+| <a href="ticket-2-line.svg"><img src="ticket-2-line.svg" width="250"></a> | **ticket-2-line.svg**<br>Vector (SVG) | 1.29KB |
+| <a href="ticket-line.svg"><img src="ticket-line.svg" width="250"></a> | **ticket-line.svg**<br>Vector (SVG) | 1.28KB |
+| <a href="trophy-line.svg"><img src="trophy-line.svg" width="250"></a> | **trophy-line.svg**<br>Vector (SVG) | 660.00B |
+| <a href="vip-crown-2-line.svg"><img src="vip-crown-2-line.svg" width="250"></a> | **vip-crown-2-line.svg**<br>Vector (SVG) | 1.57KB |
+| <a href="vip-crown-line.svg"><img src="vip-crown-line.svg" width="250"></a> | **vip-crown-line.svg**<br>Vector (SVG) | 390.00B |
+| <a href="vip-diamond-line.svg"><img src="vip-diamond-line.svg" width="250"></a> | **vip-diamond-line.svg**<br>Vector (SVG) | 894.00B |
+| <a href="vip-line.svg"><img src="vip-line.svg" width="250"></a> | **vip-line.svg**<br>Vector (SVG) | 728.00B |
+| <a href="wallet-2-line.svg"><img src="wallet-2-line.svg" width="250"></a> | **wallet-2-line.svg**<br>Vector (SVG) | 795.00B |
+| <a href="wallet-3-line.svg"><img src="wallet-3-line.svg" width="250"></a> | **wallet-3-line.svg**<br>Vector (SVG) | 952.00B |
+| <a href="wallet-line.svg"><img src="wallet-line.svg" width="250"></a> | **wallet-line.svg**<br>Vector (SVG) | 636.00B |
+| <a href="water-flash-line.svg"><img src="water-flash-line.svg" width="250"></a> | **water-flash-line.svg**<br>Vector (SVG) | 1.08KB |

@@ -1,86 +1,86 @@
-# 🖼️ device Gallery
+# 🖼️ device 素材庫
 
-[⬅️ 回到首頁](../../README.md)
+[⬅️ 返回主目錄](../../README.md)
 
-| 預覽 | 詳細資訊 |
+| 預覽 (點擊放大) | 檔案資訊 |
 | :--- | :--- |
-| <a href="airplay-fill.svg"><img src="airplay-fill.svg" width="250" alt="airplay-fill.svg"></a> | **airplay-fill.svg**<br>Vector (SVG) \| 1.16KB<br>更新: 2026-02-26 |
-| <a href="barcode-box-fill.svg"><img src="barcode-box-fill.svg" width="250" alt="barcode-box-fill.svg"></a> | **barcode-box-fill.svg**<br>Vector (SVG) \| 649.00B<br>更新: 2026-02-26 |
-| <a href="barcode-fill.svg"><img src="barcode-fill.svg" width="250" alt="barcode-fill.svg"></a> | **barcode-fill.svg**<br>Vector (SVG) \| 367.00B<br>更新: 2026-02-26 |
-| <a href="base-station-fill.svg"><img src="base-station-fill.svg" width="250" alt="base-station-fill.svg"></a> | **base-station-fill.svg**<br>Vector (SVG) \| 2.14KB<br>更新: 2026-02-26 |
-| <a href="battery-2-charge-fill.svg"><img src="battery-2-charge-fill.svg" width="250" alt="battery-2-charge-fill.svg"></a> | **battery-2-charge-fill.svg**<br>Vector (SVG) \| 769.00B<br>更新: 2026-02-26 |
-| <a href="battery-2-fill.svg"><img src="battery-2-fill.svg" width="250" alt="battery-2-fill.svg"></a> | **battery-2-fill.svg**<br>Vector (SVG) \| 740.00B<br>更新: 2026-02-26 |
-| <a href="battery-charge-fill.svg"><img src="battery-charge-fill.svg" width="250" alt="battery-charge-fill.svg"></a> | **battery-charge-fill.svg**<br>Vector (SVG) \| 630.00B<br>更新: 2026-02-26 |
-| <a href="battery-fill.svg"><img src="battery-fill.svg" width="250" alt="battery-fill.svg"></a> | **battery-fill.svg**<br>Vector (SVG) \| 601.00B<br>更新: 2026-02-26 |
-| <a href="battery-low-fill.svg"><img src="battery-low-fill.svg" width="250" alt="battery-low-fill.svg"></a> | **battery-low-fill.svg**<br>Vector (SVG) \| 615.00B<br>更新: 2026-02-26 |
-| <a href="battery-saver-fill.svg"><img src="battery-saver-fill.svg" width="250" alt="battery-saver-fill.svg"></a> | **battery-saver-fill.svg**<br>Vector (SVG) \| 781.00B<br>更新: 2026-02-26 |
-| <a href="battery-share-fill.svg"><img src="battery-share-fill.svg" width="250" alt="battery-share-fill.svg"></a> | **battery-share-fill.svg**<br>Vector (SVG) \| 829.00B<br>更新: 2026-02-26 |
-| <a href="bluetooth-connect-fill.svg"><img src="bluetooth-connect-fill.svg" width="250" alt="bluetooth-connect-fill.svg"></a> | **bluetooth-connect-fill.svg**<br>Vector (SVG) \| 1.19KB<br>更新: 2026-02-26 |
-| <a href="bluetooth-fill.svg"><img src="bluetooth-fill.svg" width="250" alt="bluetooth-fill.svg"></a> | **bluetooth-fill.svg**<br>Vector (SVG) \| 586.00B<br>更新: 2026-02-26 |
-| <a href="cast-fill.svg"><img src="cast-fill.svg" width="250" alt="cast-fill.svg"></a> | **cast-fill.svg**<br>Vector (SVG) \| 1.13KB<br>更新: 2026-02-26 |
-| <a href="cellphone-fill.svg"><img src="cellphone-fill.svg" width="250" alt="cellphone-fill.svg"></a> | **cellphone-fill.svg**<br>Vector (SVG) \| 530.00B<br>更新: 2026-02-26 |
-| <a href="computer-fill.svg"><img src="computer-fill.svg" width="250" alt="computer-fill.svg"></a> | **computer-fill.svg**<br>Vector (SVG) \| 617.00B<br>更新: 2026-02-26 |
-| <a href="cpu-fill.svg"><img src="cpu-fill.svg" width="250" alt="cpu-fill.svg"></a> | **cpu-fill.svg**<br>Vector (SVG) \| 685.00B<br>更新: 2026-02-26 |
-| <a href="dashboard-2-fill.svg"><img src="dashboard-2-fill.svg" width="250" alt="dashboard-2-fill.svg"></a> | **dashboard-2-fill.svg**<br>Vector (SVG) \| 957.00B<br>更新: 2026-02-26 |
-| <a href="dashboard-3-fill.svg"><img src="dashboard-3-fill.svg" width="250" alt="dashboard-3-fill.svg"></a> | **dashboard-3-fill.svg**<br>Vector (SVG) \| 1.12KB<br>更新: 2026-02-26 |
-| <a href="database-2-fill.svg"><img src="database-2-fill.svg" width="250" alt="database-2-fill.svg"></a> | **database-2-fill.svg**<br>Vector (SVG) \| 602.00B<br>更新: 2026-02-26 |
-| <a href="database-fill.svg"><img src="database-fill.svg" width="250" alt="database-fill.svg"></a> | **database-fill.svg**<br>Vector (SVG) \| 755.00B<br>更新: 2026-02-26 |
-| <a href="device-fill.svg"><img src="device-fill.svg" width="250" alt="device-fill.svg"></a> | **device-fill.svg**<br>Vector (SVG) \| 905.00B<br>更新: 2026-02-26 |
-| <a href="device-recover-fill.svg"><img src="device-recover-fill.svg" width="250" alt="device-recover-fill.svg"></a> | **device-recover-fill.svg**<br>Vector (SVG) \| 1.31KB<br>更新: 2026-02-26 |
-| <a href="dual-sim-1-fill.svg"><img src="dual-sim-1-fill.svg" width="250" alt="dual-sim-1-fill.svg"></a> | **dual-sim-1-fill.svg**<br>Vector (SVG) \| 588.00B<br>更新: 2026-02-26 |
-| <a href="dual-sim-2-fill.svg"><img src="dual-sim-2-fill.svg" width="250" alt="dual-sim-2-fill.svg"></a> | **dual-sim-2-fill.svg**<br>Vector (SVG) \| 1.28KB<br>更新: 2026-02-26 |
-| <a href="fingerprint-2-fill.svg"><img src="fingerprint-2-fill.svg" width="250" alt="fingerprint-2-fill.svg"></a> | **fingerprint-2-fill.svg**<br>Vector (SVG) \| 1.44KB<br>更新: 2026-02-26 |
-| <a href="fingerprint-fill.svg"><img src="fingerprint-fill.svg" width="250" alt="fingerprint-fill.svg"></a> | **fingerprint-fill.svg**<br>Vector (SVG) \| 1.87KB<br>更新: 2026-02-26 |
-| <a href="gamepad-fill.svg"><img src="gamepad-fill.svg" width="250" alt="gamepad-fill.svg"></a> | **gamepad-fill.svg**<br>Vector (SVG) \| 669.00B<br>更新: 2026-02-26 |
-| <a href="gps-fill.svg"><img src="gps-fill.svg" width="250" alt="gps-fill.svg"></a> | **gps-fill.svg**<br>Vector (SVG) \| 1.69KB<br>更新: 2026-02-26 |
-| <a href="gradienter-fill.svg"><img src="gradienter-fill.svg" width="250" alt="gradienter-fill.svg"></a> | **gradienter-fill.svg**<br>Vector (SVG) \| 896.00B<br>更新: 2026-02-26 |
-| <a href="hard-drive-2-fill.svg"><img src="hard-drive-2-fill.svg" width="250" alt="hard-drive-2-fill.svg"></a> | **hard-drive-2-fill.svg**<br>Vector (SVG) \| 621.00B<br>更新: 2026-02-26 |
-| <a href="hard-drive-fill.svg"><img src="hard-drive-fill.svg" width="250" alt="hard-drive-fill.svg"></a> | **hard-drive-fill.svg**<br>Vector (SVG) \| 893.00B<br>更新: 2026-02-26 |
-| <a href="hotspot-fill.svg"><img src="hotspot-fill.svg" width="250" alt="hotspot-fill.svg"></a> | **hotspot-fill.svg**<br>Vector (SVG) \| 919.00B<br>更新: 2026-02-26 |
-| <a href="install-fill.svg"><img src="install-fill.svg" width="250" alt="install-fill.svg"></a> | **install-fill.svg**<br>Vector (SVG) \| 645.00B<br>更新: 2026-02-26 |
-| <a href="keyboard-box-fill.svg"><img src="keyboard-box-fill.svg" width="250" alt="keyboard-box-fill.svg"></a> | **keyboard-box-fill.svg**<br>Vector (SVG) \| 731.00B<br>更新: 2026-02-26 |
-| <a href="keyboard-fill.svg"><img src="keyboard-fill.svg" width="250" alt="keyboard-fill.svg"></a> | **keyboard-fill.svg**<br>Vector (SVG) \| 420.00B<br>更新: 2026-02-26 |
-| <a href="mac-fill.svg"><img src="mac-fill.svg" width="250" alt="mac-fill.svg"></a> | **mac-fill.svg**<br>Vector (SVG) \| 664.00B<br>更新: 2026-02-26 |
-| <a href="macbook-fill.svg"><img src="macbook-fill.svg" width="250" alt="macbook-fill.svg"></a> | **macbook-fill.svg**<br>Vector (SVG) \| 366.00B<br>更新: 2026-02-26 |
-| <a href="mouse-fill.svg"><img src="mouse-fill.svg" width="250" alt="mouse-fill.svg"></a> | **mouse-fill.svg**<br>Vector (SVG) \| 767.00B<br>更新: 2026-02-26 |
-| <a href="phone-fill.svg"><img src="phone-fill.svg" width="250" alt="phone-fill.svg"></a> | **phone-fill.svg**<br>Vector (SVG) \| 1.08KB<br>更新: 2026-02-26 |
-| <a href="phone-find-fill.svg"><img src="phone-find-fill.svg" width="250" alt="phone-find-fill.svg"></a> | **phone-find-fill.svg**<br>Vector (SVG) \| 1.59KB<br>更新: 2026-02-26 |
-| <a href="phone-lock-fill.svg"><img src="phone-lock-fill.svg" width="250" alt="phone-lock-fill.svg"></a> | **phone-lock-fill.svg**<br>Vector (SVG) \| 1.04KB<br>更新: 2026-02-26 |
-| <a href="qr-code-fill.svg"><img src="qr-code-fill.svg" width="250" alt="qr-code-fill.svg"></a> | **qr-code-fill.svg**<br>Vector (SVG) \| 466.00B<br>更新: 2026-02-26 |
-| <a href="qr-scan-2-fill.svg"><img src="qr-scan-2-fill.svg" width="250" alt="qr-scan-2-fill.svg"></a> | **qr-scan-2-fill.svg**<br>Vector (SVG) \| 354.00B<br>更新: 2026-02-26 |
-| <a href="qr-scan-fill.svg"><img src="qr-scan-fill.svg" width="250" alt="qr-scan-fill.svg"></a> | **qr-scan-fill.svg**<br>Vector (SVG) \| 565.00B<br>更新: 2026-02-26 |
-| <a href="radar-fill.svg"><img src="radar-fill.svg" width="250" alt="radar-fill.svg"></a> | **radar-fill.svg**<br>Vector (SVG) \| 834.00B<br>更新: 2026-02-26 |
-| <a href="remote-control-2-fill.svg"><img src="remote-control-2-fill.svg" width="250" alt="remote-control-2-fill.svg"></a> | **remote-control-2-fill.svg**<br>Vector (SVG) \| 674.00B<br>更新: 2026-02-26 |
-| <a href="remote-control-fill.svg"><img src="remote-control-fill.svg" width="250" alt="remote-control-fill.svg"></a> | **remote-control-fill.svg**<br>Vector (SVG) \| 1.30KB<br>更新: 2026-02-26 |
-| <a href="restart-fill.svg"><img src="restart-fill.svg" width="250" alt="restart-fill.svg"></a> | **restart-fill.svg**<br>Vector (SVG) \| 1.14KB<br>更新: 2026-02-26 |
-| <a href="rotate-lock-fill.svg"><img src="rotate-lock-fill.svg" width="250" alt="rotate-lock-fill.svg"></a> | **rotate-lock-fill.svg**<br>Vector (SVG) \| 1.17KB<br>更新: 2026-02-26 |
-| <a href="router-fill.svg"><img src="router-fill.svg" width="250" alt="router-fill.svg"></a> | **router-fill.svg**<br>Vector (SVG) \| 1.37KB<br>更新: 2026-02-26 |
-| <a href="rss-fill.svg"><img src="rss-fill.svg" width="250" alt="rss-fill.svg"></a> | **rss-fill.svg**<br>Vector (SVG) \| 528.00B<br>更新: 2026-02-26 |
-| <a href="save-2-fill.svg"><img src="save-2-fill.svg" width="250" alt="save-2-fill.svg"></a> | **save-2-fill.svg**<br>Vector (SVG) \| 886.00B<br>更新: 2026-02-26 |
-| <a href="save-3-fill.svg"><img src="save-3-fill.svg" width="250" alt="save-3-fill.svg"></a> | **save-3-fill.svg**<br>Vector (SVG) \| 611.00B<br>更新: 2026-02-26 |
-| <a href="save-fill.svg"><img src="save-fill.svg" width="250" alt="save-fill.svg"></a> | **save-fill.svg**<br>Vector (SVG) \| 546.00B<br>更新: 2026-02-26 |
-| <a href="scan-2-fill.svg"><img src="scan-2-fill.svg" width="250" alt="scan-2-fill.svg"></a> | **scan-2-fill.svg**<br>Vector (SVG) \| 1.26KB<br>更新: 2026-02-26 |
-| <a href="scan-fill.svg"><img src="scan-fill.svg" width="250" alt="scan-fill.svg"></a> | **scan-fill.svg**<br>Vector (SVG) \| 482.00B<br>更新: 2026-02-26 |
-| <a href="sd-card-fill.svg"><img src="sd-card-fill.svg" width="250" alt="sd-card-fill.svg"></a> | **sd-card-fill.svg**<br>Vector (SVG) \| 618.00B<br>更新: 2026-02-26 |
-| <a href="sd-card-mini-fill.svg"><img src="sd-card-mini-fill.svg" width="250" alt="sd-card-mini-fill.svg"></a> | **sd-card-mini-fill.svg**<br>Vector (SVG) \| 734.00B<br>更新: 2026-02-26 |
-| <a href="sensor-fill.svg"><img src="sensor-fill.svg" width="250" alt="sensor-fill.svg"></a> | **sensor-fill.svg**<br>Vector (SVG) \| 491.00B<br>更新: 2026-02-26 |
-| <a href="server-fill.svg"><img src="server-fill.svg" width="250" alt="server-fill.svg"></a> | **server-fill.svg**<br>Vector (SVG) \| 632.00B<br>更新: 2026-02-26 |
-| <a href="shut-down-fill.svg"><img src="shut-down-fill.svg" width="250" alt="shut-down-fill.svg"></a> | **shut-down-fill.svg**<br>Vector (SVG) \| 415.00B<br>更新: 2026-02-26 |
-| <a href="signal-wifi-1-fill.svg"><img src="signal-wifi-1-fill.svg" width="250" alt="signal-wifi-1-fill.svg"></a> | **signal-wifi-1-fill.svg**<br>Vector (SVG) \| 571.00B<br>更新: 2026-02-26 |
-| <a href="signal-wifi-2-fill.svg"><img src="signal-wifi-2-fill.svg" width="250" alt="signal-wifi-2-fill.svg"></a> | **signal-wifi-2-fill.svg**<br>Vector (SVG) \| 570.00B<br>更新: 2026-02-26 |
-| <a href="signal-wifi-3-fill.svg"><img src="signal-wifi-3-fill.svg" width="250" alt="signal-wifi-3-fill.svg"></a> | **signal-wifi-3-fill.svg**<br>Vector (SVG) \| 564.00B<br>更新: 2026-02-26 |
-| <a href="signal-wifi-error-fill.svg"><img src="signal-wifi-error-fill.svg" width="250" alt="signal-wifi-error-fill.svg"></a> | **signal-wifi-error-fill.svg**<br>Vector (SVG) \| 475.00B<br>更新: 2026-02-26 |
-| <a href="signal-wifi-fill.svg"><img src="signal-wifi-fill.svg" width="250" alt="signal-wifi-fill.svg"></a> | **signal-wifi-fill.svg**<br>Vector (SVG) \| 382.00B<br>更新: 2026-02-26 |
-| <a href="signal-wifi-off-fill.svg"><img src="signal-wifi-off-fill.svg" width="250" alt="signal-wifi-off-fill.svg"></a> | **signal-wifi-off-fill.svg**<br>Vector (SVG) \| 593.00B<br>更新: 2026-02-26 |
-| <a href="sim-card-2-fill.svg"><img src="sim-card-2-fill.svg" width="250" alt="sim-card-2-fill.svg"></a> | **sim-card-2-fill.svg**<br>Vector (SVG) \| 679.00B<br>更新: 2026-02-26 |
-| <a href="sim-card-fill.svg"><img src="sim-card-fill.svg" width="250" alt="sim-card-fill.svg"></a> | **sim-card-fill.svg**<br>Vector (SVG) \| 581.00B<br>更新: 2026-02-26 |
-| <a href="smartphone-fill.svg"><img src="smartphone-fill.svg" width="250" alt="smartphone-fill.svg"></a> | **smartphone-fill.svg**<br>Vector (SVG) \| 895.00B<br>更新: 2026-02-26 |
-| <a href="tablet-fill.svg"><img src="tablet-fill.svg" width="250" alt="tablet-fill.svg"></a> | **tablet-fill.svg**<br>Vector (SVG) \| 895.00B<br>更新: 2026-02-26 |
-| <a href="tv-2-fill.svg"><img src="tv-2-fill.svg" width="250" alt="tv-2-fill.svg"></a> | **tv-2-fill.svg**<br>Vector (SVG) \| 605.00B<br>更新: 2026-02-26 |
-| <a href="tv-fill.svg"><img src="tv-fill.svg" width="250" alt="tv-fill.svg"></a> | **tv-fill.svg**<br>Vector (SVG) \| 721.00B<br>更新: 2026-02-26 |
-| <a href="u-disk-fill.svg"><img src="u-disk-fill.svg" width="250" alt="u-disk-fill.svg"></a> | **u-disk-fill.svg**<br>Vector (SVG) \| 635.00B<br>更新: 2026-02-26 |
-| <a href="uninstall-fill.svg"><img src="uninstall-fill.svg" width="250" alt="uninstall-fill.svg"></a> | **uninstall-fill.svg**<br>Vector (SVG) \| 651.00B<br>更新: 2026-02-26 |
-| <a href="usb-fill.svg"><img src="usb-fill.svg" width="250" alt="usb-fill.svg"></a> | **usb-fill.svg**<br>Vector (SVG) \| 608.00B<br>更新: 2026-02-26 |
-| <a href="wifi-fill.svg"><img src="wifi-fill.svg" width="250" alt="wifi-fill.svg"></a> | **wifi-fill.svg**<br>Vector (SVG) \| 1.08KB<br>更新: 2026-02-26 |
-| <a href="wifi-off-fill.svg"><img src="wifi-off-fill.svg" width="250" alt="wifi-off-fill.svg"></a> | **wifi-off-fill.svg**<br>Vector (SVG) \| 1.21KB<br>更新: 2026-02-26 |
-| <a href="wireless-charging-fill.svg"><img src="wireless-charging-fill.svg" width="250" alt="wireless-charging-fill.svg"></a> | **wireless-charging-fill.svg**<br>Vector (SVG) \| 1.01KB<br>更新: 2026-02-26 |
+| <a href="airplay-fill.svg"><img src="airplay-fill.svg" width="250"></a> | **airplay-fill.svg**<br>Vector (SVG) | 1.16KB |
+| <a href="barcode-box-fill.svg"><img src="barcode-box-fill.svg" width="250"></a> | **barcode-box-fill.svg**<br>Vector (SVG) | 649.00B |
+| <a href="barcode-fill.svg"><img src="barcode-fill.svg" width="250"></a> | **barcode-fill.svg**<br>Vector (SVG) | 367.00B |
+| <a href="base-station-fill.svg"><img src="base-station-fill.svg" width="250"></a> | **base-station-fill.svg**<br>Vector (SVG) | 2.14KB |
+| <a href="battery-2-charge-fill.svg"><img src="battery-2-charge-fill.svg" width="250"></a> | **battery-2-charge-fill.svg**<br>Vector (SVG) | 769.00B |
+| <a href="battery-2-fill.svg"><img src="battery-2-fill.svg" width="250"></a> | **battery-2-fill.svg**<br>Vector (SVG) | 740.00B |
+| <a href="battery-charge-fill.svg"><img src="battery-charge-fill.svg" width="250"></a> | **battery-charge-fill.svg**<br>Vector (SVG) | 630.00B |
+| <a href="battery-fill.svg"><img src="battery-fill.svg" width="250"></a> | **battery-fill.svg**<br>Vector (SVG) | 601.00B |
+| <a href="battery-low-fill.svg"><img src="battery-low-fill.svg" width="250"></a> | **battery-low-fill.svg**<br>Vector (SVG) | 615.00B |
+| <a href="battery-saver-fill.svg"><img src="battery-saver-fill.svg" width="250"></a> | **battery-saver-fill.svg**<br>Vector (SVG) | 781.00B |
+| <a href="battery-share-fill.svg"><img src="battery-share-fill.svg" width="250"></a> | **battery-share-fill.svg**<br>Vector (SVG) | 829.00B |
+| <a href="bluetooth-connect-fill.svg"><img src="bluetooth-connect-fill.svg" width="250"></a> | **bluetooth-connect-fill.svg**<br>Vector (SVG) | 1.19KB |
+| <a href="bluetooth-fill.svg"><img src="bluetooth-fill.svg" width="250"></a> | **bluetooth-fill.svg**<br>Vector (SVG) | 586.00B |
+| <a href="cast-fill.svg"><img src="cast-fill.svg" width="250"></a> | **cast-fill.svg**<br>Vector (SVG) | 1.13KB |
+| <a href="cellphone-fill.svg"><img src="cellphone-fill.svg" width="250"></a> | **cellphone-fill.svg**<br>Vector (SVG) | 530.00B |
+| <a href="computer-fill.svg"><img src="computer-fill.svg" width="250"></a> | **computer-fill.svg**<br>Vector (SVG) | 617.00B |
+| <a href="cpu-fill.svg"><img src="cpu-fill.svg" width="250"></a> | **cpu-fill.svg**<br>Vector (SVG) | 685.00B |
+| <a href="dashboard-2-fill.svg"><img src="dashboard-2-fill.svg" width="250"></a> | **dashboard-2-fill.svg**<br>Vector (SVG) | 957.00B |
+| <a href="dashboard-3-fill.svg"><img src="dashboard-3-fill.svg" width="250"></a> | **dashboard-3-fill.svg**<br>Vector (SVG) | 1.12KB |
+| <a href="database-2-fill.svg"><img src="database-2-fill.svg" width="250"></a> | **database-2-fill.svg**<br>Vector (SVG) | 602.00B |
+| <a href="database-fill.svg"><img src="database-fill.svg" width="250"></a> | **database-fill.svg**<br>Vector (SVG) | 755.00B |
+| <a href="device-fill.svg"><img src="device-fill.svg" width="250"></a> | **device-fill.svg**<br>Vector (SVG) | 905.00B |
+| <a href="device-recover-fill.svg"><img src="device-recover-fill.svg" width="250"></a> | **device-recover-fill.svg**<br>Vector (SVG) | 1.31KB |
+| <a href="dual-sim-1-fill.svg"><img src="dual-sim-1-fill.svg" width="250"></a> | **dual-sim-1-fill.svg**<br>Vector (SVG) | 588.00B |
+| <a href="dual-sim-2-fill.svg"><img src="dual-sim-2-fill.svg" width="250"></a> | **dual-sim-2-fill.svg**<br>Vector (SVG) | 1.28KB |
+| <a href="fingerprint-2-fill.svg"><img src="fingerprint-2-fill.svg" width="250"></a> | **fingerprint-2-fill.svg**<br>Vector (SVG) | 1.44KB |
+| <a href="fingerprint-fill.svg"><img src="fingerprint-fill.svg" width="250"></a> | **fingerprint-fill.svg**<br>Vector (SVG) | 1.87KB |
+| <a href="gamepad-fill.svg"><img src="gamepad-fill.svg" width="250"></a> | **gamepad-fill.svg**<br>Vector (SVG) | 669.00B |
+| <a href="gps-fill.svg"><img src="gps-fill.svg" width="250"></a> | **gps-fill.svg**<br>Vector (SVG) | 1.69KB |
+| <a href="gradienter-fill.svg"><img src="gradienter-fill.svg" width="250"></a> | **gradienter-fill.svg**<br>Vector (SVG) | 896.00B |
+| <a href="hard-drive-2-fill.svg"><img src="hard-drive-2-fill.svg" width="250"></a> | **hard-drive-2-fill.svg**<br>Vector (SVG) | 621.00B |
+| <a href="hard-drive-fill.svg"><img src="hard-drive-fill.svg" width="250"></a> | **hard-drive-fill.svg**<br>Vector (SVG) | 893.00B |
+| <a href="hotspot-fill.svg"><img src="hotspot-fill.svg" width="250"></a> | **hotspot-fill.svg**<br>Vector (SVG) | 919.00B |
+| <a href="install-fill.svg"><img src="install-fill.svg" width="250"></a> | **install-fill.svg**<br>Vector (SVG) | 645.00B |
+| <a href="keyboard-box-fill.svg"><img src="keyboard-box-fill.svg" width="250"></a> | **keyboard-box-fill.svg**<br>Vector (SVG) | 731.00B |
+| <a href="keyboard-fill.svg"><img src="keyboard-fill.svg" width="250"></a> | **keyboard-fill.svg**<br>Vector (SVG) | 420.00B |
+| <a href="mac-fill.svg"><img src="mac-fill.svg" width="250"></a> | **mac-fill.svg**<br>Vector (SVG) | 664.00B |
+| <a href="macbook-fill.svg"><img src="macbook-fill.svg" width="250"></a> | **macbook-fill.svg**<br>Vector (SVG) | 366.00B |
+| <a href="mouse-fill.svg"><img src="mouse-fill.svg" width="250"></a> | **mouse-fill.svg**<br>Vector (SVG) | 767.00B |
+| <a href="phone-fill.svg"><img src="phone-fill.svg" width="250"></a> | **phone-fill.svg**<br>Vector (SVG) | 1.08KB |
+| <a href="phone-find-fill.svg"><img src="phone-find-fill.svg" width="250"></a> | **phone-find-fill.svg**<br>Vector (SVG) | 1.59KB |
+| <a href="phone-lock-fill.svg"><img src="phone-lock-fill.svg" width="250"></a> | **phone-lock-fill.svg**<br>Vector (SVG) | 1.04KB |
+| <a href="qr-code-fill.svg"><img src="qr-code-fill.svg" width="250"></a> | **qr-code-fill.svg**<br>Vector (SVG) | 466.00B |
+| <a href="qr-scan-2-fill.svg"><img src="qr-scan-2-fill.svg" width="250"></a> | **qr-scan-2-fill.svg**<br>Vector (SVG) | 354.00B |
+| <a href="qr-scan-fill.svg"><img src="qr-scan-fill.svg" width="250"></a> | **qr-scan-fill.svg**<br>Vector (SVG) | 565.00B |
+| <a href="radar-fill.svg"><img src="radar-fill.svg" width="250"></a> | **radar-fill.svg**<br>Vector (SVG) | 834.00B |
+| <a href="remote-control-2-fill.svg"><img src="remote-control-2-fill.svg" width="250"></a> | **remote-control-2-fill.svg**<br>Vector (SVG) | 674.00B |
+| <a href="remote-control-fill.svg"><img src="remote-control-fill.svg" width="250"></a> | **remote-control-fill.svg**<br>Vector (SVG) | 1.30KB |
+| <a href="restart-fill.svg"><img src="restart-fill.svg" width="250"></a> | **restart-fill.svg**<br>Vector (SVG) | 1.14KB |
+| <a href="rotate-lock-fill.svg"><img src="rotate-lock-fill.svg" width="250"></a> | **rotate-lock-fill.svg**<br>Vector (SVG) | 1.17KB |
+| <a href="router-fill.svg"><img src="router-fill.svg" width="250"></a> | **router-fill.svg**<br>Vector (SVG) | 1.37KB |
+| <a href="rss-fill.svg"><img src="rss-fill.svg" width="250"></a> | **rss-fill.svg**<br>Vector (SVG) | 528.00B |
+| <a href="save-2-fill.svg"><img src="save-2-fill.svg" width="250"></a> | **save-2-fill.svg**<br>Vector (SVG) | 886.00B |
+| <a href="save-3-fill.svg"><img src="save-3-fill.svg" width="250"></a> | **save-3-fill.svg**<br>Vector (SVG) | 611.00B |
+| <a href="save-fill.svg"><img src="save-fill.svg" width="250"></a> | **save-fill.svg**<br>Vector (SVG) | 546.00B |
+| <a href="scan-2-fill.svg"><img src="scan-2-fill.svg" width="250"></a> | **scan-2-fill.svg**<br>Vector (SVG) | 1.26KB |
+| <a href="scan-fill.svg"><img src="scan-fill.svg" width="250"></a> | **scan-fill.svg**<br>Vector (SVG) | 482.00B |
+| <a href="sd-card-fill.svg"><img src="sd-card-fill.svg" width="250"></a> | **sd-card-fill.svg**<br>Vector (SVG) | 618.00B |
+| <a href="sd-card-mini-fill.svg"><img src="sd-card-mini-fill.svg" width="250"></a> | **sd-card-mini-fill.svg**<br>Vector (SVG) | 734.00B |
+| <a href="sensor-fill.svg"><img src="sensor-fill.svg" width="250"></a> | **sensor-fill.svg**<br>Vector (SVG) | 491.00B |
+| <a href="server-fill.svg"><img src="server-fill.svg" width="250"></a> | **server-fill.svg**<br>Vector (SVG) | 632.00B |
+| <a href="shut-down-fill.svg"><img src="shut-down-fill.svg" width="250"></a> | **shut-down-fill.svg**<br>Vector (SVG) | 415.00B |
+| <a href="signal-wifi-1-fill.svg"><img src="signal-wifi-1-fill.svg" width="250"></a> | **signal-wifi-1-fill.svg**<br>Vector (SVG) | 571.00B |
+| <a href="signal-wifi-2-fill.svg"><img src="signal-wifi-2-fill.svg" width="250"></a> | **signal-wifi-2-fill.svg**<br>Vector (SVG) | 570.00B |
+| <a href="signal-wifi-3-fill.svg"><img src="signal-wifi-3-fill.svg" width="250"></a> | **signal-wifi-3-fill.svg**<br>Vector (SVG) | 564.00B |
+| <a href="signal-wifi-error-fill.svg"><img src="signal-wifi-error-fill.svg" width="250"></a> | **signal-wifi-error-fill.svg**<br>Vector (SVG) | 475.00B |
+| <a href="signal-wifi-fill.svg"><img src="signal-wifi-fill.svg" width="250"></a> | **signal-wifi-fill.svg**<br>Vector (SVG) | 382.00B |
+| <a href="signal-wifi-off-fill.svg"><img src="signal-wifi-off-fill.svg" width="250"></a> | **signal-wifi-off-fill.svg**<br>Vector (SVG) | 593.00B |
+| <a href="sim-card-2-fill.svg"><img src="sim-card-2-fill.svg" width="250"></a> | **sim-card-2-fill.svg**<br>Vector (SVG) | 679.00B |
+| <a href="sim-card-fill.svg"><img src="sim-card-fill.svg" width="250"></a> | **sim-card-fill.svg**<br>Vector (SVG) | 581.00B |
+| <a href="smartphone-fill.svg"><img src="smartphone-fill.svg" width="250"></a> | **smartphone-fill.svg**<br>Vector (SVG) | 895.00B |
+| <a href="tablet-fill.svg"><img src="tablet-fill.svg" width="250"></a> | **tablet-fill.svg**<br>Vector (SVG) | 895.00B |
+| <a href="tv-2-fill.svg"><img src="tv-2-fill.svg" width="250"></a> | **tv-2-fill.svg**<br>Vector (SVG) | 605.00B |
+| <a href="tv-fill.svg"><img src="tv-fill.svg" width="250"></a> | **tv-fill.svg**<br>Vector (SVG) | 721.00B |
+| <a href="u-disk-fill.svg"><img src="u-disk-fill.svg" width="250"></a> | **u-disk-fill.svg**<br>Vector (SVG) | 635.00B |
+| <a href="uninstall-fill.svg"><img src="uninstall-fill.svg" width="250"></a> | **uninstall-fill.svg**<br>Vector (SVG) | 651.00B |
+| <a href="usb-fill.svg"><img src="usb-fill.svg" width="250"></a> | **usb-fill.svg**<br>Vector (SVG) | 608.00B |
+| <a href="wifi-fill.svg"><img src="wifi-fill.svg" width="250"></a> | **wifi-fill.svg**<br>Vector (SVG) | 1.08KB |
+| <a href="wifi-off-fill.svg"><img src="wifi-off-fill.svg" width="250"></a> | **wifi-off-fill.svg**<br>Vector (SVG) | 1.21KB |
+| <a href="wireless-charging-fill.svg"><img src="wireless-charging-fill.svg" width="250"></a> | **wireless-charging-fill.svg**<br>Vector (SVG) | 1.01KB |

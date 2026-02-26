@@ -1,7 +1,7 @@
-# 🖼️ Flags Gallery
+# 🖼️ Flags 素材庫
 
-[⬅️ 回到首頁](../../README.md)
+[⬅️ 返回主目錄](../../README.md)
 
-| 預覽 | 詳細資訊 |
+| 預覽 (點擊放大) | 檔案資訊 |
 | :--- | :--- |
-| <a href="sri-lanka-57.svg"><img src="sri-lanka-57.svg" width="250" alt="sri-lanka-57.svg"></a> | **sri-lanka-57.svg**<br>Vector (SVG) \| 38.63KB<br>更新: 2026-02-26 |
+| <a href="sri-lanka-57.svg"><img src="sri-lanka-57.svg" width="250"></a> | **sri-lanka-57.svg**<br>Vector (SVG) | 38.63KB |

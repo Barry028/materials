@@ -1,227 +1,227 @@
-# 🖼️ 32 Gallery
+# 🖼️ 32 素材庫
 
-[⬅️ 回到首頁](../../README.md)
+[⬅️ 返回主目錄](../../README.md)
 
-| 預覽 | 詳細資訊 |
+| 預覽 (點擊放大) | 檔案資訊 |
 | :--- | :--- |
-| <a href="acrobat.svg"><img src="acrobat.svg" width="250" alt="acrobat.svg"></a> | **acrobat.svg**<br>Vector (SVG) \| 378.00B<br>更新: 2026-02-26 |
-| <a href="address-book-new.svg"><img src="address-book-new.svg" width="250" alt="address-book-new.svg"></a> | **address-book-new.svg**<br>Vector (SVG) \| 402.00B<br>更新: 2026-02-26 |
-| <a href="align-horizontal-bottom-out.svg"><img src="align-horizontal-bottom-out.svg" width="250" alt="align-horizontal-bottom-out.svg"></a> | **align-horizontal-bottom-out.svg**<br>Vector (SVG) \| 603.00B<br>更新: 2026-02-26 |
-| <a href="align-horizontal-center.svg"><img src="align-horizontal-center.svg" width="250" alt="align-horizontal-center.svg"></a> | **align-horizontal-center.svg**<br>Vector (SVG) \| 420.00B<br>更新: 2026-02-26 |
-| <a href="align-horizontal-left-out.svg"><img src="align-horizontal-left-out.svg" width="250" alt="align-horizontal-left-out.svg"></a> | **align-horizontal-left-out.svg**<br>Vector (SVG) \| 408.00B<br>更新: 2026-02-26 |
-| <a href="align-horizontal-left-to-anchor.svg"><img src="align-horizontal-left-to-anchor.svg" width="250" alt="align-horizontal-left-to-anchor.svg"></a> | **align-horizontal-left-to-anchor.svg**<br>Vector (SVG) \| 428.00B<br>更新: 2026-02-26 |
-| <a href="align-horizontal-left.svg"><img src="align-horizontal-left.svg" width="250" alt="align-horizontal-left.svg"></a> | **align-horizontal-left.svg**<br>Vector (SVG) \| 564.00B<br>更新: 2026-02-26 |
-| <a href="align-horizontal-right-out.svg"><img src="align-horizontal-right-out.svg" width="250" alt="align-horizontal-right-out.svg"></a> | **align-horizontal-right-out.svg**<br>Vector (SVG) \| 609.00B<br>更新: 2026-02-26 |
-| <a href="align-horizontal-right-to-anchor.svg"><img src="align-horizontal-right-to-anchor.svg" width="250" alt="align-horizontal-right-to-anchor.svg"></a> | **align-horizontal-right-to-anchor.svg**<br>Vector (SVG) \| 606.00B<br>更新: 2026-02-26 |
-| <a href="align-horizontal-right.svg"><img src="align-horizontal-right.svg" width="250" alt="align-horizontal-right.svg"></a> | **align-horizontal-right.svg**<br>Vector (SVG) \| 573.00B<br>更新: 2026-02-26 |
-| <a href="align-horizontal-top-out.svg"><img src="align-horizontal-top-out.svg" width="250" alt="align-horizontal-top-out.svg"></a> | **align-horizontal-top-out.svg**<br>Vector (SVG) \| 618.00B<br>更新: 2026-02-26 |
-| <a href="align-vertical-bottom-out.svg"><img src="align-vertical-bottom-out.svg" width="250" alt="align-vertical-bottom-out.svg"></a> | **align-vertical-bottom-out.svg**<br>Vector (SVG) \| 609.00B<br>更新: 2026-02-26 |
-| <a href="align-vertical-bottom-to-anchor.svg"><img src="align-vertical-bottom-to-anchor.svg" width="250" alt="align-vertical-bottom-to-anchor.svg"></a> | **align-vertical-bottom-to-anchor.svg**<br>Vector (SVG) \| 609.00B<br>更新: 2026-02-26 |
-| <a href="align-vertical-bottom.svg"><img src="align-vertical-bottom.svg" width="250" alt="align-vertical-bottom.svg"></a> | **align-vertical-bottom.svg**<br>Vector (SVG) \| 573.00B<br>更新: 2026-02-26 |
-| <a href="align-vertical-center.svg"><img src="align-vertical-center.svg" width="250" alt="align-vertical-center.svg"></a> | **align-vertical-center.svg**<br>Vector (SVG) \| 616.00B<br>更新: 2026-02-26 |
-| <a href="align-vertical-top-out.svg"><img src="align-vertical-top-out.svg" width="250" alt="align-vertical-top-out.svg"></a> | **align-vertical-top-out.svg**<br>Vector (SVG) \| 618.00B<br>更新: 2026-02-26 |
-| <a href="align-vertical-top.svg"><img src="align-vertical-top.svg" width="250" alt="align-vertical-top.svg"></a> | **align-vertical-top.svg**<br>Vector (SVG) \| 562.00B<br>更新: 2026-02-26 |
-| <a href="application-exit.svg"><img src="application-exit.svg" width="250" alt="application-exit.svg"></a> | **application-exit.svg**<br>Vector (SVG) \| 421.00B<br>更新: 2026-02-26 |
-| <a href="application-menu.svg"><img src="application-menu.svg" width="250" alt="application-menu.svg"></a> | **application-menu.svg**<br>Vector (SVG) \| 486.00B<br>更新: 2026-02-26 |
-| <a href="appointment-new.svg"><img src="appointment-new.svg" width="250" alt="appointment-new.svg"></a> | **appointment-new.svg**<br>Vector (SVG) \| 608.00B<br>更新: 2026-02-26 |
-| <a href="archive-extract.svg"><img src="archive-extract.svg" width="250" alt="archive-extract.svg"></a> | **archive-extract.svg**<br>Vector (SVG) \| 492.00B<br>更新: 2026-02-26 |
-| <a href="archive-insert.svg"><img src="archive-insert.svg" width="250" alt="archive-insert.svg"></a> | **archive-insert.svg**<br>Vector (SVG) \| 414.00B<br>更新: 2026-02-26 |
-| <a href="archive-remove.svg"><img src="archive-remove.svg" width="250" alt="archive-remove.svg"></a> | **archive-remove.svg**<br>Vector (SVG) \| 515.00B<br>更新: 2026-02-26 |
-| <a href="autocorrection.svg"><img src="autocorrection.svg" width="250" alt="autocorrection.svg"></a> | **autocorrection.svg**<br>Vector (SVG) \| 1017.00B<br>更新: 2026-02-26 |
-| <a href="bookmark-new.svg"><img src="bookmark-new.svg" width="250" alt="bookmark-new.svg"></a> | **bookmark-new.svg**<br>Vector (SVG) \| 423.00B<br>更新: 2026-02-26 |
-| <a href="bookmark-remove.svg"><img src="bookmark-remove.svg" width="250" alt="bookmark-remove.svg"></a> | **bookmark-remove.svg**<br>Vector (SVG) \| 667.00B<br>更新: 2026-02-26 |
-| <a href="bookmarks-bookmarked.svg"><img src="bookmarks-bookmarked.svg" width="250" alt="bookmarks-bookmarked.svg"></a> | **bookmarks-bookmarked.svg**<br>Vector (SVG) \| 339.00B<br>更新: 2026-02-26 |
-| <a href="bookmarks.svg"><img src="bookmarks.svg" width="250" alt="bookmarks.svg"></a> | **bookmarks.svg**<br>Vector (SVG) \| 390.00B<br>更新: 2026-02-26 |
-| <a href="bordertool.svg"><img src="bordertool.svg" width="250" alt="bordertool.svg"></a> | **bordertool.svg**<br>Vector (SVG) \| 424.00B<br>更新: 2026-02-26 |
-| <a href="call-start.svg"><img src="call-start.svg" width="250" alt="call-start.svg"></a> | **call-start.svg**<br>Vector (SVG) \| 668.00B<br>更新: 2026-02-26 |
-| <a href="call-stop.svg"><img src="call-stop.svg" width="250" alt="call-stop.svg"></a> | **call-stop.svg**<br>Vector (SVG) \| 630.00B<br>更新: 2026-02-26 |
-| <a href="collapse-all.svg"><img src="collapse-all.svg" width="250" alt="collapse-all.svg"></a> | **collapse-all.svg**<br>Vector (SVG) \| 346.00B<br>更新: 2026-02-26 |
-| <a href="color-management.svg"><img src="color-management.svg" width="250" alt="color-management.svg"></a> | **color-management.svg**<br>Vector (SVG) \| 8.06KB<br>更新: 2026-02-26 |
-| <a href="color-picker-black.svg"><img src="color-picker-black.svg" width="250" alt="color-picker-black.svg"></a> | **color-picker-black.svg**<br>Vector (SVG) \| 1.37KB<br>更新: 2026-02-26 |
-| <a href="color-picker-grey.svg"><img src="color-picker-grey.svg" width="250" alt="color-picker-grey.svg"></a> | **color-picker-grey.svg**<br>Vector (SVG) \| 1.48KB<br>更新: 2026-02-26 |
-| <a href="color-picker-white.svg"><img src="color-picker-white.svg" width="250" alt="color-picker-white.svg"></a> | **color-picker-white.svg**<br>Vector (SVG) \| 1.40KB<br>更新: 2026-02-26 |
-| <a href="color-picker.svg"><img src="color-picker.svg" width="250" alt="color-picker.svg"></a> | **color-picker.svg**<br>Vector (SVG) \| 798.00B<br>更新: 2026-02-26 |
-| <a href="colors-chromablue.svg"><img src="colors-chromablue.svg" width="250" alt="colors-chromablue.svg"></a> | **colors-chromablue.svg**<br>Vector (SVG) \| 473.00B<br>更新: 2026-02-26 |
-| <a href="colors-chromagreen.svg"><img src="colors-chromagreen.svg" width="250" alt="colors-chromagreen.svg"></a> | **colors-chromagreen.svg**<br>Vector (SVG) \| 473.00B<br>更新: 2026-02-26 |
-| <a href="colors-chromared.svg"><img src="colors-chromared.svg" width="250" alt="colors-chromared.svg"></a> | **colors-chromared.svg**<br>Vector (SVG) \| 473.00B<br>更新: 2026-02-26 |
-| <a href="colors-luma.svg"><img src="colors-luma.svg" width="250" alt="colors-luma.svg"></a> | **colors-luma.svg**<br>Vector (SVG) \| 3.34KB<br>更新: 2026-02-26 |
-| <a href="compass.svg"><img src="compass.svg" width="250" alt="compass.svg"></a> | **compass.svg**<br>Vector (SVG) \| 728.00B<br>更新: 2026-02-26 |
-| <a href="configure.svg"><img src="configure.svg" width="250" alt="configure.svg"></a> | **configure.svg**<br>Vector (SVG) \| 728.00B<br>更新: 2026-02-26 |
-| <a href="cursor-cross.svg"><img src="cursor-cross.svg" width="250" alt="cursor-cross.svg"></a> | **cursor-cross.svg**<br>Vector (SVG) \| 462.00B<br>更新: 2026-02-26 |
-| <a href="dialog-cancel.svg"><img src="dialog-cancel.svg" width="250" alt="dialog-cancel.svg"></a> | **dialog-cancel.svg**<br>Vector (SVG) \| 733.00B<br>更新: 2026-02-26 |
-| <a href="dialog-messages.svg"><img src="dialog-messages.svg" width="250" alt="dialog-messages.svg"></a> | **dialog-messages.svg**<br>Vector (SVG) \| 375.00B<br>更新: 2026-02-26 |
-| <a href="dialog-ok-apply.svg"><img src="dialog-ok-apply.svg" width="250" alt="dialog-ok-apply.svg"></a> | **dialog-ok-apply.svg**<br>Vector (SVG) \| 355.00B<br>更新: 2026-02-26 |
-| <a href="document-close.svg"><img src="document-close.svg" width="250" alt="document-close.svg"></a> | **document-close.svg**<br>Vector (SVG) \| 569.00B<br>更新: 2026-02-26 |
-| <a href="document-decrypt.svg"><img src="document-decrypt.svg" width="250" alt="document-decrypt.svg"></a> | **document-decrypt.svg**<br>Vector (SVG) \| 735.00B<br>更新: 2026-02-26 |
-| <a href="document-edit-decrypt-verify.svg"><img src="document-edit-decrypt-verify.svg" width="250" alt="document-edit-decrypt-verify.svg"></a> | **document-edit-decrypt-verify.svg**<br>Vector (SVG) \| 1.33KB<br>更新: 2026-02-26 |
-| <a href="document-edit-decrypt.svg"><img src="document-edit-decrypt.svg" width="250" alt="document-edit-decrypt.svg"></a> | **document-edit-decrypt.svg**<br>Vector (SVG) \| 974.00B<br>更新: 2026-02-26 |
-| <a href="document-edit-encrypt.svg"><img src="document-edit-encrypt.svg" width="250" alt="document-edit-encrypt.svg"></a> | **document-edit-encrypt.svg**<br>Vector (SVG) \| 1.00KB<br>更新: 2026-02-26 |
-| <a href="document-edit-sign-encrypt.svg"><img src="document-edit-sign-encrypt.svg" width="250" alt="document-edit-sign-encrypt.svg"></a> | **document-edit-sign-encrypt.svg**<br>Vector (SVG) \| 904.00B<br>更新: 2026-02-26 |
-| <a href="document-edit-sign.svg"><img src="document-edit-sign.svg" width="250" alt="document-edit-sign.svg"></a> | **document-edit-sign.svg**<br>Vector (SVG) \| 996.00B<br>更新: 2026-02-26 |
-| <a href="document-edit.svg"><img src="document-edit.svg" width="250" alt="document-edit.svg"></a> | **document-edit.svg**<br>Vector (SVG) \| 523.00B<br>更新: 2026-02-26 |
-| <a href="document-encrypted.svg"><img src="document-encrypted.svg" width="250" alt="document-encrypted.svg"></a> | **document-encrypted.svg**<br>Vector (SVG) \| 659.00B<br>更新: 2026-02-26 |
-| <a href="document-export.svg"><img src="document-export.svg" width="250" alt="document-export.svg"></a> | **document-export.svg**<br>Vector (SVG) \| 605.00B<br>更新: 2026-02-26 |
-| <a href="document-import.svg"><img src="document-import.svg" width="250" alt="document-import.svg"></a> | **document-import.svg**<br>Vector (SVG) \| 605.00B<br>更新: 2026-02-26 |
-| <a href="document-new-from-template.svg"><img src="document-new-from-template.svg" width="250" alt="document-new-from-template.svg"></a> | **document-new-from-template.svg**<br>Vector (SVG) \| 795.00B<br>更新: 2026-02-26 |
-| <a href="document-new.svg"><img src="document-new.svg" width="250" alt="document-new.svg"></a> | **document-new.svg**<br>Vector (SVG) \| 1.95KB<br>更新: 2026-02-26 |
-| <a href="document-open-recent.svg"><img src="document-open-recent.svg" width="250" alt="document-open-recent.svg"></a> | **document-open-recent.svg**<br>Vector (SVG) \| 1.72KB<br>更新: 2026-02-26 |
-| <a href="document-open-remote.svg"><img src="document-open-remote.svg" width="250" alt="document-open-remote.svg"></a> | **document-open-remote.svg**<br>Vector (SVG) \| 685.00B<br>更新: 2026-02-26 |
-| <a href="document-open.svg"><img src="document-open.svg" width="250" alt="document-open.svg"></a> | **document-open.svg**<br>Vector (SVG) \| 705.00B<br>更新: 2026-02-26 |
-| <a href="document-preview-archive.svg"><img src="document-preview-archive.svg" width="250" alt="document-preview-archive.svg"></a> | **document-preview-archive.svg**<br>Vector (SVG) \| 878.00B<br>更新: 2026-02-26 |
-| <a href="document-print-direct.svg"><img src="document-print-direct.svg" width="250" alt="document-print-direct.svg"></a> | **document-print-direct.svg**<br>Vector (SVG) \| 798.00B<br>更新: 2026-02-26 |
-| <a href="document-print.svg"><img src="document-print.svg" width="250" alt="document-print.svg"></a> | **document-print.svg**<br>Vector (SVG) \| 531.00B<br>更新: 2026-02-26 |
-| <a href="document-properties.svg"><img src="document-properties.svg" width="250" alt="document-properties.svg"></a> | **document-properties.svg**<br>Vector (SVG) \| 616.00B<br>更新: 2026-02-26 |
-| <a href="document-replace.svg"><img src="document-replace.svg" width="250" alt="document-replace.svg"></a> | **document-replace.svg**<br>Vector (SVG) \| 973.00B<br>更新: 2026-02-26 |
-| <a href="document-revert.svg"><img src="document-revert.svg" width="250" alt="document-revert.svg"></a> | **document-revert.svg**<br>Vector (SVG) \| 496.00B<br>更新: 2026-02-26 |
-| <a href="document-save-all.svg"><img src="document-save-all.svg" width="250" alt="document-save-all.svg"></a> | **document-save-all.svg**<br>Vector (SVG) \| 1.02KB<br>更新: 2026-02-26 |
-| <a href="document-save-as.svg"><img src="document-save-as.svg" width="250" alt="document-save-as.svg"></a> | **document-save-as.svg**<br>Vector (SVG) \| 1.09KB<br>更新: 2026-02-26 |
-| <a href="document-save.svg"><img src="document-save.svg" width="250" alt="document-save.svg"></a> | **document-save.svg**<br>Vector (SVG) \| 665.00B<br>更新: 2026-02-26 |
-| <a href="document-share.svg"><img src="document-share.svg" width="250" alt="document-share.svg"></a> | **document-share.svg**<br>Vector (SVG) \| 1.38KB<br>更新: 2026-02-26 |
-| <a href="edit-delete-shred.svg"><img src="edit-delete-shred.svg" width="250" alt="edit-delete-shred.svg"></a> | **edit-delete-shred.svg**<br>Vector (SVG) \| 949.00B<br>更新: 2026-02-26 |
-| <a href="edit-delete.svg"><img src="edit-delete.svg" width="250" alt="edit-delete.svg"></a> | **edit-delete.svg**<br>Vector (SVG) \| 331.00B<br>更新: 2026-02-26 |
-| <a href="edit-redo.svg"><img src="edit-redo.svg" width="250" alt="edit-redo.svg"></a> | **edit-redo.svg**<br>Vector (SVG) \| 482.00B<br>更新: 2026-02-26 |
-| <a href="edit-reset.svg"><img src="edit-reset.svg" width="250" alt="edit-reset.svg"></a> | **edit-reset.svg**<br>Vector (SVG) \| 710.00B<br>更新: 2026-02-26 |
-| <a href="edit-select.svg"><img src="edit-select.svg" width="250" alt="edit-select.svg"></a> | **edit-select.svg**<br>Vector (SVG) \| 541.00B<br>更新: 2026-02-26 |
-| <a href="edit-undo.svg"><img src="edit-undo.svg" width="250" alt="edit-undo.svg"></a> | **edit-undo.svg**<br>Vector (SVG) \| 497.00B<br>更新: 2026-02-26 |
-| <a href="expand-all.svg"><img src="expand-all.svg" width="250" alt="expand-all.svg"></a> | **expand-all.svg**<br>Vector (SVG) \| 348.00B<br>更新: 2026-02-26 |
-| <a href="financial-account.svg"><img src="financial-account.svg" width="250" alt="financial-account.svg"></a> | **financial-account.svg**<br>Vector (SVG) \| 2.99KB<br>更新: 2026-02-26 |
-| <a href="financial-list.svg"><img src="financial-list.svg" width="250" alt="financial-list.svg"></a> | **financial-list.svg**<br>Vector (SVG) \| 2.33KB<br>更新: 2026-02-26 |
-| <a href="flash.svg"><img src="flash.svg" width="250" alt="flash.svg"></a> | **flash.svg**<br>Vector (SVG) \| 561.00B<br>更新: 2026-02-26 |
-| <a href="flashlight-off.svg"><img src="flashlight-off.svg" width="250" alt="flashlight-off.svg"></a> | **flashlight-off.svg**<br>Vector (SVG) \| 985.00B<br>更新: 2026-02-26 |
-| <a href="flashlight-on.svg"><img src="flashlight-on.svg" width="250" alt="flashlight-on.svg"></a> | **flashlight-on.svg**<br>Vector (SVG) \| 768.00B<br>更新: 2026-02-26 |
-| <a href="folder-edit-sign-encrypt.svg"><img src="folder-edit-sign-encrypt.svg" width="250" alt="folder-edit-sign-encrypt.svg"></a> | **folder-edit-sign-encrypt.svg**<br>Vector (SVG) \| 790.00B<br>更新: 2026-02-26 |
-| <a href="folder-new.svg"><img src="folder-new.svg" width="250" alt="folder-new.svg"></a> | **folder-new.svg**<br>Vector (SVG) \| 597.00B<br>更新: 2026-02-26 |
-| <a href="folder-symbolic.svg"><img src="folder-symbolic.svg" width="250" alt="folder-symbolic.svg"></a> | **folder-symbolic.svg**<br>Vector (SVG) \| 391.00B<br>更新: 2026-02-26 |
-| <a href="folder-sync.svg"><img src="folder-sync.svg" width="250" alt="folder-sync.svg"></a> | **folder-sync.svg**<br>Vector (SVG) \| 907.00B<br>更新: 2026-02-26 |
-| <a href="gnumeric-format-halign-distributed.svg"><img src="gnumeric-format-halign-distributed.svg" width="250" alt="gnumeric-format-halign-distributed.svg"></a> | **gnumeric-format-halign-distributed.svg**<br>Vector (SVG) \| 588.00B<br>更新: 2026-02-26 |
-| <a href="gnumeric-format-valign-bottom.svg"><img src="gnumeric-format-valign-bottom.svg" width="250" alt="gnumeric-format-valign-bottom.svg"></a> | **gnumeric-format-valign-bottom.svg**<br>Vector (SVG) \| 463.00B<br>更新: 2026-02-26 |
-| <a href="gnumeric-format-valign-center.svg"><img src="gnumeric-format-valign-center.svg" width="250" alt="gnumeric-format-valign-center.svg"></a> | **gnumeric-format-valign-center.svg**<br>Vector (SVG) \| 564.00B<br>更新: 2026-02-26 |
-| <a href="gnumeric-format-valign-distributed.svg"><img src="gnumeric-format-valign-distributed.svg" width="250" alt="gnumeric-format-valign-distributed.svg"></a> | **gnumeric-format-valign-distributed.svg**<br>Vector (SVG) \| 627.00B<br>更新: 2026-02-26 |
-| <a href="gnumeric-format-valign-justify.svg"><img src="gnumeric-format-valign-justify.svg" width="250" alt="gnumeric-format-valign-justify.svg"></a> | **gnumeric-format-valign-justify.svg**<br>Vector (SVG) \| 585.00B<br>更新: 2026-02-26 |
-| <a href="gnumeric-format-valign-top.svg"><img src="gnumeric-format-valign-top.svg" width="250" alt="gnumeric-format-valign-top.svg"></a> | **gnumeric-format-valign-top.svg**<br>Vector (SVG) \| 459.00B<br>更新: 2026-02-26 |
-| <a href="go-bottom.svg"><img src="go-bottom.svg" width="250" alt="go-bottom.svg"></a> | **go-bottom.svg**<br>Vector (SVG) \| 442.00B<br>更新: 2026-02-26 |
-| <a href="go-down-skip.svg"><img src="go-down-skip.svg" width="250" alt="go-down-skip.svg"></a> | **go-down-skip.svg**<br>Vector (SVG) \| 372.00B<br>更新: 2026-02-26 |
-| <a href="go-down.svg"><img src="go-down.svg" width="250" alt="go-down.svg"></a> | **go-down.svg**<br>Vector (SVG) \| 332.00B<br>更新: 2026-02-26 |
-| <a href="go-first.svg"><img src="go-first.svg" width="250" alt="go-first.svg"></a> | **go-first.svg**<br>Vector (SVG) \| 440.00B<br>更新: 2026-02-26 |
-| <a href="go-jump.svg"><img src="go-jump.svg" width="250" alt="go-jump.svg"></a> | **go-jump.svg**<br>Vector (SVG) \| 394.00B<br>更新: 2026-02-26 |
-| <a href="go-last.svg"><img src="go-last.svg" width="250" alt="go-last.svg"></a> | **go-last.svg**<br>Vector (SVG) \| 443.00B<br>更新: 2026-02-26 |
-| <a href="go-next-skip.svg"><img src="go-next-skip.svg" width="250" alt="go-next-skip.svg"></a> | **go-next-skip.svg**<br>Vector (SVG) \| 372.00B<br>更新: 2026-02-26 |
-| <a href="go-next.svg"><img src="go-next.svg" width="250" alt="go-next.svg"></a> | **go-next.svg**<br>Vector (SVG) \| 332.00B<br>更新: 2026-02-26 |
-| <a href="go-parent-folder.svg"><img src="go-parent-folder.svg" width="250" alt="go-parent-folder.svg"></a> | **go-parent-folder.svg**<br>Vector (SVG) \| 645.00B<br>更新: 2026-02-26 |
-| <a href="go-previous-skip.svg"><img src="go-previous-skip.svg" width="250" alt="go-previous-skip.svg"></a> | **go-previous-skip.svg**<br>Vector (SVG) \| 377.00B<br>更新: 2026-02-26 |
-| <a href="go-previous.svg"><img src="go-previous.svg" width="250" alt="go-previous.svg"></a> | **go-previous.svg**<br>Vector (SVG) \| 331.00B<br>更新: 2026-02-26 |
-| <a href="go-top.svg"><img src="go-top.svg" width="250" alt="go-top.svg"></a> | **go-top.svg**<br>Vector (SVG) \| 443.00B<br>更新: 2026-02-26 |
-| <a href="go-up-skip.svg"><img src="go-up-skip.svg" width="250" alt="go-up-skip.svg"></a> | **go-up-skip.svg**<br>Vector (SVG) \| 372.00B<br>更新: 2026-02-26 |
-| <a href="go-up.svg"><img src="go-up.svg" width="250" alt="go-up.svg"></a> | **go-up.svg**<br>Vector (SVG) \| 333.00B<br>更新: 2026-02-26 |
-| <a href="help-about.svg"><img src="help-about.svg" width="250" alt="help-about.svg"></a> | **help-about.svg**<br>Vector (SVG) \| 2.54KB<br>更新: 2026-02-26 |
-| <a href="help-whatsthis.svg"><img src="help-whatsthis.svg" width="250" alt="help-whatsthis.svg"></a> | **help-whatsthis.svg**<br>Vector (SVG) \| 779.00B<br>更新: 2026-02-26 |
-| <a href="home.svg"><img src="home.svg" width="250" alt="home.svg"></a> | **home.svg**<br>Vector (SVG) \| 2.20KB<br>更新: 2026-02-26 |
-| <a href="institution.svg"><img src="institution.svg" width="250" alt="institution.svg"></a> | **institution.svg**<br>Vector (SVG) \| 6.67KB<br>更新: 2026-02-26 |
-| <a href="labplot-zoom-in-x.svg"><img src="labplot-zoom-in-x.svg" width="250" alt="labplot-zoom-in-x.svg"></a> | **labplot-zoom-in-x.svg**<br>Vector (SVG) \| 916.00B<br>更新: 2026-02-26 |
-| <a href="labplot-zoom-in-y.svg"><img src="labplot-zoom-in-y.svg" width="250" alt="labplot-zoom-in-y.svg"></a> | **labplot-zoom-in-y.svg**<br>Vector (SVG) \| 918.00B<br>更新: 2026-02-26 |
-| <a href="labplot-zoom-out-x.svg"><img src="labplot-zoom-out-x.svg" width="250" alt="labplot-zoom-out-x.svg"></a> | **labplot-zoom-out-x.svg**<br>Vector (SVG) \| 790.00B<br>更新: 2026-02-26 |
-| <a href="labplot-zoom-out-y.svg"><img src="labplot-zoom-out-y.svg" width="250" alt="labplot-zoom-out-y.svg"></a> | **labplot-zoom-out-y.svg**<br>Vector (SVG) \| 825.00B<br>更新: 2026-02-26 |
-| <a href="mail-attachment.svg"><img src="mail-attachment.svg" width="250" alt="mail-attachment.svg"></a> | **mail-attachment.svg**<br>Vector (SVG) \| 1.70KB<br>更新: 2026-02-26 |
-| <a href="mail-deleted.svg"><img src="mail-deleted.svg" width="250" alt="mail-deleted.svg"></a> | **mail-deleted.svg**<br>Vector (SVG) \| 871.00B<br>更新: 2026-02-26 |
-| <a href="mail-encrypted-full.svg"><img src="mail-encrypted-full.svg" width="250" alt="mail-encrypted-full.svg"></a> | **mail-encrypted-full.svg**<br>Vector (SVG) \| 924.00B<br>更新: 2026-02-26 |
-| <a href="mail-encrypted-part.svg"><img src="mail-encrypted-part.svg" width="250" alt="mail-encrypted-part.svg"></a> | **mail-encrypted-part.svg**<br>Vector (SVG) \| 966.00B<br>更新: 2026-02-26 |
-| <a href="mail-flag.svg"><img src="mail-flag.svg" width="250" alt="mail-flag.svg"></a> | **mail-flag.svg**<br>Vector (SVG) \| 642.00B<br>更新: 2026-02-26 |
-| <a href="mail-forward.svg"><img src="mail-forward.svg" width="250" alt="mail-forward.svg"></a> | **mail-forward.svg**<br>Vector (SVG) \| 873.00B<br>更新: 2026-02-26 |
-| <a href="mail-forwarded-replied.svg"><img src="mail-forwarded-replied.svg" width="250" alt="mail-forwarded-replied.svg"></a> | **mail-forwarded-replied.svg**<br>Vector (SVG) \| 939.00B<br>更新: 2026-02-26 |
-| <a href="mail-forwarded.svg"><img src="mail-forwarded.svg" width="250" alt="mail-forwarded.svg"></a> | **mail-forwarded.svg**<br>Vector (SVG) \| 811.00B<br>更新: 2026-02-26 |
-| <a href="mail-invitation.svg"><img src="mail-invitation.svg" width="250" alt="mail-invitation.svg"></a> | **mail-invitation.svg**<br>Vector (SVG) \| 1.01KB<br>更新: 2026-02-26 |
-| <a href="mail-mark-important.svg"><img src="mail-mark-important.svg" width="250" alt="mail-mark-important.svg"></a> | **mail-mark-important.svg**<br>Vector (SVG) \| 901.00B<br>更新: 2026-02-26 |
-| <a href="mail-mark-junk.svg"><img src="mail-mark-junk.svg" width="250" alt="mail-mark-junk.svg"></a> | **mail-mark-junk.svg**<br>Vector (SVG) \| 961.00B<br>更新: 2026-02-26 |
-| <a href="mail-mark-notjunk.svg"><img src="mail-mark-notjunk.svg" width="250" alt="mail-mark-notjunk.svg"></a> | **mail-mark-notjunk.svg**<br>Vector (SVG) \| 803.00B<br>更新: 2026-02-26 |
-| <a href="mail-mark-read.svg"><img src="mail-mark-read.svg" width="250" alt="mail-mark-read.svg"></a> | **mail-mark-read.svg**<br>Vector (SVG) \| 643.00B<br>更新: 2026-02-26 |
-| <a href="mail-mark-unread-new.svg"><img src="mail-mark-unread-new.svg" width="250" alt="mail-mark-unread-new.svg"></a> | **mail-mark-unread-new.svg**<br>Vector (SVG) \| 944.00B<br>更新: 2026-02-26 |
-| <a href="mail-mark-unread.svg"><img src="mail-mark-unread.svg" width="250" alt="mail-mark-unread.svg"></a> | **mail-mark-unread.svg**<br>Vector (SVG) \| 773.00B<br>更新: 2026-02-26 |
-| <a href="mail-meeting-request-reply.svg"><img src="mail-meeting-request-reply.svg" width="250" alt="mail-meeting-request-reply.svg"></a> | **mail-meeting-request-reply.svg**<br>Vector (SVG) \| 803.00B<br>更新: 2026-02-26 |
-| <a href="mail-message-new-list.svg"><img src="mail-message-new-list.svg" width="250" alt="mail-message-new-list.svg"></a> | **mail-message-new-list.svg**<br>Vector (SVG) \| 838.00B<br>更新: 2026-02-26 |
-| <a href="mail-message-new.svg"><img src="mail-message-new.svg" width="250" alt="mail-message-new.svg"></a> | **mail-message-new.svg**<br>Vector (SVG) \| 818.00B<br>更新: 2026-02-26 |
-| <a href="mail-queue.svg"><img src="mail-queue.svg" width="250" alt="mail-queue.svg"></a> | **mail-queue.svg**<br>Vector (SVG) \| 880.00B<br>更新: 2026-02-26 |
-| <a href="mail-replied.svg"><img src="mail-replied.svg" width="250" alt="mail-replied.svg"></a> | **mail-replied.svg**<br>Vector (SVG) \| 760.00B<br>更新: 2026-02-26 |
-| <a href="mail-reply-all.svg"><img src="mail-reply-all.svg" width="250" alt="mail-reply-all.svg"></a> | **mail-reply-all.svg**<br>Vector (SVG) \| 867.00B<br>更新: 2026-02-26 |
-| <a href="mail-reply-custom-all.svg"><img src="mail-reply-custom-all.svg" width="250" alt="mail-reply-custom-all.svg"></a> | **mail-reply-custom-all.svg**<br>Vector (SVG) \| 662.00B<br>更新: 2026-02-26 |
-| <a href="mail-reply-custom.svg"><img src="mail-reply-custom.svg" width="250" alt="mail-reply-custom.svg"></a> | **mail-reply-custom.svg**<br>Vector (SVG) \| 562.00B<br>更新: 2026-02-26 |
-| <a href="mail-reply-list.svg"><img src="mail-reply-list.svg" width="250" alt="mail-reply-list.svg"></a> | **mail-reply-list.svg**<br>Vector (SVG) \| 882.00B<br>更新: 2026-02-26 |
-| <a href="mail-reply-sender.svg"><img src="mail-reply-sender.svg" width="250" alt="mail-reply-sender.svg"></a> | **mail-reply-sender.svg**<br>Vector (SVG) \| 783.00B<br>更新: 2026-02-26 |
-| <a href="mail-send.svg"><img src="mail-send.svg" width="250" alt="mail-send.svg"></a> | **mail-send.svg**<br>Vector (SVG) \| 802.00B<br>更新: 2026-02-26 |
-| <a href="mail-signature-unknown.svg"><img src="mail-signature-unknown.svg" width="250" alt="mail-signature-unknown.svg"></a> | **mail-signature-unknown.svg**<br>Vector (SVG) \| 771.00B<br>更新: 2026-02-26 |
-| <a href="mail-signed-full.svg"><img src="mail-signed-full.svg" width="250" alt="mail-signed-full.svg"></a> | **mail-signed-full.svg**<br>Vector (SVG) \| 734.00B<br>更新: 2026-02-26 |
-| <a href="mail-signed-part.svg"><img src="mail-signed-part.svg" width="250" alt="mail-signed-part.svg"></a> | **mail-signed-part.svg**<br>Vector (SVG) \| 771.00B<br>更新: 2026-02-26 |
-| <a href="mail-signed-verified.svg"><img src="mail-signed-verified.svg" width="250" alt="mail-signed-verified.svg"></a> | **mail-signed-verified.svg**<br>Vector (SVG) \| 800.00B<br>更新: 2026-02-26 |
-| <a href="mail-tagged.svg"><img src="mail-tagged.svg" width="250" alt="mail-tagged.svg"></a> | **mail-tagged.svg**<br>Vector (SVG) \| 988.00B<br>更新: 2026-02-26 |
-| <a href="mail-thread-watch.svg"><img src="mail-thread-watch.svg" width="250" alt="mail-thread-watch.svg"></a> | **mail-thread-watch.svg**<br>Vector (SVG) \| 1.48KB<br>更新: 2026-02-26 |
-| <a href="media-eject.svg"><img src="media-eject.svg" width="250" alt="media-eject.svg"></a> | **media-eject.svg**<br>Vector (SVG) \| 449.00B<br>更新: 2026-02-26 |
-| <a href="media-playback-pause.svg"><img src="media-playback-pause.svg" width="250" alt="media-playback-pause.svg"></a> | **media-playback-pause.svg**<br>Vector (SVG) \| 422.00B<br>更新: 2026-02-26 |
-| <a href="media-playback-start.svg"><img src="media-playback-start.svg" width="250" alt="media-playback-start.svg"></a> | **media-playback-start.svg**<br>Vector (SVG) \| 398.00B<br>更新: 2026-02-26 |
-| <a href="media-playback-stop.svg"><img src="media-playback-stop.svg" width="250" alt="media-playback-stop.svg"></a> | **media-playback-stop.svg**<br>Vector (SVG) \| 400.00B<br>更新: 2026-02-26 |
-| <a href="media-playlist-normal.svg"><img src="media-playlist-normal.svg" width="250" alt="media-playlist-normal.svg"></a> | **media-playlist-normal.svg**<br>Vector (SVG) \| 477.00B<br>更新: 2026-02-26 |
-| <a href="media-playlist-repeat.svg"><img src="media-playlist-repeat.svg" width="250" alt="media-playlist-repeat.svg"></a> | **media-playlist-repeat.svg**<br>Vector (SVG) \| 697.00B<br>更新: 2026-02-26 |
-| <a href="media-playlist-shuffle.svg"><img src="media-playlist-shuffle.svg" width="250" alt="media-playlist-shuffle.svg"></a> | **media-playlist-shuffle.svg**<br>Vector (SVG) \| 962.00B<br>更新: 2026-02-26 |
-| <a href="media-record.svg"><img src="media-record.svg" width="250" alt="media-record.svg"></a> | **media-record.svg**<br>Vector (SVG) \| 393.00B<br>更新: 2026-02-26 |
-| <a href="media-repeat-none.svg"><img src="media-repeat-none.svg" width="250" alt="media-repeat-none.svg"></a> | **media-repeat-none.svg**<br>Vector (SVG) \| 816.00B<br>更新: 2026-02-26 |
-| <a href="media-repeat-single.svg"><img src="media-repeat-single.svg" width="250" alt="media-repeat-single.svg"></a> | **media-repeat-single.svg**<br>Vector (SVG) \| 601.00B<br>更新: 2026-02-26 |
-| <a href="media-seek-backward.svg"><img src="media-seek-backward.svg" width="250" alt="media-seek-backward.svg"></a> | **media-seek-backward.svg**<br>Vector (SVG) \| 307.00B<br>更新: 2026-02-26 |
-| <a href="media-seek-forward.svg"><img src="media-seek-forward.svg" width="250" alt="media-seek-forward.svg"></a> | **media-seek-forward.svg**<br>Vector (SVG) \| 306.00B<br>更新: 2026-02-26 |
-| <a href="media-skip-backward.svg"><img src="media-skip-backward.svg" width="250" alt="media-skip-backward.svg"></a> | **media-skip-backward.svg**<br>Vector (SVG) \| 319.00B<br>更新: 2026-02-26 |
-| <a href="media-skip-forward.svg"><img src="media-skip-forward.svg" width="250" alt="media-skip-forward.svg"></a> | **media-skip-forward.svg**<br>Vector (SVG) \| 320.00B<br>更新: 2026-02-26 |
-| <a href="multiple.svg"><img src="multiple.svg" width="250" alt="multiple.svg"></a> | **multiple.svg**<br>Vector (SVG) \| 969.00B<br>更新: 2026-02-26 |
-| <a href="object-order-back.svg"><img src="object-order-back.svg" width="250" alt="object-order-back.svg"></a> | **object-order-back.svg**<br>Vector (SVG) \| 920.00B<br>更新: 2026-02-26 |
-| <a href="object-order-front.svg"><img src="object-order-front.svg" width="250" alt="object-order-front.svg"></a> | **object-order-front.svg**<br>Vector (SVG) \| 908.00B<br>更新: 2026-02-26 |
-| <a href="object-order-lower.svg"><img src="object-order-lower.svg" width="250" alt="object-order-lower.svg"></a> | **object-order-lower.svg**<br>Vector (SVG) \| 918.00B<br>更新: 2026-02-26 |
-| <a href="object-order-raise.svg"><img src="object-order-raise.svg" width="250" alt="object-order-raise.svg"></a> | **object-order-raise.svg**<br>Vector (SVG) \| 909.00B<br>更新: 2026-02-26 |
-| <a href="office-chart-pie.svg"><img src="office-chart-pie.svg" width="250" alt="office-chart-pie.svg"></a> | **office-chart-pie.svg**<br>Vector (SVG) \| 2.45KB<br>更新: 2026-02-26 |
-| <a href="overflow-menu.svg"><img src="overflow-menu.svg" width="250" alt="overflow-menu.svg"></a> | **overflow-menu.svg**<br>Vector (SVG) \| 1.91KB<br>更新: 2026-02-26 |
-| <a href="percent.svg"><img src="percent.svg" width="250" alt="percent.svg"></a> | **percent.svg**<br>Vector (SVG) \| 951.00B<br>更新: 2026-02-26 |
-| <a href="qa.svg"><img src="qa.svg" width="250" alt="qa.svg"></a> | **qa.svg**<br>Vector (SVG) \| 573.00B<br>更新: 2026-02-26 |
-| <a href="system-lock-screen.svg"><img src="system-lock-screen.svg" width="250" alt="system-lock-screen.svg"></a> | **system-lock-screen.svg**<br>Vector (SVG) \| 626.00B<br>更新: 2026-02-26 |
-| <a href="system-log-out-rtl.svg"><img src="system-log-out-rtl.svg" width="250" alt="system-log-out-rtl.svg"></a> | **system-log-out-rtl.svg**<br>Vector (SVG) \| 602.00B<br>更新: 2026-02-26 |
-| <a href="system-log-out.svg"><img src="system-log-out.svg" width="250" alt="system-log-out.svg"></a> | **system-log-out.svg**<br>Vector (SVG) \| 577.00B<br>更新: 2026-02-26 |
-| <a href="system-save-session.svg"><img src="system-save-session.svg" width="250" alt="system-save-session.svg"></a> | **system-save-session.svg**<br>Vector (SVG) \| 568.00B<br>更新: 2026-02-26 |
-| <a href="system-search.svg"><img src="system-search.svg" width="250" alt="system-search.svg"></a> | **system-search.svg**<br>Vector (SVG) \| 997.00B<br>更新: 2026-02-26 |
-| <a href="system-shutdown.svg"><img src="system-shutdown.svg" width="250" alt="system-shutdown.svg"></a> | **system-shutdown.svg**<br>Vector (SVG) \| 641.00B<br>更新: 2026-02-26 |
-| <a href="system-suspend-hibernate.svg"><img src="system-suspend-hibernate.svg" width="250" alt="system-suspend-hibernate.svg"></a> | **system-suspend-hibernate.svg**<br>Vector (SVG) \| 1021.00B<br>更新: 2026-02-26 |
-| <a href="system-suspend.svg"><img src="system-suspend.svg" width="250" alt="system-suspend.svg"></a> | **system-suspend.svg**<br>Vector (SVG) \| 825.00B<br>更新: 2026-02-26 |
-| <a href="system-switch-user.svg"><img src="system-switch-user.svg" width="250" alt="system-switch-user.svg"></a> | **system-switch-user.svg**<br>Vector (SVG) \| 2.26KB<br>更新: 2026-02-26 |
-| <a href="system-user-list.svg"><img src="system-user-list.svg" width="250" alt="system-user-list.svg"></a> | **system-user-list.svg**<br>Vector (SVG) \| 2.66KB<br>更新: 2026-02-26 |
-| <a href="system-user-prompt.svg"><img src="system-user-prompt.svg" width="250" alt="system-user-prompt.svg"></a> | **system-user-prompt.svg**<br>Vector (SVG) \| 1.26KB<br>更新: 2026-02-26 |
-| <a href="system-users.svg"><img src="system-users.svg" width="250" alt="system-users.svg"></a> | **system-users.svg**<br>Vector (SVG) \| 1.22KB<br>更新: 2026-02-26 |
-| <a href="tag.svg"><img src="tag.svg" width="250" alt="tag.svg"></a> | **tag.svg**<br>Vector (SVG) \| 4.27KB<br>更新: 2026-02-26 |
-| <a href="taxes-finances.svg"><img src="taxes-finances.svg" width="250" alt="taxes-finances.svg"></a> | **taxes-finances.svg**<br>Vector (SVG) \| 675.00B<br>更新: 2026-02-26 |
-| <a href="tools.svg"><img src="tools.svg" width="250" alt="tools.svg"></a> | **tools.svg**<br>Vector (SVG) \| 339.00B<br>更新: 2026-02-26 |
-| <a href="trim-margins.svg"><img src="trim-margins.svg" width="250" alt="trim-margins.svg"></a> | **trim-margins.svg**<br>Vector (SVG) \| 523.00B<br>更新: 2026-02-26 |
-| <a href="trim-to-selection.svg"><img src="trim-to-selection.svg" width="250" alt="trim-to-selection.svg"></a> | **trim-to-selection.svg**<br>Vector (SVG) \| 598.00B<br>更新: 2026-02-26 |
-| <a href="view-barcode-qr.svg"><img src="view-barcode-qr.svg" width="250" alt="view-barcode-qr.svg"></a> | **view-barcode-qr.svg**<br>Vector (SVG) \| 1.48KB<br>更新: 2026-02-26 |
-| <a href="view-filter.svg"><img src="view-filter.svg" width="250" alt="view-filter.svg"></a> | **view-filter.svg**<br>Vector (SVG) \| 820.00B<br>更新: 2026-02-26 |
-| <a href="view-group.svg"><img src="view-group.svg" width="250" alt="view-group.svg"></a> | **view-group.svg**<br>Vector (SVG) \| 775.00B<br>更新: 2026-02-26 |
-| <a href="view-history.svg"><img src="view-history.svg" width="250" alt="view-history.svg"></a> | **view-history.svg**<br>Vector (SVG) \| 975.00B<br>更新: 2026-02-26 |
-| <a href="view-left-close.svg"><img src="view-left-close.svg" width="250" alt="view-left-close.svg"></a> | **view-left-close.svg**<br>Vector (SVG) \| 723.00B<br>更新: 2026-02-26 |
-| <a href="view-left-new.svg"><img src="view-left-new.svg" width="250" alt="view-left-new.svg"></a> | **view-left-new.svg**<br>Vector (SVG) \| 368.00B<br>更新: 2026-02-26 |
-| <a href="view-list-details.svg"><img src="view-list-details.svg" width="250" alt="view-list-details.svg"></a> | **view-list-details.svg**<br>Vector (SVG) \| 653.00B<br>更新: 2026-02-26 |
-| <a href="view-list-icons.svg"><img src="view-list-icons.svg" width="250" alt="view-list-icons.svg"></a> | **view-list-icons.svg**<br>Vector (SVG) \| 613.00B<br>更新: 2026-02-26 |
-| <a href="view-list-text.svg"><img src="view-list-text.svg" width="250" alt="view-list-text.svg"></a> | **view-list-text.svg**<br>Vector (SVG) \| 571.00B<br>更新: 2026-02-26 |
-| <a href="view-list-tree.svg"><img src="view-list-tree.svg" width="250" alt="view-list-tree.svg"></a> | **view-list-tree.svg**<br>Vector (SVG) \| 625.00B<br>更新: 2026-02-26 |
-| <a href="view-preview.svg"><img src="view-preview.svg" width="250" alt="view-preview.svg"></a> | **view-preview.svg**<br>Vector (SVG) \| 570.00B<br>更新: 2026-02-26 |
-| <a href="view-refresh.svg"><img src="view-refresh.svg" width="250" alt="view-refresh.svg"></a> | **view-refresh.svg**<br>Vector (SVG) \| 674.00B<br>更新: 2026-02-26 |
-| <a href="view-right-close.svg"><img src="view-right-close.svg" width="250" alt="view-right-close.svg"></a> | **view-right-close.svg**<br>Vector (SVG) \| 723.00B<br>更新: 2026-02-26 |
-| <a href="view-right-new.svg"><img src="view-right-new.svg" width="250" alt="view-right-new.svg"></a> | **view-right-new.svg**<br>Vector (SVG) \| 647.00B<br>更新: 2026-02-26 |
-| <a href="view-sort-ascending-name.svg"><img src="view-sort-ascending-name.svg" width="250" alt="view-sort-ascending-name.svg"></a> | **view-sort-ascending-name.svg**<br>Vector (SVG) \| 2.13KB<br>更新: 2026-02-26 |
-| <a href="view-sort-ascending.svg"><img src="view-sort-ascending.svg" width="250" alt="view-sort-ascending.svg"></a> | **view-sort-ascending.svg**<br>Vector (SVG) \| 911.00B<br>更新: 2026-02-26 |
-| <a href="view-sort-descending-name.svg"><img src="view-sort-descending-name.svg" width="250" alt="view-sort-descending-name.svg"></a> | **view-sort-descending-name.svg**<br>Vector (SVG) \| 2.14KB<br>更新: 2026-02-26 |
-| <a href="view-sort-descending.svg"><img src="view-sort-descending.svg" width="250" alt="view-sort-descending.svg"></a> | **view-sort-descending.svg**<br>Vector (SVG) \| 916.00B<br>更新: 2026-02-26 |
-| <a href="view-sort.svg"><img src="view-sort.svg" width="250" alt="view-sort.svg"></a> | **view-sort.svg**<br>Vector (SVG) \| 1.07KB<br>更新: 2026-02-26 |
-| <a href="window-close.svg"><img src="window-close.svg" width="250" alt="window-close.svg"></a> | **window-close.svg**<br>Vector (SVG) \| 550.00B<br>更新: 2026-02-26 |
-| <a href="window-list.svg"><img src="window-list.svg" width="250" alt="window-list.svg"></a> | **window-list.svg**<br>Vector (SVG) \| 1.24KB<br>更新: 2026-02-26 |
-| <a href="zoom-1-to-2.svg"><img src="zoom-1-to-2.svg" width="250" alt="zoom-1-to-2.svg"></a> | **zoom-1-to-2.svg**<br>Vector (SVG) \| 654.00B<br>更新: 2026-02-26 |
-| <a href="zoom-2-to-1.svg"><img src="zoom-2-to-1.svg" width="250" alt="zoom-2-to-1.svg"></a> | **zoom-2-to-1.svg**<br>Vector (SVG) \| 654.00B<br>更新: 2026-02-26 |
-| <a href="zoom-fit-best.svg"><img src="zoom-fit-best.svg" width="250" alt="zoom-fit-best.svg"></a> | **zoom-fit-best.svg**<br>Vector (SVG) \| 576.00B<br>更新: 2026-02-26 |
-| <a href="zoom-fit-height.svg"><img src="zoom-fit-height.svg" width="250" alt="zoom-fit-height.svg"></a> | **zoom-fit-height.svg**<br>Vector (SVG) \| 539.00B<br>更新: 2026-02-26 |
-| <a href="zoom-fit-width.svg"><img src="zoom-fit-width.svg" width="250" alt="zoom-fit-width.svg"></a> | **zoom-fit-width.svg**<br>Vector (SVG) \| 674.00B<br>更新: 2026-02-26 |
-| <a href="zoom-in.svg"><img src="zoom-in.svg" width="250" alt="zoom-in.svg"></a> | **zoom-in.svg**<br>Vector (SVG) \| 1.08KB<br>更新: 2026-02-26 |
-| <a href="zoom-next.svg"><img src="zoom-next.svg" width="250" alt="zoom-next.svg"></a> | **zoom-next.svg**<br>Vector (SVG) \| 663.00B<br>更新: 2026-02-26 |
-| <a href="zoom-original.svg"><img src="zoom-original.svg" width="250" alt="zoom-original.svg"></a> | **zoom-original.svg**<br>Vector (SVG) \| 610.00B<br>更新: 2026-02-26 |
-| <a href="zoom-out.svg"><img src="zoom-out.svg" width="250" alt="zoom-out.svg"></a> | **zoom-out.svg**<br>Vector (SVG) \| 866.00B<br>更新: 2026-02-26 |
-| <a href="zoom-previous.svg"><img src="zoom-previous.svg" width="250" alt="zoom-previous.svg"></a> | **zoom-previous.svg**<br>Vector (SVG) \| 663.00B<br>更新: 2026-02-26 |
-| <a href="zoom.svg"><img src="zoom.svg" width="250" alt="zoom.svg"></a> | **zoom.svg**<br>Vector (SVG) \| 533.00B<br>更新: 2026-02-26 |
+| <a href="acrobat.svg"><img src="acrobat.svg" width="250"></a> | **acrobat.svg**<br>Vector (SVG) | 378.00B |
+| <a href="address-book-new.svg"><img src="address-book-new.svg" width="250"></a> | **address-book-new.svg**<br>Vector (SVG) | 402.00B |
+| <a href="align-horizontal-bottom-out.svg"><img src="align-horizontal-bottom-out.svg" width="250"></a> | **align-horizontal-bottom-out.svg**<br>Vector (SVG) | 603.00B |
+| <a href="align-horizontal-center.svg"><img src="align-horizontal-center.svg" width="250"></a> | **align-horizontal-center.svg**<br>Vector (SVG) | 420.00B |
+| <a href="align-horizontal-left-out.svg"><img src="align-horizontal-left-out.svg" width="250"></a> | **align-horizontal-left-out.svg**<br>Vector (SVG) | 408.00B |
+| <a href="align-horizontal-left-to-anchor.svg"><img src="align-horizontal-left-to-anchor.svg" width="250"></a> | **align-horizontal-left-to-anchor.svg**<br>Vector (SVG) | 428.00B |
+| <a href="align-horizontal-left.svg"><img src="align-horizontal-left.svg" width="250"></a> | **align-horizontal-left.svg**<br>Vector (SVG) | 564.00B |
+| <a href="align-horizontal-right-out.svg"><img src="align-horizontal-right-out.svg" width="250"></a> | **align-horizontal-right-out.svg**<br>Vector (SVG) | 609.00B |
+| <a href="align-horizontal-right-to-anchor.svg"><img src="align-horizontal-right-to-anchor.svg" width="250"></a> | **align-horizontal-right-to-anchor.svg**<br>Vector (SVG) | 606.00B |
+| <a href="align-horizontal-right.svg"><img src="align-horizontal-right.svg" width="250"></a> | **align-horizontal-right.svg**<br>Vector (SVG) | 573.00B |
+| <a href="align-horizontal-top-out.svg"><img src="align-horizontal-top-out.svg" width="250"></a> | **align-horizontal-top-out.svg**<br>Vector (SVG) | 618.00B |
+| <a href="align-vertical-bottom-out.svg"><img src="align-vertical-bottom-out.svg" width="250"></a> | **align-vertical-bottom-out.svg**<br>Vector (SVG) | 609.00B |
+| <a href="align-vertical-bottom-to-anchor.svg"><img src="align-vertical-bottom-to-anchor.svg" width="250"></a> | **align-vertical-bottom-to-anchor.svg**<br>Vector (SVG) | 609.00B |
+| <a href="align-vertical-bottom.svg"><img src="align-vertical-bottom.svg" width="250"></a> | **align-vertical-bottom.svg**<br>Vector (SVG) | 573.00B |
+| <a href="align-vertical-center.svg"><img src="align-vertical-center.svg" width="250"></a> | **align-vertical-center.svg**<br>Vector (SVG) | 616.00B |
+| <a href="align-vertical-top-out.svg"><img src="align-vertical-top-out.svg" width="250"></a> | **align-vertical-top-out.svg**<br>Vector (SVG) | 618.00B |
+| <a href="align-vertical-top.svg"><img src="align-vertical-top.svg" width="250"></a> | **align-vertical-top.svg**<br>Vector (SVG) | 562.00B |
+| <a href="application-exit.svg"><img src="application-exit.svg" width="250"></a> | **application-exit.svg**<br>Vector (SVG) | 421.00B |
+| <a href="application-menu.svg"><img src="application-menu.svg" width="250"></a> | **application-menu.svg**<br>Vector (SVG) | 486.00B |
+| <a href="appointment-new.svg"><img src="appointment-new.svg" width="250"></a> | **appointment-new.svg**<br>Vector (SVG) | 608.00B |
+| <a href="archive-extract.svg"><img src="archive-extract.svg" width="250"></a> | **archive-extract.svg**<br>Vector (SVG) | 492.00B |
+| <a href="archive-insert.svg"><img src="archive-insert.svg" width="250"></a> | **archive-insert.svg**<br>Vector (SVG) | 414.00B |
+| <a href="archive-remove.svg"><img src="archive-remove.svg" width="250"></a> | **archive-remove.svg**<br>Vector (SVG) | 515.00B |
+| <a href="autocorrection.svg"><img src="autocorrection.svg" width="250"></a> | **autocorrection.svg**<br>Vector (SVG) | 1017.00B |
+| <a href="bookmark-new.svg"><img src="bookmark-new.svg" width="250"></a> | **bookmark-new.svg**<br>Vector (SVG) | 423.00B |
+| <a href="bookmark-remove.svg"><img src="bookmark-remove.svg" width="250"></a> | **bookmark-remove.svg**<br>Vector (SVG) | 667.00B |
+| <a href="bookmarks-bookmarked.svg"><img src="bookmarks-bookmarked.svg" width="250"></a> | **bookmarks-bookmarked.svg**<br>Vector (SVG) | 339.00B |
+| <a href="bookmarks.svg"><img src="bookmarks.svg" width="250"></a> | **bookmarks.svg**<br>Vector (SVG) | 390.00B |
+| <a href="bordertool.svg"><img src="bordertool.svg" width="250"></a> | **bordertool.svg**<br>Vector (SVG) | 424.00B |
+| <a href="call-start.svg"><img src="call-start.svg" width="250"></a> | **call-start.svg**<br>Vector (SVG) | 668.00B |
+| <a href="call-stop.svg"><img src="call-stop.svg" width="250"></a> | **call-stop.svg**<br>Vector (SVG) | 630.00B |
+| <a href="collapse-all.svg"><img src="collapse-all.svg" width="250"></a> | **collapse-all.svg**<br>Vector (SVG) | 346.00B |
+| <a href="color-management.svg"><img src="color-management.svg" width="250"></a> | **color-management.svg**<br>Vector (SVG) | 8.06KB |
+| <a href="color-picker-black.svg"><img src="color-picker-black.svg" width="250"></a> | **color-picker-black.svg**<br>Vector (SVG) | 1.37KB |
+| <a href="color-picker-grey.svg"><img src="color-picker-grey.svg" width="250"></a> | **color-picker-grey.svg**<br>Vector (SVG) | 1.48KB |
+| <a href="color-picker-white.svg"><img src="color-picker-white.svg" width="250"></a> | **color-picker-white.svg**<br>Vector (SVG) | 1.40KB |
+| <a href="color-picker.svg"><img src="color-picker.svg" width="250"></a> | **color-picker.svg**<br>Vector (SVG) | 798.00B |
+| <a href="colors-chromablue.svg"><img src="colors-chromablue.svg" width="250"></a> | **colors-chromablue.svg**<br>Vector (SVG) | 473.00B |
+| <a href="colors-chromagreen.svg"><img src="colors-chromagreen.svg" width="250"></a> | **colors-chromagreen.svg**<br>Vector (SVG) | 473.00B |
+| <a href="colors-chromared.svg"><img src="colors-chromared.svg" width="250"></a> | **colors-chromared.svg**<br>Vector (SVG) | 473.00B |
+| <a href="colors-luma.svg"><img src="colors-luma.svg" width="250"></a> | **colors-luma.svg**<br>Vector (SVG) | 3.34KB |
+| <a href="compass.svg"><img src="compass.svg" width="250"></a> | **compass.svg**<br>Vector (SVG) | 728.00B |
+| <a href="configure.svg"><img src="configure.svg" width="250"></a> | **configure.svg**<br>Vector (SVG) | 728.00B |
+| <a href="cursor-cross.svg"><img src="cursor-cross.svg" width="250"></a> | **cursor-cross.svg**<br>Vector (SVG) | 462.00B |
+| <a href="dialog-cancel.svg"><img src="dialog-cancel.svg" width="250"></a> | **dialog-cancel.svg**<br>Vector (SVG) | 733.00B |
+| <a href="dialog-messages.svg"><img src="dialog-messages.svg" width="250"></a> | **dialog-messages.svg**<br>Vector (SVG) | 375.00B |
+| <a href="dialog-ok-apply.svg"><img src="dialog-ok-apply.svg" width="250"></a> | **dialog-ok-apply.svg**<br>Vector (SVG) | 355.00B |
+| <a href="document-close.svg"><img src="document-close.svg" width="250"></a> | **document-close.svg**<br>Vector (SVG) | 569.00B |
+| <a href="document-decrypt.svg"><img src="document-decrypt.svg" width="250"></a> | **document-decrypt.svg**<br>Vector (SVG) | 735.00B |
+| <a href="document-edit-decrypt-verify.svg"><img src="document-edit-decrypt-verify.svg" width="250"></a> | **document-edit-decrypt-verify.svg**<br>Vector (SVG) | 1.33KB |
+| <a href="document-edit-decrypt.svg"><img src="document-edit-decrypt.svg" width="250"></a> | **document-edit-decrypt.svg**<br>Vector (SVG) | 974.00B |
+| <a href="document-edit-encrypt.svg"><img src="document-edit-encrypt.svg" width="250"></a> | **document-edit-encrypt.svg**<br>Vector (SVG) | 1.00KB |
+| <a href="document-edit-sign-encrypt.svg"><img src="document-edit-sign-encrypt.svg" width="250"></a> | **document-edit-sign-encrypt.svg**<br>Vector (SVG) | 904.00B |
+| <a href="document-edit-sign.svg"><img src="document-edit-sign.svg" width="250"></a> | **document-edit-sign.svg**<br>Vector (SVG) | 996.00B |
+| <a href="document-edit.svg"><img src="document-edit.svg" width="250"></a> | **document-edit.svg**<br>Vector (SVG) | 523.00B |
+| <a href="document-encrypted.svg"><img src="document-encrypted.svg" width="250"></a> | **document-encrypted.svg**<br>Vector (SVG) | 659.00B |
+| <a href="document-export.svg"><img src="document-export.svg" width="250"></a> | **document-export.svg**<br>Vector (SVG) | 605.00B |
+| <a href="document-import.svg"><img src="document-import.svg" width="250"></a> | **document-import.svg**<br>Vector (SVG) | 605.00B |
+| <a href="document-new-from-template.svg"><img src="document-new-from-template.svg" width="250"></a> | **document-new-from-template.svg**<br>Vector (SVG) | 795.00B |
+| <a href="document-new.svg"><img src="document-new.svg" width="250"></a> | **document-new.svg**<br>Vector (SVG) | 1.95KB |
+| <a href="document-open-recent.svg"><img src="document-open-recent.svg" width="250"></a> | **document-open-recent.svg**<br>Vector (SVG) | 1.72KB |
+| <a href="document-open-remote.svg"><img src="document-open-remote.svg" width="250"></a> | **document-open-remote.svg**<br>Vector (SVG) | 685.00B |
+| <a href="document-open.svg"><img src="document-open.svg" width="250"></a> | **document-open.svg**<br>Vector (SVG) | 705.00B |
+| <a href="document-preview-archive.svg"><img src="document-preview-archive.svg" width="250"></a> | **document-preview-archive.svg**<br>Vector (SVG) | 878.00B |
+| <a href="document-print-direct.svg"><img src="document-print-direct.svg" width="250"></a> | **document-print-direct.svg**<br>Vector (SVG) | 798.00B |
+| <a href="document-print.svg"><img src="document-print.svg" width="250"></a> | **document-print.svg**<br>Vector (SVG) | 531.00B |
+| <a href="document-properties.svg"><img src="document-properties.svg" width="250"></a> | **document-properties.svg**<br>Vector (SVG) | 616.00B |
+| <a href="document-replace.svg"><img src="document-replace.svg" width="250"></a> | **document-replace.svg**<br>Vector (SVG) | 973.00B |
+| <a href="document-revert.svg"><img src="document-revert.svg" width="250"></a> | **document-revert.svg**<br>Vector (SVG) | 496.00B |
+| <a href="document-save-all.svg"><img src="document-save-all.svg" width="250"></a> | **document-save-all.svg**<br>Vector (SVG) | 1.02KB |
+| <a href="document-save-as.svg"><img src="document-save-as.svg" width="250"></a> | **document-save-as.svg**<br>Vector (SVG) | 1.09KB |
+| <a href="document-save.svg"><img src="document-save.svg" width="250"></a> | **document-save.svg**<br>Vector (SVG) | 665.00B |
+| <a href="document-share.svg"><img src="document-share.svg" width="250"></a> | **document-share.svg**<br>Vector (SVG) | 1.38KB |
+| <a href="edit-delete-shred.svg"><img src="edit-delete-shred.svg" width="250"></a> | **edit-delete-shred.svg**<br>Vector (SVG) | 949.00B |
+| <a href="edit-delete.svg"><img src="edit-delete.svg" width="250"></a> | **edit-delete.svg**<br>Vector (SVG) | 331.00B |
+| <a href="edit-redo.svg"><img src="edit-redo.svg" width="250"></a> | **edit-redo.svg**<br>Vector (SVG) | 482.00B |
+| <a href="edit-reset.svg"><img src="edit-reset.svg" width="250"></a> | **edit-reset.svg**<br>Vector (SVG) | 710.00B |
+| <a href="edit-select.svg"><img src="edit-select.svg" width="250"></a> | **edit-select.svg**<br>Vector (SVG) | 541.00B |
+| <a href="edit-undo.svg"><img src="edit-undo.svg" width="250"></a> | **edit-undo.svg**<br>Vector (SVG) | 497.00B |
+| <a href="expand-all.svg"><img src="expand-all.svg" width="250"></a> | **expand-all.svg**<br>Vector (SVG) | 348.00B |
+| <a href="financial-account.svg"><img src="financial-account.svg" width="250"></a> | **financial-account.svg**<br>Vector (SVG) | 2.99KB |
+| <a href="financial-list.svg"><img src="financial-list.svg" width="250"></a> | **financial-list.svg**<br>Vector (SVG) | 2.33KB |
+| <a href="flash.svg"><img src="flash.svg" width="250"></a> | **flash.svg**<br>Vector (SVG) | 561.00B |
+| <a href="flashlight-off.svg"><img src="flashlight-off.svg" width="250"></a> | **flashlight-off.svg**<br>Vector (SVG) | 985.00B |
+| <a href="flashlight-on.svg"><img src="flashlight-on.svg" width="250"></a> | **flashlight-on.svg**<br>Vector (SVG) | 768.00B |
+| <a href="folder-edit-sign-encrypt.svg"><img src="folder-edit-sign-encrypt.svg" width="250"></a> | **folder-edit-sign-encrypt.svg**<br>Vector (SVG) | 790.00B |
+| <a href="folder-new.svg"><img src="folder-new.svg" width="250"></a> | **folder-new.svg**<br>Vector (SVG) | 597.00B |
+| <a href="folder-symbolic.svg"><img src="folder-symbolic.svg" width="250"></a> | **folder-symbolic.svg**<br>Vector (SVG) | 391.00B |
+| <a href="folder-sync.svg"><img src="folder-sync.svg" width="250"></a> | **folder-sync.svg**<br>Vector (SVG) | 907.00B |
+| <a href="gnumeric-format-halign-distributed.svg"><img src="gnumeric-format-halign-distributed.svg" width="250"></a> | **gnumeric-format-halign-distributed.svg**<br>Vector (SVG) | 588.00B |
+| <a href="gnumeric-format-valign-bottom.svg"><img src="gnumeric-format-valign-bottom.svg" width="250"></a> | **gnumeric-format-valign-bottom.svg**<br>Vector (SVG) | 463.00B |
+| <a href="gnumeric-format-valign-center.svg"><img src="gnumeric-format-valign-center.svg" width="250"></a> | **gnumeric-format-valign-center.svg**<br>Vector (SVG) | 564.00B |
+| <a href="gnumeric-format-valign-distributed.svg"><img src="gnumeric-format-valign-distributed.svg" width="250"></a> | **gnumeric-format-valign-distributed.svg**<br>Vector (SVG) | 627.00B |
+| <a href="gnumeric-format-valign-justify.svg"><img src="gnumeric-format-valign-justify.svg" width="250"></a> | **gnumeric-format-valign-justify.svg**<br>Vector (SVG) | 585.00B |
+| <a href="gnumeric-format-valign-top.svg"><img src="gnumeric-format-valign-top.svg" width="250"></a> | **gnumeric-format-valign-top.svg**<br>Vector (SVG) | 459.00B |
+| <a href="go-bottom.svg"><img src="go-bottom.svg" width="250"></a> | **go-bottom.svg**<br>Vector (SVG) | 442.00B |
+| <a href="go-down-skip.svg"><img src="go-down-skip.svg" width="250"></a> | **go-down-skip.svg**<br>Vector (SVG) | 372.00B |
+| <a href="go-down.svg"><img src="go-down.svg" width="250"></a> | **go-down.svg**<br>Vector (SVG) | 332.00B |
+| <a href="go-first.svg"><img src="go-first.svg" width="250"></a> | **go-first.svg**<br>Vector (SVG) | 440.00B |
+| <a href="go-jump.svg"><img src="go-jump.svg" width="250"></a> | **go-jump.svg**<br>Vector (SVG) | 394.00B |
+| <a href="go-last.svg"><img src="go-last.svg" width="250"></a> | **go-last.svg**<br>Vector (SVG) | 443.00B |
+| <a href="go-next-skip.svg"><img src="go-next-skip.svg" width="250"></a> | **go-next-skip.svg**<br>Vector (SVG) | 372.00B |
+| <a href="go-next.svg"><img src="go-next.svg" width="250"></a> | **go-next.svg**<br>Vector (SVG) | 332.00B |
+| <a href="go-parent-folder.svg"><img src="go-parent-folder.svg" width="250"></a> | **go-parent-folder.svg**<br>Vector (SVG) | 645.00B |
+| <a href="go-previous-skip.svg"><img src="go-previous-skip.svg" width="250"></a> | **go-previous-skip.svg**<br>Vector (SVG) | 377.00B |
+| <a href="go-previous.svg"><img src="go-previous.svg" width="250"></a> | **go-previous.svg**<br>Vector (SVG) | 331.00B |
+| <a href="go-top.svg"><img src="go-top.svg" width="250"></a> | **go-top.svg**<br>Vector (SVG) | 443.00B |
+| <a href="go-up-skip.svg"><img src="go-up-skip.svg" width="250"></a> | **go-up-skip.svg**<br>Vector (SVG) | 372.00B |
+| <a href="go-up.svg"><img src="go-up.svg" width="250"></a> | **go-up.svg**<br>Vector (SVG) | 333.00B |
+| <a href="help-about.svg"><img src="help-about.svg" width="250"></a> | **help-about.svg**<br>Vector (SVG) | 2.54KB |
+| <a href="help-whatsthis.svg"><img src="help-whatsthis.svg" width="250"></a> | **help-whatsthis.svg**<br>Vector (SVG) | 779.00B |
+| <a href="home.svg"><img src="home.svg" width="250"></a> | **home.svg**<br>Vector (SVG) | 2.20KB |
+| <a href="institution.svg"><img src="institution.svg" width="250"></a> | **institution.svg**<br>Vector (SVG) | 6.67KB |
+| <a href="labplot-zoom-in-x.svg"><img src="labplot-zoom-in-x.svg" width="250"></a> | **labplot-zoom-in-x.svg**<br>Vector (SVG) | 916.00B |
+| <a href="labplot-zoom-in-y.svg"><img src="labplot-zoom-in-y.svg" width="250"></a> | **labplot-zoom-in-y.svg**<br>Vector (SVG) | 918.00B |
+| <a href="labplot-zoom-out-x.svg"><img src="labplot-zoom-out-x.svg" width="250"></a> | **labplot-zoom-out-x.svg**<br>Vector (SVG) | 790.00B |
+| <a href="labplot-zoom-out-y.svg"><img src="labplot-zoom-out-y.svg" width="250"></a> | **labplot-zoom-out-y.svg**<br>Vector (SVG) | 825.00B |
+| <a href="mail-attachment.svg"><img src="mail-attachment.svg" width="250"></a> | **mail-attachment.svg**<br>Vector (SVG) | 1.70KB |
+| <a href="mail-deleted.svg"><img src="mail-deleted.svg" width="250"></a> | **mail-deleted.svg**<br>Vector (SVG) | 871.00B |
+| <a href="mail-encrypted-full.svg"><img src="mail-encrypted-full.svg" width="250"></a> | **mail-encrypted-full.svg**<br>Vector (SVG) | 924.00B |
+| <a href="mail-encrypted-part.svg"><img src="mail-encrypted-part.svg" width="250"></a> | **mail-encrypted-part.svg**<br>Vector (SVG) | 966.00B |
+| <a href="mail-flag.svg"><img src="mail-flag.svg" width="250"></a> | **mail-flag.svg**<br>Vector (SVG) | 642.00B |
+| <a href="mail-forward.svg"><img src="mail-forward.svg" width="250"></a> | **mail-forward.svg**<br>Vector (SVG) | 873.00B |
+| <a href="mail-forwarded-replied.svg"><img src="mail-forwarded-replied.svg" width="250"></a> | **mail-forwarded-replied.svg**<br>Vector (SVG) | 939.00B |
+| <a href="mail-forwarded.svg"><img src="mail-forwarded.svg" width="250"></a> | **mail-forwarded.svg**<br>Vector (SVG) | 811.00B |
+| <a href="mail-invitation.svg"><img src="mail-invitation.svg" width="250"></a> | **mail-invitation.svg**<br>Vector (SVG) | 1.01KB |
+| <a href="mail-mark-important.svg"><img src="mail-mark-important.svg" width="250"></a> | **mail-mark-important.svg**<br>Vector (SVG) | 901.00B |
+| <a href="mail-mark-junk.svg"><img src="mail-mark-junk.svg" width="250"></a> | **mail-mark-junk.svg**<br>Vector (SVG) | 961.00B |
+| <a href="mail-mark-notjunk.svg"><img src="mail-mark-notjunk.svg" width="250"></a> | **mail-mark-notjunk.svg**<br>Vector (SVG) | 803.00B |
+| <a href="mail-mark-read.svg"><img src="mail-mark-read.svg" width="250"></a> | **mail-mark-read.svg**<br>Vector (SVG) | 643.00B |
+| <a href="mail-mark-unread-new.svg"><img src="mail-mark-unread-new.svg" width="250"></a> | **mail-mark-unread-new.svg**<br>Vector (SVG) | 944.00B |
+| <a href="mail-mark-unread.svg"><img src="mail-mark-unread.svg" width="250"></a> | **mail-mark-unread.svg**<br>Vector (SVG) | 773.00B |
+| <a href="mail-meeting-request-reply.svg"><img src="mail-meeting-request-reply.svg" width="250"></a> | **mail-meeting-request-reply.svg**<br>Vector (SVG) | 803.00B |
+| <a href="mail-message-new-list.svg"><img src="mail-message-new-list.svg" width="250"></a> | **mail-message-new-list.svg**<br>Vector (SVG) | 838.00B |
+| <a href="mail-message-new.svg"><img src="mail-message-new.svg" width="250"></a> | **mail-message-new.svg**<br>Vector (SVG) | 818.00B |
+| <a href="mail-queue.svg"><img src="mail-queue.svg" width="250"></a> | **mail-queue.svg**<br>Vector (SVG) | 880.00B |
+| <a href="mail-replied.svg"><img src="mail-replied.svg" width="250"></a> | **mail-replied.svg**<br>Vector (SVG) | 760.00B |
+| <a href="mail-reply-all.svg"><img src="mail-reply-all.svg" width="250"></a> | **mail-reply-all.svg**<br>Vector (SVG) | 867.00B |
+| <a href="mail-reply-custom-all.svg"><img src="mail-reply-custom-all.svg" width="250"></a> | **mail-reply-custom-all.svg**<br>Vector (SVG) | 662.00B |
+| <a href="mail-reply-custom.svg"><img src="mail-reply-custom.svg" width="250"></a> | **mail-reply-custom.svg**<br>Vector (SVG) | 562.00B |
+| <a href="mail-reply-list.svg"><img src="mail-reply-list.svg" width="250"></a> | **mail-reply-list.svg**<br>Vector (SVG) | 882.00B |
+| <a href="mail-reply-sender.svg"><img src="mail-reply-sender.svg" width="250"></a> | **mail-reply-sender.svg**<br>Vector (SVG) | 783.00B |
+| <a href="mail-send.svg"><img src="mail-send.svg" width="250"></a> | **mail-send.svg**<br>Vector (SVG) | 802.00B |
+| <a href="mail-signature-unknown.svg"><img src="mail-signature-unknown.svg" width="250"></a> | **mail-signature-unknown.svg**<br>Vector (SVG) | 771.00B |
+| <a href="mail-signed-full.svg"><img src="mail-signed-full.svg" width="250"></a> | **mail-signed-full.svg**<br>Vector (SVG) | 734.00B |
+| <a href="mail-signed-part.svg"><img src="mail-signed-part.svg" width="250"></a> | **mail-signed-part.svg**<br>Vector (SVG) | 771.00B |
+| <a href="mail-signed-verified.svg"><img src="mail-signed-verified.svg" width="250"></a> | **mail-signed-verified.svg**<br>Vector (SVG) | 800.00B |
+| <a href="mail-tagged.svg"><img src="mail-tagged.svg" width="250"></a> | **mail-tagged.svg**<br>Vector (SVG) | 988.00B |
+| <a href="mail-thread-watch.svg"><img src="mail-thread-watch.svg" width="250"></a> | **mail-thread-watch.svg**<br>Vector (SVG) | 1.48KB |
+| <a href="media-eject.svg"><img src="media-eject.svg" width="250"></a> | **media-eject.svg**<br>Vector (SVG) | 449.00B |
+| <a href="media-playback-pause.svg"><img src="media-playback-pause.svg" width="250"></a> | **media-playback-pause.svg**<br>Vector (SVG) | 422.00B |
+| <a href="media-playback-start.svg"><img src="media-playback-start.svg" width="250"></a> | **media-playback-start.svg**<br>Vector (SVG) | 398.00B |
+| <a href="media-playback-stop.svg"><img src="media-playback-stop.svg" width="250"></a> | **media-playback-stop.svg**<br>Vector (SVG) | 400.00B |
+| <a href="media-playlist-normal.svg"><img src="media-playlist-normal.svg" width="250"></a> | **media-playlist-normal.svg**<br>Vector (SVG) | 477.00B |
+| <a href="media-playlist-repeat.svg"><img src="media-playlist-repeat.svg" width="250"></a> | **media-playlist-repeat.svg**<br>Vector (SVG) | 697.00B |
+| <a href="media-playlist-shuffle.svg"><img src="media-playlist-shuffle.svg" width="250"></a> | **media-playlist-shuffle.svg**<br>Vector (SVG) | 962.00B |
+| <a href="media-record.svg"><img src="media-record.svg" width="250"></a> | **media-record.svg**<br>Vector (SVG) | 393.00B |
+| <a href="media-repeat-none.svg"><img src="media-repeat-none.svg" width="250"></a> | **media-repeat-none.svg**<br>Vector (SVG) | 816.00B |
+| <a href="media-repeat-single.svg"><img src="media-repeat-single.svg" width="250"></a> | **media-repeat-single.svg**<br>Vector (SVG) | 601.00B |
+| <a href="media-seek-backward.svg"><img src="media-seek-backward.svg" width="250"></a> | **media-seek-backward.svg**<br>Vector (SVG) | 307.00B |
+| <a href="media-seek-forward.svg"><img src="media-seek-forward.svg" width="250"></a> | **media-seek-forward.svg**<br>Vector (SVG) | 306.00B |
+| <a href="media-skip-backward.svg"><img src="media-skip-backward.svg" width="250"></a> | **media-skip-backward.svg**<br>Vector (SVG) | 319.00B |
+| <a href="media-skip-forward.svg"><img src="media-skip-forward.svg" width="250"></a> | **media-skip-forward.svg**<br>Vector (SVG) | 320.00B |
+| <a href="multiple.svg"><img src="multiple.svg" width="250"></a> | **multiple.svg**<br>Vector (SVG) | 969.00B |
+| <a href="object-order-back.svg"><img src="object-order-back.svg" width="250"></a> | **object-order-back.svg**<br>Vector (SVG) | 920.00B |
+| <a href="object-order-front.svg"><img src="object-order-front.svg" width="250"></a> | **object-order-front.svg**<br>Vector (SVG) | 908.00B |
+| <a href="object-order-lower.svg"><img src="object-order-lower.svg" width="250"></a> | **object-order-lower.svg**<br>Vector (SVG) | 918.00B |
+| <a href="object-order-raise.svg"><img src="object-order-raise.svg" width="250"></a> | **object-order-raise.svg**<br>Vector (SVG) | 909.00B |
+| <a href="office-chart-pie.svg"><img src="office-chart-pie.svg" width="250"></a> | **office-chart-pie.svg**<br>Vector (SVG) | 2.45KB |
+| <a href="overflow-menu.svg"><img src="overflow-menu.svg" width="250"></a> | **overflow-menu.svg**<br>Vector (SVG) | 1.91KB |
+| <a href="percent.svg"><img src="percent.svg" width="250"></a> | **percent.svg**<br>Vector (SVG) | 951.00B |
+| <a href="qa.svg"><img src="qa.svg" width="250"></a> | **qa.svg**<br>Vector (SVG) | 573.00B |
+| <a href="system-lock-screen.svg"><img src="system-lock-screen.svg" width="250"></a> | **system-lock-screen.svg**<br>Vector (SVG) | 626.00B |
+| <a href="system-log-out-rtl.svg"><img src="system-log-out-rtl.svg" width="250"></a> | **system-log-out-rtl.svg**<br>Vector (SVG) | 602.00B |
+| <a href="system-log-out.svg"><img src="system-log-out.svg" width="250"></a> | **system-log-out.svg**<br>Vector (SVG) | 577.00B |
+| <a href="system-save-session.svg"><img src="system-save-session.svg" width="250"></a> | **system-save-session.svg**<br>Vector (SVG) | 568.00B |
+| <a href="system-search.svg"><img src="system-search.svg" width="250"></a> | **system-search.svg**<br>Vector (SVG) | 997.00B |
+| <a href="system-shutdown.svg"><img src="system-shutdown.svg" width="250"></a> | **system-shutdown.svg**<br>Vector (SVG) | 641.00B |
+| <a href="system-suspend-hibernate.svg"><img src="system-suspend-hibernate.svg" width="250"></a> | **system-suspend-hibernate.svg**<br>Vector (SVG) | 1021.00B |
+| <a href="system-suspend.svg"><img src="system-suspend.svg" width="250"></a> | **system-suspend.svg**<br>Vector (SVG) | 825.00B |
+| <a href="system-switch-user.svg"><img src="system-switch-user.svg" width="250"></a> | **system-switch-user.svg**<br>Vector (SVG) | 2.26KB |
+| <a href="system-user-list.svg"><img src="system-user-list.svg" width="250"></a> | **system-user-list.svg**<br>Vector (SVG) | 2.66KB |
+| <a href="system-user-prompt.svg"><img src="system-user-prompt.svg" width="250"></a> | **system-user-prompt.svg**<br>Vector (SVG) | 1.26KB |
+| <a href="system-users.svg"><img src="system-users.svg" width="250"></a> | **system-users.svg**<br>Vector (SVG) | 1.22KB |
+| <a href="tag.svg"><img src="tag.svg" width="250"></a> | **tag.svg**<br>Vector (SVG) | 4.27KB |
+| <a href="taxes-finances.svg"><img src="taxes-finances.svg" width="250"></a> | **taxes-finances.svg**<br>Vector (SVG) | 675.00B |
+| <a href="tools.svg"><img src="tools.svg" width="250"></a> | **tools.svg**<br>Vector (SVG) | 339.00B |
+| <a href="trim-margins.svg"><img src="trim-margins.svg" width="250"></a> | **trim-margins.svg**<br>Vector (SVG) | 523.00B |
+| <a href="trim-to-selection.svg"><img src="trim-to-selection.svg" width="250"></a> | **trim-to-selection.svg**<br>Vector (SVG) | 598.00B |
+| <a href="view-barcode-qr.svg"><img src="view-barcode-qr.svg" width="250"></a> | **view-barcode-qr.svg**<br>Vector (SVG) | 1.48KB |
+| <a href="view-filter.svg"><img src="view-filter.svg" width="250"></a> | **view-filter.svg**<br>Vector (SVG) | 820.00B |
+| <a href="view-group.svg"><img src="view-group.svg" width="250"></a> | **view-group.svg**<br>Vector (SVG) | 775.00B |
+| <a href="view-history.svg"><img src="view-history.svg" width="250"></a> | **view-history.svg**<br>Vector (SVG) | 975.00B |
+| <a href="view-left-close.svg"><img src="view-left-close.svg" width="250"></a> | **view-left-close.svg**<br>Vector (SVG) | 723.00B |
+| <a href="view-left-new.svg"><img src="view-left-new.svg" width="250"></a> | **view-left-new.svg**<br>Vector (SVG) | 368.00B |
+| <a href="view-list-details.svg"><img src="view-list-details.svg" width="250"></a> | **view-list-details.svg**<br>Vector (SVG) | 653.00B |
+| <a href="view-list-icons.svg"><img src="view-list-icons.svg" width="250"></a> | **view-list-icons.svg**<br>Vector (SVG) | 613.00B |
+| <a href="view-list-text.svg"><img src="view-list-text.svg" width="250"></a> | **view-list-text.svg**<br>Vector (SVG) | 571.00B |
+| <a href="view-list-tree.svg"><img src="view-list-tree.svg" width="250"></a> | **view-list-tree.svg**<br>Vector (SVG) | 625.00B |
+| <a href="view-preview.svg"><img src="view-preview.svg" width="250"></a> | **view-preview.svg**<br>Vector (SVG) | 570.00B |
+| <a href="view-refresh.svg"><img src="view-refresh.svg" width="250"></a> | **view-refresh.svg**<br>Vector (SVG) | 674.00B |
+| <a href="view-right-close.svg"><img src="view-right-close.svg" width="250"></a> | **view-right-close.svg**<br>Vector (SVG) | 723.00B |
+| <a href="view-right-new.svg"><img src="view-right-new.svg" width="250"></a> | **view-right-new.svg**<br>Vector (SVG) | 647.00B |
+| <a href="view-sort-ascending-name.svg"><img src="view-sort-ascending-name.svg" width="250"></a> | **view-sort-ascending-name.svg**<br>Vector (SVG) | 2.13KB |
+| <a href="view-sort-ascending.svg"><img src="view-sort-ascending.svg" width="250"></a> | **view-sort-ascending.svg**<br>Vector (SVG) | 911.00B |
+| <a href="view-sort-descending-name.svg"><img src="view-sort-descending-name.svg" width="250"></a> | **view-sort-descending-name.svg**<br>Vector (SVG) | 2.14KB |
+| <a href="view-sort-descending.svg"><img src="view-sort-descending.svg" width="250"></a> | **view-sort-descending.svg**<br>Vector (SVG) | 916.00B |
+| <a href="view-sort.svg"><img src="view-sort.svg" width="250"></a> | **view-sort.svg**<br>Vector (SVG) | 1.07KB |
+| <a href="window-close.svg"><img src="window-close.svg" width="250"></a> | **window-close.svg**<br>Vector (SVG) | 550.00B |
+| <a href="window-list.svg"><img src="window-list.svg" width="250"></a> | **window-list.svg**<br>Vector (SVG) | 1.24KB |
+| <a href="zoom-1-to-2.svg"><img src="zoom-1-to-2.svg" width="250"></a> | **zoom-1-to-2.svg**<br>Vector (SVG) | 654.00B |
+| <a href="zoom-2-to-1.svg"><img src="zoom-2-to-1.svg" width="250"></a> | **zoom-2-to-1.svg**<br>Vector (SVG) | 654.00B |
+| <a href="zoom-fit-best.svg"><img src="zoom-fit-best.svg" width="250"></a> | **zoom-fit-best.svg**<br>Vector (SVG) | 576.00B |
+| <a href="zoom-fit-height.svg"><img src="zoom-fit-height.svg" width="250"></a> | **zoom-fit-height.svg**<br>Vector (SVG) | 539.00B |
+| <a href="zoom-fit-width.svg"><img src="zoom-fit-width.svg" width="250"></a> | **zoom-fit-width.svg**<br>Vector (SVG) | 674.00B |
+| <a href="zoom-in.svg"><img src="zoom-in.svg" width="250"></a> | **zoom-in.svg**<br>Vector (SVG) | 1.08KB |
+| <a href="zoom-next.svg"><img src="zoom-next.svg" width="250"></a> | **zoom-next.svg**<br>Vector (SVG) | 663.00B |
+| <a href="zoom-original.svg"><img src="zoom-original.svg" width="250"></a> | **zoom-original.svg**<br>Vector (SVG) | 610.00B |
+| <a href="zoom-out.svg"><img src="zoom-out.svg" width="250"></a> | **zoom-out.svg**<br>Vector (SVG) | 866.00B |
+| <a href="zoom-previous.svg"><img src="zoom-previous.svg" width="250"></a> | **zoom-previous.svg**<br>Vector (SVG) | 663.00B |
+| <a href="zoom.svg"><img src="zoom.svg" width="250"></a> | **zoom.svg**<br>Vector (SVG) | 533.00B |
