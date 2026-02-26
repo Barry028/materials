@@ -1,17 +1,26 @@
 name: Generate Thumbnails
+
 on:
   push:
+    branches:
+      - main  # 或您的主分支名稱
     paths:
-      - 'images/**' # 當 images 資料夾有變動時觸發
+      - 'images/**' # 當 images 資料夾中的圖片變動時才觸發
+
 jobs:
   build:
     runs-on: ubuntu-latest
+    # 防止 Action 陷入無限循環更新 README
+    if: github.event.head_commit.message != 'Update README.md with thumbnails'
+    
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
       - name: Generate Thumbnails and Update README
         uses: firefly-cpp/thumbnails-readme-action@v1.0.0
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          source: 'images'        # 原始圖片路徑
-          output: 'thumbnails'    # 縮圖存放路徑
-          sizes: '200'            # 縮圖寬度
+          source: 'images'        # 原始圖片存放目錄
+          output: 'thumbnails'    # 縮圖存放目錄 (Action 會自動建立)
+          sizes: '200'            # 縮圖寬度 (像素)
