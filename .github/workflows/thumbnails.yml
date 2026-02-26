@@ -1,26 +1,29 @@
-name: Generate Thumbnails
-
-on:
-  push:
-    branches:
-      - main  # 或您的主分支名稱
-    paths:
-      - 'images/**' # 當 images 資料夾中的圖片變動時才觸發
-
+name: Create thumbnails
+on: [push]
 jobs:
   build:
+    if: "!contains(github.event.head_commit.message, 'create-pull-request')"
     runs-on: ubuntu-latest
-    # 防止 Action 陷入無限循環更新 README
-    if: github.event.head_commit.message != 'Update README.md with thumbnails'
-    
     steps:
-      - name: Checkout Code
-        uses: actions/checkout@v4
-
-      - name: Generate Thumbnails and Update README
-        uses: firefly-cpp/thumbnails-readme-action@v1.0.0
+      - uses: actions/checkout@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          source: 'images'        # 原始圖片存放目錄
-          output: 'thumbnails'    # 縮圖存放目錄 (Action 會自動建立)
-          sizes: '200'            # 縮圖寬度 (像素)
+          ref: ${{ github.head_ref }}
+      - name: generate_thumbnails
+        uses: KukovecRok/thumbnails-readme-action@v3.0
+      - uses: actions/upload-artifact@v3
+        with:
+          name: my-generated-thumbnails
+          path: |
+            README.md
+            image_thumbnails/**
+      - run: sudo chown -R $USER:$USER .;
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v6
+        with:
+          commit-message: create-pull-request Update README.md and image_thumbnails
+          add-paths: |
+            README.md
+            image_thumbnails/**
+          base: ${{ github.head_ref }}
+          title: Update README.md and image_thumbnails
+          body: Automatically generated image thumbnails and pull-request
