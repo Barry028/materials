@@ -1,0 +1,2 @@
+<!-- thumbnails-start -->
+<!-- thumbnails-end -->
