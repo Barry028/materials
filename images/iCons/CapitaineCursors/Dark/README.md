@@ -4,97 +4,97 @@
 
 | 預覽 | 詳細資訊 |
 | :--- | :--- |
-| <a href="000-template.svg"><img src="000-template.svg" width="250" alt="000-template.svg"></a> | **000-template.svg**<br>VectorxVector | 1.74KB<br>更新: 2026-02-26 |
-| <a href="alias.svg"><img src="alias.svg" width="250" alt="alias.svg"></a> | **alias.svg**<br>VectorxVector | 2.29KB<br>更新: 2026-02-26 |
-| <a href="all-scroll.svg"><img src="all-scroll.svg" width="250" alt="all-scroll.svg"></a> | **all-scroll.svg**<br>VectorxVector | 2.86KB<br>更新: 2026-02-26 |
-| <a href="bottom_left_corner.svg"><img src="bottom_left_corner.svg" width="250" alt="bottom_left_corner.svg"></a> | **bottom_left_corner.svg**<br>VectorxVector | 2.03KB<br>更新: 2026-02-26 |
-| <a href="bottom_right_corner.svg"><img src="bottom_right_corner.svg" width="250" alt="bottom_right_corner.svg"></a> | **bottom_right_corner.svg**<br>VectorxVector | 1.89KB<br>更新: 2026-02-26 |
-| <a href="bottom_side.svg"><img src="bottom_side.svg" width="250" alt="bottom_side.svg"></a> | **bottom_side.svg**<br>VectorxVector | 1.63KB<br>更新: 2026-02-26 |
-| <a href="cell.svg"><img src="cell.svg" width="250" alt="cell.svg"></a> | **cell.svg**<br>VectorxVector | 1.74KB<br>更新: 2026-02-26 |
-| <a href="center_ptr.svg"><img src="center_ptr.svg" width="250" alt="center_ptr.svg"></a> | **center_ptr.svg**<br>VectorxVector | 1.39KB<br>更新: 2026-02-26 |
-| <a href="col-resize.svg"><img src="col-resize.svg" width="250" alt="col-resize.svg"></a> | **col-resize.svg**<br>VectorxVector | 2.47KB<br>更新: 2026-02-26 |
-| <a href="color-picker.svg"><img src="color-picker.svg" width="250" alt="color-picker.svg"></a> | **color-picker.svg**<br>VectorxVector | 2.23KB<br>更新: 2026-02-26 |
-| <a href="context-menu.svg"><img src="context-menu.svg" width="250" alt="context-menu.svg"></a> | **context-menu.svg**<br>VectorxVector | 1.69KB<br>更新: 2026-02-26 |
-| <a href="copy.svg"><img src="copy.svg" width="250" alt="copy.svg"></a> | **copy.svg**<br>VectorxVector | 2.26KB<br>更新: 2026-02-26 |
-| <a href="crosshair.svg"><img src="crosshair.svg" width="250" alt="crosshair.svg"></a> | **crosshair.svg**<br>VectorxVector | 2.39KB<br>更新: 2026-02-26 |
-| <a href="default.svg"><img src="default.svg" width="250" alt="default.svg"></a> | **default.svg**<br>VectorxVector | 1.35KB<br>更新: 2026-02-26 |
-| <a href="dnd-move.svg"><img src="dnd-move.svg" width="250" alt="dnd-move.svg"></a> | **dnd-move.svg**<br>VectorxVector | 3.19KB<br>更新: 2026-02-26 |
-| <a href="dnd-no-drop.svg"><img src="dnd-no-drop.svg" width="250" alt="dnd-no-drop.svg"></a> | **dnd-no-drop.svg**<br>VectorxVector | 4.15KB<br>更新: 2026-02-26 |
-| <a href="down-arrow.svg"><img src="down-arrow.svg" width="250" alt="down-arrow.svg"></a> | **down-arrow.svg**<br>VectorxVector | 1.16KB<br>更新: 2026-02-26 |
-| <a href="draft.svg"><img src="draft.svg" width="250" alt="draft.svg"></a> | **draft.svg**<br>VectorxVector | 2.17KB<br>更新: 2026-02-26 |
-| <a href="fleur.svg"><img src="fleur.svg" width="250" alt="fleur.svg"></a> | **fleur.svg**<br>VectorxVector | 2.86KB<br>更新: 2026-02-26 |
-| <a href="help.svg"><img src="help.svg" width="250" alt="help.svg"></a> | **help.svg**<br>VectorxVector | 2.62KB<br>更新: 2026-02-26 |
-| <a href="left-arrow.svg"><img src="left-arrow.svg" width="250" alt="left-arrow.svg"></a> | **left-arrow.svg**<br>VectorxVector | 1.17KB<br>更新: 2026-02-26 |
-| <a href="left_side.svg"><img src="left_side.svg" width="250" alt="left_side.svg"></a> | **left_side.svg**<br>VectorxVector | 1.38KB<br>更新: 2026-02-26 |
-| <a href="no-drop.svg"><img src="no-drop.svg" width="250" alt="no-drop.svg"></a> | **no-drop.svg**<br>VectorxVector | 2.34KB<br>更新: 2026-02-26 |
-| <a href="not-allowed.svg"><img src="not-allowed.svg" width="250" alt="not-allowed.svg"></a> | **not-allowed.svg**<br>VectorxVector | 1.06KB<br>更新: 2026-02-26 |
-| <a href="openhand.svg"><img src="openhand.svg" width="250" alt="openhand.svg"></a> | **openhand.svg**<br>VectorxVector | 2.64KB<br>更新: 2026-02-26 |
-| <a href="pencil.svg"><img src="pencil.svg" width="250" alt="pencil.svg"></a> | **pencil.svg**<br>VectorxVector | 1.28KB<br>更新: 2026-02-26 |
-| <a href="pirate.svg"><img src="pirate.svg" width="250" alt="pirate.svg"></a> | **pirate.svg**<br>VectorxVector | 5.39KB<br>更新: 2026-02-26 |
-| <a href="pointer.svg"><img src="pointer.svg" width="250" alt="pointer.svg"></a> | **pointer.svg**<br>VectorxVector | 2.13KB<br>更新: 2026-02-26 |
-| <a href="progress-00.svg"><img src="progress-00.svg" width="250" alt="progress-00.svg"></a> | **progress-00.svg**<br>VectorxVector | 5.57KB<br>更新: 2026-02-26 |
-| <a href="progress-01.svg"><img src="progress-01.svg" width="250" alt="progress-01.svg"></a> | **progress-01.svg**<br>VectorxVector | 5.64KB<br>更新: 2026-02-26 |
-| <a href="progress-02.svg"><img src="progress-02.svg" width="250" alt="progress-02.svg"></a> | **progress-02.svg**<br>VectorxVector | 5.62KB<br>更新: 2026-02-26 |
-| <a href="progress-03.svg"><img src="progress-03.svg" width="250" alt="progress-03.svg"></a> | **progress-03.svg**<br>VectorxVector | 5.64KB<br>更新: 2026-02-26 |
-| <a href="progress-04.svg"><img src="progress-04.svg" width="250" alt="progress-04.svg"></a> | **progress-04.svg**<br>VectorxVector | 5.62KB<br>更新: 2026-02-26 |
-| <a href="progress-05.svg"><img src="progress-05.svg" width="250" alt="progress-05.svg"></a> | **progress-05.svg**<br>VectorxVector | 5.64KB<br>更新: 2026-02-26 |
-| <a href="progress-06.svg"><img src="progress-06.svg" width="250" alt="progress-06.svg"></a> | **progress-06.svg**<br>VectorxVector | 5.61KB<br>更新: 2026-02-26 |
-| <a href="progress-07.svg"><img src="progress-07.svg" width="250" alt="progress-07.svg"></a> | **progress-07.svg**<br>VectorxVector | 5.64KB<br>更新: 2026-02-26 |
-| <a href="progress-08.svg"><img src="progress-08.svg" width="250" alt="progress-08.svg"></a> | **progress-08.svg**<br>VectorxVector | 5.62KB<br>更新: 2026-02-26 |
-| <a href="progress-09.svg"><img src="progress-09.svg" width="250" alt="progress-09.svg"></a> | **progress-09.svg**<br>VectorxVector | 5.64KB<br>更新: 2026-02-26 |
-| <a href="progress-10.svg"><img src="progress-10.svg" width="250" alt="progress-10.svg"></a> | **progress-10.svg**<br>VectorxVector | 5.62KB<br>更新: 2026-02-26 |
-| <a href="progress-11.svg"><img src="progress-11.svg" width="250" alt="progress-11.svg"></a> | **progress-11.svg**<br>VectorxVector | 5.64KB<br>更新: 2026-02-26 |
-| <a href="progress-12.svg"><img src="progress-12.svg" width="250" alt="progress-12.svg"></a> | **progress-12.svg**<br>VectorxVector | 5.61KB<br>更新: 2026-02-26 |
-| <a href="progress-13.svg"><img src="progress-13.svg" width="250" alt="progress-13.svg"></a> | **progress-13.svg**<br>VectorxVector | 5.64KB<br>更新: 2026-02-26 |
-| <a href="progress-14.svg"><img src="progress-14.svg" width="250" alt="progress-14.svg"></a> | **progress-14.svg**<br>VectorxVector | 5.62KB<br>更新: 2026-02-26 |
-| <a href="progress-15.svg"><img src="progress-15.svg" width="250" alt="progress-15.svg"></a> | **progress-15.svg**<br>VectorxVector | 5.64KB<br>更新: 2026-02-26 |
-| <a href="progress-16.svg"><img src="progress-16.svg" width="250" alt="progress-16.svg"></a> | **progress-16.svg**<br>VectorxVector | 5.62KB<br>更新: 2026-02-26 |
-| <a href="progress-17.svg"><img src="progress-17.svg" width="250" alt="progress-17.svg"></a> | **progress-17.svg**<br>VectorxVector | 5.64KB<br>更新: 2026-02-26 |
-| <a href="progress-18.svg"><img src="progress-18.svg" width="250" alt="progress-18.svg"></a> | **progress-18.svg**<br>VectorxVector | 5.60KB<br>更新: 2026-02-26 |
-| <a href="progress-19.svg"><img src="progress-19.svg" width="250" alt="progress-19.svg"></a> | **progress-19.svg**<br>VectorxVector | 5.64KB<br>更新: 2026-02-26 |
-| <a href="progress-20.svg"><img src="progress-20.svg" width="250" alt="progress-20.svg"></a> | **progress-20.svg**<br>VectorxVector | 5.62KB<br>更新: 2026-02-26 |
-| <a href="progress-21.svg"><img src="progress-21.svg" width="250" alt="progress-21.svg"></a> | **progress-21.svg**<br>VectorxVector | 5.64KB<br>更新: 2026-02-26 |
-| <a href="progress-22.svg"><img src="progress-22.svg" width="250" alt="progress-22.svg"></a> | **progress-22.svg**<br>VectorxVector | 5.62KB<br>更新: 2026-02-26 |
-| <a href="progress-23.svg"><img src="progress-23.svg" width="250" alt="progress-23.svg"></a> | **progress-23.svg**<br>VectorxVector | 5.64KB<br>更新: 2026-02-26 |
-| <a href="right-arrow.svg"><img src="right-arrow.svg" width="250" alt="right-arrow.svg"></a> | **right-arrow.svg**<br>VectorxVector | 1.16KB<br>更新: 2026-02-26 |
-| <a href="right_ptr.svg"><img src="right_ptr.svg" width="250" alt="right_ptr.svg"></a> | **right_ptr.svg**<br>VectorxVector | 1.35KB<br>更新: 2026-02-26 |
-| <a href="right_side.svg"><img src="right_side.svg" width="250" alt="right_side.svg"></a> | **right_side.svg**<br>VectorxVector | 1.38KB<br>更新: 2026-02-26 |
-| <a href="row-resize.svg"><img src="row-resize.svg" width="250" alt="row-resize.svg"></a> | **row-resize.svg**<br>VectorxVector | 2.97KB<br>更新: 2026-02-26 |
-| <a href="size_bdiag.svg"><img src="size_bdiag.svg" width="250" alt="size_bdiag.svg"></a> | **size_bdiag.svg**<br>VectorxVector | 2.26KB<br>更新: 2026-02-26 |
-| <a href="size_fdiag.svg"><img src="size_fdiag.svg" width="250" alt="size_fdiag.svg"></a> | **size_fdiag.svg**<br>VectorxVector | 2.30KB<br>更新: 2026-02-26 |
-| <a href="size_hor.svg"><img src="size_hor.svg" width="250" alt="size_hor.svg"></a> | **size_hor.svg**<br>VectorxVector | 2.21KB<br>更新: 2026-02-26 |
-| <a href="size_ver.svg"><img src="size_ver.svg" width="250" alt="size_ver.svg"></a> | **size_ver.svg**<br>VectorxVector | 2.15KB<br>更新: 2026-02-26 |
-| <a href="text.svg"><img src="text.svg" width="250" alt="text.svg"></a> | **text.svg**<br>VectorxVector | 2.21KB<br>更新: 2026-02-26 |
-| <a href="top_left_corner.svg"><img src="top_left_corner.svg" width="250" alt="top_left_corner.svg"></a> | **top_left_corner.svg**<br>VectorxVector | 2.00KB<br>更新: 2026-02-26 |
-| <a href="top_right_corner.svg"><img src="top_right_corner.svg" width="250" alt="top_right_corner.svg"></a> | **top_right_corner.svg**<br>VectorxVector | 1.97KB<br>更新: 2026-02-26 |
-| <a href="top_side.svg"><img src="top_side.svg" width="250" alt="top_side.svg"></a> | **top_side.svg**<br>VectorxVector | 1.40KB<br>更新: 2026-02-26 |
-| <a href="up-arrow.svg"><img src="up-arrow.svg" width="250" alt="up-arrow.svg"></a> | **up-arrow.svg**<br>VectorxVector | 1.11KB<br>更新: 2026-02-26 |
-| <a href="vertical-text.svg"><img src="vertical-text.svg" width="250" alt="vertical-text.svg"></a> | **vertical-text.svg**<br>VectorxVector | 2.24KB<br>更新: 2026-02-26 |
-| <a href="wait-00.svg"><img src="wait-00.svg" width="250" alt="wait-00.svg"></a> | **wait-00.svg**<br>VectorxVector | 7.53KB<br>更新: 2026-02-26 |
-| <a href="wait-01.svg"><img src="wait-01.svg" width="250" alt="wait-01.svg"></a> | **wait-01.svg**<br>VectorxVector | 7.64KB<br>更新: 2026-02-26 |
-| <a href="wait-02.svg"><img src="wait-02.svg" width="250" alt="wait-02.svg"></a> | **wait-02.svg**<br>VectorxVector | 7.62KB<br>更新: 2026-02-26 |
-| <a href="wait-03.svg"><img src="wait-03.svg" width="250" alt="wait-03.svg"></a> | **wait-03.svg**<br>VectorxVector | 7.64KB<br>更新: 2026-02-26 |
-| <a href="wait-04.svg"><img src="wait-04.svg" width="250" alt="wait-04.svg"></a> | **wait-04.svg**<br>VectorxVector | 7.62KB<br>更新: 2026-02-26 |
-| <a href="wait-05.svg"><img src="wait-05.svg" width="250" alt="wait-05.svg"></a> | **wait-05.svg**<br>VectorxVector | 7.63KB<br>更新: 2026-02-26 |
-| <a href="wait-06.svg"><img src="wait-06.svg" width="250" alt="wait-06.svg"></a> | **wait-06.svg**<br>VectorxVector | 7.61KB<br>更新: 2026-02-26 |
-| <a href="wait-07.svg"><img src="wait-07.svg" width="250" alt="wait-07.svg"></a> | **wait-07.svg**<br>VectorxVector | 7.64KB<br>更新: 2026-02-26 |
-| <a href="wait-08.svg"><img src="wait-08.svg" width="250" alt="wait-08.svg"></a> | **wait-08.svg**<br>VectorxVector | 7.62KB<br>更新: 2026-02-26 |
-| <a href="wait-09.svg"><img src="wait-09.svg" width="250" alt="wait-09.svg"></a> | **wait-09.svg**<br>VectorxVector | 7.64KB<br>更新: 2026-02-26 |
-| <a href="wait-10.svg"><img src="wait-10.svg" width="250" alt="wait-10.svg"></a> | **wait-10.svg**<br>VectorxVector | 7.62KB<br>更新: 2026-02-26 |
-| <a href="wait-11.svg"><img src="wait-11.svg" width="250" alt="wait-11.svg"></a> | **wait-11.svg**<br>VectorxVector | 7.64KB<br>更新: 2026-02-26 |
-| <a href="wait-12.svg"><img src="wait-12.svg" width="250" alt="wait-12.svg"></a> | **wait-12.svg**<br>VectorxVector | 7.61KB<br>更新: 2026-02-26 |
-| <a href="wait-13.svg"><img src="wait-13.svg" width="250" alt="wait-13.svg"></a> | **wait-13.svg**<br>VectorxVector | 7.64KB<br>更新: 2026-02-26 |
-| <a href="wait-14.svg"><img src="wait-14.svg" width="250" alt="wait-14.svg"></a> | **wait-14.svg**<br>VectorxVector | 7.62KB<br>更新: 2026-02-26 |
-| <a href="wait-15.svg"><img src="wait-15.svg" width="250" alt="wait-15.svg"></a> | **wait-15.svg**<br>VectorxVector | 7.64KB<br>更新: 2026-02-26 |
-| <a href="wait-16.svg"><img src="wait-16.svg" width="250" alt="wait-16.svg"></a> | **wait-16.svg**<br>VectorxVector | 7.62KB<br>更新: 2026-02-26 |
-| <a href="wait-17.svg"><img src="wait-17.svg" width="250" alt="wait-17.svg"></a> | **wait-17.svg**<br>VectorxVector | 7.64KB<br>更新: 2026-02-26 |
-| <a href="wait-18.svg"><img src="wait-18.svg" width="250" alt="wait-18.svg"></a> | **wait-18.svg**<br>VectorxVector | 7.61KB<br>更新: 2026-02-26 |
-| <a href="wait-19.svg"><img src="wait-19.svg" width="250" alt="wait-19.svg"></a> | **wait-19.svg**<br>VectorxVector | 7.64KB<br>更新: 2026-02-26 |
-| <a href="wait-20.svg"><img src="wait-20.svg" width="250" alt="wait-20.svg"></a> | **wait-20.svg**<br>VectorxVector | 7.62KB<br>更新: 2026-02-26 |
-| <a href="wait-21.svg"><img src="wait-21.svg" width="250" alt="wait-21.svg"></a> | **wait-21.svg**<br>VectorxVector | 7.64KB<br>更新: 2026-02-26 |
-| <a href="wait-22.svg"><img src="wait-22.svg" width="250" alt="wait-22.svg"></a> | **wait-22.svg**<br>VectorxVector | 7.62KB<br>更新: 2026-02-26 |
-| <a href="wait-23.svg"><img src="wait-23.svg" width="250" alt="wait-23.svg"></a> | **wait-23.svg**<br>VectorxVector | 7.64KB<br>更新: 2026-02-26 |
-| <a href="wayland-cursor.svg"><img src="wayland-cursor.svg" width="250" alt="wayland-cursor.svg"></a> | **wayland-cursor.svg**<br>VectorxVector | 3.88KB<br>更新: 2026-02-26 |
-| <a href="x-cursor.svg"><img src="x-cursor.svg" width="250" alt="x-cursor.svg"></a> | **x-cursor.svg**<br>VectorxVector | 2.69KB<br>更新: 2026-02-26 |
-| <a href="zoom-in.svg"><img src="zoom-in.svg" width="250" alt="zoom-in.svg"></a> | **zoom-in.svg**<br>VectorxVector | 1.57KB<br>更新: 2026-02-26 |
-| <a href="zoom-out.svg"><img src="zoom-out.svg" width="250" alt="zoom-out.svg"></a> | **zoom-out.svg**<br>VectorxVector | 1.55KB<br>更新: 2026-02-26 |
+| <a href="000-template.svg"><img src="000-template.svg" width="250" alt="000-template.svg"></a> | **000-template.svg**<br>Vector (SVG) \| 1.74KB<br>更新: 2026-02-26 |
+| <a href="alias.svg"><img src="alias.svg" width="250" alt="alias.svg"></a> | **alias.svg**<br>Vector (SVG) \| 2.29KB<br>更新: 2026-02-26 |
+| <a href="all-scroll.svg"><img src="all-scroll.svg" width="250" alt="all-scroll.svg"></a> | **all-scroll.svg**<br>Vector (SVG) \| 2.86KB<br>更新: 2026-02-26 |
+| <a href="bottom_left_corner.svg"><img src="bottom_left_corner.svg" width="250" alt="bottom_left_corner.svg"></a> | **bottom_left_corner.svg**<br>Vector (SVG) \| 2.03KB<br>更新: 2026-02-26 |
+| <a href="bottom_right_corner.svg"><img src="bottom_right_corner.svg" width="250" alt="bottom_right_corner.svg"></a> | **bottom_right_corner.svg**<br>Vector (SVG) \| 1.89KB<br>更新: 2026-02-26 |
+| <a href="bottom_side.svg"><img src="bottom_side.svg" width="250" alt="bottom_side.svg"></a> | **bottom_side.svg**<br>Vector (SVG) \| 1.63KB<br>更新: 2026-02-26 |
+| <a href="cell.svg"><img src="cell.svg" width="250" alt="cell.svg"></a> | **cell.svg**<br>Vector (SVG) \| 1.74KB<br>更新: 2026-02-26 |
+| <a href="center_ptr.svg"><img src="center_ptr.svg" width="250" alt="center_ptr.svg"></a> | **center_ptr.svg**<br>Vector (SVG) \| 1.39KB<br>更新: 2026-02-26 |
+| <a href="col-resize.svg"><img src="col-resize.svg" width="250" alt="col-resize.svg"></a> | **col-resize.svg**<br>Vector (SVG) \| 2.47KB<br>更新: 2026-02-26 |
+| <a href="color-picker.svg"><img src="color-picker.svg" width="250" alt="color-picker.svg"></a> | **color-picker.svg**<br>Vector (SVG) \| 2.23KB<br>更新: 2026-02-26 |
+| <a href="context-menu.svg"><img src="context-menu.svg" width="250" alt="context-menu.svg"></a> | **context-menu.svg**<br>Vector (SVG) \| 1.69KB<br>更新: 2026-02-26 |
+| <a href="copy.svg"><img src="copy.svg" width="250" alt="copy.svg"></a> | **copy.svg**<br>Vector (SVG) \| 2.26KB<br>更新: 2026-02-26 |
+| <a href="crosshair.svg"><img src="crosshair.svg" width="250" alt="crosshair.svg"></a> | **crosshair.svg**<br>Vector (SVG) \| 2.39KB<br>更新: 2026-02-26 |
+| <a href="default.svg"><img src="default.svg" width="250" alt="default.svg"></a> | **default.svg**<br>Vector (SVG) \| 1.35KB<br>更新: 2026-02-26 |
+| <a href="dnd-move.svg"><img src="dnd-move.svg" width="250" alt="dnd-move.svg"></a> | **dnd-move.svg**<br>Vector (SVG) \| 3.19KB<br>更新: 2026-02-26 |
+| <a href="dnd-no-drop.svg"><img src="dnd-no-drop.svg" width="250" alt="dnd-no-drop.svg"></a> | **dnd-no-drop.svg**<br>Vector (SVG) \| 4.15KB<br>更新: 2026-02-26 |
+| <a href="down-arrow.svg"><img src="down-arrow.svg" width="250" alt="down-arrow.svg"></a> | **down-arrow.svg**<br>Vector (SVG) \| 1.16KB<br>更新: 2026-02-26 |
+| <a href="draft.svg"><img src="draft.svg" width="250" alt="draft.svg"></a> | **draft.svg**<br>Vector (SVG) \| 2.17KB<br>更新: 2026-02-26 |
+| <a href="fleur.svg"><img src="fleur.svg" width="250" alt="fleur.svg"></a> | **fleur.svg**<br>Vector (SVG) \| 2.86KB<br>更新: 2026-02-26 |
+| <a href="help.svg"><img src="help.svg" width="250" alt="help.svg"></a> | **help.svg**<br>Vector (SVG) \| 2.62KB<br>更新: 2026-02-26 |
+| <a href="left-arrow.svg"><img src="left-arrow.svg" width="250" alt="left-arrow.svg"></a> | **left-arrow.svg**<br>Vector (SVG) \| 1.17KB<br>更新: 2026-02-26 |
+| <a href="left_side.svg"><img src="left_side.svg" width="250" alt="left_side.svg"></a> | **left_side.svg**<br>Vector (SVG) \| 1.38KB<br>更新: 2026-02-26 |
+| <a href="no-drop.svg"><img src="no-drop.svg" width="250" alt="no-drop.svg"></a> | **no-drop.svg**<br>Vector (SVG) \| 2.34KB<br>更新: 2026-02-26 |
+| <a href="not-allowed.svg"><img src="not-allowed.svg" width="250" alt="not-allowed.svg"></a> | **not-allowed.svg**<br>Vector (SVG) \| 1.06KB<br>更新: 2026-02-26 |
+| <a href="openhand.svg"><img src="openhand.svg" width="250" alt="openhand.svg"></a> | **openhand.svg**<br>Vector (SVG) \| 2.64KB<br>更新: 2026-02-26 |
+| <a href="pencil.svg"><img src="pencil.svg" width="250" alt="pencil.svg"></a> | **pencil.svg**<br>Vector (SVG) \| 1.28KB<br>更新: 2026-02-26 |
+| <a href="pirate.svg"><img src="pirate.svg" width="250" alt="pirate.svg"></a> | **pirate.svg**<br>Vector (SVG) \| 5.39KB<br>更新: 2026-02-26 |
+| <a href="pointer.svg"><img src="pointer.svg" width="250" alt="pointer.svg"></a> | **pointer.svg**<br>Vector (SVG) \| 2.13KB<br>更新: 2026-02-26 |
+| <a href="progress-00.svg"><img src="progress-00.svg" width="250" alt="progress-00.svg"></a> | **progress-00.svg**<br>Vector (SVG) \| 5.57KB<br>更新: 2026-02-26 |
+| <a href="progress-01.svg"><img src="progress-01.svg" width="250" alt="progress-01.svg"></a> | **progress-01.svg**<br>Vector (SVG) \| 5.64KB<br>更新: 2026-02-26 |
+| <a href="progress-02.svg"><img src="progress-02.svg" width="250" alt="progress-02.svg"></a> | **progress-02.svg**<br>Vector (SVG) \| 5.62KB<br>更新: 2026-02-26 |
+| <a href="progress-03.svg"><img src="progress-03.svg" width="250" alt="progress-03.svg"></a> | **progress-03.svg**<br>Vector (SVG) \| 5.64KB<br>更新: 2026-02-26 |
+| <a href="progress-04.svg"><img src="progress-04.svg" width="250" alt="progress-04.svg"></a> | **progress-04.svg**<br>Vector (SVG) \| 5.62KB<br>更新: 2026-02-26 |
+| <a href="progress-05.svg"><img src="progress-05.svg" width="250" alt="progress-05.svg"></a> | **progress-05.svg**<br>Vector (SVG) \| 5.64KB<br>更新: 2026-02-26 |
+| <a href="progress-06.svg"><img src="progress-06.svg" width="250" alt="progress-06.svg"></a> | **progress-06.svg**<br>Vector (SVG) \| 5.61KB<br>更新: 2026-02-26 |
+| <a href="progress-07.svg"><img src="progress-07.svg" width="250" alt="progress-07.svg"></a> | **progress-07.svg**<br>Vector (SVG) \| 5.64KB<br>更新: 2026-02-26 |
+| <a href="progress-08.svg"><img src="progress-08.svg" width="250" alt="progress-08.svg"></a> | **progress-08.svg**<br>Vector (SVG) \| 5.62KB<br>更新: 2026-02-26 |
+| <a href="progress-09.svg"><img src="progress-09.svg" width="250" alt="progress-09.svg"></a> | **progress-09.svg**<br>Vector (SVG) \| 5.64KB<br>更新: 2026-02-26 |
+| <a href="progress-10.svg"><img src="progress-10.svg" width="250" alt="progress-10.svg"></a> | **progress-10.svg**<br>Vector (SVG) \| 5.62KB<br>更新: 2026-02-26 |
+| <a href="progress-11.svg"><img src="progress-11.svg" width="250" alt="progress-11.svg"></a> | **progress-11.svg**<br>Vector (SVG) \| 5.64KB<br>更新: 2026-02-26 |
+| <a href="progress-12.svg"><img src="progress-12.svg" width="250" alt="progress-12.svg"></a> | **progress-12.svg**<br>Vector (SVG) \| 5.61KB<br>更新: 2026-02-26 |
+| <a href="progress-13.svg"><img src="progress-13.svg" width="250" alt="progress-13.svg"></a> | **progress-13.svg**<br>Vector (SVG) \| 5.64KB<br>更新: 2026-02-26 |
+| <a href="progress-14.svg"><img src="progress-14.svg" width="250" alt="progress-14.svg"></a> | **progress-14.svg**<br>Vector (SVG) \| 5.62KB<br>更新: 2026-02-26 |
+| <a href="progress-15.svg"><img src="progress-15.svg" width="250" alt="progress-15.svg"></a> | **progress-15.svg**<br>Vector (SVG) \| 5.64KB<br>更新: 2026-02-26 |
+| <a href="progress-16.svg"><img src="progress-16.svg" width="250" alt="progress-16.svg"></a> | **progress-16.svg**<br>Vector (SVG) \| 5.62KB<br>更新: 2026-02-26 |
+| <a href="progress-17.svg"><img src="progress-17.svg" width="250" alt="progress-17.svg"></a> | **progress-17.svg**<br>Vector (SVG) \| 5.64KB<br>更新: 2026-02-26 |
+| <a href="progress-18.svg"><img src="progress-18.svg" width="250" alt="progress-18.svg"></a> | **progress-18.svg**<br>Vector (SVG) \| 5.60KB<br>更新: 2026-02-26 |
+| <a href="progress-19.svg"><img src="progress-19.svg" width="250" alt="progress-19.svg"></a> | **progress-19.svg**<br>Vector (SVG) \| 5.64KB<br>更新: 2026-02-26 |
+| <a href="progress-20.svg"><img src="progress-20.svg" width="250" alt="progress-20.svg"></a> | **progress-20.svg**<br>Vector (SVG) \| 5.62KB<br>更新: 2026-02-26 |
+| <a href="progress-21.svg"><img src="progress-21.svg" width="250" alt="progress-21.svg"></a> | **progress-21.svg**<br>Vector (SVG) \| 5.64KB<br>更新: 2026-02-26 |
+| <a href="progress-22.svg"><img src="progress-22.svg" width="250" alt="progress-22.svg"></a> | **progress-22.svg**<br>Vector (SVG) \| 5.62KB<br>更新: 2026-02-26 |
+| <a href="progress-23.svg"><img src="progress-23.svg" width="250" alt="progress-23.svg"></a> | **progress-23.svg**<br>Vector (SVG) \| 5.64KB<br>更新: 2026-02-26 |
+| <a href="right-arrow.svg"><img src="right-arrow.svg" width="250" alt="right-arrow.svg"></a> | **right-arrow.svg**<br>Vector (SVG) \| 1.16KB<br>更新: 2026-02-26 |
+| <a href="right_ptr.svg"><img src="right_ptr.svg" width="250" alt="right_ptr.svg"></a> | **right_ptr.svg**<br>Vector (SVG) \| 1.35KB<br>更新: 2026-02-26 |
+| <a href="right_side.svg"><img src="right_side.svg" width="250" alt="right_side.svg"></a> | **right_side.svg**<br>Vector (SVG) \| 1.38KB<br>更新: 2026-02-26 |
+| <a href="row-resize.svg"><img src="row-resize.svg" width="250" alt="row-resize.svg"></a> | **row-resize.svg**<br>Vector (SVG) \| 2.97KB<br>更新: 2026-02-26 |
+| <a href="size_bdiag.svg"><img src="size_bdiag.svg" width="250" alt="size_bdiag.svg"></a> | **size_bdiag.svg**<br>Vector (SVG) \| 2.26KB<br>更新: 2026-02-26 |
+| <a href="size_fdiag.svg"><img src="size_fdiag.svg" width="250" alt="size_fdiag.svg"></a> | **size_fdiag.svg**<br>Vector (SVG) \| 2.30KB<br>更新: 2026-02-26 |
+| <a href="size_hor.svg"><img src="size_hor.svg" width="250" alt="size_hor.svg"></a> | **size_hor.svg**<br>Vector (SVG) \| 2.21KB<br>更新: 2026-02-26 |
+| <a href="size_ver.svg"><img src="size_ver.svg" width="250" alt="size_ver.svg"></a> | **size_ver.svg**<br>Vector (SVG) \| 2.15KB<br>更新: 2026-02-26 |
+| <a href="text.svg"><img src="text.svg" width="250" alt="text.svg"></a> | **text.svg**<br>Vector (SVG) \| 2.21KB<br>更新: 2026-02-26 |
+| <a href="top_left_corner.svg"><img src="top_left_corner.svg" width="250" alt="top_left_corner.svg"></a> | **top_left_corner.svg**<br>Vector (SVG) \| 2.00KB<br>更新: 2026-02-26 |
+| <a href="top_right_corner.svg"><img src="top_right_corner.svg" width="250" alt="top_right_corner.svg"></a> | **top_right_corner.svg**<br>Vector (SVG) \| 1.97KB<br>更新: 2026-02-26 |
+| <a href="top_side.svg"><img src="top_side.svg" width="250" alt="top_side.svg"></a> | **top_side.svg**<br>Vector (SVG) \| 1.40KB<br>更新: 2026-02-26 |
+| <a href="up-arrow.svg"><img src="up-arrow.svg" width="250" alt="up-arrow.svg"></a> | **up-arrow.svg**<br>Vector (SVG) \| 1.11KB<br>更新: 2026-02-26 |
+| <a href="vertical-text.svg"><img src="vertical-text.svg" width="250" alt="vertical-text.svg"></a> | **vertical-text.svg**<br>Vector (SVG) \| 2.24KB<br>更新: 2026-02-26 |
+| <a href="wait-00.svg"><img src="wait-00.svg" width="250" alt="wait-00.svg"></a> | **wait-00.svg**<br>Vector (SVG) \| 7.53KB<br>更新: 2026-02-26 |
+| <a href="wait-01.svg"><img src="wait-01.svg" width="250" alt="wait-01.svg"></a> | **wait-01.svg**<br>Vector (SVG) \| 7.64KB<br>更新: 2026-02-26 |
+| <a href="wait-02.svg"><img src="wait-02.svg" width="250" alt="wait-02.svg"></a> | **wait-02.svg**<br>Vector (SVG) \| 7.62KB<br>更新: 2026-02-26 |
+| <a href="wait-03.svg"><img src="wait-03.svg" width="250" alt="wait-03.svg"></a> | **wait-03.svg**<br>Vector (SVG) \| 7.64KB<br>更新: 2026-02-26 |
+| <a href="wait-04.svg"><img src="wait-04.svg" width="250" alt="wait-04.svg"></a> | **wait-04.svg**<br>Vector (SVG) \| 7.62KB<br>更新: 2026-02-26 |
+| <a href="wait-05.svg"><img src="wait-05.svg" width="250" alt="wait-05.svg"></a> | **wait-05.svg**<br>Vector (SVG) \| 7.63KB<br>更新: 2026-02-26 |
+| <a href="wait-06.svg"><img src="wait-06.svg" width="250" alt="wait-06.svg"></a> | **wait-06.svg**<br>Vector (SVG) \| 7.61KB<br>更新: 2026-02-26 |
+| <a href="wait-07.svg"><img src="wait-07.svg" width="250" alt="wait-07.svg"></a> | **wait-07.svg**<br>Vector (SVG) \| 7.64KB<br>更新: 2026-02-26 |
+| <a href="wait-08.svg"><img src="wait-08.svg" width="250" alt="wait-08.svg"></a> | **wait-08.svg**<br>Vector (SVG) \| 7.62KB<br>更新: 2026-02-26 |
+| <a href="wait-09.svg"><img src="wait-09.svg" width="250" alt="wait-09.svg"></a> | **wait-09.svg**<br>Vector (SVG) \| 7.64KB<br>更新: 2026-02-26 |
+| <a href="wait-10.svg"><img src="wait-10.svg" width="250" alt="wait-10.svg"></a> | **wait-10.svg**<br>Vector (SVG) \| 7.62KB<br>更新: 2026-02-26 |
+| <a href="wait-11.svg"><img src="wait-11.svg" width="250" alt="wait-11.svg"></a> | **wait-11.svg**<br>Vector (SVG) \| 7.64KB<br>更新: 2026-02-26 |
+| <a href="wait-12.svg"><img src="wait-12.svg" width="250" alt="wait-12.svg"></a> | **wait-12.svg**<br>Vector (SVG) \| 7.61KB<br>更新: 2026-02-26 |
+| <a href="wait-13.svg"><img src="wait-13.svg" width="250" alt="wait-13.svg"></a> | **wait-13.svg**<br>Vector (SVG) \| 7.64KB<br>更新: 2026-02-26 |
+| <a href="wait-14.svg"><img src="wait-14.svg" width="250" alt="wait-14.svg"></a> | **wait-14.svg**<br>Vector (SVG) \| 7.62KB<br>更新: 2026-02-26 |
+| <a href="wait-15.svg"><img src="wait-15.svg" width="250" alt="wait-15.svg"></a> | **wait-15.svg**<br>Vector (SVG) \| 7.64KB<br>更新: 2026-02-26 |
+| <a href="wait-16.svg"><img src="wait-16.svg" width="250" alt="wait-16.svg"></a> | **wait-16.svg**<br>Vector (SVG) \| 7.62KB<br>更新: 2026-02-26 |
+| <a href="wait-17.svg"><img src="wait-17.svg" width="250" alt="wait-17.svg"></a> | **wait-17.svg**<br>Vector (SVG) \| 7.64KB<br>更新: 2026-02-26 |
+| <a href="wait-18.svg"><img src="wait-18.svg" width="250" alt="wait-18.svg"></a> | **wait-18.svg**<br>Vector (SVG) \| 7.61KB<br>更新: 2026-02-26 |
+| <a href="wait-19.svg"><img src="wait-19.svg" width="250" alt="wait-19.svg"></a> | **wait-19.svg**<br>Vector (SVG) \| 7.64KB<br>更新: 2026-02-26 |
+| <a href="wait-20.svg"><img src="wait-20.svg" width="250" alt="wait-20.svg"></a> | **wait-20.svg**<br>Vector (SVG) \| 7.62KB<br>更新: 2026-02-26 |
+| <a href="wait-21.svg"><img src="wait-21.svg" width="250" alt="wait-21.svg"></a> | **wait-21.svg**<br>Vector (SVG) \| 7.64KB<br>更新: 2026-02-26 |
+| <a href="wait-22.svg"><img src="wait-22.svg" width="250" alt="wait-22.svg"></a> | **wait-22.svg**<br>Vector (SVG) \| 7.62KB<br>更新: 2026-02-26 |
+| <a href="wait-23.svg"><img src="wait-23.svg" width="250" alt="wait-23.svg"></a> | **wait-23.svg**<br>Vector (SVG) \| 7.64KB<br>更新: 2026-02-26 |
+| <a href="wayland-cursor.svg"><img src="wayland-cursor.svg" width="250" alt="wayland-cursor.svg"></a> | **wayland-cursor.svg**<br>Vector (SVG) \| 3.88KB<br>更新: 2026-02-26 |
+| <a href="x-cursor.svg"><img src="x-cursor.svg" width="250" alt="x-cursor.svg"></a> | **x-cursor.svg**<br>Vector (SVG) \| 2.69KB<br>更新: 2026-02-26 |
+| <a href="zoom-in.svg"><img src="zoom-in.svg" width="250" alt="zoom-in.svg"></a> | **zoom-in.svg**<br>Vector (SVG) \| 1.57KB<br>更新: 2026-02-26 |
+| <a href="zoom-out.svg"><img src="zoom-out.svg" width="250" alt="zoom-out.svg"></a> | **zoom-out.svg**<br>Vector (SVG) \| 1.55KB<br>更新: 2026-02-26 |

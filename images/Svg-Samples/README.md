@@ -4,4 +4,4 @@
 
 | 預覽 | 詳細資訊 |
 | :--- | :--- |
-| <a href="Illustration-01.svg"><img src="Illustration-01.svg" width="250" alt="Illustration-01.svg"></a> | **Illustration-01.svg**<br>VectorxVector | 114.21KB<br>更新: 2026-02-26 |
+| <a href="Illustration-01.svg"><img src="Illustration-01.svg" width="250" alt="Illustration-01.svg"></a> | **Illustration-01.svg**<br>Vector (SVG) \| 114.21KB<br>更新: 2026-02-26 |
