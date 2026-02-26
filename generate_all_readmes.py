@@ -16,8 +16,10 @@ def get_size_format(b):
 
 subdir_links = []
 
+
 # 1. 遍歷子目錄生成個別 README
 for root, dirs, files in sorted(os.walk(IMAGE_DIR)):
+    # 支援清單加入 .svg
     valid_files = [f for f in files if f.lower().endswith(('.png', '.jpg', '.jpeg', '.gif', '.webp', '.svg'))]
     
     if valid_files:
@@ -25,10 +27,8 @@ for root, dirs, files in sorted(os.walk(IMAGE_DIR)):
         folder_name = os.path.basename(root)
         readme_path = os.path.join(root, 'README.md')
         
-        # 紀錄根目錄導覽資訊
         subdir_links.append(f"- [📁 {folder_name}]({folder_path}/README.md) ({len(valid_files)} images)")
         
-        # 子目錄 README 內容：增加「回到首頁」連結
         content = [
             f"# 🖼️ {folder_name} Gallery\n",
             f"[⬅️ 回到首頁](../../{ROOT_README})\n",
@@ -37,22 +37,25 @@ for root, dirs, files in sorted(os.walk(IMAGE_DIR)):
         ]
         
         for f in sorted(valid_files):
-            full_path = os.path.join(root, f)    
-            stat = os.stat(full_path)
-            size = get_size_format(stat.st_size)
-        if f.lower().endswith('.svg'): w, h = "Vector", "Vector"    
-        else:
+            full_path = os.path.join(root, f)
             try:
-                with Image.open(full_path) as img:
-                    w, h = img.size
-            except:
-                w, h = "Unknown", "Unknown"
-        
-                # 3. 預覽標籤 (SVG 在瀏覽器會自動渲染)
+                stat = os.stat(full_path)
+                size = get_size_format(stat.st_size)
+                mtime = datetime.datetime.fromtimestamp(stat.st_mtime).strftime('%Y-%m-%d')
+                
+                # --- 關鍵修改：區分 SVG 與一般圖片 ---
+                if f.lower().endswith('.svg'):
+                    w, h = "Vector", "Vector"
+                else:
+                    with Image.open(full_path) as img:
+                        w, h = img.size
+                # ----------------------------------
+
                 img_tag = f'<a href="{f}"><img src="{f}" width="250" alt="{f}"></a>'
-                info = f"**{f}**<br>{w}x{h} | {size}"
+                info = f"**{f}**<br>{w}x{h} | {size}<br>更新: {mtime}"
                 content.append(f"| {img_tag} | {info} |")
             except Exception as e:
+                # 即使某一檔案出錯（如毀損），也會跳過並繼續處理下一張
                 print(f"Error processing {f}: {e}")
 
         with open(readme_path, 'w', encoding='utf-8') as f_out:
