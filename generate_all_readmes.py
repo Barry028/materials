@@ -18,7 +18,7 @@ subdir_links = []
 
 # 1. 遍歷子目錄生成個別 README
 for root, dirs, files in sorted(os.walk(IMAGE_DIR)):
-    valid_files = [f for f in files if f.lower().endswith(('.svg', '.png', '.jpg', '.jpeg', '.gif', '.webp'))]
+    valid_files = [f for f in files if f.lower().endswith(('.png', '.jpg', '.jpeg', '.gif', '.webp', '.svg'))]
     
     if valid_files:
         folder_path = os.path.relpath(root, '.')
