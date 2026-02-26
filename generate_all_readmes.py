@@ -68,36 +68,42 @@ if os.path.exists(ROOT_README):
     with open(ROOT_README, 'r', encoding='utf-8') as f_in:
         root_text = f_in.read()
     
-    # 建立樹狀表格導覽
+    # 建立樹狀表格導覽（圓形縮圖版）
     tree_content = [
         "## 📂 素材庫樹狀導覽\n",
-        "| 目錄路徑 | 封面預覽 | 檔案數量 |",
+        "| 目錄名稱 | 封面預覽 | 統計 |",
         "| :--- | :---: | :---: |"
     ]
     
-    # 重新掃描以建立樹狀感
+    # 重新遍歷以建立層級感
     for root, dirs, files in sorted(os.walk(IMAGE_DIR)):
         valid_files = [f for f in files if f.lower().endswith(('.png', '.jpg', '.jpeg', '.gif', '.webp', '.svg'))]
         
         if valid_files:
-            folder_path = os.path.relpath(root, '.')
-            # 計算層級深度，建立樹狀視覺符號 (例如: └──)
-            depth = folder_path.count(os.sep)
-            indent = "　" * depth + "┗ " if depth > 0 else "📂 "
+            folder_path = os.path.normpath(os.path.relpath(root, '.'))
             folder_name = os.path.basename(root)
             
-            # 取得第一張圖片作為封面
-            cover_img = sorted(valid_files)[0]
-            cover_path = os.path.join(folder_path, cover_img)
+            # 計算層級深度，建立縮排
+            # 注意：在 GitHub README 中，全形空白 "　" 縮進效果最好
+            depth = folder_path.count(os.sep)
+            indent = "　" * depth + ("┗ " if depth > 0 else "📂 ")
             
-            # 建立表格行
+            # 取得第一張圖片作為封面，並使用 HTML 樣式美化
+            cover_file = sorted(valid_files)[0]
+            # 修正路徑在 Windows/Linux 上的相容性
+            cover_path = os.path.join(folder_path, cover_file).replace('\\', '/')
+            
+            # 圓形縮圖樣式：固定寬高 + 圓角 + 灰色細邊框
+            img_style = 'width="40" height="40" style="border-radius:50%; border:1px solid #ddd; object-fit:cover; display:block; margin:auto;"'
+            img_preview = f'<a href="{folder_path}/README.md"><img src="{cover_path}" {img_style}></a>'
+            
+            # 連結與資訊
             folder_link = f"[{indent}{folder_name}]({folder_path}/README.md)"
-            img_preview = f'<img src="{cover_path}" width="50" height="50" style="object-fit:cover">'
-            count_info = f"{len(valid_files)} 張"
+            count_info = f"`{len(valid_files)} Items`"
             
             tree_content.append(f"| {folder_link} | {img_preview} | {count_info} |")
 
-    # 組合最終內容
+    # 組合內容並替換標記
     nav_menu = f"{START_MARKER}\n" + "\n".join(tree_content) + f"\n{END_MARKER}"
     
     if START_MARKER in root_text:
