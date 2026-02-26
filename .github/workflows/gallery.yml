@@ -1,8 +1,9 @@
-name: Auto Gallery Builder
+name: Gallery Builder Pro
 
 on:
   push:
-    paths: ['images/**']
+    paths:
+      - 'images/**'
   workflow_dispatch:
 
 jobs:
@@ -11,19 +12,24 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+      
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.x'
+
       - name: Install Pillow
         run: pip install Pillow
+
       - name: Generate All Readmes
         run: python generate_all_readmes.py
+
       - name: Commit and Push
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add "**/README.md"
-          git commit -m "docs: update all galleries and root index" || exit 0
+          git commit -m "docs: sync sub-galleries and update navigation" || exit 0
           git push
