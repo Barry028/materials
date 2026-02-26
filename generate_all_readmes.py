@@ -68,7 +68,37 @@ if os.path.exists(ROOT_README):
     with open(ROOT_README, 'r', encoding='utf-8') as f_in:
         root_text = f_in.read()
     
-    nav_menu = f"{START_MARKER}\n## 📂 圖片分類導覽\n" + "\n".join(subdir_links) + f"\n{END_MARKER}"
+    # 建立樹狀表格導覽
+    tree_content = [
+        "## 📂 素材庫樹狀導覽\n",
+        "| 目錄路徑 | 封面預覽 | 檔案數量 |",
+        "| :--- | :---: | :---: |"
+    ]
+    
+    # 重新掃描以建立樹狀感
+    for root, dirs, files in sorted(os.walk(IMAGE_DIR)):
+        valid_files = [f for f in files if f.lower().endswith(('.png', '.jpg', '.jpeg', '.gif', '.webp', '.svg'))]
+        
+        if valid_files:
+            folder_path = os.path.relpath(root, '.')
+            # 計算層級深度，建立樹狀視覺符號 (例如: └──)
+            depth = folder_path.count(os.sep)
+            indent = "　" * depth + "┗ " if depth > 0 else "📂 "
+            folder_name = os.path.basename(root)
+            
+            # 取得第一張圖片作為封面
+            cover_img = sorted(valid_files)[0]
+            cover_path = os.path.join(folder_path, cover_img)
+            
+            # 建立表格行
+            folder_link = f"[{indent}{folder_name}]({folder_path}/README.md)"
+            img_preview = f'<img src="{cover_path}" width="50" height="50" style="object-fit:cover">'
+            count_info = f"{len(valid_files)} 張"
+            
+            tree_content.append(f"| {folder_link} | {img_preview} | {count_info} |")
+
+    # 組合最終內容
+    nav_menu = f"{START_MARKER}\n" + "\n".join(tree_content) + f"\n{END_MARKER}"
     
     if START_MARKER in root_text:
         root_text = re.sub(f"{START_MARKER}.*?{END_MARKER}", nav_menu, root_text, flags=re.DOTALL)
