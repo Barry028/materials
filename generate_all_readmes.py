@@ -14,102 +14,79 @@ def get_size_format(b):
         if b < 1024: return f"{b:.2f}{unit}B"
         b /= 1024
 
+# 確保圖片目錄存在
+if not os.path.exists(IMAGE_DIR):
+    os.makedirs(IMAGE_DIR)
+
 subdir_links = []
 
 # 1. 遍歷子目錄生成個別 README
 for root, dirs, files in sorted(os.walk(IMAGE_DIR)):
-    # 支援格式清單（包含 SVG）
     valid_files = [f for f in files if f.lower().endswith(('.png', '.jpg', '.jpeg', '.gif', '.webp', '.svg'))]
     
     if valid_files:
-        folder_path = os.path.relpath(root, '.')
+        folder_path = os.path.normpath(os.path.relpath(root, '.'))
         folder_name = os.path.basename(root)
         readme_path = os.path.join(root, 'README.md')
         
-        # 紀錄根目錄導覽資訊
-        subdir_links.append(f"- [📁 {folder_name}]({folder_path}/README.md) ({len(valid_files)} images)")
+        # 紀錄樹狀導覽資訊
+        depth = folder_path.count(os.sep)
+        indent = "　" * depth + ("┗ " if depth > 0 else "📂 ")
+        cover_file = sorted(valid_files)[0]
+        cover_url = os.path.join(folder_path, cover_file).replace('\\', '/')
         
-        # 子目錄 README 內容
-        content = [
-            f"# 🖼️ {folder_name} Gallery\n",
-            f"[⬅️ 回到首頁](../../{ROOT_README})\n",
-            "| 預覽 | 詳細資訊 |",
+        # 製作圓形封面 HTML
+        img_style = 'width="45" height="45" style="border-radius:50%; border:2px solid #eee; object-fit:cover;"'
+        img_html = f'<a href="{folder_path}/README.md"><img src="{cover_url}" {img_style}></a>'
+        
+        subdir_links.append(f"| [{indent}{folder_name}]({folder_path}/README.md) | {img_html} | `{len(valid_files)} Items` |")
+        
+        # 子目錄 README：含「回到首頁」
+        sub_content = [
+            f"# 🖼️ {folder_name} 素材庫\n",
+            f"[⬅️ 返回主目錄](../../{ROOT_README})\n",
+            "| 預覽 (點擊放大) | 檔案資訊 |",
             "| :--- | :--- |"
         ]
         
         for f in sorted(valid_files):
-            full_path = os.path.join(root, f)
+            f_path = os.path.join(root, f)
             try:
-                stat = os.stat(full_path)
+                stat = os.stat(f_path)
                 size = get_size_format(stat.st_size)
-                mtime = datetime.datetime.fromtimestamp(stat.st_mtime).strftime('%Y-%m-%d')
-                
-                # 區分 SVG (Vector) 與 一般位圖 (Pixel)
                 if f.lower().endswith('.svg'):
-                    w_h_info = "Vector (SVG)"
+                    info_text = f"Vector (SVG) | {size}"
                 else:
-                    with Image.open(full_path) as img:
+                    with Image.open(f_path) as img:
                         w, h = img.size
-                        w_h_info = f"{w}x{h}"
+                        info_text = f"{w}x{h} | {size}"
                 
-                # 建立預覽與資訊
-                img_tag = f'<a href="{f}"><img src="{f}" width="250" alt="{f}"></a>'
-                info = f"**{f}**<br>{w_h_info} \| {size}<br>更新: {mtime}"
-                content.append(f"| {img_tag} | {info} |")
-            except Exception as e:
-                print(f"Skipping {f} due to error: {e}")
+                sub_content.append(f'| <a href="{f}"><img src="{f}" width="250"></a> | **{f}**<br>{info_text} |')
+            except:
+                continue
 
-        # 寫入子目錄 README
         with open(readme_path, 'w', encoding='utf-8') as f_out:
-            f_out.write("\n".join(content))
+            f_out.write("\n".join(sub_content))
 
-# 2. 更新根目錄 README 的導覽索引
+# 2. 生成或更新根目錄 README
+default_header = "# 🎨 我的自動化設計素材庫\n這是一個透過 **GitHub Actions** 自動生成的圖庫系統。只需上傳圖片至 `images/` 資料夾即可自動更新。\n"
+tree_table = [
+    "## 📂 素材目錄樹狀導覽\n",
+    "| 目錄路徑 | 封面 | 統計 |",
+    "| :--- | :---: | :---: |"
+] + subdir_links
+
+new_nav_section = f"{START_MARKER}\n" + "\n".join(tree_table) + f"\n{END_MARKER}"
+
 if os.path.exists(ROOT_README):
     with open(ROOT_README, 'r', encoding='utf-8') as f_in:
-        root_text = f_in.read()
-    
-    # 建立樹狀表格導覽（圓形縮圖版）
-    tree_content = [
-        "## 📂 素材庫樹狀導覽\n",
-        "| 目錄名稱 | 封面預覽 | 統計 |",
-        "| :--- | :---: | :---: |"
-    ]
-    
-    # 重新遍歷以建立層級感
-    for root, dirs, files in sorted(os.walk(IMAGE_DIR)):
-        valid_files = [f for f in files if f.lower().endswith(('.png', '.jpg', '.jpeg', '.gif', '.webp', '.svg'))]
-        
-        if valid_files:
-            folder_path = os.path.normpath(os.path.relpath(root, '.'))
-            folder_name = os.path.basename(root)
-            
-            # 計算層級深度，建立縮排
-            # 注意：在 GitHub README 中，全形空白 "　" 縮進效果最好
-            depth = folder_path.count(os.sep)
-            indent = "　" * depth + ("┗ " if depth > 0 else "📂 ")
-            
-            # 取得第一張圖片作為封面，並使用 HTML 樣式美化
-            cover_file = sorted(valid_files)[0]
-            # 修正路徑在 Windows/Linux 上的相容性
-            cover_path = os.path.join(folder_path, cover_file).replace('\\', '/')
-            
-            # 圓形縮圖樣式：固定寬高 + 圓角 + 灰色細邊框
-            img_style = 'width="40" height="40" style="border-radius:50%; border:1px solid #ddd; object-fit:cover; display:block; margin:auto;"'
-            img_preview = f'<a href="{folder_path}/README.md"><img src="{cover_path}" {img_style}></a>'
-            
-            # 連結與資訊
-            folder_link = f"[{indent}{folder_name}]({folder_path}/README.md)"
-            count_info = f"`{len(valid_files)} Items`"
-            
-            tree_content.append(f"| {folder_link} | {img_preview} | {count_info} |")
-
-    # 組合內容並替換標記
-    nav_menu = f"{START_MARKER}\n" + "\n".join(tree_content) + f"\n{END_MARKER}"
-    
-    if START_MARKER in root_text:
-        root_text = re.sub(f"{START_MARKER}.*?{END_MARKER}", nav_menu, root_text, flags=re.DOTALL)
+        content = f_in.read()
+    if START_MARKER in content:
+        content = re.sub(f"{START_MARKER}.*?{END_MARKER}", new_nav_section, content, flags=re.DOTALL)
     else:
-        root_text += f"\n\n{nav_menu}"
-        
-    with open(ROOT_README, 'w', encoding='utf-8') as f_out:
-        f_out.write(root_text)
+        content += f"\n\n{new_nav_section}"
+else:
+    content = f"{default_header}\n\n{new_nav_section}\n\n---\n*最後更新於: {datetime.datetime.now().strftime('%Y-%m-%d %H:%M')}*"
+
+with open(ROOT_README, 'w', encoding='utf-8') as f_out:
+    f_out.write(content)
