@@ -1,29 +1,22 @@
-name: Create thumbnails
-on: [push]
+name: Generate Grouped Thumbnails
+
+on:
+  push:
+    paths:
+      - 'images/**'
+
 jobs:
   build:
-    if: "!contains(github.event.head_commit.message, 'create-pull-request')"
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
+
+      - name: Generate Grouped Thumbnails
+        uses: firefly-cpp/thumbnails-readme-action@v1.0.0
         with:
-          ref: ${{ github.head_ref }}
-      - name: generate_thumbnails
-        uses: KukovecRok/thumbnails-readme-action@v3.0
-      - uses: actions/upload-artifact@v3
-        with:
-          name: my-generated-thumbnails
-          path: |
-            README.md
-            image_thumbnails/**
-      - run: sudo chown -R $USER:$USER .;
-      - name: Create Pull Request
-        uses: peter-evans/create-pull-request@v6
-        with:
-          commit-message: create-pull-request Update README.md and image_thumbnails
-          add-paths: |
-            README.md
-            image_thumbnails/**
-          base: ${{ github.head_ref }}
-          title: Update README.md and image_thumbnails
-          body: Automatically generated image thumbnails and pull-request
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          source: 'images'        # 指向父目錄，會依據子目錄分組
+          output: 'thumbnails'    # 縮圖存放路徑
+          sizes: '250'            # 縮圖寬度
