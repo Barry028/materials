@@ -37,24 +37,24 @@ for root, dirs, files in sorted(os.walk(IMAGE_DIR)):
         ]
         
         for f in sorted(valid_files):
-            full_path = os.path.join(root, f)
-            stat = os.stat(full_path)
-            size = get_size_format(stat.st_size)
-            
-            # 2. 針對 SVG 處理尺寸 (SVG 是文字檔，Pillow 無法直接 open)
-            if f.lower().endswith('.svg'):
-                w, h = "Vector", "Vector"
-            else:
-                try:
-                    with Image.open(full_path) as img:
-                        w, h = img.size
-                except:
-                    w, h = "Unknown", "Unknown"
-            
-            # 3. 預覽標籤 (SVG 在瀏覽器會自動渲染)
-            img_tag = f'<a href="{f}"><img src="{f}" width="250" alt="{f}"></a>'
-            info = f"**{f}**<br>{w}x{h} | {size}"
-            content.append(f"| {img_tag} | {info} |")
+                full_path = os.path.join(root, f)
+                stat = os.stat(full_path)
+                size = get_size_format(stat.st_size)
+                
+                # 2. 針對 SVG 處理尺寸 (SVG 是文字檔，Pillow 無法直接 open)
+                if f.lower().endswith('.svg'):
+                    w, h = "Vector", "Vector"
+                else:
+                    try:
+                        with Image.open(full_path) as img:
+                            w, h = img.size
+                    except:
+                        w, h = "Unknown", "Unknown"
+                
+                # 3. 預覽標籤 (SVG 在瀏覽器會自動渲染)
+                img_tag = f'<a href="{f}"><img src="{f}" width="250" alt="{f}"></a>'
+                info = f"**{f}**<br>{w}x{h} | {size}"
+                content.append(f"| {img_tag} | {info} |")
             except Exception as e:
                 print(f"Error processing {f}: {e}")
 
