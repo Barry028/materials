@@ -1,22 +1,30 @@
-name: Generate Grouped Thumbnails
+name: Generate Vertical Gallery
 
 on:
   push:
-    paths:
-      - 'images/**'
+    paths: ['images/**']
+  workflow_dispatch:
 
 jobs:
-  build:
+  update-readme:
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
       - uses: actions/checkout@v4
-
-      - name: Generate Grouped Thumbnails
-        uses: firefly-cpp/thumbnails-readme-action@v1.0.0
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          source: 'images'        # 指向父目錄，會依據子目錄分組
-          output: 'thumbnails'    # 縮圖存放路徑
-          sizes: '250'            # 縮圖寬度
+          python-version: '3.x'
+
+      - name: Run Gallery Script
+        run: python generate_gallery.py
+
+      - name: Commit and Push
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "docs: update vertical gallery" || exit 0
+          git push
