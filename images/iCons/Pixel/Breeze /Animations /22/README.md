@@ -4,4 +4,4 @@
 
 | 預覽 | 資訊 |
 | :--- | :--- |
-| <a href="process-working.svg"><img src="process-working.svg" width="250"></a> | **process-working.svg** |
+| <a href="process-working.svg"><img src="process-working.svg" width="200"></a> | **process-working.svg** |

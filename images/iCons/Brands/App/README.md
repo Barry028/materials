@@ -4,4 +4,4 @@
 
 | 預覽 | 資訊 |
 | :--- | :--- |
-| <a href="play-store-73.svg"><img src="play-store-73.svg" width="250"></a> | **play-store-73.svg** |
+| <a href="play-store-73.svg"><img src="play-store-73.svg" width="200"></a> | **play-store-73.svg** |
