@@ -6,4 +6,4 @@
 
 | 🎨 預覽 (點擊放大) | 📋 檔案詳細資訊與連結 |
 | :--- | :--- |
-| <a href="pixel.svg"><img src="pixel.svg" width="250" alt="pixel.svg"></a> | **📂 檔名:** `pixel.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `34.13KB` | 📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![pixel.svg](https://cdn.jsdelivr.netbarry028/materials@main/images/iCons/Pixel/Skware%20/pixel/fonts/pixel.svg)`<br>🔗 **直接連結 (Url):**<br>`https://cdn.jsdelivr.netbarry028/materials@main/images/iCons/Pixel/Skware%20/pixel/fonts/pixel.svg`<br>📥 [檢視原始檔](pixel.svg) |
+| <a href="pixel.svg"><img src="pixel.svg" width="250" alt="pixel.svg"></a> | **📂 檔名:** `pixel.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `34.13KB` | 📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![pixel.svg](https://cdn.jsdelivr.net/ghbarry028/materials@main/images/iCons/Pixel/Skware%20/pixel/fonts/pixel.svg)`<br>🔗 **直接連結 (Url):**<br>`https://cdn.jsdelivr.net/ghbarry028/materials@main/images/iCons/Pixel/Skware%20/pixel/fonts/pixel.svg`<br>📥 [檢視原始檔](pixel.svg) |
