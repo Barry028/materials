@@ -1,6 +1,6 @@
 # 🖼️ Ai Icons Text And Image Generation 素材庫
 
-[⬅️ 返回主目錄](../../README.md)
+[⬅️ 返回主目錄](../../../README.md)
 
 | 預覽 (點擊放大) | 檔案資訊 |
 | :--- | :--- |
