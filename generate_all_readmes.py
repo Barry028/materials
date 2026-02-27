@@ -89,7 +89,8 @@ for root, dirs, files in sorted(os.walk(IMAGE_DIR)):
 
                 details = (
                     f"**📂 檔名:** `{f}`<br>"
-                    f"{spec} | ⚖️ `{size}`<br>"
+                    f"{spec}<br>"
+                    f"⚖️ **大小:** `{size}`<br>"
                     f"📅 **更新:** `{mtime}`<br><br>"
                     f"🔗 **複製 Markdown 語法:**<br>`{copy_md}`<br>"
                     f"📥 [檢視原始檔]({safe_f})"
@@ -97,8 +98,12 @@ for root, dirs, files in sorted(os.walk(IMAGE_DIR)):
                 
                 img_tag = f'<a href="{safe_f}"><img src="{safe_f}" width="{SUB_WIDTH}" alt="{f}"></a>'
                 sub_content.append(f"| {img_tag} | {details} |")
-            except:
-                continue
+
+                
+            except Exception as e:
+                # 如果出錯，至少顯示基本檔名並印出錯誤原因到 GitHub Actions Log
+                print(f"Error processing {f}: {e}")
+                sub_content.append(f"| `{f}` | ⚠️ 無法讀取詳細資訊 |")
         
         with open(readme_path, 'w', encoding='utf-8') as f_out:
             f_out.write("\n".join(sub_content))
