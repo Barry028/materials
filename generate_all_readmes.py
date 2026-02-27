@@ -61,7 +61,7 @@ for root, dirs, files in sorted(os.walk(IMAGE_DIR)):
             pf_path_raw = os.path.join(folder_path, pf).replace('\\', '/')
             safe_pf_url = urllib.parse.quote(pf_path_raw)
             overlap = 'margin-left: -15px;' if i > 0 else ''
-            style = f'width="{MAIN_WIDTH}" height="{MAIN_WIDTH}" style="border-radius:50%; border:2px solid #fff; object-fit:cover; box-shadow: 1px 1px 3px rgba(0,0,0,0.1);"'
+            style = f'width="{MAIN_WIDTH}" height="{MAIN_WIDTH}" style="flex-flow: column; margin: 0 2px 0 0; border-radius:50%; border:2px solid #fff; object-fit:cover; box-shadow: 1px 1px 3px rgba(0,0,0,0.1);"'
             preview_imgs_html.append(f'<img src="{safe_pf_url}" {style}>')
         
         more_tag = f'<span style="font-size:12px; color:#666; margin-left:8px;">+{len(valid_files)-max_previews}</span>' if len(valid_files) > max_previews else ""
