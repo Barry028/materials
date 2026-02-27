@@ -11,7 +11,6 @@ START_MARKER = '<!-- thumbnails-start -->'
 END_MARKER = '<!-- thumbnails-end -->'
 MAIN_WIDTH = 30 # 主導覽縮圖大小
 SUB_WIDTH = 250 # 子目錄圖片預覽寬度鎖定
-# 自動抓取 GitHub 倉庫名稱
 REPO_NAME = os.getenv('GITHUB_REPOSITORY', '你的帳號/你的倉庫名')
 BRANCH = 'main' 
 
@@ -25,29 +24,34 @@ if not os.path.exists(IMAGE_DIR):
 
 subdir_links = []
 
-# 1. 遍歷目錄
+# 1. 遍歷目錄 (從 IMAGE_DIR 根部開始，不跳過)
 for root, dirs, files in sorted(os.walk(IMAGE_DIR)):
-    folder_path = os.path.normpath(os.path.relpath(root, '.'))
+    folder_path = os.path.normpath(root) # 直接使用 root
     folder_name = os.path.basename(root)
     
-    if folder_path == ".":
-        continue
+    # 計算相對於專案根目錄的路徑
+    rel_url = folder_path.replace('\\', '/')
+    # 計算深度：'images' 為 0, 'images/3Ds' 為 1
+    depth = rel_url.replace(IMAGE_DIR, '').strip('/').count('/')
+    if rel_url == IMAGE_DIR:
+        depth = 0
+    else:
+        depth = rel_url.replace(IMAGE_DIR, '').strip('/').count('/') + 1
 
     valid_files = [f for f in files if f.lower().endswith(('.png', '.jpg', '.jpeg', '.gif', '.webp', '.svg'))]
-    rel_url = folder_path.replace('\\', '/')
-    depth = rel_url.count('/')
     
     indent = "　" * depth + ("┗ " if depth > 0 else "📂 ")
     display_name = f"{indent}**{folder_name}**" if depth == 0 else f"{indent}`{folder_name}`"
     safe_folder_url = urllib.parse.quote(rel_url)
 
-    # --- 無論有無檔案，都準備生成該層級的 README ---
+    # --- 準備生成 README ---
     readme_path = os.path.join(root, 'README.md')
-    rel_depth = depth + 1
-    back_to_root = "../" * rel_depth
+    # 計算回根目錄層級：images/ 需要 ../, images/sub/ 需要 ../../
+    back_depth = rel_url.count('/') + 1
+    back_to_root = "../" * back_depth
 
-    # --- 生成層級麵包屑 (移動到此，確保所有 README 都有麵包屑) ---
-    path_parts = folder_path.split(os.sep)
+    # --- 生成層級麵包屑 ---
+    path_parts = rel_url.split('/')
     breadcrumb_links = [f"[🏠 主目錄]({back_to_root}{ROOT_README})"]
     for i in range(len(path_parts)):
         part_name = path_parts[i]
@@ -59,22 +63,19 @@ for root, dirs, files in sorted(os.walk(IMAGE_DIR)):
             breadcrumb_links.append(f"[{part_name}]({link_path})")
     breadcrumb_str = " / ".join(breadcrumb_links)
 
-    # --- 修正寬度鎖定：使用不可換行空格 (GitHub 最穩定做法) ---
-    # 250px 大約等於 40 個 &nbsp;
     width_lock_spacer = "&nbsp;" * 40
 
     if valid_files:
-        # --- 主目錄封面預覽邏輯 ---
+        # --- 主目錄預覽邏輯 ---
         max_previews = 4
         preview_files = sorted(valid_files)[:max_previews]
-        preview_imgs_html = [f'<img src="{urllib.parse.quote(os.path.join(folder_path, pf).replace("\\", "/"))}" width="{MAIN_WIDTH}" height="{MAIN_WIDTH}" align="top">' for pf in preview_files]
+        preview_imgs_html = [f'<img src="{urllib.parse.quote(os.path.join(rel_url, pf).replace("\\", "/"))}" width="{MAIN_WIDTH}" height="{MAIN_WIDTH}" align="top">' for pf in preview_files]
         img_row = "&nbsp;".join(preview_imgs_html)
         more_tag = f'<sub>(+{len(valid_files)-max_previews})</sub>' if len(valid_files) > max_previews else ""
         img_html = f'{img_row} <a href="{safe_folder_url}/README.md">{more_tag}</a>'
         
         subdir_links.append(f"| [{display_name}]({safe_folder_url}/README.md) | {img_html} | `{len(valid_files)} Items` |")
 
-        # --- 子目錄 README 內容 (有圖片) ---
         sub_content = [
             f"# 🖼️ 素材分類：{folder_name}\n",
             f"> {breadcrumb_str}\n",
@@ -85,8 +86,6 @@ for root, dirs, files in sorted(os.walk(IMAGE_DIR)):
         
         for f in sorted(valid_files):
             f_path = os.path.join(root, f)
-            rel_img_path = os.path.relpath(f_path, '.').replace('\\', '/')
-            safe_rel_path = urllib.parse.quote(rel_img_path)
             safe_f = urllib.parse.quote(f)
             safe_repo = REPO_NAME.lower()
             try:
@@ -101,7 +100,7 @@ for root, dirs, files in sorted(os.walk(IMAGE_DIR)):
                         w, h = img.size
                     spec = f"🖼️ **尺寸:** `{w}x{h} px`"
 
-                cdn_url = f"https://cdn.jsdelivr.net/gh/{safe_repo}@{BRANCH}/{safe_rel_path}"
+                cdn_url = f"https://cdn.jsdelivr.net/gh/{safe_repo}@{BRANCH}/{urllib.parse.quote(rel_url)}/{safe_f}"
                 copy_md = f"![{f}]({cdn_url})"
 
                 details = (
@@ -117,48 +116,48 @@ for root, dirs, files in sorted(os.walk(IMAGE_DIR)):
                 img_tag = f'<a href="{safe_f}"><img src="{safe_f}" width="{SUB_WIDTH}" alt="{f}"></a>'
                 sub_content.append(f"| {img_tag} | {details} |")
             except Exception as e:
-                print(f"Error processing {f}: {e}")
                 sub_content.append(f"| `{f}` | ⚠️ 無法讀取詳細資訊 |")
         
         with open(readme_path, 'w', encoding='utf-8') as f_out:
             f_out.write("\n".join(sub_content))
     else:
-        # --- 子目錄 README 內容 (無圖片，僅作為導覽層) ---
-        if folder_name != IMAGE_DIR:
+        # --- 處理無圖片的導覽層 (包含 images/ 根目錄) ---
+        if folder_path == IMAGE_DIR:
+            # 根目錄不重複加入 subdir_links，但要生成 README
+            pass 
+        else:
             subdir_links.append(f"| [{display_name}]({safe_folder_url}/README.md) | 📁 (導覽層) | - |")
             
-            sub_content = [
-                f"# 📂 目錄：{folder_name}\n",
-                f"> {breadcrumb_str}\n",
-                "此目錄目前沒有直接存放圖片，請選擇下方子分類：\n",
-                "### 🗂️ 子分類列表"
-            ]
-            for d in sorted(dirs):
+        sub_content = [
+            f"# 📂 目錄：{folder_name}\n",
+            f"> {breadcrumb_str}\n",
+            "此目錄目前沒有直接存放圖片，請選擇下方子分類：\n",
+            "### 🗂️ 子分類列表"
+        ]
+        has_sub = False
+        for d in sorted(dirs):
+            if not d.startswith('.'):
                 sub_content.append(f"- [📁 {d}]({urllib.parse.quote(d)}/README.md)")
-            
-            with open(readme_path, 'w', encoding='utf-8') as f_out:
-                f_out.write("\n".join(sub_content))
+                has_sub = True
+        
+        if not has_sub:
+            sub_content.append("*(此目錄目前為空)*")
+
+        with open(readme_path, 'w', encoding='utf-8') as f_out:
+            f_out.write("\n".join(sub_content))
 
 # 2. 更新根目錄 README
-if not subdir_links:
-    nav_table_text = "\n目前 `images/` 中還沒有內容。\n"
-else:
-    tree_table = ["## 📂 素材目錄樹狀導覽\n", "| 目錄路徑 | 封面預覽 | 統計 |", "| :--- | :---: | :---: |"] + subdir_links
-    nav_table_text = "\n".join(tree_table)
-
+tree_table = ["## 📂 素材目錄樹狀導覽\n", "| 目錄路徑 | 封面預覽 | 統計 |", "| :--- | :---: | :---: |"] + subdir_links
+nav_table_text = "\n".join(tree_table)
 new_nav_section = f"{START_MARKER}\n{nav_table_text}\n{END_MARKER}"
 
 if os.path.exists(ROOT_README):
     with open(ROOT_README, 'r', encoding='utf-8') as f_in:
         content = f_in.read()
-    if START_MARKER in content:
-        content = re.sub(f"{START_MARKER}.*?{END_MARKER}", new_nav_section, content, flags=re.DOTALL)
-    else:
-        content += f"\n\n{new_nav_section}"
+    content = re.sub(f"{START_MARKER}.*?{END_MARKER}", new_nav_section, content, flags=re.DOTALL) if START_MARKER in content else content + f"\n\n{new_nav_section}"
 else:
-    header = "# 🎨 我的設計素材庫\n這是一個全自動更新的素材導覽系統。"
-    content = f"{header}\n\n{new_nav_section}\n\n---\n*Last Sync: {datetime.datetime.now().strftime('%Y-%m-%d %H:%M')}*"
+    content = f"# 🎨 素材庫\n\n{new_nav_section}"
 
 with open(ROOT_README, 'w', encoding='utf-8') as f_out:
     f_out.write(content)
-print(f"Successfully processed {ROOT_README} and sub-directories.")
+print("Done! All READMEs (including images/README.md) generated.")
