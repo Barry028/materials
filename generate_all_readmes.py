@@ -70,7 +70,7 @@ for root, dirs, files in sorted(os.walk(IMAGE_DIR)):
         breadcrumb_str = " / ".join(breadcrumb_links)
 
         # --- 鎖定預覽欄位寬度的隱藏圖片 ---
-        width_lock = f'<img src="https://via.placeholder.com{SUB_WIDTH}x1/ffffff/000000?text=+" width="{SUB_WIDTH}" height="1">'
+        width_lock = f'<img src="data:image/gif;base64,R0lGODlh+gABAPAAAAAAAAAAACH5BAEAAAAALAAAAAD6AAEAAAINhI+py+0Po5y02ovzLQA7">'
 
         # --- 子目錄 README 美化 ---
         sub_content = [
