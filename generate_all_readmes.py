@@ -71,13 +71,44 @@ for root, dirs, files in sorted(os.walk(IMAGE_DIR)):
         subdir_links.append(f"| [{display_name}]({safe_folder_url}/README.md) | {img_html} | `{len(valid_files)} Items` |")
 
         # 生成子 README
-        sub_content = [f"# 🖼️ {folder_name}\n", f"[⬅️ 返回主目錄]({back_to_root}{ROOT_README})\n", "| 預覽 | 資訊 |", "| :--- | :--- |"]
-        for f in sorted(valid_files):
-            safe_f = urllib.parse.quote(f)
-            sub_content.append(f'| <a href="{safe_f}"><img src="{safe_f}" width="{SUB_WIDTH}"></a> | **{f}** |')
+         sub_content = [
+            f"# 🖼️ 素材分類：{folder_name}\n",
+            f"> [🏠 主目錄]({back_to_root}{ROOT_README}) / **{folder_name}**\n",
+            f"目前共有 `{len(valid_files)}` 個素材檔案\n",
+            "| 🎨 預覽圖 (點擊查看原圖) | 📋 檔案詳細資訊 |",
+            "| :--- | :--- |"
+        ]
         
-        with open(readme_path, 'w', encoding='utf-8') as f_out:
-            f_out.write("\n".join(sub_content))
+        for f in sorted(valid_files):
+            f_path = os.path.join(root, f)
+            safe_f = urllib.parse.quote(f)
+            try:
+                stat = os.stat(f_path)
+                size = get_size_format(stat.st_size)
+                mtime = datetime.datetime.fromtimestamp(stat.st_mtime).strftime('%Y-%m-%d')
+                
+                if f.lower().endswith('.svg'):
+                    info_text = "✨ **格式:** `SVG (Vector)`"
+                else:
+                    with Image.open(f_path) as img:
+                        w, h = img.size
+                    info_text = f"🖼️ **尺寸:** `{w}x{h} px`"
+
+                # 組合資訊卡片
+                details = (
+                    f"**📂 檔名:** `{f}`<br>"
+                    f"{info_text}<br>"
+                    f"⚖️ **大小:** `{size}`<br>"
+                    f"📅 **更新:** `{mtime}`<br><br>"
+                    f"🔗 [直接下載原始檔]({safe_f})"
+                )
+                
+                # 圖片預覽加上稍微的間隔感
+                img_tag = f'<a href="{safe_f}"><img src="{safe_f}" width="{SUB_WIDTH}" alt="{f}"></a>'
+                
+                sub_content.append(f"| {img_tag} | {details} |")
+            except:
+                continue
     else:
         if folder_name != IMAGE_DIR:
             subdir_links.append(f"| {display_name} | 📁 (資料夾) | - |")
