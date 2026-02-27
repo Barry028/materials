@@ -15,8 +15,6 @@ REPO_NAME = os.getenv('GITHUB_REPOSITORY', '你的帳號/你的倉庫名')
 BRANCH = 'main' 
 IMG_EXTENSIONS = ('.png', '.jpg', '.jpeg', '.gif', '.webp', '.svg')
 
-
-
 def get_size_format(b):
     for unit in ["", "K", "M", "G"]:
         if b < 1024: return f"{b:.2f}{unit}B"
@@ -48,7 +46,7 @@ for root, dirs, files in sorted(os.walk(IMAGE_DIR)):
     safe_folder_url = urllib.parse.quote(rel_url)
 
     # --- 準備生成 README ---
-    readme_path = os.path.join(root, 'README.md')
+    readme_path = os.path.join(root, '{ROOT_README}')
     # 計算回根目錄層級：images/ 需要 ../, images/sub/ 需要 ../../
     back_depth = rel_url.count('/') + 1
     back_to_root = "../" * back_depth
