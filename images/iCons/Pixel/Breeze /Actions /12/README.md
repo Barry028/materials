@@ -6,4 +6,4 @@
 
 | 🎨 預覽 (點擊放大) | 📋 檔案詳細資訊與連結 |
 | :--- | :--- |
-| <a href="transform-affect-stroke.svg"><img src="transform-affect-stroke.svg" width="200" alt="transform-affect-stroke.svg"></a> | **📂 檔名:** `transform-affect-stroke.svg`<br>✨ **格式:** `Vector (SVG)` | ⚖️ `715.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 **複製 Markdown 語法:**<br>`![transform-affect-stroke.svg](transform-affect-stroke.svg)`<br>📥 [檢視原始檔](transform-affect-stroke.svg) |
+| <a href="transform-affect-stroke.svg"><img src="transform-affect-stroke.svg" width="200" alt="transform-affect-stroke.svg"></a> | **📂 檔名:** `transform-affect-stroke.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `715.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 **複製 Markdown 語法:**<br>`![transform-affect-stroke.svg](transform-affect-stroke.svg)`<br>📥 [檢視原始檔](transform-affect-stroke.svg) |

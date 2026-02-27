@@ -6,5 +6,5 @@
 
 | 🎨 預覽 (點擊放大) | 📋 檔案詳細資訊與連結 |
 | :--- | :--- |
-| <a href="3d_Hands-1-12.png"><img src="3d_Hands-1-12.png" width="200" alt="3d_Hands-1-12.png"></a> | **📂 檔名:** `3d_Hands-1-12.png`<br>🖼️ **尺寸:** `500x500 px` | ⚖️ `60.94KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 **複製 Markdown 語法:**<br>`![3d_Hands-1-12.png](3d_Hands-1-12.png)`<br>📥 [檢視原始檔](3d_Hands-1-12.png) |
-| <a href="3d_Hands-1-81.webp"><img src="3d_Hands-1-81.webp" width="200" alt="3d_Hands-1-81.webp"></a> | **📂 檔名:** `3d_Hands-1-81.webp`<br>🖼️ **尺寸:** `500x500 px` | ⚖️ `7.44KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 **複製 Markdown 語法:**<br>`![3d_Hands-1-81.webp](3d_Hands-1-81.webp)`<br>📥 [檢視原始檔](3d_Hands-1-81.webp) |
+| <a href="3d_Hands-1-12.png"><img src="3d_Hands-1-12.png" width="200" alt="3d_Hands-1-12.png"></a> | **📂 檔名:** `3d_Hands-1-12.png`<br>🖼️ **尺寸:** `500x500 px`<br>⚖️ **大小:** `60.94KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 **複製 Markdown 語法:**<br>`![3d_Hands-1-12.png](3d_Hands-1-12.png)`<br>📥 [檢視原始檔](3d_Hands-1-12.png) |
+| <a href="3d_Hands-1-81.webp"><img src="3d_Hands-1-81.webp" width="200" alt="3d_Hands-1-81.webp"></a> | **📂 檔名:** `3d_Hands-1-81.webp`<br>🖼️ **尺寸:** `500x500 px`<br>⚖️ **大小:** `7.44KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 **複製 Markdown 語法:**<br>`![3d_Hands-1-81.webp](3d_Hands-1-81.webp)`<br>📥 [檢視原始檔](3d_Hands-1-81.webp) |
