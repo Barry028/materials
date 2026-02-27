@@ -30,7 +30,8 @@ for root, dirs, files in sorted(os.walk(IMAGE_DIR)):
         readme_path = os.path.join(root, 'README.md')
         
         # 紀錄樹狀導覽資訊
-        depth = folder_path.count(os.sep)
+        depth = folder_path.count(os.sep) + 1 
+        back_prefix = "../" * depth
         indent = "　" * depth + ("┗ " if depth > 0 else "📂 ")
         cover_file = sorted(valid_files)[0]
         cover_url = os.path.join(folder_path, cover_file).replace('\\', '/')
@@ -44,7 +45,7 @@ for root, dirs, files in sorted(os.walk(IMAGE_DIR)):
         # 子目錄 README：含「回到首頁」
         sub_content = [
             f"# 🖼️ {folder_name} 素材庫\n",
-            f"[⬅️ 返回主目錄](../../{ROOT_README})\n",
+            f"[⬅️ 返回主目錄]({back_prefix}{ROOT_README})\n", # 動態路徑修正
             "| 預覽 (點擊放大) | 檔案資訊 |",
             "| :--- | :--- |"
         ]
