@@ -11,19 +11,25 @@ jobs:
       - name: Checkout Code
         uses: actions/checkout@v4
 
-      - name: Generate Thumbnails
-        # 使用這個更穩定的版本
-        uses: bhowell7/generate-image-thumbnails@v1.1.0
-        with:
-          input_directory: 'images'     # 👈 你的原始圖片資料夾
-          output_directory: 'thumbs'    # 👈 縮圖存放位置
-          width: 200                    # 縮圖寬度
+      - name: Install ImageMagick
+        run: sudo apt-get install -y imagemagick
 
-      - name: Commit and Push Changes
+      - name: Generate Thumbnails
+        run: |
+          # 建立縮圖資料夾（如果不存在）
+          mkdir -p thumbs
+          # 尋找 images 資料夾下所有 jpg/png/webp 圖片並縮放至寬度 200px，存入 thumbs
+          # 這會保留子資料夾結構
+          find images -type f \( -iname "*.jpg" -o -iname "*.png" -o -iname "*.webp" \) | while read img; do
+            dest="thumbs/${img#images/}"
+            mkdir -p "$(dirname "$dest")"
+            convert "$img" -thumbnail 200 "$dest"
+          done
+
+      - name: Commit and Push
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          # 自動將產生的縮圖加回 Git
-          git add .
-          git commit -m "chore: auto-generate thumbnails" || echo "No changes to commit"
+          git add thumbs/
+          git commit -m "chore: auto-generate thumbnails via ImageMagick" || echo "No changes"
           git push
