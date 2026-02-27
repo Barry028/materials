@@ -9,8 +9,8 @@ IMAGE_DIR = 'images'
 ROOT_README = 'README.md'
 START_MARKER = '<!-- thumbnails-start -->'
 END_MARKER = '<!-- thumbnails-end -->'
-MAIN_WIDTH = 20 # 主導覽縮圖大小
-SUB_WIDTH = 200 # 子目錄圖片寬度
+MAIN_WIDTH = 30 # 主導覽縮圖大小
+SUB_WIDTH = 250 # 子目錄圖片預覽寬度
 
 def get_size_format(b):
     for unit in ["", "K", "M", "G"]:
@@ -34,10 +34,9 @@ for root, dirs, files in sorted(os.walk(IMAGE_DIR)):
     rel_url = folder_path.replace('\\', '/')
     depth = rel_url.count('/')
     
-    # 樹狀縮排符號
+    # 樹狀縮排
     indent = "　" * depth + ("┗ " if depth > 0 else "📂 ")
     
-    # 視覺層級：第一層粗體，其餘代碼樣式
     if depth == 0:
         display_name = f"{indent}**{folder_name}**"
     else:
@@ -50,32 +49,22 @@ for root, dirs, files in sorted(os.walk(IMAGE_DIR)):
         rel_depth = depth + 1
         back_to_root = "../" * rel_depth
         
-        # --- 修正：GitHub 相容版多圖封面 ---
-        max_previews = 4 # 表格內並排 4 張較整齊
+        # --- 主目錄封面預覽 (並排縮圖) ---
+        max_previews = 4
         preview_files = sorted(valid_files)[:max_previews]
-        preview_imgs_html = []
-        
-        for pf in preview_files:
-            pf_path_raw = os.path.join(folder_path, pf).replace('\\', '/')
-            safe_pf_url = urllib.parse.quote(pf_path_raw)
-            # 移除所有 style，僅保留 GitHub 支援的屬性
-            preview_imgs_html.append(f'<img src="{safe_pf_url}" width="{MAIN_WIDTH}" height="{MAIN_WIDTH}" align="top">')
-        
-        # 使用 &nbsp; 代替 CSS margin 進行間隔
+        preview_imgs_html = [f'<img src="{urllib.parse.quote(os.path.join(folder_path, pf).replace("\\", "/"))}" width="{MAIN_WIDTH}" height="{MAIN_WIDTH}" align="top">' for pf in preview_files]
         img_row = "&nbsp;".join(preview_imgs_html)
-        
-        # 使用 <sub> 縮小字體顯示剩餘數量
         more_tag = f'<sub>(+{len(valid_files)-max_previews})</sub>' if len(valid_files) > max_previews else ""
-        img_html = f'{img_row} <a href="{safe_folder_url}/README.md">{more_tag}</a>'
+        img_html = f'<a href="{safe_folder_url}/README.md">{img_row}</a> {more_tag}'
         
         subdir_links.append(f"| [{display_name}]({safe_folder_url}/README.md) | {img_html} | `{len(valid_files)} Items` |")
 
-        # 生成子 README
-         sub_content = [
+        # --- 子目錄 README 美化化 (卡片樣式) ---
+        sub_content = [
             f"# 🖼️ 素材分類：{folder_name}\n",
             f"> [🏠 主目錄]({back_to_root}{ROOT_README}) / **{folder_name}**\n",
-            f"目前共有 `{len(valid_files)}` 個素材檔案\n",
-            "| 🎨 預覽圖 (點擊查看原圖) | 📋 檔案詳細資訊 |",
+            f"本目錄共有 `{len(valid_files)}` 個檔案\n",
+            "| 🎨 預覽 (點擊放大) | 📋 檔案詳細資訊 |",
             "| :--- | :--- |"
         ]
         
@@ -87,33 +76,35 @@ for root, dirs, files in sorted(os.walk(IMAGE_DIR)):
                 size = get_size_format(stat.st_size)
                 mtime = datetime.datetime.fromtimestamp(stat.st_mtime).strftime('%Y-%m-%d')
                 
+                # 取得尺寸資訊
                 if f.lower().endswith('.svg'):
-                    info_text = "✨ **格式:** `SVG (Vector)`"
+                    spec = "✨ **格式:** `Vector (SVG)`"
                 else:
                     with Image.open(f_path) as img:
                         w, h = img.size
-                    info_text = f"🖼️ **尺寸:** `{w}x{h} px`"
+                    spec = f"🖼️ **尺寸:** `{w}x{h} px`"
 
-                # 組合資訊卡片
+                # 建立資訊欄位 (卡片化)
                 details = (
                     f"**📂 檔名:** `{f}`<br>"
-                    f"{info_text}<br>"
+                    f"{spec}<br>"
                     f"⚖️ **大小:** `{size}`<br>"
                     f"📅 **更新:** `{mtime}`<br><br>"
-                    f"🔗 [直接下載原始檔]({safe_f})"
+                    f"🔗 [直接查看原始檔]({safe_f})"
                 )
                 
-                # 圖片預覽加上稍微的間隔感
                 img_tag = f'<a href="{safe_f}"><img src="{safe_f}" width="{SUB_WIDTH}" alt="{f}"></a>'
-                
                 sub_content.append(f"| {img_tag} | {details} |")
             except:
                 continue
+        
+        with open(readme_path, 'w', encoding='utf-8') as f_out:
+            f_out.write("\n".join(sub_content))
     else:
         if folder_name != IMAGE_DIR:
             subdir_links.append(f"| {display_name} | 📁 (資料夾) | - |")
 
-# 2. 更新根目錄 README
+# 2. 更新根目錄 README (邏輯保持穩定)
 if not subdir_links:
     nav_table_text = "\n目前 `images/` 中還沒有內容。\n"
 else:
@@ -130,8 +121,9 @@ if os.path.exists(ROOT_README):
     else:
         content += f"\n\n{new_nav_section}"
 else:
-    header = "# 🎨 我的設計素材庫"
+    header = "# 🎨 我的設計素材庫\n這是一個全自動更新的素材導覽系統。"
     content = f"{header}\n\n{new_nav_section}\n\n---\n*Last Sync: {datetime.datetime.now().strftime('%Y-%m-%d %H:%M')}*"
 
 with open(ROOT_README, 'w', encoding='utf-8') as f_out:
     f_out.write(content)
+print(f"Successfully processed {ROOT_README}")
