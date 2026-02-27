@@ -1,23 +1,26 @@
-name: Auto Generate Thumbnails
-on: [push] # 每次上傳圖片後自動執行
+name: Generate Recursive Thumbnails
+on: [push]
 
 jobs:
   build:
-  runs-on: ubuntu-latest
-  steps:
-    - uses: actions/checkout@v3
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
 
-    - name: Generate Thumbnails and Update README
-      uses: firefly-cpp/thumbnails-readme@v1.0.0
-      with:
-        images_path: 'images'     # 原始圖片目錄
-        thumbnails_path: 'thumbs' # 縮圖存放目錄
-        # 這裡可以設定每排顯示幾張、圖片寬度等
+      - name: Generate Thumbnails
+        uses: firefly-cpp/thumbnails-readme@v1.0.0
+        with:
+          # 設定包含所有子資料夾的根目錄
+          images_path: 'images'     
+          # 縮圖存放的目錄（建議分開存放以保持整潔）
+          thumbnails_path: 'thumbs' 
+          # 是否遞迴掃描子資料夾（預設為 true）
+          recursive: true           
 
-    - name: Commit and Push
-      run: |
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
-        git add .
-        git commit -m "Updated thumbnails in README" || echo "No changes"
-        git push
+      - name: Commit and Push
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add .
+          git commit -m "Auto-update thumbnails for multiple folders" || echo "No changes"
+          git push
