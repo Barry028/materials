@@ -1,29 +1,29 @@
 name: Generate Thumbnails
 on:
   push:
-    branches:
-      - main  # 或是您專案預設的分支名稱（如 master）
+    branches: [ main, master ] # 當你 push 到這兩個分支時觸發
+  workflow_dispatch:           # 允許你在 GitHub 介面手動按按鈕執行
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Code
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4 # 使用最新版 checkout
 
       - name: Generate Thumbnails and Update README
-        # 將 v1.0.0 改為 main
+        # 修正版本號，使用 main 確保能抓到
         uses: firefly-cpp/thumbnails-readme@main 
         with:
-          images_path: 'images'     
-          thumbnails_path: 'thumbs' 
-          recursive: true           
-          width: '200px'
+          images_path: 'images'      # 請確認你的圖片資料夾名稱真的是 images
+          thumbnails_path: 'thumbs'  # 縮圖會存到這裡
+          recursive: true            # 掃描子資料夾
+          width: '150px'             # 縮圖顯示寬度
 
       - name: Commit and Push Changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add .
-          git commit -m "docs: auto-generate thumbnails" || echo "No changes to commit"
+          git commit -m "chore: update thumbnails" || echo "No changes to commit"
           git push
