@@ -4,7 +4,7 @@
 
 本目錄共有 `4` 個檔案
 
-| 🎨 預覽 (點擊放大)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 📋 檔案詳細資訊與連結 |
+| 🎨 預覽 (點擊放大)<br><img src="data:image/gif;base64,R0lGODlh+gABAPAAAAAAAAAAACH5BAEAAAAALAAAAAD6AAEAAAINhI+py+0Po5y02ovzLQA7" width="250" height="1"> | 📋 檔案詳細資訊與連結 |
 | :--- | :--- |
 | <a href="32bg.svg"><img src="32bg.svg" width="250" alt="32bg.svg"></a> | **📂 檔名:** `32bg.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `70.82KB`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![32bg.svg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/Resumes/Backgrounds/32bg.svg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/Resumes/Backgrounds/32bg.svg</code><br>📥 [檢視原始檔](32bg.svg) |
 | <a href="Bg-Patternpad.svg"><img src="Bg-Patternpad.svg" width="250" alt="Bg-Patternpad.svg"></a> | **📂 檔名:** `Bg-Patternpad.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `8.01KB`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![Bg-Patternpad.svg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/Resumes/Backgrounds/Bg-Patternpad.svg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/Resumes/Backgrounds/Bg-Patternpad.svg</code><br>📥 [檢視原始檔](Bg-Patternpad.svg) |

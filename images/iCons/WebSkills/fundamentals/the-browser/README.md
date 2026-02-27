@@ -4,7 +4,7 @@
 
 本目錄共有 `16` 個檔案
 
-| 🎨 預覽 (點擊放大)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 📋 檔案詳細資訊與連結 |
+| 🎨 預覽 (點擊放大)<br><img src="data:image/gif;base64,R0lGODlh+gABAPAAAAAAAAAAACH5BAEAAAAALAAAAAD6AAEAAAINhI+py+0Po5y02ovzLQA7" width="250" height="1"> | 📋 檔案詳細資訊與連結 |
 | :--- | :--- |
 | <a href="blink.svg"><img src="blink.svg" width="250" alt="blink.svg"></a> | **📂 檔名:** `blink.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `2.10KB`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![blink.svg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/WebSkills/fundamentals/the-browser/blink.svg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/WebSkills/fundamentals/the-browser/blink.svg</code><br>📥 [檢視原始檔](blink.svg) |
 | <a href="breakpoints.svg"><img src="breakpoints.svg" width="250" alt="breakpoints.svg"></a> | **📂 檔名:** `breakpoints.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `6.40KB`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![breakpoints.svg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/WebSkills/fundamentals/the-browser/breakpoints.svg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/WebSkills/fundamentals/the-browser/breakpoints.svg</code><br>📥 [檢視原始檔](breakpoints.svg) |

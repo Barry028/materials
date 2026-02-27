@@ -4,7 +4,7 @@
 
 本目錄共有 `16` 個檔案
 
-| 🎨 預覽 (點擊放大)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 📋 檔案詳細資訊與連結 |
+| 🎨 預覽 (點擊放大)<br><img src="data:image/gif;base64,R0lGODlh+gABAPAAAAAAAAAAACH5BAEAAAAALAAAAAD6AAEAAAINhI+py+0Po5y02ovzLQA7" width="250" height="1"> | 📋 檔案詳細資訊與連結 |
 | :--- | :--- |
 | <a href="At.svg"><img src="At.svg" width="250" alt="At.svg"></a> | **📂 檔名:** `At.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.75KB`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![At.svg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Circum/Communication/At.svg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Circum/Communication/At.svg</code><br>📥 [檢視原始檔](At.svg) |
 | <a href="Bullhorn.svg"><img src="Bullhorn.svg" width="250" alt="Bullhorn.svg"></a> | **📂 檔名:** `Bullhorn.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `688.00B`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![Bullhorn.svg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Circum/Communication/Bullhorn.svg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Circum/Communication/Bullhorn.svg</code><br>📥 [檢視原始檔](Bullhorn.svg) |

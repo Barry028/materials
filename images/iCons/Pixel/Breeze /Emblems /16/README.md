@@ -4,7 +4,7 @@
 
 本目錄共有 `40` 個檔案
 
-| 🎨 預覽 (點擊放大)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 📋 檔案詳細資訊與連結 |
+| 🎨 預覽 (點擊放大)<br><img src="data:image/gif;base64,R0lGODlh+gABAPAAAAAAAAAAACH5BAEAAAAALAAAAAD6AAEAAAINhI+py+0Po5y02ovzLQA7" width="250" height="1"> | 📋 檔案詳細資訊與連結 |
 | :--- | :--- |
 | <a href="emblem-added.svg"><img src="emblem-added.svg" width="250" alt="emblem-added.svg"></a> | **📂 檔名:** `emblem-added.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `741.00B`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![emblem-added.svg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Pixel/Breeze%20/Emblems%20/16/emblem-added.svg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Pixel/Breeze%20/Emblems%20/16/emblem-added.svg</code><br>📥 [檢視原始檔](emblem-added.svg) |
 | <a href="emblem-checked.svg"><img src="emblem-checked.svg" width="250" alt="emblem-checked.svg"></a> | **📂 檔名:** `emblem-checked.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `773.00B`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![emblem-checked.svg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Pixel/Breeze%20/Emblems%20/16/emblem-checked.svg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Pixel/Breeze%20/Emblems%20/16/emblem-checked.svg</code><br>📥 [檢視原始檔](emblem-checked.svg) |

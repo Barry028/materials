@@ -4,7 +4,7 @@
 
 本目錄共有 `46` 個檔案
 
-| 🎨 預覽 (點擊放大)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 📋 檔案詳細資訊與連結 |
+| 🎨 預覽 (點擊放大)<br><img src="data:image/gif;base64,R0lGODlh+gABAPAAAAAAAAAAACH5BAEAAAAALAAAAAD6AAEAAAINhI+py+0Po5y02ovzLQA7" width="250" height="1"> | 📋 檔案詳細資訊與連結 |
 | :--- | :--- |
 | <a href="folder-add.svg"><img src="folder-add.svg" width="250" alt="folder-add.svg"></a> | **📂 檔名:** `folder-add.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `617.00B`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![folder-add.svg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/CandyiCons/places/16/folder-add.svg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/CandyiCons/places/16/folder-add.svg</code><br>📥 [檢視原始檔](folder-add.svg) |
 | <a href="folder-black.svg"><img src="folder-black.svg" width="250" alt="folder-black.svg"></a> | **📂 檔名:** `folder-black.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `441.00B`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![folder-black.svg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/CandyiCons/places/16/folder-black.svg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/CandyiCons/places/16/folder-black.svg</code><br>📥 [檢視原始檔](folder-black.svg) |

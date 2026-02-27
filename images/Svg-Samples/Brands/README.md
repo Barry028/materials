@@ -4,7 +4,7 @@
 
 本目錄共有 `4` 個檔案
 
-| 🎨 預覽 (點擊放大)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 📋 檔案詳細資訊與連結 |
+| 🎨 預覽 (點擊放大)<br><img src="data:image/gif;base64,R0lGODlh+gABAPAAAAAAAAAAACH5BAEAAAAALAAAAAD6AAEAAAINhI+py+0Po5y02ovzLQA7" width="250" height="1"> | 📋 檔案詳細資訊與連結 |
 | :--- | :--- |
 | <a href="Brand-01.svg"><img src="Brand-01.svg" width="250" alt="Brand-01.svg"></a> | **📂 檔名:** `Brand-01.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `56.60KB`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![Brand-01.svg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/Svg-Samples/Brands/Brand-01.svg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/Svg-Samples/Brands/Brand-01.svg</code><br>📥 [檢視原始檔](Brand-01.svg) |
 | <a href="Brand-02.svg"><img src="Brand-02.svg" width="250" alt="Brand-02.svg"></a> | **📂 檔名:** `Brand-02.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `8.61KB`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![Brand-02.svg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/Svg-Samples/Brands/Brand-02.svg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/Svg-Samples/Brands/Brand-02.svg</code><br>📥 [檢視原始檔](Brand-02.svg) |
