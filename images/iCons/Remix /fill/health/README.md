@@ -1,36 +1,38 @@
-# 🖼️ health
+# 🖼️ 素材分類：health
 
-[⬅️ 返回主目錄](../../../../../README.md)
+> [🏠 主目錄](../../../../../README.md) / **health**
 
-| 預覽 | 資訊 |
+本目錄共有 `30` 個檔案
+
+| 🎨 預覽 (點擊放大) | 📋 檔案詳細資訊 |
 | :--- | :--- |
-| <a href="capsule-fill.svg"><img src="capsule-fill.svg" width="200"></a> | **capsule-fill.svg** |
-| <a href="dislike-fill.svg"><img src="dislike-fill.svg" width="200"></a> | **dislike-fill.svg** |
-| <a href="dossier-fill.svg"><img src="dossier-fill.svg" width="200"></a> | **dossier-fill.svg** |
-| <a href="empathize-fill.svg"><img src="empathize-fill.svg" width="200"></a> | **empathize-fill.svg** |
-| <a href="first-aid-kit-fill.svg"><img src="first-aid-kit-fill.svg" width="200"></a> | **first-aid-kit-fill.svg** |
-| <a href="flask-fill.svg"><img src="flask-fill.svg" width="200"></a> | **flask-fill.svg** |
-| <a href="hand-sanitizer-fill.svg"><img src="hand-sanitizer-fill.svg" width="200"></a> | **hand-sanitizer-fill.svg** |
-| <a href="health-book-fill.svg"><img src="health-book-fill.svg" width="200"></a> | **health-book-fill.svg** |
-| <a href="heart-2-fill.svg"><img src="heart-2-fill.svg" width="200"></a> | **heart-2-fill.svg** |
-| <a href="heart-3-fill.svg"><img src="heart-3-fill.svg" width="200"></a> | **heart-3-fill.svg** |
-| <a href="heart-add-fill.svg"><img src="heart-add-fill.svg" width="200"></a> | **heart-add-fill.svg** |
-| <a href="heart-fill.svg"><img src="heart-fill.svg" width="200"></a> | **heart-fill.svg** |
-| <a href="heart-pulse-fill.svg"><img src="heart-pulse-fill.svg" width="200"></a> | **heart-pulse-fill.svg** |
-| <a href="hearts-fill.svg"><img src="hearts-fill.svg" width="200"></a> | **hearts-fill.svg** |
-| <a href="infrared-thermometer-fill.svg"><img src="infrared-thermometer-fill.svg" width="200"></a> | **infrared-thermometer-fill.svg** |
-| <a href="lungs-fill.svg"><img src="lungs-fill.svg" width="200"></a> | **lungs-fill.svg** |
-| <a href="medicine-bottle-fill.svg"><img src="medicine-bottle-fill.svg" width="200"></a> | **medicine-bottle-fill.svg** |
-| <a href="mental-health-fill.svg"><img src="mental-health-fill.svg" width="200"></a> | **mental-health-fill.svg** |
-| <a href="microscope-fill.svg"><img src="microscope-fill.svg" width="200"></a> | **microscope-fill.svg** |
-| <a href="nurse-fill.svg"><img src="nurse-fill.svg" width="200"></a> | **nurse-fill.svg** |
-| <a href="psychotherapy-fill.svg"><img src="psychotherapy-fill.svg" width="200"></a> | **psychotherapy-fill.svg** |
-| <a href="pulse-fill.svg"><img src="pulse-fill.svg" width="200"></a> | **pulse-fill.svg** |
-| <a href="rest-time-fill.svg"><img src="rest-time-fill.svg" width="200"></a> | **rest-time-fill.svg** |
-| <a href="stethoscope-fill.svg"><img src="stethoscope-fill.svg" width="200"></a> | **stethoscope-fill.svg** |
-| <a href="surgical-mask-fill.svg"><img src="surgical-mask-fill.svg" width="200"></a> | **surgical-mask-fill.svg** |
-| <a href="syringe-fill.svg"><img src="syringe-fill.svg" width="200"></a> | **syringe-fill.svg** |
-| <a href="test-tube-fill.svg"><img src="test-tube-fill.svg" width="200"></a> | **test-tube-fill.svg** |
-| <a href="thermometer-fill.svg"><img src="thermometer-fill.svg" width="200"></a> | **thermometer-fill.svg** |
-| <a href="virus-fill.svg"><img src="virus-fill.svg" width="200"></a> | **virus-fill.svg** |
-| <a href="zzz-fill.svg"><img src="zzz-fill.svg" width="200"></a> | **zzz-fill.svg** |
+| <a href="capsule-fill.svg"><img src="capsule-fill.svg" width="250" alt="capsule-fill.svg"></a> | **📂 檔名:** `capsule-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `658.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](capsule-fill.svg) |
+| <a href="dislike-fill.svg"><img src="dislike-fill.svg" width="250" alt="dislike-fill.svg"></a> | **📂 檔名:** `dislike-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `632.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](dislike-fill.svg) |
+| <a href="dossier-fill.svg"><img src="dossier-fill.svg" width="250" alt="dossier-fill.svg"></a> | **📂 檔名:** `dossier-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `461.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](dossier-fill.svg) |
+| <a href="empathize-fill.svg"><img src="empathize-fill.svg" width="250" alt="empathize-fill.svg"></a> | **📂 檔名:** `empathize-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `718.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](empathize-fill.svg) |
+| <a href="first-aid-kit-fill.svg"><img src="first-aid-kit-fill.svg" width="250" alt="first-aid-kit-fill.svg"></a> | **📂 檔名:** `first-aid-kit-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `502.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](first-aid-kit-fill.svg) |
+| <a href="flask-fill.svg"><img src="flask-fill.svg" width="250" alt="flask-fill.svg"></a> | **📂 檔名:** `flask-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `640.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](flask-fill.svg) |
+| <a href="hand-sanitizer-fill.svg"><img src="hand-sanitizer-fill.svg" width="250" alt="hand-sanitizer-fill.svg"></a> | **📂 檔名:** `hand-sanitizer-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `659.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](hand-sanitizer-fill.svg) |
+| <a href="health-book-fill.svg"><img src="health-book-fill.svg" width="250" alt="health-book-fill.svg"></a> | **📂 檔名:** `health-book-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `472.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](health-book-fill.svg) |
+| <a href="heart-2-fill.svg"><img src="heart-2-fill.svg" width="250" alt="heart-2-fill.svg"></a> | **📂 檔名:** `heart-2-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `571.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](heart-2-fill.svg) |
+| <a href="heart-3-fill.svg"><img src="heart-3-fill.svg" width="250" alt="heart-3-fill.svg"></a> | **📂 檔名:** `heart-3-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `395.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](heart-3-fill.svg) |
+| <a href="heart-add-fill.svg"><img src="heart-add-fill.svg" width="250" alt="heart-add-fill.svg"></a> | **📂 檔名:** `heart-add-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `631.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](heart-add-fill.svg) |
+| <a href="heart-fill.svg"><img src="heart-fill.svg" width="250" alt="heart-fill.svg"></a> | **📂 檔名:** `heart-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `498.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](heart-fill.svg) |
+| <a href="heart-pulse-fill.svg"><img src="heart-pulse-fill.svg" width="250" alt="heart-pulse-fill.svg"></a> | **📂 檔名:** `heart-pulse-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `528.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](heart-pulse-fill.svg) |
+| <a href="hearts-fill.svg"><img src="hearts-fill.svg" width="250" alt="hearts-fill.svg"></a> | **📂 檔名:** `hearts-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `942.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](hearts-fill.svg) |
+| <a href="infrared-thermometer-fill.svg"><img src="infrared-thermometer-fill.svg" width="250" alt="infrared-thermometer-fill.svg"></a> | **📂 檔名:** `infrared-thermometer-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `523.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](infrared-thermometer-fill.svg) |
+| <a href="lungs-fill.svg"><img src="lungs-fill.svg" width="250" alt="lungs-fill.svg"></a> | **📂 檔名:** `lungs-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `688.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](lungs-fill.svg) |
+| <a href="medicine-bottle-fill.svg"><img src="medicine-bottle-fill.svg" width="250" alt="medicine-bottle-fill.svg"></a> | **📂 檔名:** `medicine-bottle-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `458.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](medicine-bottle-fill.svg) |
+| <a href="mental-health-fill.svg"><img src="mental-health-fill.svg" width="250" alt="mental-health-fill.svg"></a> | **📂 檔名:** `mental-health-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `721.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](mental-health-fill.svg) |
+| <a href="microscope-fill.svg"><img src="microscope-fill.svg" width="250" alt="microscope-fill.svg"></a> | **📂 檔名:** `microscope-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `953.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](microscope-fill.svg) |
+| <a href="nurse-fill.svg"><img src="nurse-fill.svg" width="250" alt="nurse-fill.svg"></a> | **📂 檔名:** `nurse-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `542.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](nurse-fill.svg) |
+| <a href="psychotherapy-fill.svg"><img src="psychotherapy-fill.svg" width="250" alt="psychotherapy-fill.svg"></a> | **📂 檔名:** `psychotherapy-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `744.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](psychotherapy-fill.svg) |
+| <a href="pulse-fill.svg"><img src="pulse-fill.svg" width="250" alt="pulse-fill.svg"></a> | **📂 檔名:** `pulse-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `361.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](pulse-fill.svg) |
+| <a href="rest-time-fill.svg"><img src="rest-time-fill.svg" width="250" alt="rest-time-fill.svg"></a> | **📂 檔名:** `rest-time-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `401.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](rest-time-fill.svg) |
+| <a href="stethoscope-fill.svg"><img src="stethoscope-fill.svg" width="250" alt="stethoscope-fill.svg"></a> | **📂 檔名:** `stethoscope-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `698.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](stethoscope-fill.svg) |
+| <a href="surgical-mask-fill.svg"><img src="surgical-mask-fill.svg" width="250" alt="surgical-mask-fill.svg"></a> | **📂 檔名:** `surgical-mask-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `747.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](surgical-mask-fill.svg) |
+| <a href="syringe-fill.svg"><img src="syringe-fill.svg" width="250" alt="syringe-fill.svg"></a> | **📂 檔名:** `syringe-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `750.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](syringe-fill.svg) |
+| <a href="test-tube-fill.svg"><img src="test-tube-fill.svg" width="250" alt="test-tube-fill.svg"></a> | **📂 檔名:** `test-tube-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `579.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](test-tube-fill.svg) |
+| <a href="thermometer-fill.svg"><img src="thermometer-fill.svg" width="250" alt="thermometer-fill.svg"></a> | **📂 檔名:** `thermometer-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `906.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](thermometer-fill.svg) |
+| <a href="virus-fill.svg"><img src="virus-fill.svg" width="250" alt="virus-fill.svg"></a> | **📂 檔名:** `virus-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `2.17KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](virus-fill.svg) |
+| <a href="zzz-fill.svg"><img src="zzz-fill.svg" width="250" alt="zzz-fill.svg"></a> | **📂 檔名:** `zzz-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `367.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](zzz-fill.svg) |

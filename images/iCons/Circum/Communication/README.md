@@ -1,22 +1,24 @@
-# 🖼️ Communication
+# 🖼️ 素材分類：Communication
 
-[⬅️ 返回主目錄](../../../../README.md)
+> [🏠 主目錄](../../../../README.md) / **Communication**
 
-| 預覽 | 資訊 |
+本目錄共有 `16` 個檔案
+
+| 🎨 預覽 (點擊放大) | 📋 檔案詳細資訊 |
 | :--- | :--- |
-| <a href="At.svg"><img src="At.svg" width="200"></a> | **At.svg** |
-| <a href="Bullhorn.svg"><img src="Bullhorn.svg" width="200"></a> | **Bullhorn.svg** |
-| <a href="Chat_1.svg"><img src="Chat_1.svg" width="200"></a> | **Chat_1.svg** |
-| <a href="Chat_2.svg"><img src="Chat_2.svg" width="200"></a> | **Chat_2.svg** |
-| <a href="Face_Frown.svg"><img src="Face_Frown.svg" width="200"></a> | **Face_Frown.svg** |
-| <a href="Face_Meh.svg"><img src="Face_Meh.svg" width="200"></a> | **Face_Meh.svg** |
-| <a href="Face_Smile.svg"><img src="Face_Smile.svg" width="200"></a> | **Face_Smile.svg** |
-| <a href="Inbox_In.svg"><img src="Inbox_In.svg" width="200"></a> | **Inbox_In.svg** |
-| <a href="Inbox_Out.svg"><img src="Inbox_Out.svg" width="200"></a> | **Inbox_Out.svg** |
-| <a href="Mail.svg"><img src="Mail.svg" width="200"></a> | **Mail.svg** |
-| <a href="Microphone_Off.svg"><img src="Microphone_Off.svg" width="200"></a> | **Microphone_Off.svg** |
-| <a href="Microphone_On.svg"><img src="Microphone_On.svg" width="200"></a> | **Microphone_On.svg** |
-| <a href="Paper_Plane.svg"><img src="Paper_Plane.svg" width="200"></a> | **Paper_Plane.svg** |
-| <a href="Video_Off.svg"><img src="Video_Off.svg" width="200"></a> | **Video_Off.svg** |
-| <a href="Video_On.svg"><img src="Video_On.svg" width="200"></a> | **Video_On.svg** |
-| <a href="Voicemail.svg"><img src="Voicemail.svg" width="200"></a> | **Voicemail.svg** |
+| <a href="At.svg"><img src="At.svg" width="250" alt="At.svg"></a> | **📂 檔名:** `At.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.75KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](At.svg) |
+| <a href="Bullhorn.svg"><img src="Bullhorn.svg" width="250" alt="Bullhorn.svg"></a> | **📂 檔名:** `Bullhorn.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `688.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Bullhorn.svg) |
+| <a href="Chat_1.svg"><img src="Chat_1.svg" width="250" alt="Chat_1.svg"></a> | **📂 檔名:** `Chat_1.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `541.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Chat_1.svg) |
+| <a href="Chat_2.svg"><img src="Chat_2.svg" width="250" alt="Chat_2.svg"></a> | **📂 檔名:** `Chat_2.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `654.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Chat_2.svg) |
+| <a href="Face_Frown.svg"><img src="Face_Frown.svg" width="250" alt="Face_Frown.svg"></a> | **📂 檔名:** `Face_Frown.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `597.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Face_Frown.svg) |
+| <a href="Face_Meh.svg"><img src="Face_Meh.svg" width="250" alt="Face_Meh.svg"></a> | **📂 檔名:** `Face_Meh.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `550.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Face_Meh.svg) |
+| <a href="Face_Smile.svg"><img src="Face_Smile.svg" width="250" alt="Face_Smile.svg"></a> | **📂 檔名:** `Face_Smile.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `619.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Face_Smile.svg) |
+| <a href="Inbox_In.svg"><img src="Inbox_In.svg" width="250" alt="Inbox_In.svg"></a> | **📂 檔名:** `Inbox_In.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `930.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Inbox_In.svg) |
+| <a href="Inbox_Out.svg"><img src="Inbox_Out.svg" width="250" alt="Inbox_Out.svg"></a> | **📂 檔名:** `Inbox_Out.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `929.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Inbox_Out.svg) |
+| <a href="Mail.svg"><img src="Mail.svg" width="250" alt="Mail.svg"></a> | **📂 檔名:** `Mail.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `683.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Mail.svg) |
+| <a href="Microphone_Off.svg"><img src="Microphone_Off.svg" width="250" alt="Microphone_Off.svg"></a> | **📂 檔名:** `Microphone_Off.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.00KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Microphone_Off.svg) |
+| <a href="Microphone_On.svg"><img src="Microphone_On.svg" width="250" alt="Microphone_On.svg"></a> | **📂 檔名:** `Microphone_On.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `876.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Microphone_On.svg) |
+| <a href="Paper_Plane.svg"><img src="Paper_Plane.svg" width="250" alt="Paper_Plane.svg"></a> | **📂 檔名:** `Paper_Plane.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `486.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Paper_Plane.svg) |
+| <a href="Video_Off.svg"><img src="Video_Off.svg" width="250" alt="Video_Off.svg"></a> | **📂 檔名:** `Video_Off.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1006.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Video_Off.svg) |
+| <a href="Video_On.svg"><img src="Video_On.svg" width="250" alt="Video_On.svg"></a> | **📂 檔名:** `Video_On.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `654.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Video_On.svg) |
+| <a href="Voicemail.svg"><img src="Voicemail.svg" width="250" alt="Voicemail.svg"></a> | **📂 檔名:** `Voicemail.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `327.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Voicemail.svg) |

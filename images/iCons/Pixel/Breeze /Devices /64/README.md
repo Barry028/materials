@@ -1,53 +1,55 @@
-# 🖼️ 64
+# 🖼️ 素材分類：64
 
-[⬅️ 返回主目錄](../../../../../../README.md)
+> [🏠 主目錄](../../../../../../README.md) / **64**
 
-| 預覽 | 資訊 |
+本目錄共有 `47` 個檔案
+
+| 🎨 預覽 (點擊放大) | 📋 檔案詳細資訊 |
 | :--- | :--- |
-| <a href="audio-card.svg"><img src="audio-card.svg" width="200"></a> | **audio-card.svg** |
-| <a href="audio-headphones.svg"><img src="audio-headphones.svg" width="200"></a> | **audio-headphones.svg** |
-| <a href="audio-headset.svg"><img src="audio-headset.svg" width="200"></a> | **audio-headset.svg** |
-| <a href="auth-sim.svg"><img src="auth-sim.svg" width="200"></a> | **auth-sim.svg** |
-| <a href="battery.svg"><img src="battery.svg" width="200"></a> | **battery.svg** |
-| <a href="camera-photo.svg"><img src="camera-photo.svg" width="200"></a> | **camera-photo.svg** |
-| <a href="camera-video.svg"><img src="camera-video.svg" width="200"></a> | **camera-video.svg** |
-| <a href="camera-web.svg"><img src="camera-web.svg" width="200"></a> | **camera-web.svg** |
-| <a href="computer-laptop.svg"><img src="computer-laptop.svg" width="200"></a> | **computer-laptop.svg** |
-| <a href="computer.svg"><img src="computer.svg" width="200"></a> | **computer.svg** |
-| <a href="cpu.svg"><img src="cpu.svg" width="200"></a> | **cpu.svg** |
-| <a href="drive-harddisk-encrypted.svg"><img src="drive-harddisk-encrypted.svg" width="200"></a> | **drive-harddisk-encrypted.svg** |
-| <a href="drive-harddisk-root.svg"><img src="drive-harddisk-root.svg" width="200"></a> | **drive-harddisk-root.svg** |
-| <a href="drive-harddisk.svg"><img src="drive-harddisk.svg" width="200"></a> | **drive-harddisk.svg** |
-| <a href="drive-multidisk.svg"><img src="drive-multidisk.svg" width="200"></a> | **drive-multidisk.svg** |
-| <a href="drive-multipartition.svg"><img src="drive-multipartition.svg" width="200"></a> | **drive-multipartition.svg** |
-| <a href="drive-partition.svg"><img src="drive-partition.svg" width="200"></a> | **drive-partition.svg** |
-| <a href="drive-removable-media.svg"><img src="drive-removable-media.svg" width="200"></a> | **drive-removable-media.svg** |
-| <a href="input-gaming.svg"><img src="input-gaming.svg" width="200"></a> | **input-gaming.svg** |
-| <a href="input-keyboard.svg"><img src="input-keyboard.svg" width="200"></a> | **input-keyboard.svg** |
-| <a href="input-mouse.svg"><img src="input-mouse.svg" width="200"></a> | **input-mouse.svg** |
-| <a href="input-tablet.svg"><img src="input-tablet.svg" width="200"></a> | **input-tablet.svg** |
-| <a href="input-touchpad.svg"><img src="input-touchpad.svg" width="200"></a> | **input-touchpad.svg** |
-| <a href="input-touchscreen.svg"><img src="input-touchscreen.svg" width="200"></a> | **input-touchscreen.svg** |
-| <a href="input-tvremote.svg"><img src="input-tvremote.svg" width="200"></a> | **input-tvremote.svg** |
-| <a href="media-flash-memory-stick.svg"><img src="media-flash-memory-stick.svg" width="200"></a> | **media-flash-memory-stick.svg** |
-| <a href="media-flash-sd-mmc.svg"><img src="media-flash-sd-mmc.svg" width="200"></a> | **media-flash-sd-mmc.svg** |
-| <a href="media-optical-audio.svg"><img src="media-optical-audio.svg" width="200"></a> | **media-optical-audio.svg** |
-| <a href="media-optical-blu-ray.svg"><img src="media-optical-blu-ray.svg" width="200"></a> | **media-optical-blu-ray.svg** |
-| <a href="media-optical-data.svg"><img src="media-optical-data.svg" width="200"></a> | **media-optical-data.svg** |
-| <a href="media-optical-dvd.svg"><img src="media-optical-dvd.svg" width="200"></a> | **media-optical-dvd.svg** |
-| <a href="media-optical-recordable.svg"><img src="media-optical-recordable.svg" width="200"></a> | **media-optical-recordable.svg** |
-| <a href="media-optical-video.svg"><img src="media-optical-video.svg" width="200"></a> | **media-optical-video.svg** |
-| <a href="media-optical.svg"><img src="media-optical.svg" width="200"></a> | **media-optical.svg** |
-| <a href="media-write-cd.svg"><img src="media-write-cd.svg" width="200"></a> | **media-write-cd.svg** |
-| <a href="media-write-dvd.svg"><img src="media-write-dvd.svg" width="200"></a> | **media-write-dvd.svg** |
-| <a href="memory.svg"><img src="memory.svg" width="200"></a> | **memory.svg** |
-| <a href="multimedia-player.svg"><img src="multimedia-player.svg" width="200"></a> | **multimedia-player.svg** |
-| <a href="network-card.svg"><img src="network-card.svg" width="200"></a> | **network-card.svg** |
-| <a href="network-rj11-female.svg"><img src="network-rj11-female.svg" width="200"></a> | **network-rj11-female.svg** |
-| <a href="network-rj45-female.svg"><img src="network-rj45-female.svg" width="200"></a> | **network-rj45-female.svg** |
-| <a href="phone-apple-iphone.svg"><img src="phone-apple-iphone.svg" width="200"></a> | **phone-apple-iphone.svg** |
-| <a href="printer.svg"><img src="printer.svg" width="200"></a> | **printer.svg** |
-| <a href="scanner.svg"><img src="scanner.svg" width="200"></a> | **scanner.svg** |
-| <a href="smartphone.svg"><img src="smartphone.svg" width="200"></a> | **smartphone.svg** |
-| <a href="video-display.svg"><img src="video-display.svg" width="200"></a> | **video-display.svg** |
-| <a href="video-television.svg"><img src="video-television.svg" width="200"></a> | **video-television.svg** |
+| <a href="audio-card.svg"><img src="audio-card.svg" width="250" alt="audio-card.svg"></a> | **📂 檔名:** `audio-card.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `9.53KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](audio-card.svg) |
+| <a href="audio-headphones.svg"><img src="audio-headphones.svg" width="250" alt="audio-headphones.svg"></a> | **📂 檔名:** `audio-headphones.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `4.43KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](audio-headphones.svg) |
+| <a href="audio-headset.svg"><img src="audio-headset.svg" width="250" alt="audio-headset.svg"></a> | **📂 檔名:** `audio-headset.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `5.47KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](audio-headset.svg) |
+| <a href="auth-sim.svg"><img src="auth-sim.svg" width="250" alt="auth-sim.svg"></a> | **📂 檔名:** `auth-sim.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `5.87KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](auth-sim.svg) |
+| <a href="battery.svg"><img src="battery.svg" width="250" alt="battery.svg"></a> | **📂 檔名:** `battery.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `6.15KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](battery.svg) |
+| <a href="camera-photo.svg"><img src="camera-photo.svg" width="250" alt="camera-photo.svg"></a> | **📂 檔名:** `camera-photo.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `10.05KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](camera-photo.svg) |
+| <a href="camera-video.svg"><img src="camera-video.svg" width="250" alt="camera-video.svg"></a> | **📂 檔名:** `camera-video.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `3.20KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](camera-video.svg) |
+| <a href="camera-web.svg"><img src="camera-web.svg" width="250" alt="camera-web.svg"></a> | **📂 檔名:** `camera-web.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `9.17KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](camera-web.svg) |
+| <a href="computer-laptop.svg"><img src="computer-laptop.svg" width="250" alt="computer-laptop.svg"></a> | **📂 檔名:** `computer-laptop.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `17.48KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](computer-laptop.svg) |
+| <a href="computer.svg"><img src="computer.svg" width="250" alt="computer.svg"></a> | **📂 檔名:** `computer.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `9.89KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](computer.svg) |
+| <a href="cpu.svg"><img src="cpu.svg" width="250" alt="cpu.svg"></a> | **📂 檔名:** `cpu.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `6.74KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](cpu.svg) |
+| <a href="drive-harddisk-encrypted.svg"><img src="drive-harddisk-encrypted.svg" width="250" alt="drive-harddisk-encrypted.svg"></a> | **📂 檔名:** `drive-harddisk-encrypted.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `2.09KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](drive-harddisk-encrypted.svg) |
+| <a href="drive-harddisk-root.svg"><img src="drive-harddisk-root.svg" width="250" alt="drive-harddisk-root.svg"></a> | **📂 檔名:** `drive-harddisk-root.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.98KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](drive-harddisk-root.svg) |
+| <a href="drive-harddisk.svg"><img src="drive-harddisk.svg" width="250" alt="drive-harddisk.svg"></a> | **📂 檔名:** `drive-harddisk.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.31KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](drive-harddisk.svg) |
+| <a href="drive-multidisk.svg"><img src="drive-multidisk.svg" width="250" alt="drive-multidisk.svg"></a> | **📂 檔名:** `drive-multidisk.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `2.01KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](drive-multidisk.svg) |
+| <a href="drive-multipartition.svg"><img src="drive-multipartition.svg" width="250" alt="drive-multipartition.svg"></a> | **📂 檔名:** `drive-multipartition.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `5.92KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](drive-multipartition.svg) |
+| <a href="drive-partition.svg"><img src="drive-partition.svg" width="250" alt="drive-partition.svg"></a> | **📂 檔名:** `drive-partition.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `4.52KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](drive-partition.svg) |
+| <a href="drive-removable-media.svg"><img src="drive-removable-media.svg" width="250" alt="drive-removable-media.svg"></a> | **📂 檔名:** `drive-removable-media.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `4.56KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](drive-removable-media.svg) |
+| <a href="input-gaming.svg"><img src="input-gaming.svg" width="250" alt="input-gaming.svg"></a> | **📂 檔名:** `input-gaming.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `3.85KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](input-gaming.svg) |
+| <a href="input-keyboard.svg"><img src="input-keyboard.svg" width="250" alt="input-keyboard.svg"></a> | **📂 檔名:** `input-keyboard.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `5.53KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](input-keyboard.svg) |
+| <a href="input-mouse.svg"><img src="input-mouse.svg" width="250" alt="input-mouse.svg"></a> | **📂 檔名:** `input-mouse.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `4.01KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](input-mouse.svg) |
+| <a href="input-tablet.svg"><img src="input-tablet.svg" width="250" alt="input-tablet.svg"></a> | **📂 檔名:** `input-tablet.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `7.38KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](input-tablet.svg) |
+| <a href="input-touchpad.svg"><img src="input-touchpad.svg" width="250" alt="input-touchpad.svg"></a> | **📂 檔名:** `input-touchpad.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `4.58KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](input-touchpad.svg) |
+| <a href="input-touchscreen.svg"><img src="input-touchscreen.svg" width="250" alt="input-touchscreen.svg"></a> | **📂 檔名:** `input-touchscreen.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `6.28KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](input-touchscreen.svg) |
+| <a href="input-tvremote.svg"><img src="input-tvremote.svg" width="250" alt="input-tvremote.svg"></a> | **📂 檔名:** `input-tvremote.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `3.36KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](input-tvremote.svg) |
+| <a href="media-flash-memory-stick.svg"><img src="media-flash-memory-stick.svg" width="250" alt="media-flash-memory-stick.svg"></a> | **📂 檔名:** `media-flash-memory-stick.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `3.40KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](media-flash-memory-stick.svg) |
+| <a href="media-flash-sd-mmc.svg"><img src="media-flash-sd-mmc.svg" width="250" alt="media-flash-sd-mmc.svg"></a> | **📂 檔名:** `media-flash-sd-mmc.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `4.77KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](media-flash-sd-mmc.svg) |
+| <a href="media-optical-audio.svg"><img src="media-optical-audio.svg" width="250" alt="media-optical-audio.svg"></a> | **📂 檔名:** `media-optical-audio.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `5.62KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](media-optical-audio.svg) |
+| <a href="media-optical-blu-ray.svg"><img src="media-optical-blu-ray.svg" width="250" alt="media-optical-blu-ray.svg"></a> | **📂 檔名:** `media-optical-blu-ray.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `3.71KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](media-optical-blu-ray.svg) |
+| <a href="media-optical-data.svg"><img src="media-optical-data.svg" width="250" alt="media-optical-data.svg"></a> | **📂 檔名:** `media-optical-data.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `5.35KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](media-optical-data.svg) |
+| <a href="media-optical-dvd.svg"><img src="media-optical-dvd.svg" width="250" alt="media-optical-dvd.svg"></a> | **📂 檔名:** `media-optical-dvd.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `4.07KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](media-optical-dvd.svg) |
+| <a href="media-optical-recordable.svg"><img src="media-optical-recordable.svg" width="250" alt="media-optical-recordable.svg"></a> | **📂 檔名:** `media-optical-recordable.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `5.72KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](media-optical-recordable.svg) |
+| <a href="media-optical-video.svg"><img src="media-optical-video.svg" width="250" alt="media-optical-video.svg"></a> | **📂 檔名:** `media-optical-video.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `7.42KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](media-optical-video.svg) |
+| <a href="media-optical.svg"><img src="media-optical.svg" width="250" alt="media-optical.svg"></a> | **📂 檔名:** `media-optical.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `4.07KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](media-optical.svg) |
+| <a href="media-write-cd.svg"><img src="media-write-cd.svg" width="250" alt="media-write-cd.svg"></a> | **📂 檔名:** `media-write-cd.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `2.38KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](media-write-cd.svg) |
+| <a href="media-write-dvd.svg"><img src="media-write-dvd.svg" width="250" alt="media-write-dvd.svg"></a> | **📂 檔名:** `media-write-dvd.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `2.01KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](media-write-dvd.svg) |
+| <a href="memory.svg"><img src="memory.svg" width="250" alt="memory.svg"></a> | **📂 檔名:** `memory.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `9.49KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](memory.svg) |
+| <a href="multimedia-player.svg"><img src="multimedia-player.svg" width="250" alt="multimedia-player.svg"></a> | **📂 檔名:** `multimedia-player.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `5.07KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](multimedia-player.svg) |
+| <a href="network-card.svg"><img src="network-card.svg" width="250" alt="network-card.svg"></a> | **📂 檔名:** `network-card.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `6.63KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](network-card.svg) |
+| <a href="network-rj11-female.svg"><img src="network-rj11-female.svg" width="250" alt="network-rj11-female.svg"></a> | **📂 檔名:** `network-rj11-female.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `3.81KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](network-rj11-female.svg) |
+| <a href="network-rj45-female.svg"><img src="network-rj45-female.svg" width="250" alt="network-rj45-female.svg"></a> | **📂 檔名:** `network-rj45-female.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `3.83KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](network-rj45-female.svg) |
+| <a href="phone-apple-iphone.svg"><img src="phone-apple-iphone.svg" width="250" alt="phone-apple-iphone.svg"></a> | **📂 檔名:** `phone-apple-iphone.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `2.14KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](phone-apple-iphone.svg) |
+| <a href="printer.svg"><img src="printer.svg" width="250" alt="printer.svg"></a> | **📂 檔名:** `printer.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `18.11KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](printer.svg) |
+| <a href="scanner.svg"><img src="scanner.svg" width="250" alt="scanner.svg"></a> | **📂 檔名:** `scanner.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `6.47KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](scanner.svg) |
+| <a href="smartphone.svg"><img src="smartphone.svg" width="250" alt="smartphone.svg"></a> | **📂 檔名:** `smartphone.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `3.23KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](smartphone.svg) |
+| <a href="video-display.svg"><img src="video-display.svg" width="250" alt="video-display.svg"></a> | **📂 檔名:** `video-display.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `8.60KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](video-display.svg) |
+| <a href="video-television.svg"><img src="video-television.svg" width="250" alt="video-television.svg"></a> | **📂 檔名:** `video-television.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `6.13KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](video-television.svg) |

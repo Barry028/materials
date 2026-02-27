@@ -1,36 +1,38 @@
-# 🖼️ communication
+# 🖼️ 素材分類：communication
 
-[⬅️ 返回主目錄](../../../../../README.md)
+> [🏠 主目錄](../../../../../README.md) / **communication**
 
-| 預覽 | 資訊 |
+本目錄共有 `30` 個檔案
+
+| 🎨 預覽 (點擊放大) | 📋 檔案詳細資訊 |
 | :--- | :--- |
-| <a href="chat-1-line.svg"><img src="chat-1-line.svg" width="200"></a> | **chat-1-line.svg** |
-| <a href="chat-2-line.svg"><img src="chat-2-line.svg" width="200"></a> | **chat-2-line.svg** |
-| <a href="chat-3-line.svg"><img src="chat-3-line.svg" width="200"></a> | **chat-3-line.svg** |
-| <a href="chat-4-line.svg"><img src="chat-4-line.svg" width="200"></a> | **chat-4-line.svg** |
-| <a href="chat-check-line.svg"><img src="chat-check-line.svg" width="200"></a> | **chat-check-line.svg** |
-| <a href="chat-delete-line.svg"><img src="chat-delete-line.svg" width="200"></a> | **chat-delete-line.svg** |
-| <a href="chat-download-line.svg"><img src="chat-download-line.svg" width="200"></a> | **chat-download-line.svg** |
-| <a href="chat-follow-up-line.svg"><img src="chat-follow-up-line.svg" width="200"></a> | **chat-follow-up-line.svg** |
-| <a href="chat-forward-line.svg"><img src="chat-forward-line.svg" width="200"></a> | **chat-forward-line.svg** |
-| <a href="chat-heart-line.svg"><img src="chat-heart-line.svg" width="200"></a> | **chat-heart-line.svg** |
-| <a href="chat-history-line.svg"><img src="chat-history-line.svg" width="200"></a> | **chat-history-line.svg** |
-| <a href="chat-new-line.svg"><img src="chat-new-line.svg" width="200"></a> | **chat-new-line.svg** |
-| <a href="chat-off-line.svg"><img src="chat-off-line.svg" width="200"></a> | **chat-off-line.svg** |
-| <a href="chat-poll-line.svg"><img src="chat-poll-line.svg" width="200"></a> | **chat-poll-line.svg** |
-| <a href="chat-private-line.svg"><img src="chat-private-line.svg" width="200"></a> | **chat-private-line.svg** |
-| <a href="chat-quote-line.svg"><img src="chat-quote-line.svg" width="200"></a> | **chat-quote-line.svg** |
-| <a href="chat-settings-line.svg"><img src="chat-settings-line.svg" width="200"></a> | **chat-settings-line.svg** |
-| <a href="chat-smile-2-line.svg"><img src="chat-smile-2-line.svg" width="200"></a> | **chat-smile-2-line.svg** |
-| <a href="chat-smile-3-line.svg"><img src="chat-smile-3-line.svg" width="200"></a> | **chat-smile-3-line.svg** |
-| <a href="chat-smile-line.svg"><img src="chat-smile-line.svg" width="200"></a> | **chat-smile-line.svg** |
-| <a href="chat-upload-line.svg"><img src="chat-upload-line.svg" width="200"></a> | **chat-upload-line.svg** |
-| <a href="chat-voice-line.svg"><img src="chat-voice-line.svg" width="200"></a> | **chat-voice-line.svg** |
-| <a href="discuss-line.svg"><img src="discuss-line.svg" width="200"></a> | **discuss-line.svg** |
-| <a href="feedback-line.svg"><img src="feedback-line.svg" width="200"></a> | **feedback-line.svg** |
-| <a href="message-2-line.svg"><img src="message-2-line.svg" width="200"></a> | **message-2-line.svg** |
-| <a href="message-3-line.svg"><img src="message-3-line.svg" width="200"></a> | **message-3-line.svg** |
-| <a href="message-line.svg"><img src="message-line.svg" width="200"></a> | **message-line.svg** |
-| <a href="question-answer-line.svg"><img src="question-answer-line.svg" width="200"></a> | **question-answer-line.svg** |
-| <a href="questionnaire-line.svg"><img src="questionnaire-line.svg" width="200"></a> | **questionnaire-line.svg** |
-| <a href="video-chat-line.svg"><img src="video-chat-line.svg" width="200"></a> | **video-chat-line.svg** |
+| <a href="chat-1-line.svg"><img src="chat-1-line.svg" width="250" alt="chat-1-line.svg"></a> | **📂 檔名:** `chat-1-line.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `986.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](chat-1-line.svg) |
+| <a href="chat-2-line.svg"><img src="chat-2-line.svg" width="250" alt="chat-2-line.svg"></a> | **📂 檔名:** `chat-2-line.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `657.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](chat-2-line.svg) |
+| <a href="chat-3-line.svg"><img src="chat-3-line.svg" width="250" alt="chat-3-line.svg"></a> | **📂 檔名:** `chat-3-line.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1009.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](chat-3-line.svg) |
+| <a href="chat-4-line.svg"><img src="chat-4-line.svg" width="250" alt="chat-4-line.svg"></a> | **📂 檔名:** `chat-4-line.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `557.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](chat-4-line.svg) |
+| <a href="chat-check-line.svg"><img src="chat-check-line.svg" width="250" alt="chat-check-line.svg"></a> | **📂 檔名:** `chat-check-line.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `648.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](chat-check-line.svg) |
+| <a href="chat-delete-line.svg"><img src="chat-delete-line.svg" width="250" alt="chat-delete-line.svg"></a> | **📂 檔名:** `chat-delete-line.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `709.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](chat-delete-line.svg) |
+| <a href="chat-download-line.svg"><img src="chat-download-line.svg" width="250" alt="chat-download-line.svg"></a> | **📂 檔名:** `chat-download-line.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `591.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](chat-download-line.svg) |
+| <a href="chat-follow-up-line.svg"><img src="chat-follow-up-line.svg" width="250" alt="chat-follow-up-line.svg"></a> | **📂 檔名:** `chat-follow-up-line.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `479.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](chat-follow-up-line.svg) |
+| <a href="chat-forward-line.svg"><img src="chat-forward-line.svg" width="250" alt="chat-forward-line.svg"></a> | **📂 檔名:** `chat-forward-line.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `591.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](chat-forward-line.svg) |
+| <a href="chat-heart-line.svg"><img src="chat-heart-line.svg" width="250" alt="chat-heart-line.svg"></a> | **📂 檔名:** `chat-heart-line.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.24KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](chat-heart-line.svg) |
+| <a href="chat-history-line.svg"><img src="chat-history-line.svg" width="250" alt="chat-history-line.svg"></a> | **📂 檔名:** `chat-history-line.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `642.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](chat-history-line.svg) |
+| <a href="chat-new-line.svg"><img src="chat-new-line.svg" width="250" alt="chat-new-line.svg"></a> | **📂 檔名:** `chat-new-line.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `511.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](chat-new-line.svg) |
+| <a href="chat-off-line.svg"><img src="chat-off-line.svg" width="250" alt="chat-off-line.svg"></a> | **📂 檔名:** `chat-off-line.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `729.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](chat-off-line.svg) |
+| <a href="chat-poll-line.svg"><img src="chat-poll-line.svg" width="250" alt="chat-poll-line.svg"></a> | **📂 檔名:** `chat-poll-line.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `448.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](chat-poll-line.svg) |
+| <a href="chat-private-line.svg"><img src="chat-private-line.svg" width="250" alt="chat-private-line.svg"></a> | **📂 檔名:** `chat-private-line.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `770.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](chat-private-line.svg) |
+| <a href="chat-quote-line.svg"><img src="chat-quote-line.svg" width="250" alt="chat-quote-line.svg"></a> | **📂 檔名:** `chat-quote-line.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `979.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](chat-quote-line.svg) |
+| <a href="chat-settings-line.svg"><img src="chat-settings-line.svg" width="250" alt="chat-settings-line.svg"></a> | **📂 檔名:** `chat-settings-line.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.21KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](chat-settings-line.svg) |
+| <a href="chat-smile-2-line.svg"><img src="chat-smile-2-line.svg" width="250" alt="chat-smile-2-line.svg"></a> | **📂 檔名:** `chat-smile-2-line.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.32KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](chat-smile-2-line.svg) |
+| <a href="chat-smile-3-line.svg"><img src="chat-smile-3-line.svg" width="250" alt="chat-smile-3-line.svg"></a> | **📂 檔名:** `chat-smile-3-line.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.08KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](chat-smile-3-line.svg) |
+| <a href="chat-smile-line.svg"><img src="chat-smile-line.svg" width="250" alt="chat-smile-line.svg"></a> | **📂 檔名:** `chat-smile-line.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `871.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](chat-smile-line.svg) |
+| <a href="chat-upload-line.svg"><img src="chat-upload-line.svg" width="250" alt="chat-upload-line.svg"></a> | **📂 檔名:** `chat-upload-line.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `591.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](chat-upload-line.svg) |
+| <a href="chat-voice-line.svg"><img src="chat-voice-line.svg" width="250" alt="chat-voice-line.svg"></a> | **📂 檔名:** `chat-voice-line.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `997.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](chat-voice-line.svg) |
+| <a href="discuss-line.svg"><img src="discuss-line.svg" width="250" alt="discuss-line.svg"></a> | **📂 檔名:** `discuss-line.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `772.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](discuss-line.svg) |
+| <a href="feedback-line.svg"><img src="feedback-line.svg" width="250" alt="feedback-line.svg"></a> | **📂 檔名:** `feedback-line.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `595.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](feedback-line.svg) |
+| <a href="message-2-line.svg"><img src="message-2-line.svg" width="250" alt="message-2-line.svg"></a> | **📂 檔名:** `message-2-line.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `613.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](message-2-line.svg) |
+| <a href="message-3-line.svg"><img src="message-3-line.svg" width="250" alt="message-3-line.svg"></a> | **📂 檔名:** `message-3-line.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `969.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](message-3-line.svg) |
+| <a href="message-line.svg"><img src="message-line.svg" width="250" alt="message-line.svg"></a> | **📂 檔名:** `message-line.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `574.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](message-line.svg) |
+| <a href="question-answer-line.svg"><img src="question-answer-line.svg" width="250" alt="question-answer-line.svg"></a> | **📂 檔名:** `question-answer-line.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `677.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](question-answer-line.svg) |
+| <a href="questionnaire-line.svg"><img src="questionnaire-line.svg" width="250" alt="questionnaire-line.svg"></a> | **📂 檔名:** `questionnaire-line.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.31KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](questionnaire-line.svg) |
+| <a href="video-chat-line.svg"><img src="video-chat-line.svg" width="250" alt="video-chat-line.svg"></a> | **📂 檔名:** `video-chat-line.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `602.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](video-chat-line.svg) |

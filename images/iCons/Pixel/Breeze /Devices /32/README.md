@@ -1,13 +1,15 @@
-# 🖼️ 32
+# 🖼️ 素材分類：32
 
-[⬅️ 返回主目錄](../../../../../../README.md)
+> [🏠 主目錄](../../../../../../README.md) / **32**
 
-| 預覽 | 資訊 |
+本目錄共有 `7` 個檔案
+
+| 🎨 預覽 (點擊放大) | 📋 檔案詳細資訊 |
 | :--- | :--- |
-| <a href="drive-harddisk-symbolic.svg"><img src="drive-harddisk-symbolic.svg" width="200"></a> | **drive-harddisk-symbolic.svg** |
-| <a href="input-keyboard-symbolic.svg"><img src="input-keyboard-symbolic.svg" width="200"></a> | **input-keyboard-symbolic.svg** |
-| <a href="input-mouse-battery-symbolic.svg"><img src="input-mouse-battery-symbolic.svg" width="200"></a> | **input-mouse-battery-symbolic.svg** |
-| <a href="phone-apple-iphone-symbolic.svg"><img src="phone-apple-iphone-symbolic.svg" width="200"></a> | **phone-apple-iphone-symbolic.svg** |
-| <a href="phone-battery.svg"><img src="phone-battery.svg" width="200"></a> | **phone-battery.svg** |
-| <a href="phone-symbolic.svg"><img src="phone-symbolic.svg" width="200"></a> | **phone-symbolic.svg** |
-| <a href="video-display-brightness-symbolic.svg"><img src="video-display-brightness-symbolic.svg" width="200"></a> | **video-display-brightness-symbolic.svg** |
+| <a href="drive-harddisk-symbolic.svg"><img src="drive-harddisk-symbolic.svg" width="250" alt="drive-harddisk-symbolic.svg"></a> | **📂 檔名:** `drive-harddisk-symbolic.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.06KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](drive-harddisk-symbolic.svg) |
+| <a href="input-keyboard-symbolic.svg"><img src="input-keyboard-symbolic.svg" width="250" alt="input-keyboard-symbolic.svg"></a> | **📂 檔名:** `input-keyboard-symbolic.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `3.21KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](input-keyboard-symbolic.svg) |
+| <a href="input-mouse-battery-symbolic.svg"><img src="input-mouse-battery-symbolic.svg" width="250" alt="input-mouse-battery-symbolic.svg"></a> | **📂 檔名:** `input-mouse-battery-symbolic.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.61KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](input-mouse-battery-symbolic.svg) |
+| <a href="phone-apple-iphone-symbolic.svg"><img src="phone-apple-iphone-symbolic.svg" width="250" alt="phone-apple-iphone-symbolic.svg"></a> | **📂 檔名:** `phone-apple-iphone-symbolic.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `829.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](phone-apple-iphone-symbolic.svg) |
+| <a href="phone-battery.svg"><img src="phone-battery.svg" width="250" alt="phone-battery.svg"></a> | **📂 檔名:** `phone-battery.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `742.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](phone-battery.svg) |
+| <a href="phone-symbolic.svg"><img src="phone-symbolic.svg" width="250" alt="phone-symbolic.svg"></a> | **📂 檔名:** `phone-symbolic.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.32KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](phone-symbolic.svg) |
+| <a href="video-display-brightness-symbolic.svg"><img src="video-display-brightness-symbolic.svg" width="250" alt="video-display-brightness-symbolic.svg"></a> | **📂 檔名:** `video-display-brightness-symbolic.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `3.76KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](video-display-brightness-symbolic.svg) |

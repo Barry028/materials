@@ -1,18 +1,20 @@
-# 🖼️ devices
+# 🖼️ 素材分類：devices
 
-[⬅️ 返回主目錄](../../../../README.md)
+> [🏠 主目錄](../../../../README.md) / **devices**
 
-| 預覽 | 資訊 |
+本目錄共有 `12` 個檔案
+
+| 🎨 預覽 (點擊放大) | 📋 檔案詳細資訊 |
 | :--- | :--- |
-| <a href="battery.svg"><img src="battery.svg" width="200"></a> | **battery.svg** |
-| <a href="drive-harddisk-encrypted.svg"><img src="drive-harddisk-encrypted.svg" width="200"></a> | **drive-harddisk-encrypted.svg** |
-| <a href="drive-harddisk-root.svg"><img src="drive-harddisk-root.svg" width="200"></a> | **drive-harddisk-root.svg** |
-| <a href="drive-harddisk.svg"><img src="drive-harddisk.svg" width="200"></a> | **drive-harddisk.svg** |
-| <a href="drive-multidisk.svg"><img src="drive-multidisk.svg" width="200"></a> | **drive-multidisk.svg** |
-| <a href="drive-multipartition.svg"><img src="drive-multipartition.svg" width="200"></a> | **drive-multipartition.svg** |
-| <a href="drive-partition.svg"><img src="drive-partition.svg" width="200"></a> | **drive-partition.svg** |
-| <a href="drive-removable-media.svg"><img src="drive-removable-media.svg" width="200"></a> | **drive-removable-media.svg** |
-| <a href="input-keyboard.svg"><img src="input-keyboard.svg" width="200"></a> | **input-keyboard.svg** |
-| <a href="input-mouse.svg"><img src="input-mouse.svg" width="200"></a> | **input-mouse.svg** |
-| <a href="media-optical.svg"><img src="media-optical.svg" width="200"></a> | **media-optical.svg** |
-| <a href="smartphone.svg"><img src="smartphone.svg" width="200"></a> | **smartphone.svg** |
+| <a href="battery.svg"><img src="battery.svg" width="250" alt="battery.svg"></a> | **📂 檔名:** `battery.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.01KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](battery.svg) |
+| <a href="drive-harddisk-encrypted.svg"><img src="drive-harddisk-encrypted.svg" width="250" alt="drive-harddisk-encrypted.svg"></a> | **📂 檔名:** `drive-harddisk-encrypted.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `4.85KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](drive-harddisk-encrypted.svg) |
+| <a href="drive-harddisk-root.svg"><img src="drive-harddisk-root.svg" width="250" alt="drive-harddisk-root.svg"></a> | **📂 檔名:** `drive-harddisk-root.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `2.11KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](drive-harddisk-root.svg) |
+| <a href="drive-harddisk.svg"><img src="drive-harddisk.svg" width="250" alt="drive-harddisk.svg"></a> | **📂 檔名:** `drive-harddisk.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `3.56KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](drive-harddisk.svg) |
+| <a href="drive-multidisk.svg"><img src="drive-multidisk.svg" width="250" alt="drive-multidisk.svg"></a> | **📂 檔名:** `drive-multidisk.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `5.50KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](drive-multidisk.svg) |
+| <a href="drive-multipartition.svg"><img src="drive-multipartition.svg" width="250" alt="drive-multipartition.svg"></a> | **📂 檔名:** `drive-multipartition.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.93KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](drive-multipartition.svg) |
+| <a href="drive-partition.svg"><img src="drive-partition.svg" width="250" alt="drive-partition.svg"></a> | **📂 檔名:** `drive-partition.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `2.00KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](drive-partition.svg) |
+| <a href="drive-removable-media.svg"><img src="drive-removable-media.svg" width="250" alt="drive-removable-media.svg"></a> | **📂 檔名:** `drive-removable-media.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `2.99KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](drive-removable-media.svg) |
+| <a href="input-keyboard.svg"><img src="input-keyboard.svg" width="250" alt="input-keyboard.svg"></a> | **📂 檔名:** `input-keyboard.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `3.97KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](input-keyboard.svg) |
+| <a href="input-mouse.svg"><img src="input-mouse.svg" width="250" alt="input-mouse.svg"></a> | **📂 檔名:** `input-mouse.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `2.29KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](input-mouse.svg) |
+| <a href="media-optical.svg"><img src="media-optical.svg" width="250" alt="media-optical.svg"></a> | **📂 檔名:** `media-optical.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `3.49KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](media-optical.svg) |
+| <a href="smartphone.svg"><img src="smartphone.svg" width="250" alt="smartphone.svg"></a> | **📂 檔名:** `smartphone.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.66KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](smartphone.svg) |

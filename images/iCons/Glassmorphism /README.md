@@ -1,39 +1,41 @@
-# 🖼️ Glassmorphism 
+# 🖼️ 素材分類：Glassmorphism 
 
-[⬅️ 返回主目錄](../../../README.md)
+> [🏠 主目錄](../../../README.md) / **Glassmorphism **
 
-| 預覽 | 資訊 |
+本目錄共有 `33` 個檔案
+
+| 🎨 預覽 (點擊放大) | 📋 檔案詳細資訊 |
 | :--- | :--- |
-| <a href="Icon_%3DApple.svg"><img src="Icon_%3DApple.svg" width="200"></a> | **Icon_=Apple.svg** |
-| <a href="Icon_%3DArrow.svg"><img src="Icon_%3DArrow.svg" width="200"></a> | **Icon_=Arrow.svg** |
-| <a href="Icon_%3DAvatar.svg"><img src="Icon_%3DAvatar.svg" width="200"></a> | **Icon_=Avatar.svg** |
-| <a href="Icon_%3DCalculator.svg"><img src="Icon_%3DCalculator.svg" width="200"></a> | **Icon_=Calculator.svg** |
-| <a href="Icon_%3DCalendar.svg"><img src="Icon_%3DCalendar.svg" width="200"></a> | **Icon_=Calendar.svg** |
-| <a href="Icon_%3DClock.svg"><img src="Icon_%3DClock.svg" width="200"></a> | **Icon_=Clock.svg** |
-| <a href="Icon_%3DCloud.svg"><img src="Icon_%3DCloud.svg" width="200"></a> | **Icon_=Cloud.svg** |
-| <a href="Icon_%3DController.svg"><img src="Icon_%3DController.svg" width="200"></a> | **Icon_=Controller.svg** |
-| <a href="Icon_%3DConversation.svg"><img src="Icon_%3DConversation.svg" width="200"></a> | **Icon_=Conversation.svg** |
-| <a href="Icon_%3DCrescent.svg"><img src="Icon_%3DCrescent.svg" width="200"></a> | **Icon_=Crescent.svg** |
-| <a href="Icon_%3DFingerprint.svg"><img src="Icon_%3DFingerprint.svg" width="200"></a> | **Icon_=Fingerprint.svg** |
-| <a href="Icon_%3DFolder.svg"><img src="Icon_%3DFolder.svg" width="200"></a> | **Icon_=Folder.svg** |
-| <a href="Icon_%3DForward.svg"><img src="Icon_%3DForward.svg" width="200"></a> | **Icon_=Forward.svg** |
-| <a href="Icon_%3DHeadphones.svg"><img src="Icon_%3DHeadphones.svg" width="200"></a> | **Icon_=Headphones.svg** |
-| <a href="Icon_%3DHouse.svg"><img src="Icon_%3DHouse.svg" width="200"></a> | **Icon_=House.svg** |
-| <a href="Icon_%3DKey.svg"><img src="Icon_%3DKey.svg" width="200"></a> | **Icon_=Key.svg** |
-| <a href="Icon_%3DLayers.svg"><img src="Icon_%3DLayers.svg" width="200"></a> | **Icon_=Layers.svg** |
-| <a href="Icon_%3DLike.svg"><img src="Icon_%3DLike.svg" width="200"></a> | **Icon_=Like.svg** |
-| <a href="Icon_%3DLock.svg"><img src="Icon_%3DLock.svg" width="200"></a> | **Icon_=Lock.svg** |
-| <a href="Icon_%3DMagnifier.svg"><img src="Icon_%3DMagnifier.svg" width="200"></a> | **Icon_=Magnifier.svg** |
-| <a href="Icon_%3DMap.svg"><img src="Icon_%3DMap.svg" width="200"></a> | **Icon_=Map.svg** |
-| <a href="Icon_%3DMastercard.svg"><img src="Icon_%3DMastercard.svg" width="200"></a> | **Icon_=Mastercard.svg** |
-| <a href="Icon_%3DMovie.svg"><img src="Icon_%3DMovie.svg" width="200"></a> | **Icon_=Movie.svg** |
-| <a href="Icon_%3DNote.svg"><img src="Icon_%3DNote.svg" width="200"></a> | **Icon_=Note.svg** |
-| <a href="Icon_%3DPacman.svg"><img src="Icon_%3DPacman.svg" width="200"></a> | **Icon_=Pacman.svg** |
-| <a href="Icon_%3DPen.svg"><img src="Icon_%3DPen.svg" width="200"></a> | **Icon_=Pen.svg** |
-| <a href="Icon_%3DPin.svg"><img src="Icon_%3DPin.svg" width="200"></a> | **Icon_=Pin.svg** |
-| <a href="Icon_%3DRain.svg"><img src="Icon_%3DRain.svg" width="200"></a> | **Icon_=Rain.svg** |
-| <a href="Icon_%3DRoll.svg"><img src="Icon_%3DRoll.svg" width="200"></a> | **Icon_=Roll.svg** |
-| <a href="Icon_%3DTag.svg"><img src="Icon_%3DTag.svg" width="200"></a> | **Icon_=Tag.svg** |
-| <a href="Icon_%3DToggle.svg"><img src="Icon_%3DToggle.svg" width="200"></a> | **Icon_=Toggle.svg** |
-| <a href="Icon_%3DWallet.svg"><img src="Icon_%3DWallet.svg" width="200"></a> | **Icon_=Wallet.svg** |
-| <a href="Icon_%3DWindows.svg"><img src="Icon_%3DWindows.svg" width="200"></a> | **Icon_=Windows.svg** |
+| <a href="Icon_%3DApple.svg"><img src="Icon_%3DApple.svg" width="250" alt="Icon_=Apple.svg"></a> | **📂 檔名:** `Icon_=Apple.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `11.33KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Icon_%3DApple.svg) |
+| <a href="Icon_%3DArrow.svg"><img src="Icon_%3DArrow.svg" width="250" alt="Icon_=Arrow.svg"></a> | **📂 檔名:** `Icon_=Arrow.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `3.47KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Icon_%3DArrow.svg) |
+| <a href="Icon_%3DAvatar.svg"><img src="Icon_%3DAvatar.svg" width="250" alt="Icon_=Avatar.svg"></a> | **📂 檔名:** `Icon_=Avatar.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `4.10KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Icon_%3DAvatar.svg) |
+| <a href="Icon_%3DCalculator.svg"><img src="Icon_%3DCalculator.svg" width="250" alt="Icon_=Calculator.svg"></a> | **📂 檔名:** `Icon_=Calculator.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `3.90KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Icon_%3DCalculator.svg) |
+| <a href="Icon_%3DCalendar.svg"><img src="Icon_%3DCalendar.svg" width="250" alt="Icon_=Calendar.svg"></a> | **📂 檔名:** `Icon_=Calendar.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `4.53KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Icon_%3DCalendar.svg) |
+| <a href="Icon_%3DClock.svg"><img src="Icon_%3DClock.svg" width="250" alt="Icon_=Clock.svg"></a> | **📂 檔名:** `Icon_=Clock.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `4.30KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Icon_%3DClock.svg) |
+| <a href="Icon_%3DCloud.svg"><img src="Icon_%3DCloud.svg" width="250" alt="Icon_=Cloud.svg"></a> | **📂 檔名:** `Icon_=Cloud.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `52.19KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Icon_%3DCloud.svg) |
+| <a href="Icon_%3DController.svg"><img src="Icon_%3DController.svg" width="250" alt="Icon_=Controller.svg"></a> | **📂 檔名:** `Icon_=Controller.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `4.13KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Icon_%3DController.svg) |
+| <a href="Icon_%3DConversation.svg"><img src="Icon_%3DConversation.svg" width="250" alt="Icon_=Conversation.svg"></a> | **📂 檔名:** `Icon_=Conversation.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `4.03KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Icon_%3DConversation.svg) |
+| <a href="Icon_%3DCrescent.svg"><img src="Icon_%3DCrescent.svg" width="250" alt="Icon_=Crescent.svg"></a> | **📂 檔名:** `Icon_=Crescent.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `7.06KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Icon_%3DCrescent.svg) |
+| <a href="Icon_%3DFingerprint.svg"><img src="Icon_%3DFingerprint.svg" width="250" alt="Icon_=Fingerprint.svg"></a> | **📂 檔名:** `Icon_=Fingerprint.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `29.58KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Icon_%3DFingerprint.svg) |
+| <a href="Icon_%3DFolder.svg"><img src="Icon_%3DFolder.svg" width="250" alt="Icon_=Folder.svg"></a> | **📂 檔名:** `Icon_=Folder.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `4.56KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Icon_%3DFolder.svg) |
+| <a href="Icon_%3DForward.svg"><img src="Icon_%3DForward.svg" width="250" alt="Icon_=Forward.svg"></a> | **📂 檔名:** `Icon_=Forward.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `3.58KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Icon_%3DForward.svg) |
+| <a href="Icon_%3DHeadphones.svg"><img src="Icon_%3DHeadphones.svg" width="250" alt="Icon_=Headphones.svg"></a> | **📂 檔名:** `Icon_=Headphones.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `4.82KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Icon_%3DHeadphones.svg) |
+| <a href="Icon_%3DHouse.svg"><img src="Icon_%3DHouse.svg" width="250" alt="Icon_=House.svg"></a> | **📂 檔名:** `Icon_=House.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `5.85KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Icon_%3DHouse.svg) |
+| <a href="Icon_%3DKey.svg"><img src="Icon_%3DKey.svg" width="250" alt="Icon_=Key.svg"></a> | **📂 檔名:** `Icon_=Key.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `5.78KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Icon_%3DKey.svg) |
+| <a href="Icon_%3DLayers.svg"><img src="Icon_%3DLayers.svg" width="250" alt="Icon_=Layers.svg"></a> | **📂 檔名:** `Icon_=Layers.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `8.28KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Icon_%3DLayers.svg) |
+| <a href="Icon_%3DLike.svg"><img src="Icon_%3DLike.svg" width="250" alt="Icon_=Like.svg"></a> | **📂 檔名:** `Icon_=Like.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `6.39KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Icon_%3DLike.svg) |
+| <a href="Icon_%3DLock.svg"><img src="Icon_%3DLock.svg" width="250" alt="Icon_=Lock.svg"></a> | **📂 檔名:** `Icon_=Lock.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `6.40KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Icon_%3DLock.svg) |
+| <a href="Icon_%3DMagnifier.svg"><img src="Icon_%3DMagnifier.svg" width="250" alt="Icon_=Magnifier.svg"></a> | **📂 檔名:** `Icon_=Magnifier.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `5.06KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Icon_%3DMagnifier.svg) |
+| <a href="Icon_%3DMap.svg"><img src="Icon_%3DMap.svg" width="250" alt="Icon_=Map.svg"></a> | **📂 檔名:** `Icon_=Map.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `5.27KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Icon_%3DMap.svg) |
+| <a href="Icon_%3DMastercard.svg"><img src="Icon_%3DMastercard.svg" width="250" alt="Icon_=Mastercard.svg"></a> | **📂 檔名:** `Icon_=Mastercard.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `3.12KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Icon_%3DMastercard.svg) |
+| <a href="Icon_%3DMovie.svg"><img src="Icon_%3DMovie.svg" width="250" alt="Icon_=Movie.svg"></a> | **📂 檔名:** `Icon_=Movie.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `6.86KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Icon_%3DMovie.svg) |
+| <a href="Icon_%3DNote.svg"><img src="Icon_%3DNote.svg" width="250" alt="Icon_=Note.svg"></a> | **📂 檔名:** `Icon_=Note.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `3.90KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Icon_%3DNote.svg) |
+| <a href="Icon_%3DPacman.svg"><img src="Icon_%3DPacman.svg" width="250" alt="Icon_=Pacman.svg"></a> | **📂 檔名:** `Icon_=Pacman.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `6.06KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Icon_%3DPacman.svg) |
+| <a href="Icon_%3DPen.svg"><img src="Icon_%3DPen.svg" width="250" alt="Icon_=Pen.svg"></a> | **📂 檔名:** `Icon_=Pen.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `4.90KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Icon_%3DPen.svg) |
+| <a href="Icon_%3DPin.svg"><img src="Icon_%3DPin.svg" width="250" alt="Icon_=Pin.svg"></a> | **📂 檔名:** `Icon_=Pin.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `6.70KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Icon_%3DPin.svg) |
+| <a href="Icon_%3DRain.svg"><img src="Icon_%3DRain.svg" width="250" alt="Icon_=Rain.svg"></a> | **📂 檔名:** `Icon_=Rain.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `6.62KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Icon_%3DRain.svg) |
+| <a href="Icon_%3DRoll.svg"><img src="Icon_%3DRoll.svg" width="250" alt="Icon_=Roll.svg"></a> | **📂 檔名:** `Icon_=Roll.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `9.97KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Icon_%3DRoll.svg) |
+| <a href="Icon_%3DTag.svg"><img src="Icon_%3DTag.svg" width="250" alt="Icon_=Tag.svg"></a> | **📂 檔名:** `Icon_=Tag.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `6.59KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Icon_%3DTag.svg) |
+| <a href="Icon_%3DToggle.svg"><img src="Icon_%3DToggle.svg" width="250" alt="Icon_=Toggle.svg"></a> | **📂 檔名:** `Icon_=Toggle.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `4.49KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Icon_%3DToggle.svg) |
+| <a href="Icon_%3DWallet.svg"><img src="Icon_%3DWallet.svg" width="250" alt="Icon_=Wallet.svg"></a> | **📂 檔名:** `Icon_=Wallet.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `5.08KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Icon_%3DWallet.svg) |
+| <a href="Icon_%3DWindows.svg"><img src="Icon_%3DWindows.svg" width="250" alt="Icon_=Windows.svg"></a> | **📂 檔名:** `Icon_=Windows.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `12.12KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Icon_%3DWindows.svg) |

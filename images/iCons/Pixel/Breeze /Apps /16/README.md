@@ -1,29 +1,31 @@
-# 🖼️ 16
+# 🖼️ 素材分類：16
 
-[⬅️ 返回主目錄](../../../../../../README.md)
+> [🏠 主目錄](../../../../../../README.md) / **16**
 
-| 預覽 | 資訊 |
+本目錄共有 `23` 個檔案
+
+| 🎨 預覽 (點擊放大) | 📋 檔案詳細資訊 |
 | :--- | :--- |
-| <a href="anydesk.svg"><img src="anydesk.svg" width="200"></a> | **anydesk.svg** |
-| <a href="elisa-symbolic.svg"><img src="elisa-symbolic.svg" width="200"></a> | **elisa-symbolic.svg** |
-| <a href="hotspot-symbolic.svg"><img src="hotspot-symbolic.svg" width="200"></a> | **hotspot-symbolic.svg** |
-| <a href="kate-symbolic.svg"><img src="kate-symbolic.svg" width="200"></a> | **kate-symbolic.svg** |
-| <a href="kdeconnect-symbolic.svg"><img src="kdeconnect-symbolic.svg" width="200"></a> | **kdeconnect-symbolic.svg** |
-| <a href="kdesrc-build.svg"><img src="kdesrc-build.svg" width="200"></a> | **kdesrc-build.svg** |
-| <a href="kmymoney.svg"><img src="kmymoney.svg" width="200"></a> | **kmymoney.svg** |
-| <a href="konversation.svg"><img src="konversation.svg" width="200"></a> | **konversation.svg** |
-| <a href="kwrite.svg"><img src="kwrite.svg" width="200"></a> | **kwrite.svg** |
-| <a href="libreoffice-base.svg"><img src="libreoffice-base.svg" width="200"></a> | **libreoffice-base.svg** |
-| <a href="libreoffice-calc.svg"><img src="libreoffice-calc.svg" width="200"></a> | **libreoffice-calc.svg** |
-| <a href="libreoffice-draw.svg"><img src="libreoffice-draw.svg" width="200"></a> | **libreoffice-draw.svg** |
-| <a href="libreoffice-impress.svg"><img src="libreoffice-impress.svg" width="200"></a> | **libreoffice-impress.svg** |
-| <a href="libreoffice-main.svg"><img src="libreoffice-main.svg" width="200"></a> | **libreoffice-main.svg** |
-| <a href="libreoffice-math.svg"><img src="libreoffice-math.svg" width="200"></a> | **libreoffice-math.svg** |
-| <a href="libreoffice-writer.svg"><img src="libreoffice-writer.svg" width="200"></a> | **libreoffice-writer.svg** |
-| <a href="plasmavault-symbolic.svg"><img src="plasmavault-symbolic.svg" width="200"></a> | **plasmavault-symbolic.svg** |
-| <a href="system-file-manager.svg"><img src="system-file-manager.svg" width="200"></a> | **system-file-manager.svg** |
-| <a href="systemsettings.svg"><img src="systemsettings.svg" width="200"></a> | **systemsettings.svg** |
-| <a href="umbrello.svg"><img src="umbrello.svg" width="200"></a> | **umbrello.svg** |
-| <a href="utilities-terminal.svg"><img src="utilities-terminal.svg" width="200"></a> | **utilities-terminal.svg** |
-| <a href="virt-manager-symbolic.svg"><img src="virt-manager-symbolic.svg" width="200"></a> | **virt-manager-symbolic.svg** |
-| <a href="vvave.svg"><img src="vvave.svg" width="200"></a> | **vvave.svg** |
+| <a href="anydesk.svg"><img src="anydesk.svg" width="250" alt="anydesk.svg"></a> | **📂 檔名:** `anydesk.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `953.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](anydesk.svg) |
+| <a href="elisa-symbolic.svg"><img src="elisa-symbolic.svg" width="250" alt="elisa-symbolic.svg"></a> | **📂 檔名:** `elisa-symbolic.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.08KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](elisa-symbolic.svg) |
+| <a href="hotspot-symbolic.svg"><img src="hotspot-symbolic.svg" width="250" alt="hotspot-symbolic.svg"></a> | **📂 檔名:** `hotspot-symbolic.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.56KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](hotspot-symbolic.svg) |
+| <a href="kate-symbolic.svg"><img src="kate-symbolic.svg" width="250" alt="kate-symbolic.svg"></a> | **📂 檔名:** `kate-symbolic.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `2.26KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](kate-symbolic.svg) |
+| <a href="kdeconnect-symbolic.svg"><img src="kdeconnect-symbolic.svg" width="250" alt="kdeconnect-symbolic.svg"></a> | **📂 檔名:** `kdeconnect-symbolic.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `4.87KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](kdeconnect-symbolic.svg) |
+| <a href="kdesrc-build.svg"><img src="kdesrc-build.svg" width="250" alt="kdesrc-build.svg"></a> | **📂 檔名:** `kdesrc-build.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `6.04KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](kdesrc-build.svg) |
+| <a href="kmymoney.svg"><img src="kmymoney.svg" width="250" alt="kmymoney.svg"></a> | **📂 檔名:** `kmymoney.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `5.10KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](kmymoney.svg) |
+| <a href="konversation.svg"><img src="konversation.svg" width="250" alt="konversation.svg"></a> | **📂 檔名:** `konversation.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.57KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](konversation.svg) |
+| <a href="kwrite.svg"><img src="kwrite.svg" width="250" alt="kwrite.svg"></a> | **📂 檔名:** `kwrite.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `98.45KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](kwrite.svg) |
+| <a href="libreoffice-base.svg"><img src="libreoffice-base.svg" width="250" alt="libreoffice-base.svg"></a> | **📂 檔名:** `libreoffice-base.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.25KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](libreoffice-base.svg) |
+| <a href="libreoffice-calc.svg"><img src="libreoffice-calc.svg" width="250" alt="libreoffice-calc.svg"></a> | **📂 檔名:** `libreoffice-calc.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.25KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](libreoffice-calc.svg) |
+| <a href="libreoffice-draw.svg"><img src="libreoffice-draw.svg" width="250" alt="libreoffice-draw.svg"></a> | **📂 檔名:** `libreoffice-draw.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.47KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](libreoffice-draw.svg) |
+| <a href="libreoffice-impress.svg"><img src="libreoffice-impress.svg" width="250" alt="libreoffice-impress.svg"></a> | **📂 檔名:** `libreoffice-impress.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.24KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](libreoffice-impress.svg) |
+| <a href="libreoffice-main.svg"><img src="libreoffice-main.svg" width="250" alt="libreoffice-main.svg"></a> | **📂 檔名:** `libreoffice-main.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.23KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](libreoffice-main.svg) |
+| <a href="libreoffice-math.svg"><img src="libreoffice-math.svg" width="250" alt="libreoffice-math.svg"></a> | **📂 檔名:** `libreoffice-math.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.49KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](libreoffice-math.svg) |
+| <a href="libreoffice-writer.svg"><img src="libreoffice-writer.svg" width="250" alt="libreoffice-writer.svg"></a> | **📂 檔名:** `libreoffice-writer.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.60KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](libreoffice-writer.svg) |
+| <a href="plasmavault-symbolic.svg"><img src="plasmavault-symbolic.svg" width="250" alt="plasmavault-symbolic.svg"></a> | **📂 檔名:** `plasmavault-symbolic.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `602.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](plasmavault-symbolic.svg) |
+| <a href="system-file-manager.svg"><img src="system-file-manager.svg" width="250" alt="system-file-manager.svg"></a> | **📂 檔名:** `system-file-manager.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `9.03KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](system-file-manager.svg) |
+| <a href="systemsettings.svg"><img src="systemsettings.svg" width="250" alt="systemsettings.svg"></a> | **📂 檔名:** `systemsettings.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `3.76KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](systemsettings.svg) |
+| <a href="umbrello.svg"><img src="umbrello.svg" width="250" alt="umbrello.svg"></a> | **📂 檔名:** `umbrello.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `13.16KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](umbrello.svg) |
+| <a href="utilities-terminal.svg"><img src="utilities-terminal.svg" width="250" alt="utilities-terminal.svg"></a> | **📂 檔名:** `utilities-terminal.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `5.21KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](utilities-terminal.svg) |
+| <a href="virt-manager-symbolic.svg"><img src="virt-manager-symbolic.svg" width="250" alt="virt-manager-symbolic.svg"></a> | **📂 檔名:** `virt-manager-symbolic.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `906.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](virt-manager-symbolic.svg) |
+| <a href="vvave.svg"><img src="vvave.svg" width="250" alt="vvave.svg"></a> | **📂 檔名:** `vvave.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `2.68KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](vvave.svg) |

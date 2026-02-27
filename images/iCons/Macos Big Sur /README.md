@@ -1,76 +1,78 @@
-# 🖼️ Macos Big Sur 
+# 🖼️ 素材分類：Macos Big Sur 
 
-[⬅️ 返回主目錄](../../../README.md)
+> [🏠 主目錄](../../../README.md) / **Macos Big Sur **
 
-| 預覽 | 資訊 |
+本目錄共有 `70` 個檔案
+
+| 🎨 預覽 (點擊放大) | 📋 檔案詳細資訊 |
 | :--- | :--- |
-| <a href="Activity%20Monitor.svg"><img src="Activity%20Monitor.svg" width="200"></a> | **Activity Monitor.svg** |
-| <a href="Airport%20Utility.svg"><img src="Airport%20Utility.svg" width="200"></a> | **Airport Utility.svg** |
-| <a href="App%20Store.svg"><img src="App%20Store.svg" width="200"></a> | **App Store.svg** |
-| <a href="Audio%20MIDI%20Setup.svg"><img src="Audio%20MIDI%20Setup.svg" width="200"></a> | **Audio MIDI Setup.svg** |
-| <a href="Bluetooth%20File%20Exchange.svg"><img src="Bluetooth%20File%20Exchange.svg" width="200"></a> | **Bluetooth File Exchange.svg** |
-| <a href="Books.svg"><img src="Books.svg" width="200"></a> | **Books.svg** |
-| <a href="Calculator.svg"><img src="Calculator.svg" width="200"></a> | **Calculator.svg** |
-| <a href="Calendar.svg"><img src="Calendar.svg" width="200"></a> | **Calendar.svg** |
-| <a href="Chess.svg"><img src="Chess.svg" width="200"></a> | **Chess.svg** |
-| <a href="Clock.svg"><img src="Clock.svg" width="200"></a> | **Clock.svg** |
-| <a href="ColorSync%20Utility.svg"><img src="ColorSync%20Utility.svg" width="200"></a> | **ColorSync Utility.svg** |
-| <a href="Console.svg"><img src="Console.svg" width="200"></a> | **Console.svg** |
-| <a href="Contacts.svg"><img src="Contacts.svg" width="200"></a> | **Contacts.svg** |
-| <a href="Dictionary.svg"><img src="Dictionary.svg" width="200"></a> | **Dictionary.svg** |
-| <a href="Digital%20Color%20Meter.svg"><img src="Digital%20Color%20Meter.svg" width="200"></a> | **Digital Color Meter.svg** |
-| <a href="Disk%20Utility.svg"><img src="Disk%20Utility.svg" width="200"></a> | **Disk Utility.svg** |
-| <a href="Document.svg"><img src="Document.svg" width="200"></a> | **Document.svg** |
-| <a href="FaceTime.svg"><img src="FaceTime.svg" width="200"></a> | **FaceTime.svg** |
-| <a href="Figma.svg"><img src="Figma.svg" width="200"></a> | **Figma.svg** |
-| <a href="Final%20Cut%20Pro.svg"><img src="Final%20Cut%20Pro.svg" width="200"></a> | **Final Cut Pro.svg** |
-| <a href="Find%20My.svg"><img src="Find%20My.svg" width="200"></a> | **Find My.svg** |
-| <a href="Finder.svg"><img src="Finder.svg" width="200"></a> | **Finder.svg** |
-| <a href="Folder.svg"><img src="Folder.svg" width="200"></a> | **Folder.svg** |
-| <a href="Font%20Book.svg"><img src="Font%20Book.svg" width="200"></a> | **Font Book.svg** |
-| <a href="Freeform.svg"><img src="Freeform.svg" width="200"></a> | **Freeform.svg** |
-| <a href="GarageBand.svg"><img src="GarageBand.svg" width="200"></a> | **GarageBand.svg** |
-| <a href="Grapher.svg"><img src="Grapher.svg" width="200"></a> | **Grapher.svg** |
-| <a href="Home.svg"><img src="Home.svg" width="200"></a> | **Home.svg** |
-| <a href="Image%20Capture.svg"><img src="Image%20Capture.svg" width="200"></a> | **Image Capture.svg** |
-| <a href="Keychain%20Access.svg"><img src="Keychain%20Access.svg" width="200"></a> | **Keychain Access.svg** |
-| <a href="Keynote.svg"><img src="Keynote.svg" width="200"></a> | **Keynote.svg** |
-| <a href="Launchpad.svg"><img src="Launchpad.svg" width="200"></a> | **Launchpad.svg** |
-| <a href="Mail.svg"><img src="Mail.svg" width="200"></a> | **Mail.svg** |
-| <a href="Maps.svg"><img src="Maps.svg" width="200"></a> | **Maps.svg** |
-| <a href="Messages.svg"><img src="Messages.svg" width="200"></a> | **Messages.svg** |
-| <a href="Migration%20Assistant.svg"><img src="Migration%20Assistant.svg" width="200"></a> | **Migration Assistant.svg** |
-| <a href="Mission%20Control.svg"><img src="Mission%20Control.svg" width="200"></a> | **Mission Control.svg** |
-| <a href="Music.svg"><img src="Music.svg" width="200"></a> | **Music.svg** |
-| <a href="News.svg"><img src="News.svg" width="200"></a> | **News.svg** |
-| <a href="No%20App.svg"><img src="No%20App.svg" width="200"></a> | **No App.svg** |
-| <a href="Notes.svg"><img src="Notes.svg" width="200"></a> | **Notes.svg** |
-| <a href="Numbers.svg"><img src="Numbers.svg" width="200"></a> | **Numbers.svg** |
-| <a href="Pages.svg"><img src="Pages.svg" width="200"></a> | **Pages.svg** |
-| <a href="Photo%20Booth.svg"><img src="Photo%20Booth.svg" width="200"></a> | **Photo Booth.svg** |
-| <a href="Photos.svg"><img src="Photos.svg" width="200"></a> | **Photos.svg** |
-| <a href="Podcasts.svg"><img src="Podcasts.svg" width="200"></a> | **Podcasts.svg** |
-| <a href="Preview.svg"><img src="Preview.svg" width="200"></a> | **Preview.svg** |
-| <a href="QuickTime%20Player.svg"><img src="QuickTime%20Player.svg" width="200"></a> | **QuickTime Player.svg** |
-| <a href="Reminders.svg"><img src="Reminders.svg" width="200"></a> | **Reminders.svg** |
-| <a href="Safari.svg"><img src="Safari.svg" width="200"></a> | **Safari.svg** |
-| <a href="Screenshot.svg"><img src="Screenshot.svg" width="200"></a> | **Screenshot.svg** |
-| <a href="Script%20Editor.svg"><img src="Script%20Editor.svg" width="200"></a> | **Script Editor.svg** |
-| <a href="Settings.svg"><img src="Settings.svg" width="200"></a> | **Settings.svg** |
-| <a href="Shortcuts.svg"><img src="Shortcuts.svg" width="200"></a> | **Shortcuts.svg** |
-| <a href="Siri.svg"><img src="Siri.svg" width="200"></a> | **Siri.svg** |
-| <a href="Stickies.svg"><img src="Stickies.svg" width="200"></a> | **Stickies.svg** |
-| <a href="Stocks.svg"><img src="Stocks.svg" width="200"></a> | **Stocks.svg** |
-| <a href="Swift%20Playgrounds.svg"><img src="Swift%20Playgrounds.svg" width="200"></a> | **Swift Playgrounds.svg** |
-| <a href="System%20Information.svg"><img src="System%20Information.svg" width="200"></a> | **System Information.svg** |
-| <a href="TV.svg"><img src="TV.svg" width="200"></a> | **TV.svg** |
-| <a href="Terminal.svg"><img src="Terminal.svg" width="200"></a> | **Terminal.svg** |
-| <a href="TextEdit.svg"><img src="TextEdit.svg" width="200"></a> | **TextEdit.svg** |
-| <a href="Time%20Machine.svg"><img src="Time%20Machine.svg" width="200"></a> | **Time Machine.svg** |
-| <a href="Trash%20Empty.svg"><img src="Trash%20Empty.svg" width="200"></a> | **Trash Empty.svg** |
-| <a href="Trash%20Full.svg"><img src="Trash%20Full.svg" width="200"></a> | **Trash Full.svg** |
-| <a href="Voice%20Memos.svg"><img src="Voice%20Memos.svg" width="200"></a> | **Voice Memos.svg** |
-| <a href="VoiceOver%20Utility.svg"><img src="VoiceOver%20Utility.svg" width="200"></a> | **VoiceOver Utility.svg** |
-| <a href="Weather.svg"><img src="Weather.svg" width="200"></a> | **Weather.svg** |
-| <a href="Xcode.svg"><img src="Xcode.svg" width="200"></a> | **Xcode.svg** |
-| <a href="iMovie.svg"><img src="iMovie.svg" width="200"></a> | **iMovie.svg** |
+| <a href="Activity%20Monitor.svg"><img src="Activity%20Monitor.svg" width="250" alt="Activity Monitor.svg"></a> | **📂 檔名:** `Activity Monitor.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.00MB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Activity%20Monitor.svg) |
+| <a href="Airport%20Utility.svg"><img src="Airport%20Utility.svg" width="250" alt="Airport Utility.svg"></a> | **📂 檔名:** `Airport Utility.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `895.73KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Airport%20Utility.svg) |
+| <a href="App%20Store.svg"><img src="App%20Store.svg" width="250" alt="App Store.svg"></a> | **📂 檔名:** `App Store.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `935.45KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](App%20Store.svg) |
+| <a href="Audio%20MIDI%20Setup.svg"><img src="Audio%20MIDI%20Setup.svg" width="250" alt="Audio MIDI Setup.svg"></a> | **📂 檔名:** `Audio MIDI Setup.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `840.21KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Audio%20MIDI%20Setup.svg) |
+| <a href="Bluetooth%20File%20Exchange.svg"><img src="Bluetooth%20File%20Exchange.svg" width="250" alt="Bluetooth File Exchange.svg"></a> | **📂 檔名:** `Bluetooth File Exchange.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `868.19KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Bluetooth%20File%20Exchange.svg) |
+| <a href="Books.svg"><img src="Books.svg" width="250" alt="Books.svg"></a> | **📂 檔名:** `Books.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `748.81KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Books.svg) |
+| <a href="Calculator.svg"><img src="Calculator.svg" width="250" alt="Calculator.svg"></a> | **📂 檔名:** `Calculator.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `395.19KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Calculator.svg) |
+| <a href="Calendar.svg"><img src="Calendar.svg" width="250" alt="Calendar.svg"></a> | **📂 檔名:** `Calendar.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.04MB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Calendar.svg) |
+| <a href="Chess.svg"><img src="Chess.svg" width="250" alt="Chess.svg"></a> | **📂 檔名:** `Chess.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.13MB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Chess.svg) |
+| <a href="Clock.svg"><img src="Clock.svg" width="250" alt="Clock.svg"></a> | **📂 檔名:** `Clock.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `358.39KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Clock.svg) |
+| <a href="ColorSync%20Utility.svg"><img src="ColorSync%20Utility.svg" width="250" alt="ColorSync Utility.svg"></a> | **📂 檔名:** `ColorSync Utility.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `781.66KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](ColorSync%20Utility.svg) |
+| <a href="Console.svg"><img src="Console.svg" width="250" alt="Console.svg"></a> | **📂 檔名:** `Console.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `116.34KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Console.svg) |
+| <a href="Contacts.svg"><img src="Contacts.svg" width="250" alt="Contacts.svg"></a> | **📂 檔名:** `Contacts.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.13MB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Contacts.svg) |
+| <a href="Dictionary.svg"><img src="Dictionary.svg" width="250" alt="Dictionary.svg"></a> | **📂 檔名:** `Dictionary.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.00MB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Dictionary.svg) |
+| <a href="Digital%20Color%20Meter.svg"><img src="Digital%20Color%20Meter.svg" width="250" alt="Digital Color Meter.svg"></a> | **📂 檔名:** `Digital Color Meter.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `803.00KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Digital%20Color%20Meter.svg) |
+| <a href="Disk%20Utility.svg"><img src="Disk%20Utility.svg" width="250" alt="Disk Utility.svg"></a> | **📂 檔名:** `Disk Utility.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.11MB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Disk%20Utility.svg) |
+| <a href="Document.svg"><img src="Document.svg" width="250" alt="Document.svg"></a> | **📂 檔名:** `Document.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `510.08KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Document.svg) |
+| <a href="FaceTime.svg"><img src="FaceTime.svg" width="250" alt="FaceTime.svg"></a> | **📂 檔名:** `FaceTime.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `876.38KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](FaceTime.svg) |
+| <a href="Figma.svg"><img src="Figma.svg" width="250" alt="Figma.svg"></a> | **📂 檔名:** `Figma.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `639.42KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Figma.svg) |
+| <a href="Final%20Cut%20Pro.svg"><img src="Final%20Cut%20Pro.svg" width="250" alt="Final Cut Pro.svg"></a> | **📂 檔名:** `Final Cut Pro.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.15MB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Final%20Cut%20Pro.svg) |
+| <a href="Find%20My.svg"><img src="Find%20My.svg" width="250" alt="Find My.svg"></a> | **📂 檔名:** `Find My.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `489.90KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Find%20My.svg) |
+| <a href="Finder.svg"><img src="Finder.svg" width="250" alt="Finder.svg"></a> | **📂 檔名:** `Finder.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `897.38KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Finder.svg) |
+| <a href="Folder.svg"><img src="Folder.svg" width="250" alt="Folder.svg"></a> | **📂 檔名:** `Folder.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.15MB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Folder.svg) |
+| <a href="Font%20Book.svg"><img src="Font%20Book.svg" width="250" alt="Font Book.svg"></a> | **📂 檔名:** `Font Book.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.24MB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Font%20Book.svg) |
+| <a href="Freeform.svg"><img src="Freeform.svg" width="250" alt="Freeform.svg"></a> | **📂 檔名:** `Freeform.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `503.81KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Freeform.svg) |
+| <a href="GarageBand.svg"><img src="GarageBand.svg" width="250" alt="GarageBand.svg"></a> | **📂 檔名:** `GarageBand.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.59MB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](GarageBand.svg) |
+| <a href="Grapher.svg"><img src="Grapher.svg" width="250" alt="Grapher.svg"></a> | **📂 檔名:** `Grapher.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.31MB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Grapher.svg) |
+| <a href="Home.svg"><img src="Home.svg" width="250" alt="Home.svg"></a> | **📂 檔名:** `Home.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `696.94KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Home.svg) |
+| <a href="Image%20Capture.svg"><img src="Image%20Capture.svg" width="250" alt="Image Capture.svg"></a> | **📂 檔名:** `Image Capture.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.21MB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Image%20Capture.svg) |
+| <a href="Keychain%20Access.svg"><img src="Keychain%20Access.svg" width="250" alt="Keychain Access.svg"></a> | **📂 檔名:** `Keychain Access.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `462.90KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Keychain%20Access.svg) |
+| <a href="Keynote.svg"><img src="Keynote.svg" width="250" alt="Keynote.svg"></a> | **📂 檔名:** `Keynote.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `224.93KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Keynote.svg) |
+| <a href="Launchpad.svg"><img src="Launchpad.svg" width="250" alt="Launchpad.svg"></a> | **📂 檔名:** `Launchpad.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `453.32KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Launchpad.svg) |
+| <a href="Mail.svg"><img src="Mail.svg" width="250" alt="Mail.svg"></a> | **📂 檔名:** `Mail.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `952.64KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Mail.svg) |
+| <a href="Maps.svg"><img src="Maps.svg" width="250" alt="Maps.svg"></a> | **📂 檔名:** `Maps.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `883.78KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Maps.svg) |
+| <a href="Messages.svg"><img src="Messages.svg" width="250" alt="Messages.svg"></a> | **📂 檔名:** `Messages.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `520.57KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Messages.svg) |
+| <a href="Migration%20Assistant.svg"><img src="Migration%20Assistant.svg" width="250" alt="Migration Assistant.svg"></a> | **📂 檔名:** `Migration Assistant.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `528.11KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Migration%20Assistant.svg) |
+| <a href="Mission%20Control.svg"><img src="Mission%20Control.svg" width="250" alt="Mission Control.svg"></a> | **📂 檔名:** `Mission Control.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `119.50KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Mission%20Control.svg) |
+| <a href="Music.svg"><img src="Music.svg" width="250" alt="Music.svg"></a> | **📂 檔名:** `Music.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `114.84KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Music.svg) |
+| <a href="News.svg"><img src="News.svg" width="250" alt="News.svg"></a> | **📂 檔名:** `News.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `227.30KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](News.svg) |
+| <a href="No%20App.svg"><img src="No%20App.svg" width="250" alt="No App.svg"></a> | **📂 檔名:** `No App.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `180.14KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](No%20App.svg) |
+| <a href="Notes.svg"><img src="Notes.svg" width="250" alt="Notes.svg"></a> | **📂 檔名:** `Notes.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `619.87KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Notes.svg) |
+| <a href="Numbers.svg"><img src="Numbers.svg" width="250" alt="Numbers.svg"></a> | **📂 檔名:** `Numbers.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `594.85KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Numbers.svg) |
+| <a href="Pages.svg"><img src="Pages.svg" width="250" alt="Pages.svg"></a> | **📂 檔名:** `Pages.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `327.10KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Pages.svg) |
+| <a href="Photo%20Booth.svg"><img src="Photo%20Booth.svg" width="250" alt="Photo Booth.svg"></a> | **📂 檔名:** `Photo Booth.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `211.14KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Photo%20Booth.svg) |
+| <a href="Photos.svg"><img src="Photos.svg" width="250" alt="Photos.svg"></a> | **📂 檔名:** `Photos.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `903.74KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Photos.svg) |
+| <a href="Podcasts.svg"><img src="Podcasts.svg" width="250" alt="Podcasts.svg"></a> | **📂 檔名:** `Podcasts.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `945.10KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Podcasts.svg) |
+| <a href="Preview.svg"><img src="Preview.svg" width="250" alt="Preview.svg"></a> | **📂 檔名:** `Preview.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1014.75KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Preview.svg) |
+| <a href="QuickTime%20Player.svg"><img src="QuickTime%20Player.svg" width="250" alt="QuickTime Player.svg"></a> | **📂 檔名:** `QuickTime Player.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `987.68KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](QuickTime%20Player.svg) |
+| <a href="Reminders.svg"><img src="Reminders.svg" width="250" alt="Reminders.svg"></a> | **📂 檔名:** `Reminders.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `382.36KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Reminders.svg) |
+| <a href="Safari.svg"><img src="Safari.svg" width="250" alt="Safari.svg"></a> | **📂 檔名:** `Safari.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `589.90KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Safari.svg) |
+| <a href="Screenshot.svg"><img src="Screenshot.svg" width="250" alt="Screenshot.svg"></a> | **📂 檔名:** `Screenshot.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `266.54KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Screenshot.svg) |
+| <a href="Script%20Editor.svg"><img src="Script%20Editor.svg" width="250" alt="Script Editor.svg"></a> | **📂 檔名:** `Script Editor.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `492.27KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Script%20Editor.svg) |
+| <a href="Settings.svg"><img src="Settings.svg" width="250" alt="Settings.svg"></a> | **📂 檔名:** `Settings.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `788.01KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Settings.svg) |
+| <a href="Shortcuts.svg"><img src="Shortcuts.svg" width="250" alt="Shortcuts.svg"></a> | **📂 檔名:** `Shortcuts.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `438.54KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Shortcuts.svg) |
+| <a href="Siri.svg"><img src="Siri.svg" width="250" alt="Siri.svg"></a> | **📂 檔名:** `Siri.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.34MB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Siri.svg) |
+| <a href="Stickies.svg"><img src="Stickies.svg" width="250" alt="Stickies.svg"></a> | **📂 檔名:** `Stickies.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `234.95KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Stickies.svg) |
+| <a href="Stocks.svg"><img src="Stocks.svg" width="250" alt="Stocks.svg"></a> | **📂 檔名:** `Stocks.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `808.98KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Stocks.svg) |
+| <a href="Swift%20Playgrounds.svg"><img src="Swift%20Playgrounds.svg" width="250" alt="Swift Playgrounds.svg"></a> | **📂 檔名:** `Swift Playgrounds.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `387.67KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Swift%20Playgrounds.svg) |
+| <a href="System%20Information.svg"><img src="System%20Information.svg" width="250" alt="System Information.svg"></a> | **📂 檔名:** `System Information.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `413.32KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](System%20Information.svg) |
+| <a href="TV.svg"><img src="TV.svg" width="250" alt="TV.svg"></a> | **📂 檔名:** `TV.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `764.55KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](TV.svg) |
+| <a href="Terminal.svg"><img src="Terminal.svg" width="250" alt="Terminal.svg"></a> | **📂 檔名:** `Terminal.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `94.91KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Terminal.svg) |
+| <a href="TextEdit.svg"><img src="TextEdit.svg" width="250" alt="TextEdit.svg"></a> | **📂 檔名:** `TextEdit.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `784.53KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](TextEdit.svg) |
+| <a href="Time%20Machine.svg"><img src="Time%20Machine.svg" width="250" alt="Time Machine.svg"></a> | **📂 檔名:** `Time Machine.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `740.58KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Time%20Machine.svg) |
+| <a href="Trash%20Empty.svg"><img src="Trash%20Empty.svg" width="250" alt="Trash Empty.svg"></a> | **📂 檔名:** `Trash Empty.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `364.90KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Trash%20Empty.svg) |
+| <a href="Trash%20Full.svg"><img src="Trash%20Full.svg" width="250" alt="Trash Full.svg"></a> | **📂 檔名:** `Trash Full.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `431.52KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Trash%20Full.svg) |
+| <a href="Voice%20Memos.svg"><img src="Voice%20Memos.svg" width="250" alt="Voice Memos.svg"></a> | **📂 檔名:** `Voice Memos.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `719.06KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Voice%20Memos.svg) |
+| <a href="VoiceOver%20Utility.svg"><img src="VoiceOver%20Utility.svg" width="250" alt="VoiceOver Utility.svg"></a> | **📂 檔名:** `VoiceOver Utility.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `911.53KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](VoiceOver%20Utility.svg) |
+| <a href="Weather.svg"><img src="Weather.svg" width="250" alt="Weather.svg"></a> | **📂 檔名:** `Weather.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `351.92KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Weather.svg) |
+| <a href="Xcode.svg"><img src="Xcode.svg" width="250" alt="Xcode.svg"></a> | **📂 檔名:** `Xcode.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.46MB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Xcode.svg) |
+| <a href="iMovie.svg"><img src="iMovie.svg" width="250" alt="iMovie.svg"></a> | **📂 檔名:** `iMovie.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `563.10KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](iMovie.svg) |

@@ -1,52 +1,54 @@
-# 🖼️ 16
+# 🖼️ 素材分類：16
 
-[⬅️ 返回主目錄](../../../../../README.md)
+> [🏠 主目錄](../../../../../README.md) / **16**
 
-| 預覽 | 資訊 |
+本目錄共有 `46` 個檔案
+
+| 🎨 預覽 (點擊放大) | 📋 檔案詳細資訊 |
 | :--- | :--- |
-| <a href="folder-add.svg"><img src="folder-add.svg" width="200"></a> | **folder-add.svg** |
-| <a href="folder-black.svg"><img src="folder-black.svg" width="200"></a> | **folder-black.svg** |
-| <a href="folder-blue.svg"><img src="folder-blue.svg" width="200"></a> | **folder-blue.svg** |
-| <a href="folder-brown.svg"><img src="folder-brown.svg" width="200"></a> | **folder-brown.svg** |
-| <a href="folder-cloud.svg"><img src="folder-cloud.svg" width="200"></a> | **folder-cloud.svg** |
-| <a href="folder-cyan.svg"><img src="folder-cyan.svg" width="200"></a> | **folder-cyan.svg** |
-| <a href="folder-development.svg"><img src="folder-development.svg" width="200"></a> | **folder-development.svg** |
-| <a href="folder-documents.svg"><img src="folder-documents.svg" width="200"></a> | **folder-documents.svg** |
-| <a href="folder-downloads.svg"><img src="folder-downloads.svg" width="200"></a> | **folder-downloads.svg** |
-| <a href="folder-gdrive.svg"><img src="folder-gdrive.svg" width="200"></a> | **folder-gdrive.svg** |
-| <a href="folder-green.svg"><img src="folder-green.svg" width="200"></a> | **folder-green.svg** |
-| <a href="folder-grey.svg"><img src="folder-grey.svg" width="200"></a> | **folder-grey.svg** |
-| <a href="folder-important.svg"><img src="folder-important.svg" width="200"></a> | **folder-important.svg** |
-| <a href="folder-locked.svg"><img src="folder-locked.svg" width="200"></a> | **folder-locked.svg** |
-| <a href="folder-magenta.svg"><img src="folder-magenta.svg" width="200"></a> | **folder-magenta.svg** |
-| <a href="folder-mail.svg"><img src="folder-mail.svg" width="200"></a> | **folder-mail.svg** |
-| <a href="folder-network.svg"><img src="folder-network.svg" width="200"></a> | **folder-network.svg** |
-| <a href="folder-open.svg"><img src="folder-open.svg" width="200"></a> | **folder-open.svg** |
-| <a href="folder-orange.svg"><img src="folder-orange.svg" width="200"></a> | **folder-orange.svg** |
-| <a href="folder-pictures.svg"><img src="folder-pictures.svg" width="200"></a> | **folder-pictures.svg** |
-| <a href="folder-print.svg"><img src="folder-print.svg" width="200"></a> | **folder-print.svg** |
-| <a href="folder-publicshare.svg"><img src="folder-publicshare.svg" width="200"></a> | **folder-publicshare.svg** |
-| <a href="folder-red.svg"><img src="folder-red.svg" width="200"></a> | **folder-red.svg** |
-| <a href="folder-script.svg"><img src="folder-script.svg" width="200"></a> | **folder-script.svg** |
-| <a href="folder-sound.svg"><img src="folder-sound.svg" width="200"></a> | **folder-sound.svg** |
-| <a href="folder-tar.svg"><img src="folder-tar.svg" width="200"></a> | **folder-tar.svg** |
-| <a href="folder-temp.svg"><img src="folder-temp.svg" width="200"></a> | **folder-temp.svg** |
-| <a href="folder-templates.svg"><img src="folder-templates.svg" width="200"></a> | **folder-templates.svg** |
-| <a href="folder-text.svg"><img src="folder-text.svg" width="200"></a> | **folder-text.svg** |
-| <a href="folder-videos.svg"><img src="folder-videos.svg" width="200"></a> | **folder-videos.svg** |
-| <a href="folder-violet.svg"><img src="folder-violet.svg" width="200"></a> | **folder-violet.svg** |
-| <a href="folder-yellow.svg"><img src="folder-yellow.svg" width="200"></a> | **folder-yellow.svg** |
-| <a href="folder.svg"><img src="folder.svg" width="200"></a> | **folder.svg** |
-| <a href="globe.svg"><img src="globe.svg" width="200"></a> | **globe.svg** |
-| <a href="mail-folder-inbox.svg"><img src="mail-folder-inbox.svg" width="200"></a> | **mail-folder-inbox.svg** |
-| <a href="mail-folder-outbox.svg"><img src="mail-folder-outbox.svg" width="200"></a> | **mail-folder-outbox.svg** |
-| <a href="mail-folder-sent.svg"><img src="mail-folder-sent.svg" width="200"></a> | **mail-folder-sent.svg** |
-| <a href="mail-message.svg"><img src="mail-message.svg" width="200"></a> | **mail-message.svg** |
-| <a href="network-server-database.svg"><img src="network-server-database.svg" width="200"></a> | **network-server-database.svg** |
-| <a href="network-workgroup.svg"><img src="network-workgroup.svg" width="200"></a> | **network-workgroup.svg** |
-| <a href="start-here-kde.svg"><img src="start-here-kde.svg" width="200"></a> | **start-here-kde.svg** |
-| <a href="user-bookmarks-symbolic.svg"><img src="user-bookmarks-symbolic.svg" width="200"></a> | **user-bookmarks-symbolic.svg** |
-| <a href="user-desktop.svg"><img src="user-desktop.svg" width="200"></a> | **user-desktop.svg** |
-| <a href="user-home.svg"><img src="user-home.svg" width="200"></a> | **user-home.svg** |
-| <a href="user-trash-full.svg"><img src="user-trash-full.svg" width="200"></a> | **user-trash-full.svg** |
-| <a href="user-trash.svg"><img src="user-trash.svg" width="200"></a> | **user-trash.svg** |
+| <a href="folder-add.svg"><img src="folder-add.svg" width="250" alt="folder-add.svg"></a> | **📂 檔名:** `folder-add.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `617.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](folder-add.svg) |
+| <a href="folder-black.svg"><img src="folder-black.svg" width="250" alt="folder-black.svg"></a> | **📂 檔名:** `folder-black.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `441.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](folder-black.svg) |
+| <a href="folder-blue.svg"><img src="folder-blue.svg" width="250" alt="folder-blue.svg"></a> | **📂 檔名:** `folder-blue.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `441.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](folder-blue.svg) |
+| <a href="folder-brown.svg"><img src="folder-brown.svg" width="250" alt="folder-brown.svg"></a> | **📂 檔名:** `folder-brown.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `441.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](folder-brown.svg) |
+| <a href="folder-cloud.svg"><img src="folder-cloud.svg" width="250" alt="folder-cloud.svg"></a> | **📂 檔名:** `folder-cloud.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `818.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](folder-cloud.svg) |
+| <a href="folder-cyan.svg"><img src="folder-cyan.svg" width="250" alt="folder-cyan.svg"></a> | **📂 檔名:** `folder-cyan.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `441.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](folder-cyan.svg) |
+| <a href="folder-development.svg"><img src="folder-development.svg" width="250" alt="folder-development.svg"></a> | **📂 檔名:** `folder-development.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `548.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](folder-development.svg) |
+| <a href="folder-documents.svg"><img src="folder-documents.svg" width="250" alt="folder-documents.svg"></a> | **📂 檔名:** `folder-documents.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `2.41KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](folder-documents.svg) |
+| <a href="folder-downloads.svg"><img src="folder-downloads.svg" width="250" alt="folder-downloads.svg"></a> | **📂 檔名:** `folder-downloads.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `2.54KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](folder-downloads.svg) |
+| <a href="folder-gdrive.svg"><img src="folder-gdrive.svg" width="250" alt="folder-gdrive.svg"></a> | **📂 檔名:** `folder-gdrive.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `445.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](folder-gdrive.svg) |
+| <a href="folder-green.svg"><img src="folder-green.svg" width="250" alt="folder-green.svg"></a> | **📂 檔名:** `folder-green.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `441.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](folder-green.svg) |
+| <a href="folder-grey.svg"><img src="folder-grey.svg" width="250" alt="folder-grey.svg"></a> | **📂 檔名:** `folder-grey.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `441.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](folder-grey.svg) |
+| <a href="folder-important.svg"><img src="folder-important.svg" width="250" alt="folder-important.svg"></a> | **📂 檔名:** `folder-important.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `299.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](folder-important.svg) |
+| <a href="folder-locked.svg"><img src="folder-locked.svg" width="250" alt="folder-locked.svg"></a> | **📂 檔名:** `folder-locked.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `659.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](folder-locked.svg) |
+| <a href="folder-magenta.svg"><img src="folder-magenta.svg" width="250" alt="folder-magenta.svg"></a> | **📂 檔名:** `folder-magenta.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `441.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](folder-magenta.svg) |
+| <a href="folder-mail.svg"><img src="folder-mail.svg" width="250" alt="folder-mail.svg"></a> | **📂 檔名:** `folder-mail.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `629.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](folder-mail.svg) |
+| <a href="folder-network.svg"><img src="folder-network.svg" width="250" alt="folder-network.svg"></a> | **📂 檔名:** `folder-network.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `2.89KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](folder-network.svg) |
+| <a href="folder-open.svg"><img src="folder-open.svg" width="250" alt="folder-open.svg"></a> | **📂 檔名:** `folder-open.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `553.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](folder-open.svg) |
+| <a href="folder-orange.svg"><img src="folder-orange.svg" width="250" alt="folder-orange.svg"></a> | **📂 檔名:** `folder-orange.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `441.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](folder-orange.svg) |
+| <a href="folder-pictures.svg"><img src="folder-pictures.svg" width="250" alt="folder-pictures.svg"></a> | **📂 檔名:** `folder-pictures.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `2.49KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](folder-pictures.svg) |
+| <a href="folder-print.svg"><img src="folder-print.svg" width="250" alt="folder-print.svg"></a> | **📂 檔名:** `folder-print.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `664.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](folder-print.svg) |
+| <a href="folder-publicshare.svg"><img src="folder-publicshare.svg" width="250" alt="folder-publicshare.svg"></a> | **📂 檔名:** `folder-publicshare.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.39KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](folder-publicshare.svg) |
+| <a href="folder-red.svg"><img src="folder-red.svg" width="250" alt="folder-red.svg"></a> | **📂 檔名:** `folder-red.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `441.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](folder-red.svg) |
+| <a href="folder-script.svg"><img src="folder-script.svg" width="250" alt="folder-script.svg"></a> | **📂 檔名:** `folder-script.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `550.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](folder-script.svg) |
+| <a href="folder-sound.svg"><img src="folder-sound.svg" width="250" alt="folder-sound.svg"></a> | **📂 檔名:** `folder-sound.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `2.59KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](folder-sound.svg) |
+| <a href="folder-tar.svg"><img src="folder-tar.svg" width="250" alt="folder-tar.svg"></a> | **📂 檔名:** `folder-tar.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `620.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](folder-tar.svg) |
+| <a href="folder-temp.svg"><img src="folder-temp.svg" width="250" alt="folder-temp.svg"></a> | **📂 檔名:** `folder-temp.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `675.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](folder-temp.svg) |
+| <a href="folder-templates.svg"><img src="folder-templates.svg" width="250" alt="folder-templates.svg"></a> | **📂 檔名:** `folder-templates.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `768.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](folder-templates.svg) |
+| <a href="folder-text.svg"><img src="folder-text.svg" width="250" alt="folder-text.svg"></a> | **📂 檔名:** `folder-text.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `2.44KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](folder-text.svg) |
+| <a href="folder-videos.svg"><img src="folder-videos.svg" width="250" alt="folder-videos.svg"></a> | **📂 檔名:** `folder-videos.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `2.56KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](folder-videos.svg) |
+| <a href="folder-violet.svg"><img src="folder-violet.svg" width="250" alt="folder-violet.svg"></a> | **📂 檔名:** `folder-violet.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `441.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](folder-violet.svg) |
+| <a href="folder-yellow.svg"><img src="folder-yellow.svg" width="250" alt="folder-yellow.svg"></a> | **📂 檔名:** `folder-yellow.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `441.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](folder-yellow.svg) |
+| <a href="folder.svg"><img src="folder.svg" width="250" alt="folder.svg"></a> | **📂 檔名:** `folder.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `2.49KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](folder.svg) |
+| <a href="globe.svg"><img src="globe.svg" width="250" alt="globe.svg"></a> | **📂 檔名:** `globe.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `20.20KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](globe.svg) |
+| <a href="mail-folder-inbox.svg"><img src="mail-folder-inbox.svg" width="250" alt="mail-folder-inbox.svg"></a> | **📂 檔名:** `mail-folder-inbox.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `648.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](mail-folder-inbox.svg) |
+| <a href="mail-folder-outbox.svg"><img src="mail-folder-outbox.svg" width="250" alt="mail-folder-outbox.svg"></a> | **📂 檔名:** `mail-folder-outbox.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `892.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](mail-folder-outbox.svg) |
+| <a href="mail-folder-sent.svg"><img src="mail-folder-sent.svg" width="250" alt="mail-folder-sent.svg"></a> | **📂 檔名:** `mail-folder-sent.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `671.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](mail-folder-sent.svg) |
+| <a href="mail-message.svg"><img src="mail-message.svg" width="250" alt="mail-message.svg"></a> | **📂 檔名:** `mail-message.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `798.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](mail-message.svg) |
+| <a href="network-server-database.svg"><img src="network-server-database.svg" width="250" alt="network-server-database.svg"></a> | **📂 檔名:** `network-server-database.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `715.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](network-server-database.svg) |
+| <a href="network-workgroup.svg"><img src="network-workgroup.svg" width="250" alt="network-workgroup.svg"></a> | **📂 檔名:** `network-workgroup.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `542.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](network-workgroup.svg) |
+| <a href="start-here-kde.svg"><img src="start-here-kde.svg" width="250" alt="start-here-kde.svg"></a> | **📂 檔名:** `start-here-kde.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `835.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](start-here-kde.svg) |
+| <a href="user-bookmarks-symbolic.svg"><img src="user-bookmarks-symbolic.svg" width="250" alt="user-bookmarks-symbolic.svg"></a> | **📂 檔名:** `user-bookmarks-symbolic.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `478.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](user-bookmarks-symbolic.svg) |
+| <a href="user-desktop.svg"><img src="user-desktop.svg" width="250" alt="user-desktop.svg"></a> | **📂 檔名:** `user-desktop.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `2.35KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](user-desktop.svg) |
+| <a href="user-home.svg"><img src="user-home.svg" width="250" alt="user-home.svg"></a> | **📂 檔名:** `user-home.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `2.72KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](user-home.svg) |
+| <a href="user-trash-full.svg"><img src="user-trash-full.svg" width="250" alt="user-trash-full.svg"></a> | **📂 檔名:** `user-trash-full.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `2.46KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](user-trash-full.svg) |
+| <a href="user-trash.svg"><img src="user-trash.svg" width="250" alt="user-trash.svg"></a> | **📂 檔名:** `user-trash.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `589.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](user-trash.svg) |

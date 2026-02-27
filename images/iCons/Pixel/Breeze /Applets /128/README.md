@@ -1,23 +1,25 @@
-# 🖼️ 128
+# 🖼️ 素材分類：128
 
-[⬅️ 返回主目錄](../../../../../../README.md)
+> [🏠 主目錄](../../../../../../README.md) / **128**
 
-| 預覽 | 資訊 |
+本目錄共有 `17` 個檔案
+
+| 🎨 預覽 (點擊放大) | 📋 檔案詳細資訊 |
 | :--- | :--- |
-| <a href="osd-duplicate.svg"><img src="osd-duplicate.svg" width="200"></a> | **osd-duplicate.svg** |
-| <a href="osd-rotate-ccw.svg"><img src="osd-rotate-ccw.svg" width="200"></a> | **osd-rotate-ccw.svg** |
-| <a href="osd-rotate-cw.svg"><img src="osd-rotate-cw.svg" width="200"></a> | **osd-rotate-cw.svg** |
-| <a href="osd-rotate-flip.svg"><img src="osd-rotate-flip.svg" width="200"></a> | **osd-rotate-flip.svg** |
-| <a href="osd-rotate-normal.svg"><img src="osd-rotate-normal.svg" width="200"></a> | **osd-rotate-normal.svg** |
-| <a href="osd-sbs-left.svg"><img src="osd-sbs-left.svg" width="200"></a> | **osd-sbs-left.svg** |
-| <a href="osd-sbs-sright.svg"><img src="osd-sbs-sright.svg" width="200"></a> | **osd-sbs-sright.svg** |
-| <a href="osd-shutd-laptop.svg"><img src="osd-shutd-laptop.svg" width="200"></a> | **osd-shutd-laptop.svg** |
-| <a href="osd-shutd-screen.svg"><img src="osd-shutd-screen.svg" width="200"></a> | **osd-shutd-screen.svg** |
-| <a href="user-ada-lovelace.svg"><img src="user-ada-lovelace.svg" width="200"></a> | **user-ada-lovelace.svg** |
-| <a href="user-alice-in-wonderland.svg"><img src="user-alice-in-wonderland.svg" width="200"></a> | **user-alice-in-wonderland.svg** |
-| <a href="user-grace-hopper.svg"><img src="user-grace-hopper.svg" width="200"></a> | **user-grace-hopper.svg** |
-| <a href="user-leonardo-da-vinci.svg"><img src="user-leonardo-da-vinci.svg" width="200"></a> | **user-leonardo-da-vinci.svg** |
-| <a href="user-mahatma-gandhi.svg"><img src="user-mahatma-gandhi.svg" width="200"></a> | **user-mahatma-gandhi.svg** |
-| <a href="user-man.svg"><img src="user-man.svg" width="200"></a> | **user-man.svg** |
-| <a href="user-mowgli.svg"><img src="user-mowgli.svg" width="200"></a> | **user-mowgli.svg** |
-| <a href="user-none.svg"><img src="user-none.svg" width="200"></a> | **user-none.svg** |
+| <a href="osd-duplicate.svg"><img src="osd-duplicate.svg" width="250" alt="osd-duplicate.svg"></a> | **📂 檔名:** `osd-duplicate.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `3.57KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](osd-duplicate.svg) |
+| <a href="osd-rotate-ccw.svg"><img src="osd-rotate-ccw.svg" width="250" alt="osd-rotate-ccw.svg"></a> | **📂 檔名:** `osd-rotate-ccw.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `4.09KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](osd-rotate-ccw.svg) |
+| <a href="osd-rotate-cw.svg"><img src="osd-rotate-cw.svg" width="250" alt="osd-rotate-cw.svg"></a> | **📂 檔名:** `osd-rotate-cw.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `4.07KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](osd-rotate-cw.svg) |
+| <a href="osd-rotate-flip.svg"><img src="osd-rotate-flip.svg" width="250" alt="osd-rotate-flip.svg"></a> | **📂 檔名:** `osd-rotate-flip.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `2.32KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](osd-rotate-flip.svg) |
+| <a href="osd-rotate-normal.svg"><img src="osd-rotate-normal.svg" width="250" alt="osd-rotate-normal.svg"></a> | **📂 檔名:** `osd-rotate-normal.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `3.10KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](osd-rotate-normal.svg) |
+| <a href="osd-sbs-left.svg"><img src="osd-sbs-left.svg" width="250" alt="osd-sbs-left.svg"></a> | **📂 檔名:** `osd-sbs-left.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `2.55KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](osd-sbs-left.svg) |
+| <a href="osd-sbs-sright.svg"><img src="osd-sbs-sright.svg" width="250" alt="osd-sbs-sright.svg"></a> | **📂 檔名:** `osd-sbs-sright.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `2.55KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](osd-sbs-sright.svg) |
+| <a href="osd-shutd-laptop.svg"><img src="osd-shutd-laptop.svg" width="250" alt="osd-shutd-laptop.svg"></a> | **📂 檔名:** `osd-shutd-laptop.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `2.93KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](osd-shutd-laptop.svg) |
+| <a href="osd-shutd-screen.svg"><img src="osd-shutd-screen.svg" width="250" alt="osd-shutd-screen.svg"></a> | **📂 檔名:** `osd-shutd-screen.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `2.97KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](osd-shutd-screen.svg) |
+| <a href="user-ada-lovelace.svg"><img src="user-ada-lovelace.svg" width="250" alt="user-ada-lovelace.svg"></a> | **📂 檔名:** `user-ada-lovelace.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `7.99KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](user-ada-lovelace.svg) |
+| <a href="user-alice-in-wonderland.svg"><img src="user-alice-in-wonderland.svg" width="250" alt="user-alice-in-wonderland.svg"></a> | **📂 檔名:** `user-alice-in-wonderland.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `6.06KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](user-alice-in-wonderland.svg) |
+| <a href="user-grace-hopper.svg"><img src="user-grace-hopper.svg" width="250" alt="user-grace-hopper.svg"></a> | **📂 檔名:** `user-grace-hopper.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `6.44KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](user-grace-hopper.svg) |
+| <a href="user-leonardo-da-vinci.svg"><img src="user-leonardo-da-vinci.svg" width="250" alt="user-leonardo-da-vinci.svg"></a> | **📂 檔名:** `user-leonardo-da-vinci.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `7.42KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](user-leonardo-da-vinci.svg) |
+| <a href="user-mahatma-gandhi.svg"><img src="user-mahatma-gandhi.svg" width="250" alt="user-mahatma-gandhi.svg"></a> | **📂 檔名:** `user-mahatma-gandhi.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `6.20KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](user-mahatma-gandhi.svg) |
+| <a href="user-man.svg"><img src="user-man.svg" width="250" alt="user-man.svg"></a> | **📂 檔名:** `user-man.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `4.07KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](user-man.svg) |
+| <a href="user-mowgli.svg"><img src="user-mowgli.svg" width="250" alt="user-mowgli.svg"></a> | **📂 檔名:** `user-mowgli.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `11.63KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](user-mowgli.svg) |
+| <a href="user-none.svg"><img src="user-none.svg" width="250" alt="user-none.svg"></a> | **📂 檔名:** `user-none.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `3.21KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](user-none.svg) |

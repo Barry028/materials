@@ -1,108 +1,110 @@
-# 🖼️ 16
+# 🖼️ 素材分類：16
 
-[⬅️ 返回主目錄](../../../../../../README.md)
+> [🏠 主目錄](../../../../../../README.md) / **16**
 
-| 預覽 | 資訊 |
+本目錄共有 `102` 個檔案
+
+| 🎨 預覽 (點擊放大) | 📋 檔案詳細資訊 |
 | :--- | :--- |
-| <a href="appointment-missed-symbolic.svg"><img src="appointment-missed-symbolic.svg" width="200"></a> | **appointment-missed-symbolic.svg** |
-| <a href="appointment-soon-symbolic.svg"><img src="appointment-soon-symbolic.svg" width="200"></a> | **appointment-soon-symbolic.svg** |
-| <a href="audio-on.svg"><img src="audio-on.svg" width="200"></a> | **audio-on.svg** |
-| <a href="audio-ready.svg"><img src="audio-ready.svg" width="200"></a> | **audio-ready.svg** |
-| <a href="audio-volume-high-danger.svg"><img src="audio-volume-high-danger.svg" width="200"></a> | **audio-volume-high-danger.svg** |
-| <a href="audio-volume-high-warning.svg"><img src="audio-volume-high-warning.svg" width="200"></a> | **audio-volume-high-warning.svg** |
-| <a href="audio-volume-high.svg"><img src="audio-volume-high.svg" width="200"></a> | **audio-volume-high.svg** |
-| <a href="audio-volume-low.svg"><img src="audio-volume-low.svg" width="200"></a> | **audio-volume-low.svg** |
-| <a href="audio-volume-medium.svg"><img src="audio-volume-medium.svg" width="200"></a> | **audio-volume-medium.svg** |
-| <a href="audio-volume-muted.svg"><img src="audio-volume-muted.svg" width="200"></a> | **audio-volume-muted.svg** |
-| <a href="auth-sim-locked.svg"><img src="auth-sim-locked.svg" width="200"></a> | **auth-sim-locked.svg** |
-| <a href="auth-sim-missing.svg"><img src="auth-sim-missing.svg" width="200"></a> | **auth-sim-missing.svg** |
-| <a href="battery-000-charging.svg"><img src="battery-000-charging.svg" width="200"></a> | **battery-000-charging.svg** |
-| <a href="battery-000.svg"><img src="battery-000.svg" width="200"></a> | **battery-000.svg** |
-| <a href="battery-010-charging.svg"><img src="battery-010-charging.svg" width="200"></a> | **battery-010-charging.svg** |
-| <a href="battery-010.svg"><img src="battery-010.svg" width="200"></a> | **battery-010.svg** |
-| <a href="battery-020-charging.svg"><img src="battery-020-charging.svg" width="200"></a> | **battery-020-charging.svg** |
-| <a href="battery-020.svg"><img src="battery-020.svg" width="200"></a> | **battery-020.svg** |
-| <a href="battery-030-charging.svg"><img src="battery-030-charging.svg" width="200"></a> | **battery-030-charging.svg** |
-| <a href="battery-030.svg"><img src="battery-030.svg" width="200"></a> | **battery-030.svg** |
-| <a href="battery-040-charging.svg"><img src="battery-040-charging.svg" width="200"></a> | **battery-040-charging.svg** |
-| <a href="battery-040.svg"><img src="battery-040.svg" width="200"></a> | **battery-040.svg** |
-| <a href="battery-050-charging.svg"><img src="battery-050-charging.svg" width="200"></a> | **battery-050-charging.svg** |
-| <a href="battery-050.svg"><img src="battery-050.svg" width="200"></a> | **battery-050.svg** |
-| <a href="battery-060-charging.svg"><img src="battery-060-charging.svg" width="200"></a> | **battery-060-charging.svg** |
-| <a href="battery-060.svg"><img src="battery-060.svg" width="200"></a> | **battery-060.svg** |
-| <a href="battery-070-charging.svg"><img src="battery-070-charging.svg" width="200"></a> | **battery-070-charging.svg** |
-| <a href="battery-070.svg"><img src="battery-070.svg" width="200"></a> | **battery-070.svg** |
-| <a href="battery-080-charging.svg"><img src="battery-080-charging.svg" width="200"></a> | **battery-080-charging.svg** |
-| <a href="battery-080.svg"><img src="battery-080.svg" width="200"></a> | **battery-080.svg** |
-| <a href="battery-090-charging.svg"><img src="battery-090-charging.svg" width="200"></a> | **battery-090-charging.svg** |
-| <a href="battery-090.svg"><img src="battery-090.svg" width="200"></a> | **battery-090.svg** |
-| <a href="battery-100-charging.svg"><img src="battery-100-charging.svg" width="200"></a> | **battery-100-charging.svg** |
-| <a href="battery-100.svg"><img src="battery-100.svg" width="200"></a> | **battery-100.svg** |
-| <a href="battery-missing.svg"><img src="battery-missing.svg" width="200"></a> | **battery-missing.svg** |
-| <a href="call-incoming.svg"><img src="call-incoming.svg" width="200"></a> | **call-incoming.svg** |
-| <a href="call-missed.svg"><img src="call-missed.svg" width="200"></a> | **call-missed.svg** |
-| <a href="call-outgoing.svg"><img src="call-outgoing.svg" width="200"></a> | **call-outgoing.svg** |
-| <a href="camera-off.svg"><img src="camera-off.svg" width="200"></a> | **camera-off.svg** |
-| <a href="camera-on.svg"><img src="camera-on.svg" width="200"></a> | **camera-on.svg** |
-| <a href="camera-ready.svg"><img src="camera-ready.svg" width="200"></a> | **camera-ready.svg** |
-| <a href="crow-translate-tray.svg"><img src="crow-translate-tray.svg" width="200"></a> | **crow-translate-tray.svg** |
-| <a href="data-error.svg"><img src="data-error.svg" width="200"></a> | **data-error.svg** |
-| <a href="data-information.svg"><img src="data-information.svg" width="200"></a> | **data-information.svg** |
-| <a href="data-warning.svg"><img src="data-warning.svg" width="200"></a> | **data-warning.svg** |
-| <a href="device-notifier-symbolic.svg"><img src="device-notifier-symbolic.svg" width="200"></a> | **device-notifier-symbolic.svg** |
-| <a href="dialog-information.svg"><img src="dialog-information.svg" width="200"></a> | **dialog-information.svg** |
-| <a href="dialog-warning.svg"><img src="dialog-warning.svg" width="200"></a> | **dialog-warning.svg** |
-| <a href="disk-quota-critical.svg"><img src="disk-quota-critical.svg" width="200"></a> | **disk-quota-critical.svg** |
-| <a href="disk-quota-high.svg"><img src="disk-quota-high.svg" width="200"></a> | **disk-quota-high.svg** |
-| <a href="disk-quota-low.svg"><img src="disk-quota-low.svg" width="200"></a> | **disk-quota-low.svg** |
-| <a href="disk-quota.svg"><img src="disk-quota.svg" width="200"></a> | **disk-quota.svg** |
-| <a href="firewall-applet-error.svg"><img src="firewall-applet-error.svg" width="200"></a> | **firewall-applet-error.svg** |
-| <a href="firewall-applet-panic.svg"><img src="firewall-applet-panic.svg" width="200"></a> | **firewall-applet-panic.svg** |
-| <a href="firewall-applet-shields_up.svg"><img src="firewall-applet-shields_up.svg" width="200"></a> | **firewall-applet-shields_up.svg** |
-| <a href="firewall-applet.svg"><img src="firewall-applet.svg" width="200"></a> | **firewall-applet.svg** |
-| <a href="image-missing.svg"><img src="image-missing.svg" width="200"></a> | **image-missing.svg** |
-| <a href="input-caps-on.svg"><img src="input-caps-on.svg" width="200"></a> | **input-caps-on.svg** |
-| <a href="kdeconnect-tray.svg"><img src="kdeconnect-tray.svg" width="200"></a> | **kdeconnect-tray.svg** |
-| <a href="media-playback-paused.svg"><img src="media-playback-paused.svg" width="200"></a> | **media-playback-paused.svg** |
-| <a href="media-playback-playing.svg"><img src="media-playback-playing.svg" width="200"></a> | **media-playback-playing.svg** |
-| <a href="media-playback-stopped.svg"><img src="media-playback-stopped.svg" width="200"></a> | **media-playback-stopped.svg** |
-| <a href="meeting-organizer.svg"><img src="meeting-organizer.svg" width="200"></a> | **meeting-organizer.svg** |
-| <a href="mic-off.svg"><img src="mic-off.svg" width="200"></a> | **mic-off.svg** |
-| <a href="mic-on.svg"><img src="mic-on.svg" width="200"></a> | **mic-on.svg** |
-| <a href="mic-ready.svg"><img src="mic-ready.svg" width="200"></a> | **mic-ready.svg** |
-| <a href="microphone-sensitivity-high.svg"><img src="microphone-sensitivity-high.svg" width="200"></a> | **microphone-sensitivity-high.svg** |
-| <a href="microphone-sensitivity-low.svg"><img src="microphone-sensitivity-low.svg" width="200"></a> | **microphone-sensitivity-low.svg** |
-| <a href="microphone-sensitivity-medium.svg"><img src="microphone-sensitivity-medium.svg" width="200"></a> | **microphone-sensitivity-medium.svg** |
-| <a href="microphone-sensitivity-muted.svg"><img src="microphone-sensitivity-muted.svg" width="200"></a> | **microphone-sensitivity-muted.svg** |
-| <a href="printer-error-symbolic.svg"><img src="printer-error-symbolic.svg" width="200"></a> | **printer-error-symbolic.svg** |
-| <a href="printer-warning-symbolic.svg"><img src="printer-warning-symbolic.svg" width="200"></a> | **printer-warning-symbolic.svg** |
-| <a href="process-working-symbolic.svg"><img src="process-working-symbolic.svg" width="200"></a> | **process-working-symbolic.svg** |
-| <a href="rotation-allowed.svg"><img src="rotation-allowed.svg" width="200"></a> | **rotation-allowed.svg** |
-| <a href="rotation-locked-landscape.svg"><img src="rotation-locked-landscape.svg" width="200"></a> | **rotation-locked-landscape.svg** |
-| <a href="rotation-locked-portrait.svg"><img src="rotation-locked-portrait.svg" width="200"></a> | **rotation-locked-portrait.svg** |
-| <a href="security-high.svg"><img src="security-high.svg" width="200"></a> | **security-high.svg** |
-| <a href="security-low.svg"><img src="security-low.svg" width="200"></a> | **security-low.svg** |
-| <a href="security-medium.svg"><img src="security-medium.svg" width="200"></a> | **security-medium.svg** |
-| <a href="semi-starred-symbolic-rtl.svg"><img src="semi-starred-symbolic-rtl.svg" width="200"></a> | **semi-starred-symbolic-rtl.svg** |
-| <a href="semi-starred-symbolic.svg"><img src="semi-starred-symbolic.svg" width="200"></a> | **semi-starred-symbolic.svg** |
-| <a href="smartphoneconnected.svg"><img src="smartphoneconnected.svg" width="200"></a> | **smartphoneconnected.svg** |
-| <a href="smartphonedisconnected.svg"><img src="smartphonedisconnected.svg" width="200"></a> | **smartphonedisconnected.svg** |
-| <a href="smartphonetrusted.svg"><img src="smartphonetrusted.svg" width="200"></a> | **smartphonetrusted.svg** |
-| <a href="state-download.svg"><img src="state-download.svg" width="200"></a> | **state-download.svg** |
-| <a href="state-error.svg"><img src="state-error.svg" width="200"></a> | **state-error.svg** |
-| <a href="state-information.svg"><img src="state-information.svg" width="200"></a> | **state-information.svg** |
-| <a href="state-offline.svg"><img src="state-offline.svg" width="200"></a> | **state-offline.svg** |
-| <a href="state-ok.svg"><img src="state-ok.svg" width="200"></a> | **state-ok.svg** |
-| <a href="state-pause.svg"><img src="state-pause.svg" width="200"></a> | **state-pause.svg** |
-| <a href="state-sync.svg"><img src="state-sync.svg" width="200"></a> | **state-sync.svg** |
-| <a href="state-warning.svg"><img src="state-warning.svg" width="200"></a> | **state-warning.svg** |
-| <a href="task-complete.svg"><img src="task-complete.svg" width="200"></a> | **task-complete.svg** |
-| <a href="task-process-0.svg"><img src="task-process-0.svg" width="200"></a> | **task-process-0.svg** |
-| <a href="task-process-1.svg"><img src="task-process-1.svg" width="200"></a> | **task-process-1.svg** |
-| <a href="task-process-2.svg"><img src="task-process-2.svg" width="200"></a> | **task-process-2.svg** |
-| <a href="task-process-3.svg"><img src="task-process-3.svg" width="200"></a> | **task-process-3.svg** |
-| <a href="task-process-4.svg"><img src="task-process-4.svg" width="200"></a> | **task-process-4.svg** |
-| <a href="temperature-cold.svg"><img src="temperature-cold.svg" width="200"></a> | **temperature-cold.svg** |
-| <a href="temperature-normal.svg"><img src="temperature-normal.svg" width="200"></a> | **temperature-normal.svg** |
-| <a href="temperature-warm.svg"><img src="temperature-warm.svg" width="200"></a> | **temperature-warm.svg** |
-| <a href="user-idle.svg"><img src="user-idle.svg" width="200"></a> | **user-idle.svg** |
+| <a href="appointment-missed-symbolic.svg"><img src="appointment-missed-symbolic.svg" width="250" alt="appointment-missed-symbolic.svg"></a> | **📂 檔名:** `appointment-missed-symbolic.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.07KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](appointment-missed-symbolic.svg) |
+| <a href="appointment-soon-symbolic.svg"><img src="appointment-soon-symbolic.svg" width="250" alt="appointment-soon-symbolic.svg"></a> | **📂 檔名:** `appointment-soon-symbolic.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `919.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](appointment-soon-symbolic.svg) |
+| <a href="audio-on.svg"><img src="audio-on.svg" width="250" alt="audio-on.svg"></a> | **📂 檔名:** `audio-on.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.14KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](audio-on.svg) |
+| <a href="audio-ready.svg"><img src="audio-ready.svg" width="250" alt="audio-ready.svg"></a> | **📂 檔名:** `audio-ready.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `789.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](audio-ready.svg) |
+| <a href="audio-volume-high-danger.svg"><img src="audio-volume-high-danger.svg" width="250" alt="audio-volume-high-danger.svg"></a> | **📂 檔名:** `audio-volume-high-danger.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `855.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](audio-volume-high-danger.svg) |
+| <a href="audio-volume-high-warning.svg"><img src="audio-volume-high-warning.svg" width="250" alt="audio-volume-high-warning.svg"></a> | **📂 檔名:** `audio-volume-high-warning.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `853.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](audio-volume-high-warning.svg) |
+| <a href="audio-volume-high.svg"><img src="audio-volume-high.svg" width="250" alt="audio-volume-high.svg"></a> | **📂 檔名:** `audio-volume-high.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `712.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](audio-volume-high.svg) |
+| <a href="audio-volume-low.svg"><img src="audio-volume-low.svg" width="250" alt="audio-volume-low.svg"></a> | **📂 檔名:** `audio-volume-low.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `740.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](audio-volume-low.svg) |
+| <a href="audio-volume-medium.svg"><img src="audio-volume-medium.svg" width="250" alt="audio-volume-medium.svg"></a> | **📂 檔名:** `audio-volume-medium.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `726.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](audio-volume-medium.svg) |
+| <a href="audio-volume-muted.svg"><img src="audio-volume-muted.svg" width="250" alt="audio-volume-muted.svg"></a> | **📂 檔名:** `audio-volume-muted.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.17KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](audio-volume-muted.svg) |
+| <a href="auth-sim-locked.svg"><img src="auth-sim-locked.svg" width="250" alt="auth-sim-locked.svg"></a> | **📂 檔名:** `auth-sim-locked.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `800.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](auth-sim-locked.svg) |
+| <a href="auth-sim-missing.svg"><img src="auth-sim-missing.svg" width="250" alt="auth-sim-missing.svg"></a> | **📂 檔名:** `auth-sim-missing.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.02KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](auth-sim-missing.svg) |
+| <a href="battery-000-charging.svg"><img src="battery-000-charging.svg" width="250" alt="battery-000-charging.svg"></a> | **📂 檔名:** `battery-000-charging.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `661.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](battery-000-charging.svg) |
+| <a href="battery-000.svg"><img src="battery-000.svg" width="250" alt="battery-000.svg"></a> | **📂 檔名:** `battery-000.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `446.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](battery-000.svg) |
+| <a href="battery-010-charging.svg"><img src="battery-010-charging.svg" width="250" alt="battery-010-charging.svg"></a> | **📂 檔名:** `battery-010-charging.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `674.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](battery-010-charging.svg) |
+| <a href="battery-010.svg"><img src="battery-010.svg" width="250" alt="battery-010.svg"></a> | **📂 檔名:** `battery-010.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `459.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](battery-010.svg) |
+| <a href="battery-020-charging.svg"><img src="battery-020-charging.svg" width="250" alt="battery-020-charging.svg"></a> | **📂 檔名:** `battery-020-charging.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `658.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](battery-020-charging.svg) |
+| <a href="battery-020.svg"><img src="battery-020.svg" width="250" alt="battery-020.svg"></a> | **📂 檔名:** `battery-020.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `443.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](battery-020.svg) |
+| <a href="battery-030-charging.svg"><img src="battery-030-charging.svg" width="250" alt="battery-030-charging.svg"></a> | **📂 檔名:** `battery-030-charging.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `658.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](battery-030-charging.svg) |
+| <a href="battery-030.svg"><img src="battery-030.svg" width="250" alt="battery-030.svg"></a> | **📂 檔名:** `battery-030.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `443.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](battery-030.svg) |
+| <a href="battery-040-charging.svg"><img src="battery-040-charging.svg" width="250" alt="battery-040-charging.svg"></a> | **📂 檔名:** `battery-040-charging.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `658.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](battery-040-charging.svg) |
+| <a href="battery-040.svg"><img src="battery-040.svg" width="250" alt="battery-040.svg"></a> | **📂 檔名:** `battery-040.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `443.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](battery-040.svg) |
+| <a href="battery-050-charging.svg"><img src="battery-050-charging.svg" width="250" alt="battery-050-charging.svg"></a> | **📂 檔名:** `battery-050-charging.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `658.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](battery-050-charging.svg) |
+| <a href="battery-050.svg"><img src="battery-050.svg" width="250" alt="battery-050.svg"></a> | **📂 檔名:** `battery-050.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `443.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](battery-050.svg) |
+| <a href="battery-060-charging.svg"><img src="battery-060-charging.svg" width="250" alt="battery-060-charging.svg"></a> | **📂 檔名:** `battery-060-charging.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `658.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](battery-060-charging.svg) |
+| <a href="battery-060.svg"><img src="battery-060.svg" width="250" alt="battery-060.svg"></a> | **📂 檔名:** `battery-060.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `443.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](battery-060.svg) |
+| <a href="battery-070-charging.svg"><img src="battery-070-charging.svg" width="250" alt="battery-070-charging.svg"></a> | **📂 檔名:** `battery-070-charging.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `658.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](battery-070-charging.svg) |
+| <a href="battery-070.svg"><img src="battery-070.svg" width="250" alt="battery-070.svg"></a> | **📂 檔名:** `battery-070.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `443.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](battery-070.svg) |
+| <a href="battery-080-charging.svg"><img src="battery-080-charging.svg" width="250" alt="battery-080-charging.svg"></a> | **📂 檔名:** `battery-080-charging.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `658.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](battery-080-charging.svg) |
+| <a href="battery-080.svg"><img src="battery-080.svg" width="250" alt="battery-080.svg"></a> | **📂 檔名:** `battery-080.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `443.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](battery-080.svg) |
+| <a href="battery-090-charging.svg"><img src="battery-090-charging.svg" width="250" alt="battery-090-charging.svg"></a> | **📂 檔名:** `battery-090-charging.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `658.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](battery-090-charging.svg) |
+| <a href="battery-090.svg"><img src="battery-090.svg" width="250" alt="battery-090.svg"></a> | **📂 檔名:** `battery-090.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `443.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](battery-090.svg) |
+| <a href="battery-100-charging.svg"><img src="battery-100-charging.svg" width="250" alt="battery-100-charging.svg"></a> | **📂 檔名:** `battery-100-charging.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `657.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](battery-100-charging.svg) |
+| <a href="battery-100.svg"><img src="battery-100.svg" width="250" alt="battery-100.svg"></a> | **📂 檔名:** `battery-100.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `442.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](battery-100.svg) |
+| <a href="battery-missing.svg"><img src="battery-missing.svg" width="250" alt="battery-missing.svg"></a> | **📂 檔名:** `battery-missing.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `850.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](battery-missing.svg) |
+| <a href="call-incoming.svg"><img src="call-incoming.svg" width="250" alt="call-incoming.svg"></a> | **📂 檔名:** `call-incoming.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.18KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](call-incoming.svg) |
+| <a href="call-missed.svg"><img src="call-missed.svg" width="250" alt="call-missed.svg"></a> | **📂 檔名:** `call-missed.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `818.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](call-missed.svg) |
+| <a href="call-outgoing.svg"><img src="call-outgoing.svg" width="250" alt="call-outgoing.svg"></a> | **📂 檔名:** `call-outgoing.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.18KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](call-outgoing.svg) |
+| <a href="camera-off.svg"><img src="camera-off.svg" width="250" alt="camera-off.svg"></a> | **📂 檔名:** `camera-off.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.61KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](camera-off.svg) |
+| <a href="camera-on.svg"><img src="camera-on.svg" width="250" alt="camera-on.svg"></a> | **📂 檔名:** `camera-on.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.74KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](camera-on.svg) |
+| <a href="camera-ready.svg"><img src="camera-ready.svg" width="250" alt="camera-ready.svg"></a> | **📂 檔名:** `camera-ready.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.74KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](camera-ready.svg) |
+| <a href="crow-translate-tray.svg"><img src="crow-translate-tray.svg" width="250" alt="crow-translate-tray.svg"></a> | **📂 檔名:** `crow-translate-tray.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.24KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](crow-translate-tray.svg) |
+| <a href="data-error.svg"><img src="data-error.svg" width="250" alt="data-error.svg"></a> | **📂 檔名:** `data-error.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `465.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](data-error.svg) |
+| <a href="data-information.svg"><img src="data-information.svg" width="250" alt="data-information.svg"></a> | **📂 檔名:** `data-information.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `376.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](data-information.svg) |
+| <a href="data-warning.svg"><img src="data-warning.svg" width="250" alt="data-warning.svg"></a> | **📂 檔名:** `data-warning.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `603.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](data-warning.svg) |
+| <a href="device-notifier-symbolic.svg"><img src="device-notifier-symbolic.svg" width="250" alt="device-notifier-symbolic.svg"></a> | **📂 檔名:** `device-notifier-symbolic.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `2.39KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](device-notifier-symbolic.svg) |
+| <a href="dialog-information.svg"><img src="dialog-information.svg" width="250" alt="dialog-information.svg"></a> | **📂 檔名:** `dialog-information.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `529.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](dialog-information.svg) |
+| <a href="dialog-warning.svg"><img src="dialog-warning.svg" width="250" alt="dialog-warning.svg"></a> | **📂 檔名:** `dialog-warning.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `381.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](dialog-warning.svg) |
+| <a href="disk-quota-critical.svg"><img src="disk-quota-critical.svg" width="250" alt="disk-quota-critical.svg"></a> | **📂 檔名:** `disk-quota-critical.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.71KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](disk-quota-critical.svg) |
+| <a href="disk-quota-high.svg"><img src="disk-quota-high.svg" width="250" alt="disk-quota-high.svg"></a> | **📂 檔名:** `disk-quota-high.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.61KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](disk-quota-high.svg) |
+| <a href="disk-quota-low.svg"><img src="disk-quota-low.svg" width="250" alt="disk-quota-low.svg"></a> | **📂 檔名:** `disk-quota-low.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.74KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](disk-quota-low.svg) |
+| <a href="disk-quota.svg"><img src="disk-quota.svg" width="250" alt="disk-quota.svg"></a> | **📂 檔名:** `disk-quota.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.57KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](disk-quota.svg) |
+| <a href="firewall-applet-error.svg"><img src="firewall-applet-error.svg" width="250" alt="firewall-applet-error.svg"></a> | **📂 檔名:** `firewall-applet-error.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `696.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](firewall-applet-error.svg) |
+| <a href="firewall-applet-panic.svg"><img src="firewall-applet-panic.svg" width="250" alt="firewall-applet-panic.svg"></a> | **📂 檔名:** `firewall-applet-panic.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `802.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](firewall-applet-panic.svg) |
+| <a href="firewall-applet-shields_up.svg"><img src="firewall-applet-shields_up.svg" width="250" alt="firewall-applet-shields_up.svg"></a> | **📂 檔名:** `firewall-applet-shields_up.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `720.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](firewall-applet-shields_up.svg) |
+| <a href="firewall-applet.svg"><img src="firewall-applet.svg" width="250" alt="firewall-applet.svg"></a> | **📂 檔名:** `firewall-applet.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `432.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](firewall-applet.svg) |
+| <a href="image-missing.svg"><img src="image-missing.svg" width="250" alt="image-missing.svg"></a> | **📂 檔名:** `image-missing.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `731.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](image-missing.svg) |
+| <a href="input-caps-on.svg"><img src="input-caps-on.svg" width="250" alt="input-caps-on.svg"></a> | **📂 檔名:** `input-caps-on.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `555.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](input-caps-on.svg) |
+| <a href="kdeconnect-tray.svg"><img src="kdeconnect-tray.svg" width="250" alt="kdeconnect-tray.svg"></a> | **📂 檔名:** `kdeconnect-tray.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.43KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](kdeconnect-tray.svg) |
+| <a href="media-playback-paused.svg"><img src="media-playback-paused.svg" width="250" alt="media-playback-paused.svg"></a> | **📂 檔名:** `media-playback-paused.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `479.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](media-playback-paused.svg) |
+| <a href="media-playback-playing.svg"><img src="media-playback-playing.svg" width="250" alt="media-playback-playing.svg"></a> | **📂 檔名:** `media-playback-playing.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `437.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](media-playback-playing.svg) |
+| <a href="media-playback-stopped.svg"><img src="media-playback-stopped.svg" width="250" alt="media-playback-stopped.svg"></a> | **📂 檔名:** `media-playback-stopped.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `445.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](media-playback-stopped.svg) |
+| <a href="meeting-organizer.svg"><img src="meeting-organizer.svg" width="250" alt="meeting-organizer.svg"></a> | **📂 檔名:** `meeting-organizer.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `673.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](meeting-organizer.svg) |
+| <a href="mic-off.svg"><img src="mic-off.svg" width="250" alt="mic-off.svg"></a> | **📂 檔名:** `mic-off.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1008.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](mic-off.svg) |
+| <a href="mic-on.svg"><img src="mic-on.svg" width="250" alt="mic-on.svg"></a> | **📂 檔名:** `mic-on.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.29KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](mic-on.svg) |
+| <a href="mic-ready.svg"><img src="mic-ready.svg" width="250" alt="mic-ready.svg"></a> | **📂 檔名:** `mic-ready.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `921.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](mic-ready.svg) |
+| <a href="microphone-sensitivity-high.svg"><img src="microphone-sensitivity-high.svg" width="250" alt="microphone-sensitivity-high.svg"></a> | **📂 檔名:** `microphone-sensitivity-high.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.04KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](microphone-sensitivity-high.svg) |
+| <a href="microphone-sensitivity-low.svg"><img src="microphone-sensitivity-low.svg" width="250" alt="microphone-sensitivity-low.svg"></a> | **📂 檔名:** `microphone-sensitivity-low.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.09KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](microphone-sensitivity-low.svg) |
+| <a href="microphone-sensitivity-medium.svg"><img src="microphone-sensitivity-medium.svg" width="250" alt="microphone-sensitivity-medium.svg"></a> | **📂 檔名:** `microphone-sensitivity-medium.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.06KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](microphone-sensitivity-medium.svg) |
+| <a href="microphone-sensitivity-muted.svg"><img src="microphone-sensitivity-muted.svg" width="250" alt="microphone-sensitivity-muted.svg"></a> | **📂 檔名:** `microphone-sensitivity-muted.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.45KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](microphone-sensitivity-muted.svg) |
+| <a href="printer-error-symbolic.svg"><img src="printer-error-symbolic.svg" width="250" alt="printer-error-symbolic.svg"></a> | **📂 檔名:** `printer-error-symbolic.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `835.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](printer-error-symbolic.svg) |
+| <a href="printer-warning-symbolic.svg"><img src="printer-warning-symbolic.svg" width="250" alt="printer-warning-symbolic.svg"></a> | **📂 檔名:** `printer-warning-symbolic.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `898.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](printer-warning-symbolic.svg) |
+| <a href="process-working-symbolic.svg"><img src="process-working-symbolic.svg" width="250" alt="process-working-symbolic.svg"></a> | **📂 檔名:** `process-working-symbolic.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.99KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](process-working-symbolic.svg) |
+| <a href="rotation-allowed.svg"><img src="rotation-allowed.svg" width="250" alt="rotation-allowed.svg"></a> | **📂 檔名:** `rotation-allowed.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `908.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](rotation-allowed.svg) |
+| <a href="rotation-locked-landscape.svg"><img src="rotation-locked-landscape.svg" width="250" alt="rotation-locked-landscape.svg"></a> | **📂 檔名:** `rotation-locked-landscape.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `512.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](rotation-locked-landscape.svg) |
+| <a href="rotation-locked-portrait.svg"><img src="rotation-locked-portrait.svg" width="250" alt="rotation-locked-portrait.svg"></a> | **📂 檔名:** `rotation-locked-portrait.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `511.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](rotation-locked-portrait.svg) |
+| <a href="security-high.svg"><img src="security-high.svg" width="250" alt="security-high.svg"></a> | **📂 檔名:** `security-high.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.17KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](security-high.svg) |
+| <a href="security-low.svg"><img src="security-low.svg" width="250" alt="security-low.svg"></a> | **📂 檔名:** `security-low.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `948.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](security-low.svg) |
+| <a href="security-medium.svg"><img src="security-medium.svg" width="250" alt="security-medium.svg"></a> | **📂 檔名:** `security-medium.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.06KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](security-medium.svg) |
+| <a href="semi-starred-symbolic-rtl.svg"><img src="semi-starred-symbolic-rtl.svg" width="250" alt="semi-starred-symbolic-rtl.svg"></a> | **📂 檔名:** `semi-starred-symbolic-rtl.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `658.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](semi-starred-symbolic-rtl.svg) |
+| <a href="semi-starred-symbolic.svg"><img src="semi-starred-symbolic.svg" width="250" alt="semi-starred-symbolic.svg"></a> | **📂 檔名:** `semi-starred-symbolic.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `660.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](semi-starred-symbolic.svg) |
+| <a href="smartphoneconnected.svg"><img src="smartphoneconnected.svg" width="250" alt="smartphoneconnected.svg"></a> | **📂 檔名:** `smartphoneconnected.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `950.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](smartphoneconnected.svg) |
+| <a href="smartphonedisconnected.svg"><img src="smartphonedisconnected.svg" width="250" alt="smartphonedisconnected.svg"></a> | **📂 檔名:** `smartphonedisconnected.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `950.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](smartphonedisconnected.svg) |
+| <a href="smartphonetrusted.svg"><img src="smartphonetrusted.svg" width="250" alt="smartphonetrusted.svg"></a> | **📂 檔名:** `smartphonetrusted.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `932.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](smartphonetrusted.svg) |
+| <a href="state-download.svg"><img src="state-download.svg" width="250" alt="state-download.svg"></a> | **📂 檔名:** `state-download.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.62KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](state-download.svg) |
+| <a href="state-error.svg"><img src="state-error.svg" width="250" alt="state-error.svg"></a> | **📂 檔名:** `state-error.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.85KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](state-error.svg) |
+| <a href="state-information.svg"><img src="state-information.svg" width="250" alt="state-information.svg"></a> | **📂 檔名:** `state-information.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.61KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](state-information.svg) |
+| <a href="state-offline.svg"><img src="state-offline.svg" width="250" alt="state-offline.svg"></a> | **📂 檔名:** `state-offline.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.47KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](state-offline.svg) |
+| <a href="state-ok.svg"><img src="state-ok.svg" width="250" alt="state-ok.svg"></a> | **📂 檔名:** `state-ok.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.73KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](state-ok.svg) |
+| <a href="state-pause.svg"><img src="state-pause.svg" width="250" alt="state-pause.svg"></a> | **📂 檔名:** `state-pause.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.63KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](state-pause.svg) |
+| <a href="state-sync.svg"><img src="state-sync.svg" width="250" alt="state-sync.svg"></a> | **📂 檔名:** `state-sync.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.93KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](state-sync.svg) |
+| <a href="state-warning.svg"><img src="state-warning.svg" width="250" alt="state-warning.svg"></a> | **📂 檔名:** `state-warning.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.60KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](state-warning.svg) |
+| <a href="task-complete.svg"><img src="task-complete.svg" width="250" alt="task-complete.svg"></a> | **📂 檔名:** `task-complete.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `551.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](task-complete.svg) |
+| <a href="task-process-0.svg"><img src="task-process-0.svg" width="250" alt="task-process-0.svg"></a> | **📂 檔名:** `task-process-0.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `457.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](task-process-0.svg) |
+| <a href="task-process-1.svg"><img src="task-process-1.svg" width="250" alt="task-process-1.svg"></a> | **📂 檔名:** `task-process-1.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `453.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](task-process-1.svg) |
+| <a href="task-process-2.svg"><img src="task-process-2.svg" width="250" alt="task-process-2.svg"></a> | **📂 檔名:** `task-process-2.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `452.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](task-process-2.svg) |
+| <a href="task-process-3.svg"><img src="task-process-3.svg" width="250" alt="task-process-3.svg"></a> | **📂 檔名:** `task-process-3.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `419.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](task-process-3.svg) |
+| <a href="task-process-4.svg"><img src="task-process-4.svg" width="250" alt="task-process-4.svg"></a> | **📂 檔名:** `task-process-4.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `399.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](task-process-4.svg) |
+| <a href="temperature-cold.svg"><img src="temperature-cold.svg" width="250" alt="temperature-cold.svg"></a> | **📂 檔名:** `temperature-cold.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `748.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](temperature-cold.svg) |
+| <a href="temperature-normal.svg"><img src="temperature-normal.svg" width="250" alt="temperature-normal.svg"></a> | **📂 檔名:** `temperature-normal.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `759.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](temperature-normal.svg) |
+| <a href="temperature-warm.svg"><img src="temperature-warm.svg" width="250" alt="temperature-warm.svg"></a> | **📂 檔名:** `temperature-warm.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `763.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](temperature-warm.svg) |
+| <a href="user-idle.svg"><img src="user-idle.svg" width="250" alt="user-idle.svg"></a> | **📂 檔名:** `user-idle.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `882.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](user-idle.svg) |

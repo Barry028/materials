@@ -1,45 +1,47 @@
-# 🖼️ File
+# 🖼️ 素材分類：File
 
-[⬅️ 返回主目錄](../../../../README.md)
+> [🏠 主目錄](../../../../README.md) / **File**
 
-| 預覽 | 資訊 |
+本目錄共有 `39` 個檔案
+
+| 🎨 預覽 (點擊放大) | 📋 檔案詳細資訊 |
 | :--- | :--- |
-| <a href="Archive.svg"><img src="Archive.svg" width="200"></a> | **Archive.svg** |
-| <a href="Cloud.svg"><img src="Cloud.svg" width="200"></a> | **Cloud.svg** |
-| <a href="Cloud_Add.svg"><img src="Cloud_Add.svg" width="200"></a> | **Cloud_Add.svg** |
-| <a href="Cloud_Check.svg"><img src="Cloud_Check.svg" width="200"></a> | **Cloud_Check.svg** |
-| <a href="Cloud_Close.svg"><img src="Cloud_Close.svg" width="200"></a> | **Cloud_Close.svg** |
-| <a href="Cloud_Download.svg"><img src="Cloud_Download.svg" width="200"></a> | **Cloud_Download.svg** |
-| <a href="Cloud_Off.svg"><img src="Cloud_Off.svg" width="200"></a> | **Cloud_Off.svg** |
-| <a href="Cloud_Remove.svg"><img src="Cloud_Remove.svg" width="200"></a> | **Cloud_Remove.svg** |
-| <a href="Cloud_Upload.svg"><img src="Cloud_Upload.svg" width="200"></a> | **Cloud_Upload.svg** |
-| <a href="Download_Package.svg"><img src="Download_Package.svg" width="200"></a> | **Download_Package.svg** |
-| <a href="File_Add.svg"><img src="File_Add.svg" width="200"></a> | **File_Add.svg** |
-| <a href="File_Blank.svg"><img src="File_Blank.svg" width="200"></a> | **File_Blank.svg** |
-| <a href="File_Check.svg"><img src="File_Check.svg" width="200"></a> | **File_Check.svg** |
-| <a href="File_Close.svg"><img src="File_Close.svg" width="200"></a> | **File_Close.svg** |
-| <a href="File_Code.svg"><img src="File_Code.svg" width="200"></a> | **File_Code.svg** |
-| <a href="File_Document.svg"><img src="File_Document.svg" width="200"></a> | **File_Document.svg** |
-| <a href="File_Download.svg"><img src="File_Download.svg" width="200"></a> | **File_Download.svg** |
-| <a href="File_Edit.svg"><img src="File_Edit.svg" width="200"></a> | **File_Edit.svg** |
-| <a href="File_Remove.svg"><img src="File_Remove.svg" width="200"></a> | **File_Remove.svg** |
-| <a href="File_Search.svg"><img src="File_Search.svg" width="200"></a> | **File_Search.svg** |
-| <a href="File_Upload.svg"><img src="File_Upload.svg" width="200"></a> | **File_Upload.svg** |
-| <a href="Files.svg"><img src="Files.svg" width="200"></a> | **Files.svg** |
-| <a href="Folder.svg"><img src="Folder.svg" width="200"></a> | **Folder.svg** |
-| <a href="Folder_Add.svg"><img src="Folder_Add.svg" width="200"></a> | **Folder_Add.svg** |
-| <a href="Folder_Check.svg"><img src="Folder_Check.svg" width="200"></a> | **Folder_Check.svg** |
-| <a href="Folder_Close.svg"><img src="Folder_Close.svg" width="200"></a> | **Folder_Close.svg** |
-| <a href="Folder_Code.svg"><img src="Folder_Code.svg" width="200"></a> | **Folder_Code.svg** |
-| <a href="Folder_Document.svg"><img src="Folder_Document.svg" width="200"></a> | **Folder_Document.svg** |
-| <a href="Folder_Download.svg"><img src="Folder_Download.svg" width="200"></a> | **Folder_Download.svg** |
-| <a href="Folder_Edit.svg"><img src="Folder_Edit.svg" width="200"></a> | **Folder_Edit.svg** |
-| <a href="Folder_Open.svg"><img src="Folder_Open.svg" width="200"></a> | **Folder_Open.svg** |
-| <a href="Folder_Remove.svg"><img src="Folder_Remove.svg" width="200"></a> | **Folder_Remove.svg** |
-| <a href="Folder_Search.svg"><img src="Folder_Search.svg" width="200"></a> | **Folder_Search.svg** |
-| <a href="Folder_Upload.svg"><img src="Folder_Upload.svg" width="200"></a> | **Folder_Upload.svg** |
-| <a href="Folders.svg"><img src="Folders.svg" width="200"></a> | **Folders.svg** |
-| <a href="Note.svg"><img src="Note.svg" width="200"></a> | **Note.svg** |
-| <a href="Note_Edit.svg"><img src="Note_Edit.svg" width="200"></a> | **Note_Edit.svg** |
-| <a href="Note_Search.svg"><img src="Note_Search.svg" width="200"></a> | **Note_Search.svg** |
-| <a href="Notebook.svg"><img src="Notebook.svg" width="200"></a> | **Notebook.svg** |
+| <a href="Archive.svg"><img src="Archive.svg" width="250" alt="Archive.svg"></a> | **📂 檔名:** `Archive.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.29KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Archive.svg) |
+| <a href="Cloud.svg"><img src="Cloud.svg" width="250" alt="Cloud.svg"></a> | **📂 檔名:** `Cloud.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `452.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Cloud.svg) |
+| <a href="Cloud_Add.svg"><img src="Cloud_Add.svg" width="250" alt="Cloud_Add.svg"></a> | **📂 檔名:** `Cloud_Add.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `487.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Cloud_Add.svg) |
+| <a href="Cloud_Check.svg"><img src="Cloud_Check.svg" width="250" alt="Cloud_Check.svg"></a> | **📂 檔名:** `Cloud_Check.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `469.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Cloud_Check.svg) |
+| <a href="Cloud_Close.svg"><img src="Cloud_Close.svg" width="250" alt="Cloud_Close.svg"></a> | **📂 檔名:** `Cloud_Close.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `500.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Cloud_Close.svg) |
+| <a href="Cloud_Download.svg"><img src="Cloud_Download.svg" width="250" alt="Cloud_Download.svg"></a> | **📂 檔名:** `Cloud_Download.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `483.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Cloud_Download.svg) |
+| <a href="Cloud_Off.svg"><img src="Cloud_Off.svg" width="250" alt="Cloud_Off.svg"></a> | **📂 檔名:** `Cloud_Off.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `539.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Cloud_Off.svg) |
+| <a href="Cloud_Remove.svg"><img src="Cloud_Remove.svg" width="250" alt="Cloud_Remove.svg"></a> | **📂 檔名:** `Cloud_Remove.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `460.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Cloud_Remove.svg) |
+| <a href="Cloud_Upload.svg"><img src="Cloud_Upload.svg" width="250" alt="Cloud_Upload.svg"></a> | **📂 檔名:** `Cloud_Upload.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `484.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Cloud_Upload.svg) |
+| <a href="Download_Package.svg"><img src="Download_Package.svg" width="250" alt="Download_Package.svg"></a> | **📂 檔名:** `Download_Package.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `771.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Download_Package.svg) |
+| <a href="File_Add.svg"><img src="File_Add.svg" width="250" alt="File_Add.svg"></a> | **📂 檔名:** `File_Add.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.11KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](File_Add.svg) |
+| <a href="File_Blank.svg"><img src="File_Blank.svg" width="250" alt="File_Blank.svg"></a> | **📂 檔名:** `File_Blank.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.08KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](File_Blank.svg) |
+| <a href="File_Check.svg"><img src="File_Check.svg" width="250" alt="File_Check.svg"></a> | **📂 檔名:** `File_Check.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.09KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](File_Check.svg) |
+| <a href="File_Close.svg"><img src="File_Close.svg" width="250" alt="File_Close.svg"></a> | **📂 檔名:** `File_Close.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.12KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](File_Close.svg) |
+| <a href="File_Code.svg"><img src="File_Code.svg" width="250" alt="File_Code.svg"></a> | **📂 檔名:** `File_Code.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.11KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](File_Code.svg) |
+| <a href="File_Document.svg"><img src="File_Document.svg" width="250" alt="File_Document.svg"></a> | **📂 檔名:** `File_Document.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.10KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](File_Document.svg) |
+| <a href="File_Download.svg"><img src="File_Download.svg" width="250" alt="File_Download.svg"></a> | **📂 檔名:** `File_Download.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.11KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](File_Download.svg) |
+| <a href="File_Edit.svg"><img src="File_Edit.svg" width="250" alt="File_Edit.svg"></a> | **📂 檔名:** `File_Edit.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.02KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](File_Edit.svg) |
+| <a href="File_Remove.svg"><img src="File_Remove.svg" width="250" alt="File_Remove.svg"></a> | **📂 檔名:** `File_Remove.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.09KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](File_Remove.svg) |
+| <a href="File_Search.svg"><img src="File_Search.svg" width="250" alt="File_Search.svg"></a> | **📂 檔名:** `File_Search.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.24KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](File_Search.svg) |
+| <a href="File_Upload.svg"><img src="File_Upload.svg" width="250" alt="File_Upload.svg"></a> | **📂 檔名:** `File_Upload.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.11KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](File_Upload.svg) |
+| <a href="Files.svg"><img src="Files.svg" width="250" alt="Files.svg"></a> | **📂 檔名:** `Files.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.64KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Files.svg) |
+| <a href="Folder.svg"><img src="Folder.svg" width="250" alt="Folder.svg"></a> | **📂 檔名:** `Folder.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `775.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Folder.svg) |
+| <a href="Folder_Add.svg"><img src="Folder_Add.svg" width="250" alt="Folder_Add.svg"></a> | **📂 檔名:** `Folder_Add.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `810.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Folder_Add.svg) |
+| <a href="Folder_Check.svg"><img src="Folder_Check.svg" width="250" alt="Folder_Check.svg"></a> | **📂 檔名:** `Folder_Check.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `792.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Folder_Check.svg) |
+| <a href="Folder_Close.svg"><img src="Folder_Close.svg" width="250" alt="Folder_Close.svg"></a> | **📂 檔名:** `Folder_Close.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `823.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Folder_Close.svg) |
+| <a href="Folder_Code.svg"><img src="Folder_Code.svg" width="250" alt="Folder_Code.svg"></a> | **📂 檔名:** `Folder_Code.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `810.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Folder_Code.svg) |
+| <a href="Folder_Document.svg"><img src="Folder_Document.svg" width="250" alt="Folder_Document.svg"></a> | **📂 檔名:** `Folder_Document.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `792.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Folder_Document.svg) |
+| <a href="Folder_Download.svg"><img src="Folder_Download.svg" width="250" alt="Folder_Download.svg"></a> | **📂 檔名:** `Folder_Download.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `807.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Folder_Download.svg) |
+| <a href="Folder_Edit.svg"><img src="Folder_Edit.svg" width="250" alt="Folder_Edit.svg"></a> | **📂 檔名:** `Folder_Edit.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `755.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Folder_Edit.svg) |
+| <a href="Folder_Open.svg"><img src="Folder_Open.svg" width="250" alt="Folder_Open.svg"></a> | **📂 檔名:** `Folder_Open.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.43KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Folder_Open.svg) |
+| <a href="Folder_Remove.svg"><img src="Folder_Remove.svg" width="250" alt="Folder_Remove.svg"></a> | **📂 檔名:** `Folder_Remove.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `784.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Folder_Remove.svg) |
+| <a href="Folder_Search.svg"><img src="Folder_Search.svg" width="250" alt="Folder_Search.svg"></a> | **📂 檔名:** `Folder_Search.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `933.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Folder_Search.svg) |
+| <a href="Folder_Upload.svg"><img src="Folder_Upload.svg" width="250" alt="Folder_Upload.svg"></a> | **📂 檔名:** `Folder_Upload.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `807.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Folder_Upload.svg) |
+| <a href="Folders.svg"><img src="Folders.svg" width="250" alt="Folders.svg"></a> | **📂 檔名:** `Folders.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.49KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Folders.svg) |
+| <a href="Note.svg"><img src="Note.svg" width="250" alt="Note.svg"></a> | **📂 檔名:** `Note.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.07KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Note.svg) |
+| <a href="Note_Edit.svg"><img src="Note_Edit.svg" width="250" alt="Note_Edit.svg"></a> | **📂 檔名:** `Note_Edit.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `624.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Note_Edit.svg) |
+| <a href="Note_Search.svg"><img src="Note_Search.svg" width="250" alt="Note_Search.svg"></a> | **📂 檔名:** `Note_Search.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `710.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Note_Search.svg) |
+| <a href="Notebook.svg"><img src="Notebook.svg" width="250" alt="Notebook.svg"></a> | **📂 檔名:** `Notebook.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `719.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Notebook.svg) |

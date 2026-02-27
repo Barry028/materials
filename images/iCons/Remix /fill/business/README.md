@@ -1,91 +1,93 @@
-# 🖼️ business
+# 🖼️ 素材分類：business
 
-[⬅️ 返回主目錄](../../../../../README.md)
+> [🏠 主目錄](../../../../../README.md) / **business**
 
-| 預覽 | 資訊 |
+本目錄共有 `85` 個檔案
+
+| 🎨 預覽 (點擊放大) | 📋 檔案詳細資訊 |
 | :--- | :--- |
-| <a href="advertisement-fill.svg"><img src="advertisement-fill.svg" width="200"></a> | **advertisement-fill.svg** |
-| <a href="archive-drawer-fill.svg"><img src="archive-drawer-fill.svg" width="200"></a> | **archive-drawer-fill.svg** |
-| <a href="archive-fill.svg"><img src="archive-fill.svg" width="200"></a> | **archive-fill.svg** |
-| <a href="at-fill.svg"><img src="at-fill.svg" width="200"></a> | **at-fill.svg** |
-| <a href="attachment-fill.svg"><img src="attachment-fill.svg" width="200"></a> | **attachment-fill.svg** |
-| <a href="award-fill.svg"><img src="award-fill.svg" width="200"></a> | **award-fill.svg** |
-| <a href="bar-chart-2-fill.svg"><img src="bar-chart-2-fill.svg" width="200"></a> | **bar-chart-2-fill.svg** |
-| <a href="bar-chart-box-fill.svg"><img src="bar-chart-box-fill.svg" width="200"></a> | **bar-chart-box-fill.svg** |
-| <a href="bar-chart-fill.svg"><img src="bar-chart-fill.svg" width="200"></a> | **bar-chart-fill.svg** |
-| <a href="bar-chart-grouped-fill.svg"><img src="bar-chart-grouped-fill.svg" width="200"></a> | **bar-chart-grouped-fill.svg** |
-| <a href="bar-chart-horizontal-fill.svg"><img src="bar-chart-horizontal-fill.svg" width="200"></a> | **bar-chart-horizontal-fill.svg** |
-| <a href="bookmark-2-fill.svg"><img src="bookmark-2-fill.svg" width="200"></a> | **bookmark-2-fill.svg** |
-| <a href="bookmark-3-fill.svg"><img src="bookmark-3-fill.svg" width="200"></a> | **bookmark-3-fill.svg** |
-| <a href="bookmark-fill.svg"><img src="bookmark-fill.svg" width="200"></a> | **bookmark-fill.svg** |
-| <a href="briefcase-2-fill.svg"><img src="briefcase-2-fill.svg" width="200"></a> | **briefcase-2-fill.svg** |
-| <a href="briefcase-3-fill.svg"><img src="briefcase-3-fill.svg" width="200"></a> | **briefcase-3-fill.svg** |
-| <a href="briefcase-4-fill.svg"><img src="briefcase-4-fill.svg" width="200"></a> | **briefcase-4-fill.svg** |
-| <a href="briefcase-5-fill.svg"><img src="briefcase-5-fill.svg" width="200"></a> | **briefcase-5-fill.svg** |
-| <a href="briefcase-fill.svg"><img src="briefcase-fill.svg" width="200"></a> | **briefcase-fill.svg** |
-| <a href="bubble-chart-fill.svg"><img src="bubble-chart-fill.svg" width="200"></a> | **bubble-chart-fill.svg** |
-| <a href="calculator-fill.svg"><img src="calculator-fill.svg" width="200"></a> | **calculator-fill.svg** |
-| <a href="calendar-2-fill.svg"><img src="calendar-2-fill.svg" width="200"></a> | **calendar-2-fill.svg** |
-| <a href="calendar-check-fill.svg"><img src="calendar-check-fill.svg" width="200"></a> | **calendar-check-fill.svg** |
-| <a href="calendar-event-fill.svg"><img src="calendar-event-fill.svg" width="200"></a> | **calendar-event-fill.svg** |
-| <a href="calendar-fill.svg"><img src="calendar-fill.svg" width="200"></a> | **calendar-fill.svg** |
-| <a href="calendar-todo-fill.svg"><img src="calendar-todo-fill.svg" width="200"></a> | **calendar-todo-fill.svg** |
-| <a href="cloud-fill.svg"><img src="cloud-fill.svg" width="200"></a> | **cloud-fill.svg** |
-| <a href="cloud-off-fill.svg"><img src="cloud-off-fill.svg" width="200"></a> | **cloud-off-fill.svg** |
-| <a href="copyleft-fill.svg"><img src="copyleft-fill.svg" width="200"></a> | **copyleft-fill.svg** |
-| <a href="copyright-fill.svg"><img src="copyright-fill.svg" width="200"></a> | **copyright-fill.svg** |
-| <a href="creative-commons-by-fill.svg"><img src="creative-commons-by-fill.svg" width="200"></a> | **creative-commons-by-fill.svg** |
-| <a href="creative-commons-fill.svg"><img src="creative-commons-fill.svg" width="200"></a> | **creative-commons-fill.svg** |
-| <a href="creative-commons-nc-fill.svg"><img src="creative-commons-nc-fill.svg" width="200"></a> | **creative-commons-nc-fill.svg** |
-| <a href="creative-commons-nd-fill.svg"><img src="creative-commons-nd-fill.svg" width="200"></a> | **creative-commons-nd-fill.svg** |
-| <a href="creative-commons-sa-fill.svg"><img src="creative-commons-sa-fill.svg" width="200"></a> | **creative-commons-sa-fill.svg** |
-| <a href="creative-commons-zero-fill.svg"><img src="creative-commons-zero-fill.svg" width="200"></a> | **creative-commons-zero-fill.svg** |
-| <a href="customer-service-2-fill.svg"><img src="customer-service-2-fill.svg" width="200"></a> | **customer-service-2-fill.svg** |
-| <a href="customer-service-fill.svg"><img src="customer-service-fill.svg" width="200"></a> | **customer-service-fill.svg** |
-| <a href="flag-2-fill.svg"><img src="flag-2-fill.svg" width="200"></a> | **flag-2-fill.svg** |
-| <a href="flag-fill.svg"><img src="flag-fill.svg" width="200"></a> | **flag-fill.svg** |
-| <a href="global-fill.svg"><img src="global-fill.svg" width="200"></a> | **global-fill.svg** |
-| <a href="honour-fill.svg"><img src="honour-fill.svg" width="200"></a> | **honour-fill.svg** |
-| <a href="inbox-archive-fill.svg"><img src="inbox-archive-fill.svg" width="200"></a> | **inbox-archive-fill.svg** |
-| <a href="inbox-fill.svg"><img src="inbox-fill.svg" width="200"></a> | **inbox-fill.svg** |
-| <a href="inbox-unarchive-fill.svg"><img src="inbox-unarchive-fill.svg" width="200"></a> | **inbox-unarchive-fill.svg** |
-| <a href="line-chart-fill.svg"><img src="line-chart-fill.svg" width="200"></a> | **line-chart-fill.svg** |
-| <a href="links-fill.svg"><img src="links-fill.svg" width="200"></a> | **links-fill.svg** |
-| <a href="mail-add-fill.svg"><img src="mail-add-fill.svg" width="200"></a> | **mail-add-fill.svg** |
-| <a href="mail-check-fill.svg"><img src="mail-check-fill.svg" width="200"></a> | **mail-check-fill.svg** |
-| <a href="mail-close-fill.svg"><img src="mail-close-fill.svg" width="200"></a> | **mail-close-fill.svg** |
-| <a href="mail-download-fill.svg"><img src="mail-download-fill.svg" width="200"></a> | **mail-download-fill.svg** |
-| <a href="mail-fill.svg"><img src="mail-fill.svg" width="200"></a> | **mail-fill.svg** |
-| <a href="mail-forbid-fill.svg"><img src="mail-forbid-fill.svg" width="200"></a> | **mail-forbid-fill.svg** |
-| <a href="mail-lock-fill.svg"><img src="mail-lock-fill.svg" width="200"></a> | **mail-lock-fill.svg** |
-| <a href="mail-open-fill.svg"><img src="mail-open-fill.svg" width="200"></a> | **mail-open-fill.svg** |
-| <a href="mail-send-fill.svg"><img src="mail-send-fill.svg" width="200"></a> | **mail-send-fill.svg** |
-| <a href="mail-settings-fill.svg"><img src="mail-settings-fill.svg" width="200"></a> | **mail-settings-fill.svg** |
-| <a href="mail-star-fill.svg"><img src="mail-star-fill.svg" width="200"></a> | **mail-star-fill.svg** |
-| <a href="mail-unread-fill.svg"><img src="mail-unread-fill.svg" width="200"></a> | **mail-unread-fill.svg** |
-| <a href="mail-volume-fill.svg"><img src="mail-volume-fill.svg" width="200"></a> | **mail-volume-fill.svg** |
-| <a href="medal-2-fill.svg"><img src="medal-2-fill.svg" width="200"></a> | **medal-2-fill.svg** |
-| <a href="medal-fill.svg"><img src="medal-fill.svg" width="200"></a> | **medal-fill.svg** |
-| <a href="pie-chart-2-fill.svg"><img src="pie-chart-2-fill.svg" width="200"></a> | **pie-chart-2-fill.svg** |
-| <a href="pie-chart-box-fill.svg"><img src="pie-chart-box-fill.svg" width="200"></a> | **pie-chart-box-fill.svg** |
-| <a href="pie-chart-fill.svg"><img src="pie-chart-fill.svg" width="200"></a> | **pie-chart-fill.svg** |
-| <a href="printer-cloud-fill.svg"><img src="printer-cloud-fill.svg" width="200"></a> | **printer-cloud-fill.svg** |
-| <a href="printer-fill.svg"><img src="printer-fill.svg" width="200"></a> | **printer-fill.svg** |
-| <a href="profile-fill.svg"><img src="profile-fill.svg" width="200"></a> | **profile-fill.svg** |
-| <a href="projector-2-fill.svg"><img src="projector-2-fill.svg" width="200"></a> | **projector-2-fill.svg** |
-| <a href="projector-fill.svg"><img src="projector-fill.svg" width="200"></a> | **projector-fill.svg** |
-| <a href="record-mail-fill.svg"><img src="record-mail-fill.svg" width="200"></a> | **record-mail-fill.svg** |
-| <a href="registered-fill.svg"><img src="registered-fill.svg" width="200"></a> | **registered-fill.svg** |
-| <a href="reply-all-fill.svg"><img src="reply-all-fill.svg" width="200"></a> | **reply-all-fill.svg** |
-| <a href="reply-fill.svg"><img src="reply-fill.svg" width="200"></a> | **reply-fill.svg** |
-| <a href="send-plane-2-fill.svg"><img src="send-plane-2-fill.svg" width="200"></a> | **send-plane-2-fill.svg** |
-| <a href="send-plane-fill.svg"><img src="send-plane-fill.svg" width="200"></a> | **send-plane-fill.svg** |
-| <a href="service-fill.svg"><img src="service-fill.svg" width="200"></a> | **service-fill.svg** |
-| <a href="slideshow-2-fill.svg"><img src="slideshow-2-fill.svg" width="200"></a> | **slideshow-2-fill.svg** |
-| <a href="slideshow-3-fill.svg"><img src="slideshow-3-fill.svg" width="200"></a> | **slideshow-3-fill.svg** |
-| <a href="slideshow-4-fill.svg"><img src="slideshow-4-fill.svg" width="200"></a> | **slideshow-4-fill.svg** |
-| <a href="slideshow-fill.svg"><img src="slideshow-fill.svg" width="200"></a> | **slideshow-fill.svg** |
-| <a href="stack-fill.svg"><img src="stack-fill.svg" width="200"></a> | **stack-fill.svg** |
-| <a href="trademark-fill.svg"><img src="trademark-fill.svg" width="200"></a> | **trademark-fill.svg** |
-| <a href="window-2-fill.svg"><img src="window-2-fill.svg" width="200"></a> | **window-2-fill.svg** |
-| <a href="window-fill.svg"><img src="window-fill.svg" width="200"></a> | **window-fill.svg** |
+| <a href="advertisement-fill.svg"><img src="advertisement-fill.svg" width="250" alt="advertisement-fill.svg"></a> | **📂 檔名:** `advertisement-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.10KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](advertisement-fill.svg) |
+| <a href="archive-drawer-fill.svg"><img src="archive-drawer-fill.svg" width="250" alt="archive-drawer-fill.svg"></a> | **📂 檔名:** `archive-drawer-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `622.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](archive-drawer-fill.svg) |
+| <a href="archive-fill.svg"><img src="archive-fill.svg" width="250" alt="archive-fill.svg"></a> | **📂 檔名:** `archive-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `592.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](archive-fill.svg) |
+| <a href="at-fill.svg"><img src="at-fill.svg" width="250" alt="at-fill.svg"></a> | **📂 檔名:** `at-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `2.12KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](at-fill.svg) |
+| <a href="attachment-fill.svg"><img src="attachment-fill.svg" width="250" alt="attachment-fill.svg"></a> | **📂 檔名:** `attachment-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.35KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](attachment-fill.svg) |
+| <a href="award-fill.svg"><img src="award-fill.svg" width="250" alt="award-fill.svg"></a> | **📂 檔名:** `award-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.68KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](award-fill.svg) |
+| <a href="bar-chart-2-fill.svg"><img src="bar-chart-2-fill.svg" width="250" alt="bar-chart-2-fill.svg"></a> | **📂 檔名:** `bar-chart-2-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `321.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](bar-chart-2-fill.svg) |
+| <a href="bar-chart-box-fill.svg"><img src="bar-chart-box-fill.svg" width="250" alt="bar-chart-box-fill.svg"></a> | **📂 檔名:** `bar-chart-box-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `636.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](bar-chart-box-fill.svg) |
+| <a href="bar-chart-fill.svg"><img src="bar-chart-fill.svg" width="250" alt="bar-chart-fill.svg"></a> | **📂 檔名:** `bar-chart-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `323.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](bar-chart-fill.svg) |
+| <a href="bar-chart-grouped-fill.svg"><img src="bar-chart-grouped-fill.svg" width="250" alt="bar-chart-grouped-fill.svg"></a> | **📂 檔名:** `bar-chart-grouped-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `373.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](bar-chart-grouped-fill.svg) |
+| <a href="bar-chart-horizontal-fill.svg"><img src="bar-chart-horizontal-fill.svg" width="250" alt="bar-chart-horizontal-fill.svg"></a> | **📂 檔名:** `bar-chart-horizontal-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `324.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](bar-chart-horizontal-fill.svg) |
+| <a href="bookmark-2-fill.svg"><img src="bookmark-2-fill.svg" width="250" alt="bookmark-2-fill.svg"></a> | **📂 檔名:** `bookmark-2-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `842.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](bookmark-2-fill.svg) |
+| <a href="bookmark-3-fill.svg"><img src="bookmark-3-fill.svg" width="250" alt="bookmark-3-fill.svg"></a> | **📂 檔名:** `bookmark-3-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `950.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](bookmark-3-fill.svg) |
+| <a href="bookmark-fill.svg"><img src="bookmark-fill.svg" width="250" alt="bookmark-fill.svg"></a> | **📂 檔名:** `bookmark-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `827.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](bookmark-fill.svg) |
+| <a href="briefcase-2-fill.svg"><img src="briefcase-2-fill.svg" width="250" alt="briefcase-2-fill.svg"></a> | **📂 檔名:** `briefcase-2-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `793.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](briefcase-2-fill.svg) |
+| <a href="briefcase-3-fill.svg"><img src="briefcase-3-fill.svg" width="250" alt="briefcase-3-fill.svg"></a> | **📂 檔名:** `briefcase-3-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `800.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](briefcase-3-fill.svg) |
+| <a href="briefcase-4-fill.svg"><img src="briefcase-4-fill.svg" width="250" alt="briefcase-4-fill.svg"></a> | **📂 檔名:** `briefcase-4-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `810.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](briefcase-4-fill.svg) |
+| <a href="briefcase-5-fill.svg"><img src="briefcase-5-fill.svg" width="250" alt="briefcase-5-fill.svg"></a> | **📂 檔名:** `briefcase-5-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `813.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](briefcase-5-fill.svg) |
+| <a href="briefcase-fill.svg"><img src="briefcase-fill.svg" width="250" alt="briefcase-fill.svg"></a> | **📂 檔名:** `briefcase-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `789.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](briefcase-fill.svg) |
+| <a href="bubble-chart-fill.svg"><img src="bubble-chart-fill.svg" width="250" alt="bubble-chart-fill.svg"></a> | **📂 檔名:** `bubble-chart-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `587.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](bubble-chart-fill.svg) |
+| <a href="calculator-fill.svg"><img src="calculator-fill.svg" width="250" alt="calculator-fill.svg"></a> | **📂 檔名:** `calculator-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `688.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](calculator-fill.svg) |
+| <a href="calendar-2-fill.svg"><img src="calendar-2-fill.svg" width="250" alt="calendar-2-fill.svg"></a> | **📂 檔名:** `calendar-2-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `672.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](calendar-2-fill.svg) |
+| <a href="calendar-check-fill.svg"><img src="calendar-check-fill.svg" width="250" alt="calendar-check-fill.svg"></a> | **📂 檔名:** `calendar-check-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `714.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](calendar-check-fill.svg) |
+| <a href="calendar-event-fill.svg"><img src="calendar-event-fill.svg" width="250" alt="calendar-event-fill.svg"></a> | **📂 檔名:** `calendar-event-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `635.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](calendar-event-fill.svg) |
+| <a href="calendar-fill.svg"><img src="calendar-fill.svg" width="250" alt="calendar-fill.svg"></a> | **📂 檔名:** `calendar-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `619.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](calendar-fill.svg) |
+| <a href="calendar-todo-fill.svg"><img src="calendar-todo-fill.svg" width="250" alt="calendar-todo-fill.svg"></a> | **📂 檔名:** `calendar-todo-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `688.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](calendar-todo-fill.svg) |
+| <a href="cloud-fill.svg"><img src="cloud-fill.svg" width="250" alt="cloud-fill.svg"></a> | **📂 檔名:** `cloud-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.07KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](cloud-fill.svg) |
+| <a href="cloud-off-fill.svg"><img src="cloud-off-fill.svg" width="250" alt="cloud-off-fill.svg"></a> | **📂 檔名:** `cloud-off-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.17KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](cloud-off-fill.svg) |
+| <a href="copyleft-fill.svg"><img src="copyleft-fill.svg" width="250" alt="copyleft-fill.svg"></a> | **📂 檔名:** `copyleft-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `616.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](copyleft-fill.svg) |
+| <a href="copyright-fill.svg"><img src="copyright-fill.svg" width="250" alt="copyright-fill.svg"></a> | **📂 檔名:** `copyright-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `966.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](copyright-fill.svg) |
+| <a href="creative-commons-by-fill.svg"><img src="creative-commons-by-fill.svg" width="250" alt="creative-commons-by-fill.svg"></a> | **📂 檔名:** `creative-commons-by-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `894.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](creative-commons-by-fill.svg) |
+| <a href="creative-commons-fill.svg"><img src="creative-commons-fill.svg" width="250" alt="creative-commons-fill.svg"></a> | **📂 檔名:** `creative-commons-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.80KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](creative-commons-fill.svg) |
+| <a href="creative-commons-nc-fill.svg"><img src="creative-commons-nc-fill.svg" width="250" alt="creative-commons-nc-fill.svg"></a> | **📂 檔名:** `creative-commons-nc-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.49KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](creative-commons-nc-fill.svg) |
+| <a href="creative-commons-nd-fill.svg"><img src="creative-commons-nd-fill.svg" width="250" alt="creative-commons-nd-fill.svg"></a> | **📂 檔名:** `creative-commons-nd-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `407.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](creative-commons-nd-fill.svg) |
+| <a href="creative-commons-sa-fill.svg"><img src="creative-commons-sa-fill.svg" width="250" alt="creative-commons-sa-fill.svg"></a> | **📂 檔名:** `creative-commons-sa-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `630.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](creative-commons-sa-fill.svg) |
+| <a href="creative-commons-zero-fill.svg"><img src="creative-commons-zero-fill.svg" width="250" alt="creative-commons-zero-fill.svg"></a> | **📂 檔名:** `creative-commons-zero-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `712.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](creative-commons-zero-fill.svg) |
+| <a href="customer-service-2-fill.svg"><img src="customer-service-2-fill.svg" width="250" alt="customer-service-2-fill.svg"></a> | **📂 檔名:** `customer-service-2-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.31KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](customer-service-2-fill.svg) |
+| <a href="customer-service-fill.svg"><img src="customer-service-fill.svg" width="250" alt="customer-service-fill.svg"></a> | **📂 檔名:** `customer-service-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.08KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](customer-service-fill.svg) |
+| <a href="flag-2-fill.svg"><img src="flag-2-fill.svg" width="250" alt="flag-2-fill.svg"></a> | **📂 檔名:** `flag-2-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `682.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](flag-2-fill.svg) |
+| <a href="flag-fill.svg"><img src="flag-fill.svg" width="250" alt="flag-fill.svg"></a> | **📂 檔名:** `flag-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `652.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](flag-fill.svg) |
+| <a href="global-fill.svg"><img src="global-fill.svg" width="250" alt="global-fill.svg"></a> | **📂 檔名:** `global-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.08KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](global-fill.svg) |
+| <a href="honour-fill.svg"><img src="honour-fill.svg" width="250" alt="honour-fill.svg"></a> | **📂 檔名:** `honour-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `532.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](honour-fill.svg) |
+| <a href="inbox-archive-fill.svg"><img src="inbox-archive-fill.svg" width="250" alt="inbox-archive-fill.svg"></a> | **📂 檔名:** `inbox-archive-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `524.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](inbox-archive-fill.svg) |
+| <a href="inbox-fill.svg"><img src="inbox-fill.svg" width="250" alt="inbox-fill.svg"></a> | **📂 檔名:** `inbox-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `753.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](inbox-fill.svg) |
+| <a href="inbox-unarchive-fill.svg"><img src="inbox-unarchive-fill.svg" width="250" alt="inbox-unarchive-fill.svg"></a> | **📂 檔名:** `inbox-unarchive-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `525.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](inbox-unarchive-fill.svg) |
+| <a href="line-chart-fill.svg"><img src="line-chart-fill.svg" width="250" alt="line-chart-fill.svg"></a> | **📂 檔名:** `line-chart-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `386.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](line-chart-fill.svg) |
+| <a href="links-fill.svg"><img src="links-fill.svg" width="250" alt="links-fill.svg"></a> | **📂 檔名:** `links-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `2.17KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](links-fill.svg) |
+| <a href="mail-add-fill.svg"><img src="mail-add-fill.svg" width="250" alt="mail-add-fill.svg"></a> | **📂 檔名:** `mail-add-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `843.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](mail-add-fill.svg) |
+| <a href="mail-check-fill.svg"><img src="mail-check-fill.svg" width="250" alt="mail-check-fill.svg"></a> | **📂 檔名:** `mail-check-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `876.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](mail-check-fill.svg) |
+| <a href="mail-close-fill.svg"><img src="mail-close-fill.svg" width="250" alt="mail-close-fill.svg"></a> | **📂 檔名:** `mail-close-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `970.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](mail-close-fill.svg) |
+| <a href="mail-download-fill.svg"><img src="mail-download-fill.svg" width="250" alt="mail-download-fill.svg"></a> | **📂 檔名:** `mail-download-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `830.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](mail-download-fill.svg) |
+| <a href="mail-fill.svg"><img src="mail-fill.svg" width="250" alt="mail-fill.svg"></a> | **📂 檔名:** `mail-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `682.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](mail-fill.svg) |
+| <a href="mail-forbid-fill.svg"><img src="mail-forbid-fill.svg" width="250" alt="mail-forbid-fill.svg"></a> | **📂 檔名:** `mail-forbid-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.47KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](mail-forbid-fill.svg) |
+| <a href="mail-lock-fill.svg"><img src="mail-lock-fill.svg" width="250" alt="mail-lock-fill.svg"></a> | **📂 檔名:** `mail-lock-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.12KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](mail-lock-fill.svg) |
+| <a href="mail-open-fill.svg"><img src="mail-open-fill.svg" width="250" alt="mail-open-fill.svg"></a> | **📂 檔名:** `mail-open-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `855.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](mail-open-fill.svg) |
+| <a href="mail-send-fill.svg"><img src="mail-send-fill.svg" width="250" alt="mail-send-fill.svg"></a> | **📂 檔名:** `mail-send-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `646.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](mail-send-fill.svg) |
+| <a href="mail-settings-fill.svg"><img src="mail-settings-fill.svg" width="250" alt="mail-settings-fill.svg"></a> | **📂 檔名:** `mail-settings-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.53KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](mail-settings-fill.svg) |
+| <a href="mail-star-fill.svg"><img src="mail-star-fill.svg" width="250" alt="mail-star-fill.svg"></a> | **📂 檔名:** `mail-star-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `935.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](mail-star-fill.svg) |
+| <a href="mail-unread-fill.svg"><img src="mail-unread-fill.svg" width="250" alt="mail-unread-fill.svg"></a> | **📂 檔名:** `mail-unread-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.15KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](mail-unread-fill.svg) |
+| <a href="mail-volume-fill.svg"><img src="mail-volume-fill.svg" width="250" alt="mail-volume-fill.svg"></a> | **📂 檔名:** `mail-volume-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.05KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](mail-volume-fill.svg) |
+| <a href="medal-2-fill.svg"><img src="medal-2-fill.svg" width="250" alt="medal-2-fill.svg"></a> | **📂 檔名:** `medal-2-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `526.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](medal-2-fill.svg) |
+| <a href="medal-fill.svg"><img src="medal-fill.svg" width="250" alt="medal-fill.svg"></a> | **📂 檔名:** `medal-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `929.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](medal-fill.svg) |
+| <a href="pie-chart-2-fill.svg"><img src="pie-chart-2-fill.svg" width="250" alt="pie-chart-2-fill.svg"></a> | **📂 檔名:** `pie-chart-2-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `447.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](pie-chart-2-fill.svg) |
+| <a href="pie-chart-box-fill.svg"><img src="pie-chart-box-fill.svg" width="250" alt="pie-chart-box-fill.svg"></a> | **📂 檔名:** `pie-chart-box-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `972.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](pie-chart-box-fill.svg) |
+| <a href="pie-chart-fill.svg"><img src="pie-chart-fill.svg" width="250" alt="pie-chart-fill.svg"></a> | **📂 檔名:** `pie-chart-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `492.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](pie-chart-fill.svg) |
+| <a href="printer-cloud-fill.svg"><img src="printer-cloud-fill.svg" width="250" alt="printer-cloud-fill.svg"></a> | **📂 檔名:** `printer-cloud-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.55KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](printer-cloud-fill.svg) |
+| <a href="printer-fill.svg"><img src="printer-fill.svg" width="250" alt="printer-fill.svg"></a> | **📂 檔名:** `printer-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `790.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](printer-fill.svg) |
+| <a href="profile-fill.svg"><img src="profile-fill.svg" width="250" alt="profile-fill.svg"></a> | **📂 檔名:** `profile-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `674.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](profile-fill.svg) |
+| <a href="projector-2-fill.svg"><img src="projector-2-fill.svg" width="250" alt="projector-2-fill.svg"></a> | **📂 檔名:** `projector-2-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.53KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](projector-2-fill.svg) |
+| <a href="projector-fill.svg"><img src="projector-fill.svg" width="250" alt="projector-fill.svg"></a> | **📂 檔名:** `projector-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.29KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](projector-fill.svg) |
+| <a href="record-mail-fill.svg"><img src="record-mail-fill.svg" width="250" alt="record-mail-fill.svg"></a> | **📂 檔名:** `record-mail-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.71KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](record-mail-fill.svg) |
+| <a href="registered-fill.svg"><img src="registered-fill.svg" width="250" alt="registered-fill.svg"></a> | **📂 檔名:** `registered-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `860.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](registered-fill.svg) |
+| <a href="reply-all-fill.svg"><img src="reply-all-fill.svg" width="250" alt="reply-all-fill.svg"></a> | **📂 檔名:** `reply-all-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `464.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](reply-all-fill.svg) |
+| <a href="reply-fill.svg"><img src="reply-fill.svg" width="250" alt="reply-fill.svg"></a> | **📂 檔名:** `reply-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `387.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](reply-fill.svg) |
+| <a href="send-plane-2-fill.svg"><img src="send-plane-2-fill.svg" width="250" alt="send-plane-2-fill.svg"></a> | **📂 檔名:** `send-plane-2-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `879.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](send-plane-2-fill.svg) |
+| <a href="send-plane-fill.svg"><img src="send-plane-fill.svg" width="250" alt="send-plane-fill.svg"></a> | **📂 檔名:** `send-plane-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `515.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](send-plane-fill.svg) |
+| <a href="service-fill.svg"><img src="service-fill.svg" width="250" alt="service-fill.svg"></a> | **📂 檔名:** `service-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.53KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](service-fill.svg) |
+| <a href="slideshow-2-fill.svg"><img src="slideshow-2-fill.svg" width="250" alt="slideshow-2-fill.svg"></a> | **📂 檔名:** `slideshow-2-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `493.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](slideshow-2-fill.svg) |
+| <a href="slideshow-3-fill.svg"><img src="slideshow-3-fill.svg" width="250" alt="slideshow-3-fill.svg"></a> | **📂 檔名:** `slideshow-3-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `637.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](slideshow-3-fill.svg) |
+| <a href="slideshow-4-fill.svg"><img src="slideshow-4-fill.svg" width="250" alt="slideshow-4-fill.svg"></a> | **📂 檔名:** `slideshow-4-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.01KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](slideshow-4-fill.svg) |
+| <a href="slideshow-fill.svg"><img src="slideshow-fill.svg" width="250" alt="slideshow-fill.svg"></a> | **📂 檔名:** `slideshow-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `877.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](slideshow-fill.svg) |
+| <a href="stack-fill.svg"><img src="stack-fill.svg" width="250" alt="stack-fill.svg"></a> | **📂 檔名:** `stack-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.85KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](stack-fill.svg) |
+| <a href="trademark-fill.svg"><img src="trademark-fill.svg" width="250" alt="trademark-fill.svg"></a> | **📂 檔名:** `trademark-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `371.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](trademark-fill.svg) |
+| <a href="window-2-fill.svg"><img src="window-2-fill.svg" width="250" alt="window-2-fill.svg"></a> | **📂 檔名:** `window-2-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `618.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](window-2-fill.svg) |
+| <a href="window-fill.svg"><img src="window-fill.svg" width="250" alt="window-fill.svg"></a> | **📂 檔名:** `window-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `629.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](window-fill.svg) |

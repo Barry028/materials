@@ -1,21 +1,23 @@
-# 🖼️ 32
+# 🖼️ 素材分類：32
 
-[⬅️ 返回主目錄](../../../../../../README.md)
+> [🏠 主目錄](../../../../../../README.md) / **32**
 
-| 預覽 | 資訊 |
+本目錄共有 `15` 個檔案
+
+| 🎨 預覽 (點擊放大) | 📋 檔案詳細資訊 |
 | :--- | :--- |
-| <a href="applications-all-symbolic.svg"><img src="applications-all-symbolic.svg" width="200"></a> | **applications-all-symbolic.svg** |
-| <a href="applications-all.svg"><img src="applications-all.svg" width="200"></a> | **applications-all.svg** |
-| <a href="applications-development.svg"><img src="applications-development.svg" width="200"></a> | **applications-development.svg** |
-| <a href="applications-education-language.svg"><img src="applications-education-language.svg" width="200"></a> | **applications-education-language.svg** |
-| <a href="applications-education-mathematics.svg"><img src="applications-education-mathematics.svg" width="200"></a> | **applications-education-mathematics.svg** |
-| <a href="applications-education-science.svg"><img src="applications-education-science.svg" width="200"></a> | **applications-education-science.svg** |
-| <a href="applications-education.svg"><img src="applications-education.svg" width="200"></a> | **applications-education.svg** |
-| <a href="applications-engineering.svg"><img src="applications-engineering.svg" width="200"></a> | **applications-engineering.svg** |
-| <a href="applications-games.svg"><img src="applications-games.svg" width="200"></a> | **applications-games.svg** |
-| <a href="applications-graphics.svg"><img src="applications-graphics.svg" width="200"></a> | **applications-graphics.svg** |
-| <a href="applications-internet.svg"><img src="applications-internet.svg" width="200"></a> | **applications-internet.svg** |
-| <a href="applications-multimedia.svg"><img src="applications-multimedia.svg" width="200"></a> | **applications-multimedia.svg** |
-| <a href="applications-office.svg"><img src="applications-office.svg" width="200"></a> | **applications-office.svg** |
-| <a href="applications-science.svg"><img src="applications-science.svg" width="200"></a> | **applications-science.svg** |
-| <a href="applications-utilities.svg"><img src="applications-utilities.svg" width="200"></a> | **applications-utilities.svg** |
+| <a href="applications-all-symbolic.svg"><img src="applications-all-symbolic.svg" width="250" alt="applications-all-symbolic.svg"></a> | **📂 檔名:** `applications-all-symbolic.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `2.00KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](applications-all-symbolic.svg) |
+| <a href="applications-all.svg"><img src="applications-all.svg" width="250" alt="applications-all.svg"></a> | **📂 檔名:** `applications-all.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.41KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](applications-all.svg) |
+| <a href="applications-development.svg"><img src="applications-development.svg" width="250" alt="applications-development.svg"></a> | **📂 檔名:** `applications-development.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `5.65KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](applications-development.svg) |
+| <a href="applications-education-language.svg"><img src="applications-education-language.svg" width="250" alt="applications-education-language.svg"></a> | **📂 檔名:** `applications-education-language.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `8.95KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](applications-education-language.svg) |
+| <a href="applications-education-mathematics.svg"><img src="applications-education-mathematics.svg" width="250" alt="applications-education-mathematics.svg"></a> | **📂 檔名:** `applications-education-mathematics.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `9.89KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](applications-education-mathematics.svg) |
+| <a href="applications-education-science.svg"><img src="applications-education-science.svg" width="250" alt="applications-education-science.svg"></a> | **📂 檔名:** `applications-education-science.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `13.57KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](applications-education-science.svg) |
+| <a href="applications-education.svg"><img src="applications-education.svg" width="250" alt="applications-education.svg"></a> | **📂 檔名:** `applications-education.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `2.32KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](applications-education.svg) |
+| <a href="applications-engineering.svg"><img src="applications-engineering.svg" width="250" alt="applications-engineering.svg"></a> | **📂 檔名:** `applications-engineering.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `5.92KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](applications-engineering.svg) |
+| <a href="applications-games.svg"><img src="applications-games.svg" width="250" alt="applications-games.svg"></a> | **📂 檔名:** `applications-games.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `4.12KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](applications-games.svg) |
+| <a href="applications-graphics.svg"><img src="applications-graphics.svg" width="250" alt="applications-graphics.svg"></a> | **📂 檔名:** `applications-graphics.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `10.89KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](applications-graphics.svg) |
+| <a href="applications-internet.svg"><img src="applications-internet.svg" width="250" alt="applications-internet.svg"></a> | **📂 檔名:** `applications-internet.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.76KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](applications-internet.svg) |
+| <a href="applications-multimedia.svg"><img src="applications-multimedia.svg" width="250" alt="applications-multimedia.svg"></a> | **📂 檔名:** `applications-multimedia.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `6.63KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](applications-multimedia.svg) |
+| <a href="applications-office.svg"><img src="applications-office.svg" width="250" alt="applications-office.svg"></a> | **📂 檔名:** `applications-office.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `3.38KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](applications-office.svg) |
+| <a href="applications-science.svg"><img src="applications-science.svg" width="250" alt="applications-science.svg"></a> | **📂 檔名:** `applications-science.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `4.13KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](applications-science.svg) |
+| <a href="applications-utilities.svg"><img src="applications-utilities.svg" width="250" alt="applications-utilities.svg"></a> | **📂 檔名:** `applications-utilities.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `4.11KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](applications-utilities.svg) |

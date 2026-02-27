@@ -1,46 +1,48 @@
-# 🖼️ 16
+# 🖼️ 素材分類：16
 
-[⬅️ 返回主目錄](../../../../../../README.md)
+> [🏠 主目錄](../../../../../../README.md) / **16**
 
-| 預覽 | 資訊 |
+本目錄共有 `40` 個檔案
+
+| 🎨 預覽 (點擊放大) | 📋 檔案詳細資訊 |
 | :--- | :--- |
-| <a href="emblem-added.svg"><img src="emblem-added.svg" width="200"></a> | **emblem-added.svg** |
-| <a href="emblem-checked.svg"><img src="emblem-checked.svg" width="200"></a> | **emblem-checked.svg** |
-| <a href="emblem-encrypted-locked.svg"><img src="emblem-encrypted-locked.svg" width="200"></a> | **emblem-encrypted-locked.svg** |
-| <a href="emblem-error.svg"><img src="emblem-error.svg" width="200"></a> | **emblem-error.svg** |
-| <a href="emblem-important.svg"><img src="emblem-important.svg" width="200"></a> | **emblem-important.svg** |
-| <a href="emblem-information.svg"><img src="emblem-information.svg" width="200"></a> | **emblem-information.svg** |
-| <a href="emblem-locked.svg"><img src="emblem-locked.svg" width="200"></a> | **emblem-locked.svg** |
-| <a href="emblem-mounted.svg"><img src="emblem-mounted.svg" width="200"></a> | **emblem-mounted.svg** |
-| <a href="emblem-pause.svg"><img src="emblem-pause.svg" width="200"></a> | **emblem-pause.svg** |
-| <a href="emblem-question.svg"><img src="emblem-question.svg" width="200"></a> | **emblem-question.svg** |
-| <a href="emblem-readonly.svg"><img src="emblem-readonly.svg" width="200"></a> | **emblem-readonly.svg** |
-| <a href="emblem-remove.svg"><img src="emblem-remove.svg" width="200"></a> | **emblem-remove.svg** |
-| <a href="emblem-shared.svg"><img src="emblem-shared.svg" width="200"></a> | **emblem-shared.svg** |
-| <a href="emblem-symbolic-link.svg"><img src="emblem-symbolic-link.svg" width="200"></a> | **emblem-symbolic-link.svg** |
-| <a href="emblem-unavailable.svg"><img src="emblem-unavailable.svg" width="200"></a> | **emblem-unavailable.svg** |
-| <a href="emblem-unlocked.svg"><img src="emblem-unlocked.svg" width="200"></a> | **emblem-unlocked.svg** |
-| <a href="emblem-unmounted.svg"><img src="emblem-unmounted.svg" width="200"></a> | **emblem-unmounted.svg** |
-| <a href="emblem-warning.svg"><img src="emblem-warning.svg" width="200"></a> | **emblem-warning.svg** |
-| <a href="package-available-locked.svg"><img src="package-available-locked.svg" width="200"></a> | **package-available-locked.svg** |
-| <a href="package-available.svg"><img src="package-available.svg" width="200"></a> | **package-available.svg** |
-| <a href="package-downgrade.svg"><img src="package-downgrade.svg" width="200"></a> | **package-downgrade.svg** |
-| <a href="package-install-auto.svg"><img src="package-install-auto.svg" width="200"></a> | **package-install-auto.svg** |
-| <a href="package-installed-outdated.svg"><img src="package-installed-outdated.svg" width="200"></a> | **package-installed-outdated.svg** |
-| <a href="package-new.svg"><img src="package-new.svg" width="200"></a> | **package-new.svg** |
-| <a href="package-reinstall.svg"><img src="package-reinstall.svg" width="200"></a> | **package-reinstall.svg** |
-| <a href="package-remove-auto.svg"><img src="package-remove-auto.svg" width="200"></a> | **package-remove-auto.svg** |
-| <a href="package-remove.svg"><img src="package-remove.svg" width="200"></a> | **package-remove.svg** |
-| <a href="package-upgrade-auto.svg"><img src="package-upgrade-auto.svg" width="200"></a> | **package-upgrade-auto.svg** |
-| <a href="package-upgrade.svg"><img src="package-upgrade.svg" width="200"></a> | **package-upgrade.svg** |
-| <a href="rating-half-rtl.svg"><img src="rating-half-rtl.svg" width="200"></a> | **rating-half-rtl.svg** |
-| <a href="rating-half.svg"><img src="rating-half.svg" width="200"></a> | **rating-half.svg** |
-| <a href="rating-unrated.svg"><img src="rating-unrated.svg" width="200"></a> | **rating-unrated.svg** |
-| <a href="rating.svg"><img src="rating.svg" width="200"></a> | **rating.svg** |
-| <a href="vcs-added.svg"><img src="vcs-added.svg" width="200"></a> | **vcs-added.svg** |
-| <a href="vcs-conflicting.svg"><img src="vcs-conflicting.svg" width="200"></a> | **vcs-conflicting.svg** |
-| <a href="vcs-locally-modified-unstaged.svg"><img src="vcs-locally-modified-unstaged.svg" width="200"></a> | **vcs-locally-modified-unstaged.svg** |
-| <a href="vcs-locally-modified.svg"><img src="vcs-locally-modified.svg" width="200"></a> | **vcs-locally-modified.svg** |
-| <a href="vcs-normal.svg"><img src="vcs-normal.svg" width="200"></a> | **vcs-normal.svg** |
-| <a href="vcs-removed.svg"><img src="vcs-removed.svg" width="200"></a> | **vcs-removed.svg** |
-| <a href="vcs-update-required.svg"><img src="vcs-update-required.svg" width="200"></a> | **vcs-update-required.svg** |
+| <a href="emblem-added.svg"><img src="emblem-added.svg" width="250" alt="emblem-added.svg"></a> | **📂 檔名:** `emblem-added.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `741.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](emblem-added.svg) |
+| <a href="emblem-checked.svg"><img src="emblem-checked.svg" width="250" alt="emblem-checked.svg"></a> | **📂 檔名:** `emblem-checked.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `773.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](emblem-checked.svg) |
+| <a href="emblem-encrypted-locked.svg"><img src="emblem-encrypted-locked.svg" width="250" alt="emblem-encrypted-locked.svg"></a> | **📂 檔名:** `emblem-encrypted-locked.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `808.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](emblem-encrypted-locked.svg) |
+| <a href="emblem-error.svg"><img src="emblem-error.svg" width="250" alt="emblem-error.svg"></a> | **📂 檔名:** `emblem-error.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `825.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](emblem-error.svg) |
+| <a href="emblem-important.svg"><img src="emblem-important.svg" width="250" alt="emblem-important.svg"></a> | **📂 檔名:** `emblem-important.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `742.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](emblem-important.svg) |
+| <a href="emblem-information.svg"><img src="emblem-information.svg" width="250" alt="emblem-information.svg"></a> | **📂 檔名:** `emblem-information.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `736.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](emblem-information.svg) |
+| <a href="emblem-locked.svg"><img src="emblem-locked.svg" width="250" alt="emblem-locked.svg"></a> | **📂 檔名:** `emblem-locked.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `806.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](emblem-locked.svg) |
+| <a href="emblem-mounted.svg"><img src="emblem-mounted.svg" width="250" alt="emblem-mounted.svg"></a> | **📂 檔名:** `emblem-mounted.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `790.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](emblem-mounted.svg) |
+| <a href="emblem-pause.svg"><img src="emblem-pause.svg" width="250" alt="emblem-pause.svg"></a> | **📂 檔名:** `emblem-pause.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `600.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](emblem-pause.svg) |
+| <a href="emblem-question.svg"><img src="emblem-question.svg" width="250" alt="emblem-question.svg"></a> | **📂 檔名:** `emblem-question.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `693.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](emblem-question.svg) |
+| <a href="emblem-readonly.svg"><img src="emblem-readonly.svg" width="250" alt="emblem-readonly.svg"></a> | **📂 檔名:** `emblem-readonly.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `664.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](emblem-readonly.svg) |
+| <a href="emblem-remove.svg"><img src="emblem-remove.svg" width="250" alt="emblem-remove.svg"></a> | **📂 檔名:** `emblem-remove.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `723.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](emblem-remove.svg) |
+| <a href="emblem-shared.svg"><img src="emblem-shared.svg" width="250" alt="emblem-shared.svg"></a> | **📂 檔名:** `emblem-shared.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `980.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](emblem-shared.svg) |
+| <a href="emblem-symbolic-link.svg"><img src="emblem-symbolic-link.svg" width="250" alt="emblem-symbolic-link.svg"></a> | **📂 檔名:** `emblem-symbolic-link.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `845.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](emblem-symbolic-link.svg) |
+| <a href="emblem-unavailable.svg"><img src="emblem-unavailable.svg" width="250" alt="emblem-unavailable.svg"></a> | **📂 檔名:** `emblem-unavailable.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `681.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](emblem-unavailable.svg) |
+| <a href="emblem-unlocked.svg"><img src="emblem-unlocked.svg" width="250" alt="emblem-unlocked.svg"></a> | **📂 檔名:** `emblem-unlocked.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `747.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](emblem-unlocked.svg) |
+| <a href="emblem-unmounted.svg"><img src="emblem-unmounted.svg" width="250" alt="emblem-unmounted.svg"></a> | **📂 檔名:** `emblem-unmounted.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `934.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](emblem-unmounted.svg) |
+| <a href="emblem-warning.svg"><img src="emblem-warning.svg" width="250" alt="emblem-warning.svg"></a> | **📂 檔名:** `emblem-warning.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `749.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](emblem-warning.svg) |
+| <a href="package-available-locked.svg"><img src="package-available-locked.svg" width="250" alt="package-available-locked.svg"></a> | **📂 檔名:** `package-available-locked.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `999.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](package-available-locked.svg) |
+| <a href="package-available.svg"><img src="package-available.svg" width="250" alt="package-available.svg"></a> | **📂 檔名:** `package-available.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `498.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](package-available.svg) |
+| <a href="package-downgrade.svg"><img src="package-downgrade.svg" width="250" alt="package-downgrade.svg"></a> | **📂 檔名:** `package-downgrade.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `784.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](package-downgrade.svg) |
+| <a href="package-install-auto.svg"><img src="package-install-auto.svg" width="250" alt="package-install-auto.svg"></a> | **📂 檔名:** `package-install-auto.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.01KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](package-install-auto.svg) |
+| <a href="package-installed-outdated.svg"><img src="package-installed-outdated.svg" width="250" alt="package-installed-outdated.svg"></a> | **📂 檔名:** `package-installed-outdated.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `878.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](package-installed-outdated.svg) |
+| <a href="package-new.svg"><img src="package-new.svg" width="250" alt="package-new.svg"></a> | **📂 檔名:** `package-new.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `827.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](package-new.svg) |
+| <a href="package-reinstall.svg"><img src="package-reinstall.svg" width="250" alt="package-reinstall.svg"></a> | **📂 檔名:** `package-reinstall.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `814.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](package-reinstall.svg) |
+| <a href="package-remove-auto.svg"><img src="package-remove-auto.svg" width="250" alt="package-remove-auto.svg"></a> | **📂 檔名:** `package-remove-auto.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1010.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](package-remove-auto.svg) |
+| <a href="package-remove.svg"><img src="package-remove.svg" width="250" alt="package-remove.svg"></a> | **📂 檔名:** `package-remove.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `732.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](package-remove.svg) |
+| <a href="package-upgrade-auto.svg"><img src="package-upgrade-auto.svg" width="250" alt="package-upgrade-auto.svg"></a> | **📂 檔名:** `package-upgrade-auto.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.02KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](package-upgrade-auto.svg) |
+| <a href="package-upgrade.svg"><img src="package-upgrade.svg" width="250" alt="package-upgrade.svg"></a> | **📂 檔名:** `package-upgrade.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `762.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](package-upgrade.svg) |
+| <a href="rating-half-rtl.svg"><img src="rating-half-rtl.svg" width="250" alt="rating-half-rtl.svg"></a> | **📂 檔名:** `rating-half-rtl.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `706.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](rating-half-rtl.svg) |
+| <a href="rating-half.svg"><img src="rating-half.svg" width="250" alt="rating-half.svg"></a> | **📂 檔名:** `rating-half.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `563.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](rating-half.svg) |
+| <a href="rating-unrated.svg"><img src="rating-unrated.svg" width="250" alt="rating-unrated.svg"></a> | **📂 檔名:** `rating-unrated.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `490.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](rating-unrated.svg) |
+| <a href="rating.svg"><img src="rating.svg" width="250" alt="rating.svg"></a> | **📂 檔名:** `rating.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `398.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](rating.svg) |
+| <a href="vcs-added.svg"><img src="vcs-added.svg" width="250" alt="vcs-added.svg"></a> | **📂 檔名:** `vcs-added.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `722.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](vcs-added.svg) |
+| <a href="vcs-conflicting.svg"><img src="vcs-conflicting.svg" width="250" alt="vcs-conflicting.svg"></a> | **📂 檔名:** `vcs-conflicting.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `679.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](vcs-conflicting.svg) |
+| <a href="vcs-locally-modified-unstaged.svg"><img src="vcs-locally-modified-unstaged.svg" width="250" alt="vcs-locally-modified-unstaged.svg"></a> | **📂 檔名:** `vcs-locally-modified-unstaged.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `726.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](vcs-locally-modified-unstaged.svg) |
+| <a href="vcs-locally-modified.svg"><img src="vcs-locally-modified.svg" width="250" alt="vcs-locally-modified.svg"></a> | **📂 檔名:** `vcs-locally-modified.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `723.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](vcs-locally-modified.svg) |
+| <a href="vcs-normal.svg"><img src="vcs-normal.svg" width="250" alt="vcs-normal.svg"></a> | **📂 檔名:** `vcs-normal.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `713.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](vcs-normal.svg) |
+| <a href="vcs-removed.svg"><img src="vcs-removed.svg" width="250" alt="vcs-removed.svg"></a> | **📂 檔名:** `vcs-removed.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `713.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](vcs-removed.svg) |
+| <a href="vcs-update-required.svg"><img src="vcs-update-required.svg" width="250" alt="vcs-update-required.svg"></a> | **📂 檔名:** `vcs-update-required.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `755.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](vcs-update-required.svg) |

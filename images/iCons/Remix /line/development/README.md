@@ -1,29 +1,31 @@
-# 🖼️ development
+# 🖼️ 素材分類：development
 
-[⬅️ 返回主目錄](../../../../../README.md)
+> [🏠 主目錄](../../../../../README.md) / **development**
 
-| 預覽 | 資訊 |
+本目錄共有 `23` 個檔案
+
+| 🎨 預覽 (點擊放大) | 📋 檔案詳細資訊 |
 | :--- | :--- |
-| <a href="braces-line.svg"><img src="braces-line.svg" width="200"></a> | **braces-line.svg** |
-| <a href="brackets-line.svg"><img src="brackets-line.svg" width="200"></a> | **brackets-line.svg** |
-| <a href="bug-2-line.svg"><img src="bug-2-line.svg" width="200"></a> | **bug-2-line.svg** |
-| <a href="bug-line.svg"><img src="bug-line.svg" width="200"></a> | **bug-line.svg** |
-| <a href="code-box-line.svg"><img src="code-box-line.svg" width="200"></a> | **code-box-line.svg** |
-| <a href="code-line.svg"><img src="code-line.svg" width="200"></a> | **code-line.svg** |
-| <a href="code-s-line.svg"><img src="code-s-line.svg" width="200"></a> | **code-s-line.svg** |
-| <a href="code-s-slash-line.svg"><img src="code-s-slash-line.svg" width="200"></a> | **code-s-slash-line.svg** |
-| <a href="command-line.svg"><img src="command-line.svg" width="200"></a> | **command-line.svg** |
-| <a href="css3-line.svg"><img src="css3-line.svg" width="200"></a> | **css3-line.svg** |
-| <a href="cursor-line.svg"><img src="cursor-line.svg" width="200"></a> | **cursor-line.svg** |
-| <a href="git-branch-line.svg"><img src="git-branch-line.svg" width="200"></a> | **git-branch-line.svg** |
-| <a href="git-commit-line.svg"><img src="git-commit-line.svg" width="200"></a> | **git-commit-line.svg** |
-| <a href="git-merge-line.svg"><img src="git-merge-line.svg" width="200"></a> | **git-merge-line.svg** |
-| <a href="git-pull-request-line.svg"><img src="git-pull-request-line.svg" width="200"></a> | **git-pull-request-line.svg** |
-| <a href="git-repository-commits-line.svg"><img src="git-repository-commits-line.svg" width="200"></a> | **git-repository-commits-line.svg** |
-| <a href="git-repository-line.svg"><img src="git-repository-line.svg" width="200"></a> | **git-repository-line.svg** |
-| <a href="git-repository-private-line.svg"><img src="git-repository-private-line.svg" width="200"></a> | **git-repository-private-line.svg** |
-| <a href="html5-line.svg"><img src="html5-line.svg" width="200"></a> | **html5-line.svg** |
-| <a href="parentheses-line.svg"><img src="parentheses-line.svg" width="200"></a> | **parentheses-line.svg** |
-| <a href="terminal-box-line.svg"><img src="terminal-box-line.svg" width="200"></a> | **terminal-box-line.svg** |
-| <a href="terminal-line.svg"><img src="terminal-line.svg" width="200"></a> | **terminal-line.svg** |
-| <a href="terminal-window-line.svg"><img src="terminal-window-line.svg" width="200"></a> | **terminal-window-line.svg** |
+| <a href="braces-line.svg"><img src="braces-line.svg" width="250" alt="braces-line.svg"></a> | **📂 檔名:** `braces-line.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.68KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](braces-line.svg) |
+| <a href="brackets-line.svg"><img src="brackets-line.svg" width="250" alt="brackets-line.svg"></a> | **📂 檔名:** `brackets-line.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `322.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](brackets-line.svg) |
+| <a href="bug-2-line.svg"><img src="bug-2-line.svg" width="250" alt="bug-2-line.svg"></a> | **📂 檔名:** `bug-2-line.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.27KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](bug-2-line.svg) |
+| <a href="bug-line.svg"><img src="bug-line.svg" width="250" alt="bug-line.svg"></a> | **📂 檔名:** `bug-line.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.27KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](bug-line.svg) |
+| <a href="code-box-line.svg"><img src="code-box-line.svg" width="250" alt="code-box-line.svg"></a> | **📂 檔名:** `code-box-line.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `786.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](code-box-line.svg) |
+| <a href="code-line.svg"><img src="code-line.svg" width="250" alt="code-line.svg"></a> | **📂 檔名:** `code-line.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `432.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](code-line.svg) |
+| <a href="code-s-line.svg"><img src="code-s-line.svg" width="250" alt="code-s-line.svg"></a> | **📂 檔名:** `code-s-line.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `431.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](code-s-line.svg) |
+| <a href="code-s-slash-line.svg"><img src="code-s-slash-line.svg" width="250" alt="code-s-slash-line.svg"></a> | **📂 檔名:** `code-s-slash-line.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `462.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](code-s-slash-line.svg) |
+| <a href="command-line.svg"><img src="command-line.svg" width="250" alt="command-line.svg"></a> | **📂 檔名:** `command-line.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `3.20KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](command-line.svg) |
+| <a href="css3-line.svg"><img src="css3-line.svg" width="250" alt="css3-line.svg"></a> | **📂 檔名:** `css3-line.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `393.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](css3-line.svg) |
+| <a href="cursor-line.svg"><img src="cursor-line.svg" width="250" alt="cursor-line.svg"></a> | **📂 檔名:** `cursor-line.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `507.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](cursor-line.svg) |
+| <a href="git-branch-line.svg"><img src="git-branch-line.svg" width="250" alt="git-branch-line.svg"></a> | **📂 檔名:** `git-branch-line.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `2.84KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](git-branch-line.svg) |
+| <a href="git-commit-line.svg"><img src="git-commit-line.svg" width="250" alt="git-commit-line.svg"></a> | **📂 檔名:** `git-commit-line.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `975.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](git-commit-line.svg) |
+| <a href="git-merge-line.svg"><img src="git-merge-line.svg" width="250" alt="git-merge-line.svg"></a> | **📂 檔名:** `git-merge-line.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `2.79KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](git-merge-line.svg) |
+| <a href="git-pull-request-line.svg"><img src="git-pull-request-line.svg" width="250" alt="git-pull-request-line.svg"></a> | **📂 檔名:** `git-pull-request-line.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `2.48KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](git-pull-request-line.svg) |
+| <a href="git-repository-commits-line.svg"><img src="git-repository-commits-line.svg" width="250" alt="git-repository-commits-line.svg"></a> | **📂 檔名:** `git-repository-commits-line.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `883.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](git-repository-commits-line.svg) |
+| <a href="git-repository-line.svg"><img src="git-repository-line.svg" width="250" alt="git-repository-line.svg"></a> | **📂 檔名:** `git-repository-line.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `896.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](git-repository-line.svg) |
+| <a href="git-repository-private-line.svg"><img src="git-repository-private-line.svg" width="250" alt="git-repository-private-line.svg"></a> | **📂 檔名:** `git-repository-private-line.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `960.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](git-repository-private-line.svg) |
+| <a href="html5-line.svg"><img src="html5-line.svg" width="250" alt="html5-line.svg"></a> | **📂 檔名:** `html5-line.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `546.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](html5-line.svg) |
+| <a href="parentheses-line.svg"><img src="parentheses-line.svg" width="250" alt="parentheses-line.svg"></a> | **📂 檔名:** `parentheses-line.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `582.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](parentheses-line.svg) |
+| <a href="terminal-box-line.svg"><img src="terminal-box-line.svg" width="250" alt="terminal-box-line.svg"></a> | **📂 檔名:** `terminal-box-line.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `695.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](terminal-box-line.svg) |
+| <a href="terminal-line.svg"><img src="terminal-line.svg" width="250" alt="terminal-line.svg"></a> | **📂 檔名:** `terminal-line.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `376.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](terminal-line.svg) |
+| <a href="terminal-window-line.svg"><img src="terminal-window-line.svg" width="250" alt="terminal-window-line.svg"></a> | **📂 檔名:** `terminal-window-line.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `658.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](terminal-window-line.svg) |

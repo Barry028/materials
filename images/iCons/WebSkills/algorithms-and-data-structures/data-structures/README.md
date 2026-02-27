@@ -1,17 +1,19 @@
-# 🖼️ data-structures
+# 🖼️ 素材分類：data-structures
 
-[⬅️ 返回主目錄](../../../../../README.md)
+> [🏠 主目錄](../../../../../README.md) / **data-structures**
 
-| 預覽 | 資訊 |
+本目錄共有 `11` 個檔案
+
+| 🎨 預覽 (點擊放大) | 📋 檔案詳細資訊 |
 | :--- | :--- |
-| <a href="arrays.svg"><img src="arrays.svg" width="200"></a> | **arrays.svg** |
-| <a href="binary-indexed-tree.svg"><img src="binary-indexed-tree.svg" width="200"></a> | **binary-indexed-tree.svg** |
-| <a href="graphs.svg"><img src="graphs.svg" width="200"></a> | **graphs.svg** |
-| <a href="hash-tables.svg"><img src="hash-tables.svg" width="200"></a> | **hash-tables.svg** |
-| <a href="heap.svg"><img src="heap.svg" width="200"></a> | **heap.svg** |
-| <a href="k-d-tree.svg"><img src="k-d-tree.svg" width="200"></a> | **k-d-tree.svg** |
-| <a href="linked-lists.svg"><img src="linked-lists.svg" width="200"></a> | **linked-lists.svg** |
-| <a href="queues-and-stacks.svg"><img src="queues-and-stacks.svg" width="200"></a> | **queues-and-stacks.svg** |
-| <a href="red-black-tree.svg"><img src="red-black-tree.svg" width="200"></a> | **red-black-tree.svg** |
-| <a href="trees.svg"><img src="trees.svg" width="200"></a> | **trees.svg** |
-| <a href="trie.svg"><img src="trie.svg" width="200"></a> | **trie.svg** |
+| <a href="arrays.svg"><img src="arrays.svg" width="250" alt="arrays.svg"></a> | **📂 檔名:** `arrays.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `5.40KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](arrays.svg) |
+| <a href="binary-indexed-tree.svg"><img src="binary-indexed-tree.svg" width="250" alt="binary-indexed-tree.svg"></a> | **📂 檔名:** `binary-indexed-tree.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `5.27KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](binary-indexed-tree.svg) |
+| <a href="graphs.svg"><img src="graphs.svg" width="250" alt="graphs.svg"></a> | **📂 檔名:** `graphs.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `13.69KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](graphs.svg) |
+| <a href="hash-tables.svg"><img src="hash-tables.svg" width="250" alt="hash-tables.svg"></a> | **📂 檔名:** `hash-tables.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `25.93KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](hash-tables.svg) |
+| <a href="heap.svg"><img src="heap.svg" width="250" alt="heap.svg"></a> | **📂 檔名:** `heap.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.71KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](heap.svg) |
+| <a href="k-d-tree.svg"><img src="k-d-tree.svg" width="250" alt="k-d-tree.svg"></a> | **📂 檔名:** `k-d-tree.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `4.25KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](k-d-tree.svg) |
+| <a href="linked-lists.svg"><img src="linked-lists.svg" width="250" alt="linked-lists.svg"></a> | **📂 檔名:** `linked-lists.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `7.16KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](linked-lists.svg) |
+| <a href="queues-and-stacks.svg"><img src="queues-and-stacks.svg" width="250" alt="queues-and-stacks.svg"></a> | **📂 檔名:** `queues-and-stacks.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `11.13KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](queues-and-stacks.svg) |
+| <a href="red-black-tree.svg"><img src="red-black-tree.svg" width="250" alt="red-black-tree.svg"></a> | **📂 檔名:** `red-black-tree.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `4.86KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](red-black-tree.svg) |
+| <a href="trees.svg"><img src="trees.svg" width="250" alt="trees.svg"></a> | **📂 檔名:** `trees.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `7.07KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](trees.svg) |
+| <a href="trie.svg"><img src="trie.svg" width="250" alt="trie.svg"></a> | **📂 檔名:** `trie.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `6.26KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](trie.svg) |

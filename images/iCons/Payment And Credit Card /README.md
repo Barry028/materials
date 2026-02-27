@@ -1,113 +1,115 @@
-# 🖼️ Payment And Credit Card 
+# 🖼️ 素材分類：Payment And Credit Card 
 
-[⬅️ 返回主目錄](../../../README.md)
+> [🏠 主目錄](../../../README.md) / **Payment And Credit Card **
 
-| 預覽 | 資訊 |
+本目錄共有 `107` 個檔案
+
+| 🎨 預覽 (點擊放大) | 📋 檔案詳細資訊 |
 | :--- | :--- |
-| <a href="ACH%20Transfer.svg"><img src="ACH%20Transfer.svg" width="200"></a> | **ACH Transfer.svg** |
-| <a href="Adyen.svg"><img src="Adyen.svg" width="200"></a> | **Adyen.svg** |
-| <a href="Affirm.svg"><img src="Affirm.svg" width="200"></a> | **Affirm.svg** |
-| <a href="Airtm.svg"><img src="Airtm.svg" width="200"></a> | **Airtm.svg** |
-| <a href="Alipay%20%2B.svg"><img src="Alipay%20%2B.svg" width="200"></a> | **Alipay +.svg** |
-| <a href="Amazon%20Pay.svg"><img src="Amazon%20Pay.svg" width="200"></a> | **Amazon Pay.svg** |
-| <a href="American%20Express.svg"><img src="American%20Express.svg" width="200"></a> | **American Express.svg** |
-| <a href="Ant%20Group.svg"><img src="Ant%20Group.svg" width="200"></a> | **Ant Group.svg** |
-| <a href="Apple%20Pay.svg"><img src="Apple%20Pay.svg" width="200"></a> | **Apple Pay.svg** |
-| <a href="Authorize.Net.svg"><img src="Authorize.Net.svg" width="200"></a> | **Authorize.Net.svg** |
-| <a href="BBVA.svg"><img src="BBVA.svg" width="200"></a> | **BBVA.svg** |
-| <a href="BNB%20Chain.svg"><img src="BNB%20Chain.svg" width="200"></a> | **BNB Chain.svg** |
-| <a href="BNP%20Paribas.svg"><img src="BNP%20Paribas.svg" width="200"></a> | **BNP Paribas.svg** |
-| <a href="Bank%20Of%20America.svg"><img src="Bank%20Of%20America.svg" width="200"></a> | **Bank Of America.svg** |
-| <a href="Barclays.svg"><img src="Barclays.svg" width="200"></a> | **Barclays.svg** |
-| <a href="Binance%20USD.svg"><img src="Binance%20USD.svg" width="200"></a> | **Binance USD.svg** |
-| <a href="Binance.svg"><img src="Binance.svg" width="200"></a> | **Binance.svg** |
-| <a href="Bitcoin.svg"><img src="Bitcoin.svg" width="200"></a> | **Bitcoin.svg** |
-| <a href="Bitpay.svg"><img src="Bitpay.svg" width="200"></a> | **Bitpay.svg** |
-| <a href="Braintree.svg"><img src="Braintree.svg" width="200"></a> | **Braintree.svg** |
-| <a href="Brex.svg"><img src="Brex.svg" width="200"></a> | **Brex.svg** |
-| <a href="Capital%20One.svg"><img src="Capital%20One.svg" width="200"></a> | **Capital One.svg** |
-| <a href="Cash%20App.svg"><img src="Cash%20App.svg" width="200"></a> | **Cash App.svg** |
-| <a href="Chase.svg"><img src="Chase.svg" width="200"></a> | **Chase.svg** |
-| <a href="Checkout.com.svg"><img src="Checkout.com.svg" width="200"></a> | **Checkout.com.svg** |
-| <a href="Chime.svg"><img src="Chime.svg" width="200"></a> | **Chime.svg** |
-| <a href="China%20Construction%20Bank.svg"><img src="China%20Construction%20Bank.svg" width="200"></a> | **China Construction Bank.svg** |
-| <a href="Cirrus.svg"><img src="Cirrus.svg" width="200"></a> | **Cirrus.svg** |
-| <a href="Citi.svg"><img src="Citi.svg" width="200"></a> | **Citi.svg** |
-| <a href="Coinbase.svg"><img src="Coinbase.svg" width="200"></a> | **Coinbase.svg** |
-| <a href="Crypto.com.svg"><img src="Crypto.com.svg" width="200"></a> | **Crypto.com.svg** |
-| <a href="Deutsche%20Bank.svg"><img src="Deutsche%20Bank.svg" width="200"></a> | **Deutsche Bank.svg** |
-| <a href="Dinners%20Club.svg"><img src="Dinners%20Club.svg" width="200"></a> | **Dinners Club.svg** |
-| <a href="Discover-1.svg"><img src="Discover-1.svg" width="200"></a> | **Discover-1.svg** |
-| <a href="Discover.svg"><img src="Discover.svg" width="200"></a> | **Discover.svg** |
-| <a href="Elo.svg"><img src="Elo.svg" width="200"></a> | **Elo.svg** |
-| <a href="Ethereum.svg"><img src="Ethereum.svg" width="200"></a> | **Ethereum.svg** |
-| <a href="Fifth%20Third%20Bank.svg"><img src="Fifth%20Third%20Bank.svg" width="200"></a> | **Fifth Third Bank.svg** |
-| <a href="Fiserv..svg"><img src="Fiserv..svg" width="200"></a> | **Fiserv..svg** |
-| <a href="Giropay.svg"><img src="Giropay.svg" width="200"></a> | **Giropay.svg** |
-| <a href="Goldman%20Sachs.svg"><img src="Goldman%20Sachs.svg" width="200"></a> | **Goldman Sachs.svg** |
-| <a href="Google%20Pay.svg"><img src="Google%20Pay.svg" width="200"></a> | **Google Pay.svg** |
-| <a href="HSBC.svg"><img src="HSBC.svg" width="200"></a> | **HSBC.svg** |
-| <a href="Huntington%20Bank.svg"><img src="Huntington%20Bank.svg" width="200"></a> | **Huntington Bank.svg** |
-| <a href="ING.svg"><img src="ING.svg" width="200"></a> | **ING.svg** |
-| <a href="Industrial%20and%20Commercial%20Bank%20of%20China.svg"><img src="Industrial%20and%20Commercial%20Bank%20of%20China.svg" width="200"></a> | **Industrial and Commercial Bank of China.svg** |
-| <a href="Interac.svg"><img src="Interac.svg" width="200"></a> | **Interac.svg** |
-| <a href="Japan%20Credit%20Bureau.svg"><img src="Japan%20Credit%20Bureau.svg" width="200"></a> | **Japan Credit Bureau.svg** |
-| <a href="Klarna.svg"><img src="Klarna.svg" width="200"></a> | **Klarna.svg** |
-| <a href="Kraken.svg"><img src="Kraken.svg" width="200"></a> | **Kraken.svg** |
-| <a href="Litecoin.svg"><img src="Litecoin.svg" width="200"></a> | **Litecoin.svg** |
-| <a href="Maestro.svg"><img src="Maestro.svg" width="200"></a> | **Maestro.svg** |
-| <a href="Mastercard.svg"><img src="Mastercard.svg" width="200"></a> | **Mastercard.svg** |
-| <a href="Mercado%20Pago.svg"><img src="Mercado%20Pago.svg" width="200"></a> | **Mercado Pago.svg** |
-| <a href="Mercury.svg"><img src="Mercury.svg" width="200"></a> | **Mercury.svg** |
-| <a href="Meta%20Pay.svg"><img src="Meta%20Pay.svg" width="200"></a> | **Meta Pay.svg** |
-| <a href="Mitsubishi%20UFJ.svg"><img src="Mitsubishi%20UFJ.svg" width="200"></a> | **Mitsubishi UFJ.svg** |
-| <a href="NCR.svg"><img src="NCR.svg" width="200"></a> | **NCR.svg** |
-| <a href="NorthOne.svg"><img src="NorthOne.svg" width="200"></a> | **NorthOne.svg** |
-| <a href="PNC%20Bank.svg"><img src="PNC%20Bank.svg" width="200"></a> | **PNC Bank.svg** |
-| <a href="POLi.svg"><img src="POLi.svg" width="200"></a> | **POLi.svg** |
-| <a href="PayPal-1.svg"><img src="PayPal-1.svg" width="200"></a> | **PayPal-1.svg** |
-| <a href="PayPal.svg"><img src="PayPal.svg" width="200"></a> | **PayPal.svg** |
-| <a href="Payconiq%20by%20Bancontact.svg"><img src="Payconiq%20by%20Bancontact.svg" width="200"></a> | **Payconiq by Bancontact.svg** |
-| <a href="Payline%20Data.svg"><img src="Payline%20Data.svg" width="200"></a> | **Payline Data.svg** |
-| <a href="Payoneer.svg"><img src="Payoneer.svg" width="200"></a> | **Payoneer.svg** |
-| <a href="Paysafe.svg"><img src="Paysafe.svg" width="200"></a> | **Paysafe.svg** |
-| <a href="Revolut.svg"><img src="Revolut.svg" width="200"></a> | **Revolut.svg** |
-| <a href="Ripple.svg"><img src="Ripple.svg" width="200"></a> | **Ripple.svg** |
-| <a href="SEPA.svg"><img src="SEPA.svg" width="200"></a> | **SEPA.svg** |
-| <a href="SWIFT.svg"><img src="SWIFT.svg" width="200"></a> | **SWIFT.svg** |
-| <a href="Samsung%20Pay.svg"><img src="Samsung%20Pay.svg" width="200"></a> | **Samsung Pay.svg** |
-| <a href="Santander.svg"><img src="Santander.svg" width="200"></a> | **Santander.svg** |
-| <a href="Section-1.svg"><img src="Section-1.svg" width="200"></a> | **Section-1.svg** |
-| <a href="Section-2.svg"><img src="Section-2.svg" width="200"></a> | **Section-2.svg** |
-| <a href="Section-3.svg"><img src="Section-3.svg" width="200"></a> | **Section-3.svg** |
-| <a href="Section-4.svg"><img src="Section-4.svg" width="200"></a> | **Section-4.svg** |
-| <a href="Section-5.svg"><img src="Section-5.svg" width="200"></a> | **Section-5.svg** |
-| <a href="Section-6.svg"><img src="Section-6.svg" width="200"></a> | **Section-6.svg** |
-| <a href="Section-7.svg"><img src="Section-7.svg" width="200"></a> | **Section-7.svg** |
-| <a href="Section-8.svg"><img src="Section-8.svg" width="200"></a> | **Section-8.svg** |
-| <a href="Section.svg"><img src="Section.svg" width="200"></a> | **Section.svg** |
-| <a href="Shop%20Pay.svg"><img src="Shop%20Pay.svg" width="200"></a> | **Shop Pay.svg** |
-| <a href="Skrill.svg"><img src="Skrill.svg" width="200"></a> | **Skrill.svg** |
-| <a href="Sofort.svg"><img src="Sofort.svg" width="200"></a> | **Sofort.svg** |
-| <a href="Solana.svg"><img src="Solana.svg" width="200"></a> | **Solana.svg** |
-| <a href="Square.svg"><img src="Square.svg" width="200"></a> | **Square.svg** |
-| <a href="Stax%20Payments.svg"><img src="Stax%20Payments.svg" width="200"></a> | **Stax Payments.svg** |
-| <a href="Stripe.svg"><img src="Stripe.svg" width="200"></a> | **Stripe.svg** |
-| <a href="Sumitomo%20Mitsui.svg"><img src="Sumitomo%20Mitsui.svg" width="200"></a> | **Sumitomo Mitsui.svg** |
-| <a href="Synchrony.svg"><img src="Synchrony.svg" width="200"></a> | **Synchrony.svg** |
-| <a href="Tether.svg"><img src="Tether.svg" width="200"></a> | **Tether.svg** |
-| <a href="TrueUSD.svg"><img src="TrueUSD.svg" width="200"></a> | **TrueUSD.svg** |
-| <a href="U.S.%20Bank.svg"><img src="U.S.%20Bank.svg" width="200"></a> | **U.S. Bank.svg** |
-| <a href="UBS.svg"><img src="UBS.svg" width="200"></a> | **UBS.svg** |
-| <a href="USD%20Coin.svg"><img src="USD%20Coin.svg" width="200"></a> | **USD Coin.svg** |
-| <a href="Union%20Pay.svg"><img src="Union%20Pay.svg" width="200"></a> | **Union Pay.svg** |
-| <a href="Venmo.svg"><img src="Venmo.svg" width="200"></a> | **Venmo.svg** |
-| <a href="Verifone.svg"><img src="Verifone.svg" width="200"></a> | **Verifone.svg** |
-| <a href="Visa.svg"><img src="Visa.svg" width="200"></a> | **Visa.svg** |
-| <a href="We%20Chat%20Pay.svg"><img src="We%20Chat%20Pay.svg" width="200"></a> | **We Chat Pay.svg** |
-| <a href="Wells%20Fargo.svg"><img src="Wells%20Fargo.svg" width="200"></a> | **Wells Fargo.svg** |
-| <a href="Wire%20Transfer.svg"><img src="Wire%20Transfer.svg" width="200"></a> | **Wire Transfer.svg** |
-| <a href="Wise.svg"><img src="Wise.svg" width="200"></a> | **Wise.svg** |
-| <a href="Wrap.svg"><img src="Wrap.svg" width="200"></a> | **Wrap.svg** |
-| <a href="Zelle.svg"><img src="Zelle.svg" width="200"></a> | **Zelle.svg** |
-| <a href="nu%20%28Nubank%29.svg"><img src="nu%20%28Nubank%29.svg" width="200"></a> | **nu (Nubank).svg** |
+| <a href="ACH%20Transfer.svg"><img src="ACH%20Transfer.svg" width="250" alt="ACH Transfer.svg"></a> | **📂 檔名:** `ACH Transfer.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `28.71KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](ACH%20Transfer.svg) |
+| <a href="Adyen.svg"><img src="Adyen.svg" width="250" alt="Adyen.svg"></a> | **📂 檔名:** `Adyen.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `22.90KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Adyen.svg) |
+| <a href="Affirm.svg"><img src="Affirm.svg" width="250" alt="Affirm.svg"></a> | **📂 檔名:** `Affirm.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `19.15KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Affirm.svg) |
+| <a href="Airtm.svg"><img src="Airtm.svg" width="250" alt="Airtm.svg"></a> | **📂 檔名:** `Airtm.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `8.79KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Airtm.svg) |
+| <a href="Alipay%20%2B.svg"><img src="Alipay%20%2B.svg" width="250" alt="Alipay +.svg"></a> | **📂 檔名:** `Alipay +.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `25.94KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Alipay%20%2B.svg) |
+| <a href="Amazon%20Pay.svg"><img src="Amazon%20Pay.svg" width="250" alt="Amazon Pay.svg"></a> | **📂 檔名:** `Amazon Pay.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `43.82KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Amazon%20Pay.svg) |
+| <a href="American%20Express.svg"><img src="American%20Express.svg" width="250" alt="American Express.svg"></a> | **📂 檔名:** `American Express.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `26.61KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](American%20Express.svg) |
+| <a href="Ant%20Group.svg"><img src="Ant%20Group.svg" width="250" alt="Ant Group.svg"></a> | **📂 檔名:** `Ant Group.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `27.86KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Ant%20Group.svg) |
+| <a href="Apple%20Pay.svg"><img src="Apple%20Pay.svg" width="250" alt="Apple Pay.svg"></a> | **📂 檔名:** `Apple Pay.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `28.52KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Apple%20Pay.svg) |
+| <a href="Authorize.Net.svg"><img src="Authorize.Net.svg" width="250" alt="Authorize.Net.svg"></a> | **📂 檔名:** `Authorize.Net.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `58.07KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Authorize.Net.svg) |
+| <a href="BBVA.svg"><img src="BBVA.svg" width="250" alt="BBVA.svg"></a> | **📂 檔名:** `BBVA.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `8.47KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](BBVA.svg) |
+| <a href="BNB%20Chain.svg"><img src="BNB%20Chain.svg" width="250" alt="BNB Chain.svg"></a> | **📂 檔名:** `BNB Chain.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `23.55KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](BNB%20Chain.svg) |
+| <a href="BNP%20Paribas.svg"><img src="BNP%20Paribas.svg" width="250" alt="BNP Paribas.svg"></a> | **📂 檔名:** `BNP Paribas.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `39.71KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](BNP%20Paribas.svg) |
+| <a href="Bank%20Of%20America.svg"><img src="Bank%20Of%20America.svg" width="250" alt="Bank Of America.svg"></a> | **📂 檔名:** `Bank Of America.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `18.25KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Bank%20Of%20America.svg) |
+| <a href="Barclays.svg"><img src="Barclays.svg" width="250" alt="Barclays.svg"></a> | **📂 檔名:** `Barclays.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `19.82KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Barclays.svg) |
+| <a href="Binance%20USD.svg"><img src="Binance%20USD.svg" width="250" alt="Binance USD.svg"></a> | **📂 檔名:** `Binance USD.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `24.34KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Binance%20USD.svg) |
+| <a href="Binance.svg"><img src="Binance.svg" width="250" alt="Binance.svg"></a> | **📂 檔名:** `Binance.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `13.29KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Binance.svg) |
+| <a href="Bitcoin.svg"><img src="Bitcoin.svg" width="250" alt="Bitcoin.svg"></a> | **📂 檔名:** `Bitcoin.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `26.43KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Bitcoin.svg) |
+| <a href="Bitpay.svg"><img src="Bitpay.svg" width="250" alt="Bitpay.svg"></a> | **📂 檔名:** `Bitpay.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `20.03KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Bitpay.svg) |
+| <a href="Braintree.svg"><img src="Braintree.svg" width="250" alt="Braintree.svg"></a> | **📂 檔名:** `Braintree.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `33.57KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Braintree.svg) |
+| <a href="Brex.svg"><img src="Brex.svg" width="250" alt="Brex.svg"></a> | **📂 檔名:** `Brex.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `9.37KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Brex.svg) |
+| <a href="Capital%20One.svg"><img src="Capital%20One.svg" width="250" alt="Capital One.svg"></a> | **📂 檔名:** `Capital One.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `20.68KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Capital%20One.svg) |
+| <a href="Cash%20App.svg"><img src="Cash%20App.svg" width="250" alt="Cash App.svg"></a> | **📂 檔名:** `Cash App.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `24.62KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Cash%20App.svg) |
+| <a href="Chase.svg"><img src="Chase.svg" width="250" alt="Chase.svg"></a> | **📂 檔名:** `Chase.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `10.68KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Chase.svg) |
+| <a href="Checkout.com.svg"><img src="Checkout.com.svg" width="250" alt="Checkout.com.svg"></a> | **📂 檔名:** `Checkout.com.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `25.93KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Checkout.com.svg) |
+| <a href="Chime.svg"><img src="Chime.svg" width="250" alt="Chime.svg"></a> | **📂 檔名:** `Chime.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `27.33KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Chime.svg) |
+| <a href="China%20Construction%20Bank.svg"><img src="China%20Construction%20Bank.svg" width="250" alt="China Construction Bank.svg"></a> | **📂 檔名:** `China Construction Bank.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `59.83KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](China%20Construction%20Bank.svg) |
+| <a href="Cirrus.svg"><img src="Cirrus.svg" width="250" alt="Cirrus.svg"></a> | **📂 檔名:** `Cirrus.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `46.50KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Cirrus.svg) |
+| <a href="Citi.svg"><img src="Citi.svg" width="250" alt="Citi.svg"></a> | **📂 檔名:** `Citi.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `6.87KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Citi.svg) |
+| <a href="Coinbase.svg"><img src="Coinbase.svg" width="250" alt="Coinbase.svg"></a> | **📂 檔名:** `Coinbase.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `16.86KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Coinbase.svg) |
+| <a href="Crypto.com.svg"><img src="Crypto.com.svg" width="250" alt="Crypto.com.svg"></a> | **📂 檔名:** `Crypto.com.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `18.44KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Crypto.com.svg) |
+| <a href="Deutsche%20Bank.svg"><img src="Deutsche%20Bank.svg" width="250" alt="Deutsche Bank.svg"></a> | **📂 檔名:** `Deutsche Bank.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `18.92KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Deutsche%20Bank.svg) |
+| <a href="Dinners%20Club.svg"><img src="Dinners%20Club.svg" width="250" alt="Dinners Club.svg"></a> | **📂 檔名:** `Dinners Club.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `191.39KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Dinners%20Club.svg) |
+| <a href="Discover-1.svg"><img src="Discover-1.svg" width="250" alt="Discover-1.svg"></a> | **📂 檔名:** `Discover-1.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `13.84KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Discover-1.svg) |
+| <a href="Discover.svg"><img src="Discover.svg" width="250" alt="Discover.svg"></a> | **📂 檔名:** `Discover.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `37.66KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Discover.svg) |
+| <a href="Elo.svg"><img src="Elo.svg" width="250" alt="Elo.svg"></a> | **📂 檔名:** `Elo.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `21.95KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Elo.svg) |
+| <a href="Ethereum.svg"><img src="Ethereum.svg" width="250" alt="Ethereum.svg"></a> | **📂 檔名:** `Ethereum.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `36.78KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Ethereum.svg) |
+| <a href="Fifth%20Third%20Bank.svg"><img src="Fifth%20Third%20Bank.svg" width="250" alt="Fifth Third Bank.svg"></a> | **📂 檔名:** `Fifth Third Bank.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `18.74KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Fifth%20Third%20Bank.svg) |
+| <a href="Fiserv..svg"><img src="Fiserv..svg" width="250" alt="Fiserv..svg"></a> | **📂 檔名:** `Fiserv..svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `13.63KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Fiserv..svg) |
+| <a href="Giropay.svg"><img src="Giropay.svg" width="250" alt="Giropay.svg"></a> | **📂 檔名:** `Giropay.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `55.11KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Giropay.svg) |
+| <a href="Goldman%20Sachs.svg"><img src="Goldman%20Sachs.svg" width="250" alt="Goldman Sachs.svg"></a> | **📂 檔名:** `Goldman Sachs.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `33.45KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Goldman%20Sachs.svg) |
+| <a href="Google%20Pay.svg"><img src="Google%20Pay.svg" width="250" alt="Google Pay.svg"></a> | **📂 檔名:** `Google Pay.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `31.41KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Google%20Pay.svg) |
+| <a href="HSBC.svg"><img src="HSBC.svg" width="250" alt="HSBC.svg"></a> | **📂 檔名:** `HSBC.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `9.22KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](HSBC.svg) |
+| <a href="Huntington%20Bank.svg"><img src="Huntington%20Bank.svg" width="250" alt="Huntington Bank.svg"></a> | **📂 檔名:** `Huntington Bank.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `17.79KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Huntington%20Bank.svg) |
+| <a href="ING.svg"><img src="ING.svg" width="250" alt="ING.svg"></a> | **📂 檔名:** `ING.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `78.59KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](ING.svg) |
+| <a href="Industrial%20and%20Commercial%20Bank%20of%20China.svg"><img src="Industrial%20and%20Commercial%20Bank%20of%20China.svg" width="250" alt="Industrial and Commercial Bank of China.svg"></a> | **📂 檔名:** `Industrial and Commercial Bank of China.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `31.91KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Industrial%20and%20Commercial%20Bank%20of%20China.svg) |
+| <a href="Interac.svg"><img src="Interac.svg" width="250" alt="Interac.svg"></a> | **📂 檔名:** `Interac.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `23.87KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Interac.svg) |
+| <a href="Japan%20Credit%20Bureau.svg"><img src="Japan%20Credit%20Bureau.svg" width="250" alt="Japan Credit Bureau.svg"></a> | **📂 檔名:** `Japan Credit Bureau.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `28.53KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Japan%20Credit%20Bureau.svg) |
+| <a href="Klarna.svg"><img src="Klarna.svg" width="250" alt="Klarna.svg"></a> | **📂 檔名:** `Klarna.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `21.71KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Klarna.svg) |
+| <a href="Kraken.svg"><img src="Kraken.svg" width="250" alt="Kraken.svg"></a> | **📂 檔名:** `Kraken.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `17.94KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Kraken.svg) |
+| <a href="Litecoin.svg"><img src="Litecoin.svg" width="250" alt="Litecoin.svg"></a> | **📂 檔名:** `Litecoin.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `25.41KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Litecoin.svg) |
+| <a href="Maestro.svg"><img src="Maestro.svg" width="250" alt="Maestro.svg"></a> | **📂 檔名:** `Maestro.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `57.26KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Maestro.svg) |
+| <a href="Mastercard.svg"><img src="Mastercard.svg" width="250" alt="Mastercard.svg"></a> | **📂 檔名:** `Mastercard.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `27.77KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Mastercard.svg) |
+| <a href="Mercado%20Pago.svg"><img src="Mercado%20Pago.svg" width="250" alt="Mercado Pago.svg"></a> | **📂 檔名:** `Mercado Pago.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `87.00KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Mercado%20Pago.svg) |
+| <a href="Mercury.svg"><img src="Mercury.svg" width="250" alt="Mercury.svg"></a> | **📂 檔名:** `Mercury.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `28.13KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Mercury.svg) |
+| <a href="Meta%20Pay.svg"><img src="Meta%20Pay.svg" width="250" alt="Meta Pay.svg"></a> | **📂 檔名:** `Meta Pay.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `38.01KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Meta%20Pay.svg) |
+| <a href="Mitsubishi%20UFJ.svg"><img src="Mitsubishi%20UFJ.svg" width="250" alt="Mitsubishi UFJ.svg"></a> | **📂 檔名:** `Mitsubishi UFJ.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `12.79KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Mitsubishi%20UFJ.svg) |
+| <a href="NCR.svg"><img src="NCR.svg" width="250" alt="NCR.svg"></a> | **📂 檔名:** `NCR.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `12.55KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](NCR.svg) |
+| <a href="NorthOne.svg"><img src="NorthOne.svg" width="250" alt="NorthOne.svg"></a> | **📂 檔名:** `NorthOne.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `16.80KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](NorthOne.svg) |
+| <a href="PNC%20Bank.svg"><img src="PNC%20Bank.svg" width="250" alt="PNC Bank.svg"></a> | **📂 檔名:** `PNC Bank.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `11.77KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](PNC%20Bank.svg) |
+| <a href="POLi.svg"><img src="POLi.svg" width="250" alt="POLi.svg"></a> | **📂 檔名:** `POLi.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `32.85KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](POLi.svg) |
+| <a href="PayPal-1.svg"><img src="PayPal-1.svg" width="250" alt="PayPal-1.svg"></a> | **📂 檔名:** `PayPal-1.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `33.69KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](PayPal-1.svg) |
+| <a href="PayPal.svg"><img src="PayPal.svg" width="250" alt="PayPal.svg"></a> | **📂 檔名:** `PayPal.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `33.69KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](PayPal.svg) |
+| <a href="Payconiq%20by%20Bancontact.svg"><img src="Payconiq%20by%20Bancontact.svg" width="250" alt="Payconiq by Bancontact.svg"></a> | **📂 檔名:** `Payconiq by Bancontact.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `52.17KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Payconiq%20by%20Bancontact.svg) |
+| <a href="Payline%20Data.svg"><img src="Payline%20Data.svg" width="250" alt="Payline Data.svg"></a> | **📂 檔名:** `Payline Data.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `77.18KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Payline%20Data.svg) |
+| <a href="Payoneer.svg"><img src="Payoneer.svg" width="250" alt="Payoneer.svg"></a> | **📂 檔名:** `Payoneer.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `35.15KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Payoneer.svg) |
+| <a href="Paysafe.svg"><img src="Paysafe.svg" width="250" alt="Paysafe.svg"></a> | **📂 檔名:** `Paysafe.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `32.87KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Paysafe.svg) |
+| <a href="Revolut.svg"><img src="Revolut.svg" width="250" alt="Revolut.svg"></a> | **📂 檔名:** `Revolut.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `13.32KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Revolut.svg) |
+| <a href="Ripple.svg"><img src="Ripple.svg" width="250" alt="Ripple.svg"></a> | **📂 檔名:** `Ripple.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `23.91KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Ripple.svg) |
+| <a href="SEPA.svg"><img src="SEPA.svg" width="250" alt="SEPA.svg"></a> | **📂 檔名:** `SEPA.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `47.50KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](SEPA.svg) |
+| <a href="SWIFT.svg"><img src="SWIFT.svg" width="250" alt="SWIFT.svg"></a> | **📂 檔名:** `SWIFT.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `13.21KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](SWIFT.svg) |
+| <a href="Samsung%20Pay.svg"><img src="Samsung%20Pay.svg" width="250" alt="Samsung Pay.svg"></a> | **📂 檔名:** `Samsung Pay.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `40.27KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Samsung%20Pay.svg) |
+| <a href="Santander.svg"><img src="Santander.svg" width="250" alt="Santander.svg"></a> | **📂 檔名:** `Santander.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `17.10KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Santander.svg) |
+| <a href="Section-1.svg"><img src="Section-1.svg" width="250" alt="Section-1.svg"></a> | **📂 檔名:** `Section-1.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `17.81KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Section-1.svg) |
+| <a href="Section-2.svg"><img src="Section-2.svg" width="250" alt="Section-2.svg"></a> | **📂 檔名:** `Section-2.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `16.49KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Section-2.svg) |
+| <a href="Section-3.svg"><img src="Section-3.svg" width="250" alt="Section-3.svg"></a> | **📂 檔名:** `Section-3.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `11.40KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Section-3.svg) |
+| <a href="Section-4.svg"><img src="Section-4.svg" width="250" alt="Section-4.svg"></a> | **📂 檔名:** `Section-4.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `18.54KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Section-4.svg) |
+| <a href="Section-5.svg"><img src="Section-5.svg" width="250" alt="Section-5.svg"></a> | **📂 檔名:** `Section-5.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `4.70KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Section-5.svg) |
+| <a href="Section-6.svg"><img src="Section-6.svg" width="250" alt="Section-6.svg"></a> | **📂 檔名:** `Section-6.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `5.17KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Section-6.svg) |
+| <a href="Section-7.svg"><img src="Section-7.svg" width="250" alt="Section-7.svg"></a> | **📂 檔名:** `Section-7.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `12.47KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Section-7.svg) |
+| <a href="Section-8.svg"><img src="Section-8.svg" width="250" alt="Section-8.svg"></a> | **📂 檔名:** `Section-8.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `14.86KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Section-8.svg) |
+| <a href="Section.svg"><img src="Section.svg" width="250" alt="Section.svg"></a> | **📂 檔名:** `Section.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `14.62KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Section.svg) |
+| <a href="Shop%20Pay.svg"><img src="Shop%20Pay.svg" width="250" alt="Shop Pay.svg"></a> | **📂 檔名:** `Shop Pay.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `44.54KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Shop%20Pay.svg) |
+| <a href="Skrill.svg"><img src="Skrill.svg" width="250" alt="Skrill.svg"></a> | **📂 檔名:** `Skrill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `20.42KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Skrill.svg) |
+| <a href="Sofort.svg"><img src="Sofort.svg" width="250" alt="Sofort.svg"></a> | **📂 檔名:** `Sofort.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `14.47KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Sofort.svg) |
+| <a href="Solana.svg"><img src="Solana.svg" width="250" alt="Solana.svg"></a> | **📂 檔名:** `Solana.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `30.87KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Solana.svg) |
+| <a href="Square.svg"><img src="Square.svg" width="250" alt="Square.svg"></a> | **📂 檔名:** `Square.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `20.76KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Square.svg) |
+| <a href="Stax%20Payments.svg"><img src="Stax%20Payments.svg" width="250" alt="Stax Payments.svg"></a> | **📂 檔名:** `Stax Payments.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `20.44KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Stax%20Payments.svg) |
+| <a href="Stripe.svg"><img src="Stripe.svg" width="250" alt="Stripe.svg"></a> | **📂 檔名:** `Stripe.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `25.21KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Stripe.svg) |
+| <a href="Sumitomo%20Mitsui.svg"><img src="Sumitomo%20Mitsui.svg" width="250" alt="Sumitomo Mitsui.svg"></a> | **📂 檔名:** `Sumitomo Mitsui.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `19.72KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Sumitomo%20Mitsui.svg) |
+| <a href="Synchrony.svg"><img src="Synchrony.svg" width="250" alt="Synchrony.svg"></a> | **📂 檔名:** `Synchrony.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `12.42KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Synchrony.svg) |
+| <a href="Tether.svg"><img src="Tether.svg" width="250" alt="Tether.svg"></a> | **📂 檔名:** `Tether.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `20.87KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Tether.svg) |
+| <a href="TrueUSD.svg"><img src="TrueUSD.svg" width="250" alt="TrueUSD.svg"></a> | **📂 檔名:** `TrueUSD.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `35.03KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](TrueUSD.svg) |
+| <a href="U.S.%20Bank.svg"><img src="U.S.%20Bank.svg" width="250" alt="U.S. Bank.svg"></a> | **📂 檔名:** `U.S. Bank.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `13.97KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](U.S.%20Bank.svg) |
+| <a href="UBS.svg"><img src="UBS.svg" width="250" alt="UBS.svg"></a> | **📂 檔名:** `UBS.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `12.98KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](UBS.svg) |
+| <a href="USD%20Coin.svg"><img src="USD%20Coin.svg" width="250" alt="USD Coin.svg"></a> | **📂 檔名:** `USD Coin.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `31.36KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](USD%20Coin.svg) |
+| <a href="Union%20Pay.svg"><img src="Union%20Pay.svg" width="250" alt="Union Pay.svg"></a> | **📂 檔名:** `Union Pay.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `91.82KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Union%20Pay.svg) |
+| <a href="Venmo.svg"><img src="Venmo.svg" width="250" alt="Venmo.svg"></a> | **📂 檔名:** `Venmo.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `22.79KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Venmo.svg) |
+| <a href="Verifone.svg"><img src="Verifone.svg" width="250" alt="Verifone.svg"></a> | **📂 檔名:** `Verifone.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `14.70KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Verifone.svg) |
+| <a href="Visa.svg"><img src="Visa.svg" width="250" alt="Visa.svg"></a> | **📂 檔名:** `Visa.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `16.74KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Visa.svg) |
+| <a href="We%20Chat%20Pay.svg"><img src="We%20Chat%20Pay.svg" width="250" alt="We Chat Pay.svg"></a> | **📂 檔名:** `We Chat Pay.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `27.10KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](We%20Chat%20Pay.svg) |
+| <a href="Wells%20Fargo.svg"><img src="Wells%20Fargo.svg" width="250" alt="Wells Fargo.svg"></a> | **📂 檔名:** `Wells Fargo.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `16.11KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Wells%20Fargo.svg) |
+| <a href="Wire%20Transfer.svg"><img src="Wire%20Transfer.svg" width="250" alt="Wire Transfer.svg"></a> | **📂 檔名:** `Wire Transfer.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `25.41KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Wire%20Transfer.svg) |
+| <a href="Wise.svg"><img src="Wise.svg" width="250" alt="Wise.svg"></a> | **📂 檔名:** `Wise.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `10.19KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Wise.svg) |
+| <a href="Wrap.svg"><img src="Wrap.svg" width="250" alt="Wrap.svg"></a> | **📂 檔名:** `Wrap.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `17.42KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Wrap.svg) |
+| <a href="Zelle.svg"><img src="Zelle.svg" width="250" alt="Zelle.svg"></a> | **📂 檔名:** `Zelle.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `12.00KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Zelle.svg) |
+| <a href="nu%20%28Nubank%29.svg"><img src="nu%20%28Nubank%29.svg" width="250" alt="nu (Nubank).svg"></a> | **📂 檔名:** `nu (Nubank).svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `13.54KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](nu%20%28Nubank%29.svg) |

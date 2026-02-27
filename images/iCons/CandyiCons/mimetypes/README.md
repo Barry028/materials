@@ -1,38 +1,40 @@
-# 🖼️ mimetypes
+# 🖼️ 素材分類：mimetypes
 
-[⬅️ 返回主目錄](../../../../README.md)
+> [🏠 主目錄](../../../../README.md) / **mimetypes**
 
-| 預覽 | 資訊 |
+本目錄共有 `32` 個檔案
+
+| 🎨 預覽 (點擊放大) | 📋 檔案詳細資訊 |
 | :--- | :--- |
-| <a href="application-json.svg"><img src="application-json.svg" width="200"></a> | **application-json.svg** |
-| <a href="application-vnd.cryptomator.vault.svg"><img src="application-vnd.cryptomator.vault.svg" width="200"></a> | **application-vnd.cryptomator.vault.svg** |
-| <a href="application-x-apkg.svg"><img src="application-x-apkg.svg" width="200"></a> | **application-x-apkg.svg** |
-| <a href="application-x-bittorrent.svg"><img src="application-x-bittorrent.svg" width="200"></a> | **application-x-bittorrent.svg** |
-| <a href="application-x-plasma.svg"><img src="application-x-plasma.svg" width="200"></a> | **application-x-plasma.svg** |
-| <a href="application-x-raw-disk-image.svg"><img src="application-x-raw-disk-image.svg" width="200"></a> | **application-x-raw-disk-image.svg** |
-| <a href="application-x-ruby.svg"><img src="application-x-ruby.svg" width="200"></a> | **application-x-ruby.svg** |
-| <a href="application-x-xzpdf.svg"><img src="application-x-xzpdf.svg" width="200"></a> | **application-x-xzpdf.svg** |
-| <a href="audio-x-generic.svg"><img src="audio-x-generic.svg" width="200"></a> | **audio-x-generic.svg** |
-| <a href="gnome-mime-application-x-deb.svg"><img src="gnome-mime-application-x-deb.svg" width="200"></a> | **gnome-mime-application-x-deb.svg** |
-| <a href="image-x-generic.svg"><img src="image-x-generic.svg" width="200"></a> | **image-x-generic.svg** |
-| <a href="image-x-svg%2Bxml.svg"><img src="image-x-svg%2Bxml.svg" width="200"></a> | **image-x-svg+xml.svg** |
-| <a href="inode-vnd.kde.service.upnp.SolarProtectionBlind1.svg"><img src="inode-vnd.kde.service.upnp.SolarProtectionBlind1.svg" width="200"></a> | **inode-vnd.kde.service.upnp.SolarProtectionBlind1.svg** |
-| <a href="tar.svg"><img src="tar.svg" width="200"></a> | **tar.svg** |
-| <a href="text-html.svg"><img src="text-html.svg" width="200"></a> | **text-html.svg** |
-| <a href="text-x-c%2B%2Bhdr.svg"><img src="text-x-c%2B%2Bhdr.svg" width="200"></a> | **text-x-c++hdr.svg** |
-| <a href="text-x-cpp.svg"><img src="text-x-cpp.svg" width="200"></a> | **text-x-cpp.svg** |
-| <a href="text-x-csrc.svg"><img src="text-x-csrc.svg" width="200"></a> | **text-x-csrc.svg** |
-| <a href="text-x-css.svg"><img src="text-x-css.svg" width="200"></a> | **text-x-css.svg** |
-| <a href="text-x-emacs-lisp.svg"><img src="text-x-emacs-lisp.svg" width="200"></a> | **text-x-emacs-lisp.svg** |
-| <a href="text-x-generic.svg"><img src="text-x-generic.svg" width="200"></a> | **text-x-generic.svg** |
-| <a href="text-x-go.svg"><img src="text-x-go.svg" width="200"></a> | **text-x-go.svg** |
-| <a href="text-x-java.svg"><img src="text-x-java.svg" width="200"></a> | **text-x-java.svg** |
-| <a href="text-x-javascript.svg"><img src="text-x-javascript.svg" width="200"></a> | **text-x-javascript.svg** |
-| <a href="text-x-julia.svg"><img src="text-x-julia.svg" width="200"></a> | **text-x-julia.svg** |
-| <a href="text-x-markdown.svg"><img src="text-x-markdown.svg" width="200"></a> | **text-x-markdown.svg** |
-| <a href="text-x-python3.svg"><img src="text-x-python3.svg" width="200"></a> | **text-x-python3.svg** |
-| <a href="text-x-rust.svg"><img src="text-x-rust.svg" width="200"></a> | **text-x-rust.svg** |
-| <a href="text-x-script.svg"><img src="text-x-script.svg" width="200"></a> | **text-x-script.svg** |
-| <a href="text-x-scss.svg"><img src="text-x-scss.svg" width="200"></a> | **text-x-scss.svg** |
-| <a href="x-office-document.svg"><img src="x-office-document.svg" width="200"></a> | **x-office-document.svg** |
-| <a href="x-office-spreadsheet.svg"><img src="x-office-spreadsheet.svg" width="200"></a> | **x-office-spreadsheet.svg** |
+| <a href="application-json.svg"><img src="application-json.svg" width="250" alt="application-json.svg"></a> | **📂 檔名:** `application-json.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `11.76KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](application-json.svg) |
+| <a href="application-vnd.cryptomator.vault.svg"><img src="application-vnd.cryptomator.vault.svg" width="250" alt="application-vnd.cryptomator.vault.svg"></a> | **📂 檔名:** `application-vnd.cryptomator.vault.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `30.28KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](application-vnd.cryptomator.vault.svg) |
+| <a href="application-x-apkg.svg"><img src="application-x-apkg.svg" width="250" alt="application-x-apkg.svg"></a> | **📂 檔名:** `application-x-apkg.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `11.20KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](application-x-apkg.svg) |
+| <a href="application-x-bittorrent.svg"><img src="application-x-bittorrent.svg" width="250" alt="application-x-bittorrent.svg"></a> | **📂 檔名:** `application-x-bittorrent.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `14.69KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](application-x-bittorrent.svg) |
+| <a href="application-x-plasma.svg"><img src="application-x-plasma.svg" width="250" alt="application-x-plasma.svg"></a> | **📂 檔名:** `application-x-plasma.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `3.07KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](application-x-plasma.svg) |
+| <a href="application-x-raw-disk-image.svg"><img src="application-x-raw-disk-image.svg" width="250" alt="application-x-raw-disk-image.svg"></a> | **📂 檔名:** `application-x-raw-disk-image.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `2.96KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](application-x-raw-disk-image.svg) |
+| <a href="application-x-ruby.svg"><img src="application-x-ruby.svg" width="250" alt="application-x-ruby.svg"></a> | **📂 檔名:** `application-x-ruby.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `3.03KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](application-x-ruby.svg) |
+| <a href="application-x-xzpdf.svg"><img src="application-x-xzpdf.svg" width="250" alt="application-x-xzpdf.svg"></a> | **📂 檔名:** `application-x-xzpdf.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `7.17KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](application-x-xzpdf.svg) |
+| <a href="audio-x-generic.svg"><img src="audio-x-generic.svg" width="250" alt="audio-x-generic.svg"></a> | **📂 檔名:** `audio-x-generic.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `3.61KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](audio-x-generic.svg) |
+| <a href="gnome-mime-application-x-deb.svg"><img src="gnome-mime-application-x-deb.svg" width="250" alt="gnome-mime-application-x-deb.svg"></a> | **📂 檔名:** `gnome-mime-application-x-deb.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `10.82KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](gnome-mime-application-x-deb.svg) |
+| <a href="image-x-generic.svg"><img src="image-x-generic.svg" width="250" alt="image-x-generic.svg"></a> | **📂 檔名:** `image-x-generic.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `3.43KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](image-x-generic.svg) |
+| <a href="image-x-svg%2Bxml.svg"><img src="image-x-svg%2Bxml.svg" width="250" alt="image-x-svg+xml.svg"></a> | **📂 檔名:** `image-x-svg+xml.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `6.23KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](image-x-svg%2Bxml.svg) |
+| <a href="inode-vnd.kde.service.upnp.SolarProtectionBlind1.svg"><img src="inode-vnd.kde.service.upnp.SolarProtectionBlind1.svg" width="250" alt="inode-vnd.kde.service.upnp.SolarProtectionBlind1.svg"></a> | **📂 檔名:** `inode-vnd.kde.service.upnp.SolarProtectionBlind1.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `2.50KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](inode-vnd.kde.service.upnp.SolarProtectionBlind1.svg) |
+| <a href="tar.svg"><img src="tar.svg" width="250" alt="tar.svg"></a> | **📂 檔名:** `tar.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `5.32KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](tar.svg) |
+| <a href="text-html.svg"><img src="text-html.svg" width="250" alt="text-html.svg"></a> | **📂 檔名:** `text-html.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `4.08KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](text-html.svg) |
+| <a href="text-x-c%2B%2Bhdr.svg"><img src="text-x-c%2B%2Bhdr.svg" width="250" alt="text-x-c++hdr.svg"></a> | **📂 檔名:** `text-x-c++hdr.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `3.43KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](text-x-c%2B%2Bhdr.svg) |
+| <a href="text-x-cpp.svg"><img src="text-x-cpp.svg" width="250" alt="text-x-cpp.svg"></a> | **📂 檔名:** `text-x-cpp.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `3.04KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](text-x-cpp.svg) |
+| <a href="text-x-csrc.svg"><img src="text-x-csrc.svg" width="250" alt="text-x-csrc.svg"></a> | **📂 檔名:** `text-x-csrc.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `5.75KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](text-x-csrc.svg) |
+| <a href="text-x-css.svg"><img src="text-x-css.svg" width="250" alt="text-x-css.svg"></a> | **📂 檔名:** `text-x-css.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `2.62KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](text-x-css.svg) |
+| <a href="text-x-emacs-lisp.svg"><img src="text-x-emacs-lisp.svg" width="250" alt="text-x-emacs-lisp.svg"></a> | **📂 檔名:** `text-x-emacs-lisp.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `6.17KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](text-x-emacs-lisp.svg) |
+| <a href="text-x-generic.svg"><img src="text-x-generic.svg" width="250" alt="text-x-generic.svg"></a> | **📂 檔名:** `text-x-generic.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `5.05KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](text-x-generic.svg) |
+| <a href="text-x-go.svg"><img src="text-x-go.svg" width="250" alt="text-x-go.svg"></a> | **📂 檔名:** `text-x-go.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `3.53KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](text-x-go.svg) |
+| <a href="text-x-java.svg"><img src="text-x-java.svg" width="250" alt="text-x-java.svg"></a> | **📂 檔名:** `text-x-java.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `6.04KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](text-x-java.svg) |
+| <a href="text-x-javascript.svg"><img src="text-x-javascript.svg" width="250" alt="text-x-javascript.svg"></a> | **📂 檔名:** `text-x-javascript.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `3.61KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](text-x-javascript.svg) |
+| <a href="text-x-julia.svg"><img src="text-x-julia.svg" width="250" alt="text-x-julia.svg"></a> | **📂 檔名:** `text-x-julia.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `5.79KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](text-x-julia.svg) |
+| <a href="text-x-markdown.svg"><img src="text-x-markdown.svg" width="250" alt="text-x-markdown.svg"></a> | **📂 檔名:** `text-x-markdown.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `13.13KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](text-x-markdown.svg) |
+| <a href="text-x-python3.svg"><img src="text-x-python3.svg" width="250" alt="text-x-python3.svg"></a> | **📂 檔名:** `text-x-python3.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `4.23KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](text-x-python3.svg) |
+| <a href="text-x-rust.svg"><img src="text-x-rust.svg" width="250" alt="text-x-rust.svg"></a> | **📂 檔名:** `text-x-rust.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `2.95KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](text-x-rust.svg) |
+| <a href="text-x-script.svg"><img src="text-x-script.svg" width="250" alt="text-x-script.svg"></a> | **📂 檔名:** `text-x-script.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `8.24KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](text-x-script.svg) |
+| <a href="text-x-scss.svg"><img src="text-x-scss.svg" width="250" alt="text-x-scss.svg"></a> | **📂 檔名:** `text-x-scss.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `7.23KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](text-x-scss.svg) |
+| <a href="x-office-document.svg"><img src="x-office-document.svg" width="250" alt="x-office-document.svg"></a> | **📂 檔名:** `x-office-document.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `10.31KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](x-office-document.svg) |
+| <a href="x-office-spreadsheet.svg"><img src="x-office-spreadsheet.svg" width="250" alt="x-office-spreadsheet.svg"></a> | **📂 檔名:** `x-office-spreadsheet.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `6.12KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](x-office-spreadsheet.svg) |

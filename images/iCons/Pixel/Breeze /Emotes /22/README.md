@@ -1,40 +1,42 @@
-# 🖼️ 22
+# 🖼️ 素材分類：22
 
-[⬅️ 返回主目錄](../../../../../../README.md)
+> [🏠 主目錄](../../../../../../README.md) / **22**
 
-| 預覽 | 資訊 |
+本目錄共有 `34` 個檔案
+
+| 🎨 預覽 (點擊放大) | 📋 檔案詳細資訊 |
 | :--- | :--- |
-| <a href="drink-beer.svg"><img src="drink-beer.svg" width="200"></a> | **drink-beer.svg** |
-| <a href="drink-martini.svg"><img src="drink-martini.svg" width="200"></a> | **drink-martini.svg** |
-| <a href="face-angel.svg"><img src="face-angel.svg" width="200"></a> | **face-angel.svg** |
-| <a href="face-angry.svg"><img src="face-angry.svg" width="200"></a> | **face-angry.svg** |
-| <a href="face-clown.svg"><img src="face-clown.svg" width="200"></a> | **face-clown.svg** |
-| <a href="face-confused.svg"><img src="face-confused.svg" width="200"></a> | **face-confused.svg** |
-| <a href="face-cool.svg"><img src="face-cool.svg" width="200"></a> | **face-cool.svg** |
-| <a href="face-crying.svg"><img src="face-crying.svg" width="200"></a> | **face-crying.svg** |
-| <a href="face-devilish.svg"><img src="face-devilish.svg" width="200"></a> | **face-devilish.svg** |
-| <a href="face-embarrassed.svg"><img src="face-embarrassed.svg" width="200"></a> | **face-embarrassed.svg** |
-| <a href="face-glasses.svg"><img src="face-glasses.svg" width="200"></a> | **face-glasses.svg** |
-| <a href="face-hug-left.svg"><img src="face-hug-left.svg" width="200"></a> | **face-hug-left.svg** |
-| <a href="face-hug-right.svg"><img src="face-hug-right.svg" width="200"></a> | **face-hug-right.svg** |
-| <a href="face-in-love.svg"><img src="face-in-love.svg" width="200"></a> | **face-in-love.svg** |
-| <a href="face-kiss.svg"><img src="face-kiss.svg" width="200"></a> | **face-kiss.svg** |
-| <a href="face-laughing.svg"><img src="face-laughing.svg" width="200"></a> | **face-laughing.svg** |
-| <a href="face-ninja.svg"><img src="face-ninja.svg" width="200"></a> | **face-ninja.svg** |
-| <a href="face-pirate.svg"><img src="face-pirate.svg" width="200"></a> | **face-pirate.svg** |
-| <a href="face-plain.svg"><img src="face-plain.svg" width="200"></a> | **face-plain.svg** |
-| <a href="face-quiet.svg"><img src="face-quiet.svg" width="200"></a> | **face-quiet.svg** |
-| <a href="face-raspberry.svg"><img src="face-raspberry.svg" width="200"></a> | **face-raspberry.svg** |
-| <a href="face-sad.svg"><img src="face-sad.svg" width="200"></a> | **face-sad.svg** |
-| <a href="face-sick.svg"><img src="face-sick.svg" width="200"></a> | **face-sick.svg** |
-| <a href="face-sleeping.svg"><img src="face-sleeping.svg" width="200"></a> | **face-sleeping.svg** |
-| <a href="face-smile-big.svg"><img src="face-smile-big.svg" width="200"></a> | **face-smile-big.svg** |
-| <a href="face-smile-grin.svg"><img src="face-smile-grin.svg" width="200"></a> | **face-smile-grin.svg** |
-| <a href="face-smile.svg"><img src="face-smile.svg" width="200"></a> | **face-smile.svg** |
-| <a href="face-smirk.svg"><img src="face-smirk.svg" width="200"></a> | **face-smirk.svg** |
-| <a href="face-surprise.svg"><img src="face-surprise.svg" width="200"></a> | **face-surprise.svg** |
-| <a href="face-uncertain.svg"><img src="face-uncertain.svg" width="200"></a> | **face-uncertain.svg** |
-| <a href="face-wink.svg"><img src="face-wink.svg" width="200"></a> | **face-wink.svg** |
-| <a href="face-worried.svg"><img src="face-worried.svg" width="200"></a> | **face-worried.svg** |
-| <a href="face-yawn.svg"><img src="face-yawn.svg" width="200"></a> | **face-yawn.svg** |
-| <a href="food-cake.svg"><img src="food-cake.svg" width="200"></a> | **food-cake.svg** |
+| <a href="drink-beer.svg"><img src="drink-beer.svg" width="250" alt="drink-beer.svg"></a> | **📂 檔名:** `drink-beer.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `2.05KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](drink-beer.svg) |
+| <a href="drink-martini.svg"><img src="drink-martini.svg" width="250" alt="drink-martini.svg"></a> | **📂 檔名:** `drink-martini.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `4.06KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](drink-martini.svg) |
+| <a href="face-angel.svg"><img src="face-angel.svg" width="250" alt="face-angel.svg"></a> | **📂 檔名:** `face-angel.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `2.19KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](face-angel.svg) |
+| <a href="face-angry.svg"><img src="face-angry.svg" width="250" alt="face-angry.svg"></a> | **📂 檔名:** `face-angry.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.43KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](face-angry.svg) |
+| <a href="face-clown.svg"><img src="face-clown.svg" width="250" alt="face-clown.svg"></a> | **📂 檔名:** `face-clown.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `2.58KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](face-clown.svg) |
+| <a href="face-confused.svg"><img src="face-confused.svg" width="250" alt="face-confused.svg"></a> | **📂 檔名:** `face-confused.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.57KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](face-confused.svg) |
+| <a href="face-cool.svg"><img src="face-cool.svg" width="250" alt="face-cool.svg"></a> | **📂 檔名:** `face-cool.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.86KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](face-cool.svg) |
+| <a href="face-crying.svg"><img src="face-crying.svg" width="250" alt="face-crying.svg"></a> | **📂 檔名:** `face-crying.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.74KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](face-crying.svg) |
+| <a href="face-devilish.svg"><img src="face-devilish.svg" width="250" alt="face-devilish.svg"></a> | **📂 檔名:** `face-devilish.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.84KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](face-devilish.svg) |
+| <a href="face-embarrassed.svg"><img src="face-embarrassed.svg" width="250" alt="face-embarrassed.svg"></a> | **📂 檔名:** `face-embarrassed.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `2.60KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](face-embarrassed.svg) |
+| <a href="face-glasses.svg"><img src="face-glasses.svg" width="250" alt="face-glasses.svg"></a> | **📂 檔名:** `face-glasses.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `2.13KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](face-glasses.svg) |
+| <a href="face-hug-left.svg"><img src="face-hug-left.svg" width="250" alt="face-hug-left.svg"></a> | **📂 檔名:** `face-hug-left.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `2.15KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](face-hug-left.svg) |
+| <a href="face-hug-right.svg"><img src="face-hug-right.svg" width="250" alt="face-hug-right.svg"></a> | **📂 檔名:** `face-hug-right.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `2.19KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](face-hug-right.svg) |
+| <a href="face-in-love.svg"><img src="face-in-love.svg" width="250" alt="face-in-love.svg"></a> | **📂 檔名:** `face-in-love.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `2.94KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](face-in-love.svg) |
+| <a href="face-kiss.svg"><img src="face-kiss.svg" width="250" alt="face-kiss.svg"></a> | **📂 檔名:** `face-kiss.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `2.45KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](face-kiss.svg) |
+| <a href="face-laughing.svg"><img src="face-laughing.svg" width="250" alt="face-laughing.svg"></a> | **📂 檔名:** `face-laughing.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.87KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](face-laughing.svg) |
+| <a href="face-ninja.svg"><img src="face-ninja.svg" width="250" alt="face-ninja.svg"></a> | **📂 檔名:** `face-ninja.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.41KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](face-ninja.svg) |
+| <a href="face-pirate.svg"><img src="face-pirate.svg" width="250" alt="face-pirate.svg"></a> | **📂 檔名:** `face-pirate.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.84KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](face-pirate.svg) |
+| <a href="face-plain.svg"><img src="face-plain.svg" width="250" alt="face-plain.svg"></a> | **📂 檔名:** `face-plain.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1002.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](face-plain.svg) |
+| <a href="face-quiet.svg"><img src="face-quiet.svg" width="250" alt="face-quiet.svg"></a> | **📂 檔名:** `face-quiet.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.49KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](face-quiet.svg) |
+| <a href="face-raspberry.svg"><img src="face-raspberry.svg" width="250" alt="face-raspberry.svg"></a> | **📂 檔名:** `face-raspberry.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.21KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](face-raspberry.svg) |
+| <a href="face-sad.svg"><img src="face-sad.svg" width="250" alt="face-sad.svg"></a> | **📂 檔名:** `face-sad.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.50KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](face-sad.svg) |
+| <a href="face-sick.svg"><img src="face-sick.svg" width="250" alt="face-sick.svg"></a> | **📂 檔名:** `face-sick.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.88KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](face-sick.svg) |
+| <a href="face-sleeping.svg"><img src="face-sleeping.svg" width="250" alt="face-sleeping.svg"></a> | **📂 檔名:** `face-sleeping.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `2.13KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](face-sleeping.svg) |
+| <a href="face-smile-big.svg"><img src="face-smile-big.svg" width="250" alt="face-smile-big.svg"></a> | **📂 檔名:** `face-smile-big.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.79KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](face-smile-big.svg) |
+| <a href="face-smile-grin.svg"><img src="face-smile-grin.svg" width="250" alt="face-smile-grin.svg"></a> | **📂 檔名:** `face-smile-grin.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.62KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](face-smile-grin.svg) |
+| <a href="face-smile.svg"><img src="face-smile.svg" width="250" alt="face-smile.svg"></a> | **📂 檔名:** `face-smile.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `999.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](face-smile.svg) |
+| <a href="face-smirk.svg"><img src="face-smirk.svg" width="250" alt="face-smirk.svg"></a> | **📂 檔名:** `face-smirk.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.58KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](face-smirk.svg) |
+| <a href="face-surprise.svg"><img src="face-surprise.svg" width="250" alt="face-surprise.svg"></a> | **📂 檔名:** `face-surprise.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.16KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](face-surprise.svg) |
+| <a href="face-uncertain.svg"><img src="face-uncertain.svg" width="250" alt="face-uncertain.svg"></a> | **📂 檔名:** `face-uncertain.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.72KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](face-uncertain.svg) |
+| <a href="face-wink.svg"><img src="face-wink.svg" width="250" alt="face-wink.svg"></a> | **📂 檔名:** `face-wink.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.27KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](face-wink.svg) |
+| <a href="face-worried.svg"><img src="face-worried.svg" width="250" alt="face-worried.svg"></a> | **📂 檔名:** `face-worried.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `2.22KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](face-worried.svg) |
+| <a href="face-yawn.svg"><img src="face-yawn.svg" width="250" alt="face-yawn.svg"></a> | **📂 檔名:** `face-yawn.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.26KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](face-yawn.svg) |
+| <a href="food-cake.svg"><img src="food-cake.svg" width="250" alt="food-cake.svg"></a> | **📂 檔名:** `food-cake.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `4.44KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](food-cake.svg) |

@@ -1,105 +1,107 @@
-# 🖼️ editor
+# 🖼️ 素材分類：editor
 
-[⬅️ 返回主目錄](../../../../../README.md)
+> [🏠 主目錄](../../../../../README.md) / **editor**
 
-| 預覽 | 資訊 |
+本目錄共有 `99` 個檔案
+
+| 🎨 預覽 (點擊放大) | 📋 檔案詳細資訊 |
 | :--- | :--- |
-| <a href="a-b.svg"><img src="a-b.svg" width="200"></a> | **a-b.svg** |
-| <a href="align-bottom.svg"><img src="align-bottom.svg" width="200"></a> | **align-bottom.svg** |
-| <a href="align-center.svg"><img src="align-center.svg" width="200"></a> | **align-center.svg** |
-| <a href="align-justify.svg"><img src="align-justify.svg" width="200"></a> | **align-justify.svg** |
-| <a href="align-left.svg"><img src="align-left.svg" width="200"></a> | **align-left.svg** |
-| <a href="align-right.svg"><img src="align-right.svg" width="200"></a> | **align-right.svg** |
-| <a href="align-top.svg"><img src="align-top.svg" width="200"></a> | **align-top.svg** |
-| <a href="align-vertically.svg"><img src="align-vertically.svg" width="200"></a> | **align-vertically.svg** |
-| <a href="asterisk.svg"><img src="asterisk.svg" width="200"></a> | **asterisk.svg** |
-| <a href="attachment-2.svg"><img src="attachment-2.svg" width="200"></a> | **attachment-2.svg** |
-| <a href="bold.svg"><img src="bold.svg" width="200"></a> | **bold.svg** |
-| <a href="bring-forward.svg"><img src="bring-forward.svg" width="200"></a> | **bring-forward.svg** |
-| <a href="bring-to-front.svg"><img src="bring-to-front.svg" width="200"></a> | **bring-to-front.svg** |
-| <a href="code-view.svg"><img src="code-view.svg" width="200"></a> | **code-view.svg** |
-| <a href="delete-column.svg"><img src="delete-column.svg" width="200"></a> | **delete-column.svg** |
-| <a href="delete-row.svg"><img src="delete-row.svg" width="200"></a> | **delete-row.svg** |
-| <a href="double-quotes-l.svg"><img src="double-quotes-l.svg" width="200"></a> | **double-quotes-l.svg** |
-| <a href="double-quotes-r.svg"><img src="double-quotes-r.svg" width="200"></a> | **double-quotes-r.svg** |
-| <a href="emphasis-cn.svg"><img src="emphasis-cn.svg" width="200"></a> | **emphasis-cn.svg** |
-| <a href="emphasis.svg"><img src="emphasis.svg" width="200"></a> | **emphasis.svg** |
-| <a href="english-input.svg"><img src="english-input.svg" width="200"></a> | **english-input.svg** |
-| <a href="flow-chart.svg"><img src="flow-chart.svg" width="200"></a> | **flow-chart.svg** |
-| <a href="font-color.svg"><img src="font-color.svg" width="200"></a> | **font-color.svg** |
-| <a href="font-size-2.svg"><img src="font-size-2.svg" width="200"></a> | **font-size-2.svg** |
-| <a href="font-size.svg"><img src="font-size.svg" width="200"></a> | **font-size.svg** |
-| <a href="format-clear.svg"><img src="format-clear.svg" width="200"></a> | **format-clear.svg** |
-| <a href="functions.svg"><img src="functions.svg" width="200"></a> | **functions.svg** |
-| <a href="h-1.svg"><img src="h-1.svg" width="200"></a> | **h-1.svg** |
-| <a href="h-2.svg"><img src="h-2.svg" width="200"></a> | **h-2.svg** |
-| <a href="h-3.svg"><img src="h-3.svg" width="200"></a> | **h-3.svg** |
-| <a href="h-4.svg"><img src="h-4.svg" width="200"></a> | **h-4.svg** |
-| <a href="h-5.svg"><img src="h-5.svg" width="200"></a> | **h-5.svg** |
-| <a href="h-6.svg"><img src="h-6.svg" width="200"></a> | **h-6.svg** |
-| <a href="hashtag.svg"><img src="hashtag.svg" width="200"></a> | **hashtag.svg** |
-| <a href="heading.svg"><img src="heading.svg" width="200"></a> | **heading.svg** |
-| <a href="indent-decrease.svg"><img src="indent-decrease.svg" width="200"></a> | **indent-decrease.svg** |
-| <a href="indent-increase.svg"><img src="indent-increase.svg" width="200"></a> | **indent-increase.svg** |
-| <a href="input-cursor-move.svg"><img src="input-cursor-move.svg" width="200"></a> | **input-cursor-move.svg** |
-| <a href="insert-column-left.svg"><img src="insert-column-left.svg" width="200"></a> | **insert-column-left.svg** |
-| <a href="insert-column-right.svg"><img src="insert-column-right.svg" width="200"></a> | **insert-column-right.svg** |
-| <a href="insert-row-bottom.svg"><img src="insert-row-bottom.svg" width="200"></a> | **insert-row-bottom.svg** |
-| <a href="insert-row-top.svg"><img src="insert-row-top.svg" width="200"></a> | **insert-row-top.svg** |
-| <a href="italic.svg"><img src="italic.svg" width="200"></a> | **italic.svg** |
-| <a href="line-height.svg"><img src="line-height.svg" width="200"></a> | **line-height.svg** |
-| <a href="link-m.svg"><img src="link-m.svg" width="200"></a> | **link-m.svg** |
-| <a href="link-unlink-m.svg"><img src="link-unlink-m.svg" width="200"></a> | **link-unlink-m.svg** |
-| <a href="link-unlink.svg"><img src="link-unlink.svg" width="200"></a> | **link-unlink.svg** |
-| <a href="link.svg"><img src="link.svg" width="200"></a> | **link.svg** |
-| <a href="list-check-2.svg"><img src="list-check-2.svg" width="200"></a> | **list-check-2.svg** |
-| <a href="list-check.svg"><img src="list-check.svg" width="200"></a> | **list-check.svg** |
-| <a href="list-ordered.svg"><img src="list-ordered.svg" width="200"></a> | **list-ordered.svg** |
-| <a href="list-unordered.svg"><img src="list-unordered.svg" width="200"></a> | **list-unordered.svg** |
-| <a href="merge-cells-horizontal.svg"><img src="merge-cells-horizontal.svg" width="200"></a> | **merge-cells-horizontal.svg** |
-| <a href="merge-cells-vertical.svg"><img src="merge-cells-vertical.svg" width="200"></a> | **merge-cells-vertical.svg** |
-| <a href="mind-map.svg"><img src="mind-map.svg" width="200"></a> | **mind-map.svg** |
-| <a href="node-tree.svg"><img src="node-tree.svg" width="200"></a> | **node-tree.svg** |
-| <a href="number-0.svg"><img src="number-0.svg" width="200"></a> | **number-0.svg** |
-| <a href="number-1.svg"><img src="number-1.svg" width="200"></a> | **number-1.svg** |
-| <a href="number-2.svg"><img src="number-2.svg" width="200"></a> | **number-2.svg** |
-| <a href="number-3.svg"><img src="number-3.svg" width="200"></a> | **number-3.svg** |
-| <a href="number-4.svg"><img src="number-4.svg" width="200"></a> | **number-4.svg** |
-| <a href="number-5.svg"><img src="number-5.svg" width="200"></a> | **number-5.svg** |
-| <a href="number-6.svg"><img src="number-6.svg" width="200"></a> | **number-6.svg** |
-| <a href="number-7.svg"><img src="number-7.svg" width="200"></a> | **number-7.svg** |
-| <a href="number-8.svg"><img src="number-8.svg" width="200"></a> | **number-8.svg** |
-| <a href="number-9.svg"><img src="number-9.svg" width="200"></a> | **number-9.svg** |
-| <a href="omega.svg"><img src="omega.svg" width="200"></a> | **omega.svg** |
-| <a href="organization-chart.svg"><img src="organization-chart.svg" width="200"></a> | **organization-chart.svg** |
-| <a href="page-separator.svg"><img src="page-separator.svg" width="200"></a> | **page-separator.svg** |
-| <a href="paragraph.svg"><img src="paragraph.svg" width="200"></a> | **paragraph.svg** |
-| <a href="pinyin-input.svg"><img src="pinyin-input.svg" width="200"></a> | **pinyin-input.svg** |
-| <a href="question-mark.svg"><img src="question-mark.svg" width="200"></a> | **question-mark.svg** |
-| <a href="rounded-corner.svg"><img src="rounded-corner.svg" width="200"></a> | **rounded-corner.svg** |
-| <a href="send-backward.svg"><img src="send-backward.svg" width="200"></a> | **send-backward.svg** |
-| <a href="send-to-back.svg"><img src="send-to-back.svg" width="200"></a> | **send-to-back.svg** |
-| <a href="separator.svg"><img src="separator.svg" width="200"></a> | **separator.svg** |
-| <a href="single-quotes-l.svg"><img src="single-quotes-l.svg" width="200"></a> | **single-quotes-l.svg** |
-| <a href="single-quotes-r.svg"><img src="single-quotes-r.svg" width="200"></a> | **single-quotes-r.svg** |
-| <a href="sort-asc.svg"><img src="sort-asc.svg" width="200"></a> | **sort-asc.svg** |
-| <a href="sort-desc.svg"><img src="sort-desc.svg" width="200"></a> | **sort-desc.svg** |
-| <a href="space.svg"><img src="space.svg" width="200"></a> | **space.svg** |
-| <a href="split-cells-horizontal.svg"><img src="split-cells-horizontal.svg" width="200"></a> | **split-cells-horizontal.svg** |
-| <a href="split-cells-vertical.svg"><img src="split-cells-vertical.svg" width="200"></a> | **split-cells-vertical.svg** |
-| <a href="strikethrough-2.svg"><img src="strikethrough-2.svg" width="200"></a> | **strikethrough-2.svg** |
-| <a href="strikethrough.svg"><img src="strikethrough.svg" width="200"></a> | **strikethrough.svg** |
-| <a href="subscript-2.svg"><img src="subscript-2.svg" width="200"></a> | **subscript-2.svg** |
-| <a href="subscript.svg"><img src="subscript.svg" width="200"></a> | **subscript.svg** |
-| <a href="superscript-2.svg"><img src="superscript-2.svg" width="200"></a> | **superscript-2.svg** |
-| <a href="superscript.svg"><img src="superscript.svg" width="200"></a> | **superscript.svg** |
-| <a href="table-2.svg"><img src="table-2.svg" width="200"></a> | **table-2.svg** |
-| <a href="text-direction-l.svg"><img src="text-direction-l.svg" width="200"></a> | **text-direction-l.svg** |
-| <a href="text-direction-r.svg"><img src="text-direction-r.svg" width="200"></a> | **text-direction-r.svg** |
-| <a href="text-spacing.svg"><img src="text-spacing.svg" width="200"></a> | **text-spacing.svg** |
-| <a href="text-wrap.svg"><img src="text-wrap.svg" width="200"></a> | **text-wrap.svg** |
-| <a href="text.svg"><img src="text.svg" width="200"></a> | **text.svg** |
-| <a href="translate-2.svg"><img src="translate-2.svg" width="200"></a> | **translate-2.svg** |
-| <a href="translate.svg"><img src="translate.svg" width="200"></a> | **translate.svg** |
-| <a href="underline.svg"><img src="underline.svg" width="200"></a> | **underline.svg** |
-| <a href="wubi-input.svg"><img src="wubi-input.svg" width="200"></a> | **wubi-input.svg** |
+| <a href="a-b.svg"><img src="a-b.svg" width="250" alt="a-b.svg"></a> | **📂 檔名:** `a-b.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.32KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](a-b.svg) |
+| <a href="align-bottom.svg"><img src="align-bottom.svg" width="250" alt="align-bottom.svg"></a> | **📂 檔名:** `align-bottom.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `349.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](align-bottom.svg) |
+| <a href="align-center.svg"><img src="align-center.svg" width="250" alt="align-center.svg"></a> | **📂 檔名:** `align-center.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `334.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](align-center.svg) |
+| <a href="align-justify.svg"><img src="align-justify.svg" width="250" alt="align-justify.svg"></a> | **📂 檔名:** `align-justify.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `334.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](align-justify.svg) |
+| <a href="align-left.svg"><img src="align-left.svg" width="250" alt="align-left.svg"></a> | **📂 檔名:** `align-left.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `334.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](align-left.svg) |
+| <a href="align-right.svg"><img src="align-right.svg" width="250" alt="align-right.svg"></a> | **📂 檔名:** `align-right.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `334.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](align-right.svg) |
+| <a href="align-top.svg"><img src="align-top.svg" width="250" alt="align-top.svg"></a> | **📂 檔名:** `align-top.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `346.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](align-top.svg) |
+| <a href="align-vertically.svg"><img src="align-vertically.svg" width="250" alt="align-vertically.svg"></a> | **📂 檔名:** `align-vertically.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `406.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](align-vertically.svg) |
+| <a href="asterisk.svg"><img src="asterisk.svg" width="250" alt="asterisk.svg"></a> | **📂 檔名:** `asterisk.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `489.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](asterisk.svg) |
+| <a href="attachment-2.svg"><img src="attachment-2.svg" width="250" alt="attachment-2.svg"></a> | **📂 檔名:** `attachment-2.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `2.24KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](attachment-2.svg) |
+| <a href="bold.svg"><img src="bold.svg" width="250" alt="bold.svg"></a> | **📂 檔名:** `bold.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.04KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](bold.svg) |
+| <a href="bring-forward.svg"><img src="bring-forward.svg" width="250" alt="bring-forward.svg"></a> | **📂 檔名:** `bring-forward.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `453.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](bring-forward.svg) |
+| <a href="bring-to-front.svg"><img src="bring-to-front.svg" width="250" alt="bring-to-front.svg"></a> | **📂 檔名:** `bring-to-front.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `515.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](bring-to-front.svg) |
+| <a href="code-view.svg"><img src="code-view.svg" width="250" alt="code-view.svg"></a> | **📂 檔名:** `code-view.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `464.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](code-view.svg) |
+| <a href="delete-column.svg"><img src="delete-column.svg" width="250" alt="delete-column.svg"></a> | **📂 檔名:** `delete-column.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `539.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](delete-column.svg) |
+| <a href="delete-row.svg"><img src="delete-row.svg" width="250" alt="delete-row.svg"></a> | **📂 檔名:** `delete-row.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `528.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](delete-row.svg) |
+| <a href="double-quotes-l.svg"><img src="double-quotes-l.svg" width="250" alt="double-quotes-l.svg"></a> | **📂 檔名:** `double-quotes-l.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `931.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](double-quotes-l.svg) |
+| <a href="double-quotes-r.svg"><img src="double-quotes-r.svg" width="250" alt="double-quotes-r.svg"></a> | **📂 檔名:** `double-quotes-r.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1018.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](double-quotes-r.svg) |
+| <a href="emphasis-cn.svg"><img src="emphasis-cn.svg" width="250" alt="emphasis-cn.svg"></a> | **📂 檔名:** `emphasis-cn.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.59KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](emphasis-cn.svg) |
+| <a href="emphasis.svg"><img src="emphasis.svg" width="250" alt="emphasis.svg"></a> | **📂 檔名:** `emphasis.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.22KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](emphasis.svg) |
+| <a href="english-input.svg"><img src="english-input.svg" width="250" alt="english-input.svg"></a> | **📂 檔名:** `english-input.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `580.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](english-input.svg) |
+| <a href="flow-chart.svg"><img src="flow-chart.svg" width="250" alt="flow-chart.svg"></a> | **📂 檔名:** `flow-chart.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `766.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](flow-chart.svg) |
+| <a href="font-color.svg"><img src="font-color.svg" width="250" alt="font-color.svg"></a> | **📂 檔名:** `font-color.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `383.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](font-color.svg) |
+| <a href="font-size-2.svg"><img src="font-size-2.svg" width="250" alt="font-size-2.svg"></a> | **📂 檔名:** `font-size-2.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `327.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](font-size-2.svg) |
+| <a href="font-size.svg"><img src="font-size.svg" width="250" alt="font-size.svg"></a> | **📂 檔名:** `font-size.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.13KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](font-size.svg) |
+| <a href="format-clear.svg"><img src="format-clear.svg" width="250" alt="format-clear.svg"></a> | **📂 檔名:** `format-clear.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `517.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](format-clear.svg) |
+| <a href="functions.svg"><img src="functions.svg" width="250" alt="functions.svg"></a> | **📂 檔名:** `functions.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `329.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](functions.svg) |
+| <a href="h-1.svg"><img src="h-1.svg" width="250" alt="h-1.svg"></a> | **📂 檔名:** `h-1.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `352.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](h-1.svg) |
+| <a href="h-2.svg"><img src="h-2.svg" width="250" alt="h-2.svg"></a> | **📂 檔名:** `h-2.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `593.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](h-2.svg) |
+| <a href="h-3.svg"><img src="h-3.svg" width="250" alt="h-3.svg"></a> | **📂 檔名:** `h-3.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `650.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](h-3.svg) |
+| <a href="h-4.svg"><img src="h-4.svg" width="250" alt="h-4.svg"></a> | **📂 檔名:** `h-4.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `389.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](h-4.svg) |
+| <a href="h-5.svg"><img src="h-5.svg" width="250" alt="h-5.svg"></a> | **📂 檔名:** `h-5.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `664.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](h-5.svg) |
+| <a href="h-6.svg"><img src="h-6.svg" width="250" alt="h-6.svg"></a> | **📂 檔名:** `h-6.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `629.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](h-6.svg) |
+| <a href="hashtag.svg"><img src="hashtag.svg" width="250" alt="hashtag.svg"></a> | **📂 檔名:** `hashtag.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `499.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](hashtag.svg) |
+| <a href="heading.svg"><img src="heading.svg" width="250" alt="heading.svg"></a> | **📂 檔名:** `heading.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `309.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](heading.svg) |
+| <a href="indent-decrease.svg"><img src="indent-decrease.svg" width="250" alt="indent-decrease.svg"></a> | **📂 檔名:** `indent-decrease.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `360.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](indent-decrease.svg) |
+| <a href="indent-increase.svg"><img src="indent-increase.svg" width="250" alt="indent-increase.svg"></a> | **📂 檔名:** `indent-increase.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `360.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](indent-increase.svg) |
+| <a href="input-cursor-move.svg"><img src="input-cursor-move.svg" width="250" alt="input-cursor-move.svg"></a> | **📂 檔名:** `input-cursor-move.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `457.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](input-cursor-move.svg) |
+| <a href="insert-column-left.svg"><img src="insert-column-left.svg" width="250" alt="insert-column-left.svg"></a> | **📂 檔名:** `insert-column-left.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `560.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](insert-column-left.svg) |
+| <a href="insert-column-right.svg"><img src="insert-column-right.svg" width="250" alt="insert-column-right.svg"></a> | **📂 檔名:** `insert-column-right.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `569.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](insert-column-right.svg) |
+| <a href="insert-row-bottom.svg"><img src="insert-row-bottom.svg" width="250" alt="insert-row-bottom.svg"></a> | **📂 檔名:** `insert-row-bottom.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `571.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](insert-row-bottom.svg) |
+| <a href="insert-row-top.svg"><img src="insert-row-top.svg" width="250" alt="insert-row-top.svg"></a> | **📂 檔名:** `insert-row-top.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `562.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](insert-row-top.svg) |
+| <a href="italic.svg"><img src="italic.svg" width="250" alt="italic.svg"></a> | **📂 檔名:** `italic.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `332.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](italic.svg) |
+| <a href="line-height.svg"><img src="line-height.svg" width="250" alt="line-height.svg"></a> | **📂 檔名:** `line-height.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `377.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](line-height.svg) |
+| <a href="link-m.svg"><img src="link-m.svg" width="250" alt="link-m.svg"></a> | **📂 檔名:** `link-m.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.80KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](link-m.svg) |
+| <a href="link-unlink-m.svg"><img src="link-unlink-m.svg" width="250" alt="link-unlink-m.svg"></a> | **📂 檔名:** `link-unlink-m.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `2.14KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](link-unlink-m.svg) |
+| <a href="link-unlink.svg"><img src="link-unlink.svg" width="250" alt="link-unlink.svg"></a> | **📂 檔名:** `link-unlink.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.66KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](link-unlink.svg) |
+| <a href="link.svg"><img src="link.svg" width="250" alt="link.svg"></a> | **📂 檔名:** `link.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.67KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](link.svg) |
+| <a href="list-check-2.svg"><img src="list-check-2.svg" width="250" alt="list-check-2.svg"></a> | **📂 檔名:** `list-check-2.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `401.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](list-check-2.svg) |
+| <a href="list-check.svg"><img src="list-check.svg" width="250" alt="list-check.svg"></a> | **📂 檔名:** `list-check.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `382.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](list-check.svg) |
+| <a href="list-ordered.svg"><img src="list-ordered.svg" width="250" alt="list-ordered.svg"></a> | **📂 檔名:** `list-ordered.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `426.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](list-ordered.svg) |
+| <a href="list-unordered.svg"><img src="list-unordered.svg" width="250" alt="list-unordered.svg"></a> | **📂 檔名:** `list-unordered.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.24KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](list-unordered.svg) |
+| <a href="merge-cells-horizontal.svg"><img src="merge-cells-horizontal.svg" width="250" alt="merge-cells-horizontal.svg"></a> | **📂 檔名:** `merge-cells-horizontal.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `510.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](merge-cells-horizontal.svg) |
+| <a href="merge-cells-vertical.svg"><img src="merge-cells-vertical.svg" width="250" alt="merge-cells-vertical.svg"></a> | **📂 檔名:** `merge-cells-vertical.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `513.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](merge-cells-vertical.svg) |
+| <a href="mind-map.svg"><img src="mind-map.svg" width="250" alt="mind-map.svg"></a> | **📂 檔名:** `mind-map.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.02KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](mind-map.svg) |
+| <a href="node-tree.svg"><img src="node-tree.svg" width="250" alt="node-tree.svg"></a> | **📂 檔名:** `node-tree.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `697.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](node-tree.svg) |
+| <a href="number-0.svg"><img src="number-0.svg" width="250" alt="number-0.svg"></a> | **📂 檔名:** `number-0.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.16KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](number-0.svg) |
+| <a href="number-1.svg"><img src="number-1.svg" width="250" alt="number-1.svg"></a> | **📂 檔名:** `number-1.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `318.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](number-1.svg) |
+| <a href="number-2.svg"><img src="number-2.svg" width="250" alt="number-2.svg"></a> | **📂 檔名:** `number-2.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `919.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](number-2.svg) |
+| <a href="number-3.svg"><img src="number-3.svg" width="250" alt="number-3.svg"></a> | **📂 檔名:** `number-3.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.09KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](number-3.svg) |
+| <a href="number-4.svg"><img src="number-4.svg" width="250" alt="number-4.svg"></a> | **📂 檔名:** `number-4.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `344.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](number-4.svg) |
+| <a href="number-5.svg"><img src="number-5.svg" width="250" alt="number-5.svg"></a> | **📂 檔名:** `number-5.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.02KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](number-5.svg) |
+| <a href="number-6.svg"><img src="number-6.svg" width="250" alt="number-6.svg"></a> | **📂 檔名:** `number-6.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.02KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](number-6.svg) |
+| <a href="number-7.svg"><img src="number-7.svg" width="250" alt="number-7.svg"></a> | **📂 檔名:** `number-7.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `313.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](number-7.svg) |
+| <a href="number-8.svg"><img src="number-8.svg" width="250" alt="number-8.svg"></a> | **📂 檔名:** `number-8.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.20KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](number-8.svg) |
+| <a href="number-9.svg"><img src="number-9.svg" width="250" alt="number-9.svg"></a> | **📂 檔名:** `number-9.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.18KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](number-9.svg) |
+| <a href="omega.svg"><img src="omega.svg" width="250" alt="omega.svg"></a> | **📂 檔名:** `omega.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `550.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](omega.svg) |
+| <a href="organization-chart.svg"><img src="organization-chart.svg" width="250" alt="organization-chart.svg"></a> | **📂 檔名:** `organization-chart.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `730.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](organization-chart.svg) |
+| <a href="page-separator.svg"><img src="page-separator.svg" width="250" alt="page-separator.svg"></a> | **📂 檔名:** `page-separator.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `656.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](page-separator.svg) |
+| <a href="paragraph.svg"><img src="paragraph.svg" width="250" alt="paragraph.svg"></a> | **📂 檔名:** `paragraph.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `605.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](paragraph.svg) |
+| <a href="pinyin-input.svg"><img src="pinyin-input.svg" width="250" alt="pinyin-input.svg"></a> | **📂 檔名:** `pinyin-input.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `913.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](pinyin-input.svg) |
+| <a href="question-mark.svg"><img src="question-mark.svg" width="250" alt="question-mark.svg"></a> | **📂 檔名:** `question-mark.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `627.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](question-mark.svg) |
+| <a href="rounded-corner.svg"><img src="rounded-corner.svg" width="250" alt="rounded-corner.svg"></a> | **📂 檔名:** `rounded-corner.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `552.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](rounded-corner.svg) |
+| <a href="send-backward.svg"><img src="send-backward.svg" width="250" alt="send-backward.svg"></a> | **📂 檔名:** `send-backward.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `479.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](send-backward.svg) |
+| <a href="send-to-back.svg"><img src="send-to-back.svg" width="250" alt="send-to-back.svg"></a> | **📂 檔名:** `send-to-back.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `579.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](send-to-back.svg) |
+| <a href="separator.svg"><img src="separator.svg" width="250" alt="separator.svg"></a> | **📂 檔名:** `separator.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `323.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](separator.svg) |
+| <a href="single-quotes-l.svg"><img src="single-quotes-l.svg" width="250" alt="single-quotes-l.svg"></a> | **📂 檔名:** `single-quotes-l.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `605.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](single-quotes-l.svg) |
+| <a href="single-quotes-r.svg"><img src="single-quotes-r.svg" width="250" alt="single-quotes-r.svg"></a> | **📂 檔名:** `single-quotes-r.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `649.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](single-quotes-r.svg) |
+| <a href="sort-asc.svg"><img src="sort-asc.svg" width="250" alt="sort-asc.svg"></a> | **📂 檔名:** `sort-asc.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `352.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](sort-asc.svg) |
+| <a href="sort-desc.svg"><img src="sort-desc.svg" width="250" alt="sort-desc.svg"></a> | **📂 檔名:** `sort-desc.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `354.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](sort-desc.svg) |
+| <a href="space.svg"><img src="space.svg" width="250" alt="space.svg"></a> | **📂 檔名:** `space.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `446.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](space.svg) |
+| <a href="split-cells-horizontal.svg"><img src="split-cells-horizontal.svg" width="250" alt="split-cells-horizontal.svg"></a> | **📂 檔名:** `split-cells-horizontal.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `460.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](split-cells-horizontal.svg) |
+| <a href="split-cells-vertical.svg"><img src="split-cells-vertical.svg" width="250" alt="split-cells-vertical.svg"></a> | **📂 檔名:** `split-cells-vertical.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `474.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](split-cells-vertical.svg) |
+| <a href="strikethrough-2.svg"><img src="strikethrough-2.svg" width="250" alt="strikethrough-2.svg"></a> | **📂 檔名:** `strikethrough-2.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `332.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](strikethrough-2.svg) |
+| <a href="strikethrough.svg"><img src="strikethrough.svg" width="250" alt="strikethrough.svg"></a> | **📂 檔名:** `strikethrough.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.01KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](strikethrough.svg) |
+| <a href="subscript-2.svg"><img src="subscript-2.svg" width="250" alt="subscript-2.svg"></a> | **📂 檔名:** `subscript-2.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.06KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](subscript-2.svg) |
+| <a href="subscript.svg"><img src="subscript.svg" width="250" alt="subscript.svg"></a> | **📂 檔名:** `subscript.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.16KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](subscript.svg) |
+| <a href="superscript-2.svg"><img src="superscript-2.svg" width="250" alt="superscript-2.svg"></a> | **📂 檔名:** `superscript-2.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.06KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](superscript-2.svg) |
+| <a href="superscript.svg"><img src="superscript.svg" width="250" alt="superscript.svg"></a> | **📂 檔名:** `superscript.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.14KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](superscript.svg) |
+| <a href="table-2.svg"><img src="table-2.svg" width="250" alt="table-2.svg"></a> | **📂 檔名:** `table-2.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `687.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](table-2.svg) |
+| <a href="text-direction-l.svg"><img src="text-direction-l.svg" width="250" alt="text-direction-l.svg"></a> | **📂 檔名:** `text-direction-l.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `637.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](text-direction-l.svg) |
+| <a href="text-direction-r.svg"><img src="text-direction-r.svg" width="250" alt="text-direction-r.svg"></a> | **📂 檔名:** `text-direction-r.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `634.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](text-direction-r.svg) |
+| <a href="text-spacing.svg"><img src="text-spacing.svg" width="250" alt="text-spacing.svg"></a> | **📂 檔名:** `text-spacing.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `354.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](text-spacing.svg) |
+| <a href="text-wrap.svg"><img src="text-wrap.svg" width="250" alt="text-wrap.svg"></a> | **📂 檔名:** `text-wrap.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `648.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](text-wrap.svg) |
+| <a href="text.svg"><img src="text.svg" width="250" alt="text.svg"></a> | **📂 檔名:** `text.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `297.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](text.svg) |
+| <a href="translate-2.svg"><img src="translate-2.svg" width="250" alt="translate-2.svg"></a> | **📂 檔名:** `translate-2.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `791.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](translate-2.svg) |
+| <a href="translate.svg"><img src="translate.svg" width="250" alt="translate.svg"></a> | **📂 檔名:** `translate.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `796.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](translate.svg) |
+| <a href="underline.svg"><img src="underline.svg" width="250" alt="underline.svg"></a> | **📂 檔名:** `underline.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `609.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](underline.svg) |
+| <a href="wubi-input.svg"><img src="wubi-input.svg" width="250" alt="wubi-input.svg"></a> | **📂 檔名:** `wubi-input.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `381.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](wubi-input.svg) |

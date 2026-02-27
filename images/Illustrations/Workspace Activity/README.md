@@ -1,18 +1,20 @@
-# 🖼️ Workspace Activity
+# 🖼️ 素材分類：Workspace Activity
 
-[⬅️ 返回主目錄](../../../README.md)
+> [🏠 主目錄](../../../README.md) / **Workspace Activity**
 
-| 預覽 | 資訊 |
+本目錄共有 `12` 個檔案
+
+| 🎨 預覽 (點擊放大) | 📋 檔案詳細資訊 |
 | :--- | :--- |
-| <a href="Asleep%20at%20Work%20Desk.svg"><img src="Asleep%20at%20Work%20Desk.svg" width="200"></a> | **Asleep at Work Desk.svg** |
-| <a href="Become%20an%20online%20mentor.svg"><img src="Become%20an%20online%20mentor.svg" width="200"></a> | **Become an online mentor.svg** |
-| <a href="Create%20a%20Todolist.svg"><img src="Create%20a%20Todolist.svg" width="200"></a> | **Create a Todolist.svg** |
-| <a href="Enjoying%20food.svg"><img src="Enjoying%20food.svg" width="200"></a> | **Enjoying food.svg** |
-| <a href="Listening%20Music.svg"><img src="Listening%20Music.svg" width="200"></a> | **Listening Music.svg** |
-| <a href="Make%20a%20report.svg"><img src="Make%20a%20report.svg" width="200"></a> | **Make a report.svg** |
-| <a href="Playing%20Games.svg"><img src="Playing%20Games.svg" width="200"></a> | **Playing Games.svg** |
-| <a href="Selling%20Online.svg"><img src="Selling%20Online.svg" width="200"></a> | **Selling Online.svg** |
-| <a href="Watch%20Youtube.svg"><img src="Watch%20Youtube.svg" width="200"></a> | **Watch Youtube.svg** |
-| <a href="With%20Pet%20Dogs.svg"><img src="With%20Pet%20Dogs.svg" width="200"></a> | **With Pet Dogs.svg** |
-| <a href="Work%20at%20the%20Desk.svg"><img src="Work%20at%20the%20Desk.svg" width="200"></a> | **Work at the Desk.svg** |
-| <a href="Workout%20at%20Workbench.svg"><img src="Workout%20at%20Workbench.svg" width="200"></a> | **Workout at Workbench.svg** |
+| <a href="Asleep%20at%20Work%20Desk.svg"><img src="Asleep%20at%20Work%20Desk.svg" width="250" alt="Asleep at Work Desk.svg"></a> | **📂 檔名:** `Asleep at Work Desk.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `55.17KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Asleep%20at%20Work%20Desk.svg) |
+| <a href="Become%20an%20online%20mentor.svg"><img src="Become%20an%20online%20mentor.svg" width="250" alt="Become an online mentor.svg"></a> | **📂 檔名:** `Become an online mentor.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `56.37KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Become%20an%20online%20mentor.svg) |
+| <a href="Create%20a%20Todolist.svg"><img src="Create%20a%20Todolist.svg" width="250" alt="Create a Todolist.svg"></a> | **📂 檔名:** `Create a Todolist.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `67.61KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Create%20a%20Todolist.svg) |
+| <a href="Enjoying%20food.svg"><img src="Enjoying%20food.svg" width="250" alt="Enjoying food.svg"></a> | **📂 檔名:** `Enjoying food.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `63.48KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Enjoying%20food.svg) |
+| <a href="Listening%20Music.svg"><img src="Listening%20Music.svg" width="250" alt="Listening Music.svg"></a> | **📂 檔名:** `Listening Music.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `36.09KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Listening%20Music.svg) |
+| <a href="Make%20a%20report.svg"><img src="Make%20a%20report.svg" width="250" alt="Make a report.svg"></a> | **📂 檔名:** `Make a report.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `35.44KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Make%20a%20report.svg) |
+| <a href="Playing%20Games.svg"><img src="Playing%20Games.svg" width="250" alt="Playing Games.svg"></a> | **📂 檔名:** `Playing Games.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `55.46KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Playing%20Games.svg) |
+| <a href="Selling%20Online.svg"><img src="Selling%20Online.svg" width="250" alt="Selling Online.svg"></a> | **📂 檔名:** `Selling Online.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `50.53KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Selling%20Online.svg) |
+| <a href="Watch%20Youtube.svg"><img src="Watch%20Youtube.svg" width="250" alt="Watch Youtube.svg"></a> | **📂 檔名:** `Watch Youtube.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `58.40KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Watch%20Youtube.svg) |
+| <a href="With%20Pet%20Dogs.svg"><img src="With%20Pet%20Dogs.svg" width="250" alt="With Pet Dogs.svg"></a> | **📂 檔名:** `With Pet Dogs.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `45.56KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](With%20Pet%20Dogs.svg) |
+| <a href="Work%20at%20the%20Desk.svg"><img src="Work%20at%20the%20Desk.svg" width="250" alt="Work at the Desk.svg"></a> | **📂 檔名:** `Work at the Desk.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `35.15KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Work%20at%20the%20Desk.svg) |
+| <a href="Workout%20at%20Workbench.svg"><img src="Workout%20at%20Workbench.svg" width="250" alt="Workout at Workbench.svg"></a> | **📂 檔名:** `Workout at Workbench.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `46.22KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Workout%20at%20Workbench.svg) |

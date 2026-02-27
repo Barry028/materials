@@ -1,26 +1,28 @@
-# 🖼️ Big Ears 
+# 🖼️ 素材分類：Big Ears 
 
-[⬅️ 返回主目錄](../../../README.md)
+> [🏠 主目錄](../../../README.md) / **Big Ears **
 
-| 預覽 | 資訊 |
+本目錄共有 `20` 個檔案
+
+| 🎨 預覽 (點擊放大) | 📋 檔案詳細資訊 |
 | :--- | :--- |
-| <a href="bigEars-1771674432740.svg"><img src="bigEars-1771674432740.svg" width="200"></a> | **bigEars-1771674432740.svg** |
-| <a href="bigEars-1771674436885.svg"><img src="bigEars-1771674436885.svg" width="200"></a> | **bigEars-1771674436885.svg** |
-| <a href="bigEars-1771674438179.svg"><img src="bigEars-1771674438179.svg" width="200"></a> | **bigEars-1771674438179.svg** |
-| <a href="bigEars-1771674439301.svg"><img src="bigEars-1771674439301.svg" width="200"></a> | **bigEars-1771674439301.svg** |
-| <a href="bigEars-1771674440865.svg"><img src="bigEars-1771674440865.svg" width="200"></a> | **bigEars-1771674440865.svg** |
-| <a href="bigEars-1771674442199.svg"><img src="bigEars-1771674442199.svg" width="200"></a> | **bigEars-1771674442199.svg** |
-| <a href="bigEars-1771674444625.svg"><img src="bigEars-1771674444625.svg" width="200"></a> | **bigEars-1771674444625.svg** |
-| <a href="bigEars-1771674445910.svg"><img src="bigEars-1771674445910.svg" width="200"></a> | **bigEars-1771674445910.svg** |
-| <a href="bigEars-1771674449494.svg"><img src="bigEars-1771674449494.svg" width="200"></a> | **bigEars-1771674449494.svg** |
-| <a href="bigEars-1771674451065.svg"><img src="bigEars-1771674451065.svg" width="200"></a> | **bigEars-1771674451065.svg** |
-| <a href="bigEars-1771674452512.svg"><img src="bigEars-1771674452512.svg" width="200"></a> | **bigEars-1771674452512.svg** |
-| <a href="bigEars-1771674453678.svg"><img src="bigEars-1771674453678.svg" width="200"></a> | **bigEars-1771674453678.svg** |
-| <a href="bigEars-1771674455082.svg"><img src="bigEars-1771674455082.svg" width="200"></a> | **bigEars-1771674455082.svg** |
-| <a href="bigEars-1771674456771.svg"><img src="bigEars-1771674456771.svg" width="200"></a> | **bigEars-1771674456771.svg** |
-| <a href="bigEars-1771674458489.svg"><img src="bigEars-1771674458489.svg" width="200"></a> | **bigEars-1771674458489.svg** |
-| <a href="bigEars-1771674459890.svg"><img src="bigEars-1771674459890.svg" width="200"></a> | **bigEars-1771674459890.svg** |
-| <a href="bigEars-1771674464574.svg"><img src="bigEars-1771674464574.svg" width="200"></a> | **bigEars-1771674464574.svg** |
-| <a href="bigEars-1771674466557.svg"><img src="bigEars-1771674466557.svg" width="200"></a> | **bigEars-1771674466557.svg** |
-| <a href="bigEars-1771674468281.svg"><img src="bigEars-1771674468281.svg" width="200"></a> | **bigEars-1771674468281.svg** |
-| <a href="bigEars-1771674470026.svg"><img src="bigEars-1771674470026.svg" width="200"></a> | **bigEars-1771674470026.svg** |
+| <a href="bigEars-1771674432740.svg"><img src="bigEars-1771674432740.svg" width="250" alt="bigEars-1771674432740.svg"></a> | **📂 檔名:** `bigEars-1771674432740.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `4.25KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](bigEars-1771674432740.svg) |
+| <a href="bigEars-1771674436885.svg"><img src="bigEars-1771674436885.svg" width="250" alt="bigEars-1771674436885.svg"></a> | **📂 檔名:** `bigEars-1771674436885.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `4.32KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](bigEars-1771674436885.svg) |
+| <a href="bigEars-1771674438179.svg"><img src="bigEars-1771674438179.svg" width="250" alt="bigEars-1771674438179.svg"></a> | **📂 檔名:** `bigEars-1771674438179.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `5.63KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](bigEars-1771674438179.svg) |
+| <a href="bigEars-1771674439301.svg"><img src="bigEars-1771674439301.svg" width="250" alt="bigEars-1771674439301.svg"></a> | **📂 檔名:** `bigEars-1771674439301.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `3.85KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](bigEars-1771674439301.svg) |
+| <a href="bigEars-1771674440865.svg"><img src="bigEars-1771674440865.svg" width="250" alt="bigEars-1771674440865.svg"></a> | **📂 檔名:** `bigEars-1771674440865.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `3.63KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](bigEars-1771674440865.svg) |
+| <a href="bigEars-1771674442199.svg"><img src="bigEars-1771674442199.svg" width="250" alt="bigEars-1771674442199.svg"></a> | **📂 檔名:** `bigEars-1771674442199.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `3.97KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](bigEars-1771674442199.svg) |
+| <a href="bigEars-1771674444625.svg"><img src="bigEars-1771674444625.svg" width="250" alt="bigEars-1771674444625.svg"></a> | **📂 檔名:** `bigEars-1771674444625.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `4.72KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](bigEars-1771674444625.svg) |
+| <a href="bigEars-1771674445910.svg"><img src="bigEars-1771674445910.svg" width="250" alt="bigEars-1771674445910.svg"></a> | **📂 檔名:** `bigEars-1771674445910.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `4.36KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](bigEars-1771674445910.svg) |
+| <a href="bigEars-1771674449494.svg"><img src="bigEars-1771674449494.svg" width="250" alt="bigEars-1771674449494.svg"></a> | **📂 檔名:** `bigEars-1771674449494.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `4.19KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](bigEars-1771674449494.svg) |
+| <a href="bigEars-1771674451065.svg"><img src="bigEars-1771674451065.svg" width="250" alt="bigEars-1771674451065.svg"></a> | **📂 檔名:** `bigEars-1771674451065.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `4.13KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](bigEars-1771674451065.svg) |
+| <a href="bigEars-1771674452512.svg"><img src="bigEars-1771674452512.svg" width="250" alt="bigEars-1771674452512.svg"></a> | **📂 檔名:** `bigEars-1771674452512.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `4.09KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](bigEars-1771674452512.svg) |
+| <a href="bigEars-1771674453678.svg"><img src="bigEars-1771674453678.svg" width="250" alt="bigEars-1771674453678.svg"></a> | **📂 檔名:** `bigEars-1771674453678.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `6.87KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](bigEars-1771674453678.svg) |
+| <a href="bigEars-1771674455082.svg"><img src="bigEars-1771674455082.svg" width="250" alt="bigEars-1771674455082.svg"></a> | **📂 檔名:** `bigEars-1771674455082.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `4.29KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](bigEars-1771674455082.svg) |
+| <a href="bigEars-1771674456771.svg"><img src="bigEars-1771674456771.svg" width="250" alt="bigEars-1771674456771.svg"></a> | **📂 檔名:** `bigEars-1771674456771.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `5.89KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](bigEars-1771674456771.svg) |
+| <a href="bigEars-1771674458489.svg"><img src="bigEars-1771674458489.svg" width="250" alt="bigEars-1771674458489.svg"></a> | **📂 檔名:** `bigEars-1771674458489.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `4.66KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](bigEars-1771674458489.svg) |
+| <a href="bigEars-1771674459890.svg"><img src="bigEars-1771674459890.svg" width="250" alt="bigEars-1771674459890.svg"></a> | **📂 檔名:** `bigEars-1771674459890.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `4.38KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](bigEars-1771674459890.svg) |
+| <a href="bigEars-1771674464574.svg"><img src="bigEars-1771674464574.svg" width="250" alt="bigEars-1771674464574.svg"></a> | **📂 檔名:** `bigEars-1771674464574.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `4.37KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](bigEars-1771674464574.svg) |
+| <a href="bigEars-1771674466557.svg"><img src="bigEars-1771674466557.svg" width="250" alt="bigEars-1771674466557.svg"></a> | **📂 檔名:** `bigEars-1771674466557.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `3.85KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](bigEars-1771674466557.svg) |
+| <a href="bigEars-1771674468281.svg"><img src="bigEars-1771674468281.svg" width="250" alt="bigEars-1771674468281.svg"></a> | **📂 檔名:** `bigEars-1771674468281.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `4.22KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](bigEars-1771674468281.svg) |
+| <a href="bigEars-1771674470026.svg"><img src="bigEars-1771674470026.svg" width="250" alt="bigEars-1771674470026.svg"></a> | **📂 檔名:** `bigEars-1771674470026.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `3.94KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](bigEars-1771674470026.svg) |

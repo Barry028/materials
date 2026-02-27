@@ -1,43 +1,45 @@
-# 🖼️ Emojis 
+# 🖼️ 素材分類：Emojis 
 
-[⬅️ 返回主目錄](../../../../README.md)
+> [🏠 主目錄](../../../../README.md) / **Emojis **
 
-| 預覽 | 資訊 |
+本目錄共有 `37` 個檔案
+
+| 🎨 預覽 (點擊放大) | 📋 檔案詳細資訊 |
 | :--- | :--- |
-| <a href="001-angry.svg"><img src="001-angry.svg" width="200"></a> | **001-angry.svg** |
-| <a href="002-kissing.svg"><img src="002-kissing.svg" width="200"></a> | **002-kissing.svg** |
-| <a href="003-crush.svg"><img src="003-crush.svg" width="200"></a> | **003-crush.svg** |
-| <a href="004-dizzy.svg"><img src="004-dizzy.svg" width="200"></a> | **004-dizzy.svg** |
-| <a href="005-joy.svg"><img src="005-joy.svg" width="200"></a> | **005-joy.svg** |
-| <a href="006-shocked.svg"><img src="006-shocked.svg" width="200"></a> | **006-shocked.svg** |
-| <a href="007-sick.svg"><img src="007-sick.svg" width="200"></a> | **007-sick.svg** |
-| <a href="008-ghost.svg"><img src="008-ghost.svg" width="200"></a> | **008-ghost.svg** |
-| <a href="009-grin.svg"><img src="009-grin.svg" width="200"></a> | **009-grin.svg** |
-| <a href="010-grin-alt.svg"><img src="010-grin-alt.svg" width="200"></a> | **010-grin-alt.svg** |
-| <a href="011-heart%20beats.svg"><img src="011-heart%20beats.svg" width="200"></a> | **011-heart beats.svg** |
-| <a href="012-kissing%20booth.svg"><img src="012-kissing%20booth.svg" width="200"></a> | **012-kissing booth.svg** |
-| <a href="013-lick.svg"><img src="013-lick.svg" width="200"></a> | **013-lick.svg** |
-| <a href="014-crying.svg"><img src="014-crying.svg" width="200"></a> | **014-crying.svg** |
-| <a href="015-dollar%20sign.svg"><img src="015-dollar%20sign.svg" width="200"></a> | **015-dollar sign.svg** |
-| <a href="016-rage.svg"><img src="016-rage.svg" width="200"></a> | **016-rage.svg** |
-| <a href="017-robot.svg"><img src="017-robot.svg" width="200"></a> | **017-robot.svg** |
-| <a href="018-rolling%20eyes.svg"><img src="018-rolling%20eyes.svg" width="200"></a> | **018-rolling eyes.svg** |
-| <a href="019-tears%20of%20joy.svg"><img src="019-tears%20of%20joy.svg" width="200"></a> | **019-tears of joy.svg** |
-| <a href="020-saluting.svg"><img src="020-saluting.svg" width="200"></a> | **020-saluting.svg** |
-| <a href="021-scream.svg"><img src="021-scream.svg" width="200"></a> | **021-scream.svg** |
-| <a href="022-happy.svg"><img src="022-happy.svg" width="200"></a> | **022-happy.svg** |
-| <a href="023-smile%20emoticon.svg"><img src="023-smile%20emoticon.svg" width="200"></a> | **023-smile emoticon.svg** |
-| <a href="024-laugh.svg"><img src="024-laugh.svg" width="200"></a> | **024-laugh.svg** |
-| <a href="025-angel.svg"><img src="025-angel.svg" width="200"></a> | **025-angel.svg** |
-| <a href="026-suprise.svg"><img src="026-suprise.svg" width="200"></a> | **026-suprise.svg** |
-| <a href="027-sneezing.svg"><img src="027-sneezing.svg" width="200"></a> | **027-sneezing.svg** |
-| <a href="028-confused.svg"><img src="028-confused.svg" width="200"></a> | **028-confused.svg** |
-| <a href="029-starry.svg"><img src="029-starry.svg" width="200"></a> | **029-starry.svg** |
-| <a href="030-tongue%20out.svg"><img src="030-tongue%20out.svg" width="200"></a> | **030-tongue out.svg** |
-| <a href="031-awkward.svg"><img src="031-awkward.svg" width="200"></a> | **031-awkward.svg** |
-| <a href="032-cracking.svg"><img src="032-cracking.svg" width="200"></a> | **032-cracking.svg** |
-| <a href="033-thinking.svg"><img src="033-thinking.svg" width="200"></a> | **033-thinking.svg** |
-| <a href="034-tiredness.svg"><img src="034-tiredness.svg" width="200"></a> | **034-tiredness.svg** |
-| <a href="035-winking%20face.svg"><img src="035-winking%20face.svg" width="200"></a> | **035-winking face.svg** |
-| <a href="036-woozy.svg"><img src="036-woozy.svg" width="200"></a> | **036-woozy.svg** |
-| <a href="037-zipped.svg"><img src="037-zipped.svg" width="200"></a> | **037-zipped.svg** |
+| <a href="001-angry.svg"><img src="001-angry.svg" width="250" alt="001-angry.svg"></a> | **📂 檔名:** `001-angry.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `2.74KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](001-angry.svg) |
+| <a href="002-kissing.svg"><img src="002-kissing.svg" width="250" alt="002-kissing.svg"></a> | **📂 檔名:** `002-kissing.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `2.68KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](002-kissing.svg) |
+| <a href="003-crush.svg"><img src="003-crush.svg" width="250" alt="003-crush.svg"></a> | **📂 檔名:** `003-crush.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `3.62KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](003-crush.svg) |
+| <a href="004-dizzy.svg"><img src="004-dizzy.svg" width="250" alt="004-dizzy.svg"></a> | **📂 檔名:** `004-dizzy.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `2.55KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](004-dizzy.svg) |
+| <a href="005-joy.svg"><img src="005-joy.svg" width="250" alt="005-joy.svg"></a> | **📂 檔名:** `005-joy.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `2.84KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](005-joy.svg) |
+| <a href="006-shocked.svg"><img src="006-shocked.svg" width="250" alt="006-shocked.svg"></a> | **📂 檔名:** `006-shocked.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `2.54KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](006-shocked.svg) |
+| <a href="007-sick.svg"><img src="007-sick.svg" width="250" alt="007-sick.svg"></a> | **📂 檔名:** `007-sick.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `2.45KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](007-sick.svg) |
+| <a href="008-ghost.svg"><img src="008-ghost.svg" width="250" alt="008-ghost.svg"></a> | **📂 檔名:** `008-ghost.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `3.16KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](008-ghost.svg) |
+| <a href="009-grin.svg"><img src="009-grin.svg" width="250" alt="009-grin.svg"></a> | **📂 檔名:** `009-grin.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `2.31KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](009-grin.svg) |
+| <a href="010-grin-alt.svg"><img src="010-grin-alt.svg" width="250" alt="010-grin-alt.svg"></a> | **📂 檔名:** `010-grin-alt.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `2.07KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](010-grin-alt.svg) |
+| <a href="011-heart%20beats.svg"><img src="011-heart%20beats.svg" width="250" alt="011-heart beats.svg"></a> | **📂 檔名:** `011-heart beats.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `3.88KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](011-heart%20beats.svg) |
+| <a href="012-kissing%20booth.svg"><img src="012-kissing%20booth.svg" width="250" alt="012-kissing booth.svg"></a> | **📂 檔名:** `012-kissing booth.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `2.59KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](012-kissing%20booth.svg) |
+| <a href="013-lick.svg"><img src="013-lick.svg" width="250" alt="013-lick.svg"></a> | **📂 檔名:** `013-lick.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `2.62KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](013-lick.svg) |
+| <a href="014-crying.svg"><img src="014-crying.svg" width="250" alt="014-crying.svg"></a> | **📂 檔名:** `014-crying.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `3.11KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](014-crying.svg) |
+| <a href="015-dollar%20sign.svg"><img src="015-dollar%20sign.svg" width="250" alt="015-dollar sign.svg"></a> | **📂 檔名:** `015-dollar sign.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `2.82KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](015-dollar%20sign.svg) |
+| <a href="016-rage.svg"><img src="016-rage.svg" width="250" alt="016-rage.svg"></a> | **📂 檔名:** `016-rage.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `4.02KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](016-rage.svg) |
+| <a href="017-robot.svg"><img src="017-robot.svg" width="250" alt="017-robot.svg"></a> | **📂 檔名:** `017-robot.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `3.20KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](017-robot.svg) |
+| <a href="018-rolling%20eyes.svg"><img src="018-rolling%20eyes.svg" width="250" alt="018-rolling eyes.svg"></a> | **📂 檔名:** `018-rolling eyes.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `2.83KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](018-rolling%20eyes.svg) |
+| <a href="019-tears%20of%20joy.svg"><img src="019-tears%20of%20joy.svg" width="250" alt="019-tears of joy.svg"></a> | **📂 檔名:** `019-tears of joy.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `3.07KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](019-tears%20of%20joy.svg) |
+| <a href="020-saluting.svg"><img src="020-saluting.svg" width="250" alt="020-saluting.svg"></a> | **📂 檔名:** `020-saluting.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `2.57KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](020-saluting.svg) |
+| <a href="021-scream.svg"><img src="021-scream.svg" width="250" alt="021-scream.svg"></a> | **📂 檔名:** `021-scream.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `3.35KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](021-scream.svg) |
+| <a href="022-happy.svg"><img src="022-happy.svg" width="250" alt="022-happy.svg"></a> | **📂 檔名:** `022-happy.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `2.32KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](022-happy.svg) |
+| <a href="023-smile%20emoticon.svg"><img src="023-smile%20emoticon.svg" width="250" alt="023-smile emoticon.svg"></a> | **📂 檔名:** `023-smile emoticon.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.99KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](023-smile%20emoticon.svg) |
+| <a href="024-laugh.svg"><img src="024-laugh.svg" width="250" alt="024-laugh.svg"></a> | **📂 檔名:** `024-laugh.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `2.45KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](024-laugh.svg) |
+| <a href="025-angel.svg"><img src="025-angel.svg" width="250" alt="025-angel.svg"></a> | **📂 檔名:** `025-angel.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `2.62KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](025-angel.svg) |
+| <a href="026-suprise.svg"><img src="026-suprise.svg" width="250" alt="026-suprise.svg"></a> | **📂 檔名:** `026-suprise.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `2.20KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](026-suprise.svg) |
+| <a href="027-sneezing.svg"><img src="027-sneezing.svg" width="250" alt="027-sneezing.svg"></a> | **📂 檔名:** `027-sneezing.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `3.68KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](027-sneezing.svg) |
+| <a href="028-confused.svg"><img src="028-confused.svg" width="250" alt="028-confused.svg"></a> | **📂 檔名:** `028-confused.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `2.63KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](028-confused.svg) |
+| <a href="029-starry.svg"><img src="029-starry.svg" width="250" alt="029-starry.svg"></a> | **📂 檔名:** `029-starry.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `3.93KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](029-starry.svg) |
+| <a href="030-tongue%20out.svg"><img src="030-tongue%20out.svg" width="250" alt="030-tongue out.svg"></a> | **📂 檔名:** `030-tongue out.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `2.20KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](030-tongue%20out.svg) |
+| <a href="031-awkward.svg"><img src="031-awkward.svg" width="250" alt="031-awkward.svg"></a> | **📂 檔名:** `031-awkward.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `3.69KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](031-awkward.svg) |
+| <a href="032-cracking.svg"><img src="032-cracking.svg" width="250" alt="032-cracking.svg"></a> | **📂 檔名:** `032-cracking.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `3.51KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](032-cracking.svg) |
+| <a href="033-thinking.svg"><img src="033-thinking.svg" width="250" alt="033-thinking.svg"></a> | **📂 檔名:** `033-thinking.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `3.05KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](033-thinking.svg) |
+| <a href="034-tiredness.svg"><img src="034-tiredness.svg" width="250" alt="034-tiredness.svg"></a> | **📂 檔名:** `034-tiredness.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `3.25KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](034-tiredness.svg) |
+| <a href="035-winking%20face.svg"><img src="035-winking%20face.svg" width="250" alt="035-winking face.svg"></a> | **📂 檔名:** `035-winking face.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `2.30KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](035-winking%20face.svg) |
+| <a href="036-woozy.svg"><img src="036-woozy.svg" width="250" alt="036-woozy.svg"></a> | **📂 檔名:** `036-woozy.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `2.86KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](036-woozy.svg) |
+| <a href="037-zipped.svg"><img src="037-zipped.svg" width="250" alt="037-zipped.svg"></a> | **📂 檔名:** `037-zipped.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `3.47KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](037-zipped.svg) |

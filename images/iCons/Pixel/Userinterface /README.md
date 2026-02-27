@@ -1,89 +1,91 @@
-# 🖼️ Userinterface 
+# 🖼️ 素材分類：Userinterface 
 
-[⬅️ 返回主目錄](../../../../README.md)
+> [🏠 主目錄](../../../../README.md) / **Userinterface **
 
-| 預覽 | 資訊 |
+本目錄共有 `83` 個檔案
+
+| 🎨 預覽 (點擊放大) | 📋 檔案詳細資訊 |
 | :--- | :--- |
-| <a href="001-folder.svg"><img src="001-folder.svg" width="200"></a> | **001-folder.svg** |
-| <a href="002-upload%20file.svg"><img src="002-upload%20file.svg" width="200"></a> | **002-upload file.svg** |
-| <a href="003-text%20file.svg"><img src="003-text%20file.svg" width="200"></a> | **003-text file.svg** |
-| <a href="004-upload%20button.svg"><img src="004-upload%20button.svg" width="200"></a> | **004-upload button.svg** |
-| <a href="005-downloads.svg"><img src="005-downloads.svg" width="200"></a> | **005-downloads.svg** |
-| <a href="006-download%20file.svg"><img src="006-download%20file.svg" width="200"></a> | **006-download file.svg** |
-| <a href="007-downloading.svg"><img src="007-downloading.svg" width="200"></a> | **007-downloading.svg** |
-| <a href="008-logout.svg"><img src="008-logout.svg" width="200"></a> | **008-logout.svg** |
-| <a href="009-login.svg"><img src="009-login.svg" width="200"></a> | **009-login.svg** |
-| <a href="010-warning.svg"><img src="010-warning.svg" width="200"></a> | **010-warning.svg** |
-| <a href="011-question.svg"><img src="011-question.svg" width="200"></a> | **011-question.svg** |
-| <a href="012-open%20folder.svg"><img src="012-open%20folder.svg" width="200"></a> | **012-open folder.svg** |
-| <a href="013-delete.svg"><img src="013-delete.svg" width="200"></a> | **013-delete.svg** |
-| <a href="014-add%20button.svg"><img src="014-add%20button.svg" width="200"></a> | **014-add button.svg** |
-| <a href="015-linked%20in.svg"><img src="015-linked%20in.svg" width="200"></a> | **015-linked in.svg** |
-| <a href="016-cloud%20app.svg"><img src="016-cloud%20app.svg" width="200"></a> | **016-cloud app.svg** |
-| <a href="017-cloud%20database.svg"><img src="017-cloud%20database.svg" width="200"></a> | **017-cloud database.svg** |
-| <a href="018-cloud%20connection.svg"><img src="018-cloud%20connection.svg" width="200"></a> | **018-cloud connection.svg** |
-| <a href="019-visible.svg"><img src="019-visible.svg" width="200"></a> | **019-visible.svg** |
-| <a href="020-no%20view.svg"><img src="020-no%20view.svg" width="200"></a> | **020-no view.svg** |
-| <a href="021-edit%20button.svg"><img src="021-edit%20button.svg" width="200"></a> | **021-edit button.svg** |
-| <a href="022-search.svg"><img src="022-search.svg" width="200"></a> | **022-search.svg** |
-| <a href="023-new%20folder.svg"><img src="023-new%20folder.svg" width="200"></a> | **023-new folder.svg** |
-| <a href="024-home.svg"><img src="024-home.svg" width="200"></a> | **024-home.svg** |
-| <a href="025-favorite.svg"><img src="025-favorite.svg" width="200"></a> | **025-favorite.svg** |
-| <a href="026-shopping%20bag.svg"><img src="026-shopping%20bag.svg" width="200"></a> | **026-shopping bag.svg** |
-| <a href="027-profile%20avatar.svg"><img src="027-profile%20avatar.svg" width="200"></a> | **027-profile avatar.svg** |
-| <a href="028-delete.svg"><img src="028-delete.svg" width="200"></a> | **028-delete.svg** |
-| <a href="029-lock%20symbol.svg"><img src="029-lock%20symbol.svg" width="200"></a> | **029-lock symbol.svg** |
-| <a href="030-like.svg"><img src="030-like.svg" width="200"></a> | **030-like.svg** |
-| <a href="031-calendar.svg"><img src="031-calendar.svg" width="200"></a> | **031-calendar.svg** |
-| <a href="032-event.svg"><img src="032-event.svg" width="200"></a> | **032-event.svg** |
-| <a href="033-card.svg"><img src="033-card.svg" width="200"></a> | **033-card.svg** |
-| <a href="034-folder%20type.svg"><img src="034-folder%20type.svg" width="200"></a> | **034-folder type.svg** |
-| <a href="035-card%20payment.svg"><img src="035-card%20payment.svg" width="200"></a> | **035-card payment.svg** |
-| <a href="036-bank%20account.svg"><img src="036-bank%20account.svg" width="200"></a> | **036-bank account.svg** |
-| <a href="037-wallet%20symbol.svg"><img src="037-wallet%20symbol.svg" width="200"></a> | **037-wallet symbol.svg** |
-| <a href="038-label.svg"><img src="038-label.svg" width="200"></a> | **038-label.svg** |
-| <a href="039-label%20mark.svg"><img src="039-label%20mark.svg" width="200"></a> | **039-label mark.svg** |
-| <a href="040-bookmark.svg"><img src="040-bookmark.svg" width="200"></a> | **040-bookmark.svg** |
-| <a href="041-bookmark%20variant.svg"><img src="041-bookmark%20variant.svg" width="200"></a> | **041-bookmark variant.svg** |
-| <a href="042-bookmark%20variant.svg"><img src="042-bookmark%20variant.svg" width="200"></a> | **042-bookmark variant.svg** |
-| <a href="043-power%20button.svg"><img src="043-power%20button.svg" width="200"></a> | **043-power button.svg** |
-| <a href="044-dashboard%20icons.svg"><img src="044-dashboard%20icons.svg" width="200"></a> | **044-dashboard icons.svg** |
-| <a href="045-zip%20file.svg"><img src="045-zip%20file.svg" width="200"></a> | **045-zip file.svg** |
-| <a href="046-display.svg"><img src="046-display.svg" width="200"></a> | **046-display.svg** |
-| <a href="047-play%20button.svg"><img src="047-play%20button.svg" width="200"></a> | **047-play button.svg** |
-| <a href="048-pause%20button.svg"><img src="048-pause%20button.svg" width="200"></a> | **048-pause button.svg** |
-| <a href="049-sound%20control.svg"><img src="049-sound%20control.svg" width="200"></a> | **049-sound control.svg** |
-| <a href="050-sound.svg"><img src="050-sound.svg" width="200"></a> | **050-sound.svg** |
-| <a href="051-no%20sound.svg"><img src="051-no%20sound.svg" width="200"></a> | **051-no sound.svg** |
-| <a href="052-microphone.svg"><img src="052-microphone.svg" width="200"></a> | **052-microphone.svg** |
-| <a href="053-no%20microphone.svg"><img src="053-no%20microphone.svg" width="200"></a> | **053-no microphone.svg** |
-| <a href="054-music%20and%20multimedia.svg"><img src="054-music%20and%20multimedia.svg" width="200"></a> | **054-music and multimedia.svg** |
-| <a href="055-list-check.svg"><img src="055-list-check.svg" width="200"></a> | **055-list-check.svg** |
-| <a href="056-duplicate.svg"><img src="056-duplicate.svg" width="200"></a> | **056-duplicate.svg** |
-| <a href="057-mail.svg"><img src="057-mail.svg" width="200"></a> | **057-mail.svg** |
-| <a href="058-new%20message.svg"><img src="058-new%20message.svg" width="200"></a> | **058-new message.svg** |
-| <a href="059-discard.svg"><img src="059-discard.svg" width="200"></a> | **059-discard.svg** |
-| <a href="060-send%20message.svg"><img src="060-send%20message.svg" width="200"></a> | **060-send message.svg** |
-| <a href="061-map%20marker.svg"><img src="061-map%20marker.svg" width="200"></a> | **061-map marker.svg** |
-| <a href="062-calling.svg"><img src="062-calling.svg" width="200"></a> | **062-calling.svg** |
-| <a href="063-call%20button.svg"><img src="063-call%20button.svg" width="200"></a> | **063-call button.svg** |
-| <a href="064-chat%20option.svg"><img src="064-chat%20option.svg" width="200"></a> | **064-chat option.svg** |
-| <a href="065-chat%20bubbles.svg"><img src="065-chat%20bubbles.svg" width="200"></a> | **065-chat bubbles.svg** |
-| <a href="066-chat%20balloon.svg"><img src="066-chat%20balloon.svg" width="200"></a> | **066-chat balloon.svg** |
-| <a href="067-folder%20type.svg"><img src="067-folder%20type.svg" width="200"></a> | **067-folder type.svg** |
-| <a href="068-list.svg"><img src="068-list.svg" width="200"></a> | **068-list.svg** |
-| <a href="069-link.svg"><img src="069-link.svg" width="200"></a> | **069-link.svg** |
-| <a href="070-linked%20in.svg"><img src="070-linked%20in.svg" width="200"></a> | **070-linked in.svg** |
-| <a href="071-good%20signal.svg"><img src="071-good%20signal.svg" width="200"></a> | **071-good signal.svg** |
-| <a href="072-signal.svg"><img src="072-signal.svg" width="200"></a> | **072-signal.svg** |
-| <a href="073-low%20signal.svg"><img src="073-low%20signal.svg" width="200"></a> | **073-low signal.svg** |
-| <a href="074-wi%20fi.svg"><img src="074-wi%20fi.svg" width="200"></a> | **074-wi fi.svg** |
-| <a href="075-high%20battery.svg"><img src="075-high%20battery.svg" width="200"></a> | **075-high battery.svg** |
-| <a href="076-battery%20level.svg"><img src="076-battery%20level.svg" width="200"></a> | **076-battery level.svg** |
-| <a href="077-low%20battery.svg"><img src="077-low%20battery.svg" width="200"></a> | **077-low battery.svg** |
-| <a href="078-notes.svg"><img src="078-notes.svg" width="200"></a> | **078-notes.svg** |
-| <a href="079-charger%20status.svg"><img src="079-charger%20status.svg" width="200"></a> | **079-charger status.svg** |
-| <a href="080-bluetooth.svg"><img src="080-bluetooth.svg" width="200"></a> | **080-bluetooth.svg** |
-| <a href="081-light.svg"><img src="081-light.svg" width="200"></a> | **081-light.svg** |
-| <a href="082-dark%20mode.svg"><img src="082-dark%20mode.svg" width="200"></a> | **082-dark mode.svg** |
-| <a href="083-file.svg"><img src="083-file.svg" width="200"></a> | **083-file.svg** |
+| <a href="001-folder.svg"><img src="001-folder.svg" width="250" alt="001-folder.svg"></a> | **📂 檔名:** `001-folder.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `4.09KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](001-folder.svg) |
+| <a href="002-upload%20file.svg"><img src="002-upload%20file.svg" width="250" alt="002-upload file.svg"></a> | **📂 檔名:** `002-upload file.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `4.76KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](002-upload%20file.svg) |
+| <a href="003-text%20file.svg"><img src="003-text%20file.svg" width="250" alt="003-text file.svg"></a> | **📂 檔名:** `003-text file.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `5.44KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](003-text%20file.svg) |
+| <a href="004-upload%20button.svg"><img src="004-upload%20button.svg" width="250" alt="004-upload button.svg"></a> | **📂 檔名:** `004-upload button.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `8.13KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](004-upload%20button.svg) |
+| <a href="005-downloads.svg"><img src="005-downloads.svg" width="250" alt="005-downloads.svg"></a> | **📂 檔名:** `005-downloads.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `3.63KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](005-downloads.svg) |
+| <a href="006-download%20file.svg"><img src="006-download%20file.svg" width="250" alt="006-download file.svg"></a> | **📂 檔名:** `006-download file.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `7.43KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](006-download%20file.svg) |
+| <a href="007-downloading.svg"><img src="007-downloading.svg" width="250" alt="007-downloading.svg"></a> | **📂 檔名:** `007-downloading.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `6.71KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](007-downloading.svg) |
+| <a href="008-logout.svg"><img src="008-logout.svg" width="250" alt="008-logout.svg"></a> | **📂 檔名:** `008-logout.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `9.02KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](008-logout.svg) |
+| <a href="009-login.svg"><img src="009-login.svg" width="250" alt="009-login.svg"></a> | **📂 檔名:** `009-login.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `6.66KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](009-login.svg) |
+| <a href="010-warning.svg"><img src="010-warning.svg" width="250" alt="010-warning.svg"></a> | **📂 檔名:** `010-warning.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `4.03KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](010-warning.svg) |
+| <a href="011-question.svg"><img src="011-question.svg" width="250" alt="011-question.svg"></a> | **📂 檔名:** `011-question.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `4.29KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](011-question.svg) |
+| <a href="012-open%20folder.svg"><img src="012-open%20folder.svg" width="250" alt="012-open folder.svg"></a> | **📂 檔名:** `012-open folder.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `4.42KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](012-open%20folder.svg) |
+| <a href="013-delete.svg"><img src="013-delete.svg" width="250" alt="013-delete.svg"></a> | **📂 檔名:** `013-delete.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `4.49KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](013-delete.svg) |
+| <a href="014-add%20button.svg"><img src="014-add%20button.svg" width="250" alt="014-add button.svg"></a> | **📂 檔名:** `014-add button.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `4.25KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](014-add%20button.svg) |
+| <a href="015-linked%20in.svg"><img src="015-linked%20in.svg" width="250" alt="015-linked in.svg"></a> | **📂 檔名:** `015-linked in.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `11.71KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](015-linked%20in.svg) |
+| <a href="016-cloud%20app.svg"><img src="016-cloud%20app.svg" width="250" alt="016-cloud app.svg"></a> | **📂 檔名:** `016-cloud app.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `8.28KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](016-cloud%20app.svg) |
+| <a href="017-cloud%20database.svg"><img src="017-cloud%20database.svg" width="250" alt="017-cloud database.svg"></a> | **📂 檔名:** `017-cloud database.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `8.28KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](017-cloud%20database.svg) |
+| <a href="018-cloud%20connection.svg"><img src="018-cloud%20connection.svg" width="250" alt="018-cloud connection.svg"></a> | **📂 檔名:** `018-cloud connection.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `11.18KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](018-cloud%20connection.svg) |
+| <a href="019-visible.svg"><img src="019-visible.svg" width="250" alt="019-visible.svg"></a> | **📂 檔名:** `019-visible.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `6.72KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](019-visible.svg) |
+| <a href="020-no%20view.svg"><img src="020-no%20view.svg" width="250" alt="020-no view.svg"></a> | **📂 檔名:** `020-no view.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `8.12KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](020-no%20view.svg) |
+| <a href="021-edit%20button.svg"><img src="021-edit%20button.svg" width="250" alt="021-edit button.svg"></a> | **📂 檔名:** `021-edit button.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `3.98KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](021-edit%20button.svg) |
+| <a href="022-search.svg"><img src="022-search.svg" width="250" alt="022-search.svg"></a> | **📂 檔名:** `022-search.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `5.02KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](022-search.svg) |
+| <a href="023-new%20folder.svg"><img src="023-new%20folder.svg" width="250" alt="023-new folder.svg"></a> | **📂 檔名:** `023-new folder.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `5.21KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](023-new%20folder.svg) |
+| <a href="024-home.svg"><img src="024-home.svg" width="250" alt="024-home.svg"></a> | **📂 檔名:** `024-home.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `4.46KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](024-home.svg) |
+| <a href="025-favorite.svg"><img src="025-favorite.svg" width="250" alt="025-favorite.svg"></a> | **📂 檔名:** `025-favorite.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `7.30KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](025-favorite.svg) |
+| <a href="026-shopping%20bag.svg"><img src="026-shopping%20bag.svg" width="250" alt="026-shopping bag.svg"></a> | **📂 檔名:** `026-shopping bag.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `3.82KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](026-shopping%20bag.svg) |
+| <a href="027-profile%20avatar.svg"><img src="027-profile%20avatar.svg" width="250" alt="027-profile avatar.svg"></a> | **📂 檔名:** `027-profile avatar.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `4.98KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](027-profile%20avatar.svg) |
+| <a href="028-delete.svg"><img src="028-delete.svg" width="250" alt="028-delete.svg"></a> | **📂 檔名:** `028-delete.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `4.91KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](028-delete.svg) |
+| <a href="029-lock%20symbol.svg"><img src="029-lock%20symbol.svg" width="250" alt="029-lock symbol.svg"></a> | **📂 檔名:** `029-lock symbol.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `4.51KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](029-lock%20symbol.svg) |
+| <a href="030-like.svg"><img src="030-like.svg" width="250" alt="030-like.svg"></a> | **📂 檔名:** `030-like.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `4.22KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](030-like.svg) |
+| <a href="031-calendar.svg"><img src="031-calendar.svg" width="250" alt="031-calendar.svg"></a> | **📂 檔名:** `031-calendar.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `5.01KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](031-calendar.svg) |
+| <a href="032-event.svg"><img src="032-event.svg" width="250" alt="032-event.svg"></a> | **📂 檔名:** `032-event.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `5.33KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](032-event.svg) |
+| <a href="033-card.svg"><img src="033-card.svg" width="250" alt="033-card.svg"></a> | **📂 檔名:** `033-card.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `14.27KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](033-card.svg) |
+| <a href="034-folder%20type.svg"><img src="034-folder%20type.svg" width="250" alt="034-folder type.svg"></a> | **📂 檔名:** `034-folder type.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `13.88KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](034-folder%20type.svg) |
+| <a href="035-card%20payment.svg"><img src="035-card%20payment.svg" width="250" alt="035-card payment.svg"></a> | **📂 檔名:** `035-card payment.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `14.19KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](035-card%20payment.svg) |
+| <a href="036-bank%20account.svg"><img src="036-bank%20account.svg" width="250" alt="036-bank account.svg"></a> | **📂 檔名:** `036-bank account.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `4.51KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](036-bank%20account.svg) |
+| <a href="037-wallet%20symbol.svg"><img src="037-wallet%20symbol.svg" width="250" alt="037-wallet symbol.svg"></a> | **📂 檔名:** `037-wallet symbol.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `13.31KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](037-wallet%20symbol.svg) |
+| <a href="038-label.svg"><img src="038-label.svg" width="250" alt="038-label.svg"></a> | **📂 檔名:** `038-label.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `6.82KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](038-label.svg) |
+| <a href="039-label%20mark.svg"><img src="039-label%20mark.svg" width="250" alt="039-label mark.svg"></a> | **📂 檔名:** `039-label mark.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `6.63KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](039-label%20mark.svg) |
+| <a href="040-bookmark.svg"><img src="040-bookmark.svg" width="250" alt="040-bookmark.svg"></a> | **📂 檔名:** `040-bookmark.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `3.47KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](040-bookmark.svg) |
+| <a href="041-bookmark%20variant.svg"><img src="041-bookmark%20variant.svg" width="250" alt="041-bookmark variant.svg"></a> | **📂 檔名:** `041-bookmark variant.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `3.52KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](041-bookmark%20variant.svg) |
+| <a href="042-bookmark%20variant.svg"><img src="042-bookmark%20variant.svg" width="250" alt="042-bookmark variant.svg"></a> | **📂 檔名:** `042-bookmark variant.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `3.44KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](042-bookmark%20variant.svg) |
+| <a href="043-power%20button.svg"><img src="043-power%20button.svg" width="250" alt="043-power button.svg"></a> | **📂 檔名:** `043-power button.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `4.47KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](043-power%20button.svg) |
+| <a href="044-dashboard%20icons.svg"><img src="044-dashboard%20icons.svg" width="250" alt="044-dashboard icons.svg"></a> | **📂 檔名:** `044-dashboard icons.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `13.27KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](044-dashboard%20icons.svg) |
+| <a href="045-zip%20file.svg"><img src="045-zip%20file.svg" width="250" alt="045-zip file.svg"></a> | **📂 檔名:** `045-zip file.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `10.30KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](045-zip%20file.svg) |
+| <a href="046-display.svg"><img src="046-display.svg" width="250" alt="046-display.svg"></a> | **📂 檔名:** `046-display.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `13.58KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](046-display.svg) |
+| <a href="047-play%20button.svg"><img src="047-play%20button.svg" width="250" alt="047-play button.svg"></a> | **📂 檔名:** `047-play button.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `4.48KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](047-play%20button.svg) |
+| <a href="048-pause%20button.svg"><img src="048-pause%20button.svg" width="250" alt="048-pause button.svg"></a> | **📂 檔名:** `048-pause button.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `4.54KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](048-pause%20button.svg) |
+| <a href="049-sound%20control.svg"><img src="049-sound%20control.svg" width="250" alt="049-sound control.svg"></a> | **📂 檔名:** `049-sound control.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `6.83KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](049-sound%20control.svg) |
+| <a href="050-sound.svg"><img src="050-sound.svg" width="250" alt="050-sound.svg"></a> | **📂 檔名:** `050-sound.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `9.37KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](050-sound.svg) |
+| <a href="051-no%20sound.svg"><img src="051-no%20sound.svg" width="250" alt="051-no sound.svg"></a> | **📂 檔名:** `051-no sound.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `12.06KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](051-no%20sound.svg) |
+| <a href="052-microphone.svg"><img src="052-microphone.svg" width="250" alt="052-microphone.svg"></a> | **📂 檔名:** `052-microphone.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `4.89KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](052-microphone.svg) |
+| <a href="053-no%20microphone.svg"><img src="053-no%20microphone.svg" width="250" alt="053-no microphone.svg"></a> | **📂 檔名:** `053-no microphone.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `8.44KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](053-no%20microphone.svg) |
+| <a href="054-music%20and%20multimedia.svg"><img src="054-music%20and%20multimedia.svg" width="250" alt="054-music and multimedia.svg"></a> | **📂 檔名:** `054-music and multimedia.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `6.24KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](054-music%20and%20multimedia.svg) |
+| <a href="055-list-check.svg"><img src="055-list-check.svg" width="250" alt="055-list-check.svg"></a> | **📂 檔名:** `055-list-check.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `5.96KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](055-list-check.svg) |
+| <a href="056-duplicate.svg"><img src="056-duplicate.svg" width="250" alt="056-duplicate.svg"></a> | **📂 檔名:** `056-duplicate.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `12.79KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](056-duplicate.svg) |
+| <a href="057-mail.svg"><img src="057-mail.svg" width="250" alt="057-mail.svg"></a> | **📂 檔名:** `057-mail.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `11.13KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](057-mail.svg) |
+| <a href="058-new%20message.svg"><img src="058-new%20message.svg" width="250" alt="058-new message.svg"></a> | **📂 檔名:** `058-new message.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `11.10KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](058-new%20message.svg) |
+| <a href="059-discard.svg"><img src="059-discard.svg" width="250" alt="059-discard.svg"></a> | **📂 檔名:** `059-discard.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `10.80KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](059-discard.svg) |
+| <a href="060-send%20message.svg"><img src="060-send%20message.svg" width="250" alt="060-send message.svg"></a> | **📂 檔名:** `060-send message.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `12.79KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](060-send%20message.svg) |
+| <a href="061-map%20marker.svg"><img src="061-map%20marker.svg" width="250" alt="061-map marker.svg"></a> | **📂 檔名:** `061-map marker.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `5.32KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](061-map%20marker.svg) |
+| <a href="062-calling.svg"><img src="062-calling.svg" width="250" alt="062-calling.svg"></a> | **📂 檔名:** `062-calling.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `5.11KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](062-calling.svg) |
+| <a href="063-call%20button.svg"><img src="063-call%20button.svg" width="250" alt="063-call button.svg"></a> | **📂 檔名:** `063-call button.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `6.41KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](063-call%20button.svg) |
+| <a href="064-chat%20option.svg"><img src="064-chat%20option.svg" width="250" alt="064-chat option.svg"></a> | **📂 檔名:** `064-chat option.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `9.77KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](064-chat%20option.svg) |
+| <a href="065-chat%20bubbles.svg"><img src="065-chat%20bubbles.svg" width="250" alt="065-chat bubbles.svg"></a> | **📂 檔名:** `065-chat bubbles.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `11.41KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](065-chat%20bubbles.svg) |
+| <a href="066-chat%20balloon.svg"><img src="066-chat%20balloon.svg" width="250" alt="066-chat balloon.svg"></a> | **📂 檔名:** `066-chat balloon.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `10.44KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](066-chat%20balloon.svg) |
+| <a href="067-folder%20type.svg"><img src="067-folder%20type.svg" width="250" alt="067-folder type.svg"></a> | **📂 檔名:** `067-folder type.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `12.75KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](067-folder%20type.svg) |
+| <a href="068-list.svg"><img src="068-list.svg" width="250" alt="068-list.svg"></a> | **📂 檔名:** `068-list.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `5.65KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](068-list.svg) |
+| <a href="069-link.svg"><img src="069-link.svg" width="250" alt="069-link.svg"></a> | **📂 檔名:** `069-link.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `8.49KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](069-link.svg) |
+| <a href="070-linked%20in.svg"><img src="070-linked%20in.svg" width="250" alt="070-linked in.svg"></a> | **📂 檔名:** `070-linked in.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `9.09KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](070-linked%20in.svg) |
+| <a href="071-good%20signal.svg"><img src="071-good%20signal.svg" width="250" alt="071-good signal.svg"></a> | **📂 檔名:** `071-good signal.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `16.62KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](071-good%20signal.svg) |
+| <a href="072-signal.svg"><img src="072-signal.svg" width="250" alt="072-signal.svg"></a> | **📂 檔名:** `072-signal.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `10.68KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](072-signal.svg) |
+| <a href="073-low%20signal.svg"><img src="073-low%20signal.svg" width="250" alt="073-low signal.svg"></a> | **📂 檔名:** `073-low signal.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `5.96KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](073-low%20signal.svg) |
+| <a href="074-wi%20fi.svg"><img src="074-wi%20fi.svg" width="250" alt="074-wi fi.svg"></a> | **📂 檔名:** `074-wi fi.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `8.75KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](074-wi%20fi.svg) |
+| <a href="075-high%20battery.svg"><img src="075-high%20battery.svg" width="250" alt="075-high battery.svg"></a> | **📂 檔名:** `075-high battery.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `11.95KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](075-high%20battery.svg) |
+| <a href="076-battery%20level.svg"><img src="076-battery%20level.svg" width="250" alt="076-battery level.svg"></a> | **📂 檔名:** `076-battery level.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `11.08KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](076-battery%20level.svg) |
+| <a href="077-low%20battery.svg"><img src="077-low%20battery.svg" width="250" alt="077-low battery.svg"></a> | **📂 檔名:** `077-low battery.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `10.21KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](077-low%20battery.svg) |
+| <a href="078-notes.svg"><img src="078-notes.svg" width="250" alt="078-notes.svg"></a> | **📂 檔名:** `078-notes.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `5.09KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](078-notes.svg) |
+| <a href="079-charger%20status.svg"><img src="079-charger%20status.svg" width="250" alt="079-charger status.svg"></a> | **📂 檔名:** `079-charger status.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `10.46KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](079-charger%20status.svg) |
+| <a href="080-bluetooth.svg"><img src="080-bluetooth.svg" width="250" alt="080-bluetooth.svg"></a> | **📂 檔名:** `080-bluetooth.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `8.20KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](080-bluetooth.svg) |
+| <a href="081-light.svg"><img src="081-light.svg" width="250" alt="081-light.svg"></a> | **📂 檔名:** `081-light.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `6.96KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](081-light.svg) |
+| <a href="082-dark%20mode.svg"><img src="082-dark%20mode.svg" width="250" alt="082-dark mode.svg"></a> | **📂 檔名:** `082-dark mode.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `4.48KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](082-dark%20mode.svg) |
+| <a href="083-file.svg"><img src="083-file.svg" width="250" alt="083-file.svg"></a> | **📂 檔名:** `083-file.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `4.04KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](083-file.svg) |

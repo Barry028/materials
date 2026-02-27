@@ -1,39 +1,41 @@
-# 🖼️ 3D_EmojisGestures
+# 🖼️ 素材分類：3D_EmojisGestures
 
-[⬅️ 返回主目錄](../../../README.md)
+> [🏠 主目錄](../../../README.md) / **3D_EmojisGestures**
 
-| 預覽 | 資訊 |
+本目錄共有 `33` 個檔案
+
+| 🎨 預覽 (點擊放大) | 📋 檔案詳細資訊 |
 | :--- | :--- |
-| <a href="Black-Claps-83.png"><img src="Black-Claps-83.png" width="200"></a> | **Black-Claps-83.png** |
-| <a href="Black-GivingRight-f4.png"><img src="Black-GivingRight-f4.png" width="200"></a> | **Black-GivingRight-f4.png** |
-| <a href="Black-HandHoldingPencilRight-7d.png"><img src="Black-HandHoldingPencilRight-7d.png" width="200"></a> | **Black-HandHoldingPencilRight-7d.png** |
-| <a href="Black-Love-a2.png"><img src="Black-Love-a2.png" width="200"></a> | **Black-Love-a2.png** |
-| <a href="Black-OkLeft-43.png"><img src="Black-OkLeft-43.png" width="200"></a> | **Black-OkLeft-43.png** |
-| <a href="Black-OncomingFist-a6.png"><img src="Black-OncomingFist-a6.png" width="200"></a> | **Black-OncomingFist-a6.png** |
-| <a href="Black-PinchingLeft-69.png"><img src="Black-PinchingLeft-69.png" width="200"></a> | **Black-PinchingLeft-69.png** |
-| <a href="Black-PinchingRight-ce.png"><img src="Black-PinchingRight-ce.png" width="200"></a> | **Black-PinchingRight-ce.png** |
-| <a href="Black-PointUp-2e.png"><img src="Black-PointUp-2e.png" width="200"></a> | **Black-PointUp-2e.png** |
-| <a href="Black-PointUpFace-6b.png"><img src="Black-PointUpFace-6b.png" width="200"></a> | **Black-PointUpFace-6b.png** |
-| <a href="Black-PointingRight-d0.png"><img src="Black-PointingRight-d0.png" width="200"></a> | **Black-PointingRight-d0.png** |
-| <a href="Black-Pray-4e.png"><img src="Black-Pray-4e.png" width="200"></a> | **Black-Pray-4e.png** |
-| <a href="Black-PunchRight-fd.png"><img src="Black-PunchRight-fd.png" width="200"></a> | **Black-PunchRight-fd.png** |
-| <a href="Black-RaisedFist-3b.png"><img src="Black-RaisedFist-3b.png" width="200"></a> | **Black-RaisedFist-3b.png** |
-| <a href="Black-ThumbsDown-0e.png"><img src="Black-ThumbsDown-0e.png" width="200"></a> | **Black-ThumbsDown-0e.png** |
-| <a href="Black-VulcanSalute-cc.png"><img src="Black-VulcanSalute-cc.png" width="200"></a> | **Black-VulcanSalute-cc.png** |
-| <a href="Black-Wave-62.png"><img src="Black-Wave-62.png" width="200"></a> | **Black-Wave-62.png** |
-| <a href="Yellow-CallMe-e2.png"><img src="Yellow-CallMe-e2.png" width="200"></a> | **Yellow-CallMe-e2.png** |
-| <a href="Yellow-Claps-89.png"><img src="Yellow-Claps-89.png" width="200"></a> | **Yellow-Claps-89.png** |
-| <a href="Yellow-Hand-9b.png"><img src="Yellow-Hand-9b.png" width="200"></a> | **Yellow-Hand-9b.png** |
-| <a href="Yellow-HandHoldingPencilRight-2e.png"><img src="Yellow-HandHoldingPencilRight-2e.png" width="200"></a> | **Yellow-HandHoldingPencilRight-2e.png** |
-| <a href="Yellow-Horns-86.png"><img src="Yellow-Horns-86.png" width="200"></a> | **Yellow-Horns-86.png** |
-| <a href="Yellow-Love-13.png"><img src="Yellow-Love-13.png" width="200"></a> | **Yellow-Love-13.png** |
-| <a href="Yellow-OncomingFist-37.png"><img src="Yellow-OncomingFist-37.png" width="200"></a> | **Yellow-OncomingFist-37.png** |
-| <a href="Yellow-PointingDown-e9.png"><img src="Yellow-PointingDown-e9.png" width="200"></a> | **Yellow-PointingDown-e9.png** |
-| <a href="Yellow-PointingLeft-18.png"><img src="Yellow-PointingLeft-18.png" width="200"></a> | **Yellow-PointingLeft-18.png** |
-| <a href="Yellow-PointingRight-32.png"><img src="Yellow-PointingRight-32.png" width="200"></a> | **Yellow-PointingRight-32.png** |
-| <a href="Yellow-Poke-89.png"><img src="Yellow-Poke-89.png" width="200"></a> | **Yellow-Poke-89.png** |
-| <a href="Yellow-Pray-04.png"><img src="Yellow-Pray-04.png" width="200"></a> | **Yellow-Pray-04.png** |
-| <a href="Yellow-RaisedFist-60.png"><img src="Yellow-RaisedFist-60.png" width="200"></a> | **Yellow-RaisedFist-60.png** |
-| <a href="Yellow-ThumbsDown-df.png"><img src="Yellow-ThumbsDown-df.png" width="200"></a> | **Yellow-ThumbsDown-df.png** |
-| <a href="Yellow-Victory-c6.png"><img src="Yellow-Victory-c6.png" width="200"></a> | **Yellow-Victory-c6.png** |
-| <a href="Yellow-Wave-72.png"><img src="Yellow-Wave-72.png" width="200"></a> | **Yellow-Wave-72.png** |
+| <a href="Black-Claps-83.png"><img src="Black-Claps-83.png" width="250" alt="Black-Claps-83.png"></a> | **📂 檔名:** `Black-Claps-83.png`<br>🖼️ **尺寸:** `1000x1000 px`<br>⚖️ **大小:** `155.40KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Black-Claps-83.png) |
+| <a href="Black-GivingRight-f4.png"><img src="Black-GivingRight-f4.png" width="250" alt="Black-GivingRight-f4.png"></a> | **📂 檔名:** `Black-GivingRight-f4.png`<br>🖼️ **尺寸:** `1000x1000 px`<br>⚖️ **大小:** `68.16KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Black-GivingRight-f4.png) |
+| <a href="Black-HandHoldingPencilRight-7d.png"><img src="Black-HandHoldingPencilRight-7d.png" width="250" alt="Black-HandHoldingPencilRight-7d.png"></a> | **📂 檔名:** `Black-HandHoldingPencilRight-7d.png`<br>🖼️ **尺寸:** `1000x1000 px`<br>⚖️ **大小:** `90.92KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Black-HandHoldingPencilRight-7d.png) |
+| <a href="Black-Love-a2.png"><img src="Black-Love-a2.png" width="250" alt="Black-Love-a2.png"></a> | **📂 檔名:** `Black-Love-a2.png`<br>🖼️ **尺寸:** `1000x1000 px`<br>⚖️ **大小:** `97.12KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Black-Love-a2.png) |
+| <a href="Black-OkLeft-43.png"><img src="Black-OkLeft-43.png" width="250" alt="Black-OkLeft-43.png"></a> | **📂 檔名:** `Black-OkLeft-43.png`<br>🖼️ **尺寸:** `1000x1000 px`<br>⚖️ **大小:** `85.09KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Black-OkLeft-43.png) |
+| <a href="Black-OncomingFist-a6.png"><img src="Black-OncomingFist-a6.png" width="250" alt="Black-OncomingFist-a6.png"></a> | **📂 檔名:** `Black-OncomingFist-a6.png`<br>🖼️ **尺寸:** `1000x1000 px`<br>⚖️ **大小:** `63.24KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Black-OncomingFist-a6.png) |
+| <a href="Black-PinchingLeft-69.png"><img src="Black-PinchingLeft-69.png" width="250" alt="Black-PinchingLeft-69.png"></a> | **📂 檔名:** `Black-PinchingLeft-69.png`<br>🖼️ **尺寸:** `1000x1000 px`<br>⚖️ **大小:** `90.47KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Black-PinchingLeft-69.png) |
+| <a href="Black-PinchingRight-ce.png"><img src="Black-PinchingRight-ce.png" width="250" alt="Black-PinchingRight-ce.png"></a> | **📂 檔名:** `Black-PinchingRight-ce.png`<br>🖼️ **尺寸:** `1000x1000 px`<br>⚖️ **大小:** `88.52KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Black-PinchingRight-ce.png) |
+| <a href="Black-PointUp-2e.png"><img src="Black-PointUp-2e.png" width="250" alt="Black-PointUp-2e.png"></a> | **📂 檔名:** `Black-PointUp-2e.png`<br>🖼️ **尺寸:** `1000x1000 px`<br>⚖️ **大小:** `77.93KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Black-PointUp-2e.png) |
+| <a href="Black-PointUpFace-6b.png"><img src="Black-PointUpFace-6b.png" width="250" alt="Black-PointUpFace-6b.png"></a> | **📂 檔名:** `Black-PointUpFace-6b.png`<br>🖼️ **尺寸:** `1000x1000 px`<br>⚖️ **大小:** `89.40KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Black-PointUpFace-6b.png) |
+| <a href="Black-PointingRight-d0.png"><img src="Black-PointingRight-d0.png" width="250" alt="Black-PointingRight-d0.png"></a> | **📂 檔名:** `Black-PointingRight-d0.png`<br>🖼️ **尺寸:** `1000x1000 px`<br>⚖️ **大小:** `76.02KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Black-PointingRight-d0.png) |
+| <a href="Black-Pray-4e.png"><img src="Black-Pray-4e.png" width="250" alt="Black-Pray-4e.png"></a> | **📂 檔名:** `Black-Pray-4e.png`<br>🖼️ **尺寸:** `1000x1000 px`<br>⚖️ **大小:** `93.61KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Black-Pray-4e.png) |
+| <a href="Black-PunchRight-fd.png"><img src="Black-PunchRight-fd.png" width="250" alt="Black-PunchRight-fd.png"></a> | **📂 檔名:** `Black-PunchRight-fd.png`<br>🖼️ **尺寸:** `1000x1000 px`<br>⚖️ **大小:** `53.42KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Black-PunchRight-fd.png) |
+| <a href="Black-RaisedFist-3b.png"><img src="Black-RaisedFist-3b.png" width="250" alt="Black-RaisedFist-3b.png"></a> | **📂 檔名:** `Black-RaisedFist-3b.png`<br>🖼️ **尺寸:** `1000x1000 px`<br>⚖️ **大小:** `80.67KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Black-RaisedFist-3b.png) |
+| <a href="Black-ThumbsDown-0e.png"><img src="Black-ThumbsDown-0e.png" width="250" alt="Black-ThumbsDown-0e.png"></a> | **📂 檔名:** `Black-ThumbsDown-0e.png`<br>🖼️ **尺寸:** `1000x1000 px`<br>⚖️ **大小:** `94.36KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Black-ThumbsDown-0e.png) |
+| <a href="Black-VulcanSalute-cc.png"><img src="Black-VulcanSalute-cc.png" width="250" alt="Black-VulcanSalute-cc.png"></a> | **📂 檔名:** `Black-VulcanSalute-cc.png`<br>🖼️ **尺寸:** `1000x1000 px`<br>⚖️ **大小:** `104.95KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Black-VulcanSalute-cc.png) |
+| <a href="Black-Wave-62.png"><img src="Black-Wave-62.png" width="250" alt="Black-Wave-62.png"></a> | **📂 檔名:** `Black-Wave-62.png`<br>🖼️ **尺寸:** `1000x1000 px`<br>⚖️ **大小:** `152.58KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Black-Wave-62.png) |
+| <a href="Yellow-CallMe-e2.png"><img src="Yellow-CallMe-e2.png" width="250" alt="Yellow-CallMe-e2.png"></a> | **📂 檔名:** `Yellow-CallMe-e2.png`<br>🖼️ **尺寸:** `1000x1000 px`<br>⚖️ **大小:** `86.12KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Yellow-CallMe-e2.png) |
+| <a href="Yellow-Claps-89.png"><img src="Yellow-Claps-89.png" width="250" alt="Yellow-Claps-89.png"></a> | **📂 檔名:** `Yellow-Claps-89.png`<br>🖼️ **尺寸:** `1000x1000 px`<br>⚖️ **大小:** `171.40KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Yellow-Claps-89.png) |
+| <a href="Yellow-Hand-9b.png"><img src="Yellow-Hand-9b.png" width="250" alt="Yellow-Hand-9b.png"></a> | **📂 檔名:** `Yellow-Hand-9b.png`<br>🖼️ **尺寸:** `1000x1000 px`<br>⚖️ **大小:** `116.88KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Yellow-Hand-9b.png) |
+| <a href="Yellow-HandHoldingPencilRight-2e.png"><img src="Yellow-HandHoldingPencilRight-2e.png" width="250" alt="Yellow-HandHoldingPencilRight-2e.png"></a> | **📂 檔名:** `Yellow-HandHoldingPencilRight-2e.png`<br>🖼️ **尺寸:** `1000x1000 px`<br>⚖️ **大小:** `95.96KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Yellow-HandHoldingPencilRight-2e.png) |
+| <a href="Yellow-Horns-86.png"><img src="Yellow-Horns-86.png" width="250" alt="Yellow-Horns-86.png"></a> | **📂 檔名:** `Yellow-Horns-86.png`<br>🖼️ **尺寸:** `1000x1000 px`<br>⚖️ **大小:** `99.95KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Yellow-Horns-86.png) |
+| <a href="Yellow-Love-13.png"><img src="Yellow-Love-13.png" width="250" alt="Yellow-Love-13.png"></a> | **📂 檔名:** `Yellow-Love-13.png`<br>🖼️ **尺寸:** `1000x1000 px`<br>⚖️ **大小:** `106.74KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Yellow-Love-13.png) |
+| <a href="Yellow-OncomingFist-37.png"><img src="Yellow-OncomingFist-37.png" width="250" alt="Yellow-OncomingFist-37.png"></a> | **📂 檔名:** `Yellow-OncomingFist-37.png`<br>🖼️ **尺寸:** `1000x1000 px`<br>⚖️ **大小:** `68.35KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Yellow-OncomingFist-37.png) |
+| <a href="Yellow-PointingDown-e9.png"><img src="Yellow-PointingDown-e9.png" width="250" alt="Yellow-PointingDown-e9.png"></a> | **📂 檔名:** `Yellow-PointingDown-e9.png`<br>🖼️ **尺寸:** `1000x1000 px`<br>⚖️ **大小:** `86.28KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Yellow-PointingDown-e9.png) |
+| <a href="Yellow-PointingLeft-18.png"><img src="Yellow-PointingLeft-18.png" width="250" alt="Yellow-PointingLeft-18.png"></a> | **📂 檔名:** `Yellow-PointingLeft-18.png`<br>🖼️ **尺寸:** `1000x1000 px`<br>⚖️ **大小:** `83.91KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Yellow-PointingLeft-18.png) |
+| <a href="Yellow-PointingRight-32.png"><img src="Yellow-PointingRight-32.png" width="250" alt="Yellow-PointingRight-32.png"></a> | **📂 檔名:** `Yellow-PointingRight-32.png`<br>🖼️ **尺寸:** `1000x1000 px`<br>⚖️ **大小:** `84.29KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Yellow-PointingRight-32.png) |
+| <a href="Yellow-Poke-89.png"><img src="Yellow-Poke-89.png" width="250" alt="Yellow-Poke-89.png"></a> | **📂 檔名:** `Yellow-Poke-89.png`<br>🖼️ **尺寸:** `1000x1000 px`<br>⚖️ **大小:** `64.03KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Yellow-Poke-89.png) |
+| <a href="Yellow-Pray-04.png"><img src="Yellow-Pray-04.png" width="250" alt="Yellow-Pray-04.png"></a> | **📂 檔名:** `Yellow-Pray-04.png`<br>🖼️ **尺寸:** `1000x1000 px`<br>⚖️ **大小:** `97.75KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Yellow-Pray-04.png) |
+| <a href="Yellow-RaisedFist-60.png"><img src="Yellow-RaisedFist-60.png" width="250" alt="Yellow-RaisedFist-60.png"></a> | **📂 檔名:** `Yellow-RaisedFist-60.png`<br>🖼️ **尺寸:** `1000x1000 px`<br>⚖️ **大小:** `89.33KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Yellow-RaisedFist-60.png) |
+| <a href="Yellow-ThumbsDown-df.png"><img src="Yellow-ThumbsDown-df.png" width="250" alt="Yellow-ThumbsDown-df.png"></a> | **📂 檔名:** `Yellow-ThumbsDown-df.png`<br>🖼️ **尺寸:** `1000x1000 px`<br>⚖️ **大小:** `102.95KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Yellow-ThumbsDown-df.png) |
+| <a href="Yellow-Victory-c6.png"><img src="Yellow-Victory-c6.png" width="250" alt="Yellow-Victory-c6.png"></a> | **📂 檔名:** `Yellow-Victory-c6.png`<br>🖼️ **尺寸:** `1000x1000 px`<br>⚖️ **大小:** `104.00KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Yellow-Victory-c6.png) |
+| <a href="Yellow-Wave-72.png"><img src="Yellow-Wave-72.png" width="250" alt="Yellow-Wave-72.png"></a> | **📂 檔名:** `Yellow-Wave-72.png`<br>🖼️ **尺寸:** `1000x1000 px`<br>⚖️ **大小:** `169.31KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Yellow-Wave-72.png) |

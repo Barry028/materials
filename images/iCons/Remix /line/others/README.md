@@ -1,51 +1,53 @@
-# 🖼️ others
+# 🖼️ 素材分類：others
 
-[⬅️ 返回主目錄](../../../../../README.md)
+> [🏠 主目錄](../../../../../README.md) / **others**
 
-| 預覽 | 資訊 |
+本目錄共有 `45` 個檔案
+
+| 🎨 預覽 (點擊放大) | 📋 檔案詳細資訊 |
 | :--- | :--- |
-| <a href="basketball-line.svg"><img src="basketball-line.svg" width="200"></a> | **basketball-line.svg** |
-| <a href="bell-line.svg"><img src="bell-line.svg" width="200"></a> | **bell-line.svg** |
-| <a href="billiards-line.svg"><img src="billiards-line.svg" width="200"></a> | **billiards-line.svg** |
-| <a href="boxing-line.svg"><img src="boxing-line.svg" width="200"></a> | **boxing-line.svg** |
-| <a href="cactus-line.svg"><img src="cactus-line.svg" width="200"></a> | **cactus-line.svg** |
-| <a href="cake-2-line.svg"><img src="cake-2-line.svg" width="200"></a> | **cake-2-line.svg** |
-| <a href="cake-3-line.svg"><img src="cake-3-line.svg" width="200"></a> | **cake-3-line.svg** |
-| <a href="cake-line.svg"><img src="cake-line.svg" width="200"></a> | **cake-line.svg** |
-| <a href="character-recognition-line.svg"><img src="character-recognition-line.svg" width="200"></a> | **character-recognition-line.svg** |
-| <a href="door-closed-line.svg"><img src="door-closed-line.svg" width="200"></a> | **door-closed-line.svg** |
-| <a href="door-line.svg"><img src="door-line.svg" width="200"></a> | **door-line.svg** |
-| <a href="door-lock-box-line.svg"><img src="door-lock-box-line.svg" width="200"></a> | **door-lock-box-line.svg** |
-| <a href="door-lock-line.svg"><img src="door-lock-line.svg" width="200"></a> | **door-lock-line.svg** |
-| <a href="door-open-line.svg"><img src="door-open-line.svg" width="200"></a> | **door-open-line.svg** |
-| <a href="football-line.svg"><img src="football-line.svg" width="200"></a> | **football-line.svg** |
-| <a href="fridge-line.svg"><img src="fridge-line.svg" width="200"></a> | **fridge-line.svg** |
-| <a href="game-line.svg"><img src="game-line.svg" width="200"></a> | **game-line.svg** |
-| <a href="handbag-line.svg"><img src="handbag-line.svg" width="200"></a> | **handbag-line.svg** |
-| <a href="key-2-line.svg"><img src="key-2-line.svg" width="200"></a> | **key-2-line.svg** |
-| <a href="key-line.svg"><img src="key-line.svg" width="200"></a> | **key-line.svg** |
-| <a href="knife-blood-line.svg"><img src="knife-blood-line.svg" width="200"></a> | **knife-blood-line.svg** |
-| <a href="knife-line.svg"><img src="knife-line.svg" width="200"></a> | **knife-line.svg** |
-| <a href="leaf-line.svg"><img src="leaf-line.svg" width="200"></a> | **leaf-line.svg** |
-| <a href="lightbulb-flash-line.svg"><img src="lightbulb-flash-line.svg" width="200"></a> | **lightbulb-flash-line.svg** |
-| <a href="lightbulb-line.svg"><img src="lightbulb-line.svg" width="200"></a> | **lightbulb-line.svg** |
-| <a href="outlet-2-line.svg"><img src="outlet-2-line.svg" width="200"></a> | **outlet-2-line.svg** |
-| <a href="outlet-line.svg"><img src="outlet-line.svg" width="200"></a> | **outlet-line.svg** |
-| <a href="ping-pong-line.svg"><img src="ping-pong-line.svg" width="200"></a> | **ping-pong-line.svg** |
-| <a href="plant-line.svg"><img src="plant-line.svg" width="200"></a> | **plant-line.svg** |
-| <a href="plug-2-line.svg"><img src="plug-2-line.svg" width="200"></a> | **plug-2-line.svg** |
-| <a href="plug-line.svg"><img src="plug-line.svg" width="200"></a> | **plug-line.svg** |
-| <a href="recycle-line.svg"><img src="recycle-line.svg" width="200"></a> | **recycle-line.svg** |
-| <a href="reserved-line.svg"><img src="reserved-line.svg" width="200"></a> | **reserved-line.svg** |
-| <a href="scales-2-line.svg"><img src="scales-2-line.svg" width="200"></a> | **scales-2-line.svg** |
-| <a href="scales-3-line.svg"><img src="scales-3-line.svg" width="200"></a> | **scales-3-line.svg** |
-| <a href="scales-line.svg"><img src="scales-line.svg" width="200"></a> | **scales-line.svg** |
-| <a href="seedling-line.svg"><img src="seedling-line.svg" width="200"></a> | **seedling-line.svg** |
-| <a href="shirt-line.svg"><img src="shirt-line.svg" width="200"></a> | **shirt-line.svg** |
-| <a href="sword-line.svg"><img src="sword-line.svg" width="200"></a> | **sword-line.svg** |
-| <a href="t-shirt-2-line.svg"><img src="t-shirt-2-line.svg" width="200"></a> | **t-shirt-2-line.svg** |
-| <a href="t-shirt-air-line.svg"><img src="t-shirt-air-line.svg" width="200"></a> | **t-shirt-air-line.svg** |
-| <a href="t-shirt-line.svg"><img src="t-shirt-line.svg" width="200"></a> | **t-shirt-line.svg** |
-| <a href="umbrella-line.svg"><img src="umbrella-line.svg" width="200"></a> | **umbrella-line.svg** |
-| <a href="voice-recognition-line.svg"><img src="voice-recognition-line.svg" width="200"></a> | **voice-recognition-line.svg** |
-| <a href="wheelchair-line.svg"><img src="wheelchair-line.svg" width="200"></a> | **wheelchair-line.svg** |
+| <a href="basketball-line.svg"><img src="basketball-line.svg" width="250" alt="basketball-line.svg"></a> | **📂 檔名:** `basketball-line.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.40KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](basketball-line.svg) |
+| <a href="bell-line.svg"><img src="bell-line.svg" width="250" alt="bell-line.svg"></a> | **📂 檔名:** `bell-line.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `2.26KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](bell-line.svg) |
+| <a href="billiards-line.svg"><img src="billiards-line.svg" width="250" alt="billiards-line.svg"></a> | **📂 檔名:** `billiards-line.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.94KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](billiards-line.svg) |
+| <a href="boxing-line.svg"><img src="boxing-line.svg" width="250" alt="boxing-line.svg"></a> | **📂 檔名:** `boxing-line.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.66KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](boxing-line.svg) |
+| <a href="cactus-line.svg"><img src="cactus-line.svg" width="250" alt="cactus-line.svg"></a> | **📂 檔名:** `cactus-line.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `599.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](cactus-line.svg) |
+| <a href="cake-2-line.svg"><img src="cake-2-line.svg" width="250" alt="cake-2-line.svg"></a> | **📂 檔名:** `cake-2-line.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `2.78KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](cake-2-line.svg) |
+| <a href="cake-3-line.svg"><img src="cake-3-line.svg" width="250" alt="cake-3-line.svg"></a> | **📂 檔名:** `cake-3-line.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `2.74KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](cake-3-line.svg) |
+| <a href="cake-line.svg"><img src="cake-line.svg" width="250" alt="cake-line.svg"></a> | **📂 檔名:** `cake-line.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `719.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](cake-line.svg) |
+| <a href="character-recognition-line.svg"><img src="character-recognition-line.svg" width="250" alt="character-recognition-line.svg"></a> | **📂 檔名:** `character-recognition-line.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `471.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](character-recognition-line.svg) |
+| <a href="door-closed-line.svg"><img src="door-closed-line.svg" width="250" alt="door-closed-line.svg"></a> | **📂 檔名:** `door-closed-line.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `376.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](door-closed-line.svg) |
+| <a href="door-line.svg"><img src="door-line.svg" width="250" alt="door-line.svg"></a> | **📂 檔名:** `door-line.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `414.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](door-line.svg) |
+| <a href="door-lock-box-line.svg"><img src="door-lock-box-line.svg" width="250" alt="door-lock-box-line.svg"></a> | **📂 檔名:** `door-lock-box-line.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `990.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](door-lock-box-line.svg) |
+| <a href="door-lock-line.svg"><img src="door-lock-line.svg" width="250" alt="door-lock-line.svg"></a> | **📂 檔名:** `door-lock-line.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.04KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](door-lock-line.svg) |
+| <a href="door-open-line.svg"><img src="door-open-line.svg" width="250" alt="door-open-line.svg"></a> | **📂 檔名:** `door-open-line.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `563.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](door-open-line.svg) |
+| <a href="football-line.svg"><img src="football-line.svg" width="250" alt="football-line.svg"></a> | **📂 檔名:** `football-line.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.01KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](football-line.svg) |
+| <a href="fridge-line.svg"><img src="fridge-line.svg" width="250" alt="fridge-line.svg"></a> | **📂 檔名:** `fridge-line.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `446.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](fridge-line.svg) |
+| <a href="game-line.svg"><img src="game-line.svg" width="250" alt="game-line.svg"></a> | **📂 檔名:** `game-line.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.38KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](game-line.svg) |
+| <a href="handbag-line.svg"><img src="handbag-line.svg" width="250" alt="handbag-line.svg"></a> | **📂 檔名:** `handbag-line.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.16KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](handbag-line.svg) |
+| <a href="key-2-line.svg"><img src="key-2-line.svg" width="250" alt="key-2-line.svg"></a> | **📂 檔名:** `key-2-line.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.37KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](key-2-line.svg) |
+| <a href="key-line.svg"><img src="key-line.svg" width="250" alt="key-line.svg"></a> | **📂 檔名:** `key-line.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1000.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](key-line.svg) |
+| <a href="knife-blood-line.svg"><img src="knife-blood-line.svg" width="250" alt="knife-blood-line.svg"></a> | **📂 檔名:** `knife-blood-line.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.34KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](knife-blood-line.svg) |
+| <a href="knife-line.svg"><img src="knife-line.svg" width="250" alt="knife-line.svg"></a> | **📂 檔名:** `knife-line.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `836.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](knife-line.svg) |
+| <a href="leaf-line.svg"><img src="leaf-line.svg" width="250" alt="leaf-line.svg"></a> | **📂 檔名:** `leaf-line.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `683.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](leaf-line.svg) |
+| <a href="lightbulb-flash-line.svg"><img src="lightbulb-flash-line.svg" width="250" alt="lightbulb-flash-line.svg"></a> | **📂 檔名:** `lightbulb-flash-line.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.52KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](lightbulb-flash-line.svg) |
+| <a href="lightbulb-line.svg"><img src="lightbulb-line.svg" width="250" alt="lightbulb-line.svg"></a> | **📂 檔名:** `lightbulb-line.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.47KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](lightbulb-line.svg) |
+| <a href="outlet-2-line.svg"><img src="outlet-2-line.svg" width="250" alt="outlet-2-line.svg"></a> | **📂 檔名:** `outlet-2-line.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `730.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](outlet-2-line.svg) |
+| <a href="outlet-line.svg"><img src="outlet-line.svg" width="250" alt="outlet-line.svg"></a> | **📂 檔名:** `outlet-line.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `713.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](outlet-line.svg) |
+| <a href="ping-pong-line.svg"><img src="ping-pong-line.svg" width="250" alt="ping-pong-line.svg"></a> | **📂 檔名:** `ping-pong-line.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.55KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](ping-pong-line.svg) |
+| <a href="plant-line.svg"><img src="plant-line.svg" width="250" alt="plant-line.svg"></a> | **📂 檔名:** `plant-line.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `609.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](plant-line.svg) |
+| <a href="plug-2-line.svg"><img src="plug-2-line.svg" width="250" alt="plug-2-line.svg"></a> | **📂 檔名:** `plug-2-line.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.19KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](plug-2-line.svg) |
+| <a href="plug-line.svg"><img src="plug-line.svg" width="250" alt="plug-line.svg"></a> | **📂 檔名:** `plug-line.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.18KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](plug-line.svg) |
+| <a href="recycle-line.svg"><img src="recycle-line.svg" width="250" alt="recycle-line.svg"></a> | **📂 檔名:** `recycle-line.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.12KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](recycle-line.svg) |
+| <a href="reserved-line.svg"><img src="reserved-line.svg" width="250" alt="reserved-line.svg"></a> | **📂 檔名:** `reserved-line.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `638.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](reserved-line.svg) |
+| <a href="scales-2-line.svg"><img src="scales-2-line.svg" width="250" alt="scales-2-line.svg"></a> | **📂 檔名:** `scales-2-line.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `828.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](scales-2-line.svg) |
+| <a href="scales-3-line.svg"><img src="scales-3-line.svg" width="250" alt="scales-3-line.svg"></a> | **📂 檔名:** `scales-3-line.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `920.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](scales-3-line.svg) |
+| <a href="scales-line.svg"><img src="scales-line.svg" width="250" alt="scales-line.svg"></a> | **📂 檔名:** `scales-line.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `876.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](scales-line.svg) |
+| <a href="seedling-line.svg"><img src="seedling-line.svg" width="250" alt="seedling-line.svg"></a> | **📂 檔名:** `seedling-line.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `542.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](seedling-line.svg) |
+| <a href="shirt-line.svg"><img src="shirt-line.svg" width="250" alt="shirt-line.svg"></a> | **📂 檔名:** `shirt-line.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `679.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](shirt-line.svg) |
+| <a href="sword-line.svg"><img src="sword-line.svg" width="250" alt="sword-line.svg"></a> | **📂 檔名:** `sword-line.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `927.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](sword-line.svg) |
+| <a href="t-shirt-2-line.svg"><img src="t-shirt-2-line.svg" width="250" alt="t-shirt-2-line.svg"></a> | **📂 檔名:** `t-shirt-2-line.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.16KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](t-shirt-2-line.svg) |
+| <a href="t-shirt-air-line.svg"><img src="t-shirt-air-line.svg" width="250" alt="t-shirt-air-line.svg"></a> | **📂 檔名:** `t-shirt-air-line.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.77KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](t-shirt-air-line.svg) |
+| <a href="t-shirt-line.svg"><img src="t-shirt-line.svg" width="250" alt="t-shirt-line.svg"></a> | **📂 檔名:** `t-shirt-line.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.22KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](t-shirt-line.svg) |
+| <a href="umbrella-line.svg"><img src="umbrella-line.svg" width="250" alt="umbrella-line.svg"></a> | **📂 檔名:** `umbrella-line.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1016.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](umbrella-line.svg) |
+| <a href="voice-recognition-line.svg"><img src="voice-recognition-line.svg" width="250" alt="voice-recognition-line.svg"></a> | **📂 檔名:** `voice-recognition-line.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `403.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](voice-recognition-line.svg) |
+| <a href="wheelchair-line.svg"><img src="wheelchair-line.svg" width="250" alt="wheelchair-line.svg"></a> | **📂 檔名:** `wheelchair-line.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `972.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](wheelchair-line.svg) |

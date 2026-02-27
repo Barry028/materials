@@ -1,26 +1,28 @@
-# 🖼️ Shapes 
+# 🖼️ 素材分類：Shapes 
 
-[⬅️ 返回主目錄](../../../README.md)
+> [🏠 主目錄](../../../README.md) / **Shapes **
 
-| 預覽 | 資訊 |
+本目錄共有 `20` 個檔案
+
+| 🎨 預覽 (點擊放大) | 📋 檔案詳細資訊 |
 | :--- | :--- |
-| <a href="shapes-1771676455275.svg"><img src="shapes-1771676455275.svg" width="200"></a> | **shapes-1771676455275.svg** |
-| <a href="shapes-1771676456368.svg"><img src="shapes-1771676456368.svg" width="200"></a> | **shapes-1771676456368.svg** |
-| <a href="shapes-1771676457435.svg"><img src="shapes-1771676457435.svg" width="200"></a> | **shapes-1771676457435.svg** |
-| <a href="shapes-1771676458762.svg"><img src="shapes-1771676458762.svg" width="200"></a> | **shapes-1771676458762.svg** |
-| <a href="shapes-1771676460605.svg"><img src="shapes-1771676460605.svg" width="200"></a> | **shapes-1771676460605.svg** |
-| <a href="shapes-1771676461428.svg"><img src="shapes-1771676461428.svg" width="200"></a> | **shapes-1771676461428.svg** |
-| <a href="shapes-1771676463979.svg"><img src="shapes-1771676463979.svg" width="200"></a> | **shapes-1771676463979.svg** |
-| <a href="shapes-1771676465055.svg"><img src="shapes-1771676465055.svg" width="200"></a> | **shapes-1771676465055.svg** |
-| <a href="shapes-1771676466511.svg"><img src="shapes-1771676466511.svg" width="200"></a> | **shapes-1771676466511.svg** |
-| <a href="shapes-1771676467975.svg"><img src="shapes-1771676467975.svg" width="200"></a> | **shapes-1771676467975.svg** |
-| <a href="shapes-1771676469511.svg"><img src="shapes-1771676469511.svg" width="200"></a> | **shapes-1771676469511.svg** |
-| <a href="shapes-1771676470742.svg"><img src="shapes-1771676470742.svg" width="200"></a> | **shapes-1771676470742.svg** |
-| <a href="shapes-1771676473091.svg"><img src="shapes-1771676473091.svg" width="200"></a> | **shapes-1771676473091.svg** |
-| <a href="shapes-1771676474225.svg"><img src="shapes-1771676474225.svg" width="200"></a> | **shapes-1771676474225.svg** |
-| <a href="shapes-1771676475247.svg"><img src="shapes-1771676475247.svg" width="200"></a> | **shapes-1771676475247.svg** |
-| <a href="shapes-1771676476272.svg"><img src="shapes-1771676476272.svg" width="200"></a> | **shapes-1771676476272.svg** |
-| <a href="shapes-1771676478635.svg"><img src="shapes-1771676478635.svg" width="200"></a> | **shapes-1771676478635.svg** |
-| <a href="shapes-1771676480188.svg"><img src="shapes-1771676480188.svg" width="200"></a> | **shapes-1771676480188.svg** |
-| <a href="shapes-1771676481474.svg"><img src="shapes-1771676481474.svg" width="200"></a> | **shapes-1771676481474.svg** |
-| <a href="shapes-1771676483131.svg"><img src="shapes-1771676483131.svg" width="200"></a> | **shapes-1771676483131.svg** |
+| <a href="shapes-1771676455275.svg"><img src="shapes-1771676455275.svg" width="250" alt="shapes-1771676455275.svg"></a> | **📂 檔名:** `shapes-1771676455275.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.39KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](shapes-1771676455275.svg) |
+| <a href="shapes-1771676456368.svg"><img src="shapes-1771676456368.svg" width="250" alt="shapes-1771676456368.svg"></a> | **📂 檔名:** `shapes-1771676456368.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.44KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](shapes-1771676456368.svg) |
+| <a href="shapes-1771676457435.svg"><img src="shapes-1771676457435.svg" width="250" alt="shapes-1771676457435.svg"></a> | **📂 檔名:** `shapes-1771676457435.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.45KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](shapes-1771676457435.svg) |
+| <a href="shapes-1771676458762.svg"><img src="shapes-1771676458762.svg" width="250" alt="shapes-1771676458762.svg"></a> | **📂 檔名:** `shapes-1771676458762.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.48KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](shapes-1771676458762.svg) |
+| <a href="shapes-1771676460605.svg"><img src="shapes-1771676460605.svg" width="250" alt="shapes-1771676460605.svg"></a> | **📂 檔名:** `shapes-1771676460605.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.46KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](shapes-1771676460605.svg) |
+| <a href="shapes-1771676461428.svg"><img src="shapes-1771676461428.svg" width="250" alt="shapes-1771676461428.svg"></a> | **📂 檔名:** `shapes-1771676461428.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.42KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](shapes-1771676461428.svg) |
+| <a href="shapes-1771676463979.svg"><img src="shapes-1771676463979.svg" width="250" alt="shapes-1771676463979.svg"></a> | **📂 檔名:** `shapes-1771676463979.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.45KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](shapes-1771676463979.svg) |
+| <a href="shapes-1771676465055.svg"><img src="shapes-1771676465055.svg" width="250" alt="shapes-1771676465055.svg"></a> | **📂 檔名:** `shapes-1771676465055.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.37KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](shapes-1771676465055.svg) |
+| <a href="shapes-1771676466511.svg"><img src="shapes-1771676466511.svg" width="250" alt="shapes-1771676466511.svg"></a> | **📂 檔名:** `shapes-1771676466511.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.39KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](shapes-1771676466511.svg) |
+| <a href="shapes-1771676467975.svg"><img src="shapes-1771676467975.svg" width="250" alt="shapes-1771676467975.svg"></a> | **📂 檔名:** `shapes-1771676467975.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.37KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](shapes-1771676467975.svg) |
+| <a href="shapes-1771676469511.svg"><img src="shapes-1771676469511.svg" width="250" alt="shapes-1771676469511.svg"></a> | **📂 檔名:** `shapes-1771676469511.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.40KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](shapes-1771676469511.svg) |
+| <a href="shapes-1771676470742.svg"><img src="shapes-1771676470742.svg" width="250" alt="shapes-1771676470742.svg"></a> | **📂 檔名:** `shapes-1771676470742.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.47KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](shapes-1771676470742.svg) |
+| <a href="shapes-1771676473091.svg"><img src="shapes-1771676473091.svg" width="250" alt="shapes-1771676473091.svg"></a> | **📂 檔名:** `shapes-1771676473091.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.44KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](shapes-1771676473091.svg) |
+| <a href="shapes-1771676474225.svg"><img src="shapes-1771676474225.svg" width="250" alt="shapes-1771676474225.svg"></a> | **📂 檔名:** `shapes-1771676474225.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.43KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](shapes-1771676474225.svg) |
+| <a href="shapes-1771676475247.svg"><img src="shapes-1771676475247.svg" width="250" alt="shapes-1771676475247.svg"></a> | **📂 檔名:** `shapes-1771676475247.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.37KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](shapes-1771676475247.svg) |
+| <a href="shapes-1771676476272.svg"><img src="shapes-1771676476272.svg" width="250" alt="shapes-1771676476272.svg"></a> | **📂 檔名:** `shapes-1771676476272.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.52KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](shapes-1771676476272.svg) |
+| <a href="shapes-1771676478635.svg"><img src="shapes-1771676478635.svg" width="250" alt="shapes-1771676478635.svg"></a> | **📂 檔名:** `shapes-1771676478635.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.37KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](shapes-1771676478635.svg) |
+| <a href="shapes-1771676480188.svg"><img src="shapes-1771676480188.svg" width="250" alt="shapes-1771676480188.svg"></a> | **📂 檔名:** `shapes-1771676480188.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.42KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](shapes-1771676480188.svg) |
+| <a href="shapes-1771676481474.svg"><img src="shapes-1771676481474.svg" width="250" alt="shapes-1771676481474.svg"></a> | **📂 檔名:** `shapes-1771676481474.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.37KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](shapes-1771676481474.svg) |
+| <a href="shapes-1771676483131.svg"><img src="shapes-1771676483131.svg" width="250" alt="shapes-1771676483131.svg"></a> | **📂 檔名:** `shapes-1771676483131.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.43KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](shapes-1771676483131.svg) |

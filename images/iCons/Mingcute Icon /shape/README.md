@@ -1,26 +1,28 @@
-# 🖼️ shape
+# 🖼️ 素材分類：shape
 
-[⬅️ 返回主目錄](../../../../README.md)
+> [🏠 主目錄](../../../../README.md) / **shape**
 
-| 預覽 | 資訊 |
+本目錄共有 `20` 個檔案
+
+| 🎨 預覽 (點擊放大) | 📋 檔案詳細資訊 |
 | :--- | :--- |
-| <a href="diamond_fill.svg"><img src="diamond_fill.svg" width="200"></a> | **diamond_fill.svg** |
-| <a href="diamond_line.svg"><img src="diamond_line.svg" width="200"></a> | **diamond_line.svg** |
-| <a href="heart_fill.svg"><img src="heart_fill.svg" width="200"></a> | **heart_fill.svg** |
-| <a href="heart_line.svg"><img src="heart_line.svg" width="200"></a> | **heart_line.svg** |
-| <a href="hexagon_fill.svg"><img src="hexagon_fill.svg" width="200"></a> | **hexagon_fill.svg** |
-| <a href="hexagon_line.svg"><img src="hexagon_line.svg" width="200"></a> | **hexagon_line.svg** |
-| <a href="octagon_fill.svg"><img src="octagon_fill.svg" width="200"></a> | **octagon_fill.svg** |
-| <a href="octagon_line.svg"><img src="octagon_line.svg" width="200"></a> | **octagon_line.svg** |
-| <a href="pentagon_fill.svg"><img src="pentagon_fill.svg" width="200"></a> | **pentagon_fill.svg** |
-| <a href="pentagon_line.svg"><img src="pentagon_line.svg" width="200"></a> | **pentagon_line.svg** |
-| <a href="round_fill.svg"><img src="round_fill.svg" width="200"></a> | **round_fill.svg** |
-| <a href="round_line.svg"><img src="round_line.svg" width="200"></a> | **round_line.svg** |
-| <a href="shield_shape_fill.svg"><img src="shield_shape_fill.svg" width="200"></a> | **shield_shape_fill.svg** |
-| <a href="shield_shape_line.svg"><img src="shield_shape_line.svg" width="200"></a> | **shield_shape_line.svg** |
-| <a href="square_fill.svg"><img src="square_fill.svg" width="200"></a> | **square_fill.svg** |
-| <a href="square_line.svg"><img src="square_line.svg" width="200"></a> | **square_line.svg** |
-| <a href="star_fill.svg"><img src="star_fill.svg" width="200"></a> | **star_fill.svg** |
-| <a href="star_line.svg"><img src="star_line.svg" width="200"></a> | **star_line.svg** |
-| <a href="triangle_fill.svg"><img src="triangle_fill.svg" width="200"></a> | **triangle_fill.svg** |
-| <a href="triangle_line.svg"><img src="triangle_line.svg" width="200"></a> | **triangle_line.svg** |
+| <a href="diamond_fill.svg"><img src="diamond_fill.svg" width="250" alt="diamond_fill.svg"></a> | **📂 檔名:** `diamond_fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `15.76KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](diamond_fill.svg) |
+| <a href="diamond_line.svg"><img src="diamond_line.svg" width="250" alt="diamond_line.svg"></a> | **📂 檔名:** `diamond_line.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `16.09KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](diamond_line.svg) |
+| <a href="heart_fill.svg"><img src="heart_fill.svg" width="250" alt="heart_fill.svg"></a> | **📂 檔名:** `heart_fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `3.27KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](heart_fill.svg) |
+| <a href="heart_line.svg"><img src="heart_line.svg" width="250" alt="heart_line.svg"></a> | **📂 檔名:** `heart_line.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `4.07KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](heart_line.svg) |
+| <a href="hexagon_fill.svg"><img src="hexagon_fill.svg" width="250" alt="hexagon_fill.svg"></a> | **📂 檔名:** `hexagon_fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.25KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](hexagon_fill.svg) |
+| <a href="hexagon_line.svg"><img src="hexagon_line.svg" width="250" alt="hexagon_line.svg"></a> | **📂 檔名:** `hexagon_line.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.67KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](hexagon_line.svg) |
+| <a href="octagon_fill.svg"><img src="octagon_fill.svg" width="250" alt="octagon_fill.svg"></a> | **📂 檔名:** `octagon_fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `15.15KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](octagon_fill.svg) |
+| <a href="octagon_line.svg"><img src="octagon_line.svg" width="250" alt="octagon_line.svg"></a> | **📂 檔名:** `octagon_line.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `15.44KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](octagon_line.svg) |
+| <a href="pentagon_fill.svg"><img src="pentagon_fill.svg" width="250" alt="pentagon_fill.svg"></a> | **📂 檔名:** `pentagon_fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.24KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](pentagon_fill.svg) |
+| <a href="pentagon_line.svg"><img src="pentagon_line.svg" width="250" alt="pentagon_line.svg"></a> | **📂 檔名:** `pentagon_line.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.33KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](pentagon_line.svg) |
+| <a href="round_fill.svg"><img src="round_fill.svg" width="250" alt="round_fill.svg"></a> | **📂 檔名:** `round_fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.13KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](round_fill.svg) |
+| <a href="round_line.svg"><img src="round_line.svg" width="250" alt="round_line.svg"></a> | **📂 檔名:** `round_line.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.33KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](round_line.svg) |
+| <a href="shield_shape_fill.svg"><img src="shield_shape_fill.svg" width="250" alt="shield_shape_fill.svg"></a> | **📂 檔名:** `shield_shape_fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.30KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](shield_shape_fill.svg) |
+| <a href="shield_shape_line.svg"><img src="shield_shape_line.svg" width="250" alt="shield_shape_line.svg"></a> | **📂 檔名:** `shield_shape_line.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.49KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](shield_shape_line.svg) |
+| <a href="square_fill.svg"><img src="square_fill.svg" width="250" alt="square_fill.svg"></a> | **📂 檔名:** `square_fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.16KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](square_fill.svg) |
+| <a href="square_line.svg"><img src="square_line.svg" width="250" alt="square_line.svg"></a> | **📂 檔名:** `square_line.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.21KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](square_line.svg) |
+| <a href="star_fill.svg"><img src="star_fill.svg" width="250" alt="star_fill.svg"></a> | **📂 檔名:** `star_fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.29KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](star_fill.svg) |
+| <a href="star_line.svg"><img src="star_line.svg" width="250" alt="star_line.svg"></a> | **📂 檔名:** `star_line.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.73KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](star_line.svg) |
+| <a href="triangle_fill.svg"><img src="triangle_fill.svg" width="250" alt="triangle_fill.svg"></a> | **📂 檔名:** `triangle_fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.12KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](triangle_fill.svg) |
+| <a href="triangle_line.svg"><img src="triangle_line.svg" width="250" alt="triangle_line.svg"></a> | **📂 檔名:** `triangle_line.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.18KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](triangle_line.svg) |

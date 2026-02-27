@@ -1,29 +1,31 @@
-# 🖼️ development
+# 🖼️ 素材分類：development
 
-[⬅️ 返回主目錄](../../../../../README.md)
+> [🏠 主目錄](../../../../../README.md) / **development**
 
-| 預覽 | 資訊 |
+本目錄共有 `23` 個檔案
+
+| 🎨 預覽 (點擊放大) | 📋 檔案詳細資訊 |
 | :--- | :--- |
-| <a href="braces-fill.svg"><img src="braces-fill.svg" width="200"></a> | **braces-fill.svg** |
-| <a href="brackets-fill.svg"><img src="brackets-fill.svg" width="200"></a> | **brackets-fill.svg** |
-| <a href="bug-2-fill.svg"><img src="bug-2-fill.svg" width="200"></a> | **bug-2-fill.svg** |
-| <a href="bug-fill.svg"><img src="bug-fill.svg" width="200"></a> | **bug-fill.svg** |
-| <a href="code-box-fill.svg"><img src="code-box-fill.svg" width="200"></a> | **code-box-fill.svg** |
-| <a href="code-fill.svg"><img src="code-fill.svg" width="200"></a> | **code-fill.svg** |
-| <a href="code-s-fill.svg"><img src="code-s-fill.svg" width="200"></a> | **code-s-fill.svg** |
-| <a href="code-s-slash-fill.svg"><img src="code-s-slash-fill.svg" width="200"></a> | **code-s-slash-fill.svg** |
-| <a href="command-fill.svg"><img src="command-fill.svg" width="200"></a> | **command-fill.svg** |
-| <a href="css3-fill.svg"><img src="css3-fill.svg" width="200"></a> | **css3-fill.svg** |
-| <a href="cursor-fill.svg"><img src="cursor-fill.svg" width="200"></a> | **cursor-fill.svg** |
-| <a href="git-branch-fill.svg"><img src="git-branch-fill.svg" width="200"></a> | **git-branch-fill.svg** |
-| <a href="git-commit-fill.svg"><img src="git-commit-fill.svg" width="200"></a> | **git-commit-fill.svg** |
-| <a href="git-merge-fill.svg"><img src="git-merge-fill.svg" width="200"></a> | **git-merge-fill.svg** |
-| <a href="git-pull-request-fill.svg"><img src="git-pull-request-fill.svg" width="200"></a> | **git-pull-request-fill.svg** |
-| <a href="git-repository-commits-fill.svg"><img src="git-repository-commits-fill.svg" width="200"></a> | **git-repository-commits-fill.svg** |
-| <a href="git-repository-fill.svg"><img src="git-repository-fill.svg" width="200"></a> | **git-repository-fill.svg** |
-| <a href="git-repository-private-fill.svg"><img src="git-repository-private-fill.svg" width="200"></a> | **git-repository-private-fill.svg** |
-| <a href="html5-fill.svg"><img src="html5-fill.svg" width="200"></a> | **html5-fill.svg** |
-| <a href="parentheses-fill.svg"><img src="parentheses-fill.svg" width="200"></a> | **parentheses-fill.svg** |
-| <a href="terminal-box-fill.svg"><img src="terminal-box-fill.svg" width="200"></a> | **terminal-box-fill.svg** |
-| <a href="terminal-fill.svg"><img src="terminal-fill.svg" width="200"></a> | **terminal-fill.svg** |
-| <a href="terminal-window-fill.svg"><img src="terminal-window-fill.svg" width="200"></a> | **terminal-window-fill.svg** |
+| <a href="braces-fill.svg"><img src="braces-fill.svg" width="250" alt="braces-fill.svg"></a> | **📂 檔名:** `braces-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.68KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](braces-fill.svg) |
+| <a href="brackets-fill.svg"><img src="brackets-fill.svg" width="250" alt="brackets-fill.svg"></a> | **📂 檔名:** `brackets-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `324.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](brackets-fill.svg) |
+| <a href="bug-2-fill.svg"><img src="bug-2-fill.svg" width="250" alt="bug-2-fill.svg"></a> | **📂 檔名:** `bug-2-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `926.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](bug-2-fill.svg) |
+| <a href="bug-fill.svg"><img src="bug-fill.svg" width="250" alt="bug-fill.svg"></a> | **📂 檔名:** `bug-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `934.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](bug-fill.svg) |
+| <a href="code-box-fill.svg"><img src="code-box-fill.svg" width="250" alt="code-box-fill.svg"></a> | **📂 檔名:** `code-box-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `780.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](code-box-fill.svg) |
+| <a href="code-fill.svg"><img src="code-fill.svg" width="250" alt="code-fill.svg"></a> | **📂 檔名:** `code-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `432.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](code-fill.svg) |
+| <a href="code-s-fill.svg"><img src="code-s-fill.svg" width="250" alt="code-s-fill.svg"></a> | **📂 檔名:** `code-s-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `431.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](code-s-fill.svg) |
+| <a href="code-s-slash-fill.svg"><img src="code-s-slash-fill.svg" width="250" alt="code-s-slash-fill.svg"></a> | **📂 檔名:** `code-s-slash-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `462.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](code-s-slash-fill.svg) |
+| <a href="command-fill.svg"><img src="command-fill.svg" width="250" alt="command-fill.svg"></a> | **📂 檔名:** `command-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `3.20KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](command-fill.svg) |
+| <a href="css3-fill.svg"><img src="css3-fill.svg" width="250" alt="css3-fill.svg"></a> | **📂 檔名:** `css3-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `487.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](css3-fill.svg) |
+| <a href="cursor-fill.svg"><img src="cursor-fill.svg" width="250" alt="cursor-fill.svg"></a> | **📂 檔名:** `cursor-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `377.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](cursor-fill.svg) |
+| <a href="git-branch-fill.svg"><img src="git-branch-fill.svg" width="250" alt="git-branch-fill.svg"></a> | **📂 檔名:** `git-branch-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.72KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](git-branch-fill.svg) |
+| <a href="git-commit-fill.svg"><img src="git-commit-fill.svg" width="250" alt="git-commit-fill.svg"></a> | **📂 檔名:** `git-commit-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `664.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](git-commit-fill.svg) |
+| <a href="git-merge-fill.svg"><img src="git-merge-fill.svg" width="250" alt="git-merge-fill.svg"></a> | **📂 檔名:** `git-merge-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.71KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](git-merge-fill.svg) |
+| <a href="git-pull-request-fill.svg"><img src="git-pull-request-fill.svg" width="250" alt="git-pull-request-fill.svg"></a> | **📂 檔名:** `git-pull-request-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.49KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](git-pull-request-fill.svg) |
+| <a href="git-repository-commits-fill.svg"><img src="git-repository-commits-fill.svg" width="250" alt="git-repository-commits-fill.svg"></a> | **📂 檔名:** `git-repository-commits-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `842.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](git-repository-commits-fill.svg) |
+| <a href="git-repository-fill.svg"><img src="git-repository-fill.svg" width="250" alt="git-repository-fill.svg"></a> | **📂 檔名:** `git-repository-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `835.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](git-repository-fill.svg) |
+| <a href="git-repository-private-fill.svg"><img src="git-repository-private-fill.svg" width="250" alt="git-repository-private-fill.svg"></a> | **📂 檔名:** `git-repository-private-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `943.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](git-repository-private-fill.svg) |
+| <a href="html5-fill.svg"><img src="html5-fill.svg" width="250" alt="html5-fill.svg"></a> | **📂 檔名:** `html5-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `487.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](html5-fill.svg) |
+| <a href="parentheses-fill.svg"><img src="parentheses-fill.svg" width="250" alt="parentheses-fill.svg"></a> | **📂 檔名:** `parentheses-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `582.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](parentheses-fill.svg) |
+| <a href="terminal-box-fill.svg"><img src="terminal-box-fill.svg" width="250" alt="terminal-box-fill.svg"></a> | **📂 檔名:** `terminal-box-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `674.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](terminal-box-fill.svg) |
+| <a href="terminal-fill.svg"><img src="terminal-fill.svg" width="250" alt="terminal-fill.svg"></a> | **📂 檔名:** `terminal-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `403.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](terminal-fill.svg) |
+| <a href="terminal-window-fill.svg"><img src="terminal-window-fill.svg" width="250" alt="terminal-window-fill.svg"></a> | **📂 檔名:** `terminal-window-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `645.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](terminal-window-fill.svg) |

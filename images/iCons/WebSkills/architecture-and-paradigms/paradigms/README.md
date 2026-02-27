@@ -1,14 +1,16 @@
-# 🖼️ paradigms
+# 🖼️ 素材分類：paradigms
 
-[⬅️ 返回主目錄](../../../../../README.md)
+> [🏠 主目錄](../../../../../README.md) / **paradigms**
 
-| 預覽 | 資訊 |
+本目錄共有 `8` 個檔案
+
+| 🎨 預覽 (點擊放大) | 📋 檔案詳細資訊 |
 | :--- | :--- |
-| <a href="currying.svg"><img src="currying.svg" width="200"></a> | **currying.svg** |
-| <a href="functional-programming.svg"><img src="functional-programming.svg" width="200"></a> | **functional-programming.svg** |
-| <a href="higher-order-functions.svg"><img src="higher-order-functions.svg" width="200"></a> | **higher-order-functions.svg** |
-| <a href="monads.svg"><img src="monads.svg" width="200"></a> | **monads.svg** |
-| <a href="object-oriented-programming.svg"><img src="object-oriented-programming.svg" width="200"></a> | **object-oriented-programming.svg** |
-| <a href="programming-paradigms.svg"><img src="programming-paradigms.svg" width="200"></a> | **programming-paradigms.svg** |
-| <a href="recursion.svg"><img src="recursion.svg" width="200"></a> | **recursion.svg** |
-| <a href="solid.svg"><img src="solid.svg" width="200"></a> | **solid.svg** |
+| <a href="currying.svg"><img src="currying.svg" width="250" alt="currying.svg"></a> | **📂 檔名:** `currying.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `21.96KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](currying.svg) |
+| <a href="functional-programming.svg"><img src="functional-programming.svg" width="250" alt="functional-programming.svg"></a> | **📂 檔名:** `functional-programming.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `9.21KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](functional-programming.svg) |
+| <a href="higher-order-functions.svg"><img src="higher-order-functions.svg" width="250" alt="higher-order-functions.svg"></a> | **📂 檔名:** `higher-order-functions.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `4.13KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](higher-order-functions.svg) |
+| <a href="monads.svg"><img src="monads.svg" width="250" alt="monads.svg"></a> | **📂 檔名:** `monads.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `8.62KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](monads.svg) |
+| <a href="object-oriented-programming.svg"><img src="object-oriented-programming.svg" width="250" alt="object-oriented-programming.svg"></a> | **📂 檔名:** `object-oriented-programming.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `5.63KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](object-oriented-programming.svg) |
+| <a href="programming-paradigms.svg"><img src="programming-paradigms.svg" width="250" alt="programming-paradigms.svg"></a> | **📂 檔名:** `programming-paradigms.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `8.49KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](programming-paradigms.svg) |
+| <a href="recursion.svg"><img src="recursion.svg" width="250" alt="recursion.svg"></a> | **📂 檔名:** `recursion.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `2.54KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](recursion.svg) |
+| <a href="solid.svg"><img src="solid.svg" width="250" alt="solid.svg"></a> | **📂 檔名:** `solid.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `7.25KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](solid.svg) |

@@ -1,43 +1,45 @@
-# 🖼️ Animations
+# 🖼️ 素材分類：Animations
 
-[⬅️ 返回主目錄](../../README.md)
+> [🏠 主目錄](../../README.md) / **Animations**
 
-| 預覽 | 資訊 |
+本目錄共有 `37` 個檔案
+
+| 🎨 預覽 (點擊放大) | 📋 檔案詳細資訊 |
 | :--- | :--- |
-| <a href="AnimatedSvg-Background.svg"><img src="AnimatedSvg-Background.svg" width="200"></a> | **AnimatedSvg-Background.svg** |
-| <a href="BackgroundSvgPattern.svg"><img src="BackgroundSvgPattern.svg" width="200"></a> | **BackgroundSvgPattern.svg** |
-| <a href="BarrYUFO.svg"><img src="BarrYUFO.svg" width="200"></a> | **BarrYUFO.svg** |
-| <a href="Bell_Demo_CSS_only.svg"><img src="Bell_Demo_CSS_only.svg" width="200"></a> | **Bell_Demo_CSS_only.svg** |
-| <a href="Bell_Demo_JS.svg"><img src="Bell_Demo_JS.svg" width="200"></a> | **Bell_Demo_JS.svg** |
-| <a href="Bell_Demo_JS_On_Click.svg"><img src="Bell_Demo_JS_On_Click.svg" width="200"></a> | **Bell_Demo_JS_On_Click.svg** |
-| <a href="Bell_Demo_JS_On_Mouse_Over.svg"><img src="Bell_Demo_JS_On_Mouse_Over.svg" width="200"></a> | **Bell_Demo_JS_On_Mouse_Over.svg** |
-| <a href="Bell_Demo_JS_On_Scroll.svg"><img src="Bell_Demo_JS_On_Scroll.svg" width="200"></a> | **Bell_Demo_JS_On_Scroll.svg** |
-| <a href="Bg-Patternpad.svg"><img src="Bg-Patternpad.svg" width="200"></a> | **Bg-Patternpad.svg** |
-| <a href="Bg-Shape-001.svg"><img src="Bg-Shape-001.svg" width="200"></a> | **Bg-Shape-001.svg** |
-| <a href="Bg-ine-001.svg"><img src="Bg-ine-001.svg" width="200"></a> | **Bg-ine-001.svg** |
-| <a href="Svg-animated-loaders.svg"><img src="Svg-animated-loaders.svg" width="200"></a> | **Svg-animated-loaders.svg** |
-| <a href="Svg-background-animation-interactive.svg"><img src="Svg-background-animation-interactive.svg" width="200"></a> | **Svg-background-animation-interactive.svg** |
-| <a href="Svg-background-geometric-shapes.svg"><img src="Svg-background-geometric-shapes.svg" width="200"></a> | **Svg-background-geometric-shapes.svg** |
-| <a href="Svg-background.svg"><img src="Svg-background.svg" width="200"></a> | **Svg-background.svg** |
-| <a href="Svg-texture-background-geometric.svg"><img src="Svg-texture-background-geometric.svg" width="200"></a> | **Svg-texture-background-geometric.svg** |
-| <a href="anim_calc.svg"><img src="anim_calc.svg" width="200"></a> | **anim_calc.svg** |
-| <a href="anim_process1.svg"><img src="anim_process1.svg" width="200"></a> | **anim_process1.svg** |
-| <a href="anim_process3.svg"><img src="anim_process3.svg" width="200"></a> | **anim_process3.svg** |
-| <a href="anim_spaceship.svg"><img src="anim_spaceship.svg" width="200"></a> | **anim_spaceship.svg** |
-| <a href="anim_team.svg"><img src="anim_team.svg" width="200"></a> | **anim_team.svg** |
-| <a href="animated-svg-background-css.svg"><img src="animated-svg-background-css.svg" width="200"></a> | **animated-svg-background-css.svg** |
-| <a href="ico_service_animation.svg"><img src="ico_service_animation.svg" width="200"></a> | **ico_service_animation.svg** |
-| <a href="ico_service_animation01.svg"><img src="ico_service_animation01.svg" width="200"></a> | **ico_service_animation01.svg** |
-| <a href="ico_service_art.svg"><img src="ico_service_art.svg" width="200"></a> | **ico_service_art.svg** |
-| <a href="ico_service_uxui.svg"><img src="ico_service_uxui.svg" width="200"></a> | **ico_service_uxui.svg** |
-| <a href="illus001.svg"><img src="illus001.svg" width="200"></a> | **illus001.svg** |
-| <a href="neumorphism-design-example.svg"><img src="neumorphism-design-example.svg" width="200"></a> | **neumorphism-design-example.svg** |
-| <a href="pixel-rocket.svg"><img src="pixel-rocket.svg" width="200"></a> | **pixel-rocket.svg** |
-| <a href="pixel.svg"><img src="pixel.svg" width="200"></a> | **pixel.svg** |
-| <a href="rocket.svg"><img src="rocket.svg" width="200"></a> | **rocket.svg** |
-| <a href="rotate.svg"><img src="rotate.svg" width="200"></a> | **rotate.svg** |
-| <a href="sample.svg"><img src="sample.svg" width="200"></a> | **sample.svg** |
-| <a href="sofrware.svg"><img src="sofrware.svg" width="200"></a> | **sofrware.svg** |
-| <a href="space.svg"><img src="space.svg" width="200"></a> | **space.svg** |
-| <a href="squareAdv.svg"><img src="squareAdv.svg" width="200"></a> | **squareAdv.svg** |
-| <a href="use-Svg-as-background-image-particle-strokes.svg"><img src="use-Svg-as-background-image-particle-strokes.svg" width="200"></a> | **use-Svg-as-background-image-particle-strokes.svg** |
+| <a href="AnimatedSvg-Background.svg"><img src="AnimatedSvg-Background.svg" width="250" alt="AnimatedSvg-Background.svg"></a> | **📂 檔名:** `AnimatedSvg-Background.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `46.27KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](AnimatedSvg-Background.svg) |
+| <a href="BackgroundSvgPattern.svg"><img src="BackgroundSvgPattern.svg" width="250" alt="BackgroundSvgPattern.svg"></a> | **📂 檔名:** `BackgroundSvgPattern.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `31.56KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](BackgroundSvgPattern.svg) |
+| <a href="BarrYUFO.svg"><img src="BarrYUFO.svg" width="250" alt="BarrYUFO.svg"></a> | **📂 檔名:** `BarrYUFO.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `236.68KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](BarrYUFO.svg) |
+| <a href="Bell_Demo_CSS_only.svg"><img src="Bell_Demo_CSS_only.svg" width="250" alt="Bell_Demo_CSS_only.svg"></a> | **📂 檔名:** `Bell_Demo_CSS_only.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `51.92KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Bell_Demo_CSS_only.svg) |
+| <a href="Bell_Demo_JS.svg"><img src="Bell_Demo_JS.svg" width="250" alt="Bell_Demo_JS.svg"></a> | **📂 檔名:** `Bell_Demo_JS.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `78.38KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Bell_Demo_JS.svg) |
+| <a href="Bell_Demo_JS_On_Click.svg"><img src="Bell_Demo_JS_On_Click.svg" width="250" alt="Bell_Demo_JS_On_Click.svg"></a> | **📂 檔名:** `Bell_Demo_JS_On_Click.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `78.45KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Bell_Demo_JS_On_Click.svg) |
+| <a href="Bell_Demo_JS_On_Mouse_Over.svg"><img src="Bell_Demo_JS_On_Mouse_Over.svg" width="250" alt="Bell_Demo_JS_On_Mouse_Over.svg"></a> | **📂 檔名:** `Bell_Demo_JS_On_Mouse_Over.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `78.43KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Bell_Demo_JS_On_Mouse_Over.svg) |
+| <a href="Bell_Demo_JS_On_Scroll.svg"><img src="Bell_Demo_JS_On_Scroll.svg" width="250" alt="Bell_Demo_JS_On_Scroll.svg"></a> | **📂 檔名:** `Bell_Demo_JS_On_Scroll.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `78.43KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Bell_Demo_JS_On_Scroll.svg) |
+| <a href="Bg-Patternpad.svg"><img src="Bg-Patternpad.svg" width="250" alt="Bg-Patternpad.svg"></a> | **📂 檔名:** `Bg-Patternpad.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `40.27KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Bg-Patternpad.svg) |
+| <a href="Bg-Shape-001.svg"><img src="Bg-Shape-001.svg" width="250" alt="Bg-Shape-001.svg"></a> | **📂 檔名:** `Bg-Shape-001.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `43.65KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Bg-Shape-001.svg) |
+| <a href="Bg-ine-001.svg"><img src="Bg-ine-001.svg" width="250" alt="Bg-ine-001.svg"></a> | **📂 檔名:** `Bg-ine-001.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `6.07KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Bg-ine-001.svg) |
+| <a href="Svg-animated-loaders.svg"><img src="Svg-animated-loaders.svg" width="250" alt="Svg-animated-loaders.svg"></a> | **📂 檔名:** `Svg-animated-loaders.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `31.85KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Svg-animated-loaders.svg) |
+| <a href="Svg-background-animation-interactive.svg"><img src="Svg-background-animation-interactive.svg" width="250" alt="Svg-background-animation-interactive.svg"></a> | **📂 檔名:** `Svg-background-animation-interactive.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `117.44KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Svg-background-animation-interactive.svg) |
+| <a href="Svg-background-geometric-shapes.svg"><img src="Svg-background-geometric-shapes.svg" width="250" alt="Svg-background-geometric-shapes.svg"></a> | **📂 檔名:** `Svg-background-geometric-shapes.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `6.42KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Svg-background-geometric-shapes.svg) |
+| <a href="Svg-background.svg"><img src="Svg-background.svg" width="250" alt="Svg-background.svg"></a> | **📂 檔名:** `Svg-background.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `50.88KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Svg-background.svg) |
+| <a href="Svg-texture-background-geometric.svg"><img src="Svg-texture-background-geometric.svg" width="250" alt="Svg-texture-background-geometric.svg"></a> | **📂 檔名:** `Svg-texture-background-geometric.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `49.98KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Svg-texture-background-geometric.svg) |
+| <a href="anim_calc.svg"><img src="anim_calc.svg" width="250" alt="anim_calc.svg"></a> | **📂 檔名:** `anim_calc.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `79.83KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](anim_calc.svg) |
+| <a href="anim_process1.svg"><img src="anim_process1.svg" width="250" alt="anim_process1.svg"></a> | **📂 檔名:** `anim_process1.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `31.65KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](anim_process1.svg) |
+| <a href="anim_process3.svg"><img src="anim_process3.svg" width="250" alt="anim_process3.svg"></a> | **📂 檔名:** `anim_process3.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `22.17KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](anim_process3.svg) |
+| <a href="anim_spaceship.svg"><img src="anim_spaceship.svg" width="250" alt="anim_spaceship.svg"></a> | **📂 檔名:** `anim_spaceship.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `44.13KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](anim_spaceship.svg) |
+| <a href="anim_team.svg"><img src="anim_team.svg" width="250" alt="anim_team.svg"></a> | **📂 檔名:** `anim_team.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `67.09KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](anim_team.svg) |
+| <a href="animated-svg-background-css.svg"><img src="animated-svg-background-css.svg" width="250" alt="animated-svg-background-css.svg"></a> | **📂 檔名:** `animated-svg-background-css.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `5.77KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](animated-svg-background-css.svg) |
+| <a href="ico_service_animation.svg"><img src="ico_service_animation.svg" width="250" alt="ico_service_animation.svg"></a> | **📂 檔名:** `ico_service_animation.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `6.53KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](ico_service_animation.svg) |
+| <a href="ico_service_animation01.svg"><img src="ico_service_animation01.svg" width="250" alt="ico_service_animation01.svg"></a> | **📂 檔名:** `ico_service_animation01.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `15.26KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](ico_service_animation01.svg) |
+| <a href="ico_service_art.svg"><img src="ico_service_art.svg" width="250" alt="ico_service_art.svg"></a> | **📂 檔名:** `ico_service_art.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `9.23KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](ico_service_art.svg) |
+| <a href="ico_service_uxui.svg"><img src="ico_service_uxui.svg" width="250" alt="ico_service_uxui.svg"></a> | **📂 檔名:** `ico_service_uxui.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `5.66KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](ico_service_uxui.svg) |
+| <a href="illus001.svg"><img src="illus001.svg" width="250" alt="illus001.svg"></a> | **📂 檔名:** `illus001.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `44.11KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](illus001.svg) |
+| <a href="neumorphism-design-example.svg"><img src="neumorphism-design-example.svg" width="250" alt="neumorphism-design-example.svg"></a> | **📂 檔名:** `neumorphism-design-example.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `109.99KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](neumorphism-design-example.svg) |
+| <a href="pixel-rocket.svg"><img src="pixel-rocket.svg" width="250" alt="pixel-rocket.svg"></a> | **📂 檔名:** `pixel-rocket.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `230.89KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](pixel-rocket.svg) |
+| <a href="pixel.svg"><img src="pixel.svg" width="250" alt="pixel.svg"></a> | **📂 檔名:** `pixel.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `59.70KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](pixel.svg) |
+| <a href="rocket.svg"><img src="rocket.svg" width="250" alt="rocket.svg"></a> | **📂 檔名:** `rocket.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `169.28KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](rocket.svg) |
+| <a href="rotate.svg"><img src="rotate.svg" width="250" alt="rotate.svg"></a> | **📂 檔名:** `rotate.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.13KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](rotate.svg) |
+| <a href="sample.svg"><img src="sample.svg" width="250" alt="sample.svg"></a> | **📂 檔名:** `sample.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `23.26KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](sample.svg) |
+| <a href="sofrware.svg"><img src="sofrware.svg" width="250" alt="sofrware.svg"></a> | **📂 檔名:** `sofrware.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `53.73KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](sofrware.svg) |
+| <a href="space.svg"><img src="space.svg" width="250" alt="space.svg"></a> | **📂 檔名:** `space.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `111.27KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](space.svg) |
+| <a href="squareAdv.svg"><img src="squareAdv.svg" width="250" alt="squareAdv.svg"></a> | **📂 檔名:** `squareAdv.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `28.49KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](squareAdv.svg) |
+| <a href="use-Svg-as-background-image-particle-strokes.svg"><img src="use-Svg-as-background-image-particle-strokes.svg" width="250" alt="use-Svg-as-background-image-particle-strokes.svg"></a> | **📂 檔名:** `use-Svg-as-background-image-particle-strokes.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `7.83KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](use-Svg-as-background-image-particle-strokes.svg) |

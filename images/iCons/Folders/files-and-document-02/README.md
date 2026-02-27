@@ -1,56 +1,58 @@
-# 🖼️ files-and-document-02
+# 🖼️ 素材分類：files-and-document-02
 
-[⬅️ 返回主目錄](../../../../README.md)
+> [🏠 主目錄](../../../../README.md) / **files-and-document-02**
 
-| 預覽 | 資訊 |
+本目錄共有 `50` 個檔案
+
+| 🎨 預覽 (點擊放大) | 📋 檔案詳細資訊 |
 | :--- | :--- |
-| <a href="001-new%20document.svg"><img src="001-new%20document.svg" width="200"></a> | **001-new document.svg** |
-| <a href="002-documents.svg"><img src="002-documents.svg" width="200"></a> | **002-documents.svg** |
-| <a href="003-folder.svg"><img src="003-folder.svg" width="200"></a> | **003-folder.svg** |
-| <a href="004-save%20file.svg"><img src="004-save%20file.svg" width="200"></a> | **004-save file.svg** |
-| <a href="005-download%20file.svg"><img src="005-download%20file.svg" width="200"></a> | **005-download file.svg** |
-| <a href="006-upload%20file.svg"><img src="006-upload%20file.svg" width="200"></a> | **006-upload file.svg** |
-| <a href="007-paper%20shredder.svg"><img src="007-paper%20shredder.svg" width="200"></a> | **007-paper shredder.svg** |
-| <a href="008-encrypted%20data.svg"><img src="008-encrypted%20data.svg" width="200"></a> | **008-encrypted data.svg** |
-| <a href="009-locked.svg"><img src="009-locked.svg" width="200"></a> | **009-locked.svg** |
-| <a href="010-pdf%20document.svg"><img src="010-pdf%20document.svg" width="200"></a> | **010-pdf document.svg** |
-| <a href="011-clipboard.svg"><img src="011-clipboard.svg" width="200"></a> | **011-clipboard.svg** |
-| <a href="012-audio%20file.svg"><img src="012-audio%20file.svg" width="200"></a> | **012-audio file.svg** |
-| <a href="013-video%20file.svg"><img src="013-video%20file.svg" width="200"></a> | **013-video file.svg** |
-| <a href="014-image%20file.svg"><img src="014-image%20file.svg" width="200"></a> | **014-image file.svg** |
-| <a href="015-link%20file.svg"><img src="015-link%20file.svg" width="200"></a> | **015-link file.svg** |
-| <a href="016-duplicate.svg"><img src="016-duplicate.svg" width="200"></a> | **016-duplicate.svg** |
-| <a href="017-pdf%20file.svg"><img src="017-pdf%20file.svg" width="200"></a> | **017-pdf file.svg** |
-| <a href="018-txt%20file.svg"><img src="018-txt%20file.svg" width="200"></a> | **018-txt file.svg** |
-| <a href="019-zip%20file.svg"><img src="019-zip%20file.svg" width="200"></a> | **019-zip file.svg** |
-| <a href="020-html%20file.svg"><img src="020-html%20file.svg" width="200"></a> | **020-html file.svg** |
-| <a href="021-backup%20file.svg"><img src="021-backup%20file.svg" width="200"></a> | **021-backup file.svg** |
-| <a href="022-corrupted%20file.svg"><img src="022-corrupted%20file.svg" width="200"></a> | **022-corrupted file.svg** |
-| <a href="023-corrupted%20file.svg"><img src="023-corrupted%20file.svg" width="200"></a> | **023-corrupted file.svg** |
-| <a href="024-add%20file.svg"><img src="024-add%20file.svg" width="200"></a> | **024-add file.svg** |
-| <a href="025-verified.svg"><img src="025-verified.svg" width="200"></a> | **025-verified.svg** |
-| <a href="026-malicious.svg"><img src="026-malicious.svg" width="200"></a> | **026-malicious.svg** |
-| <a href="027-unknown%20mail.svg"><img src="027-unknown%20mail.svg" width="200"></a> | **027-unknown mail.svg** |
-| <a href="028-backup%20file.svg"><img src="028-backup%20file.svg" width="200"></a> | **028-backup file.svg** |
-| <a href="029-attach%20file.svg"><img src="029-attach%20file.svg" width="200"></a> | **029-attach file.svg** |
-| <a href="030-bug%20problem.svg"><img src="030-bug%20problem.svg" width="200"></a> | **030-bug problem.svg** |
-| <a href="031-vector%20file.svg"><img src="031-vector%20file.svg" width="200"></a> | **031-vector file.svg** |
-| <a href="032-code.svg"><img src="032-code.svg" width="200"></a> | **032-code.svg** |
-| <a href="033-scan.svg"><img src="033-scan.svg" width="200"></a> | **033-scan.svg** |
-| <a href="034-encrypted%20data.svg"><img src="034-encrypted%20data.svg" width="200"></a> | **034-encrypted data.svg** |
-| <a href="035-search%20file.svg"><img src="035-search%20file.svg" width="200"></a> | **035-search file.svg** |
-| <a href="036-pinned%20notes.svg"><img src="036-pinned%20notes.svg" width="200"></a> | **036-pinned notes.svg** |
-| <a href="037-bookmark.svg"><img src="037-bookmark.svg" width="200"></a> | **037-bookmark.svg** |
-| <a href="038-virus%20attack.svg"><img src="038-virus%20attack.svg" width="200"></a> | **038-virus attack.svg** |
-| <a href="039-file%20management.svg"><img src="039-file%20management.svg" width="200"></a> | **039-file management.svg** |
-| <a href="040-note.svg"><img src="040-note.svg" width="200"></a> | **040-note.svg** |
-| <a href="041-delete%20file.svg"><img src="041-delete%20file.svg" width="200"></a> | **041-delete file.svg** |
-| <a href="042-share%20post.svg"><img src="042-share%20post.svg" width="200"></a> | **042-share post.svg** |
-| <a href="043-print.svg"><img src="043-print.svg" width="200"></a> | **043-print.svg** |
-| <a href="044-database.svg"><img src="044-database.svg" width="200"></a> | **044-database.svg** |
-| <a href="045-digital%20book.svg"><img src="045-digital%20book.svg" width="200"></a> | **045-digital book.svg** |
-| <a href="046-upload%20file.svg"><img src="046-upload%20file.svg" width="200"></a> | **046-upload file.svg** |
-| <a href="047-password.svg"><img src="047-password.svg" width="200"></a> | **047-password.svg** |
-| <a href="048-lock.svg"><img src="048-lock.svg" width="200"></a> | **048-lock.svg** |
-| <a href="049-shared%20folder.svg"><img src="049-shared%20folder.svg" width="200"></a> | **049-shared folder.svg** |
-| <a href="050-data%20protection.svg"><img src="050-data%20protection.svg" width="200"></a> | **050-data protection.svg** |
+| <a href="001-new%20document.svg"><img src="001-new%20document.svg" width="250" alt="001-new document.svg"></a> | **📂 檔名:** `001-new document.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.11KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](001-new%20document.svg) |
+| <a href="002-documents.svg"><img src="002-documents.svg" width="250" alt="002-documents.svg"></a> | **📂 檔名:** `002-documents.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `2.05KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](002-documents.svg) |
+| <a href="003-folder.svg"><img src="003-folder.svg" width="250" alt="003-folder.svg"></a> | **📂 檔名:** `003-folder.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.53KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](003-folder.svg) |
+| <a href="004-save%20file.svg"><img src="004-save%20file.svg" width="250" alt="004-save file.svg"></a> | **📂 檔名:** `004-save file.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `2.12KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](004-save%20file.svg) |
+| <a href="005-download%20file.svg"><img src="005-download%20file.svg" width="250" alt="005-download file.svg"></a> | **📂 檔名:** `005-download file.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `2.08KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](005-download%20file.svg) |
+| <a href="006-upload%20file.svg"><img src="006-upload%20file.svg" width="250" alt="006-upload file.svg"></a> | **📂 檔名:** `006-upload file.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `2.08KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](006-upload%20file.svg) |
+| <a href="007-paper%20shredder.svg"><img src="007-paper%20shredder.svg" width="250" alt="007-paper shredder.svg"></a> | **📂 檔名:** `007-paper shredder.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `2.27KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](007-paper%20shredder.svg) |
+| <a href="008-encrypted%20data.svg"><img src="008-encrypted%20data.svg" width="250" alt="008-encrypted data.svg"></a> | **📂 檔名:** `008-encrypted data.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `2.08KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](008-encrypted%20data.svg) |
+| <a href="009-locked.svg"><img src="009-locked.svg" width="250" alt="009-locked.svg"></a> | **📂 檔名:** `009-locked.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.79KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](009-locked.svg) |
+| <a href="010-pdf%20document.svg"><img src="010-pdf%20document.svg" width="250" alt="010-pdf document.svg"></a> | **📂 檔名:** `010-pdf document.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `2.86KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](010-pdf%20document.svg) |
+| <a href="011-clipboard.svg"><img src="011-clipboard.svg" width="250" alt="011-clipboard.svg"></a> | **📂 檔名:** `011-clipboard.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `3.13KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](011-clipboard.svg) |
+| <a href="012-audio%20file.svg"><img src="012-audio%20file.svg" width="250" alt="012-audio file.svg"></a> | **📂 檔名:** `012-audio file.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `2.19KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](012-audio%20file.svg) |
+| <a href="013-video%20file.svg"><img src="013-video%20file.svg" width="250" alt="013-video file.svg"></a> | **📂 檔名:** `013-video file.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `2.11KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](013-video%20file.svg) |
+| <a href="014-image%20file.svg"><img src="014-image%20file.svg" width="250" alt="014-image file.svg"></a> | **📂 檔名:** `014-image file.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `2.09KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](014-image%20file.svg) |
+| <a href="015-link%20file.svg"><img src="015-link%20file.svg" width="250" alt="015-link file.svg"></a> | **📂 檔名:** `015-link file.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `2.68KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](015-link%20file.svg) |
+| <a href="016-duplicate.svg"><img src="016-duplicate.svg" width="250" alt="016-duplicate.svg"></a> | **📂 檔名:** `016-duplicate.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `2.39KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](016-duplicate.svg) |
+| <a href="017-pdf%20file.svg"><img src="017-pdf%20file.svg" width="250" alt="017-pdf file.svg"></a> | **📂 檔名:** `017-pdf file.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `2.44KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](017-pdf%20file.svg) |
+| <a href="018-txt%20file.svg"><img src="018-txt%20file.svg" width="250" alt="018-txt file.svg"></a> | **📂 檔名:** `018-txt file.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `2.62KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](018-txt%20file.svg) |
+| <a href="019-zip%20file.svg"><img src="019-zip%20file.svg" width="250" alt="019-zip file.svg"></a> | **📂 檔名:** `019-zip file.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `2.47KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](019-zip%20file.svg) |
+| <a href="020-html%20file.svg"><img src="020-html%20file.svg" width="250" alt="020-html file.svg"></a> | **📂 檔名:** `020-html file.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `2.68KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](020-html%20file.svg) |
+| <a href="021-backup%20file.svg"><img src="021-backup%20file.svg" width="250" alt="021-backup file.svg"></a> | **📂 檔名:** `021-backup file.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.88KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](021-backup%20file.svg) |
+| <a href="022-corrupted%20file.svg"><img src="022-corrupted%20file.svg" width="250" alt="022-corrupted file.svg"></a> | **📂 檔名:** `022-corrupted file.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.69KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](022-corrupted%20file.svg) |
+| <a href="023-corrupted%20file.svg"><img src="023-corrupted%20file.svg" width="250" alt="023-corrupted file.svg"></a> | **📂 檔名:** `023-corrupted file.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.42KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](023-corrupted%20file.svg) |
+| <a href="024-add%20file.svg"><img src="024-add%20file.svg" width="250" alt="024-add file.svg"></a> | **📂 檔名:** `024-add file.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.85KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](024-add%20file.svg) |
+| <a href="025-verified.svg"><img src="025-verified.svg" width="250" alt="025-verified.svg"></a> | **📂 檔名:** `025-verified.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.89KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](025-verified.svg) |
+| <a href="026-malicious.svg"><img src="026-malicious.svg" width="250" alt="026-malicious.svg"></a> | **📂 檔名:** `026-malicious.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `2.33KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](026-malicious.svg) |
+| <a href="027-unknown%20mail.svg"><img src="027-unknown%20mail.svg" width="250" alt="027-unknown mail.svg"></a> | **📂 檔名:** `027-unknown mail.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.87KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](027-unknown%20mail.svg) |
+| <a href="028-backup%20file.svg"><img src="028-backup%20file.svg" width="250" alt="028-backup file.svg"></a> | **📂 檔名:** `028-backup file.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.96KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](028-backup%20file.svg) |
+| <a href="029-attach%20file.svg"><img src="029-attach%20file.svg" width="250" alt="029-attach file.svg"></a> | **📂 檔名:** `029-attach file.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.88KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](029-attach%20file.svg) |
+| <a href="030-bug%20problem.svg"><img src="030-bug%20problem.svg" width="250" alt="030-bug problem.svg"></a> | **📂 檔名:** `030-bug problem.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `3.96KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](030-bug%20problem.svg) |
+| <a href="031-vector%20file.svg"><img src="031-vector%20file.svg" width="250" alt="031-vector file.svg"></a> | **📂 檔名:** `031-vector file.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `3.20KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](031-vector%20file.svg) |
+| <a href="032-code.svg"><img src="032-code.svg" width="250" alt="032-code.svg"></a> | **📂 檔名:** `032-code.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `2.38KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](032-code.svg) |
+| <a href="033-scan.svg"><img src="033-scan.svg" width="250" alt="033-scan.svg"></a> | **📂 檔名:** `033-scan.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.50KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](033-scan.svg) |
+| <a href="034-encrypted%20data.svg"><img src="034-encrypted%20data.svg" width="250" alt="034-encrypted data.svg"></a> | **📂 檔名:** `034-encrypted data.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `2.29KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](034-encrypted%20data.svg) |
+| <a href="035-search%20file.svg"><img src="035-search%20file.svg" width="250" alt="035-search file.svg"></a> | **📂 檔名:** `035-search file.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `2.01KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](035-search%20file.svg) |
+| <a href="036-pinned%20notes.svg"><img src="036-pinned%20notes.svg" width="250" alt="036-pinned notes.svg"></a> | **📂 檔名:** `036-pinned notes.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.77KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](036-pinned%20notes.svg) |
+| <a href="037-bookmark.svg"><img src="037-bookmark.svg" width="250" alt="037-bookmark.svg"></a> | **📂 檔名:** `037-bookmark.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `3.23KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](037-bookmark.svg) |
+| <a href="038-virus%20attack.svg"><img src="038-virus%20attack.svg" width="250" alt="038-virus attack.svg"></a> | **📂 檔名:** `038-virus attack.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `2.31KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](038-virus%20attack.svg) |
+| <a href="039-file%20management.svg"><img src="039-file%20management.svg" width="250" alt="039-file management.svg"></a> | **📂 檔名:** `039-file management.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `4.95KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](039-file%20management.svg) |
+| <a href="040-note.svg"><img src="040-note.svg" width="250" alt="040-note.svg"></a> | **📂 檔名:** `040-note.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `2.41KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](040-note.svg) |
+| <a href="041-delete%20file.svg"><img src="041-delete%20file.svg" width="250" alt="041-delete file.svg"></a> | **📂 檔名:** `041-delete file.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `2.72KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](041-delete%20file.svg) |
+| <a href="042-share%20post.svg"><img src="042-share%20post.svg" width="250" alt="042-share post.svg"></a> | **📂 檔名:** `042-share post.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `2.35KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](042-share%20post.svg) |
+| <a href="043-print.svg"><img src="043-print.svg" width="250" alt="043-print.svg"></a> | **📂 檔名:** `043-print.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `2.13KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](043-print.svg) |
+| <a href="044-database.svg"><img src="044-database.svg" width="250" alt="044-database.svg"></a> | **📂 檔名:** `044-database.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `2.99KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](044-database.svg) |
+| <a href="045-digital%20book.svg"><img src="045-digital%20book.svg" width="250" alt="045-digital book.svg"></a> | **📂 檔名:** `045-digital book.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `2.26KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](045-digital%20book.svg) |
+| <a href="046-upload%20file.svg"><img src="046-upload%20file.svg" width="250" alt="046-upload file.svg"></a> | **📂 檔名:** `046-upload file.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.78KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](046-upload%20file.svg) |
+| <a href="047-password.svg"><img src="047-password.svg" width="250" alt="047-password.svg"></a> | **📂 檔名:** `047-password.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `2.71KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](047-password.svg) |
+| <a href="048-lock.svg"><img src="048-lock.svg" width="250" alt="048-lock.svg"></a> | **📂 檔名:** `048-lock.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `2.23KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](048-lock.svg) |
+| <a href="049-shared%20folder.svg"><img src="049-shared%20folder.svg" width="250" alt="049-shared folder.svg"></a> | **📂 檔名:** `049-shared folder.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `2.16KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](049-shared%20folder.svg) |
+| <a href="050-data%20protection.svg"><img src="050-data%20protection.svg" width="250" alt="050-data protection.svg"></a> | **📂 檔名:** `050-data protection.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `2.80KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](050-data%20protection.svg) |

@@ -1,29 +1,31 @@
-# 🖼️ Adventurer
+# 🖼️ 素材分類：Adventurer
 
-[⬅️ 返回主目錄](../../../README.md)
+> [🏠 主目錄](../../../README.md) / **Adventurer**
 
-| 預覽 | 資訊 |
+本目錄共有 `23` 個檔案
+
+| 🎨 預覽 (點擊放大) | 📋 檔案詳細資訊 |
 | :--- | :--- |
-| <a href="adventurer-01.jpeg"><img src="adventurer-01.jpeg" width="200"></a> | **adventurer-01.jpeg** |
-| <a href="adventurer-01.png"><img src="adventurer-01.png" width="200"></a> | **adventurer-01.png** |
-| <a href="adventurer-01.svg"><img src="adventurer-01.svg" width="200"></a> | **adventurer-01.svg** |
-| <a href="adventurer-01.webp"><img src="adventurer-01.webp" width="200"></a> | **adventurer-01.webp** |
-| <a href="adventurer-010.svg"><img src="adventurer-010.svg" width="200"></a> | **adventurer-010.svg** |
-| <a href="adventurer-011.svg"><img src="adventurer-011.svg" width="200"></a> | **adventurer-011.svg** |
-| <a href="adventurer-012.svg"><img src="adventurer-012.svg" width="200"></a> | **adventurer-012.svg** |
-| <a href="adventurer-013.svg"><img src="adventurer-013.svg" width="200"></a> | **adventurer-013.svg** |
-| <a href="adventurer-014.svg"><img src="adventurer-014.svg" width="200"></a> | **adventurer-014.svg** |
-| <a href="adventurer-015.svg"><img src="adventurer-015.svg" width="200"></a> | **adventurer-015.svg** |
-| <a href="adventurer-016.svg"><img src="adventurer-016.svg" width="200"></a> | **adventurer-016.svg** |
-| <a href="adventurer-017.svg"><img src="adventurer-017.svg" width="200"></a> | **adventurer-017.svg** |
-| <a href="adventurer-018.svg"><img src="adventurer-018.svg" width="200"></a> | **adventurer-018.svg** |
-| <a href="adventurer-019.svg"><img src="adventurer-019.svg" width="200"></a> | **adventurer-019.svg** |
-| <a href="adventurer-02.svg"><img src="adventurer-02.svg" width="200"></a> | **adventurer-02.svg** |
-| <a href="adventurer-020.svg"><img src="adventurer-020.svg" width="200"></a> | **adventurer-020.svg** |
-| <a href="adventurer-03.svg"><img src="adventurer-03.svg" width="200"></a> | **adventurer-03.svg** |
-| <a href="adventurer-04.svg"><img src="adventurer-04.svg" width="200"></a> | **adventurer-04.svg** |
-| <a href="adventurer-05.svg"><img src="adventurer-05.svg" width="200"></a> | **adventurer-05.svg** |
-| <a href="adventurer-06.svg"><img src="adventurer-06.svg" width="200"></a> | **adventurer-06.svg** |
-| <a href="adventurer-07.svg"><img src="adventurer-07.svg" width="200"></a> | **adventurer-07.svg** |
-| <a href="adventurer-08.svg"><img src="adventurer-08.svg" width="200"></a> | **adventurer-08.svg** |
-| <a href="adventurer-09.svg"><img src="adventurer-09.svg" width="200"></a> | **adventurer-09.svg** |
+| <a href="adventurer-01.jpeg"><img src="adventurer-01.jpeg" width="250" alt="adventurer-01.jpeg"></a> | **📂 檔名:** `adventurer-01.jpeg`<br>🖼️ **尺寸:** `128x128 px`<br>⚖️ **大小:** `3.58KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](adventurer-01.jpeg) |
+| <a href="adventurer-01.png"><img src="adventurer-01.png" width="250" alt="adventurer-01.png"></a> | **📂 檔名:** `adventurer-01.png`<br>🖼️ **尺寸:** `128x128 px`<br>⚖️ **大小:** `6.67KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](adventurer-01.png) |
+| <a href="adventurer-01.svg"><img src="adventurer-01.svg" width="250" alt="adventurer-01.svg"></a> | **📂 檔名:** `adventurer-01.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `7.23KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](adventurer-01.svg) |
+| <a href="adventurer-01.webp"><img src="adventurer-01.webp" width="250" alt="adventurer-01.webp"></a> | **📂 檔名:** `adventurer-01.webp`<br>🖼️ **尺寸:** `128x128 px`<br>⚖️ **大小:** `2.41KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](adventurer-01.webp) |
+| <a href="adventurer-010.svg"><img src="adventurer-010.svg" width="250" alt="adventurer-010.svg"></a> | **📂 檔名:** `adventurer-010.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `8.25KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](adventurer-010.svg) |
+| <a href="adventurer-011.svg"><img src="adventurer-011.svg" width="250" alt="adventurer-011.svg"></a> | **📂 檔名:** `adventurer-011.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `7.89KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](adventurer-011.svg) |
+| <a href="adventurer-012.svg"><img src="adventurer-012.svg" width="250" alt="adventurer-012.svg"></a> | **📂 檔名:** `adventurer-012.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `10.13KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](adventurer-012.svg) |
+| <a href="adventurer-013.svg"><img src="adventurer-013.svg" width="250" alt="adventurer-013.svg"></a> | **📂 檔名:** `adventurer-013.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `10.99KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](adventurer-013.svg) |
+| <a href="adventurer-014.svg"><img src="adventurer-014.svg" width="250" alt="adventurer-014.svg"></a> | **📂 檔名:** `adventurer-014.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `7.46KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](adventurer-014.svg) |
+| <a href="adventurer-015.svg"><img src="adventurer-015.svg" width="250" alt="adventurer-015.svg"></a> | **📂 檔名:** `adventurer-015.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `8.76KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](adventurer-015.svg) |
+| <a href="adventurer-016.svg"><img src="adventurer-016.svg" width="250" alt="adventurer-016.svg"></a> | **📂 檔名:** `adventurer-016.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `6.22KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](adventurer-016.svg) |
+| <a href="adventurer-017.svg"><img src="adventurer-017.svg" width="250" alt="adventurer-017.svg"></a> | **📂 檔名:** `adventurer-017.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `10.83KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](adventurer-017.svg) |
+| <a href="adventurer-018.svg"><img src="adventurer-018.svg" width="250" alt="adventurer-018.svg"></a> | **📂 檔名:** `adventurer-018.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `6.48KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](adventurer-018.svg) |
+| <a href="adventurer-019.svg"><img src="adventurer-019.svg" width="250" alt="adventurer-019.svg"></a> | **📂 檔名:** `adventurer-019.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `8.11KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](adventurer-019.svg) |
+| <a href="adventurer-02.svg"><img src="adventurer-02.svg" width="250" alt="adventurer-02.svg"></a> | **📂 檔名:** `adventurer-02.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `5.31KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](adventurer-02.svg) |
+| <a href="adventurer-020.svg"><img src="adventurer-020.svg" width="250" alt="adventurer-020.svg"></a> | **📂 檔名:** `adventurer-020.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `7.75KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](adventurer-020.svg) |
+| <a href="adventurer-03.svg"><img src="adventurer-03.svg" width="250" alt="adventurer-03.svg"></a> | **📂 檔名:** `adventurer-03.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `9.08KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](adventurer-03.svg) |
+| <a href="adventurer-04.svg"><img src="adventurer-04.svg" width="250" alt="adventurer-04.svg"></a> | **📂 檔名:** `adventurer-04.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `11.21KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](adventurer-04.svg) |
+| <a href="adventurer-05.svg"><img src="adventurer-05.svg" width="250" alt="adventurer-05.svg"></a> | **📂 檔名:** `adventurer-05.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `6.20KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](adventurer-05.svg) |
+| <a href="adventurer-06.svg"><img src="adventurer-06.svg" width="250" alt="adventurer-06.svg"></a> | **📂 檔名:** `adventurer-06.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `8.72KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](adventurer-06.svg) |
+| <a href="adventurer-07.svg"><img src="adventurer-07.svg" width="250" alt="adventurer-07.svg"></a> | **📂 檔名:** `adventurer-07.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `9.23KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](adventurer-07.svg) |
+| <a href="adventurer-08.svg"><img src="adventurer-08.svg" width="250" alt="adventurer-08.svg"></a> | **📂 檔名:** `adventurer-08.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `9.94KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](adventurer-08.svg) |
+| <a href="adventurer-09.svg"><img src="adventurer-09.svg" width="250" alt="adventurer-09.svg"></a> | **📂 檔名:** `adventurer-09.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `9.25KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](adventurer-09.svg) |

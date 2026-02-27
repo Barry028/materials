@@ -1,18 +1,20 @@
-# 🖼️ Social Media Marketing Illustratio
+# 🖼️ 素材分類：Social Media Marketing Illustratio
 
-[⬅️ 返回主目錄](../../../README.md)
+> [🏠 主目錄](../../../README.md) / **Social Media Marketing Illustratio**
 
-| 預覽 | 資訊 |
+本目錄共有 `12` 個檔案
+
+| 🎨 預覽 (點擊放大) | 📋 檔案詳細資訊 |
 | :--- | :--- |
-| <a href="Digital%20Marketing.svg"><img src="Digital%20Marketing.svg" width="200"></a> | **Digital Marketing.svg** |
-| <a href="Email%20Marketing.svg"><img src="Email%20Marketing.svg" width="200"></a> | **Email Marketing.svg** |
-| <a href="Endorsement.svg"><img src="Endorsement.svg" width="200"></a> | **Endorsement.svg** |
-| <a href="Facebook%20Ads%20Manager.svg"><img src="Facebook%20Ads%20Manager.svg" width="200"></a> | **Facebook Ads Manager.svg** |
-| <a href="Google%20Ads%20Manager.svg"><img src="Google%20Ads%20Manager.svg" width="200"></a> | **Google Ads Manager.svg** |
-| <a href="Instagram%20Photo%20Shoot.svg"><img src="Instagram%20Photo%20Shoot.svg" width="200"></a> | **Instagram Photo Shoot.svg** |
-| <a href="Live%20Show.svg"><img src="Live%20Show.svg" width="200"></a> | **Live Show.svg** |
-| <a href="Mobile%20App%20Ads.svg"><img src="Mobile%20App%20Ads.svg" width="200"></a> | **Mobile App Ads.svg** |
-| <a href="Tiktok%20Video%20Creation.svg"><img src="Tiktok%20Video%20Creation.svg" width="200"></a> | **Tiktok Video Creation.svg** |
-| <a href="Twitter%20Buzzer.svg"><img src="Twitter%20Buzzer.svg" width="200"></a> | **Twitter Buzzer.svg** |
-| <a href="Viral%20Marketing.svg"><img src="Viral%20Marketing.svg" width="200"></a> | **Viral Marketing.svg** |
-| <a href="Youtube%20Vlog.svg"><img src="Youtube%20Vlog.svg" width="200"></a> | **Youtube Vlog.svg** |
+| <a href="Digital%20Marketing.svg"><img src="Digital%20Marketing.svg" width="250" alt="Digital Marketing.svg"></a> | **📂 檔名:** `Digital Marketing.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `20.98KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Digital%20Marketing.svg) |
+| <a href="Email%20Marketing.svg"><img src="Email%20Marketing.svg" width="250" alt="Email Marketing.svg"></a> | **📂 檔名:** `Email Marketing.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `15.33KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Email%20Marketing.svg) |
+| <a href="Endorsement.svg"><img src="Endorsement.svg" width="250" alt="Endorsement.svg"></a> | **📂 檔名:** `Endorsement.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `25.13KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Endorsement.svg) |
+| <a href="Facebook%20Ads%20Manager.svg"><img src="Facebook%20Ads%20Manager.svg" width="250" alt="Facebook Ads Manager.svg"></a> | **📂 檔名:** `Facebook Ads Manager.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `19.22KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Facebook%20Ads%20Manager.svg) |
+| <a href="Google%20Ads%20Manager.svg"><img src="Google%20Ads%20Manager.svg" width="250" alt="Google Ads Manager.svg"></a> | **📂 檔名:** `Google Ads Manager.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `21.21KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Google%20Ads%20Manager.svg) |
+| <a href="Instagram%20Photo%20Shoot.svg"><img src="Instagram%20Photo%20Shoot.svg" width="250" alt="Instagram Photo Shoot.svg"></a> | **📂 檔名:** `Instagram Photo Shoot.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `28.54KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Instagram%20Photo%20Shoot.svg) |
+| <a href="Live%20Show.svg"><img src="Live%20Show.svg" width="250" alt="Live Show.svg"></a> | **📂 檔名:** `Live Show.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `16.79KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Live%20Show.svg) |
+| <a href="Mobile%20App%20Ads.svg"><img src="Mobile%20App%20Ads.svg" width="250" alt="Mobile App Ads.svg"></a> | **📂 檔名:** `Mobile App Ads.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `17.88KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Mobile%20App%20Ads.svg) |
+| <a href="Tiktok%20Video%20Creation.svg"><img src="Tiktok%20Video%20Creation.svg" width="250" alt="Tiktok Video Creation.svg"></a> | **📂 檔名:** `Tiktok Video Creation.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `23.05KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Tiktok%20Video%20Creation.svg) |
+| <a href="Twitter%20Buzzer.svg"><img src="Twitter%20Buzzer.svg" width="250" alt="Twitter Buzzer.svg"></a> | **📂 檔名:** `Twitter Buzzer.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `39.59KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Twitter%20Buzzer.svg) |
+| <a href="Viral%20Marketing.svg"><img src="Viral%20Marketing.svg" width="250" alt="Viral Marketing.svg"></a> | **📂 檔名:** `Viral Marketing.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `18.13KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Viral%20Marketing.svg) |
+| <a href="Youtube%20Vlog.svg"><img src="Youtube%20Vlog.svg" width="250" alt="Youtube Vlog.svg"></a> | **📂 檔名:** `Youtube Vlog.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `14.91KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Youtube%20Vlog.svg) |

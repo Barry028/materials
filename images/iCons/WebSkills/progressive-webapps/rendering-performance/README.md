@@ -1,24 +1,26 @@
-# 🖼️ rendering-performance
+# 🖼️ 素材分類：rendering-performance
 
-[⬅️ 返回主目錄](../../../../../README.md)
+> [🏠 主目錄](../../../../../README.md) / **rendering-performance**
 
-| 預覽 | 資訊 |
+本目錄共有 `18` 個檔案
+
+| 🎨 預覽 (點擊放大) | 📋 檔案詳細資訊 |
 | :--- | :--- |
-| <a href="critical-rendering-path.svg"><img src="critical-rendering-path.svg" width="200"></a> | **critical-rendering-path.svg** |
-| <a href="css-containment.svg"><img src="css-containment.svg" width="200"></a> | **css-containment.svg** |
-| <a href="debounce.svg"><img src="debounce.svg" width="200"></a> | **debounce.svg** |
-| <a href="event-loop.svg"><img src="event-loop.svg" width="200"></a> | **event-loop.svg** |
-| <a href="heap.svg"><img src="heap.svg" width="200"></a> | **heap.svg** |
-| <a href="layers.svg"><img src="layers.svg" width="200"></a> | **layers.svg** |
-| <a href="layout-trashing.svg"><img src="layout-trashing.svg" width="200"></a> | **layout-trashing.svg** |
-| <a href="microtask.svg"><img src="microtask.svg" width="200"></a> | **microtask.svg** |
-| <a href="paint-areas.svg"><img src="paint-areas.svg" width="200"></a> | **paint-areas.svg** |
-| <a href="rail-model.svg"><img src="rail-model.svg" width="200"></a> | **rail-model.svg** |
-| <a href="rendering.svg"><img src="rendering.svg" width="200"></a> | **rendering.svg** |
-| <a href="requestanimationframe.svg"><img src="requestanimationframe.svg" width="200"></a> | **requestanimationframe.svg** |
-| <a href="requestidlecallback.svg"><img src="requestidlecallback.svg" width="200"></a> | **requestidlecallback.svg** |
-| <a href="stack.svg"><img src="stack.svg" width="200"></a> | **stack.svg** |
-| <a href="style-calculations.svg"><img src="style-calculations.svg" width="200"></a> | **style-calculations.svg** |
-| <a href="the-pixel-pipeline.svg"><img src="the-pixel-pipeline.svg" width="200"></a> | **the-pixel-pipeline.svg** |
-| <a href="transforms.svg"><img src="transforms.svg" width="200"></a> | **transforms.svg** |
-| <a href="web-workers.svg"><img src="web-workers.svg" width="200"></a> | **web-workers.svg** |
+| <a href="critical-rendering-path.svg"><img src="critical-rendering-path.svg" width="250" alt="critical-rendering-path.svg"></a> | **📂 檔名:** `critical-rendering-path.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `14.79KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](critical-rendering-path.svg) |
+| <a href="css-containment.svg"><img src="css-containment.svg" width="250" alt="css-containment.svg"></a> | **📂 檔名:** `css-containment.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `2.70KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](css-containment.svg) |
+| <a href="debounce.svg"><img src="debounce.svg" width="250" alt="debounce.svg"></a> | **📂 檔名:** `debounce.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `15.29KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](debounce.svg) |
+| <a href="event-loop.svg"><img src="event-loop.svg" width="250" alt="event-loop.svg"></a> | **📂 檔名:** `event-loop.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `7.77KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](event-loop.svg) |
+| <a href="heap.svg"><img src="heap.svg" width="250" alt="heap.svg"></a> | **📂 檔名:** `heap.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `3.48KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](heap.svg) |
+| <a href="layers.svg"><img src="layers.svg" width="250" alt="layers.svg"></a> | **📂 檔名:** `layers.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `3.11KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](layers.svg) |
+| <a href="layout-trashing.svg"><img src="layout-trashing.svg" width="250" alt="layout-trashing.svg"></a> | **📂 檔名:** `layout-trashing.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `11.73KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](layout-trashing.svg) |
+| <a href="microtask.svg"><img src="microtask.svg" width="250" alt="microtask.svg"></a> | **📂 檔名:** `microtask.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `3.67KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](microtask.svg) |
+| <a href="paint-areas.svg"><img src="paint-areas.svg" width="250" alt="paint-areas.svg"></a> | **📂 檔名:** `paint-areas.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `4.44KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](paint-areas.svg) |
+| <a href="rail-model.svg"><img src="rail-model.svg" width="250" alt="rail-model.svg"></a> | **📂 檔名:** `rail-model.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `8.85KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](rail-model.svg) |
+| <a href="rendering.svg"><img src="rendering.svg" width="250" alt="rendering.svg"></a> | **📂 檔名:** `rendering.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `10.91KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](rendering.svg) |
+| <a href="requestanimationframe.svg"><img src="requestanimationframe.svg" width="250" alt="requestanimationframe.svg"></a> | **📂 檔名:** `requestanimationframe.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `5.14KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](requestanimationframe.svg) |
+| <a href="requestidlecallback.svg"><img src="requestidlecallback.svg" width="250" alt="requestidlecallback.svg"></a> | **📂 檔名:** `requestidlecallback.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `2.28KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](requestidlecallback.svg) |
+| <a href="stack.svg"><img src="stack.svg" width="250" alt="stack.svg"></a> | **📂 檔名:** `stack.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `10.28KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](stack.svg) |
+| <a href="style-calculations.svg"><img src="style-calculations.svg" width="250" alt="style-calculations.svg"></a> | **📂 檔名:** `style-calculations.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `3.16KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](style-calculations.svg) |
+| <a href="the-pixel-pipeline.svg"><img src="the-pixel-pipeline.svg" width="250" alt="the-pixel-pipeline.svg"></a> | **📂 檔名:** `the-pixel-pipeline.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `4.39KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](the-pixel-pipeline.svg) |
+| <a href="transforms.svg"><img src="transforms.svg" width="250" alt="transforms.svg"></a> | **📂 檔名:** `transforms.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `7.70KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](transforms.svg) |
+| <a href="web-workers.svg"><img src="web-workers.svg" width="250" alt="web-workers.svg"></a> | **📂 檔名:** `web-workers.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `5.68KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](web-workers.svg) |

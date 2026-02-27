@@ -1,28 +1,30 @@
-# 🖼️ Media
+# 🖼️ 素材分類：Media
 
-[⬅️ 返回主目錄](../../../../README.md)
+> [🏠 主目錄](../../../../README.md) / **Media**
 
-| 預覽 | 資訊 |
+本目錄共有 `22` 個檔案
+
+| 🎨 預覽 (點擊放大) | 📋 檔案詳細資訊 |
 | :--- | :--- |
-| <a href="Airplay.svg"><img src="Airplay.svg" width="200"></a> | **Airplay.svg** |
-| <a href="Chromecast.svg"><img src="Chromecast.svg" width="200"></a> | **Chromecast.svg** |
-| <a href="Forward.svg"><img src="Forward.svg" width="200"></a> | **Forward.svg** |
-| <a href="Headphones.svg"><img src="Headphones.svg" width="200"></a> | **Headphones.svg** |
-| <a href="Image_01.svg"><img src="Image_01.svg" width="200"></a> | **Image_01.svg** |
-| <a href="Image_02.svg"><img src="Image_02.svg" width="200"></a> | **Image_02.svg** |
-| <a href="Pause.svg"><img src="Pause.svg" width="200"></a> | **Pause.svg** |
-| <a href="Pause_Circle.svg"><img src="Pause_Circle.svg" width="200"></a> | **Pause_Circle.svg** |
-| <a href="Play.svg"><img src="Play.svg" width="200"></a> | **Play.svg** |
-| <a href="Play_Circle.svg"><img src="Play_Circle.svg" width="200"></a> | **Play_Circle.svg** |
-| <a href="Rewind.svg"><img src="Rewind.svg" width="200"></a> | **Rewind.svg** |
-| <a href="Shuffle.svg"><img src="Shuffle.svg" width="200"></a> | **Shuffle.svg** |
-| <a href="Skip_Back.svg"><img src="Skip_Back.svg" width="200"></a> | **Skip_Back.svg** |
-| <a href="Skip_Forward.svg"><img src="Skip_Forward.svg" width="200"></a> | **Skip_Forward.svg** |
-| <a href="Stop.svg"><img src="Stop.svg" width="200"></a> | **Stop.svg** |
-| <a href="Stop_Circle.svg"><img src="Stop_Circle.svg" width="200"></a> | **Stop_Circle.svg** |
-| <a href="Volume_Max.svg"><img src="Volume_Max.svg" width="200"></a> | **Volume_Max.svg** |
-| <a href="Volume_Min.svg"><img src="Volume_Min.svg" width="200"></a> | **Volume_Min.svg** |
-| <a href="Volume_Minus.svg"><img src="Volume_Minus.svg" width="200"></a> | **Volume_Minus.svg** |
-| <a href="Volume_Off.svg"><img src="Volume_Off.svg" width="200"></a> | **Volume_Off.svg** |
-| <a href="Volume_Off_02.svg"><img src="Volume_Off_02.svg" width="200"></a> | **Volume_Off_02.svg** |
-| <a href="Volume_Plus.svg"><img src="Volume_Plus.svg" width="200"></a> | **Volume_Plus.svg** |
+| <a href="Airplay.svg"><img src="Airplay.svg" width="250" alt="Airplay.svg"></a> | **📂 檔名:** `Airplay.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `721.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Airplay.svg) |
+| <a href="Chromecast.svg"><img src="Chromecast.svg" width="250" alt="Chromecast.svg"></a> | **📂 檔名:** `Chromecast.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `666.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Chromecast.svg) |
+| <a href="Forward.svg"><img src="Forward.svg" width="250" alt="Forward.svg"></a> | **📂 檔名:** `Forward.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `239.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Forward.svg) |
+| <a href="Headphones.svg"><img src="Headphones.svg" width="250" alt="Headphones.svg"></a> | **📂 檔名:** `Headphones.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.24KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Headphones.svg) |
+| <a href="Image_01.svg"><img src="Image_01.svg" width="250" alt="Image_01.svg"></a> | **📂 檔名:** `Image_01.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.44KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Image_01.svg) |
+| <a href="Image_02.svg"><img src="Image_02.svg" width="250" alt="Image_02.svg"></a> | **📂 檔名:** `Image_02.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.44KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Image_02.svg) |
+| <a href="Pause.svg"><img src="Pause.svg" width="250" alt="Pause.svg"></a> | **📂 檔名:** `Pause.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.26KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Pause.svg) |
+| <a href="Pause_Circle.svg"><img src="Pause_Circle.svg" width="250" alt="Pause_Circle.svg"></a> | **📂 檔名:** `Pause_Circle.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `324.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Pause_Circle.svg) |
+| <a href="Play.svg"><img src="Play.svg" width="250" alt="Play.svg"></a> | **📂 檔名:** `Play.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `661.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Play.svg) |
+| <a href="Play_Circle.svg"><img src="Play_Circle.svg" width="250" alt="Play_Circle.svg"></a> | **📂 檔名:** `Play_Circle.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `420.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Play_Circle.svg) |
+| <a href="Rewind.svg"><img src="Rewind.svg" width="250" alt="Rewind.svg"></a> | **📂 檔名:** `Rewind.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `239.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Rewind.svg) |
+| <a href="Shuffle.svg"><img src="Shuffle.svg" width="250" alt="Shuffle.svg"></a> | **📂 檔名:** `Shuffle.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `391.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Shuffle.svg) |
+| <a href="Skip_Back.svg"><img src="Skip_Back.svg" width="250" alt="Skip_Back.svg"></a> | **📂 檔名:** `Skip_Back.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `684.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Skip_Back.svg) |
+| <a href="Skip_Forward.svg"><img src="Skip_Forward.svg" width="250" alt="Skip_Forward.svg"></a> | **📂 檔名:** `Skip_Forward.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `670.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Skip_Forward.svg) |
+| <a href="Stop.svg"><img src="Stop.svg" width="250" alt="Stop.svg"></a> | **📂 檔名:** `Stop.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `692.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Stop.svg) |
+| <a href="Stop_Circle.svg"><img src="Stop_Circle.svg" width="250" alt="Stop_Circle.svg"></a> | **📂 檔名:** `Stop_Circle.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `925.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Stop_Circle.svg) |
+| <a href="Volume_Max.svg"><img src="Volume_Max.svg" width="250" alt="Volume_Max.svg"></a> | **📂 檔名:** `Volume_Max.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.43KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Volume_Max.svg) |
+| <a href="Volume_Min.svg"><img src="Volume_Min.svg" width="250" alt="Volume_Min.svg"></a> | **📂 檔名:** `Volume_Min.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.23KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Volume_Min.svg) |
+| <a href="Volume_Minus.svg"><img src="Volume_Minus.svg" width="250" alt="Volume_Minus.svg"></a> | **📂 檔名:** `Volume_Minus.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.04KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Volume_Minus.svg) |
+| <a href="Volume_Off.svg"><img src="Volume_Off.svg" width="250" alt="Volume_Off.svg"></a> | **📂 檔名:** `Volume_Off.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.09KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Volume_Off.svg) |
+| <a href="Volume_Off_02.svg"><img src="Volume_Off_02.svg" width="250" alt="Volume_Off_02.svg"></a> | **📂 檔名:** `Volume_Off_02.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `950.00B`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Volume_Off_02.svg) |
+| <a href="Volume_Plus.svg"><img src="Volume_Plus.svg" width="250" alt="Volume_Plus.svg"></a> | **📂 檔名:** `Volume_Plus.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.06KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Volume_Plus.svg) |

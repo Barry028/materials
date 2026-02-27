@@ -1,26 +1,28 @@
-# 🖼️ Patterns
+# 🖼️ 素材分類：Patterns
 
-[⬅️ 返回主目錄](../../../README.md)
+> [🏠 主目錄](../../../README.md) / **Patterns**
 
-| 預覽 | 資訊 |
+本目錄共有 `20` 個檔案
+
+| 🎨 預覽 (點擊放大) | 📋 檔案詳細資訊 |
 | :--- | :--- |
-| <a href="bg-pattern-flowers-%25-1.svg"><img src="bg-pattern-flowers-%25-1.svg" width="200"></a> | **bg-pattern-flowers-%-1.svg** |
-| <a href="bg-pattern-flowers-%25-2.svg"><img src="bg-pattern-flowers-%25-2.svg" width="200"></a> | **bg-pattern-flowers-%-2.svg** |
-| <a href="bg-pattern-flowers-%25-3.svg"><img src="bg-pattern-flowers-%25-3.svg" width="200"></a> | **bg-pattern-flowers-%-3.svg** |
-| <a href="bg-pattern-flowers-%250v.svg"><img src="bg-pattern-flowers-%250v.svg" width="200"></a> | **bg-pattern-flowers-%0v.svg** |
-| <a href="bg-pattern-geometry-1.svg"><img src="bg-pattern-geometry-1.svg" width="200"></a> | **bg-pattern-geometry-1.svg** |
-| <a href="bg-pattern-geometry.svg"><img src="bg-pattern-geometry.svg" width="200"></a> | **bg-pattern-geometry.svg** |
-| <a href="bg-pattern-line.svg"><img src="bg-pattern-line.svg" width="200"></a> | **bg-pattern-line.svg** |
-| <a href="bg-pattern-mixed.svg"><img src="bg-pattern-mixed.svg" width="200"></a> | **bg-pattern-mixed.svg** |
-| <a href="bg-pattern-shapes-1.svg"><img src="bg-pattern-shapes-1.svg" width="200"></a> | **bg-pattern-shapes-1.svg** |
-| <a href="bg-pattern-shapes.svg"><img src="bg-pattern-shapes.svg" width="200"></a> | **bg-pattern-shapes.svg** |
-| <a href="pattern-001.svg"><img src="pattern-001.svg" width="200"></a> | **pattern-001.svg** |
-| <a href="pattern-002.svg"><img src="pattern-002.svg" width="200"></a> | **pattern-002.svg** |
-| <a href="pattern-003.svg"><img src="pattern-003.svg" width="200"></a> | **pattern-003.svg** |
-| <a href="pattern-004.svg"><img src="pattern-004.svg" width="200"></a> | **pattern-004.svg** |
-| <a href="pattern-005.svg"><img src="pattern-005.svg" width="200"></a> | **pattern-005.svg** |
-| <a href="pattern-006.svg"><img src="pattern-006.svg" width="200"></a> | **pattern-006.svg** |
-| <a href="pattern-007.svg"><img src="pattern-007.svg" width="200"></a> | **pattern-007.svg** |
-| <a href="pattern-008.svg"><img src="pattern-008.svg" width="200"></a> | **pattern-008.svg** |
-| <a href="pattern-009.svg"><img src="pattern-009.svg" width="200"></a> | **pattern-009.svg** |
-| <a href="pattern-010.svg"><img src="pattern-010.svg" width="200"></a> | **pattern-010.svg** |
+| <a href="bg-pattern-flowers-%25-1.svg"><img src="bg-pattern-flowers-%25-1.svg" width="250" alt="bg-pattern-flowers-%-1.svg"></a> | **📂 檔名:** `bg-pattern-flowers-%-1.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `114.78KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](bg-pattern-flowers-%25-1.svg) |
+| <a href="bg-pattern-flowers-%25-2.svg"><img src="bg-pattern-flowers-%25-2.svg" width="250" alt="bg-pattern-flowers-%-2.svg"></a> | **📂 檔名:** `bg-pattern-flowers-%-2.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `99.87KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](bg-pattern-flowers-%25-2.svg) |
+| <a href="bg-pattern-flowers-%25-3.svg"><img src="bg-pattern-flowers-%25-3.svg" width="250" alt="bg-pattern-flowers-%-3.svg"></a> | **📂 檔名:** `bg-pattern-flowers-%-3.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `15.26KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](bg-pattern-flowers-%25-3.svg) |
+| <a href="bg-pattern-flowers-%250v.svg"><img src="bg-pattern-flowers-%250v.svg" width="250" alt="bg-pattern-flowers-%0v.svg"></a> | **📂 檔名:** `bg-pattern-flowers-%0v.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `208.49KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](bg-pattern-flowers-%250v.svg) |
+| <a href="bg-pattern-geometry-1.svg"><img src="bg-pattern-geometry-1.svg" width="250" alt="bg-pattern-geometry-1.svg"></a> | **📂 檔名:** `bg-pattern-geometry-1.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `8.75KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](bg-pattern-geometry-1.svg) |
+| <a href="bg-pattern-geometry.svg"><img src="bg-pattern-geometry.svg" width="250" alt="bg-pattern-geometry.svg"></a> | **📂 檔名:** `bg-pattern-geometry.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `4.32KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](bg-pattern-geometry.svg) |
+| <a href="bg-pattern-line.svg"><img src="bg-pattern-line.svg" width="250" alt="bg-pattern-line.svg"></a> | **📂 檔名:** `bg-pattern-line.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `13.84KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](bg-pattern-line.svg) |
+| <a href="bg-pattern-mixed.svg"><img src="bg-pattern-mixed.svg" width="250" alt="bg-pattern-mixed.svg"></a> | **📂 檔名:** `bg-pattern-mixed.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `12.83KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](bg-pattern-mixed.svg) |
+| <a href="bg-pattern-shapes-1.svg"><img src="bg-pattern-shapes-1.svg" width="250" alt="bg-pattern-shapes-1.svg"></a> | **📂 檔名:** `bg-pattern-shapes-1.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `108.37KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](bg-pattern-shapes-1.svg) |
+| <a href="bg-pattern-shapes.svg"><img src="bg-pattern-shapes.svg" width="250" alt="bg-pattern-shapes.svg"></a> | **📂 檔名:** `bg-pattern-shapes.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `54.19KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](bg-pattern-shapes.svg) |
+| <a href="pattern-001.svg"><img src="pattern-001.svg" width="250" alt="pattern-001.svg"></a> | **📂 檔名:** `pattern-001.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `53.42KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](pattern-001.svg) |
+| <a href="pattern-002.svg"><img src="pattern-002.svg" width="250" alt="pattern-002.svg"></a> | **📂 檔名:** `pattern-002.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `4.40KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](pattern-002.svg) |
+| <a href="pattern-003.svg"><img src="pattern-003.svg" width="250" alt="pattern-003.svg"></a> | **📂 檔名:** `pattern-003.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `12.66KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](pattern-003.svg) |
+| <a href="pattern-004.svg"><img src="pattern-004.svg" width="250" alt="pattern-004.svg"></a> | **📂 檔名:** `pattern-004.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `13.46KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](pattern-004.svg) |
+| <a href="pattern-005.svg"><img src="pattern-005.svg" width="250" alt="pattern-005.svg"></a> | **📂 檔名:** `pattern-005.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `211.85KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](pattern-005.svg) |
+| <a href="pattern-006.svg"><img src="pattern-006.svg" width="250" alt="pattern-006.svg"></a> | **📂 檔名:** `pattern-006.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `15.61KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](pattern-006.svg) |
+| <a href="pattern-007.svg"><img src="pattern-007.svg" width="250" alt="pattern-007.svg"></a> | **📂 檔名:** `pattern-007.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `102.89KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](pattern-007.svg) |
+| <a href="pattern-008.svg"><img src="pattern-008.svg" width="250" alt="pattern-008.svg"></a> | **📂 檔名:** `pattern-008.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `109.64KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](pattern-008.svg) |
+| <a href="pattern-009.svg"><img src="pattern-009.svg" width="250" alt="pattern-009.svg"></a> | **📂 檔名:** `pattern-009.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `5.80KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](pattern-009.svg) |
+| <a href="pattern-010.svg"><img src="pattern-010.svg" width="250" alt="pattern-010.svg"></a> | **📂 檔名:** `pattern-010.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `95.88KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](pattern-010.svg) |

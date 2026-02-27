@@ -1,24 +1,26 @@
-# 🖼️ loading-performance
+# 🖼️ 素材分類：loading-performance
 
-[⬅️ 返回主目錄](../../../../../README.md)
+> [🏠 主目錄](../../../../../README.md) / **loading-performance**
 
-| 預覽 | 資訊 |
+本目錄共有 `18` 個檔案
+
+| 🎨 預覽 (點擊放大) | 📋 檔案詳細資訊 |
 | :--- | :--- |
-| <a href="app-shell.svg"><img src="app-shell.svg" width="200"></a> | **app-shell.svg** |
-| <a href="caching.svg"><img src="caching.svg" width="200"></a> | **caching.svg** |
-| <a href="codesplitting.svg"><img src="codesplitting.svg" width="200"></a> | **codesplitting.svg** |
-| <a href="compression.svg"><img src="compression.svg" width="200"></a> | **compression.svg** |
-| <a href="critical-request-chains.svg"><img src="critical-request-chains.svg" width="200"></a> | **critical-request-chains.svg** |
-| <a href="dynamic-import.svg"><img src="dynamic-import.svg" width="200"></a> | **dynamic-import.svg** |
-| <a href="first-cpu-idle.svg"><img src="first-cpu-idle.svg" width="200"></a> | **first-cpu-idle.svg** |
-| <a href="first-meaningful-paint.svg"><img src="first-meaningful-paint.svg" width="200"></a> | **first-meaningful-paint.svg** |
-| <a href="largest-contentful-paint.svg"><img src="largest-contentful-paint.svg" width="200"></a> | **largest-contentful-paint.svg** |
-| <a href="lazy-loading.svg"><img src="lazy-loading.svg" width="200"></a> | **lazy-loading.svg** |
-| <a href="offscreen-images.svg"><img src="offscreen-images.svg" width="200"></a> | **offscreen-images.svg** |
-| <a href="performance-metrics.svg"><img src="performance-metrics.svg" width="200"></a> | **performance-metrics.svg** |
-| <a href="prpl-pattern.svg"><img src="prpl-pattern.svg" width="200"></a> | **prpl-pattern.svg** |
-| <a href="render-blocking-resources.svg"><img src="render-blocking-resources.svg" width="200"></a> | **render-blocking-resources.svg** |
-| <a href="resource-prioritization.svg"><img src="resource-prioritization.svg" width="200"></a> | **resource-prioritization.svg** |
-| <a href="time-to-interactive.svg"><img src="time-to-interactive.svg" width="200"></a> | **time-to-interactive.svg** |
-| <a href="total-blocking-time.svg"><img src="total-blocking-time.svg" width="200"></a> | **total-blocking-time.svg** |
-| <a href="tree-shaking.svg"><img src="tree-shaking.svg" width="200"></a> | **tree-shaking.svg** |
+| <a href="app-shell.svg"><img src="app-shell.svg" width="250" alt="app-shell.svg"></a> | **📂 檔名:** `app-shell.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `3.00KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](app-shell.svg) |
+| <a href="caching.svg"><img src="caching.svg" width="250" alt="caching.svg"></a> | **📂 檔名:** `caching.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `14.45KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](caching.svg) |
+| <a href="codesplitting.svg"><img src="codesplitting.svg" width="250" alt="codesplitting.svg"></a> | **📂 檔名:** `codesplitting.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `4.07KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](codesplitting.svg) |
+| <a href="compression.svg"><img src="compression.svg" width="250" alt="compression.svg"></a> | **📂 檔名:** `compression.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `3.87KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](compression.svg) |
+| <a href="critical-request-chains.svg"><img src="critical-request-chains.svg" width="250" alt="critical-request-chains.svg"></a> | **📂 檔名:** `critical-request-chains.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `4.38KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](critical-request-chains.svg) |
+| <a href="dynamic-import.svg"><img src="dynamic-import.svg" width="250" alt="dynamic-import.svg"></a> | **📂 檔名:** `dynamic-import.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `4.87KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](dynamic-import.svg) |
+| <a href="first-cpu-idle.svg"><img src="first-cpu-idle.svg" width="250" alt="first-cpu-idle.svg"></a> | **📂 檔名:** `first-cpu-idle.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `8.77KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](first-cpu-idle.svg) |
+| <a href="first-meaningful-paint.svg"><img src="first-meaningful-paint.svg" width="250" alt="first-meaningful-paint.svg"></a> | **📂 檔名:** `first-meaningful-paint.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `2.69KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](first-meaningful-paint.svg) |
+| <a href="largest-contentful-paint.svg"><img src="largest-contentful-paint.svg" width="250" alt="largest-contentful-paint.svg"></a> | **📂 檔名:** `largest-contentful-paint.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `2.69KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](largest-contentful-paint.svg) |
+| <a href="lazy-loading.svg"><img src="lazy-loading.svg" width="250" alt="lazy-loading.svg"></a> | **📂 檔名:** `lazy-loading.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `8.43KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](lazy-loading.svg) |
+| <a href="offscreen-images.svg"><img src="offscreen-images.svg" width="250" alt="offscreen-images.svg"></a> | **📂 檔名:** `offscreen-images.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `4.00KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](offscreen-images.svg) |
+| <a href="performance-metrics.svg"><img src="performance-metrics.svg" width="250" alt="performance-metrics.svg"></a> | **📂 檔名:** `performance-metrics.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `3.52KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](performance-metrics.svg) |
+| <a href="prpl-pattern.svg"><img src="prpl-pattern.svg" width="250" alt="prpl-pattern.svg"></a> | **📂 檔名:** `prpl-pattern.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `4.23KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](prpl-pattern.svg) |
+| <a href="render-blocking-resources.svg"><img src="render-blocking-resources.svg" width="250" alt="render-blocking-resources.svg"></a> | **📂 檔名:** `render-blocking-resources.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `6.22KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](render-blocking-resources.svg) |
+| <a href="resource-prioritization.svg"><img src="resource-prioritization.svg" width="250" alt="resource-prioritization.svg"></a> | **📂 檔名:** `resource-prioritization.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `8.52KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](resource-prioritization.svg) |
+| <a href="time-to-interactive.svg"><img src="time-to-interactive.svg" width="250" alt="time-to-interactive.svg"></a> | **📂 檔名:** `time-to-interactive.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `5.19KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](time-to-interactive.svg) |
+| <a href="total-blocking-time.svg"><img src="total-blocking-time.svg" width="250" alt="total-blocking-time.svg"></a> | **📂 檔名:** `total-blocking-time.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `8.78KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](total-blocking-time.svg) |
+| <a href="tree-shaking.svg"><img src="tree-shaking.svg" width="250" alt="tree-shaking.svg"></a> | **📂 檔名:** `tree-shaking.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `26.00KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](tree-shaking.svg) |

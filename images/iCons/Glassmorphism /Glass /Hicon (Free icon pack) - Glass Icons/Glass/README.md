@@ -1,23 +1,25 @@
-# 🖼️ Glass
+# 🖼️ 素材分類：Glass
 
-[⬅️ 返回主目錄](../../../../../../README.md)
+> [🏠 主目錄](../../../../../../README.md) / **Glass**
 
-| 預覽 | 資訊 |
+本目錄共有 `17` 個檔案
+
+| 🎨 預覽 (點擊放大) | 📋 檔案詳細資訊 |
 | :--- | :--- |
-| <a href="Activity%208.svg"><img src="Activity%208.svg" width="200"></a> | **Activity 8.svg** |
-| <a href="Bookmark%207.svg"><img src="Bookmark%207.svg" width="200"></a> | **Bookmark 7.svg** |
-| <a href="Graph.svg"><img src="Graph.svg" width="200"></a> | **Graph.svg** |
-| <a href="Home%208.svg"><img src="Home%208.svg" width="200"></a> | **Home 8.svg** |
-| <a href="Image.svg"><img src="Image.svg" width="200"></a> | **Image.svg** |
-| <a href="Instagram.svg"><img src="Instagram.svg" width="200"></a> | **Instagram.svg** |
-| <a href="Italic.svg"><img src="Italic.svg" width="200"></a> | **Italic.svg** |
-| <a href="Keyboard.svg"><img src="Keyboard.svg" width="200"></a> | **Keyboard.svg** |
-| <a href="Message%2068.svg"><img src="Message%2068.svg" width="200"></a> | **Message 68.svg** |
-| <a href="Microphone%207.svg"><img src="Microphone%207.svg" width="200"></a> | **Microphone 7.svg** |
-| <a href="Moon.svg"><img src="Moon.svg" width="200"></a> | **Moon.svg** |
-| <a href="Notification%204.svg"><img src="Notification%204.svg" width="200"></a> | **Notification 4.svg** |
-| <a href="Palette.svg"><img src="Palette.svg" width="200"></a> | **Palette.svg** |
-| <a href="Send%208.svg"><img src="Send%208.svg" width="200"></a> | **Send 8.svg** |
-| <a href="Show.svg"><img src="Show.svg" width="200"></a> | **Show.svg** |
-| <a href="Tag.svg"><img src="Tag.svg" width="200"></a> | **Tag.svg** |
-| <a href="Verified.svg"><img src="Verified.svg" width="200"></a> | **Verified.svg** |
+| <a href="Activity%208.svg"><img src="Activity%208.svg" width="250" alt="Activity 8.svg"></a> | **📂 檔名:** `Activity 8.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `5.36KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Activity%208.svg) |
+| <a href="Bookmark%207.svg"><img src="Bookmark%207.svg" width="250" alt="Bookmark 7.svg"></a> | **📂 檔名:** `Bookmark 7.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `3.58KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Bookmark%207.svg) |
+| <a href="Graph.svg"><img src="Graph.svg" width="250" alt="Graph.svg"></a> | **📂 檔名:** `Graph.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `5.30KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Graph.svg) |
+| <a href="Home%208.svg"><img src="Home%208.svg" width="250" alt="Home 8.svg"></a> | **📂 檔名:** `Home 8.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `2.78KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Home%208.svg) |
+| <a href="Image.svg"><img src="Image.svg" width="250" alt="Image.svg"></a> | **📂 檔名:** `Image.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `4.86KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Image.svg) |
+| <a href="Instagram.svg"><img src="Instagram.svg" width="250" alt="Instagram.svg"></a> | **📂 檔名:** `Instagram.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `4.09KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Instagram.svg) |
+| <a href="Italic.svg"><img src="Italic.svg" width="250" alt="Italic.svg"></a> | **📂 檔名:** `Italic.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `4.37KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Italic.svg) |
+| <a href="Keyboard.svg"><img src="Keyboard.svg" width="250" alt="Keyboard.svg"></a> | **📂 檔名:** `Keyboard.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `4.57KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Keyboard.svg) |
+| <a href="Message%2068.svg"><img src="Message%2068.svg" width="250" alt="Message 68.svg"></a> | **📂 檔名:** `Message 68.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `4.68KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Message%2068.svg) |
+| <a href="Microphone%207.svg"><img src="Microphone%207.svg" width="250" alt="Microphone 7.svg"></a> | **📂 檔名:** `Microphone 7.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `3.64KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Microphone%207.svg) |
+| <a href="Moon.svg"><img src="Moon.svg" width="250" alt="Moon.svg"></a> | **📂 檔名:** `Moon.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `2.18KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Moon.svg) |
+| <a href="Notification%204.svg"><img src="Notification%204.svg" width="250" alt="Notification 4.svg"></a> | **📂 檔名:** `Notification 4.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `3.54KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Notification%204.svg) |
+| <a href="Palette.svg"><img src="Palette.svg" width="250" alt="Palette.svg"></a> | **📂 檔名:** `Palette.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `2.60KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Palette.svg) |
+| <a href="Send%208.svg"><img src="Send%208.svg" width="250" alt="Send 8.svg"></a> | **📂 檔名:** `Send 8.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `4.96KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Send%208.svg) |
+| <a href="Show.svg"><img src="Show.svg" width="250" alt="Show.svg"></a> | **📂 檔名:** `Show.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `3.53KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Show.svg) |
+| <a href="Tag.svg"><img src="Tag.svg" width="250" alt="Tag.svg"></a> | **📂 檔名:** `Tag.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `3.65KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Tag.svg) |
+| <a href="Verified.svg"><img src="Verified.svg" width="250" alt="Verified.svg"></a> | **📂 檔名:** `Verified.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `3.94KB`<br>📅 **更新:** `2026-02-27`<br><br>🔗 [直接查看原始檔](Verified.svg) |
