@@ -100,7 +100,7 @@ for root, dirs, files in sorted(os.walk(IMAGE_DIR)):
                     spec = f"🖼️ **尺寸:** `{w}x{h} px`"
 
                 # 💡 修正 CDN 網址 (補上 /) 並強制顯示 Markdown
-                cdn_url = f"https://cdn.jsdelivr.net{safe_repo}@{BRANCH}/{safe_rel_path}"
+                cdn_url = f"https://cdn.jsdelivr.net/gh/{safe_repo}@{BRANCH}/{safe_rel_path}"
                 copy_md = f"![{f}]({cdn_url})"
 
                 details = (
