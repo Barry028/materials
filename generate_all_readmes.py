@@ -108,7 +108,7 @@ for root, dirs, files in sorted(os.walk(IMAGE_DIR)):
                     f"{spec}<br>"
                     f"⚖️ **大小:** `{size}`<br>"
                     f"📅 **更新:** `{mtime}`<br><br>"
-                    f"🚀 **jsDelivr Markdown:**<br><code>{copy_md}</code><br>"
+                    f"🚀 **jsDelivr Markdown:**<br>`{copy_md}`<br>"
                     f"🔗 **直接連結 (Url):**<br><code>{cdn_url}</code><br>"
                     f"📥 [檢視原始檔]({safe_f})"
                 )
