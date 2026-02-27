@@ -4,7 +4,7 @@
 
 本目錄共有 `20` 個檔案
 
-| 🎨 預覽 (點擊放大)<br><img src="https://via.placeholder.com250x1/ffffff/000000?text=+" width="250" height="1"> | 📋 檔案詳細資訊與連結 |
+| 🎨 預覽 (點擊放大)<br><img src="data:image/gif;base64,R0lGODlh+gABAPAAAAAAAAAAACH5BAEAAAAALAAAAAD6AAEAAAINhI+py+0Po5y02ovzLQA7"> | 📋 檔案詳細資訊與連結 |
 | :--- | :--- |
 | <a href="bigSmile-1771674553784.svg"><img src="bigSmile-1771674553784.svg" width="250" alt="bigSmile-1771674553784.svg"></a> | **📂 檔名:** `bigSmile-1771674553784.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `5.23KB`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![bigSmile-1771674553784.svg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/Dicebear/Big%20Smile%20/bigSmile-1771674553784.svg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/Dicebear/Big%20Smile%20/bigSmile-1771674553784.svg</code><br>📥 [檢視原始檔](bigSmile-1771674553784.svg) |
 | <a href="bigSmile-1771674555280.svg"><img src="bigSmile-1771674555280.svg" width="250" alt="bigSmile-1771674555280.svg"></a> | **📂 檔名:** `bigSmile-1771674555280.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `5.34KB`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![bigSmile-1771674555280.svg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/Dicebear/Big%20Smile%20/bigSmile-1771674555280.svg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/Dicebear/Big%20Smile%20/bigSmile-1771674555280.svg</code><br>📥 [檢視原始檔](bigSmile-1771674555280.svg) |

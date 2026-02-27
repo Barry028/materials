@@ -4,7 +4,7 @@
 
 本目錄共有 `6` 個檔案
 
-| 🎨 預覽 (點擊放大)<br><img src="https://via.placeholder.com250x1/ffffff/000000?text=+" width="250" height="1"> | 📋 檔案詳細資訊與連結 |
+| 🎨 預覽 (點擊放大)<br><img src="data:image/gif;base64,R0lGODlh+gABAPAAAAAAAAAAACH5BAEAAAAALAAAAAD6AAEAAAINhI+py+0Po5y02ovzLQA7"> | 📋 檔案詳細資訊與連結 |
 | :--- | :--- |
 | <a href="angular.svg"><img src="angular.svg" width="250" alt="angular.svg"></a> | **📂 檔名:** `angular.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.58KB`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![angular.svg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/WebSkills/frameworks-and-libraries/angular.svg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/WebSkills/frameworks-and-libraries/angular.svg</code><br>📥 [檢視原始檔](angular.svg) |
 | <a href="lit-element.svg"><img src="lit-element.svg" width="250" alt="lit-element.svg"></a> | **📂 檔名:** `lit-element.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `5.19KB`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![lit-element.svg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/WebSkills/frameworks-and-libraries/lit-element.svg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/WebSkills/frameworks-and-libraries/lit-element.svg</code><br>📥 [檢視原始檔](lit-element.svg) |

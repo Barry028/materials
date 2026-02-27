@@ -4,7 +4,7 @@
 
 本目錄共有 `49` 個檔案
 
-| 🎨 預覽 (點擊放大)<br><img src="https://via.placeholder.com250x1/ffffff/000000?text=+" width="250" height="1"> | 📋 檔案詳細資訊與連結 |
+| 🎨 預覽 (點擊放大)<br><img src="data:image/gif;base64,R0lGODlh+gABAPAAAAAAAAAAACH5BAEAAAAALAAAAAD6AAEAAAINhI+py+0Po5y02ovzLQA7"> | 📋 檔案詳細資訊與連結 |
 | :--- | :--- |
 | <a href="audio-card.svg"><img src="audio-card.svg" width="250" alt="audio-card.svg"></a> | **📂 檔名:** `audio-card.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `856.00B`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![audio-card.svg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Pixel/Breeze%20/Devices%20/22/audio-card.svg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Pixel/Breeze%20/Devices%20/22/audio-card.svg</code><br>📥 [檢視原始檔](audio-card.svg) |
 | <a href="audio-headphones.svg"><img src="audio-headphones.svg" width="250" alt="audio-headphones.svg"></a> | **📂 檔名:** `audio-headphones.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `555.00B`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![audio-headphones.svg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Pixel/Breeze%20/Devices%20/22/audio-headphones.svg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Pixel/Breeze%20/Devices%20/22/audio-headphones.svg</code><br>📥 [檢視原始檔](audio-headphones.svg) |

@@ -4,7 +4,7 @@
 
 本目錄共有 `17` 個檔案
 
-| 🎨 預覽 (點擊放大)<br><img src="https://via.placeholder.com250x1/ffffff/000000?text=+" width="250" height="1"> | 📋 檔案詳細資訊與連結 |
+| 🎨 預覽 (點擊放大)<br><img src="data:image/gif;base64,R0lGODlh+gABAPAAAAAAAAAAACH5BAEAAAAALAAAAAD6AAEAAAINhI+py+0Po5y02ovzLQA7"> | 📋 檔案詳細資訊與連結 |
 | :--- | :--- |
 | <a href="notionists-1771676119792.svg"><img src="notionists-1771676119792.svg" width="250" alt="notionists-1771676119792.svg"></a> | **📂 檔名:** `notionists-1771676119792.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `10.91KB`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![notionists-1771676119792.svg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/Dicebear/Notionists%20/notionists-1771676119792.svg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/Dicebear/Notionists%20/notionists-1771676119792.svg</code><br>📥 [檢視原始檔](notionists-1771676119792.svg) |
 | <a href="notionists-1771676123100.svg"><img src="notionists-1771676123100.svg" width="250" alt="notionists-1771676123100.svg"></a> | **📂 檔名:** `notionists-1771676123100.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `12.24KB`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![notionists-1771676123100.svg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/Dicebear/Notionists%20/notionists-1771676123100.svg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/Dicebear/Notionists%20/notionists-1771676123100.svg</code><br>📥 [檢視原始檔](notionists-1771676123100.svg) |

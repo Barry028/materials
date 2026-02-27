@@ -4,7 +4,7 @@
 
 本目錄共有 `38` 個檔案
 
-| 🎨 預覽 (點擊放大)<br><img src="https://via.placeholder.com250x1/ffffff/000000?text=+" width="250" height="1"> | 📋 檔案詳細資訊與連結 |
+| 🎨 預覽 (點擊放大)<br><img src="data:image/gif;base64,R0lGODlh+gABAPAAAAAAAAAAACH5BAEAAAAALAAAAAD6AAEAAAINhI+py+0Po5y02ovzLQA7"> | 📋 檔案詳細資訊與連結 |
 | :--- | :--- |
 | <a href="android.svg"><img src="android.svg" width="250" alt="android.svg"></a> | **📂 檔名:** `android.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `405.00B`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![android.svg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Pixel/Library/brands/android.svg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Pixel/Library/brands/android.svg</code><br>📥 [檢視原始檔](android.svg) |
 | <a href="angellist.svg"><img src="angellist.svg" width="250" alt="angellist.svg"></a> | **📂 檔名:** `angellist.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.67KB`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![angellist.svg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Pixel/Library/brands/angellist.svg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Pixel/Library/brands/angellist.svg</code><br>📥 [檢視原始檔](angellist.svg) |

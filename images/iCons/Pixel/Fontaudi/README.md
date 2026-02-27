@@ -4,7 +4,7 @@
 
 本目錄共有 `52` 個檔案
 
-| 🎨 預覽 (點擊放大)<br><img src="https://via.placeholder.com250x1/ffffff/000000?text=+" width="250" height="1"> | 📋 檔案詳細資訊與連結 |
+| 🎨 預覽 (點擊放大)<br><img src="data:image/gif;base64,R0lGODlh+gABAPAAAAAAAAAAACH5BAEAAAAALAAAAAD6AAEAAAINhI+py+0Po5y02ovzLQA7"> | 📋 檔案詳細資訊與連結 |
 | :--- | :--- |
 | <a href="arpchord-svgrepo-com.svg"><img src="arpchord-svgrepo-com.svg" width="250" alt="arpchord-svgrepo-com.svg"></a> | **📂 檔名:** `arpchord-svgrepo-com.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.02KB`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![arpchord-svgrepo-com.svg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Pixel/Fontaudi/arpchord-svgrepo-com.svg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Pixel/Fontaudi/arpchord-svgrepo-com.svg</code><br>📥 [檢視原始檔](arpchord-svgrepo-com.svg) |
 | <a href="arpdown-svgrepo-com.svg"><img src="arpdown-svgrepo-com.svg" width="250" alt="arpdown-svgrepo-com.svg"></a> | **📂 檔名:** `arpdown-svgrepo-com.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `898.00B`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![arpdown-svgrepo-com.svg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Pixel/Fontaudi/arpdown-svgrepo-com.svg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Pixel/Fontaudi/arpdown-svgrepo-com.svg</code><br>📥 [檢視原始檔](arpdown-svgrepo-com.svg) |

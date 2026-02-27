@@ -4,7 +4,7 @@
 
 本目錄共有 `11` 個檔案
 
-| 🎨 預覽 (點擊放大)<br><img src="https://via.placeholder.com250x1/ffffff/000000?text=+" width="250" height="1"> | 📋 檔案詳細資訊與連結 |
+| 🎨 預覽 (點擊放大)<br><img src="data:image/gif;base64,R0lGODlh+gABAPAAAAAAAAAAACH5BAEAAAAALAAAAAD6AAEAAAINhI+py+0Po5y02ovzLQA7"> | 📋 檔案詳細資訊與連結 |
 | :--- | :--- |
 | <a href="arrays.svg"><img src="arrays.svg" width="250" alt="arrays.svg"></a> | **📂 檔名:** `arrays.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `5.40KB`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![arrays.svg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/WebSkills/algorithms-and-data-structures/data-structures/arrays.svg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/WebSkills/algorithms-and-data-structures/data-structures/arrays.svg</code><br>📥 [檢視原始檔](arrays.svg) |
 | <a href="binary-indexed-tree.svg"><img src="binary-indexed-tree.svg" width="250" alt="binary-indexed-tree.svg"></a> | **📂 檔名:** `binary-indexed-tree.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `5.27KB`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![binary-indexed-tree.svg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/WebSkills/algorithms-and-data-structures/data-structures/binary-indexed-tree.svg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/WebSkills/algorithms-and-data-structures/data-structures/binary-indexed-tree.svg</code><br>📥 [檢視原始檔](binary-indexed-tree.svg) |

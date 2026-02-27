@@ -4,7 +4,7 @@
 
 本目錄共有 `25` 個檔案
 
-| 🎨 預覽 (點擊放大)<br><img src="https://via.placeholder.com250x1/ffffff/000000?text=+" width="250" height="1"> | 📋 檔案詳細資訊與連結 |
+| 🎨 預覽 (點擊放大)<br><img src="data:image/gif;base64,R0lGODlh+gABAPAAAAAAAAAAACH5BAEAAAAALAAAAAD6AAEAAAINhI+py+0Po5y02ovzLQA7"> | 📋 檔案詳細資訊與連結 |
 | :--- | :--- |
 | <a href="Black-Claps-bf.png"><img src="Black-Claps-bf.png" width="250" alt="Black-Claps-bf.png"></a> | **📂 檔名:** `Black-Claps-bf.png`<br>🖼️ **尺寸:** `1000x1000 px`<br>⚖️ **大小:** `42.80KB`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![Black-Claps-bf.png](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/3Ds/3D_Emojis/Black-Claps-bf.png)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/3Ds/3D_Emojis/Black-Claps-bf.png</code><br>📥 [檢視原始檔](Black-Claps-bf.png) |
 | <a href="Black-Claps_Black-22.png"><img src="Black-Claps_Black-22.png" width="250" alt="Black-Claps_Black-22.png"></a> | **📂 檔名:** `Black-Claps_Black-22.png`<br>🖼️ **尺寸:** `1000x1000 px`<br>⚖️ **大小:** `39.99KB`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![Black-Claps_Black-22.png](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/3Ds/3D_Emojis/Black-Claps_Black-22.png)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/3Ds/3D_Emojis/Black-Claps_Black-22.png</code><br>📥 [檢視原始檔](Black-Claps_Black-22.png) |

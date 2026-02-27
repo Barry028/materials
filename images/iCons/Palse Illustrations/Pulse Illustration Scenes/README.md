@@ -4,7 +4,7 @@
 
 本目錄共有 `20` 個檔案
 
-| 🎨 預覽 (點擊放大)<br><img src="https://via.placeholder.com250x1/ffffff/000000?text=+" width="250" height="1"> | 📋 檔案詳細資訊與連結 |
+| 🎨 預覽 (點擊放大)<br><img src="data:image/gif;base64,R0lGODlh+gABAPAAAAAAAAAAACH5BAEAAAAALAAAAAD6AAEAAAINhI+py+0Po5y02ovzLQA7"> | 📋 檔案詳細資訊與連結 |
 | :--- | :--- |
 | <a href="1%20Working%20remotely.svg"><img src="1%20Working%20remotely.svg" width="250" alt="1 Working remotely.svg"></a> | **📂 檔名:** `1 Working remotely.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `13.54KB`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![1 Working remotely.svg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Palse%20Illustrations/Pulse%20Illustration%20Scenes/1%20Working%20remotely.svg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Palse%20Illustrations/Pulse%20Illustration%20Scenes/1%20Working%20remotely.svg</code><br>📥 [檢視原始檔](1%20Working%20remotely.svg) |
 | <a href="10%20Growth.svg"><img src="10%20Growth.svg" width="250" alt="10 Growth.svg"></a> | **📂 檔名:** `10 Growth.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `16.70KB`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![10 Growth.svg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Palse%20Illustrations/Pulse%20Illustration%20Scenes/10%20Growth.svg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Palse%20Illustrations/Pulse%20Illustration%20Scenes/10%20Growth.svg</code><br>📥 [檢視原始檔](10%20Growth.svg) |

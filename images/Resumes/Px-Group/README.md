@@ -4,7 +4,7 @@
 
 本目錄共有 `671` 個檔案
 
-| 🎨 預覽 (點擊放大)<br><img src="https://via.placeholder.com250x1/ffffff/000000?text=+" width="250" height="1"> | 📋 檔案詳細資訊與連結 |
+| 🎨 預覽 (點擊放大)<br><img src="data:image/gif;base64,R0lGODlh+gABAPAAAAAAAAAAACH5BAEAAAAALAAAAAD6AAEAAAINhI+py+0Po5y02ovzLQA7"> | 📋 檔案詳細資訊與連結 |
 | :--- | :--- |
 | <a href="4k-box.svg"><img src="4k-box.svg" width="250" alt="4k-box.svg"></a> | **📂 檔名:** `4k-box.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `505.00B`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![4k-box.svg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/Resumes/Px-Group/4k-box.svg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/Resumes/Px-Group/4k-box.svg</code><br>📥 [檢視原始檔](4k-box.svg) |
 | <a href="Bluetooth.svg"><img src="Bluetooth.svg" width="250" alt="Bluetooth.svg"></a> | **📂 檔名:** `Bluetooth.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `590.00B`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![Bluetooth.svg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/Resumes/Px-Group/Bluetooth.svg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/Resumes/Px-Group/Bluetooth.svg</code><br>📥 [檢視原始檔](Bluetooth.svg) |

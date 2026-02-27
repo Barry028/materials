@@ -4,7 +4,7 @@
 
 本目錄共有 `20` 個檔案
 
-| 🎨 預覽 (點擊放大)<br><img src="https://via.placeholder.com250x1/ffffff/000000?text=+" width="250" height="1"> | 📋 檔案詳細資訊與連結 |
+| 🎨 預覽 (點擊放大)<br><img src="data:image/gif;base64,R0lGODlh+gABAPAAAAAAAAAAACH5BAEAAAAALAAAAAD6AAEAAAINhI+py+0Po5y02ovzLQA7"> | 📋 檔案詳細資訊與連結 |
 | :--- | :--- |
 | <a href="diamond_fill.svg"><img src="diamond_fill.svg" width="250" alt="diamond_fill.svg"></a> | **📂 檔名:** `diamond_fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `15.76KB`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![diamond_fill.svg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Mingcute%20Icon%20/shape/diamond_fill.svg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Mingcute%20Icon%20/shape/diamond_fill.svg</code><br>📥 [檢視原始檔](diamond_fill.svg) |
 | <a href="diamond_line.svg"><img src="diamond_line.svg" width="250" alt="diamond_line.svg"></a> | **📂 檔名:** `diamond_line.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `16.09KB`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![diamond_line.svg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Mingcute%20Icon%20/shape/diamond_line.svg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Mingcute%20Icon%20/shape/diamond_line.svg</code><br>📥 [檢視原始檔](diamond_line.svg) |

@@ -4,7 +4,7 @@
 
 本目錄共有 `8` 個檔案
 
-| 🎨 預覽 (點擊放大)<br><img src="https://via.placeholder.com250x1/ffffff/000000?text=+" width="250" height="1"> | 📋 檔案詳細資訊與連結 |
+| 🎨 預覽 (點擊放大)<br><img src="data:image/gif;base64,R0lGODlh+gABAPAAAAAAAAAAACH5BAEAAAAALAAAAAD6AAEAAAINhI+py+0Po5y02ovzLQA7"> | 📋 檔案詳細資訊與連結 |
 | :--- | :--- |
 | <a href="diaspora.svg"><img src="diaspora.svg" width="250" alt="diaspora.svg"></a> | **📂 檔名:** `diaspora.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `6.50KB`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![diaspora.svg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Pixel/Breeze%20/Apps%20/64/diaspora.svg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Pixel/Breeze%20/Apps%20/64/diaspora.svg</code><br>📥 [檢視原始檔](diaspora.svg) |
 | <a href="hotspot.svg"><img src="hotspot.svg" width="250" alt="hotspot.svg"></a> | **📂 檔名:** `hotspot.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `8.33KB`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![hotspot.svg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Pixel/Breeze%20/Apps%20/64/hotspot.svg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Pixel/Breeze%20/Apps%20/64/hotspot.svg</code><br>📥 [檢視原始檔](hotspot.svg) |

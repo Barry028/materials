@@ -4,7 +4,7 @@
 
 本目錄共有 `48` 個檔案
 
-| 🎨 預覽 (點擊放大)<br><img src="https://via.placeholder.com250x1/ffffff/000000?text=+" width="250" height="1"> | 📋 檔案詳細資訊與連結 |
+| 🎨 預覽 (點擊放大)<br><img src="data:image/gif;base64,R0lGODlh+gABAPAAAAAAAAAAACH5BAEAAAAALAAAAAD6AAEAAAINhI+py+0Po5y02ovzLQA7"> | 📋 檔案詳細資訊與連結 |
 | :--- | :--- |
 | <a href="001-add%20file.svg"><img src="001-add%20file.svg" width="250" alt="001-add file.svg"></a> | **📂 檔名:** `001-add file.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `3.19KB`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![001-add file.svg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Folders/files-and-document-01/001-add%20file.svg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Folders/files-and-document-01/001-add%20file.svg</code><br>📥 [檢視原始檔](001-add%20file.svg) |
 | <a href="002-add%20folder.svg"><img src="002-add%20folder.svg" width="250" alt="002-add folder.svg"></a> | **📂 檔名:** `002-add folder.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `3.02KB`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![002-add folder.svg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Folders/files-and-document-01/002-add%20folder.svg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Folders/files-and-document-01/002-add%20folder.svg</code><br>📥 [檢視原始檔](002-add%20folder.svg) |

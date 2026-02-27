@@ -4,7 +4,7 @@
 
 本目錄共有 `736` 個檔案
 
-| 🎨 預覽 (點擊放大)<br><img src="https://via.placeholder.com250x1/ffffff/000000?text=+" width="250" height="1"> | 📋 檔案詳細資訊與連結 |
+| 🎨 預覽 (點擊放大)<br><img src="data:image/gif;base64,R0lGODlh+gABAPAAAAAAAAAAACH5BAEAAAAALAAAAAD6AAEAAAINhI+py+0Po5y02ovzLQA7"> | 📋 檔案詳細資訊與連結 |
 | :--- | :--- |
 | <a href="Alignbar_1.svg"><img src="Alignbar_1.svg" width="250" alt="Alignbar_1.svg"></a> | **📂 檔名:** `Alignbar_1.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `709.00B`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![Alignbar_1.svg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Iconos%20Ikon%20/Alignbar_1.svg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Iconos%20Ikon%20/Alignbar_1.svg</code><br>📥 [檢視原始檔](Alignbar_1.svg) |
 | <a href="Alignbar_10.svg"><img src="Alignbar_10.svg" width="250" alt="Alignbar_10.svg"></a> | **📂 檔名:** `Alignbar_10.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `583.00B`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![Alignbar_10.svg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Iconos%20Ikon%20/Alignbar_10.svg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Iconos%20Ikon%20/Alignbar_10.svg</code><br>📥 [檢視原始檔](Alignbar_10.svg) |

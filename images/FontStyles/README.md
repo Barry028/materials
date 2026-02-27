@@ -4,7 +4,7 @@
 
 本目錄共有 `23` 個檔案
 
-| 🎨 預覽 (點擊放大)<br><img src="https://via.placeholder.com250x1/ffffff/000000?text=+" width="250" height="1"> | 📋 檔案詳細資訊與連結 |
+| 🎨 預覽 (點擊放大)<br><img src="data:image/gif;base64,R0lGODlh+gABAPAAAAAAAAAAACH5BAEAAAAALAAAAAD6AAEAAAINhI+py+0Po5y02ovzLQA7"> | 📋 檔案詳細資訊與連結 |
 | :--- | :--- |
 | <a href="AbolitionAnzeigen.png"><img src="AbolitionAnzeigen.png" width="250" alt="AbolitionAnzeigen.png"></a> | **📂 檔名:** `AbolitionAnzeigen.png`<br>🖼️ **尺寸:** `720x250 px`<br>⚖️ **大小:** `87.71KB`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![AbolitionAnzeigen.png](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/FontStyles/AbolitionAnzeigen.png)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/FontStyles/AbolitionAnzeigen.png</code><br>📥 [檢視原始檔](AbolitionAnzeigen.png) |
 | <a href="Adobe%E9%BB%91%E4%BD%93.png"><img src="Adobe%E9%BB%91%E4%BD%93.png" width="250" alt="Adobe黑体.png"></a> | **📂 檔名:** `Adobe黑体.png`<br>🖼️ **尺寸:** `1896x300 px`<br>⚖️ **大小:** `268.48KB`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![Adobe黑体.png](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/FontStyles/Adobe%E9%BB%91%E4%BD%93.png)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/FontStyles/Adobe%E9%BB%91%E4%BD%93.png</code><br>📥 [檢視原始檔](Adobe%E9%BB%91%E4%BD%93.png) |

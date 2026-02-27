@@ -4,7 +4,7 @@
 
 本目錄共有 `7` 個檔案
 
-| 🎨 預覽 (點擊放大)<br><img src="https://via.placeholder.com250x1/ffffff/000000?text=+" width="250" height="1"> | 📋 檔案詳細資訊與連結 |
+| 🎨 預覽 (點擊放大)<br><img src="data:image/gif;base64,R0lGODlh+gABAPAAAAAAAAAAACH5BAEAAAAALAAAAAD6AAEAAAINhI+py+0Po5y02ovzLQA7"> | 📋 檔案詳細資訊與連結 |
 | :--- | :--- |
 | <a href="grab.svg"><img src="grab.svg" width="250" alt="grab.svg"></a> | **📂 檔名:** `grab.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.78KB`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![grab.svg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/Resumes/Px-Cursots/grab.svg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/Resumes/Px-Cursots/grab.svg</code><br>📥 [檢視原始檔](grab.svg) |
 | <a href="grabbing.svg"><img src="grabbing.svg" width="250" alt="grabbing.svg"></a> | **📂 檔名:** `grabbing.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.59KB`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![grabbing.svg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/Resumes/Px-Cursots/grabbing.svg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/Resumes/Px-Cursots/grabbing.svg</code><br>📥 [檢視原始檔](grabbing.svg) |

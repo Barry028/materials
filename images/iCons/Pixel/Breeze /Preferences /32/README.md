@@ -4,7 +4,7 @@
 
 本目錄共有 `134` 個檔案
 
-| 🎨 預覽 (點擊放大)<br><img src="https://via.placeholder.com250x1/ffffff/000000?text=+" width="250" height="1"> | 📋 檔案詳細資訊與連結 |
+| 🎨 預覽 (點擊放大)<br><img src="data:image/gif;base64,R0lGODlh+gABAPAAAAAAAAAAACH5BAEAAAAALAAAAAD6AAEAAAINhI+py+0Po5y02ovzLQA7"> | 📋 檔案詳細資訊與連結 |
 | :--- | :--- |
 | <a href="device-notifier.svg"><img src="device-notifier.svg" width="250" alt="device-notifier.svg"></a> | **📂 檔名:** `device-notifier.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `4.12KB`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![device-notifier.svg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Pixel/Breeze%20/Preferences%20/32/device-notifier.svg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Pixel/Breeze%20/Preferences%20/32/device-notifier.svg</code><br>📥 [檢視原始檔](device-notifier.svg) |
 | <a href="drive-removable-media.svg"><img src="drive-removable-media.svg" width="250" alt="drive-removable-media.svg"></a> | **📂 檔名:** `drive-removable-media.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `4.53KB`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![drive-removable-media.svg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Pixel/Breeze%20/Preferences%20/32/drive-removable-media.svg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Pixel/Breeze%20/Preferences%20/32/drive-removable-media.svg</code><br>📥 [檢視原始檔](drive-removable-media.svg) |

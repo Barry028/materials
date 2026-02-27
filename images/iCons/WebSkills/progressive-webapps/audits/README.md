@@ -4,7 +4,7 @@
 
 本目錄共有 `3` 個檔案
 
-| 🎨 預覽 (點擊放大)<br><img src="https://via.placeholder.com250x1/ffffff/000000?text=+" width="250" height="1"> | 📋 檔案詳細資訊與連結 |
+| 🎨 預覽 (點擊放大)<br><img src="data:image/gif;base64,R0lGODlh+gABAPAAAAAAAAAAACH5BAEAAAAALAAAAAD6AAEAAAINhI+py+0Po5y02ovzLQA7"> | 📋 檔案詳細資訊與連結 |
 | :--- | :--- |
 | <a href="chrome-devtools.svg"><img src="chrome-devtools.svg" width="250" alt="chrome-devtools.svg"></a> | **📂 檔名:** `chrome-devtools.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `19.79KB`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![chrome-devtools.svg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/WebSkills/progressive-webapps/audits/chrome-devtools.svg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/WebSkills/progressive-webapps/audits/chrome-devtools.svg</code><br>📥 [檢視原始檔](chrome-devtools.svg) |
 | <a href="lighthouse.svg"><img src="lighthouse.svg" width="250" alt="lighthouse.svg"></a> | **📂 檔名:** `lighthouse.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `9.46KB`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![lighthouse.svg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/WebSkills/progressive-webapps/audits/lighthouse.svg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/WebSkills/progressive-webapps/audits/lighthouse.svg</code><br>📥 [檢視原始檔](lighthouse.svg) |

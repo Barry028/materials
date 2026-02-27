@@ -4,7 +4,7 @@
 
 本目錄共有 `15` 個檔案
 
-| 🎨 預覽 (點擊放大)<br><img src="https://via.placeholder.com250x1/ffffff/000000?text=+" width="250" height="1"> | 📋 檔案詳細資訊與連結 |
+| 🎨 預覽 (點擊放大)<br><img src="data:image/gif;base64,R0lGODlh+gABAPAAAAAAAAAAACH5BAEAAAAALAAAAAD6AAEAAAINhI+py+0Po5y02ovzLQA7"> | 📋 檔案詳細資訊與連結 |
 | :--- | :--- |
 | <a href="Bag_1.svg"><img src="Bag_1.svg" width="250" alt="Bag_1.svg"></a> | **📂 檔名:** `Bag_1.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `849.00B`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![Bag_1.svg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Circum/Finances%20%26%20Payments/Bag_1.svg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Circum/Finances%20%26%20Payments/Bag_1.svg</code><br>📥 [檢視原始檔](Bag_1.svg) |
 | <a href="Bank.svg"><img src="Bank.svg" width="250" alt="Bank.svg"></a> | **📂 檔名:** `Bank.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `643.00B`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![Bank.svg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Circum/Finances%20%26%20Payments/Bank.svg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Circum/Finances%20%26%20Payments/Bank.svg</code><br>📥 [檢視原始檔](Bank.svg) |

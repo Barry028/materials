@@ -4,7 +4,7 @@
 
 本目錄共有 `39` 個檔案
 
-| 🎨 預覽 (點擊放大)<br><img src="https://via.placeholder.com250x1/ffffff/000000?text=+" width="250" height="1"> | 📋 檔案詳細資訊與連結 |
+| 🎨 預覽 (點擊放大)<br><img src="data:image/gif;base64,R0lGODlh+gABAPAAAAAAAAAAACH5BAEAAAAALAAAAAD6AAEAAAINhI+py+0Po5y02ovzLQA7"> | 📋 檔案詳細資訊與連結 |
 | :--- | :--- |
 | <a href="041-bold.svg"><img src="041-bold.svg" width="250" alt="041-bold.svg"></a> | **📂 檔名:** `041-bold.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `934.00B`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![041-bold.svg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Pixel/Pixel%20Icon%20Set%20/Text-editor/Solid/041-bold.svg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Pixel/Pixel%20Icon%20Set%20/Text-editor/Solid/041-bold.svg</code><br>📥 [檢視原始檔](041-bold.svg) |
 | <a href="041-center-alignment.svg"><img src="041-center-alignment.svg" width="250" alt="041-center-alignment.svg"></a> | **📂 檔名:** `041-center-alignment.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `934.00B`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![041-center-alignment.svg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Pixel/Pixel%20Icon%20Set%20/Text-editor/Solid/041-center-alignment.svg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Pixel/Pixel%20Icon%20Set%20/Text-editor/Solid/041-center-alignment.svg</code><br>📥 [檢視原始檔](041-center-alignment.svg) |

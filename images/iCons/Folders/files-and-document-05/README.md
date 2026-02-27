@@ -4,7 +4,7 @@
 
 本目錄共有 `70` 個檔案
 
-| 🎨 預覽 (點擊放大)<br><img src="https://via.placeholder.com250x1/ffffff/000000?text=+" width="250" height="1"> | 📋 檔案詳細資訊與連結 |
+| 🎨 預覽 (點擊放大)<br><img src="data:image/gif;base64,R0lGODlh+gABAPAAAAAAAAAAACH5BAEAAAAALAAAAAD6AAEAAAINhI+py+0Po5y02ovzLQA7"> | 📋 檔案詳細資訊與連結 |
 | :--- | :--- |
 | <a href="001-mail%20inbox%20app.svg"><img src="001-mail%20inbox%20app.svg" width="250" alt="001-mail inbox app.svg"></a> | **📂 檔名:** `001-mail inbox app.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `3.57KB`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![001-mail inbox app.svg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Folders/files-and-document-05/001-mail%20inbox%20app.svg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Folders/files-and-document-05/001-mail%20inbox%20app.svg</code><br>📥 [檢視原始檔](001-mail%20inbox%20app.svg) |
 | <a href="002-speech%20bubble.svg"><img src="002-speech%20bubble.svg" width="250" alt="002-speech bubble.svg"></a> | **📂 檔名:** `002-speech bubble.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `4.04KB`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![002-speech bubble.svg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Folders/files-and-document-05/002-speech%20bubble.svg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Folders/files-and-document-05/002-speech%20bubble.svg</code><br>📥 [檢視原始檔](002-speech%20bubble.svg) |

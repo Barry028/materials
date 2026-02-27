@@ -4,7 +4,7 @@
 
 本目錄共有 `54` 個檔案
 
-| 🎨 預覽 (點擊放大)<br><img src="https://via.placeholder.com250x1/ffffff/000000?text=+" width="250" height="1"> | 📋 檔案詳細資訊與連結 |
+| 🎨 預覽 (點擊放大)<br><img src="data:image/gif;base64,R0lGODlh+gABAPAAAAAAAAAAACH5BAEAAAAALAAAAAD6AAEAAAINhI+py+0Po5y02ovzLQA7"> | 📋 檔案詳細資訊與連結 |
 | :--- | :--- |
 | <a href="apport.svg"><img src="apport.svg" width="250" alt="apport.svg"></a> | **📂 檔名:** `apport.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.46KB`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![apport.svg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Pixel/Breeze%20/Status%20/32/apport.svg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Pixel/Breeze%20/Status%20/32/apport.svg</code><br>📥 [檢視原始檔](apport.svg) |
 | <a href="battery-000-charging.svg"><img src="battery-000-charging.svg" width="250" alt="battery-000-charging.svg"></a> | **📂 檔名:** `battery-000-charging.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `584.00B`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![battery-000-charging.svg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Pixel/Breeze%20/Status%20/32/battery-000-charging.svg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Pixel/Breeze%20/Status%20/32/battery-000-charging.svg</code><br>📥 [檢視原始檔](battery-000-charging.svg) |

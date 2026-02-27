@@ -4,7 +4,7 @@
 
 本目錄共有 `22` 個檔案
 
-| 🎨 預覽 (點擊放大)<br><img src="https://via.placeholder.com250x1/ffffff/000000?text=+" width="250" height="1"> | 📋 檔案詳細資訊與連結 |
+| 🎨 預覽 (點擊放大)<br><img src="data:image/gif;base64,R0lGODlh+gABAPAAAAAAAAAAACH5BAEAAAAALAAAAAD6AAEAAAINhI+py+0Po5y02ovzLQA7"> | 📋 檔案詳細資訊與連結 |
 | :--- | :--- |
 | <a href="BackPack-60.webp"><img src="BackPack-60.webp" width="250" alt="BackPack-60.webp"></a> | **📂 檔名:** `BackPack-60.webp`<br>🖼️ **尺寸:** `3000x3000 px`<br>⚖️ **大小:** `81.25KB`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![BackPack-60.webp](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/3Ds/3D_Education/BackPack-60.webp)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/3Ds/3D_Education/BackPack-60.webp</code><br>📥 [檢視原始檔](BackPack-60.webp) |
 | <a href="BackPack-b3.png"><img src="BackPack-b3.png" width="250" alt="BackPack-b3.png"></a> | **📂 檔名:** `BackPack-b3.png`<br>🖼️ **尺寸:** `3000x3000 px`<br>⚖️ **大小:** `15.80MB`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![BackPack-b3.png](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/3Ds/3D_Education/BackPack-b3.png)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/3Ds/3D_Education/BackPack-b3.png</code><br>📥 [檢視原始檔](BackPack-b3.png) |

@@ -4,7 +4,7 @@
 
 本目錄共有 `189` 個檔案
 
-| 🎨 預覽 (點擊放大)<br><img src="https://via.placeholder.com250x1/ffffff/000000?text=+" width="250" height="1"> | 📋 檔案詳細資訊與連結 |
+| 🎨 預覽 (點擊放大)<br><img src="data:image/gif;base64,R0lGODlh+gABAPAAAAAAAAAAACH5BAEAAAAALAAAAAD6AAEAAAINhI+py+0Po5y02ovzLQA7"> | 📋 檔案詳細資訊與連結 |
 | :--- | :--- |
 | <a href="Designed%20by%20Tom%20for%20Basedash.svg"><img src="Designed%20by%20Tom%20for%20Basedash.svg" width="250" alt="Designed by Tom for Basedash.svg"></a> | **📂 檔名:** `Designed by Tom for Basedash.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `24.88KB`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![Designed by Tom for Basedash.svg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Pixel/Base%20/Designed%20by%20Tom%20for%20Basedash.svg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Pixel/Base%20/Designed%20by%20Tom%20for%20Basedash.svg</code><br>📥 [檢視原始檔](Designed%20by%20Tom%20for%20Basedash.svg) |
 | <a href="accordionDown.svg"><img src="accordionDown.svg" width="250" alt="accordionDown.svg"></a> | **📂 檔名:** `accordionDown.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `546.00B`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![accordionDown.svg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Pixel/Base%20/accordionDown.svg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Pixel/Base%20/accordionDown.svg</code><br>📥 [檢視原始檔](accordionDown.svg) |
