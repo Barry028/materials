@@ -4,4 +4,4 @@
 
 | 預覽 | 資訊 |
 | :--- | :--- |
-| <a href="industrialsharp.svg"><img src="industrialsharp.svg" width="250"></a> | **industrialsharp.svg** |
+| <a href="industrialsharp.svg"><img src="industrialsharp.svg" width=200></a> | **industrialsharp.svg** |

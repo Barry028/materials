@@ -4,4 +4,4 @@
 
 | 預覽 | 資訊 |
 | :--- | :--- |
-| <a href="Illustration-01.svg"><img src="Illustration-01.svg" width="250"></a> | **Illustration-01.svg** |
+| <a href="Illustration-01.svg"><img src="Illustration-01.svg" width=200></a> | **Illustration-01.svg** |
