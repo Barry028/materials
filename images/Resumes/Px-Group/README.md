@@ -57,8 +57,8 @@
 | <a href="archer-2.svg"><img src="archer-2.svg" width="250"></a> | **archer-2.svg**<br>Vector (SVG) | 710.00B |
 | <a href="archer.svg"><img src="archer.svg" width="250"></a> | **archer.svg**<br>Vector (SVG) | 753.00B |
 | <a href="archive.svg"><img src="archive.svg" width="250"></a> | **archive.svg**<br>Vector (SVG) | 1.01KB |
-| <a href="arrow lefrectangle.svg"><img src="arrow lefrectangle.svg" width="250"></a> | **arrow lefrectangle.svg**<br>Vector (SVG) | 576.00B |
-| <a href="arrow top.svg"><img src="arrow top.svg" width="250"></a> | **arrow top.svg**<br>Vector (SVG) | 566.00B |
+| <a href="arrow%20lefrectangle.svg"><img src="arrow%20lefrectangle.svg" width="250"></a> | **arrow lefrectangle.svg**<br>Vector (SVG) | 576.00B |
+| <a href="arrow%20top.svg"><img src="arrow%20top.svg" width="250"></a> | **arrow top.svg**<br>Vector (SVG) | 566.00B |
 | <a href="arrow-bar-left.svg"><img src="arrow-bar-left.svg" width="250"></a> | **arrow-bar-left.svg**<br>Vector (SVG) | 523.00B |
 | <a href="arrow-bar-up.svg"><img src="arrow-bar-up.svg" width="250"></a> | **arrow-bar-up.svg**<br>Vector (SVG) | 472.00B |
 | <a href="arrow-down-box.svg"><img src="arrow-down-box.svg" width="250"></a> | **arrow-down-box.svg**<br>Vector (SVG) | 604.00B |
@@ -167,7 +167,7 @@
 | <a href="chat.svg"><img src="chat.svg" width="250"></a> | **chat.svg**<br>Vector (SVG) | 497.00B |
 | <a href="check-double.svg"><img src="check-double.svg" width="250"></a> | **check-double.svg**<br>Vector (SVG) | 827.00B |
 | <a href="check.svg"><img src="check.svg" width="250"></a> | **check.svg**<br>Vector (SVG) | 561.00B |
-| <a href="checkbox orectangle.svg"><img src="checkbox orectangle.svg" width="250"></a> | **checkbox orectangle.svg**<br>Vector (SVG) | 502.00B |
+| <a href="checkbox%20orectangle.svg"><img src="checkbox%20orectangle.svg" width="250"></a> | **checkbox orectangle.svg**<br>Vector (SVG) | 502.00B |
 | <a href="checkbox.svg"><img src="checkbox.svg" width="250"></a> | **checkbox.svg**<br>Vector (SVG) | 587.00B |
 | <a href="chess.svg"><img src="chess.svg" width="250"></a> | **chess.svg**<br>Vector (SVG) | 480.00B |
 | <a href="chevron-right.svg"><img src="chevron-right.svg" width="250"></a> | **chevron-right.svg**<br>Vector (SVG) | 495.00B |
@@ -451,7 +451,7 @@
 | <a href="paperclip.svg"><img src="paperclip.svg" width="250"></a> | **paperclip.svg**<br>Vector (SVG) | 443.00B |
 | <a href="paste-document.svg"><img src="paste-document.svg" width="250"></a> | **paste-document.svg**<br>Vector (SVG) | 637.00B |
 | <a href="paste-folder.svg"><img src="paste-folder.svg" width="250"></a> | **paste-folder.svg**<br>Vector (SVG) | 633.00B |
-| <a href="path 6682.svg"><img src="path 6682.svg" width="250"></a> | **path 6682.svg**<br>Vector (SVG) | 804.00B |
+| <a href="path%206682.svg"><img src="path%206682.svg" width="250"></a> | **path 6682.svg**<br>Vector (SVG) | 804.00B |
 | <a href="pause.svg"><img src="pause.svg" width="250"></a> | **pause.svg**<br>Vector (SVG) | 434.00B |
 | <a href="pen.svg"><img src="pen.svg" width="250"></a> | **pen.svg**<br>Vector (SVG) | 567.00B |
 | <a href="person-Group.svg"><img src="person-Group.svg" width="250"></a> | **person-Group.svg**<br>Vector (SVG) | 848.00B |
@@ -674,4 +674,4 @@
 | <a href="zoom.svg"><img src="zoom.svg" width="250"></a> | **zoom.svg**<br>Vector (SVG) | 540.00B |
 | <a href="zoomin.svg"><img src="zoomin.svg" width="250"></a> | **zoomin.svg**<br>Vector (SVG) | 542.00B |
 | <a href="zoomout.svg"><img src="zoomout.svg" width="250"></a> | **zoomout.svg**<br>Vector (SVG) | 525.00B |
-| <a href="Сlosed.svg"><img src="Сlosed.svg" width="250"></a> | **Сlosed.svg**<br>Vector (SVG) | 625.00B |
+| <a href="%D0%A1losed.svg"><img src="%D0%A1losed.svg" width="250"></a> | **Сlosed.svg**<br>Vector (SVG) | 625.00B |

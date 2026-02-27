@@ -15,11 +15,11 @@
 | <a href="audio-x-generic.svg"><img src="audio-x-generic.svg" width="250"></a> | **audio-x-generic.svg**<br>Vector (SVG) | 3.61KB |
 | <a href="gnome-mime-application-x-deb.svg"><img src="gnome-mime-application-x-deb.svg" width="250"></a> | **gnome-mime-application-x-deb.svg**<br>Vector (SVG) | 10.82KB |
 | <a href="image-x-generic.svg"><img src="image-x-generic.svg" width="250"></a> | **image-x-generic.svg**<br>Vector (SVG) | 3.43KB |
-| <a href="image-x-svg+xml.svg"><img src="image-x-svg+xml.svg" width="250"></a> | **image-x-svg+xml.svg**<br>Vector (SVG) | 6.23KB |
+| <a href="image-x-svg%2Bxml.svg"><img src="image-x-svg%2Bxml.svg" width="250"></a> | **image-x-svg+xml.svg**<br>Vector (SVG) | 6.23KB |
 | <a href="inode-vnd.kde.service.upnp.SolarProtectionBlind1.svg"><img src="inode-vnd.kde.service.upnp.SolarProtectionBlind1.svg" width="250"></a> | **inode-vnd.kde.service.upnp.SolarProtectionBlind1.svg**<br>Vector (SVG) | 2.50KB |
 | <a href="tar.svg"><img src="tar.svg" width="250"></a> | **tar.svg**<br>Vector (SVG) | 5.32KB |
 | <a href="text-html.svg"><img src="text-html.svg" width="250"></a> | **text-html.svg**<br>Vector (SVG) | 4.08KB |
-| <a href="text-x-c++hdr.svg"><img src="text-x-c++hdr.svg" width="250"></a> | **text-x-c++hdr.svg**<br>Vector (SVG) | 3.43KB |
+| <a href="text-x-c%2B%2Bhdr.svg"><img src="text-x-c%2B%2Bhdr.svg" width="250"></a> | **text-x-c++hdr.svg**<br>Vector (SVG) | 3.43KB |
 | <a href="text-x-cpp.svg"><img src="text-x-cpp.svg" width="250"></a> | **text-x-cpp.svg**<br>Vector (SVG) | 3.04KB |
 | <a href="text-x-csrc.svg"><img src="text-x-csrc.svg" width="250"></a> | **text-x-csrc.svg**<br>Vector (SVG) | 5.75KB |
 | <a href="text-x-css.svg"><img src="text-x-css.svg" width="250"></a> | **text-x-css.svg**<br>Vector (SVG) | 2.62KB |

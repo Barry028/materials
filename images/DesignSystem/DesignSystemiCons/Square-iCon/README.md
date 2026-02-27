@@ -14,8 +14,8 @@
 | <a href="004-bold-cd.svg"><img src="004-bold-cd.svg" width="250"></a> | **004-bold-cd.svg**<br>Vector (SVG) | 1.37KB |
 | <a href="005-quote-9f.svg"><img src="005-quote-9f.svg" width="250"></a> | **005-quote-9f.svg**<br>Vector (SVG) | 1.20KB |
 | <a href="005-quote-ea.png"><img src="005-quote-ea.png" width="250"></a> | **005-quote-ea.png**<br>512x512 | 10.36KB |
-| <a href="006-bullet list-bf.png"><img src="006-bullet list-bf.png" width="250"></a> | **006-bullet list-bf.png**<br>512x512 | 10.00KB |
-| <a href="006-bullet list-d0.svg"><img src="006-bullet list-d0.svg" width="250"></a> | **006-bullet list-d0.svg**<br>Vector (SVG) | 1.63KB |
+| <a href="006-bullet%20list-bf.png"><img src="006-bullet%20list-bf.png" width="250"></a> | **006-bullet list-bf.png**<br>512x512 | 10.00KB |
+| <a href="006-bullet%20list-d0.svg"><img src="006-bullet%20list-d0.svg" width="250"></a> | **006-bullet list-d0.svg**<br>Vector (SVG) | 1.63KB |
 | <a href="007-calendar-05.svg"><img src="007-calendar-05.svg" width="250"></a> | **007-calendar-05.svg**<br>Vector (SVG) | 1.14KB |
 | <a href="007-calendar-ef.png"><img src="007-calendar-ef.png" width="250"></a> | **007-calendar-ef.png**<br>512x512 | 8.33KB |
 | <a href="008-clipboard-06.png"><img src="008-clipboard-06.png" width="250"></a> | **008-clipboard-06.png**<br>512x512 | 11.41KB |
@@ -82,9 +82,9 @@
 | <a href="038-number-92.svg"><img src="038-number-92.svg" width="250"></a> | **038-number-92.svg**<br>Vector (SVG) | 2.46KB |
 | <a href="039-omega-36.png"><img src="039-omega-36.png" width="250"></a> | **039-omega-36.png**<br>512x512 | 14.23KB |
 | <a href="039-omega-44.svg"><img src="039-omega-44.svg" width="250"></a> | **039-omega-44.svg**<br>Vector (SVG) | 1.55KB |
-| <a href="040-paint bucket-84.png"><img src="040-paint bucket-84.png" width="250"></a> | **040-paint bucket-84.png**<br>512x512 | 10.62KB |
+| <a href="040-paint%20bucket-84.png"><img src="040-paint%20bucket-84.png" width="250"></a> | **040-paint bucket-84.png**<br>512x512 | 10.62KB |
 | <a href="040-paint-bucket-b4.svg"><img src="040-paint-bucket-b4.svg" width="250"></a> | **040-paint-bucket-b4.svg**<br>Vector (SVG) | 1.29KB |
-| <a href="041-paint roller-e8.png"><img src="041-paint roller-e8.png" width="250"></a> | **041-paint roller-e8.png**<br>512x512 | 9.60KB |
+| <a href="041-paint%20roller-e8.png"><img src="041-paint%20roller-e8.png" width="250"></a> | **041-paint roller-e8.png**<br>512x512 | 9.60KB |
 | <a href="041-paint-roller-5e.svg"><img src="041-paint-roller-5e.svg" width="250"></a> | **041-paint-roller-5e.svg**<br>Vector (SVG) | 1.23KB |
 | <a href="042-paperclip-b3.svg"><img src="042-paperclip-b3.svg" width="250"></a> | **042-paperclip-b3.svg**<br>Vector (SVG) | 1.05KB |
 | <a href="042-paperclip-e4.png"><img src="042-paperclip-e4.png" width="250"></a> | **042-paperclip-e4.png**<br>512x512 | 12.35KB |

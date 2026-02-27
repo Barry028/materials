@@ -5,10 +5,10 @@
 | 預覽 (點擊放大) | 檔案資訊 |
 | :--- | :--- |
 | <a href="android-package-archive.svg"><img src="android-package-archive.svg" width="250"></a> | **android-package-archive.svg**<br>Vector (SVG) | 7.35KB |
-| <a href="application-atom+xml.svg"><img src="application-atom+xml.svg" width="250"></a> | **application-atom+xml.svg**<br>Vector (SVG) | 1.79KB |
+| <a href="application-atom%2Bxml.svg"><img src="application-atom%2Bxml.svg" width="250"></a> | **application-atom+xml.svg**<br>Vector (SVG) | 1.79KB |
 | <a href="application-certificate.svg"><img src="application-certificate.svg" width="250"></a> | **application-certificate.svg**<br>Vector (SVG) | 2.26KB |
 | <a href="application-dicom.svg"><img src="application-dicom.svg" width="250"></a> | **application-dicom.svg**<br>Vector (SVG) | 5.38KB |
-| <a href="application-epub+zip.svg"><img src="application-epub+zip.svg" width="250"></a> | **application-epub+zip.svg**<br>Vector (SVG) | 1.69KB |
+| <a href="application-epub%2Bzip.svg"><img src="application-epub%2Bzip.svg" width="250"></a> | **application-epub+zip.svg**<br>Vector (SVG) | 1.69KB |
 | <a href="application-illustrator.svg"><img src="application-illustrator.svg" width="250"></a> | **application-illustrator.svg**<br>Vector (SVG) | 5.24KB |
 | <a href="application-json.svg"><img src="application-json.svg" width="250"></a> | **application-json.svg**<br>Vector (SVG) | 4.25KB |
 | <a href="application-msonenote.svg"><img src="application-msonenote.svg" width="250"></a> | **application-msonenote.svg**<br>Vector (SVG) | 6.65KB |
@@ -61,7 +61,7 @@
 | <a href="application-x-designer.svg"><img src="application-x-designer.svg" width="250"></a> | **application-x-designer.svg**<br>Vector (SVG) | 3.24KB |
 | <a href="application-x-desktop.svg"><img src="application-x-desktop.svg" width="250"></a> | **application-x-desktop.svg**<br>Vector (SVG) | 1.32KB |
 | <a href="application-x-executable.svg"><img src="application-x-executable.svg" width="250"></a> | **application-x-executable.svg**<br>Vector (SVG) | 2.14KB |
-| <a href="application-x-fictionbook+xml.svg"><img src="application-x-fictionbook+xml.svg" width="250"></a> | **application-x-fictionbook+xml.svg**<br>Vector (SVG) | 1.35KB |
+| <a href="application-x-fictionbook%2Bxml.svg"><img src="application-x-fictionbook%2Bxml.svg" width="250"></a> | **application-x-fictionbook+xml.svg**<br>Vector (SVG) | 1.35KB |
 | <a href="application-x-font-afm.svg"><img src="application-x-font-afm.svg" width="250"></a> | **application-x-font-afm.svg**<br>Vector (SVG) | 1.57KB |
 | <a href="application-x-font-bdf.svg"><img src="application-x-font-bdf.svg" width="250"></a> | **application-x-font-bdf.svg**<br>Vector (SVG) | 1.52KB |
 | <a href="application-x-font-otf.svg"><img src="application-x-font-otf.svg" width="250"></a> | **application-x-font-otf.svg**<br>Vector (SVG) | 1.51KB |
@@ -120,7 +120,7 @@
 | <a href="application-x-wmf.svg"><img src="application-x-wmf.svg" width="250"></a> | **application-x-wmf.svg**<br>Vector (SVG) | 5.49KB |
 | <a href="application-x-xliff.svg"><img src="application-x-xliff.svg" width="250"></a> | **application-x-xliff.svg**<br>Vector (SVG) | 1.49KB |
 | <a href="application-x-zerosize.svg"><img src="application-x-zerosize.svg" width="250"></a> | **application-x-zerosize.svg**<br>Vector (SVG) | 1.26KB |
-| <a href="application-xhtml+xml.svg"><img src="application-xhtml+xml.svg" width="250"></a> | **application-xhtml+xml.svg**<br>Vector (SVG) | 14.74KB |
+| <a href="application-xhtml%2Bxml.svg"><img src="application-xhtml%2Bxml.svg" width="250"></a> | **application-xhtml+xml.svg**<br>Vector (SVG) | 14.74KB |
 | <a href="application-xmind.svg"><img src="application-xmind.svg" width="250"></a> | **application-xmind.svg**<br>Vector (SVG) | 2.35KB |
 | <a href="application-zip.svg"><img src="application-zip.svg" width="250"></a> | **application-zip.svg**<br>Vector (SVG) | 5.42KB |
 | <a href="audio-midi.svg"><img src="audio-midi.svg" width="250"></a> | **audio-midi.svg**<br>Vector (SVG) | 2.21KB |
@@ -132,7 +132,7 @@
 | <a href="image-gif.svg"><img src="image-gif.svg" width="250"></a> | **image-gif.svg**<br>Vector (SVG) | 2.13KB |
 | <a href="image-jpeg.svg"><img src="image-jpeg.svg" width="250"></a> | **image-jpeg.svg**<br>Vector (SVG) | 2.31KB |
 | <a href="image-png.svg"><img src="image-png.svg" width="250"></a> | **image-png.svg**<br>Vector (SVG) | 2.32KB |
-| <a href="image-svg+xml-compressed.svg"><img src="image-svg+xml-compressed.svg" width="250"></a> | **image-svg+xml-compressed.svg**<br>Vector (SVG) | 5.35KB |
+| <a href="image-svg%2Bxml-compressed.svg"><img src="image-svg%2Bxml-compressed.svg" width="250"></a> | **image-svg+xml-compressed.svg**<br>Vector (SVG) | 5.35KB |
 | <a href="image-tiff.svg"><img src="image-tiff.svg" width="250"></a> | **image-tiff.svg**<br>Vector (SVG) | 2.21KB |
 | <a href="image-vnd.dgn.svg"><img src="image-vnd.dgn.svg" width="250"></a> | **image-vnd.dgn.svg**<br>Vector (SVG) | 1.09KB |
 | <a href="image-vnd.djvu.svg"><img src="image-vnd.djvu.svg" width="250"></a> | **image-vnd.djvu.svg**<br>Vector (SVG) | 1.69KB |
@@ -159,8 +159,8 @@
 | <a href="text-x-adasrc.svg"><img src="text-x-adasrc.svg" width="250"></a> | **text-x-adasrc.svg**<br>Vector (SVG) | 1.24KB |
 | <a href="text-x-apport.svg"><img src="text-x-apport.svg" width="250"></a> | **text-x-apport.svg**<br>Vector (SVG) | 1.33KB |
 | <a href="text-x-authors.svg"><img src="text-x-authors.svg" width="250"></a> | **text-x-authors.svg**<br>Vector (SVG) | 1.52KB |
-| <a href="text-x-c++hdr.svg"><img src="text-x-c++hdr.svg" width="250"></a> | **text-x-c++hdr.svg**<br>Vector (SVG) | 1.40KB |
-| <a href="text-x-c++src.svg"><img src="text-x-c++src.svg" width="250"></a> | **text-x-c++src.svg**<br>Vector (SVG) | 1.50KB |
+| <a href="text-x-c%2B%2Bhdr.svg"><img src="text-x-c%2B%2Bhdr.svg" width="250"></a> | **text-x-c++hdr.svg**<br>Vector (SVG) | 1.40KB |
+| <a href="text-x-c%2B%2Bsrc.svg"><img src="text-x-c%2B%2Bsrc.svg" width="250"></a> | **text-x-c++src.svg**<br>Vector (SVG) | 1.50KB |
 | <a href="text-x-changelog.svg"><img src="text-x-changelog.svg" width="250"></a> | **text-x-changelog.svg**<br>Vector (SVG) | 1.39KB |
 | <a href="text-x-chdr.svg"><img src="text-x-chdr.svg" width="250"></a> | **text-x-chdr.svg**<br>Vector (SVG) | 1.25KB |
 | <a href="text-x-cmake.svg"><img src="text-x-cmake.svg" width="250"></a> | **text-x-cmake.svg**<br>Vector (SVG) | 1.56KB |
@@ -192,7 +192,7 @@
 | <a href="video-webm.svg"><img src="video-webm.svg" width="250"></a> | **video-webm.svg**<br>Vector (SVG) | 1.69KB |
 | <a href="video-x-generic.svg"><img src="video-x-generic.svg" width="250"></a> | **video-x-generic.svg**<br>Vector (SVG) | 1.70KB |
 | <a href="video-x-matroska.svg"><img src="video-x-matroska.svg" width="250"></a> | **video-x-matroska.svg**<br>Vector (SVG) | 1.62KB |
-| <a href="video-x-theora+ogg.svg"><img src="video-x-theora+ogg.svg" width="250"></a> | **video-x-theora+ogg.svg**<br>Vector (SVG) | 1.69KB |
+| <a href="video-x-theora%2Bogg.svg"><img src="video-x-theora%2Bogg.svg" width="250"></a> | **video-x-theora+ogg.svg**<br>Vector (SVG) | 1.69KB |
 | <a href="video-x-wmv.svg"><img src="video-x-wmv.svg" width="250"></a> | **video-x-wmv.svg**<br>Vector (SVG) | 1.69KB |
 | <a href="virtualbox-hdd.svg"><img src="virtualbox-hdd.svg" width="250"></a> | **virtualbox-hdd.svg**<br>Vector (SVG) | 1.68KB |
 | <a href="virtualbox-ova.svg"><img src="virtualbox-ova.svg" width="250"></a> | **virtualbox-ova.svg**<br>Vector (SVG) | 1.68KB |

@@ -917,8 +917,8 @@
 | <a href="shield-18px.svg"><img src="shield-18px.svg" width="250"></a> | **shield-18px.svg**<br>Vector (SVG) | 1.05KB |
 | <a href="shield-24px.svg"><img src="shield-24px.svg" width="250"></a> | **shield-24px.svg**<br>Vector (SVG) | 1014.00B |
 | <a href="shield.svg"><img src="shield.svg" width="250"></a> | **shield.svg**<br>Vector (SVG) | 2.07KB |
-| <a href="shopping-basket -18px.svg"><img src="shopping-basket -18px.svg" width="250"></a> | **shopping-basket -18px.svg**<br>Vector (SVG) | 845.00B |
-| <a href="shopping-basket -24px.svg"><img src="shopping-basket -24px.svg" width="250"></a> | **shopping-basket -24px.svg**<br>Vector (SVG) | 871.00B |
+| <a href="shopping-basket%20-18px.svg"><img src="shopping-basket%20-18px.svg" width="250"></a> | **shopping-basket -18px.svg**<br>Vector (SVG) | 845.00B |
+| <a href="shopping-basket%20-24px.svg"><img src="shopping-basket%20-24px.svg" width="250"></a> | **shopping-basket -24px.svg**<br>Vector (SVG) | 871.00B |
 | <a href="shopping-basket.svg"><img src="shopping-basket.svg" width="250"></a> | **shopping-basket.svg**<br>Vector (SVG) | 1.71KB |
 | <a href="shopping-cart-empty-18px.svg"><img src="shopping-cart-empty-18px.svg" width="250"></a> | **shopping-cart-empty-18px.svg**<br>Vector (SVG) | 1.13KB |
 | <a href="shopping-cart-empty-24px.svg"><img src="shopping-cart-empty-24px.svg" width="250"></a> | **shopping-cart-empty-24px.svg**<br>Vector (SVG) | 1.18KB |

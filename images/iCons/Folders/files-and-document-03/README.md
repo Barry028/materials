@@ -5,7 +5,7 @@
 | 預覽 (點擊放大) | 檔案資訊 |
 | :--- | :--- |
 | <a href="001-assign.svg"><img src="001-assign.svg" width="250"></a> | **001-assign.svg**<br>Vector (SVG) | 1.47KB |
-| <a href="002-bar chart.svg"><img src="002-bar chart.svg" width="250"></a> | **002-bar chart.svg**<br>Vector (SVG) | 1.29KB |
+| <a href="002-bar%20chart.svg"><img src="002-bar%20chart.svg" width="250"></a> | **002-bar chart.svg**<br>Vector (SVG) | 1.29KB |
 | <a href="003-chat.svg"><img src="003-chat.svg" width="250"></a> | **003-chat.svg**<br>Vector (SVG) | 1.42KB |
 | <a href="004-forward.svg"><img src="004-forward.svg" width="250"></a> | **004-forward.svg**<br>Vector (SVG) | 1.25KB |
 | <a href="005-undo.svg"><img src="005-undo.svg" width="250"></a> | **005-undo.svg**<br>Vector (SVG) | 1.29KB |
@@ -42,8 +42,8 @@
 | <a href="036-idea.svg"><img src="036-idea.svg" width="250"></a> | **036-idea.svg**<br>Vector (SVG) | 1.53KB |
 | <a href="037-secure.svg"><img src="037-secure.svg" width="250"></a> | **037-secure.svg**<br>Vector (SVG) | 1.78KB |
 | <a href="038-lock.svg"><img src="038-lock.svg" width="250"></a> | **038-lock.svg**<br>Vector (SVG) | 1.32KB |
-| <a href="039-notification bell.svg"><img src="039-notification bell.svg" width="250"></a> | **039-notification bell.svg**<br>Vector (SVG) | 1.39KB |
-| <a href="040-main folder.svg"><img src="040-main folder.svg" width="250"></a> | **040-main folder.svg**<br>Vector (SVG) | 1.44KB |
+| <a href="039-notification%20bell.svg"><img src="039-notification%20bell.svg" width="250"></a> | **039-notification bell.svg**<br>Vector (SVG) | 1.39KB |
+| <a href="040-main%20folder.svg"><img src="040-main%20folder.svg" width="250"></a> | **040-main folder.svg**<br>Vector (SVG) | 1.44KB |
 | <a href="041-rocket.svg"><img src="041-rocket.svg" width="250"></a> | **041-rocket.svg**<br>Vector (SVG) | 1.67KB |
 | <a href="042-biometric.svg"><img src="042-biometric.svg" width="250"></a> | **042-biometric.svg**<br>Vector (SVG) | 2.22KB |
 | <a href="043-bin.svg"><img src="043-bin.svg" width="250"></a> | **043-bin.svg**<br>Vector (SVG) | 1.42KB |

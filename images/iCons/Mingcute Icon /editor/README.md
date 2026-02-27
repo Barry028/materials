@@ -4,8 +4,8 @@
 
 | 預覽 (點擊放大) | 檔案資訊 |
 | :--- | :--- |
-| <a href="&and_fill.svg"><img src="&and_fill.svg" width="250"></a> | **&and_fill.svg**<br>Vector (SVG) | 9.35KB |
-| <a href="&and_line.svg"><img src="&and_line.svg" width="250"></a> | **&and_line.svg**<br>Vector (SVG) | 9.35KB |
+| <a href="%26and_fill.svg"><img src="%26and_fill.svg" width="250"></a> | **&and_fill.svg**<br>Vector (SVG) | 9.35KB |
+| <a href="%26and_line.svg"><img src="%26and_line.svg" width="250"></a> | **&and_line.svg**<br>Vector (SVG) | 9.35KB |
 | <a href="A-Z_sort_ascending_letters_fill.svg"><img src="A-Z_sort_ascending_letters_fill.svg" width="250"></a> | **A-Z_sort_ascending_letters_fill.svg**<br>Vector (SVG) | 9.27KB |
 | <a href="A-Z_sort_ascending_letters_line.svg"><img src="A-Z_sort_ascending_letters_line.svg" width="250"></a> | **A-Z_sort_ascending_letters_line.svg**<br>Vector (SVG) | 9.24KB |
 | <a href="Heading_1_fill.svg"><img src="Heading_1_fill.svg" width="250"></a> | **Heading_1_fill.svg**<br>Vector (SVG) | 1.64KB |
@@ -100,5 +100,5 @@
 | <a href="translate_line.svg"><img src="translate_line.svg" width="250"></a> | **translate_line.svg**<br>Vector (SVG) | 9.80KB |
 | <a href="underline_fill.svg"><img src="underline_fill.svg" width="250"></a> | **underline_fill.svg**<br>Vector (SVG) | 1.56KB |
 | <a href="underline_line.svg"><img src="underline_line.svg" width="250"></a> | **underline_line.svg**<br>Vector (SVG) | 1.56KB |
-| <a href="Ωomega_fill.svg"><img src="Ωomega_fill.svg" width="250"></a> | **Ωomega_fill.svg**<br>Vector (SVG) | 8.84KB |
-| <a href="Ωomega_line.svg"><img src="Ωomega_line.svg" width="250"></a> | **Ωomega_line.svg**<br>Vector (SVG) | 8.85KB |
+| <a href="%CE%A9omega_fill.svg"><img src="%CE%A9omega_fill.svg" width="250"></a> | **Ωomega_fill.svg**<br>Vector (SVG) | 8.84KB |
+| <a href="%CE%A9omega_line.svg"><img src="%CE%A9omega_line.svg" width="250"></a> | **Ωomega_line.svg**<br>Vector (SVG) | 8.85KB |

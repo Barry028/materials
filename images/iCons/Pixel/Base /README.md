@@ -4,7 +4,7 @@
 
 | 預覽 (點擊放大) | 檔案資訊 |
 | :--- | :--- |
-| <a href="Designed by Tom for Basedash.svg"><img src="Designed by Tom for Basedash.svg" width="250"></a> | **Designed by Tom for Basedash.svg**<br>Vector (SVG) | 24.88KB |
+| <a href="Designed%20by%20Tom%20for%20Basedash.svg"><img src="Designed%20by%20Tom%20for%20Basedash.svg" width="250"></a> | **Designed by Tom for Basedash.svg**<br>Vector (SVG) | 24.88KB |
 | <a href="accordionDown.svg"><img src="accordionDown.svg" width="250"></a> | **accordionDown.svg**<br>Vector (SVG) | 546.00B |
 | <a href="accordionLeft.svg"><img src="accordionLeft.svg" width="250"></a> | **accordionLeft.svg**<br>Vector (SVG) | 566.00B |
 | <a href="accordionRight.svg"><img src="accordionRight.svg" width="250"></a> | **accordionRight.svg**<br>Vector (SVG) | 574.00B |

@@ -17,14 +17,14 @@
 | <a href="Bookmark-8.svg"><img src="Bookmark-8.svg" width="250"></a> | **Bookmark-8.svg**<br>Vector (SVG) | 0.00B |
 | <a href="Bookmark-9.svg"><img src="Bookmark-9.svg" width="250"></a> | **Bookmark-9.svg**<br>Vector (SVG) | 0.00B |
 | <a href="Bookmark.svg"><img src="Bookmark.svg" width="250"></a> | **Bookmark.svg**<br>Vector (SVG) | 451.00B |
-| <a href="Figma-logo 3.svg"><img src="Figma-logo 3.svg" width="250"></a> | **Figma-logo 3.svg**<br>Vector (SVG) | 1.15KB |
-| <a href="Interface Search.svg"><img src="Interface Search.svg" width="250"></a> | **Interface Search.svg**<br>Vector (SVG) | 540.00B |
+| <a href="Figma-logo%203.svg"><img src="Figma-logo%203.svg" width="250"></a> | **Figma-logo 3.svg**<br>Vector (SVG) | 1.15KB |
+| <a href="Interface%20Search.svg"><img src="Interface%20Search.svg" width="250"></a> | **Interface Search.svg**<br>Vector (SVG) | 540.00B |
 | <a href="Label-1.svg"><img src="Label-1.svg" width="250"></a> | **Label-1.svg**<br>Vector (SVG) | 5.08KB |
 | <a href="Label-2.svg"><img src="Label-2.svg" width="250"></a> | **Label-2.svg**<br>Vector (SVG) | 5.57KB |
 | <a href="Label-3.svg"><img src="Label-3.svg" width="250"></a> | **Label-3.svg**<br>Vector (SVG) | 7.71KB |
 | <a href="Label-4.svg"><img src="Label-4.svg" width="250"></a> | **Label-4.svg**<br>Vector (SVG) | 0.00B |
 | <a href="Label.svg"><img src="Label.svg" width="250"></a> | **Label.svg**<br>Vector (SVG) | 3.76KB |
-| <a href="Logo - Clickable.svg"><img src="Logo - Clickable.svg" width="250"></a> | **Logo - Clickable.svg**<br>Vector (SVG) | 6.55KB |
+| <a href="Logo%20-%20Clickable.svg"><img src="Logo%20-%20Clickable.svg" width="250"></a> | **Logo - Clickable.svg**<br>Vector (SVG) | 6.55KB |
 | <a href="Selection-10.svg"><img src="Selection-10.svg" width="250"></a> | **Selection-10.svg**<br>Vector (SVG) | 0.00B |
 | <a href="Selection-11.svg"><img src="Selection-11.svg" width="250"></a> | **Selection-11.svg**<br>Vector (SVG) | 0.00B |
 | <a href="Selection-12.svg"><img src="Selection-12.svg" width="250"></a> | **Selection-12.svg**<br>Vector (SVG) | 0.00B |

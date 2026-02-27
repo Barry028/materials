@@ -103,4 +103,4 @@
 | <a href="Zoom.svg"><img src="Zoom.svg" width="250"></a> | **Zoom.svg**<br>Vector (SVG) | 306.00B |
 | <a href="Zoom_Down.svg"><img src="Zoom_Down.svg" width="250"></a> | **Zoom_Down.svg**<br>Vector (SVG) | 350.00B |
 | <a href="Zoom_Up.svg"><img src="Zoom_Up.svg" width="250"></a> | **Zoom_Up.svg**<br>Vector (SVG) | 373.00B |
-| <a href="Сlosed.svg"><img src="Сlosed.svg" width="250"></a> | **Сlosed.svg**<br>Vector (SVG) | 292.00B |
+| <a href="%D0%A1losed.svg"><img src="%D0%A1losed.svg" width="250"></a> | **Сlosed.svg**<br>Vector (SVG) | 292.00B |

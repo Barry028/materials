@@ -5,10 +5,10 @@
 | 預覽 (點擊放大) | 檔案資訊 |
 | :--- | :--- |
 | <a href="android-package-archive.svg"><img src="android-package-archive.svg" width="250"></a> | **android-package-archive.svg**<br>Vector (SVG) | 687.00B |
-| <a href="application-atom+xml.svg"><img src="application-atom+xml.svg" width="250"></a> | **application-atom+xml.svg**<br>Vector (SVG) | 699.00B |
+| <a href="application-atom%2Bxml.svg"><img src="application-atom%2Bxml.svg" width="250"></a> | **application-atom+xml.svg**<br>Vector (SVG) | 699.00B |
 | <a href="application-certificate.svg"><img src="application-certificate.svg" width="250"></a> | **application-certificate.svg**<br>Vector (SVG) | 330.00B |
 | <a href="application-dicom.svg"><img src="application-dicom.svg" width="250"></a> | **application-dicom.svg**<br>Vector (SVG) | 4.21KB |
-| <a href="application-epub+zip.svg"><img src="application-epub+zip.svg" width="250"></a> | **application-epub+zip.svg**<br>Vector (SVG) | 405.00B |
+| <a href="application-epub%2Bzip.svg"><img src="application-epub%2Bzip.svg" width="250"></a> | **application-epub+zip.svg**<br>Vector (SVG) | 405.00B |
 | <a href="application-illustrator.svg"><img src="application-illustrator.svg" width="250"></a> | **application-illustrator.svg**<br>Vector (SVG) | 651.00B |
 | <a href="application-json.svg"><img src="application-json.svg" width="250"></a> | **application-json.svg**<br>Vector (SVG) | 2.32KB |
 | <a href="application-msonenote.svg"><img src="application-msonenote.svg" width="250"></a> | **application-msonenote.svg**<br>Vector (SVG) | 452.00B |
@@ -61,7 +61,7 @@
 | <a href="application-x-designer.svg"><img src="application-x-designer.svg" width="250"></a> | **application-x-designer.svg**<br>Vector (SVG) | 1.18KB |
 | <a href="application-x-desktop.svg"><img src="application-x-desktop.svg" width="250"></a> | **application-x-desktop.svg**<br>Vector (SVG) | 219.00B |
 | <a href="application-x-executable.svg"><img src="application-x-executable.svg" width="250"></a> | **application-x-executable.svg**<br>Vector (SVG) | 426.00B |
-| <a href="application-x-fictionbook+xml.svg"><img src="application-x-fictionbook+xml.svg" width="250"></a> | **application-x-fictionbook+xml.svg**<br>Vector (SVG) | 458.00B |
+| <a href="application-x-fictionbook%2Bxml.svg"><img src="application-x-fictionbook%2Bxml.svg" width="250"></a> | **application-x-fictionbook+xml.svg**<br>Vector (SVG) | 458.00B |
 | <a href="application-x-font-afm.svg"><img src="application-x-font-afm.svg" width="250"></a> | **application-x-font-afm.svg**<br>Vector (SVG) | 587.00B |
 | <a href="application-x-font-bdf.svg"><img src="application-x-font-bdf.svg" width="250"></a> | **application-x-font-bdf.svg**<br>Vector (SVG) | 587.00B |
 | <a href="application-x-font-otf.svg"><img src="application-x-font-otf.svg" width="250"></a> | **application-x-font-otf.svg**<br>Vector (SVG) | 587.00B |
@@ -118,7 +118,7 @@
 | <a href="application-x-wmf.svg"><img src="application-x-wmf.svg" width="250"></a> | **application-x-wmf.svg**<br>Vector (SVG) | 671.00B |
 | <a href="application-x-xliff.svg"><img src="application-x-xliff.svg" width="250"></a> | **application-x-xliff.svg**<br>Vector (SVG) | 538.00B |
 | <a href="application-x-zerosize.svg"><img src="application-x-zerosize.svg" width="250"></a> | **application-x-zerosize.svg**<br>Vector (SVG) | 160.00B |
-| <a href="application-xhtml+xml.svg"><img src="application-xhtml+xml.svg" width="250"></a> | **application-xhtml+xml.svg**<br>Vector (SVG) | 10.56KB |
+| <a href="application-xhtml%2Bxml.svg"><img src="application-xhtml%2Bxml.svg" width="250"></a> | **application-xhtml+xml.svg**<br>Vector (SVG) | 10.56KB |
 | <a href="application-xmind.svg"><img src="application-xmind.svg" width="250"></a> | **application-xmind.svg**<br>Vector (SVG) | 405.00B |
 | <a href="application-zip.svg"><img src="application-zip.svg" width="250"></a> | **application-zip.svg**<br>Vector (SVG) | 275.00B |
 | <a href="audio-midi.svg"><img src="audio-midi.svg" width="250"></a> | **audio-midi.svg**<br>Vector (SVG) | 184.00B |
@@ -130,7 +130,7 @@
 | <a href="image-gif.svg"><img src="image-gif.svg" width="250"></a> | **image-gif.svg**<br>Vector (SVG) | 443.00B |
 | <a href="image-jpeg.svg"><img src="image-jpeg.svg" width="250"></a> | **image-jpeg.svg**<br>Vector (SVG) | 610.00B |
 | <a href="image-png.svg"><img src="image-png.svg" width="250"></a> | **image-png.svg**<br>Vector (SVG) | 610.00B |
-| <a href="image-svg+xml-compressed.svg"><img src="image-svg+xml-compressed.svg" width="250"></a> | **image-svg+xml-compressed.svg**<br>Vector (SVG) | 671.00B |
+| <a href="image-svg%2Bxml-compressed.svg"><img src="image-svg%2Bxml-compressed.svg" width="250"></a> | **image-svg+xml-compressed.svg**<br>Vector (SVG) | 671.00B |
 | <a href="image-tiff.svg"><img src="image-tiff.svg" width="250"></a> | **image-tiff.svg**<br>Vector (SVG) | 606.00B |
 | <a href="image-vnd.dgn.svg"><img src="image-vnd.dgn.svg" width="250"></a> | **image-vnd.dgn.svg**<br>Vector (SVG) | 402.00B |
 | <a href="image-vnd.djvu.svg"><img src="image-vnd.djvu.svg" width="250"></a> | **image-vnd.djvu.svg**<br>Vector (SVG) | 676.00B |
@@ -158,8 +158,8 @@
 | <a href="text-x-adasrc.svg"><img src="text-x-adasrc.svg" width="250"></a> | **text-x-adasrc.svg**<br>Vector (SVG) | 217.00B |
 | <a href="text-x-apport.svg"><img src="text-x-apport.svg" width="250"></a> | **text-x-apport.svg**<br>Vector (SVG) | 222.00B |
 | <a href="text-x-authors.svg"><img src="text-x-authors.svg" width="250"></a> | **text-x-authors.svg**<br>Vector (SVG) | 484.00B |
-| <a href="text-x-c++hdr.svg"><img src="text-x-c++hdr.svg" width="250"></a> | **text-x-c++hdr.svg**<br>Vector (SVG) | 277.00B |
-| <a href="text-x-c++src.svg"><img src="text-x-c++src.svg" width="250"></a> | **text-x-c++src.svg**<br>Vector (SVG) | 372.00B |
+| <a href="text-x-c%2B%2Bhdr.svg"><img src="text-x-c%2B%2Bhdr.svg" width="250"></a> | **text-x-c++hdr.svg**<br>Vector (SVG) | 277.00B |
+| <a href="text-x-c%2B%2Bsrc.svg"><img src="text-x-c%2B%2Bsrc.svg" width="250"></a> | **text-x-c++src.svg**<br>Vector (SVG) | 372.00B |
 | <a href="text-x-changelog.svg"><img src="text-x-changelog.svg" width="250"></a> | **text-x-changelog.svg**<br>Vector (SVG) | 365.00B |
 | <a href="text-x-chdr.svg"><img src="text-x-chdr.svg" width="250"></a> | **text-x-chdr.svg**<br>Vector (SVG) | 225.00B |
 | <a href="text-x-cmake.svg"><img src="text-x-cmake.svg" width="250"></a> | **text-x-cmake.svg**<br>Vector (SVG) | 925.00B |
@@ -190,7 +190,7 @@
 | <a href="video-webm.svg"><img src="video-webm.svg" width="250"></a> | **video-webm.svg**<br>Vector (SVG) | 278.00B |
 | <a href="video-x-generic.svg"><img src="video-x-generic.svg" width="250"></a> | **video-x-generic.svg**<br>Vector (SVG) | 278.00B |
 | <a href="video-x-matroska.svg"><img src="video-x-matroska.svg" width="250"></a> | **video-x-matroska.svg**<br>Vector (SVG) | 452.00B |
-| <a href="video-x-theora+ogg.svg"><img src="video-x-theora+ogg.svg" width="250"></a> | **video-x-theora+ogg.svg**<br>Vector (SVG) | 452.00B |
+| <a href="video-x-theora%2Bogg.svg"><img src="video-x-theora%2Bogg.svg" width="250"></a> | **video-x-theora+ogg.svg**<br>Vector (SVG) | 452.00B |
 | <a href="video-x-wmv.svg"><img src="video-x-wmv.svg" width="250"></a> | **video-x-wmv.svg**<br>Vector (SVG) | 278.00B |
 | <a href="virtualbox-hdd.svg"><img src="virtualbox-hdd.svg" width="250"></a> | **virtualbox-hdd.svg**<br>Vector (SVG) | 259.00B |
 | <a href="virtualbox-ova.svg"><img src="virtualbox-ova.svg" width="250"></a> | **virtualbox-ova.svg**<br>Vector (SVG) | 259.00B |

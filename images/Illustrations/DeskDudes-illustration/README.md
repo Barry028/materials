@@ -4,7 +4,7 @@
 
 | 預覽 (點擊放大) | 檔案資訊 |
 | :--- | :--- |
-| <a href="Desk_Dudes 37.svg"><img src="Desk_Dudes 37.svg" width="250"></a> | **Desk_Dudes 37.svg**<br>Vector (SVG) | 7.08KB |
+| <a href="Desk_Dudes%2037.svg"><img src="Desk_Dudes%2037.svg" width="250"></a> | **Desk_Dudes 37.svg**<br>Vector (SVG) | 7.08KB |
 | <a href="Desk_Dudes1.svg"><img src="Desk_Dudes1.svg" width="250"></a> | **Desk_Dudes1.svg**<br>Vector (SVG) | 10.81KB |
 | <a href="Desk_Dudes10.svg"><img src="Desk_Dudes10.svg" width="250"></a> | **Desk_Dudes10.svg**<br>Vector (SVG) | 14.71KB |
 | <a href="Desk_Dudes11.svg"><img src="Desk_Dudes11.svg" width="250"></a> | **Desk_Dudes11.svg**<br>Vector (SVG) | 9.27KB |

@@ -6,7 +6,7 @@
 | :--- | :--- |
 | <a href="Business-Products-treasure--Streamline-Pixel-1.svg"><img src="Business-Products-treasure--Streamline-Pixel-1.svg" width="250"></a> | **Business-Products-treasure--Streamline-Pixel-1.svg**<br>Vector (SVG) | 1.40KB |
 | <a href="Business-Products-treasure--Streamline-Pixel.svg"><img src="Business-Products-treasure--Streamline-Pixel.svg" width="250"></a> | **Business-Products-treasure--Streamline-Pixel.svg**<br>Vector (SVG) | 1.35KB |
-| <a href="Figma-logo 3.svg"><img src="Figma-logo 3.svg" width="250"></a> | **Figma-logo 3.svg**<br>Vector (SVG) | 1.15KB |
+| <a href="Figma-logo%203.svg"><img src="Figma-logo%203.svg" width="250"></a> | **Figma-logo 3.svg**<br>Vector (SVG) | 1.15KB |
 | <a href="beauty-barber-light-sign--Streamline-Pixel-1.svg"><img src="beauty-barber-light-sign--Streamline-Pixel-1.svg" width="250"></a> | **beauty-barber-light-sign--Streamline-Pixel-1.svg**<br>Vector (SVG) | 2.69KB |
 | <a href="beauty-barber-light-sign--Streamline-Pixel.svg"><img src="beauty-barber-light-sign--Streamline-Pixel.svg" width="250"></a> | **beauty-barber-light-sign--Streamline-Pixel.svg**<br>Vector (SVG) | 2.60KB |
 | <a href="beauty-beard-style--Streamline-Pixel-1.svg"><img src="beauty-beard-style--Streamline-Pixel-1.svg" width="250"></a> | **beauty-beard-style--Streamline-Pixel-1.svg**<br>Vector (SVG) | 2.68KB |
