@@ -102,8 +102,9 @@ for root, dirs, files in sorted(os.walk(IMAGE_DIR)):
                         w, h = img.size
                     spec = f"🖼️ **尺寸:** `{w}x{h} px`"
 
-                # 💡 jsDelivr CDN 連結與 Markdown 語法
-                cdn_url = f"https://cdn.jsdelivr.net/gh/{REPO_NAME}@{BRANCH}/{safe_rel_path}"
+
+                safe_repo = REPO_NAME.lower()
+                cdn_url = f"https://cdn.jsdelivr.net{safe_repo}@{BRANCH}/{safe_rel_path}"
                 copy_md = f"![{f}]({cdn_url})"
 
                 details = (
