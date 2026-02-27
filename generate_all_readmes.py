@@ -13,6 +13,9 @@ MAIN_WIDTH = 30 # 主導覽縮圖大小
 SUB_WIDTH = 250 # 子目錄圖片預覽寬度鎖定
 REPO_NAME = os.getenv('GITHUB_REPOSITORY', '你的帳號/你的倉庫名')
 BRANCH = 'main' 
+IMG_EXTENSIONS = ('.png', '.jpg', '.jpeg', '.gif', '.webp', '.svg')
+
+
 
 def get_size_format(b):
     for unit in ["", "K", "M", "G"]:
@@ -38,7 +41,7 @@ for root, dirs, files in sorted(os.walk(IMAGE_DIR)):
     else:
         depth = rel_url.replace(IMAGE_DIR, '').strip('/').count('/') + 1
 
-    valid_files = [f for f in files if f.lower().endswith(('.png', '.jpg', '.jpeg', '.gif', '.webp', '.svg'))]
+    valid_files = [f for f in files if f.lower().endswith(IMG_EXTENSIONS)]
     
     indent = "　" * depth + ("┗ " if depth > 0 else "📂 ")
     display_name = f"{indent}**{folder_name}**" if depth == 0 else f"{indent}`{folder_name}`"
@@ -143,7 +146,7 @@ for root, dirs, files in sorted(os.walk(IMAGE_DIR)):
                 # 遍歷子資料夾找圖片當封面
                 sub_valid_files = []
                 for sub_root, _, sub_files in os.walk(sub_dir_path):
-                    sub_valid_files.extend([os.path.join(sub_root, sf) for sf in sub_files if sf.lower().endswith(('.png', '.jpg', '.jpeg', '.gif', '.webp', '.svg'))])
+                    sub_valid_files.extend([os.path.join(sub_root, sf) for sf in sub_files if sf.lower().endswith(IMG_EXTENSIONS)])
                 
                 # 製作子分類的封面 HTML
                 if sub_valid_files:
@@ -186,7 +189,7 @@ else:
 
 with open(ROOT_README, 'w', encoding='utf-8') as f_out:
     f_out.write(content)
-print("Done! All READMEs (including images/README.md) generated.")
+print("Done! All READMEs (including images/{ROOT_README}) generated.")
 
 
 
