@@ -1,7 +1,7 @@
-# 🖼️ CorporateScenesillustrationOctetDesignStudio 素材庫
+# 🖼️ CorporateScenesillustrationOctetDesignStudio
 
 [⬅️ 返回主目錄](../../../README.md)
 
-| 預覽 (點擊放大) | 檔案資訊 |
+| 預覽 | 資訊 |
 | :--- | :--- |
-| <a href="Man%20transferring%20data%20to%20cloud.svg"><img src="Man%20transferring%20data%20to%20cloud.svg" width="250"></a> | **Man transferring data to cloud.svg**<br>Vector (SVG) | 17.48KB |
+| <a href="Man%20transferring%20data%20to%20cloud.svg"><img src="Man%20transferring%20data%20to%20cloud.svg" width="250"></a> | **Man transferring data to cloud.svg** |

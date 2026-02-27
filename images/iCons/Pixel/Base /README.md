@@ -1,195 +1,195 @@
-# 🖼️ Base  素材庫
+# 🖼️ Base 
 
 [⬅️ 返回主目錄](../../../../README.md)
 
-| 預覽 (點擊放大) | 檔案資訊 |
+| 預覽 | 資訊 |
 | :--- | :--- |
-| <a href="Designed%20by%20Tom%20for%20Basedash.svg"><img src="Designed%20by%20Tom%20for%20Basedash.svg" width="250"></a> | **Designed by Tom for Basedash.svg**<br>Vector (SVG) | 24.88KB |
-| <a href="accordionDown.svg"><img src="accordionDown.svg" width="250"></a> | **accordionDown.svg**<br>Vector (SVG) | 546.00B |
-| <a href="accordionLeft.svg"><img src="accordionLeft.svg" width="250"></a> | **accordionLeft.svg**<br>Vector (SVG) | 566.00B |
-| <a href="accordionRight.svg"><img src="accordionRight.svg" width="250"></a> | **accordionRight.svg**<br>Vector (SVG) | 574.00B |
-| <a href="accordionUp.svg"><img src="accordionUp.svg" width="250"></a> | **accordionUp.svg**<br>Vector (SVG) | 544.00B |
-| <a href="action.svg"><img src="action.svg" width="250"></a> | **action.svg**<br>Vector (SVG) | 1.59KB |
-| <a href="activity.svg"><img src="activity.svg" width="250"></a> | **activity.svg**<br>Vector (SVG) | 857.00B |
-| <a href="add.svg"><img src="add.svg" width="250"></a> | **add.svg**<br>Vector (SVG) | 420.00B |
-| <a href="addAction.svg"><img src="addAction.svg" width="250"></a> | **addAction.svg**<br>Vector (SVG) | 1.63KB |
-| <a href="addApp.svg"><img src="addApp.svg" width="250"></a> | **addApp.svg**<br>Vector (SVG) | 937.00B |
-| <a href="addConnection.svg"><img src="addConnection.svg" width="250"></a> | **addConnection.svg**<br>Vector (SVG) | 1.84KB |
-| <a href="addFilter.svg"><img src="addFilter.svg" width="250"></a> | **addFilter.svg**<br>Vector (SVG) | 896.00B |
-| <a href="addFolder.svg"><img src="addFolder.svg" width="250"></a> | **addFolder.svg**<br>Vector (SVG) | 785.00B |
-| <a href="addQuery.svg"><img src="addQuery.svg" width="250"></a> | **addQuery.svg**<br>Vector (SVG) | 1.00KB |
-| <a href="addTable.svg"><img src="addTable.svg" width="250"></a> | **addTable.svg**<br>Vector (SVG) | 856.00B |
-| <a href="addTag.svg"><img src="addTag.svg" width="250"></a> | **addTag.svg**<br>Vector (SVG) | 1.32KB |
-| <a href="addUser.svg"><img src="addUser.svg" width="250"></a> | **addUser.svg**<br>Vector (SVG) | 875.00B |
-| <a href="addView.svg"><img src="addView.svg" width="250"></a> | **addView.svg**<br>Vector (SVG) | 805.00B |
-| <a href="after.svg"><img src="after.svg" width="250"></a> | **after.svg**<br>Vector (SVG) | 613.00B |
-| <a href="airtable.svg"><img src="airtable.svg" width="250"></a> | **airtable.svg**<br>Vector (SVG) | 829.00B |
-| <a href="alert.svg"><img src="alert.svg" width="250"></a> | **alert.svg**<br>Vector (SVG) | 730.00B |
-| <a href="app.svg"><img src="app.svg" width="250"></a> | **app.svg**<br>Vector (SVG) | 651.00B |
-| <a href="arrowDown.svg"><img src="arrowDown.svg" width="250"></a> | **arrowDown.svg**<br>Vector (SVG) | 540.00B |
-| <a href="arrowLeft.svg"><img src="arrowLeft.svg" width="250"></a> | **arrowLeft.svg**<br>Vector (SVG) | 550.00B |
-| <a href="arrowRight.svg"><img src="arrowRight.svg" width="250"></a> | **arrowRight.svg**<br>Vector (SVG) | 544.00B |
-| <a href="arrowUp.svg"><img src="arrowUp.svg" width="250"></a> | **arrowUp.svg**<br>Vector (SVG) | 546.00B |
-| <a href="auto.svg"><img src="auto.svg" width="250"></a> | **auto.svg**<br>Vector (SVG) | 1.82KB |
-| <a href="back.svg"><img src="back.svg" width="250"></a> | **back.svg**<br>Vector (SVG) | 619.00B |
-| <a href="barChart.svg"><img src="barChart.svg" width="250"></a> | **barChart.svg**<br>Vector (SVG) | 789.00B |
-| <a href="basedash.svg"><img src="basedash.svg" width="250"></a> | **basedash.svg**<br>Vector (SVG) | 693.00B |
-| <a href="before.svg"><img src="before.svg" width="250"></a> | **before.svg**<br>Vector (SVG) | 626.00B |
-| <a href="between.svg"><img src="between.svg" width="250"></a> | **between.svg**<br>Vector (SVG) | 1.03KB |
-| <a href="caretDown.svg"><img src="caretDown.svg" width="250"></a> | **caretDown.svg**<br>Vector (SVG) | 517.00B |
-| <a href="caretLeft.svg"><img src="caretLeft.svg" width="250"></a> | **caretLeft.svg**<br>Vector (SVG) | 488.00B |
-| <a href="caretRight.svg"><img src="caretRight.svg" width="250"></a> | **caretRight.svg**<br>Vector (SVG) | 488.00B |
-| <a href="caretUp.svg"><img src="caretUp.svg" width="250"></a> | **caretUp.svg**<br>Vector (SVG) | 488.00B |
-| <a href="cellHeight.svg"><img src="cellHeight.svg" width="250"></a> | **cellHeight.svg**<br>Vector (SVG) | 1.17KB |
-| <a href="chart.svg"><img src="chart.svg" width="250"></a> | **chart.svg**<br>Vector (SVG) | 532.00B |
-| <a href="chat.svg"><img src="chat.svg" width="250"></a> | **chat.svg**<br>Vector (SVG) | 518.00B |
-| <a href="check.svg"><img src="check.svg" width="250"></a> | **check.svg**<br>Vector (SVG) | 486.00B |
-| <a href="checkboxOff.svg"><img src="checkboxOff.svg" width="250"></a> | **checkboxOff.svg**<br>Vector (SVG) | 323.00B |
-| <a href="checkboxOn.svg"><img src="checkboxOn.svg" width="250"></a> | **checkboxOn.svg**<br>Vector (SVG) | 623.00B |
-| <a href="close.svg"><img src="close.svg" width="250"></a> | **close.svg**<br>Vector (SVG) | 941.00B |
-| <a href="cloud.svg"><img src="cloud.svg" width="250"></a> | **cloud.svg**<br>Vector (SVG) | 1.16KB |
-| <a href="collapse.svg"><img src="collapse.svg" width="250"></a> | **collapse.svg**<br>Vector (SVG) | 1.05KB |
-| <a href="collapseDown.svg"><img src="collapseDown.svg" width="250"></a> | **collapseDown.svg**<br>Vector (SVG) | 720.00B |
-| <a href="collapseLeft.svg"><img src="collapseLeft.svg" width="250"></a> | **collapseLeft.svg**<br>Vector (SVG) | 723.00B |
-| <a href="collapseRight.svg"><img src="collapseRight.svg" width="250"></a> | **collapseRight.svg**<br>Vector (SVG) | 729.00B |
-| <a href="collapseUp.svg"><img src="collapseUp.svg" width="250"></a> | **collapseUp.svg**<br>Vector (SVG) | 717.00B |
-| <a href="connection.svg"><img src="connection.svg" width="250"></a> | **connection.svg**<br>Vector (SVG) | 1.90KB |
-| <a href="contains.svg"><img src="contains.svg" width="250"></a> | **contains.svg**<br>Vector (SVG) | 544.00B |
-| <a href="copy.svg"><img src="copy.svg" width="250"></a> | **copy.svg**<br>Vector (SVG) | 555.00B |
-| <a href="dataTypeArray.svg"><img src="dataTypeArray.svg" width="250"></a> | **dataTypeArray.svg**<br>Vector (SVG) | 609.00B |
-| <a href="dataTypeBoolean.svg"><img src="dataTypeBoolean.svg" width="250"></a> | **dataTypeBoolean.svg**<br>Vector (SVG) | 675.00B |
-| <a href="dataTypeDate.svg"><img src="dataTypeDate.svg" width="250"></a> | **dataTypeDate.svg**<br>Vector (SVG) | 589.00B |
-| <a href="dataTypeDollar.svg"><img src="dataTypeDollar.svg" width="250"></a> | **dataTypeDollar.svg**<br>Vector (SVG) | 808.00B |
-| <a href="dataTypeEnum.svg"><img src="dataTypeEnum.svg" width="250"></a> | **dataTypeEnum.svg**<br>Vector (SVG) | 640.00B |
-| <a href="dataTypeEuro.svg"><img src="dataTypeEuro.svg" width="250"></a> | **dataTypeEuro.svg**<br>Vector (SVG) | 1.03KB |
-| <a href="dataTypeForeignKey.svg"><img src="dataTypeForeignKey.svg" width="250"></a> | **dataTypeForeignKey.svg**<br>Vector (SVG) | 450.00B |
-| <a href="dataTypeFormula.svg"><img src="dataTypeFormula.svg" width="250"></a> | **dataTypeFormula.svg**<br>Vector (SVG) | 600.00B |
-| <a href="dataTypeHtml.svg"><img src="dataTypeHtml.svg" width="250"></a> | **dataTypeHtml.svg**<br>Vector (SVG) | 1.02KB |
-| <a href="dataTypeImage.svg"><img src="dataTypeImage.svg" width="250"></a> | **dataTypeImage.svg**<br>Vector (SVG) | 784.00B |
-| <a href="dataTypeJson.svg"><img src="dataTypeJson.svg" width="250"></a> | **dataTypeJson.svg**<br>Vector (SVG) | 1.26KB |
-| <a href="dataTypeLink.svg"><img src="dataTypeLink.svg" width="250"></a> | **dataTypeLink.svg**<br>Vector (SVG) | 1.37KB |
-| <a href="dataTypeNumber.svg"><img src="dataTypeNumber.svg" width="250"></a> | **dataTypeNumber.svg**<br>Vector (SVG) | 1.55KB |
-| <a href="dataTypePercentage.svg"><img src="dataTypePercentage.svg" width="250"></a> | **dataTypePercentage.svg**<br>Vector (SVG) | 842.00B |
-| <a href="dataTypePrimaryKey.svg"><img src="dataTypePrimaryKey.svg" width="250"></a> | **dataTypePrimaryKey.svg**<br>Vector (SVG) | 552.00B |
-| <a href="dataTypeText.svg"><img src="dataTypeText.svg" width="250"></a> | **dataTypeText.svg**<br>Vector (SVG) | 494.00B |
-| <a href="database.svg"><img src="database.svg" width="250"></a> | **database.svg**<br>Vector (SVG) | 1.73KB |
-| <a href="delete.svg"><img src="delete.svg" width="250"></a> | **delete.svg**<br>Vector (SVG) | 527.00B |
-| <a href="disconnected.svg"><img src="disconnected.svg" width="250"></a> | **disconnected.svg**<br>Vector (SVG) | 1.60KB |
-| <a href="dismiss.svg"><img src="dismiss.svg" width="250"></a> | **dismiss.svg**<br>Vector (SVG) | 547.00B |
-| <a href="dividedBy.svg"><img src="dividedBy.svg" width="250"></a> | **dividedBy.svg**<br>Vector (SVG) | 634.00B |
-| <a href="documentation.svg"><img src="documentation.svg" width="250"></a> | **documentation.svg**<br>Vector (SVG) | 911.00B |
-| <a href="doesNotContain.svg"><img src="doesNotContain.svg" width="250"></a> | **doesNotContain.svg**<br>Vector (SVG) | 1.03KB |
-| <a href="doesNotEqual.svg"><img src="doesNotEqual.svg" width="250"></a> | **doesNotEqual.svg**<br>Vector (SVG) | 827.00B |
-| <a href="dot.svg"><img src="dot.svg" width="250"></a> | **dot.svg**<br>Vector (SVG) | 249.00B |
-| <a href="doubleCaretDown.svg"><img src="doubleCaretDown.svg" width="250"></a> | **doubleCaretDown.svg**<br>Vector (SVG) | 805.00B |
-| <a href="doubleCaretLeft.svg"><img src="doubleCaretLeft.svg" width="250"></a> | **doubleCaretLeft.svg**<br>Vector (SVG) | 805.00B |
-| <a href="doubleCaretRight.svg"><img src="doubleCaretRight.svg" width="250"></a> | **doubleCaretRight.svg**<br>Vector (SVG) | 805.00B |
-| <a href="doubleCaretUp.svg"><img src="doubleCaretUp.svg" width="250"></a> | **doubleCaretUp.svg**<br>Vector (SVG) | 805.00B |
-| <a href="download.svg"><img src="download.svg" width="250"></a> | **download.svg**<br>Vector (SVG) | 747.00B |
-| <a href="draggable.svg"><img src="draggable.svg" width="250"></a> | **draggable.svg**<br>Vector (SVG) | 865.00B |
-| <a href="edit.svg"><img src="edit.svg" width="250"></a> | **edit.svg**<br>Vector (SVG) | 596.00B |
-| <a href="email.svg"><img src="email.svg" width="250"></a> | **email.svg**<br>Vector (SVG) | 510.00B |
-| <a href="emoji.svg"><img src="emoji.svg" width="250"></a> | **emoji.svg**<br>Vector (SVG) | 1.64KB |
-| <a href="equals.svg"><img src="equals.svg" width="250"></a> | **equals.svg**<br>Vector (SVG) | 422.00B |
-| <a href="expand.svg"><img src="expand.svg" width="250"></a> | **expand.svg**<br>Vector (SVG) | 1.18KB |
-| <a href="export.svg"><img src="export.svg" width="250"></a> | **export.svg**<br>Vector (SVG) | 790.00B |
-| <a href="externalLink.svg"><img src="externalLink.svg" width="250"></a> | **externalLink.svg**<br>Vector (SVG) | 685.00B |
-| <a href="eyeClosed.svg"><img src="eyeClosed.svg" width="250"></a> | **eyeClosed.svg**<br>Vector (SVG) | 2.79KB |
-| <a href="eyeOpen.svg"><img src="eyeOpen.svg" width="250"></a> | **eyeOpen.svg**<br>Vector (SVG) | 2.30KB |
-| <a href="favoriteOff.svg"><img src="favoriteOff.svg" width="250"></a> | **favoriteOff.svg**<br>Vector (SVG) | 1.07KB |
-| <a href="favoriteOn.svg"><img src="favoriteOn.svg" width="250"></a> | **favoriteOn.svg**<br>Vector (SVG) | 742.00B |
-| <a href="file.svg"><img src="file.svg" width="250"></a> | **file.svg**<br>Vector (SVG) | 422.00B |
-| <a href="filter.svg"><img src="filter.svg" width="250"></a> | **filter.svg**<br>Vector (SVG) | 547.00B |
-| <a href="focus.svg"><img src="focus.svg" width="250"></a> | **focus.svg**<br>Vector (SVG) | 836.00B |
-| <a href="folder.svg"><img src="folder.svg" width="250"></a> | **folder.svg**<br>Vector (SVG) | 511.00B |
-| <a href="folderOpen.svg"><img src="folderOpen.svg" width="250"></a> | **folderOpen.svg**<br>Vector (SVG) | 719.00B |
-| <a href="formView.svg"><img src="formView.svg" width="250"></a> | **formView.svg**<br>Vector (SVG) | 718.00B |
-| <a href="forward.svg"><img src="forward.svg" width="250"></a> | **forward.svg**<br>Vector (SVG) | 611.00B |
-| <a href="globeApac.svg"><img src="globeApac.svg" width="250"></a> | **globeApac.svg**<br>Vector (SVG) | 1.90KB |
-| <a href="globeIndia.svg"><img src="globeIndia.svg" width="250"></a> | **globeIndia.svg**<br>Vector (SVG) | 1.68KB |
-| <a href="globeMidEast.svg"><img src="globeMidEast.svg" width="250"></a> | **globeMidEast.svg**<br>Vector (SVG) | 1.79KB |
-| <a href="globeUsEu.svg"><img src="globeUsEu.svg" width="250"></a> | **globeUsEu.svg**<br>Vector (SVG) | 1.50KB |
-| <a href="greaterThan.svg"><img src="greaterThan.svg" width="250"></a> | **greaterThan.svg**<br>Vector (SVG) | 527.00B |
-| <a href="greaterThanOrEqualTo.svg"><img src="greaterThanOrEqualTo.svg" width="250"></a> | **greaterThanOrEqualTo.svg**<br>Vector (SVG) | 662.00B |
-| <a href="gridView.svg"><img src="gridView.svg" width="250"></a> | **gridView.svg**<br>Vector (SVG) | 755.00B |
-| <a href="home.svg"><img src="home.svg" width="250"></a> | **home.svg**<br>Vector (SVG) | 544.00B |
-| <a href="import.svg"><img src="import.svg" width="250"></a> | **import.svg**<br>Vector (SVG) | 805.00B |
-| <a href="info.svg"><img src="info.svg" width="250"></a> | **info.svg**<br>Vector (SVG) | 670.00B |
-| <a href="isNotBetween.svg"><img src="isNotBetween.svg" width="250"></a> | **isNotBetween.svg**<br>Vector (SVG) | 814.00B |
-| <a href="isNotNull.svg"><img src="isNotNull.svg" width="250"></a> | **isNotNull.svg**<br>Vector (SVG) | 2.76KB |
-| <a href="isNotSet.svg"><img src="isNotSet.svg" width="250"></a> | **isNotSet.svg**<br>Vector (SVG) | 657.00B |
-| <a href="isNull.svg"><img src="isNull.svg" width="250"></a> | **isNull.svg**<br>Vector (SVG) | 2.71KB |
-| <a href="isSet.svg"><img src="isSet.svg" width="250"></a> | **isSet.svg**<br>Vector (SVG) | 435.00B |
-| <a href="joinTables.svg"><img src="joinTables.svg" width="250"></a> | **joinTables.svg**<br>Vector (SVG) | 1.01KB |
-| <a href="jumpTo.svg"><img src="jumpTo.svg" width="250"></a> | **jumpTo.svg**<br>Vector (SVG) | 806.00B |
-| <a href="kanbanView.svg"><img src="kanbanView.svg" width="250"></a> | **kanbanView.svg**<br>Vector (SVG) | 985.00B |
-| <a href="keyboard.svg"><img src="keyboard.svg" width="250"></a> | **keyboard.svg**<br>Vector (SVG) | 434.00B |
-| <a href="keyboardCommand.svg"><img src="keyboardCommand.svg" width="250"></a> | **keyboardCommand.svg**<br>Vector (SVG) | 865.00B |
-| <a href="keyboardControl.svg"><img src="keyboardControl.svg" width="250"></a> | **keyboardControl.svg**<br>Vector (SVG) | 488.00B |
-| <a href="keyboardEsc.svg"><img src="keyboardEsc.svg" width="250"></a> | **keyboardEsc.svg**<br>Vector (SVG) | 870.00B |
-| <a href="keyboardLetterF.svg"><img src="keyboardLetterF.svg" width="250"></a> | **keyboardLetterF.svg**<br>Vector (SVG) | 390.00B |
-| <a href="keyboardLetterK.svg"><img src="keyboardLetterK.svg" width="250"></a> | **keyboardLetterK.svg**<br>Vector (SVG) | 562.00B |
-| <a href="keyboardLetterS.svg"><img src="keyboardLetterS.svg" width="250"></a> | **keyboardLetterS.svg**<br>Vector (SVG) | 613.00B |
-| <a href="keyboardOption.svg"><img src="keyboardOption.svg" width="250"></a> | **keyboardOption.svg**<br>Vector (SVG) | 534.00B |
-| <a href="keyboardReturn.svg"><img src="keyboardReturn.svg" width="250"></a> | **keyboardReturn.svg**<br>Vector (SVG) | 670.00B |
-| <a href="keyboardShift.svg"><img src="keyboardShift.svg" width="250"></a> | **keyboardShift.svg**<br>Vector (SVG) | 656.00B |
-| <a href="lessThan.svg"><img src="lessThan.svg" width="250"></a> | **lessThan.svg**<br>Vector (SVG) | 516.00B |
-| <a href="lessThanOrEqualTo.svg"><img src="lessThanOrEqualTo.svg" width="250"></a> | **lessThanOrEqualTo.svg**<br>Vector (SVG) | 656.00B |
-| <a href="lineChart.svg"><img src="lineChart.svg" width="250"></a> | **lineChart.svg**<br>Vector (SVG) | 725.00B |
-| <a href="listView.svg"><img src="listView.svg" width="250"></a> | **listView.svg**<br>Vector (SVG) | 623.00B |
-| <a href="location.svg"><img src="location.svg" width="250"></a> | **location.svg**<br>Vector (SVG) | 1.02KB |
-| <a href="locked.svg"><img src="locked.svg" width="250"></a> | **locked.svg**<br>Vector (SVG) | 506.00B |
-| <a href="logout.svg"><img src="logout.svg" width="250"></a> | **logout.svg**<br>Vector (SVG) | 836.00B |
-| <a href="mariaDb.svg"><img src="mariaDb.svg" width="250"></a> | **mariaDb.svg**<br>Vector (SVG) | 1.47KB |
-| <a href="menu.svg"><img src="menu.svg" width="250"></a> | **menu.svg**<br>Vector (SVG) | 552.00B |
-| <a href="minus.svg"><img src="minus.svg" width="250"></a> | **minus.svg**<br>Vector (SVG) | 295.00B |
-| <a href="more.svg"><img src="more.svg" width="250"></a> | **more.svg**<br>Vector (SVG) | 607.00B |
-| <a href="mySql.svg"><img src="mySql.svg" width="250"></a> | **mySql.svg**<br>Vector (SVG) | 3.16KB |
-| <a href="noSqLdb.svg"><img src="noSqLdb.svg" width="250"></a> | **noSqLdb.svg**<br>Vector (SVG) | 1.11KB |
-| <a href="notificiations.svg"><img src="notificiations.svg" width="250"></a> | **notificiations.svg**<br>Vector (SVG) | 841.00B |
-| <a href="onOrAfter.svg"><img src="onOrAfter.svg" width="250"></a> | **onOrAfter.svg**<br>Vector (SVG) | 750.00B |
-| <a href="onOrBefore.svg"><img src="onOrBefore.svg" width="250"></a> | **onOrBefore.svg**<br>Vector (SVG) | 769.00B |
-| <a href="pause.svg"><img src="pause.svg" width="250"></a> | **pause.svg**<br>Vector (SVG) | 440.00B |
-| <a href="phone.svg"><img src="phone.svg" width="250"></a> | **phone.svg**<br>Vector (SVG) | 1.09KB |
-| <a href="pin.svg"><img src="pin.svg" width="250"></a> | **pin.svg**<br>Vector (SVG) | 13.42KB |
-| <a href="placeholder.svg"><img src="placeholder.svg" width="250"></a> | **placeholder.svg**<br>Vector (SVG) | 2.42KB |
-| <a href="play.svg"><img src="play.svg" width="250"></a> | **play.svg**<br>Vector (SVG) | 397.00B |
-| <a href="postgres.svg"><img src="postgres.svg" width="250"></a> | **postgres.svg**<br>Vector (SVG) | 2.22KB |
-| <a href="preferences.svg"><img src="preferences.svg" width="250"></a> | **preferences.svg**<br>Vector (SVG) | 869.00B |
-| <a href="primaryAttribute.svg"><img src="primaryAttribute.svg" width="250"></a> | **primaryAttribute.svg**<br>Vector (SVG) | 849.00B |
-| <a href="progress.svg"><img src="progress.svg" width="250"></a> | **progress.svg**<br>Vector (SVG) | 1.01KB |
-| <a href="query.svg"><img src="query.svg" width="250"></a> | **query.svg**<br>Vector (SVG) | 1.18KB |
-| <a href="question.svg"><img src="question.svg" width="250"></a> | **question.svg**<br>Vector (SVG) | 1.41KB |
-| <a href="radioOff.svg"><img src="radioOff.svg" width="250"></a> | **radioOff.svg**<br>Vector (SVG) | 407.00B |
-| <a href="radioOn.svg"><img src="radioOn.svg" width="250"></a> | **radioOn.svg**<br>Vector (SVG) | 537.00B |
-| <a href="redo.svg"><img src="redo.svg" width="250"></a> | **redo.svg**<br>Vector (SVG) | 667.00B |
-| <a href="redshift.svg"><img src="redshift.svg" width="250"></a> | **redshift.svg**<br>Vector (SVG) | 345.00B |
-| <a href="refresh.svg"><img src="refresh.svg" width="250"></a> | **refresh.svg**<br>Vector (SVG) | 629.00B |
-| <a href="richtext.svg"><img src="richtext.svg" width="250"></a> | **richtext.svg**<br>Vector (SVG) | 798.00B |
-| <a href="role.svg"><img src="role.svg" width="250"></a> | **role.svg**<br>Vector (SVG) | 762.00B |
-| <a href="search.svg"><img src="search.svg" width="250"></a> | **search.svg**<br>Vector (SVG) | 715.00B |
-| <a href="send.svg"><img src="send.svg" width="250"></a> | **send.svg**<br>Vector (SVG) | 714.00B |
-| <a href="settings.svg"><img src="settings.svg" width="250"></a> | **settings.svg**<br>Vector (SVG) | 2.11KB |
-| <a href="share.svg"><img src="share.svg" width="250"></a> | **share.svg**<br>Vector (SVG) | 842.00B |
-| <a href="sortAscending.svg"><img src="sortAscending.svg" width="250"></a> | **sortAscending.svg**<br>Vector (SVG) | 1003.00B |
-| <a href="sortDescending.svg"><img src="sortDescending.svg" width="250"></a> | **sortDescending.svg**<br>Vector (SVG) | 957.00B |
-| <a href="sortDown-1.svg"><img src="sortDown-1.svg" width="250"></a> | **sortDown-1.svg**<br>Vector (SVG) | 1.23KB |
-| <a href="sortDown.svg"><img src="sortDown.svg" width="250"></a> | **sortDown.svg**<br>Vector (SVG) | 1.24KB |
-| <a href="sqLdb.svg"><img src="sqLdb.svg" width="250"></a> | **sqLdb.svg**<br>Vector (SVG) | 800.00B |
-| <a href="sqlServer.svg"><img src="sqlServer.svg" width="250"></a> | **sqlServer.svg**<br>Vector (SVG) | 1.96KB |
-| <a href="supabase.svg"><img src="supabase.svg" width="250"></a> | **supabase.svg**<br>Vector (SVG) | 611.00B |
-| <a href="table.svg"><img src="table.svg" width="250"></a> | **table.svg**<br>Vector (SVG) | 447.00B |
-| <a href="tag.svg"><img src="tag.svg" width="250"></a> | **tag.svg**<br>Vector (SVG) | 1016.00B |
-| <a href="team.svg"><img src="team.svg" width="250"></a> | **team.svg**<br>Vector (SVG) | 1.28KB |
-| <a href="time.svg"><img src="time.svg" width="250"></a> | **time.svg**<br>Vector (SVG) | 631.00B |
-| <a href="times.svg"><img src="times.svg" width="250"></a> | **times.svg**<br>Vector (SVG) | 684.00B |
-| <a href="toggleBottom.svg"><img src="toggleBottom.svg" width="250"></a> | **toggleBottom.svg**<br>Vector (SVG) | 460.00B |
-| <a href="toggleLeft.svg"><img src="toggleLeft.svg" width="250"></a> | **toggleLeft.svg**<br>Vector (SVG) | 486.00B |
-| <a href="toggleRight.svg"><img src="toggleRight.svg" width="250"></a> | **toggleRight.svg**<br>Vector (SVG) | 493.00B |
-| <a href="toggleTop.svg"><img src="toggleTop.svg" width="250"></a> | **toggleTop.svg**<br>Vector (SVG) | 457.00B |
-| <a href="undo.svg"><img src="undo.svg" width="250"></a> | **undo.svg**<br>Vector (SVG) | 670.00B |
-| <a href="unlock.svg"><img src="unlock.svg" width="250"></a> | **unlock.svg**<br>Vector (SVG) | 555.00B |
-| <a href="upload.svg"><img src="upload.svg" width="250"></a> | **upload.svg**<br>Vector (SVG) | 762.00B |
-| <a href="user.svg"><img src="user.svg" width="250"></a> | **user.svg**<br>Vector (SVG) | 667.00B |
-| <a href="view.svg"><img src="view.svg" width="250"></a> | **view.svg**<br>Vector (SVG) | 439.00B |
-| <a href="viewOnly.svg"><img src="viewOnly.svg" width="250"></a> | **viewOnly.svg**<br>Vector (SVG) | 1022.00B |
+| <a href="Designed%20by%20Tom%20for%20Basedash.svg"><img src="Designed%20by%20Tom%20for%20Basedash.svg" width="250"></a> | **Designed by Tom for Basedash.svg** |
+| <a href="accordionDown.svg"><img src="accordionDown.svg" width="250"></a> | **accordionDown.svg** |
+| <a href="accordionLeft.svg"><img src="accordionLeft.svg" width="250"></a> | **accordionLeft.svg** |
+| <a href="accordionRight.svg"><img src="accordionRight.svg" width="250"></a> | **accordionRight.svg** |
+| <a href="accordionUp.svg"><img src="accordionUp.svg" width="250"></a> | **accordionUp.svg** |
+| <a href="action.svg"><img src="action.svg" width="250"></a> | **action.svg** |
+| <a href="activity.svg"><img src="activity.svg" width="250"></a> | **activity.svg** |
+| <a href="add.svg"><img src="add.svg" width="250"></a> | **add.svg** |
+| <a href="addAction.svg"><img src="addAction.svg" width="250"></a> | **addAction.svg** |
+| <a href="addApp.svg"><img src="addApp.svg" width="250"></a> | **addApp.svg** |
+| <a href="addConnection.svg"><img src="addConnection.svg" width="250"></a> | **addConnection.svg** |
+| <a href="addFilter.svg"><img src="addFilter.svg" width="250"></a> | **addFilter.svg** |
+| <a href="addFolder.svg"><img src="addFolder.svg" width="250"></a> | **addFolder.svg** |
+| <a href="addQuery.svg"><img src="addQuery.svg" width="250"></a> | **addQuery.svg** |
+| <a href="addTable.svg"><img src="addTable.svg" width="250"></a> | **addTable.svg** |
+| <a href="addTag.svg"><img src="addTag.svg" width="250"></a> | **addTag.svg** |
+| <a href="addUser.svg"><img src="addUser.svg" width="250"></a> | **addUser.svg** |
+| <a href="addView.svg"><img src="addView.svg" width="250"></a> | **addView.svg** |
+| <a href="after.svg"><img src="after.svg" width="250"></a> | **after.svg** |
+| <a href="airtable.svg"><img src="airtable.svg" width="250"></a> | **airtable.svg** |
+| <a href="alert.svg"><img src="alert.svg" width="250"></a> | **alert.svg** |
+| <a href="app.svg"><img src="app.svg" width="250"></a> | **app.svg** |
+| <a href="arrowDown.svg"><img src="arrowDown.svg" width="250"></a> | **arrowDown.svg** |
+| <a href="arrowLeft.svg"><img src="arrowLeft.svg" width="250"></a> | **arrowLeft.svg** |
+| <a href="arrowRight.svg"><img src="arrowRight.svg" width="250"></a> | **arrowRight.svg** |
+| <a href="arrowUp.svg"><img src="arrowUp.svg" width="250"></a> | **arrowUp.svg** |
+| <a href="auto.svg"><img src="auto.svg" width="250"></a> | **auto.svg** |
+| <a href="back.svg"><img src="back.svg" width="250"></a> | **back.svg** |
+| <a href="barChart.svg"><img src="barChart.svg" width="250"></a> | **barChart.svg** |
+| <a href="basedash.svg"><img src="basedash.svg" width="250"></a> | **basedash.svg** |
+| <a href="before.svg"><img src="before.svg" width="250"></a> | **before.svg** |
+| <a href="between.svg"><img src="between.svg" width="250"></a> | **between.svg** |
+| <a href="caretDown.svg"><img src="caretDown.svg" width="250"></a> | **caretDown.svg** |
+| <a href="caretLeft.svg"><img src="caretLeft.svg" width="250"></a> | **caretLeft.svg** |
+| <a href="caretRight.svg"><img src="caretRight.svg" width="250"></a> | **caretRight.svg** |
+| <a href="caretUp.svg"><img src="caretUp.svg" width="250"></a> | **caretUp.svg** |
+| <a href="cellHeight.svg"><img src="cellHeight.svg" width="250"></a> | **cellHeight.svg** |
+| <a href="chart.svg"><img src="chart.svg" width="250"></a> | **chart.svg** |
+| <a href="chat.svg"><img src="chat.svg" width="250"></a> | **chat.svg** |
+| <a href="check.svg"><img src="check.svg" width="250"></a> | **check.svg** |
+| <a href="checkboxOff.svg"><img src="checkboxOff.svg" width="250"></a> | **checkboxOff.svg** |
+| <a href="checkboxOn.svg"><img src="checkboxOn.svg" width="250"></a> | **checkboxOn.svg** |
+| <a href="close.svg"><img src="close.svg" width="250"></a> | **close.svg** |
+| <a href="cloud.svg"><img src="cloud.svg" width="250"></a> | **cloud.svg** |
+| <a href="collapse.svg"><img src="collapse.svg" width="250"></a> | **collapse.svg** |
+| <a href="collapseDown.svg"><img src="collapseDown.svg" width="250"></a> | **collapseDown.svg** |
+| <a href="collapseLeft.svg"><img src="collapseLeft.svg" width="250"></a> | **collapseLeft.svg** |
+| <a href="collapseRight.svg"><img src="collapseRight.svg" width="250"></a> | **collapseRight.svg** |
+| <a href="collapseUp.svg"><img src="collapseUp.svg" width="250"></a> | **collapseUp.svg** |
+| <a href="connection.svg"><img src="connection.svg" width="250"></a> | **connection.svg** |
+| <a href="contains.svg"><img src="contains.svg" width="250"></a> | **contains.svg** |
+| <a href="copy.svg"><img src="copy.svg" width="250"></a> | **copy.svg** |
+| <a href="dataTypeArray.svg"><img src="dataTypeArray.svg" width="250"></a> | **dataTypeArray.svg** |
+| <a href="dataTypeBoolean.svg"><img src="dataTypeBoolean.svg" width="250"></a> | **dataTypeBoolean.svg** |
+| <a href="dataTypeDate.svg"><img src="dataTypeDate.svg" width="250"></a> | **dataTypeDate.svg** |
+| <a href="dataTypeDollar.svg"><img src="dataTypeDollar.svg" width="250"></a> | **dataTypeDollar.svg** |
+| <a href="dataTypeEnum.svg"><img src="dataTypeEnum.svg" width="250"></a> | **dataTypeEnum.svg** |
+| <a href="dataTypeEuro.svg"><img src="dataTypeEuro.svg" width="250"></a> | **dataTypeEuro.svg** |
+| <a href="dataTypeForeignKey.svg"><img src="dataTypeForeignKey.svg" width="250"></a> | **dataTypeForeignKey.svg** |
+| <a href="dataTypeFormula.svg"><img src="dataTypeFormula.svg" width="250"></a> | **dataTypeFormula.svg** |
+| <a href="dataTypeHtml.svg"><img src="dataTypeHtml.svg" width="250"></a> | **dataTypeHtml.svg** |
+| <a href="dataTypeImage.svg"><img src="dataTypeImage.svg" width="250"></a> | **dataTypeImage.svg** |
+| <a href="dataTypeJson.svg"><img src="dataTypeJson.svg" width="250"></a> | **dataTypeJson.svg** |
+| <a href="dataTypeLink.svg"><img src="dataTypeLink.svg" width="250"></a> | **dataTypeLink.svg** |
+| <a href="dataTypeNumber.svg"><img src="dataTypeNumber.svg" width="250"></a> | **dataTypeNumber.svg** |
+| <a href="dataTypePercentage.svg"><img src="dataTypePercentage.svg" width="250"></a> | **dataTypePercentage.svg** |
+| <a href="dataTypePrimaryKey.svg"><img src="dataTypePrimaryKey.svg" width="250"></a> | **dataTypePrimaryKey.svg** |
+| <a href="dataTypeText.svg"><img src="dataTypeText.svg" width="250"></a> | **dataTypeText.svg** |
+| <a href="database.svg"><img src="database.svg" width="250"></a> | **database.svg** |
+| <a href="delete.svg"><img src="delete.svg" width="250"></a> | **delete.svg** |
+| <a href="disconnected.svg"><img src="disconnected.svg" width="250"></a> | **disconnected.svg** |
+| <a href="dismiss.svg"><img src="dismiss.svg" width="250"></a> | **dismiss.svg** |
+| <a href="dividedBy.svg"><img src="dividedBy.svg" width="250"></a> | **dividedBy.svg** |
+| <a href="documentation.svg"><img src="documentation.svg" width="250"></a> | **documentation.svg** |
+| <a href="doesNotContain.svg"><img src="doesNotContain.svg" width="250"></a> | **doesNotContain.svg** |
+| <a href="doesNotEqual.svg"><img src="doesNotEqual.svg" width="250"></a> | **doesNotEqual.svg** |
+| <a href="dot.svg"><img src="dot.svg" width="250"></a> | **dot.svg** |
+| <a href="doubleCaretDown.svg"><img src="doubleCaretDown.svg" width="250"></a> | **doubleCaretDown.svg** |
+| <a href="doubleCaretLeft.svg"><img src="doubleCaretLeft.svg" width="250"></a> | **doubleCaretLeft.svg** |
+| <a href="doubleCaretRight.svg"><img src="doubleCaretRight.svg" width="250"></a> | **doubleCaretRight.svg** |
+| <a href="doubleCaretUp.svg"><img src="doubleCaretUp.svg" width="250"></a> | **doubleCaretUp.svg** |
+| <a href="download.svg"><img src="download.svg" width="250"></a> | **download.svg** |
+| <a href="draggable.svg"><img src="draggable.svg" width="250"></a> | **draggable.svg** |
+| <a href="edit.svg"><img src="edit.svg" width="250"></a> | **edit.svg** |
+| <a href="email.svg"><img src="email.svg" width="250"></a> | **email.svg** |
+| <a href="emoji.svg"><img src="emoji.svg" width="250"></a> | **emoji.svg** |
+| <a href="equals.svg"><img src="equals.svg" width="250"></a> | **equals.svg** |
+| <a href="expand.svg"><img src="expand.svg" width="250"></a> | **expand.svg** |
+| <a href="export.svg"><img src="export.svg" width="250"></a> | **export.svg** |
+| <a href="externalLink.svg"><img src="externalLink.svg" width="250"></a> | **externalLink.svg** |
+| <a href="eyeClosed.svg"><img src="eyeClosed.svg" width="250"></a> | **eyeClosed.svg** |
+| <a href="eyeOpen.svg"><img src="eyeOpen.svg" width="250"></a> | **eyeOpen.svg** |
+| <a href="favoriteOff.svg"><img src="favoriteOff.svg" width="250"></a> | **favoriteOff.svg** |
+| <a href="favoriteOn.svg"><img src="favoriteOn.svg" width="250"></a> | **favoriteOn.svg** |
+| <a href="file.svg"><img src="file.svg" width="250"></a> | **file.svg** |
+| <a href="filter.svg"><img src="filter.svg" width="250"></a> | **filter.svg** |
+| <a href="focus.svg"><img src="focus.svg" width="250"></a> | **focus.svg** |
+| <a href="folder.svg"><img src="folder.svg" width="250"></a> | **folder.svg** |
+| <a href="folderOpen.svg"><img src="folderOpen.svg" width="250"></a> | **folderOpen.svg** |
+| <a href="formView.svg"><img src="formView.svg" width="250"></a> | **formView.svg** |
+| <a href="forward.svg"><img src="forward.svg" width="250"></a> | **forward.svg** |
+| <a href="globeApac.svg"><img src="globeApac.svg" width="250"></a> | **globeApac.svg** |
+| <a href="globeIndia.svg"><img src="globeIndia.svg" width="250"></a> | **globeIndia.svg** |
+| <a href="globeMidEast.svg"><img src="globeMidEast.svg" width="250"></a> | **globeMidEast.svg** |
+| <a href="globeUsEu.svg"><img src="globeUsEu.svg" width="250"></a> | **globeUsEu.svg** |
+| <a href="greaterThan.svg"><img src="greaterThan.svg" width="250"></a> | **greaterThan.svg** |
+| <a href="greaterThanOrEqualTo.svg"><img src="greaterThanOrEqualTo.svg" width="250"></a> | **greaterThanOrEqualTo.svg** |
+| <a href="gridView.svg"><img src="gridView.svg" width="250"></a> | **gridView.svg** |
+| <a href="home.svg"><img src="home.svg" width="250"></a> | **home.svg** |
+| <a href="import.svg"><img src="import.svg" width="250"></a> | **import.svg** |
+| <a href="info.svg"><img src="info.svg" width="250"></a> | **info.svg** |
+| <a href="isNotBetween.svg"><img src="isNotBetween.svg" width="250"></a> | **isNotBetween.svg** |
+| <a href="isNotNull.svg"><img src="isNotNull.svg" width="250"></a> | **isNotNull.svg** |
+| <a href="isNotSet.svg"><img src="isNotSet.svg" width="250"></a> | **isNotSet.svg** |
+| <a href="isNull.svg"><img src="isNull.svg" width="250"></a> | **isNull.svg** |
+| <a href="isSet.svg"><img src="isSet.svg" width="250"></a> | **isSet.svg** |
+| <a href="joinTables.svg"><img src="joinTables.svg" width="250"></a> | **joinTables.svg** |
+| <a href="jumpTo.svg"><img src="jumpTo.svg" width="250"></a> | **jumpTo.svg** |
+| <a href="kanbanView.svg"><img src="kanbanView.svg" width="250"></a> | **kanbanView.svg** |
+| <a href="keyboard.svg"><img src="keyboard.svg" width="250"></a> | **keyboard.svg** |
+| <a href="keyboardCommand.svg"><img src="keyboardCommand.svg" width="250"></a> | **keyboardCommand.svg** |
+| <a href="keyboardControl.svg"><img src="keyboardControl.svg" width="250"></a> | **keyboardControl.svg** |
+| <a href="keyboardEsc.svg"><img src="keyboardEsc.svg" width="250"></a> | **keyboardEsc.svg** |
+| <a href="keyboardLetterF.svg"><img src="keyboardLetterF.svg" width="250"></a> | **keyboardLetterF.svg** |
+| <a href="keyboardLetterK.svg"><img src="keyboardLetterK.svg" width="250"></a> | **keyboardLetterK.svg** |
+| <a href="keyboardLetterS.svg"><img src="keyboardLetterS.svg" width="250"></a> | **keyboardLetterS.svg** |
+| <a href="keyboardOption.svg"><img src="keyboardOption.svg" width="250"></a> | **keyboardOption.svg** |
+| <a href="keyboardReturn.svg"><img src="keyboardReturn.svg" width="250"></a> | **keyboardReturn.svg** |
+| <a href="keyboardShift.svg"><img src="keyboardShift.svg" width="250"></a> | **keyboardShift.svg** |
+| <a href="lessThan.svg"><img src="lessThan.svg" width="250"></a> | **lessThan.svg** |
+| <a href="lessThanOrEqualTo.svg"><img src="lessThanOrEqualTo.svg" width="250"></a> | **lessThanOrEqualTo.svg** |
+| <a href="lineChart.svg"><img src="lineChart.svg" width="250"></a> | **lineChart.svg** |
+| <a href="listView.svg"><img src="listView.svg" width="250"></a> | **listView.svg** |
+| <a href="location.svg"><img src="location.svg" width="250"></a> | **location.svg** |
+| <a href="locked.svg"><img src="locked.svg" width="250"></a> | **locked.svg** |
+| <a href="logout.svg"><img src="logout.svg" width="250"></a> | **logout.svg** |
+| <a href="mariaDb.svg"><img src="mariaDb.svg" width="250"></a> | **mariaDb.svg** |
+| <a href="menu.svg"><img src="menu.svg" width="250"></a> | **menu.svg** |
+| <a href="minus.svg"><img src="minus.svg" width="250"></a> | **minus.svg** |
+| <a href="more.svg"><img src="more.svg" width="250"></a> | **more.svg** |
+| <a href="mySql.svg"><img src="mySql.svg" width="250"></a> | **mySql.svg** |
+| <a href="noSqLdb.svg"><img src="noSqLdb.svg" width="250"></a> | **noSqLdb.svg** |
+| <a href="notificiations.svg"><img src="notificiations.svg" width="250"></a> | **notificiations.svg** |
+| <a href="onOrAfter.svg"><img src="onOrAfter.svg" width="250"></a> | **onOrAfter.svg** |
+| <a href="onOrBefore.svg"><img src="onOrBefore.svg" width="250"></a> | **onOrBefore.svg** |
+| <a href="pause.svg"><img src="pause.svg" width="250"></a> | **pause.svg** |
+| <a href="phone.svg"><img src="phone.svg" width="250"></a> | **phone.svg** |
+| <a href="pin.svg"><img src="pin.svg" width="250"></a> | **pin.svg** |
+| <a href="placeholder.svg"><img src="placeholder.svg" width="250"></a> | **placeholder.svg** |
+| <a href="play.svg"><img src="play.svg" width="250"></a> | **play.svg** |
+| <a href="postgres.svg"><img src="postgres.svg" width="250"></a> | **postgres.svg** |
+| <a href="preferences.svg"><img src="preferences.svg" width="250"></a> | **preferences.svg** |
+| <a href="primaryAttribute.svg"><img src="primaryAttribute.svg" width="250"></a> | **primaryAttribute.svg** |
+| <a href="progress.svg"><img src="progress.svg" width="250"></a> | **progress.svg** |
+| <a href="query.svg"><img src="query.svg" width="250"></a> | **query.svg** |
+| <a href="question.svg"><img src="question.svg" width="250"></a> | **question.svg** |
+| <a href="radioOff.svg"><img src="radioOff.svg" width="250"></a> | **radioOff.svg** |
+| <a href="radioOn.svg"><img src="radioOn.svg" width="250"></a> | **radioOn.svg** |
+| <a href="redo.svg"><img src="redo.svg" width="250"></a> | **redo.svg** |
+| <a href="redshift.svg"><img src="redshift.svg" width="250"></a> | **redshift.svg** |
+| <a href="refresh.svg"><img src="refresh.svg" width="250"></a> | **refresh.svg** |
+| <a href="richtext.svg"><img src="richtext.svg" width="250"></a> | **richtext.svg** |
+| <a href="role.svg"><img src="role.svg" width="250"></a> | **role.svg** |
+| <a href="search.svg"><img src="search.svg" width="250"></a> | **search.svg** |
+| <a href="send.svg"><img src="send.svg" width="250"></a> | **send.svg** |
+| <a href="settings.svg"><img src="settings.svg" width="250"></a> | **settings.svg** |
+| <a href="share.svg"><img src="share.svg" width="250"></a> | **share.svg** |
+| <a href="sortAscending.svg"><img src="sortAscending.svg" width="250"></a> | **sortAscending.svg** |
+| <a href="sortDescending.svg"><img src="sortDescending.svg" width="250"></a> | **sortDescending.svg** |
+| <a href="sortDown-1.svg"><img src="sortDown-1.svg" width="250"></a> | **sortDown-1.svg** |
+| <a href="sortDown.svg"><img src="sortDown.svg" width="250"></a> | **sortDown.svg** |
+| <a href="sqLdb.svg"><img src="sqLdb.svg" width="250"></a> | **sqLdb.svg** |
+| <a href="sqlServer.svg"><img src="sqlServer.svg" width="250"></a> | **sqlServer.svg** |
+| <a href="supabase.svg"><img src="supabase.svg" width="250"></a> | **supabase.svg** |
+| <a href="table.svg"><img src="table.svg" width="250"></a> | **table.svg** |
+| <a href="tag.svg"><img src="tag.svg" width="250"></a> | **tag.svg** |
+| <a href="team.svg"><img src="team.svg" width="250"></a> | **team.svg** |
+| <a href="time.svg"><img src="time.svg" width="250"></a> | **time.svg** |
+| <a href="times.svg"><img src="times.svg" width="250"></a> | **times.svg** |
+| <a href="toggleBottom.svg"><img src="toggleBottom.svg" width="250"></a> | **toggleBottom.svg** |
+| <a href="toggleLeft.svg"><img src="toggleLeft.svg" width="250"></a> | **toggleLeft.svg** |
+| <a href="toggleRight.svg"><img src="toggleRight.svg" width="250"></a> | **toggleRight.svg** |
+| <a href="toggleTop.svg"><img src="toggleTop.svg" width="250"></a> | **toggleTop.svg** |
+| <a href="undo.svg"><img src="undo.svg" width="250"></a> | **undo.svg** |
+| <a href="unlock.svg"><img src="unlock.svg" width="250"></a> | **unlock.svg** |
+| <a href="upload.svg"><img src="upload.svg" width="250"></a> | **upload.svg** |
+| <a href="user.svg"><img src="user.svg" width="250"></a> | **user.svg** |
+| <a href="view.svg"><img src="view.svg" width="250"></a> | **view.svg** |
+| <a href="viewOnly.svg"><img src="viewOnly.svg" width="250"></a> | **viewOnly.svg** |

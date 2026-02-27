@@ -1,100 +1,100 @@
-# 🖼️ Dark 素材庫
+# 🖼️ Dark
 
 [⬅️ 返回主目錄](../../../../README.md)
 
-| 預覽 (點擊放大) | 檔案資訊 |
+| 預覽 | 資訊 |
 | :--- | :--- |
-| <a href="000-template.svg"><img src="000-template.svg" width="250"></a> | **000-template.svg**<br>Vector (SVG) | 1.74KB |
-| <a href="alias.svg"><img src="alias.svg" width="250"></a> | **alias.svg**<br>Vector (SVG) | 2.29KB |
-| <a href="all-scroll.svg"><img src="all-scroll.svg" width="250"></a> | **all-scroll.svg**<br>Vector (SVG) | 2.86KB |
-| <a href="bottom_left_corner.svg"><img src="bottom_left_corner.svg" width="250"></a> | **bottom_left_corner.svg**<br>Vector (SVG) | 2.03KB |
-| <a href="bottom_right_corner.svg"><img src="bottom_right_corner.svg" width="250"></a> | **bottom_right_corner.svg**<br>Vector (SVG) | 1.89KB |
-| <a href="bottom_side.svg"><img src="bottom_side.svg" width="250"></a> | **bottom_side.svg**<br>Vector (SVG) | 1.63KB |
-| <a href="cell.svg"><img src="cell.svg" width="250"></a> | **cell.svg**<br>Vector (SVG) | 1.74KB |
-| <a href="center_ptr.svg"><img src="center_ptr.svg" width="250"></a> | **center_ptr.svg**<br>Vector (SVG) | 1.39KB |
-| <a href="col-resize.svg"><img src="col-resize.svg" width="250"></a> | **col-resize.svg**<br>Vector (SVG) | 2.47KB |
-| <a href="color-picker.svg"><img src="color-picker.svg" width="250"></a> | **color-picker.svg**<br>Vector (SVG) | 2.23KB |
-| <a href="context-menu.svg"><img src="context-menu.svg" width="250"></a> | **context-menu.svg**<br>Vector (SVG) | 1.69KB |
-| <a href="copy.svg"><img src="copy.svg" width="250"></a> | **copy.svg**<br>Vector (SVG) | 2.26KB |
-| <a href="crosshair.svg"><img src="crosshair.svg" width="250"></a> | **crosshair.svg**<br>Vector (SVG) | 2.39KB |
-| <a href="default.svg"><img src="default.svg" width="250"></a> | **default.svg**<br>Vector (SVG) | 1.35KB |
-| <a href="dnd-move.svg"><img src="dnd-move.svg" width="250"></a> | **dnd-move.svg**<br>Vector (SVG) | 3.19KB |
-| <a href="dnd-no-drop.svg"><img src="dnd-no-drop.svg" width="250"></a> | **dnd-no-drop.svg**<br>Vector (SVG) | 4.15KB |
-| <a href="down-arrow.svg"><img src="down-arrow.svg" width="250"></a> | **down-arrow.svg**<br>Vector (SVG) | 1.16KB |
-| <a href="draft.svg"><img src="draft.svg" width="250"></a> | **draft.svg**<br>Vector (SVG) | 2.17KB |
-| <a href="fleur.svg"><img src="fleur.svg" width="250"></a> | **fleur.svg**<br>Vector (SVG) | 2.86KB |
-| <a href="help.svg"><img src="help.svg" width="250"></a> | **help.svg**<br>Vector (SVG) | 2.62KB |
-| <a href="left-arrow.svg"><img src="left-arrow.svg" width="250"></a> | **left-arrow.svg**<br>Vector (SVG) | 1.17KB |
-| <a href="left_side.svg"><img src="left_side.svg" width="250"></a> | **left_side.svg**<br>Vector (SVG) | 1.38KB |
-| <a href="no-drop.svg"><img src="no-drop.svg" width="250"></a> | **no-drop.svg**<br>Vector (SVG) | 2.34KB |
-| <a href="not-allowed.svg"><img src="not-allowed.svg" width="250"></a> | **not-allowed.svg**<br>Vector (SVG) | 1.06KB |
-| <a href="openhand.svg"><img src="openhand.svg" width="250"></a> | **openhand.svg**<br>Vector (SVG) | 2.64KB |
-| <a href="pencil.svg"><img src="pencil.svg" width="250"></a> | **pencil.svg**<br>Vector (SVG) | 1.28KB |
-| <a href="pirate.svg"><img src="pirate.svg" width="250"></a> | **pirate.svg**<br>Vector (SVG) | 5.39KB |
-| <a href="pointer.svg"><img src="pointer.svg" width="250"></a> | **pointer.svg**<br>Vector (SVG) | 2.13KB |
-| <a href="progress-00.svg"><img src="progress-00.svg" width="250"></a> | **progress-00.svg**<br>Vector (SVG) | 5.57KB |
-| <a href="progress-01.svg"><img src="progress-01.svg" width="250"></a> | **progress-01.svg**<br>Vector (SVG) | 5.64KB |
-| <a href="progress-02.svg"><img src="progress-02.svg" width="250"></a> | **progress-02.svg**<br>Vector (SVG) | 5.62KB |
-| <a href="progress-03.svg"><img src="progress-03.svg" width="250"></a> | **progress-03.svg**<br>Vector (SVG) | 5.64KB |
-| <a href="progress-04.svg"><img src="progress-04.svg" width="250"></a> | **progress-04.svg**<br>Vector (SVG) | 5.62KB |
-| <a href="progress-05.svg"><img src="progress-05.svg" width="250"></a> | **progress-05.svg**<br>Vector (SVG) | 5.64KB |
-| <a href="progress-06.svg"><img src="progress-06.svg" width="250"></a> | **progress-06.svg**<br>Vector (SVG) | 5.61KB |
-| <a href="progress-07.svg"><img src="progress-07.svg" width="250"></a> | **progress-07.svg**<br>Vector (SVG) | 5.64KB |
-| <a href="progress-08.svg"><img src="progress-08.svg" width="250"></a> | **progress-08.svg**<br>Vector (SVG) | 5.62KB |
-| <a href="progress-09.svg"><img src="progress-09.svg" width="250"></a> | **progress-09.svg**<br>Vector (SVG) | 5.64KB |
-| <a href="progress-10.svg"><img src="progress-10.svg" width="250"></a> | **progress-10.svg**<br>Vector (SVG) | 5.62KB |
-| <a href="progress-11.svg"><img src="progress-11.svg" width="250"></a> | **progress-11.svg**<br>Vector (SVG) | 5.64KB |
-| <a href="progress-12.svg"><img src="progress-12.svg" width="250"></a> | **progress-12.svg**<br>Vector (SVG) | 5.61KB |
-| <a href="progress-13.svg"><img src="progress-13.svg" width="250"></a> | **progress-13.svg**<br>Vector (SVG) | 5.64KB |
-| <a href="progress-14.svg"><img src="progress-14.svg" width="250"></a> | **progress-14.svg**<br>Vector (SVG) | 5.62KB |
-| <a href="progress-15.svg"><img src="progress-15.svg" width="250"></a> | **progress-15.svg**<br>Vector (SVG) | 5.64KB |
-| <a href="progress-16.svg"><img src="progress-16.svg" width="250"></a> | **progress-16.svg**<br>Vector (SVG) | 5.62KB |
-| <a href="progress-17.svg"><img src="progress-17.svg" width="250"></a> | **progress-17.svg**<br>Vector (SVG) | 5.64KB |
-| <a href="progress-18.svg"><img src="progress-18.svg" width="250"></a> | **progress-18.svg**<br>Vector (SVG) | 5.60KB |
-| <a href="progress-19.svg"><img src="progress-19.svg" width="250"></a> | **progress-19.svg**<br>Vector (SVG) | 5.64KB |
-| <a href="progress-20.svg"><img src="progress-20.svg" width="250"></a> | **progress-20.svg**<br>Vector (SVG) | 5.62KB |
-| <a href="progress-21.svg"><img src="progress-21.svg" width="250"></a> | **progress-21.svg**<br>Vector (SVG) | 5.64KB |
-| <a href="progress-22.svg"><img src="progress-22.svg" width="250"></a> | **progress-22.svg**<br>Vector (SVG) | 5.62KB |
-| <a href="progress-23.svg"><img src="progress-23.svg" width="250"></a> | **progress-23.svg**<br>Vector (SVG) | 5.64KB |
-| <a href="right-arrow.svg"><img src="right-arrow.svg" width="250"></a> | **right-arrow.svg**<br>Vector (SVG) | 1.16KB |
-| <a href="right_ptr.svg"><img src="right_ptr.svg" width="250"></a> | **right_ptr.svg**<br>Vector (SVG) | 1.35KB |
-| <a href="right_side.svg"><img src="right_side.svg" width="250"></a> | **right_side.svg**<br>Vector (SVG) | 1.38KB |
-| <a href="row-resize.svg"><img src="row-resize.svg" width="250"></a> | **row-resize.svg**<br>Vector (SVG) | 2.97KB |
-| <a href="size_bdiag.svg"><img src="size_bdiag.svg" width="250"></a> | **size_bdiag.svg**<br>Vector (SVG) | 2.26KB |
-| <a href="size_fdiag.svg"><img src="size_fdiag.svg" width="250"></a> | **size_fdiag.svg**<br>Vector (SVG) | 2.30KB |
-| <a href="size_hor.svg"><img src="size_hor.svg" width="250"></a> | **size_hor.svg**<br>Vector (SVG) | 2.21KB |
-| <a href="size_ver.svg"><img src="size_ver.svg" width="250"></a> | **size_ver.svg**<br>Vector (SVG) | 2.15KB |
-| <a href="text.svg"><img src="text.svg" width="250"></a> | **text.svg**<br>Vector (SVG) | 2.21KB |
-| <a href="top_left_corner.svg"><img src="top_left_corner.svg" width="250"></a> | **top_left_corner.svg**<br>Vector (SVG) | 2.00KB |
-| <a href="top_right_corner.svg"><img src="top_right_corner.svg" width="250"></a> | **top_right_corner.svg**<br>Vector (SVG) | 1.97KB |
-| <a href="top_side.svg"><img src="top_side.svg" width="250"></a> | **top_side.svg**<br>Vector (SVG) | 1.40KB |
-| <a href="up-arrow.svg"><img src="up-arrow.svg" width="250"></a> | **up-arrow.svg**<br>Vector (SVG) | 1.11KB |
-| <a href="vertical-text.svg"><img src="vertical-text.svg" width="250"></a> | **vertical-text.svg**<br>Vector (SVG) | 2.24KB |
-| <a href="wait-00.svg"><img src="wait-00.svg" width="250"></a> | **wait-00.svg**<br>Vector (SVG) | 7.53KB |
-| <a href="wait-01.svg"><img src="wait-01.svg" width="250"></a> | **wait-01.svg**<br>Vector (SVG) | 7.64KB |
-| <a href="wait-02.svg"><img src="wait-02.svg" width="250"></a> | **wait-02.svg**<br>Vector (SVG) | 7.62KB |
-| <a href="wait-03.svg"><img src="wait-03.svg" width="250"></a> | **wait-03.svg**<br>Vector (SVG) | 7.64KB |
-| <a href="wait-04.svg"><img src="wait-04.svg" width="250"></a> | **wait-04.svg**<br>Vector (SVG) | 7.62KB |
-| <a href="wait-05.svg"><img src="wait-05.svg" width="250"></a> | **wait-05.svg**<br>Vector (SVG) | 7.63KB |
-| <a href="wait-06.svg"><img src="wait-06.svg" width="250"></a> | **wait-06.svg**<br>Vector (SVG) | 7.61KB |
-| <a href="wait-07.svg"><img src="wait-07.svg" width="250"></a> | **wait-07.svg**<br>Vector (SVG) | 7.64KB |
-| <a href="wait-08.svg"><img src="wait-08.svg" width="250"></a> | **wait-08.svg**<br>Vector (SVG) | 7.62KB |
-| <a href="wait-09.svg"><img src="wait-09.svg" width="250"></a> | **wait-09.svg**<br>Vector (SVG) | 7.64KB |
-| <a href="wait-10.svg"><img src="wait-10.svg" width="250"></a> | **wait-10.svg**<br>Vector (SVG) | 7.62KB |
-| <a href="wait-11.svg"><img src="wait-11.svg" width="250"></a> | **wait-11.svg**<br>Vector (SVG) | 7.64KB |
-| <a href="wait-12.svg"><img src="wait-12.svg" width="250"></a> | **wait-12.svg**<br>Vector (SVG) | 7.61KB |
-| <a href="wait-13.svg"><img src="wait-13.svg" width="250"></a> | **wait-13.svg**<br>Vector (SVG) | 7.64KB |
-| <a href="wait-14.svg"><img src="wait-14.svg" width="250"></a> | **wait-14.svg**<br>Vector (SVG) | 7.62KB |
-| <a href="wait-15.svg"><img src="wait-15.svg" width="250"></a> | **wait-15.svg**<br>Vector (SVG) | 7.64KB |
-| <a href="wait-16.svg"><img src="wait-16.svg" width="250"></a> | **wait-16.svg**<br>Vector (SVG) | 7.62KB |
-| <a href="wait-17.svg"><img src="wait-17.svg" width="250"></a> | **wait-17.svg**<br>Vector (SVG) | 7.64KB |
-| <a href="wait-18.svg"><img src="wait-18.svg" width="250"></a> | **wait-18.svg**<br>Vector (SVG) | 7.61KB |
-| <a href="wait-19.svg"><img src="wait-19.svg" width="250"></a> | **wait-19.svg**<br>Vector (SVG) | 7.64KB |
-| <a href="wait-20.svg"><img src="wait-20.svg" width="250"></a> | **wait-20.svg**<br>Vector (SVG) | 7.62KB |
-| <a href="wait-21.svg"><img src="wait-21.svg" width="250"></a> | **wait-21.svg**<br>Vector (SVG) | 7.64KB |
-| <a href="wait-22.svg"><img src="wait-22.svg" width="250"></a> | **wait-22.svg**<br>Vector (SVG) | 7.62KB |
-| <a href="wait-23.svg"><img src="wait-23.svg" width="250"></a> | **wait-23.svg**<br>Vector (SVG) | 7.64KB |
-| <a href="wayland-cursor.svg"><img src="wayland-cursor.svg" width="250"></a> | **wayland-cursor.svg**<br>Vector (SVG) | 3.88KB |
-| <a href="x-cursor.svg"><img src="x-cursor.svg" width="250"></a> | **x-cursor.svg**<br>Vector (SVG) | 2.69KB |
-| <a href="zoom-in.svg"><img src="zoom-in.svg" width="250"></a> | **zoom-in.svg**<br>Vector (SVG) | 1.57KB |
-| <a href="zoom-out.svg"><img src="zoom-out.svg" width="250"></a> | **zoom-out.svg**<br>Vector (SVG) | 1.55KB |
+| <a href="000-template.svg"><img src="000-template.svg" width="250"></a> | **000-template.svg** |
+| <a href="alias.svg"><img src="alias.svg" width="250"></a> | **alias.svg** |
+| <a href="all-scroll.svg"><img src="all-scroll.svg" width="250"></a> | **all-scroll.svg** |
+| <a href="bottom_left_corner.svg"><img src="bottom_left_corner.svg" width="250"></a> | **bottom_left_corner.svg** |
+| <a href="bottom_right_corner.svg"><img src="bottom_right_corner.svg" width="250"></a> | **bottom_right_corner.svg** |
+| <a href="bottom_side.svg"><img src="bottom_side.svg" width="250"></a> | **bottom_side.svg** |
+| <a href="cell.svg"><img src="cell.svg" width="250"></a> | **cell.svg** |
+| <a href="center_ptr.svg"><img src="center_ptr.svg" width="250"></a> | **center_ptr.svg** |
+| <a href="col-resize.svg"><img src="col-resize.svg" width="250"></a> | **col-resize.svg** |
+| <a href="color-picker.svg"><img src="color-picker.svg" width="250"></a> | **color-picker.svg** |
+| <a href="context-menu.svg"><img src="context-menu.svg" width="250"></a> | **context-menu.svg** |
+| <a href="copy.svg"><img src="copy.svg" width="250"></a> | **copy.svg** |
+| <a href="crosshair.svg"><img src="crosshair.svg" width="250"></a> | **crosshair.svg** |
+| <a href="default.svg"><img src="default.svg" width="250"></a> | **default.svg** |
+| <a href="dnd-move.svg"><img src="dnd-move.svg" width="250"></a> | **dnd-move.svg** |
+| <a href="dnd-no-drop.svg"><img src="dnd-no-drop.svg" width="250"></a> | **dnd-no-drop.svg** |
+| <a href="down-arrow.svg"><img src="down-arrow.svg" width="250"></a> | **down-arrow.svg** |
+| <a href="draft.svg"><img src="draft.svg" width="250"></a> | **draft.svg** |
+| <a href="fleur.svg"><img src="fleur.svg" width="250"></a> | **fleur.svg** |
+| <a href="help.svg"><img src="help.svg" width="250"></a> | **help.svg** |
+| <a href="left-arrow.svg"><img src="left-arrow.svg" width="250"></a> | **left-arrow.svg** |
+| <a href="left_side.svg"><img src="left_side.svg" width="250"></a> | **left_side.svg** |
+| <a href="no-drop.svg"><img src="no-drop.svg" width="250"></a> | **no-drop.svg** |
+| <a href="not-allowed.svg"><img src="not-allowed.svg" width="250"></a> | **not-allowed.svg** |
+| <a href="openhand.svg"><img src="openhand.svg" width="250"></a> | **openhand.svg** |
+| <a href="pencil.svg"><img src="pencil.svg" width="250"></a> | **pencil.svg** |
+| <a href="pirate.svg"><img src="pirate.svg" width="250"></a> | **pirate.svg** |
+| <a href="pointer.svg"><img src="pointer.svg" width="250"></a> | **pointer.svg** |
+| <a href="progress-00.svg"><img src="progress-00.svg" width="250"></a> | **progress-00.svg** |
+| <a href="progress-01.svg"><img src="progress-01.svg" width="250"></a> | **progress-01.svg** |
+| <a href="progress-02.svg"><img src="progress-02.svg" width="250"></a> | **progress-02.svg** |
+| <a href="progress-03.svg"><img src="progress-03.svg" width="250"></a> | **progress-03.svg** |
+| <a href="progress-04.svg"><img src="progress-04.svg" width="250"></a> | **progress-04.svg** |
+| <a href="progress-05.svg"><img src="progress-05.svg" width="250"></a> | **progress-05.svg** |
+| <a href="progress-06.svg"><img src="progress-06.svg" width="250"></a> | **progress-06.svg** |
+| <a href="progress-07.svg"><img src="progress-07.svg" width="250"></a> | **progress-07.svg** |
+| <a href="progress-08.svg"><img src="progress-08.svg" width="250"></a> | **progress-08.svg** |
+| <a href="progress-09.svg"><img src="progress-09.svg" width="250"></a> | **progress-09.svg** |
+| <a href="progress-10.svg"><img src="progress-10.svg" width="250"></a> | **progress-10.svg** |
+| <a href="progress-11.svg"><img src="progress-11.svg" width="250"></a> | **progress-11.svg** |
+| <a href="progress-12.svg"><img src="progress-12.svg" width="250"></a> | **progress-12.svg** |
+| <a href="progress-13.svg"><img src="progress-13.svg" width="250"></a> | **progress-13.svg** |
+| <a href="progress-14.svg"><img src="progress-14.svg" width="250"></a> | **progress-14.svg** |
+| <a href="progress-15.svg"><img src="progress-15.svg" width="250"></a> | **progress-15.svg** |
+| <a href="progress-16.svg"><img src="progress-16.svg" width="250"></a> | **progress-16.svg** |
+| <a href="progress-17.svg"><img src="progress-17.svg" width="250"></a> | **progress-17.svg** |
+| <a href="progress-18.svg"><img src="progress-18.svg" width="250"></a> | **progress-18.svg** |
+| <a href="progress-19.svg"><img src="progress-19.svg" width="250"></a> | **progress-19.svg** |
+| <a href="progress-20.svg"><img src="progress-20.svg" width="250"></a> | **progress-20.svg** |
+| <a href="progress-21.svg"><img src="progress-21.svg" width="250"></a> | **progress-21.svg** |
+| <a href="progress-22.svg"><img src="progress-22.svg" width="250"></a> | **progress-22.svg** |
+| <a href="progress-23.svg"><img src="progress-23.svg" width="250"></a> | **progress-23.svg** |
+| <a href="right-arrow.svg"><img src="right-arrow.svg" width="250"></a> | **right-arrow.svg** |
+| <a href="right_ptr.svg"><img src="right_ptr.svg" width="250"></a> | **right_ptr.svg** |
+| <a href="right_side.svg"><img src="right_side.svg" width="250"></a> | **right_side.svg** |
+| <a href="row-resize.svg"><img src="row-resize.svg" width="250"></a> | **row-resize.svg** |
+| <a href="size_bdiag.svg"><img src="size_bdiag.svg" width="250"></a> | **size_bdiag.svg** |
+| <a href="size_fdiag.svg"><img src="size_fdiag.svg" width="250"></a> | **size_fdiag.svg** |
+| <a href="size_hor.svg"><img src="size_hor.svg" width="250"></a> | **size_hor.svg** |
+| <a href="size_ver.svg"><img src="size_ver.svg" width="250"></a> | **size_ver.svg** |
+| <a href="text.svg"><img src="text.svg" width="250"></a> | **text.svg** |
+| <a href="top_left_corner.svg"><img src="top_left_corner.svg" width="250"></a> | **top_left_corner.svg** |
+| <a href="top_right_corner.svg"><img src="top_right_corner.svg" width="250"></a> | **top_right_corner.svg** |
+| <a href="top_side.svg"><img src="top_side.svg" width="250"></a> | **top_side.svg** |
+| <a href="up-arrow.svg"><img src="up-arrow.svg" width="250"></a> | **up-arrow.svg** |
+| <a href="vertical-text.svg"><img src="vertical-text.svg" width="250"></a> | **vertical-text.svg** |
+| <a href="wait-00.svg"><img src="wait-00.svg" width="250"></a> | **wait-00.svg** |
+| <a href="wait-01.svg"><img src="wait-01.svg" width="250"></a> | **wait-01.svg** |
+| <a href="wait-02.svg"><img src="wait-02.svg" width="250"></a> | **wait-02.svg** |
+| <a href="wait-03.svg"><img src="wait-03.svg" width="250"></a> | **wait-03.svg** |
+| <a href="wait-04.svg"><img src="wait-04.svg" width="250"></a> | **wait-04.svg** |
+| <a href="wait-05.svg"><img src="wait-05.svg" width="250"></a> | **wait-05.svg** |
+| <a href="wait-06.svg"><img src="wait-06.svg" width="250"></a> | **wait-06.svg** |
+| <a href="wait-07.svg"><img src="wait-07.svg" width="250"></a> | **wait-07.svg** |
+| <a href="wait-08.svg"><img src="wait-08.svg" width="250"></a> | **wait-08.svg** |
+| <a href="wait-09.svg"><img src="wait-09.svg" width="250"></a> | **wait-09.svg** |
+| <a href="wait-10.svg"><img src="wait-10.svg" width="250"></a> | **wait-10.svg** |
+| <a href="wait-11.svg"><img src="wait-11.svg" width="250"></a> | **wait-11.svg** |
+| <a href="wait-12.svg"><img src="wait-12.svg" width="250"></a> | **wait-12.svg** |
+| <a href="wait-13.svg"><img src="wait-13.svg" width="250"></a> | **wait-13.svg** |
+| <a href="wait-14.svg"><img src="wait-14.svg" width="250"></a> | **wait-14.svg** |
+| <a href="wait-15.svg"><img src="wait-15.svg" width="250"></a> | **wait-15.svg** |
+| <a href="wait-16.svg"><img src="wait-16.svg" width="250"></a> | **wait-16.svg** |
+| <a href="wait-17.svg"><img src="wait-17.svg" width="250"></a> | **wait-17.svg** |
+| <a href="wait-18.svg"><img src="wait-18.svg" width="250"></a> | **wait-18.svg** |
+| <a href="wait-19.svg"><img src="wait-19.svg" width="250"></a> | **wait-19.svg** |
+| <a href="wait-20.svg"><img src="wait-20.svg" width="250"></a> | **wait-20.svg** |
+| <a href="wait-21.svg"><img src="wait-21.svg" width="250"></a> | **wait-21.svg** |
+| <a href="wait-22.svg"><img src="wait-22.svg" width="250"></a> | **wait-22.svg** |
+| <a href="wait-23.svg"><img src="wait-23.svg" width="250"></a> | **wait-23.svg** |
+| <a href="wayland-cursor.svg"><img src="wayland-cursor.svg" width="250"></a> | **wayland-cursor.svg** |
+| <a href="x-cursor.svg"><img src="x-cursor.svg" width="250"></a> | **x-cursor.svg** |
+| <a href="zoom-in.svg"><img src="zoom-in.svg" width="250"></a> | **zoom-in.svg** |
+| <a href="zoom-out.svg"><img src="zoom-out.svg" width="250"></a> | **zoom-out.svg** |

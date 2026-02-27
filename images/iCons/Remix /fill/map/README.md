@@ -1,91 +1,91 @@
-# 🖼️ map 素材庫
+# 🖼️ map
 
 [⬅️ 返回主目錄](../../../../../README.md)
 
-| 預覽 (點擊放大) | 檔案資訊 |
+| 預覽 | 資訊 |
 | :--- | :--- |
-| <a href="anchor-fill.svg"><img src="anchor-fill.svg" width="250"></a> | **anchor-fill.svg**<br>Vector (SVG) | 1.16KB |
-| <a href="barricade-fill.svg"><img src="barricade-fill.svg" width="250"></a> | **barricade-fill.svg**<br>Vector (SVG) | 597.00B |
-| <a href="bike-fill.svg"><img src="bike-fill.svg" width="250"></a> | **bike-fill.svg**<br>Vector (SVG) | 1.66KB |
-| <a href="bus-2-fill.svg"><img src="bus-2-fill.svg" width="250"></a> | **bus-2-fill.svg**<br>Vector (SVG) | 1.37KB |
-| <a href="bus-fill.svg"><img src="bus-fill.svg" width="250"></a> | **bus-fill.svg**<br>Vector (SVG) | 828.00B |
-| <a href="bus-wifi-fill.svg"><img src="bus-wifi-fill.svg" width="250"></a> | **bus-wifi-fill.svg**<br>Vector (SVG) | 1.52KB |
-| <a href="car-fill.svg"><img src="car-fill.svg" width="250"></a> | **car-fill.svg**<br>Vector (SVG) | 1.43KB |
-| <a href="car-washing-fill.svg"><img src="car-washing-fill.svg" width="250"></a> | **car-washing-fill.svg**<br>Vector (SVG) | 2.65KB |
-| <a href="caravan-fill.svg"><img src="caravan-fill.svg" width="250"></a> | **caravan-fill.svg**<br>Vector (SVG) | 629.00B |
-| <a href="charging-pile-2-fill.svg"><img src="charging-pile-2-fill.svg" width="250"></a> | **charging-pile-2-fill.svg**<br>Vector (SVG) | 898.00B |
-| <a href="charging-pile-fill.svg"><img src="charging-pile-fill.svg" width="250"></a> | **charging-pile-fill.svg**<br>Vector (SVG) | 1.05KB |
-| <a href="china-railway-fill.svg"><img src="china-railway-fill.svg" width="250"></a> | **china-railway-fill.svg**<br>Vector (SVG) | 1.15KB |
-| <a href="compass-2-fill.svg"><img src="compass-2-fill.svg" width="250"></a> | **compass-2-fill.svg**<br>Vector (SVG) | 455.00B |
-| <a href="compass-3-fill.svg"><img src="compass-3-fill.svg" width="250"></a> | **compass-3-fill.svg**<br>Vector (SVG) | 725.00B |
-| <a href="compass-4-fill.svg"><img src="compass-4-fill.svg" width="250"></a> | **compass-4-fill.svg**<br>Vector (SVG) | 504.00B |
-| <a href="compass-discover-fill.svg"><img src="compass-discover-fill.svg" width="250"></a> | **compass-discover-fill.svg**<br>Vector (SVG) | 412.00B |
-| <a href="compass-fill.svg"><img src="compass-fill.svg" width="250"></a> | **compass-fill.svg**<br>Vector (SVG) | 422.00B |
-| <a href="cup-fill.svg"><img src="cup-fill.svg" width="250"></a> | **cup-fill.svg**<br>Vector (SVG) | 698.00B |
-| <a href="direction-fill.svg"><img src="direction-fill.svg" width="250"></a> | **direction-fill.svg**<br>Vector (SVG) | 870.00B |
-| <a href="e-bike-2-fill.svg"><img src="e-bike-2-fill.svg" width="250"></a> | **e-bike-2-fill.svg**<br>Vector (SVG) | 996.00B |
-| <a href="e-bike-fill.svg"><img src="e-bike-fill.svg" width="250"></a> | **e-bike-fill.svg**<br>Vector (SVG) | 1.51KB |
-| <a href="earth-fill.svg"><img src="earth-fill.svg" width="250"></a> | **earth-fill.svg**<br>Vector (SVG) | 1.46KB |
-| <a href="flight-land-fill.svg"><img src="flight-land-fill.svg" width="250"></a> | **flight-land-fill.svg**<br>Vector (SVG) | 976.00B |
-| <a href="flight-takeoff-fill.svg"><img src="flight-takeoff-fill.svg" width="250"></a> | **flight-takeoff-fill.svg**<br>Vector (SVG) | 801.00B |
-| <a href="footprint-fill.svg"><img src="footprint-fill.svg" width="250"></a> | **footprint-fill.svg**<br>Vector (SVG) | 991.00B |
-| <a href="gas-station-fill.svg"><img src="gas-station-fill.svg" width="250"></a> | **gas-station-fill.svg**<br>Vector (SVG) | 1.04KB |
-| <a href="globe-fill.svg"><img src="globe-fill.svg" width="250"></a> | **globe-fill.svg**<br>Vector (SVG) | 1.46KB |
-| <a href="goblet-fill.svg"><img src="goblet-fill.svg" width="250"></a> | **goblet-fill.svg**<br>Vector (SVG) | 359.00B |
-| <a href="guide-fill.svg"><img src="guide-fill.svg" width="250"></a> | **guide-fill.svg**<br>Vector (SVG) | 978.00B |
-| <a href="hotel-bed-fill.svg"><img src="hotel-bed-fill.svg" width="250"></a> | **hotel-bed-fill.svg**<br>Vector (SVG) | 688.00B |
-| <a href="lifebuoy-fill.svg"><img src="lifebuoy-fill.svg" width="250"></a> | **lifebuoy-fill.svg**<br>Vector (SVG) | 1.26KB |
-| <a href="luggage-cart-fill.svg"><img src="luggage-cart-fill.svg" width="250"></a> | **luggage-cart-fill.svg**<br>Vector (SVG) | 1.09KB |
-| <a href="luggage-deposit-fill.svg"><img src="luggage-deposit-fill.svg" width="250"></a> | **luggage-deposit-fill.svg**<br>Vector (SVG) | 444.00B |
-| <a href="map-2-fill.svg"><img src="map-2-fill.svg" width="250"></a> | **map-2-fill.svg**<br>Vector (SVG) | 764.00B |
-| <a href="map-fill.svg"><img src="map-fill.svg" width="250"></a> | **map-fill.svg**<br>Vector (SVG) | 696.00B |
-| <a href="map-pin-2-fill.svg"><img src="map-pin-2-fill.svg" width="250"></a> | **map-pin-2-fill.svg**<br>Vector (SVG) | 985.00B |
-| <a href="map-pin-3-fill.svg"><img src="map-pin-3-fill.svg" width="250"></a> | **map-pin-3-fill.svg**<br>Vector (SVG) | 659.00B |
-| <a href="map-pin-4-fill.svg"><img src="map-pin-4-fill.svg" width="250"></a> | **map-pin-4-fill.svg**<br>Vector (SVG) | 713.00B |
-| <a href="map-pin-5-fill.svg"><img src="map-pin-5-fill.svg" width="250"></a> | **map-pin-5-fill.svg**<br>Vector (SVG) | 698.00B |
-| <a href="map-pin-add-fill.svg"><img src="map-pin-add-fill.svg" width="250"></a> | **map-pin-add-fill.svg**<br>Vector (SVG) | 718.00B |
-| <a href="map-pin-fill.svg"><img src="map-pin-fill.svg" width="250"></a> | **map-pin-fill.svg**<br>Vector (SVG) | 1.26KB |
-| <a href="map-pin-range-fill.svg"><img src="map-pin-range-fill.svg" width="250"></a> | **map-pin-range-fill.svg**<br>Vector (SVG) | 1.06KB |
-| <a href="map-pin-time-fill.svg"><img src="map-pin-time-fill.svg" width="250"></a> | **map-pin-time-fill.svg**<br>Vector (SVG) | 701.00B |
-| <a href="map-pin-user-fill.svg"><img src="map-pin-user-fill.svg" width="250"></a> | **map-pin-user-fill.svg**<br>Vector (SVG) | 1.50KB |
-| <a href="motorbike-fill.svg"><img src="motorbike-fill.svg" width="250"></a> | **motorbike-fill.svg**<br>Vector (SVG) | 2.11KB |
-| <a href="navigation-fill.svg"><img src="navigation-fill.svg" width="250"></a> | **navigation-fill.svg**<br>Vector (SVG) | 901.00B |
-| <a href="oil-fill.svg"><img src="oil-fill.svg" width="250"></a> | **oil-fill.svg**<br>Vector (SVG) | 697.00B |
-| <a href="parking-box-fill.svg"><img src="parking-box-fill.svg" width="250"></a> | **parking-box-fill.svg**<br>Vector (SVG) | 928.00B |
-| <a href="parking-fill.svg"><img src="parking-fill.svg" width="250"></a> | **parking-fill.svg**<br>Vector (SVG) | 604.00B |
-| <a href="passport-fill.svg"><img src="passport-fill.svg" width="250"></a> | **passport-fill.svg**<br>Vector (SVG) | 1.19KB |
-| <a href="pin-distance-fill.svg"><img src="pin-distance-fill.svg" width="250"></a> | **pin-distance-fill.svg**<br>Vector (SVG) | 1.77KB |
-| <a href="plane-fill.svg"><img src="plane-fill.svg" width="250"></a> | **plane-fill.svg**<br>Vector (SVG) | 532.00B |
-| <a href="police-car-fill.svg"><img src="police-car-fill.svg" width="250"></a> | **police-car-fill.svg**<br>Vector (SVG) | 2.17KB |
-| <a href="pushpin-2-fill.svg"><img src="pushpin-2-fill.svg" width="250"></a> | **pushpin-2-fill.svg**<br>Vector (SVG) | 327.00B |
-| <a href="pushpin-fill.svg"><img src="pushpin-fill.svg" width="250"></a> | **pushpin-fill.svg**<br>Vector (SVG) | 523.00B |
-| <a href="restaurant-2-fill.svg"><img src="restaurant-2-fill.svg" width="250"></a> | **restaurant-2-fill.svg**<br>Vector (SVG) | 701.00B |
-| <a href="restaurant-fill.svg"><img src="restaurant-fill.svg" width="250"></a> | **restaurant-fill.svg**<br>Vector (SVG) | 580.00B |
-| <a href="riding-fill.svg"><img src="riding-fill.svg" width="250"></a> | **riding-fill.svg**<br>Vector (SVG) | 2.69KB |
-| <a href="road-map-fill.svg"><img src="road-map-fill.svg" width="250"></a> | **road-map-fill.svg**<br>Vector (SVG) | 1.31KB |
-| <a href="roadster-fill.svg"><img src="roadster-fill.svg" width="250"></a> | **roadster-fill.svg**<br>Vector (SVG) | 2.15KB |
-| <a href="rocket-2-fill.svg"><img src="rocket-2-fill.svg" width="250"></a> | **rocket-2-fill.svg**<br>Vector (SVG) | 836.00B |
-| <a href="rocket-fill.svg"><img src="rocket-fill.svg" width="250"></a> | **rocket-fill.svg**<br>Vector (SVG) | 1.54KB |
-| <a href="route-fill.svg"><img src="route-fill.svg" width="250"></a> | **route-fill.svg**<br>Vector (SVG) | 1.26KB |
-| <a href="run-fill.svg"><img src="run-fill.svg" width="250"></a> | **run-fill.svg**<br>Vector (SVG) | 1.17KB |
-| <a href="sailboat-fill.svg"><img src="sailboat-fill.svg" width="250"></a> | **sailboat-fill.svg**<br>Vector (SVG) | 1.27KB |
-| <a href="ship-2-fill.svg"><img src="ship-2-fill.svg" width="250"></a> | **ship-2-fill.svg**<br>Vector (SVG) | 1.53KB |
-| <a href="ship-fill.svg"><img src="ship-fill.svg" width="250"></a> | **ship-fill.svg**<br>Vector (SVG) | 1.38KB |
-| <a href="signal-tower-fill.svg"><img src="signal-tower-fill.svg" width="250"></a> | **signal-tower-fill.svg**<br>Vector (SVG) | 1.67KB |
-| <a href="space-ship-fill.svg"><img src="space-ship-fill.svg" width="250"></a> | **space-ship-fill.svg**<br>Vector (SVG) | 1.24KB |
-| <a href="steering-2-fill.svg"><img src="steering-2-fill.svg" width="250"></a> | **steering-2-fill.svg**<br>Vector (SVG) | 1.06KB |
-| <a href="steering-fill.svg"><img src="steering-fill.svg" width="250"></a> | **steering-fill.svg**<br>Vector (SVG) | 1.22KB |
-| <a href="subway-fill.svg"><img src="subway-fill.svg" width="250"></a> | **subway-fill.svg**<br>Vector (SVG) | 1.39KB |
-| <a href="subway-wifi-fill.svg"><img src="subway-wifi-fill.svg" width="250"></a> | **subway-wifi-fill.svg**<br>Vector (SVG) | 2.04KB |
-| <a href="suitcase-2-fill.svg"><img src="suitcase-2-fill.svg" width="250"></a> | **suitcase-2-fill.svg**<br>Vector (SVG) | 505.00B |
-| <a href="suitcase-3-fill.svg"><img src="suitcase-3-fill.svg" width="250"></a> | **suitcase-3-fill.svg**<br>Vector (SVG) | 543.00B |
-| <a href="suitcase-fill.svg"><img src="suitcase-fill.svg" width="250"></a> | **suitcase-fill.svg**<br>Vector (SVG) | 480.00B |
-| <a href="takeaway-fill.svg"><img src="takeaway-fill.svg" width="250"></a> | **takeaway-fill.svg**<br>Vector (SVG) | 1.00KB |
-| <a href="taxi-fill.svg"><img src="taxi-fill.svg" width="250"></a> | **taxi-fill.svg**<br>Vector (SVG) | 1.44KB |
-| <a href="taxi-wifi-fill.svg"><img src="taxi-wifi-fill.svg" width="250"></a> | **taxi-wifi-fill.svg**<br>Vector (SVG) | 2.10KB |
-| <a href="traffic-light-fill.svg"><img src="traffic-light-fill.svg" width="250"></a> | **traffic-light-fill.svg**<br>Vector (SVG) | 1.64KB |
-| <a href="train-fill.svg"><img src="train-fill.svg" width="250"></a> | **train-fill.svg**<br>Vector (SVG) | 944.00B |
-| <a href="train-wifi-fill.svg"><img src="train-wifi-fill.svg" width="250"></a> | **train-wifi-fill.svg**<br>Vector (SVG) | 1.76KB |
-| <a href="treasure-map-fill.svg"><img src="treasure-map-fill.svg" width="250"></a> | **treasure-map-fill.svg**<br>Vector (SVG) | 897.00B |
-| <a href="truck-fill.svg"><img src="truck-fill.svg" width="250"></a> | **truck-fill.svg**<br>Vector (SVG) | 860.00B |
-| <a href="walk-fill.svg"><img src="walk-fill.svg" width="250"></a> | **walk-fill.svg**<br>Vector (SVG) | 1.32KB |
+| <a href="anchor-fill.svg"><img src="anchor-fill.svg" width="250"></a> | **anchor-fill.svg** |
+| <a href="barricade-fill.svg"><img src="barricade-fill.svg" width="250"></a> | **barricade-fill.svg** |
+| <a href="bike-fill.svg"><img src="bike-fill.svg" width="250"></a> | **bike-fill.svg** |
+| <a href="bus-2-fill.svg"><img src="bus-2-fill.svg" width="250"></a> | **bus-2-fill.svg** |
+| <a href="bus-fill.svg"><img src="bus-fill.svg" width="250"></a> | **bus-fill.svg** |
+| <a href="bus-wifi-fill.svg"><img src="bus-wifi-fill.svg" width="250"></a> | **bus-wifi-fill.svg** |
+| <a href="car-fill.svg"><img src="car-fill.svg" width="250"></a> | **car-fill.svg** |
+| <a href="car-washing-fill.svg"><img src="car-washing-fill.svg" width="250"></a> | **car-washing-fill.svg** |
+| <a href="caravan-fill.svg"><img src="caravan-fill.svg" width="250"></a> | **caravan-fill.svg** |
+| <a href="charging-pile-2-fill.svg"><img src="charging-pile-2-fill.svg" width="250"></a> | **charging-pile-2-fill.svg** |
+| <a href="charging-pile-fill.svg"><img src="charging-pile-fill.svg" width="250"></a> | **charging-pile-fill.svg** |
+| <a href="china-railway-fill.svg"><img src="china-railway-fill.svg" width="250"></a> | **china-railway-fill.svg** |
+| <a href="compass-2-fill.svg"><img src="compass-2-fill.svg" width="250"></a> | **compass-2-fill.svg** |
+| <a href="compass-3-fill.svg"><img src="compass-3-fill.svg" width="250"></a> | **compass-3-fill.svg** |
+| <a href="compass-4-fill.svg"><img src="compass-4-fill.svg" width="250"></a> | **compass-4-fill.svg** |
+| <a href="compass-discover-fill.svg"><img src="compass-discover-fill.svg" width="250"></a> | **compass-discover-fill.svg** |
+| <a href="compass-fill.svg"><img src="compass-fill.svg" width="250"></a> | **compass-fill.svg** |
+| <a href="cup-fill.svg"><img src="cup-fill.svg" width="250"></a> | **cup-fill.svg** |
+| <a href="direction-fill.svg"><img src="direction-fill.svg" width="250"></a> | **direction-fill.svg** |
+| <a href="e-bike-2-fill.svg"><img src="e-bike-2-fill.svg" width="250"></a> | **e-bike-2-fill.svg** |
+| <a href="e-bike-fill.svg"><img src="e-bike-fill.svg" width="250"></a> | **e-bike-fill.svg** |
+| <a href="earth-fill.svg"><img src="earth-fill.svg" width="250"></a> | **earth-fill.svg** |
+| <a href="flight-land-fill.svg"><img src="flight-land-fill.svg" width="250"></a> | **flight-land-fill.svg** |
+| <a href="flight-takeoff-fill.svg"><img src="flight-takeoff-fill.svg" width="250"></a> | **flight-takeoff-fill.svg** |
+| <a href="footprint-fill.svg"><img src="footprint-fill.svg" width="250"></a> | **footprint-fill.svg** |
+| <a href="gas-station-fill.svg"><img src="gas-station-fill.svg" width="250"></a> | **gas-station-fill.svg** |
+| <a href="globe-fill.svg"><img src="globe-fill.svg" width="250"></a> | **globe-fill.svg** |
+| <a href="goblet-fill.svg"><img src="goblet-fill.svg" width="250"></a> | **goblet-fill.svg** |
+| <a href="guide-fill.svg"><img src="guide-fill.svg" width="250"></a> | **guide-fill.svg** |
+| <a href="hotel-bed-fill.svg"><img src="hotel-bed-fill.svg" width="250"></a> | **hotel-bed-fill.svg** |
+| <a href="lifebuoy-fill.svg"><img src="lifebuoy-fill.svg" width="250"></a> | **lifebuoy-fill.svg** |
+| <a href="luggage-cart-fill.svg"><img src="luggage-cart-fill.svg" width="250"></a> | **luggage-cart-fill.svg** |
+| <a href="luggage-deposit-fill.svg"><img src="luggage-deposit-fill.svg" width="250"></a> | **luggage-deposit-fill.svg** |
+| <a href="map-2-fill.svg"><img src="map-2-fill.svg" width="250"></a> | **map-2-fill.svg** |
+| <a href="map-fill.svg"><img src="map-fill.svg" width="250"></a> | **map-fill.svg** |
+| <a href="map-pin-2-fill.svg"><img src="map-pin-2-fill.svg" width="250"></a> | **map-pin-2-fill.svg** |
+| <a href="map-pin-3-fill.svg"><img src="map-pin-3-fill.svg" width="250"></a> | **map-pin-3-fill.svg** |
+| <a href="map-pin-4-fill.svg"><img src="map-pin-4-fill.svg" width="250"></a> | **map-pin-4-fill.svg** |
+| <a href="map-pin-5-fill.svg"><img src="map-pin-5-fill.svg" width="250"></a> | **map-pin-5-fill.svg** |
+| <a href="map-pin-add-fill.svg"><img src="map-pin-add-fill.svg" width="250"></a> | **map-pin-add-fill.svg** |
+| <a href="map-pin-fill.svg"><img src="map-pin-fill.svg" width="250"></a> | **map-pin-fill.svg** |
+| <a href="map-pin-range-fill.svg"><img src="map-pin-range-fill.svg" width="250"></a> | **map-pin-range-fill.svg** |
+| <a href="map-pin-time-fill.svg"><img src="map-pin-time-fill.svg" width="250"></a> | **map-pin-time-fill.svg** |
+| <a href="map-pin-user-fill.svg"><img src="map-pin-user-fill.svg" width="250"></a> | **map-pin-user-fill.svg** |
+| <a href="motorbike-fill.svg"><img src="motorbike-fill.svg" width="250"></a> | **motorbike-fill.svg** |
+| <a href="navigation-fill.svg"><img src="navigation-fill.svg" width="250"></a> | **navigation-fill.svg** |
+| <a href="oil-fill.svg"><img src="oil-fill.svg" width="250"></a> | **oil-fill.svg** |
+| <a href="parking-box-fill.svg"><img src="parking-box-fill.svg" width="250"></a> | **parking-box-fill.svg** |
+| <a href="parking-fill.svg"><img src="parking-fill.svg" width="250"></a> | **parking-fill.svg** |
+| <a href="passport-fill.svg"><img src="passport-fill.svg" width="250"></a> | **passport-fill.svg** |
+| <a href="pin-distance-fill.svg"><img src="pin-distance-fill.svg" width="250"></a> | **pin-distance-fill.svg** |
+| <a href="plane-fill.svg"><img src="plane-fill.svg" width="250"></a> | **plane-fill.svg** |
+| <a href="police-car-fill.svg"><img src="police-car-fill.svg" width="250"></a> | **police-car-fill.svg** |
+| <a href="pushpin-2-fill.svg"><img src="pushpin-2-fill.svg" width="250"></a> | **pushpin-2-fill.svg** |
+| <a href="pushpin-fill.svg"><img src="pushpin-fill.svg" width="250"></a> | **pushpin-fill.svg** |
+| <a href="restaurant-2-fill.svg"><img src="restaurant-2-fill.svg" width="250"></a> | **restaurant-2-fill.svg** |
+| <a href="restaurant-fill.svg"><img src="restaurant-fill.svg" width="250"></a> | **restaurant-fill.svg** |
+| <a href="riding-fill.svg"><img src="riding-fill.svg" width="250"></a> | **riding-fill.svg** |
+| <a href="road-map-fill.svg"><img src="road-map-fill.svg" width="250"></a> | **road-map-fill.svg** |
+| <a href="roadster-fill.svg"><img src="roadster-fill.svg" width="250"></a> | **roadster-fill.svg** |
+| <a href="rocket-2-fill.svg"><img src="rocket-2-fill.svg" width="250"></a> | **rocket-2-fill.svg** |
+| <a href="rocket-fill.svg"><img src="rocket-fill.svg" width="250"></a> | **rocket-fill.svg** |
+| <a href="route-fill.svg"><img src="route-fill.svg" width="250"></a> | **route-fill.svg** |
+| <a href="run-fill.svg"><img src="run-fill.svg" width="250"></a> | **run-fill.svg** |
+| <a href="sailboat-fill.svg"><img src="sailboat-fill.svg" width="250"></a> | **sailboat-fill.svg** |
+| <a href="ship-2-fill.svg"><img src="ship-2-fill.svg" width="250"></a> | **ship-2-fill.svg** |
+| <a href="ship-fill.svg"><img src="ship-fill.svg" width="250"></a> | **ship-fill.svg** |
+| <a href="signal-tower-fill.svg"><img src="signal-tower-fill.svg" width="250"></a> | **signal-tower-fill.svg** |
+| <a href="space-ship-fill.svg"><img src="space-ship-fill.svg" width="250"></a> | **space-ship-fill.svg** |
+| <a href="steering-2-fill.svg"><img src="steering-2-fill.svg" width="250"></a> | **steering-2-fill.svg** |
+| <a href="steering-fill.svg"><img src="steering-fill.svg" width="250"></a> | **steering-fill.svg** |
+| <a href="subway-fill.svg"><img src="subway-fill.svg" width="250"></a> | **subway-fill.svg** |
+| <a href="subway-wifi-fill.svg"><img src="subway-wifi-fill.svg" width="250"></a> | **subway-wifi-fill.svg** |
+| <a href="suitcase-2-fill.svg"><img src="suitcase-2-fill.svg" width="250"></a> | **suitcase-2-fill.svg** |
+| <a href="suitcase-3-fill.svg"><img src="suitcase-3-fill.svg" width="250"></a> | **suitcase-3-fill.svg** |
+| <a href="suitcase-fill.svg"><img src="suitcase-fill.svg" width="250"></a> | **suitcase-fill.svg** |
+| <a href="takeaway-fill.svg"><img src="takeaway-fill.svg" width="250"></a> | **takeaway-fill.svg** |
+| <a href="taxi-fill.svg"><img src="taxi-fill.svg" width="250"></a> | **taxi-fill.svg** |
+| <a href="taxi-wifi-fill.svg"><img src="taxi-wifi-fill.svg" width="250"></a> | **taxi-wifi-fill.svg** |
+| <a href="traffic-light-fill.svg"><img src="traffic-light-fill.svg" width="250"></a> | **traffic-light-fill.svg** |
+| <a href="train-fill.svg"><img src="train-fill.svg" width="250"></a> | **train-fill.svg** |
+| <a href="train-wifi-fill.svg"><img src="train-wifi-fill.svg" width="250"></a> | **train-wifi-fill.svg** |
+| <a href="treasure-map-fill.svg"><img src="treasure-map-fill.svg" width="250"></a> | **treasure-map-fill.svg** |
+| <a href="truck-fill.svg"><img src="truck-fill.svg" width="250"></a> | **truck-fill.svg** |
+| <a href="walk-fill.svg"><img src="walk-fill.svg" width="250"></a> | **walk-fill.svg** |

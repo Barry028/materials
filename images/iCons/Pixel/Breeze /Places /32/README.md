@@ -1,89 +1,89 @@
-# 🖼️ 32 素材庫
+# 🖼️ 32
 
 [⬅️ 返回主目錄](../../../../../../README.md)
 
-| 預覽 (點擊放大) | 檔案資訊 |
+| 預覽 | 資訊 |
 | :--- | :--- |
-| <a href="folder-activities.svg"><img src="folder-activities.svg" width="250"></a> | **folder-activities.svg**<br>Vector (SVG) | 1.42KB |
-| <a href="folder-android.svg"><img src="folder-android.svg" width="250"></a> | **folder-android.svg**<br>Vector (SVG) | 1.61KB |
-| <a href="folder-appimage.svg"><img src="folder-appimage.svg" width="250"></a> | **folder-appimage.svg**<br>Vector (SVG) | 2.29KB |
-| <a href="folder-black.svg"><img src="folder-black.svg" width="250"></a> | **folder-black.svg**<br>Vector (SVG) | 920.00B |
-| <a href="folder-blender.svg"><img src="folder-blender.svg" width="250"></a> | **folder-blender.svg**<br>Vector (SVG) | 2.13KB |
-| <a href="folder-blue.svg"><img src="folder-blue.svg" width="250"></a> | **folder-blue.svg**<br>Vector (SVG) | 920.00B |
-| <a href="folder-book.svg"><img src="folder-book.svg" width="250"></a> | **folder-book.svg**<br>Vector (SVG) | 1.26KB |
-| <a href="folder-bookmark.svg"><img src="folder-bookmark.svg" width="250"></a> | **folder-bookmark.svg**<br>Vector (SVG) | 1.18KB |
-| <a href="folder-brown.svg"><img src="folder-brown.svg" width="250"></a> | **folder-brown.svg**<br>Vector (SVG) | 920.00B |
-| <a href="folder-build.svg"><img src="folder-build.svg" width="250"></a> | **folder-build.svg**<br>Vector (SVG) | 4.80KB |
-| <a href="folder-calculate.svg"><img src="folder-calculate.svg" width="250"></a> | **folder-calculate.svg**<br>Vector (SVG) | 1.40KB |
-| <a href="folder-chart.svg"><img src="folder-chart.svg" width="250"></a> | **folder-chart.svg**<br>Vector (SVG) | 1.19KB |
-| <a href="folder-cloud.svg"><img src="folder-cloud.svg" width="250"></a> | **folder-cloud.svg**<br>Vector (SVG) | 1.43KB |
-| <a href="folder-comic.svg"><img src="folder-comic.svg" width="250"></a> | **folder-comic.svg**<br>Vector (SVG) | 1.27KB |
-| <a href="folder-crash.svg"><img src="folder-crash.svg" width="250"></a> | **folder-crash.svg**<br>Vector (SVG) | 1.21KB |
-| <a href="folder-cyan.svg"><img src="folder-cyan.svg" width="250"></a> | **folder-cyan.svg**<br>Vector (SVG) | 920.00B |
-| <a href="folder-database.svg"><img src="folder-database.svg" width="250"></a> | **folder-database.svg**<br>Vector (SVG) | 1.42KB |
-| <a href="folder-deb.svg"><img src="folder-deb.svg" width="250"></a> | **folder-deb.svg**<br>Vector (SVG) | 16.42KB |
-| <a href="folder-decrypted.svg"><img src="folder-decrypted.svg" width="250"></a> | **folder-decrypted.svg**<br>Vector (SVG) | 1.22KB |
-| <a href="folder-design.svg"><img src="folder-design.svg" width="250"></a> | **folder-design.svg**<br>Vector (SVG) | 2.20KB |
-| <a href="folder-desktop.svg"><img src="folder-desktop.svg" width="250"></a> | **folder-desktop.svg**<br>Vector (SVG) | 1.24KB |
-| <a href="folder-development.svg"><img src="folder-development.svg" width="250"></a> | **folder-development.svg**<br>Vector (SVG) | 1.20KB |
-| <a href="folder-docker.svg"><img src="folder-docker.svg" width="250"></a> | **folder-docker.svg**<br>Vector (SVG) | 2.04KB |
-| <a href="folder-documents.svg"><img src="folder-documents.svg" width="250"></a> | **folder-documents.svg**<br>Vector (SVG) | 1.20KB |
-| <a href="folder-download.svg"><img src="folder-download.svg" width="250"></a> | **folder-download.svg**<br>Vector (SVG) | 1.39KB |
-| <a href="folder-drawing.svg"><img src="folder-drawing.svg" width="250"></a> | **folder-drawing.svg**<br>Vector (SVG) | 1.36KB |
-| <a href="folder-encrypted.svg"><img src="folder-encrypted.svg" width="250"></a> | **folder-encrypted.svg**<br>Vector (SVG) | 1.16KB |
-| <a href="folder-extension.svg"><img src="folder-extension.svg" width="250"></a> | **folder-extension.svg**<br>Vector (SVG) | 1.19KB |
-| <a href="folder-favorites.svg"><img src="folder-favorites.svg" width="250"></a> | **folder-favorites.svg**<br>Vector (SVG) | 1.20KB |
-| <a href="folder-flatpak.svg"><img src="folder-flatpak.svg" width="250"></a> | **folder-flatpak.svg**<br>Vector (SVG) | 2.76KB |
-| <a href="folder-games.svg"><img src="folder-games.svg" width="250"></a> | **folder-games.svg**<br>Vector (SVG) | 2.10KB |
-| <a href="folder-gdrive.svg"><img src="folder-gdrive.svg" width="250"></a> | **folder-gdrive.svg**<br>Vector (SVG) | 1.19KB |
-| <a href="folder-git.svg"><img src="folder-git.svg" width="250"></a> | **folder-git.svg**<br>Vector (SVG) | 2.61KB |
-| <a href="folder-godot.svg"><img src="folder-godot.svg" width="250"></a> | **folder-godot.svg**<br>Vector (SVG) | 4.54KB |
-| <a href="folder-green.svg"><img src="folder-green.svg" width="250"></a> | **folder-green.svg**<br>Vector (SVG) | 920.00B |
-| <a href="folder-grey.svg"><img src="folder-grey.svg" width="250"></a> | **folder-grey.svg**<br>Vector (SVG) | 920.00B |
-| <a href="folder-html.svg"><img src="folder-html.svg" width="250"></a> | **folder-html.svg**<br>Vector (SVG) | 19.24KB |
-| <a href="folder-image-people.svg"><img src="folder-image-people.svg" width="250"></a> | **folder-image-people.svg**<br>Vector (SVG) | 1.39KB |
-| <a href="folder-important.svg"><img src="folder-important.svg" width="250"></a> | **folder-important.svg**<br>Vector (SVG) | 1.20KB |
-| <a href="folder-java.svg"><img src="folder-java.svg" width="250"></a> | **folder-java.svg**<br>Vector (SVG) | 1.33KB |
-| <a href="folder-language.svg"><img src="folder-language.svg" width="250"></a> | **folder-language.svg**<br>Vector (SVG) | 1.50KB |
-| <a href="folder-library.svg"><img src="folder-library.svg" width="250"></a> | **folder-library.svg**<br>Vector (SVG) | 1.20KB |
-| <a href="folder-locked.svg"><img src="folder-locked.svg" width="250"></a> | **folder-locked.svg**<br>Vector (SVG) | 1.22KB |
-| <a href="folder-log.svg"><img src="folder-log.svg" width="250"></a> | **folder-log.svg**<br>Vector (SVG) | 1.45KB |
-| <a href="folder-mac.svg"><img src="folder-mac.svg" width="250"></a> | **folder-mac.svg**<br>Vector (SVG) | 1.30KB |
-| <a href="folder-magenta.svg"><img src="folder-magenta.svg" width="250"></a> | **folder-magenta.svg**<br>Vector (SVG) | 920.00B |
-| <a href="folder-mail.svg"><img src="folder-mail.svg" width="250"></a> | **folder-mail.svg**<br>Vector (SVG) | 1.37KB |
-| <a href="folder-network.svg"><img src="folder-network.svg" width="250"></a> | **folder-network.svg**<br>Vector (SVG) | 1.74KB |
-| <a href="folder-notes.svg"><img src="folder-notes.svg" width="250"></a> | **folder-notes.svg**<br>Vector (SVG) | 1.57KB |
-| <a href="folder-open.svg"><img src="folder-open.svg" width="250"></a> | **folder-open.svg**<br>Vector (SVG) | 1016.00B |
-| <a href="folder-orange.svg"><img src="folder-orange.svg" width="250"></a> | **folder-orange.svg**<br>Vector (SVG) | 920.00B |
-| <a href="folder-paint.svg"><img src="folder-paint.svg" width="250"></a> | **folder-paint.svg**<br>Vector (SVG) | 2.41KB |
-| <a href="folder-pictures.svg"><img src="folder-pictures.svg" width="250"></a> | **folder-pictures.svg**<br>Vector (SVG) | 1.33KB |
-| <a href="folder-podcast.svg"><img src="folder-podcast.svg" width="250"></a> | **folder-podcast.svg**<br>Vector (SVG) | 2.05KB |
-| <a href="folder-presentation.svg"><img src="folder-presentation.svg" width="250"></a> | **folder-presentation.svg**<br>Vector (SVG) | 1.39KB |
-| <a href="folder-print.svg"><img src="folder-print.svg" width="250"></a> | **folder-print.svg**<br>Vector (SVG) | 1.42KB |
-| <a href="folder-publicshare.svg"><img src="folder-publicshare.svg" width="250"></a> | **folder-publicshare.svg**<br>Vector (SVG) | 1.67KB |
-| <a href="folder-red.svg"><img src="folder-red.svg" width="250"></a> | **folder-red.svg**<br>Vector (SVG) | 920.00B |
-| <a href="folder-root.svg"><img src="folder-root.svg" width="250"></a> | **folder-root.svg**<br>Vector (SVG) | 1.16KB |
-| <a href="folder-rpm.svg"><img src="folder-rpm.svg" width="250"></a> | **folder-rpm.svg**<br>Vector (SVG) | 1.49KB |
-| <a href="folder-script.svg"><img src="folder-script.svg" width="250"></a> | **folder-script.svg**<br>Vector (SVG) | 1.24KB |
-| <a href="folder-sign.svg"><img src="folder-sign.svg" width="250"></a> | **folder-sign.svg**<br>Vector (SVG) | 8.34KB |
-| <a href="folder-snap.svg"><img src="folder-snap.svg" width="250"></a> | **folder-snap.svg**<br>Vector (SVG) | 1.26KB |
-| <a href="folder-sound.svg"><img src="folder-sound.svg" width="250"></a> | **folder-sound.svg**<br>Vector (SVG) | 1.34KB |
-| <a href="folder-table.svg"><img src="folder-table.svg" width="250"></a> | **folder-table.svg**<br>Vector (SVG) | 1.49KB |
-| <a href="folder-tar.svg"><img src="folder-tar.svg" width="250"></a> | **folder-tar.svg**<br>Vector (SVG) | 1.35KB |
-| <a href="folder-temp.svg"><img src="folder-temp.svg" width="250"></a> | **folder-temp.svg**<br>Vector (SVG) | 1.30KB |
-| <a href="folder-templates.svg"><img src="folder-templates.svg" width="250"></a> | **folder-templates.svg**<br>Vector (SVG) | 1.37KB |
-| <a href="folder-text.svg"><img src="folder-text.svg" width="250"></a> | **folder-text.svg**<br>Vector (SVG) | 1.28KB |
-| <a href="folder-trash.svg"><img src="folder-trash.svg" width="250"></a> | **folder-trash.svg**<br>Vector (SVG) | 2.65KB |
-| <a href="folder-unlocked.svg"><img src="folder-unlocked.svg" width="250"></a> | **folder-unlocked.svg**<br>Vector (SVG) | 1.29KB |
-| <a href="folder-videos.svg"><img src="folder-videos.svg" width="250"></a> | **folder-videos.svg**<br>Vector (SVG) | 1.53KB |
-| <a href="folder-violet.svg"><img src="folder-violet.svg" width="250"></a> | **folder-violet.svg**<br>Vector (SVG) | 920.00B |
-| <a href="folder-windows.svg"><img src="folder-windows.svg" width="250"></a> | **folder-windows.svg**<br>Vector (SVG) | 1.21KB |
-| <a href="folder-yellow.svg"><img src="folder-yellow.svg" width="250"></a> | **folder-yellow.svg**<br>Vector (SVG) | 920.00B |
-| <a href="folder.svg"><img src="folder.svg" width="250"></a> | **folder.svg**<br>Vector (SVG) | 988.00B |
-| <a href="network-workgroup.svg"><img src="network-workgroup.svg" width="250"></a> | **network-workgroup.svg**<br>Vector (SVG) | 1.39KB |
-| <a href="start-here-kde.svg"><img src="start-here-kde.svg" width="250"></a> | **start-here-kde.svg**<br>Vector (SVG) | 1.26KB |
-| <a href="user-desktop-symbolic.svg"><img src="user-desktop-symbolic.svg" width="250"></a> | **user-desktop-symbolic.svg**<br>Vector (SVG) | 897.00B |
-| <a href="user-desktop.svg"><img src="user-desktop.svg" width="250"></a> | **user-desktop.svg**<br>Vector (SVG) | 5.93KB |
-| <a href="user-home.svg"><img src="user-home.svg" width="250"></a> | **user-home.svg**<br>Vector (SVG) | 1.33KB |
-| <a href="user-trash-full.svg"><img src="user-trash-full.svg" width="250"></a> | **user-trash-full.svg**<br>Vector (SVG) | 5.43KB |
-| <a href="user-trash.svg"><img src="user-trash.svg" width="250"></a> | **user-trash.svg**<br>Vector (SVG) | 4.08KB |
+| <a href="folder-activities.svg"><img src="folder-activities.svg" width="250"></a> | **folder-activities.svg** |
+| <a href="folder-android.svg"><img src="folder-android.svg" width="250"></a> | **folder-android.svg** |
+| <a href="folder-appimage.svg"><img src="folder-appimage.svg" width="250"></a> | **folder-appimage.svg** |
+| <a href="folder-black.svg"><img src="folder-black.svg" width="250"></a> | **folder-black.svg** |
+| <a href="folder-blender.svg"><img src="folder-blender.svg" width="250"></a> | **folder-blender.svg** |
+| <a href="folder-blue.svg"><img src="folder-blue.svg" width="250"></a> | **folder-blue.svg** |
+| <a href="folder-book.svg"><img src="folder-book.svg" width="250"></a> | **folder-book.svg** |
+| <a href="folder-bookmark.svg"><img src="folder-bookmark.svg" width="250"></a> | **folder-bookmark.svg** |
+| <a href="folder-brown.svg"><img src="folder-brown.svg" width="250"></a> | **folder-brown.svg** |
+| <a href="folder-build.svg"><img src="folder-build.svg" width="250"></a> | **folder-build.svg** |
+| <a href="folder-calculate.svg"><img src="folder-calculate.svg" width="250"></a> | **folder-calculate.svg** |
+| <a href="folder-chart.svg"><img src="folder-chart.svg" width="250"></a> | **folder-chart.svg** |
+| <a href="folder-cloud.svg"><img src="folder-cloud.svg" width="250"></a> | **folder-cloud.svg** |
+| <a href="folder-comic.svg"><img src="folder-comic.svg" width="250"></a> | **folder-comic.svg** |
+| <a href="folder-crash.svg"><img src="folder-crash.svg" width="250"></a> | **folder-crash.svg** |
+| <a href="folder-cyan.svg"><img src="folder-cyan.svg" width="250"></a> | **folder-cyan.svg** |
+| <a href="folder-database.svg"><img src="folder-database.svg" width="250"></a> | **folder-database.svg** |
+| <a href="folder-deb.svg"><img src="folder-deb.svg" width="250"></a> | **folder-deb.svg** |
+| <a href="folder-decrypted.svg"><img src="folder-decrypted.svg" width="250"></a> | **folder-decrypted.svg** |
+| <a href="folder-design.svg"><img src="folder-design.svg" width="250"></a> | **folder-design.svg** |
+| <a href="folder-desktop.svg"><img src="folder-desktop.svg" width="250"></a> | **folder-desktop.svg** |
+| <a href="folder-development.svg"><img src="folder-development.svg" width="250"></a> | **folder-development.svg** |
+| <a href="folder-docker.svg"><img src="folder-docker.svg" width="250"></a> | **folder-docker.svg** |
+| <a href="folder-documents.svg"><img src="folder-documents.svg" width="250"></a> | **folder-documents.svg** |
+| <a href="folder-download.svg"><img src="folder-download.svg" width="250"></a> | **folder-download.svg** |
+| <a href="folder-drawing.svg"><img src="folder-drawing.svg" width="250"></a> | **folder-drawing.svg** |
+| <a href="folder-encrypted.svg"><img src="folder-encrypted.svg" width="250"></a> | **folder-encrypted.svg** |
+| <a href="folder-extension.svg"><img src="folder-extension.svg" width="250"></a> | **folder-extension.svg** |
+| <a href="folder-favorites.svg"><img src="folder-favorites.svg" width="250"></a> | **folder-favorites.svg** |
+| <a href="folder-flatpak.svg"><img src="folder-flatpak.svg" width="250"></a> | **folder-flatpak.svg** |
+| <a href="folder-games.svg"><img src="folder-games.svg" width="250"></a> | **folder-games.svg** |
+| <a href="folder-gdrive.svg"><img src="folder-gdrive.svg" width="250"></a> | **folder-gdrive.svg** |
+| <a href="folder-git.svg"><img src="folder-git.svg" width="250"></a> | **folder-git.svg** |
+| <a href="folder-godot.svg"><img src="folder-godot.svg" width="250"></a> | **folder-godot.svg** |
+| <a href="folder-green.svg"><img src="folder-green.svg" width="250"></a> | **folder-green.svg** |
+| <a href="folder-grey.svg"><img src="folder-grey.svg" width="250"></a> | **folder-grey.svg** |
+| <a href="folder-html.svg"><img src="folder-html.svg" width="250"></a> | **folder-html.svg** |
+| <a href="folder-image-people.svg"><img src="folder-image-people.svg" width="250"></a> | **folder-image-people.svg** |
+| <a href="folder-important.svg"><img src="folder-important.svg" width="250"></a> | **folder-important.svg** |
+| <a href="folder-java.svg"><img src="folder-java.svg" width="250"></a> | **folder-java.svg** |
+| <a href="folder-language.svg"><img src="folder-language.svg" width="250"></a> | **folder-language.svg** |
+| <a href="folder-library.svg"><img src="folder-library.svg" width="250"></a> | **folder-library.svg** |
+| <a href="folder-locked.svg"><img src="folder-locked.svg" width="250"></a> | **folder-locked.svg** |
+| <a href="folder-log.svg"><img src="folder-log.svg" width="250"></a> | **folder-log.svg** |
+| <a href="folder-mac.svg"><img src="folder-mac.svg" width="250"></a> | **folder-mac.svg** |
+| <a href="folder-magenta.svg"><img src="folder-magenta.svg" width="250"></a> | **folder-magenta.svg** |
+| <a href="folder-mail.svg"><img src="folder-mail.svg" width="250"></a> | **folder-mail.svg** |
+| <a href="folder-network.svg"><img src="folder-network.svg" width="250"></a> | **folder-network.svg** |
+| <a href="folder-notes.svg"><img src="folder-notes.svg" width="250"></a> | **folder-notes.svg** |
+| <a href="folder-open.svg"><img src="folder-open.svg" width="250"></a> | **folder-open.svg** |
+| <a href="folder-orange.svg"><img src="folder-orange.svg" width="250"></a> | **folder-orange.svg** |
+| <a href="folder-paint.svg"><img src="folder-paint.svg" width="250"></a> | **folder-paint.svg** |
+| <a href="folder-pictures.svg"><img src="folder-pictures.svg" width="250"></a> | **folder-pictures.svg** |
+| <a href="folder-podcast.svg"><img src="folder-podcast.svg" width="250"></a> | **folder-podcast.svg** |
+| <a href="folder-presentation.svg"><img src="folder-presentation.svg" width="250"></a> | **folder-presentation.svg** |
+| <a href="folder-print.svg"><img src="folder-print.svg" width="250"></a> | **folder-print.svg** |
+| <a href="folder-publicshare.svg"><img src="folder-publicshare.svg" width="250"></a> | **folder-publicshare.svg** |
+| <a href="folder-red.svg"><img src="folder-red.svg" width="250"></a> | **folder-red.svg** |
+| <a href="folder-root.svg"><img src="folder-root.svg" width="250"></a> | **folder-root.svg** |
+| <a href="folder-rpm.svg"><img src="folder-rpm.svg" width="250"></a> | **folder-rpm.svg** |
+| <a href="folder-script.svg"><img src="folder-script.svg" width="250"></a> | **folder-script.svg** |
+| <a href="folder-sign.svg"><img src="folder-sign.svg" width="250"></a> | **folder-sign.svg** |
+| <a href="folder-snap.svg"><img src="folder-snap.svg" width="250"></a> | **folder-snap.svg** |
+| <a href="folder-sound.svg"><img src="folder-sound.svg" width="250"></a> | **folder-sound.svg** |
+| <a href="folder-table.svg"><img src="folder-table.svg" width="250"></a> | **folder-table.svg** |
+| <a href="folder-tar.svg"><img src="folder-tar.svg" width="250"></a> | **folder-tar.svg** |
+| <a href="folder-temp.svg"><img src="folder-temp.svg" width="250"></a> | **folder-temp.svg** |
+| <a href="folder-templates.svg"><img src="folder-templates.svg" width="250"></a> | **folder-templates.svg** |
+| <a href="folder-text.svg"><img src="folder-text.svg" width="250"></a> | **folder-text.svg** |
+| <a href="folder-trash.svg"><img src="folder-trash.svg" width="250"></a> | **folder-trash.svg** |
+| <a href="folder-unlocked.svg"><img src="folder-unlocked.svg" width="250"></a> | **folder-unlocked.svg** |
+| <a href="folder-videos.svg"><img src="folder-videos.svg" width="250"></a> | **folder-videos.svg** |
+| <a href="folder-violet.svg"><img src="folder-violet.svg" width="250"></a> | **folder-violet.svg** |
+| <a href="folder-windows.svg"><img src="folder-windows.svg" width="250"></a> | **folder-windows.svg** |
+| <a href="folder-yellow.svg"><img src="folder-yellow.svg" width="250"></a> | **folder-yellow.svg** |
+| <a href="folder.svg"><img src="folder.svg" width="250"></a> | **folder.svg** |
+| <a href="network-workgroup.svg"><img src="network-workgroup.svg" width="250"></a> | **network-workgroup.svg** |
+| <a href="start-here-kde.svg"><img src="start-here-kde.svg" width="250"></a> | **start-here-kde.svg** |
+| <a href="user-desktop-symbolic.svg"><img src="user-desktop-symbolic.svg" width="250"></a> | **user-desktop-symbolic.svg** |
+| <a href="user-desktop.svg"><img src="user-desktop.svg" width="250"></a> | **user-desktop.svg** |
+| <a href="user-home.svg"><img src="user-home.svg" width="250"></a> | **user-home.svg** |
+| <a href="user-trash-full.svg"><img src="user-trash-full.svg" width="250"></a> | **user-trash-full.svg** |
+| <a href="user-trash.svg"><img src="user-trash.svg" width="250"></a> | **user-trash.svg** |

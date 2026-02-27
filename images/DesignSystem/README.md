@@ -1,77 +1,77 @@
-# 🖼️ DesignSystem 素材庫
+# 🖼️ DesignSystem
 
 [⬅️ 返回主目錄](../../README.md)
 
-| 預覽 (點擊放大) | 檔案資訊 |
+| 預覽 | 資訊 |
 | :--- | :--- |
-| <a href="docs-accordion-8d.svg"><img src="docs-accordion-8d.svg" width="250"></a> | **docs-accordion-8d.svg**<br>Vector (SVG) | 633.00B |
-| <a href="docs-alerts-89.svg"><img src="docs-alerts-89.svg" width="250"></a> | **docs-alerts-89.svg**<br>Vector (SVG) | 732.00B |
-| <a href="docs-avatars-94.svg"><img src="docs-avatars-94.svg" width="250"></a> | **docs-avatars-94.svg**<br>Vector (SVG) | 593.00B |
-| <a href="docs-badge-8d.svg"><img src="docs-badge-8d.svg" width="250"></a> | **docs-badge-8d.svg**<br>Vector (SVG) | 1.21KB |
-| <a href="docs-basic-forms-10.svg"><img src="docs-basic-forms-10.svg" width="250"></a> | **docs-basic-forms-10.svg**<br>Vector (SVG) | 319.00B |
-| <a href="docs-breadcrumb-27.svg"><img src="docs-breadcrumb-27.svg" width="250"></a> | **docs-breadcrumb-27.svg**<br>Vector (SVG) | 384.00B |
-| <a href="docs-bs-icons-d8.svg"><img src="docs-bs-icons-d8.svg" width="250"></a> | **docs-bs-icons-d8.svg**<br>Vector (SVG) | 2.97KB |
-| <a href="docs-buttons-ff.svg"><img src="docs-buttons-ff.svg" width="250"></a> | **docs-buttons-ff.svg**<br>Vector (SVG) | 310.00B |
-| <a href="docs-cards-ea.svg"><img src="docs-cards-ea.svg" width="250"></a> | **docs-cards-ea.svg**<br>Vector (SVG) | 1.32KB |
-| <a href="docs-checks-and-switches-dd.svg"><img src="docs-checks-and-switches-dd.svg" width="250"></a> | **docs-checks-and-switches-dd.svg**<br>Vector (SVG) | 737.00B |
-| <a href="docs-collapse-6f.svg"><img src="docs-collapse-6f.svg" width="250"></a> | **docs-collapse-6f.svg**<br>Vector (SVG) | 1.17KB |
-| <a href="docs-colors-af.svg"><img src="docs-colors-af.svg" width="250"></a> | **docs-colors-af.svg**<br>Vector (SVG) | 838.00B |
-| <a href="docs-column-divider-04.svg"><img src="docs-column-divider-04.svg" width="250"></a> | **docs-column-divider-04.svg**<br>Vector (SVG) | 416.00B |
-| <a href="docs-countdown-02.svg"><img src="docs-countdown-02.svg" width="250"></a> | **docs-countdown-02.svg**<br>Vector (SVG) | 711.00B |
-| <a href="docs-devices-04.svg"><img src="docs-devices-04.svg" width="250"></a> | **docs-devices-04.svg**<br>Vector (SVG) | 443.00B |
-| <a href="docs-divider-a1.svg"><img src="docs-divider-a1.svg" width="250"></a> | **docs-divider-a1.svg**<br>Vector (SVG) | 710.00B |
-| <a href="docs-dropdowns-8a.svg"><img src="docs-dropdowns-8a.svg" width="250"></a> | **docs-dropdowns-8a.svg**<br>Vector (SVG) | 1.51KB |
-| <a href="docs-fslightbox-59.svg"><img src="docs-fslightbox-59.svg" width="250"></a> | **docs-fslightbox-59.svg**<br>Vector (SVG) | 1.30KB |
-| <a href="docs-go-to-56.svg"><img src="docs-go-to-56.svg" width="250"></a> | **docs-go-to-56.svg**<br>Vector (SVG) | 381.00B |
-| <a href="docs-heading-df.svg"><img src="docs-heading-df.svg" width="250"></a> | **docs-heading-df.svg**<br>Vector (SVG) | 1.47KB |
-| <a href="docs-input-group-8e.svg"><img src="docs-input-group-8e.svg" width="250"></a> | **docs-input-group-8e.svg**<br>Vector (SVG) | 460.00B |
-| <a href="docs-list-group-a7.svg"><img src="docs-list-group-a7.svg" width="250"></a> | **docs-list-group-a7.svg**<br>Vector (SVG) | 508.00B |
-| <a href="docs-lists-c6.svg"><img src="docs-lists-c6.svg" width="250"></a> | **docs-lists-c6.svg**<br>Vector (SVG) | 677.00B |
-| <a href="docs-mask-7a.svg"><img src="docs-mask-7a.svg" width="250"></a> | **docs-mask-7a.svg**<br>Vector (SVG) | 51.61KB |
-| <a href="docs-mega-menu-6d.svg"><img src="docs-mega-menu-6d.svg" width="250"></a> | **docs-mega-menu-6d.svg**<br>Vector (SVG) | 1.49KB |
-| <a href="docs-modal-5a.svg"><img src="docs-modal-5a.svg" width="250"></a> | **docs-modal-5a.svg**<br>Vector (SVG) | 1.43KB |
-| <a href="docs-navbar-d6.svg"><img src="docs-navbar-d6.svg" width="250"></a> | **docs-navbar-d6.svg**<br>Vector (SVG) | 909.00B |
-| <a href="docs-navs-95.svg"><img src="docs-navs-95.svg" width="250"></a> | **docs-navs-95.svg**<br>Vector (SVG) | 375.00B |
-| <a href="docs-offcanvas-ef.svg"><img src="docs-offcanvas-ef.svg" width="250"></a> | **docs-offcanvas-ef.svg**<br>Vector (SVG) | 1.31KB |
-| <a href="docs-pagination-6f.svg"><img src="docs-pagination-6f.svg" width="250"></a> | **docs-pagination-6f.svg**<br>Vector (SVG) | 1.01KB |
-| <a href="docs-popovers-af.svg"><img src="docs-popovers-af.svg" width="250"></a> | **docs-popovers-af.svg**<br>Vector (SVG) | 2.01KB |
-| <a href="docs-progress-15.svg"><img src="docs-progress-15.svg" width="250"></a> | **docs-progress-15.svg**<br>Vector (SVG) | 312.00B |
-| <a href="docs-scrollspy-ec.svg"><img src="docs-scrollspy-ec.svg" width="250"></a> | **docs-scrollspy-ec.svg**<br>Vector (SVG) | 820.00B |
-| <a href="docs-shapes-87.svg"><img src="docs-shapes-87.svg" width="250"></a> | **docs-shapes-87.svg**<br>Vector (SVG) | 242.00B |
-| <a href="docs-sliding-img-ac.svg"><img src="docs-sliding-img-ac.svg" width="250"></a> | **docs-sliding-img-ac.svg**<br>Vector (SVG) | 639.00B |
-| <a href="docs-spinners-d0.svg"><img src="docs-spinners-d0.svg" width="250"></a> | **docs-spinners-d0.svg**<br>Vector (SVG) | 792.00B |
-| <a href="docs-steps-23.svg"><img src="docs-steps-23.svg" width="250"></a> | **docs-steps-23.svg**<br>Vector (SVG) | 739.00B |
-| <a href="docs-sticky-block-ff.svg"><img src="docs-sticky-block-ff.svg" width="250"></a> | **docs-sticky-block-ff.svg**<br>Vector (SVG) | 379.00B |
-| <a href="docs-swiper-c9.svg"><img src="docs-swiper-c9.svg" width="250"></a> | **docs-swiper-c9.svg**<br>Vector (SVG) | 1.38KB |
-| <a href="docs-tab-9e.svg"><img src="docs-tab-9e.svg" width="250"></a> | **docs-tab-9e.svg**<br>Vector (SVG) | 509.00B |
-| <a href="docs-tables-e5.svg"><img src="docs-tables-e5.svg" width="250"></a> | **docs-tables-e5.svg**<br>Vector (SVG) | 699.00B |
-| <a href="docs-toasts-2d.svg"><img src="docs-toasts-2d.svg" width="250"></a> | **docs-toasts-2d.svg**<br>Vector (SVG) | 887.00B |
-| <a href="docs-tooltips-93.svg"><img src="docs-tooltips-93.svg" width="250"></a> | **docs-tooltips-93.svg**<br>Vector (SVG) | 1.37KB |
-| <a href="docs-typography-06.svg"><img src="docs-typography-06.svg" width="250"></a> | **docs-typography-06.svg**<br>Vector (SVG) | 1.02KB |
-| <a href="snippets-cards-grid-d1.svg"><img src="snippets-cards-grid-d1.svg" width="250"></a> | **snippets-cards-grid-d1.svg**<br>Vector (SVG) | 5.00KB |
-| <a href="snippets-cards-list-5b.svg"><img src="snippets-cards-list-5b.svg" width="250"></a> | **snippets-cards-list-5b.svg**<br>Vector (SVG) | 3.58KB |
-| <a href="snippets-clients-e5.svg"><img src="snippets-clients-e5.svg" width="250"></a> | **snippets-clients-e5.svg**<br>Vector (SVG) | 7.89KB |
-| <a href="snippets-comments-ed.svg"><img src="snippets-comments-ed.svg" width="250"></a> | **snippets-comments-ed.svg**<br>Vector (SVG) | 4.29KB |
-| <a href="snippets-contact-sections-0a.svg"><img src="snippets-contact-sections-0a.svg" width="250"></a> | **snippets-contact-sections-0a.svg**<br>Vector (SVG) | 6.64KB |
-| <a href="snippets-content-sections-ca.svg"><img src="snippets-content-sections-ca.svg" width="250"></a> | **snippets-content-sections-ca.svg**<br>Vector (SVG) | 15.84KB |
-| <a href="snippets-cta-c7.svg"><img src="snippets-cta-c7.svg" width="250"></a> | **snippets-cta-c7.svg**<br>Vector (SVG) | 10.78KB |
-| <a href="snippets-faq-15.svg"><img src="snippets-faq-15.svg" width="250"></a> | **snippets-faq-15.svg**<br>Vector (SVG) | 8.49KB |
-| <a href="snippets-features-general-86.svg"><img src="snippets-features-general-86.svg" width="250"></a> | **snippets-features-general-86.svg**<br>Vector (SVG) | 8.61KB |
-| <a href="snippets-features-navs-cf.svg"><img src="snippets-features-navs-cf.svg" width="250"></a> | **snippets-features-navs-cf.svg**<br>Vector (SVG) | 6.62KB |
-| <a href="snippets-features-stats-be.svg"><img src="snippets-features-stats-be.svg" width="250"></a> | **snippets-features-stats-be.svg**<br>Vector (SVG) | 24.66KB |
-| <a href="snippets-features-step-83.svg"><img src="snippets-features-step-83.svg" width="250"></a> | **snippets-features-step-83.svg**<br>Vector (SVG) | 3.35KB |
-| <a href="snippets-footer-6c.svg"><img src="snippets-footer-6c.svg" width="250"></a> | **snippets-footer-6c.svg**<br>Vector (SVG) | 3.39KB |
-| <a href="snippets-form-layouts-authentication-da.svg"><img src="snippets-form-layouts-authentication-da.svg" width="250"></a> | **snippets-form-layouts-authentication-da.svg**<br>Vector (SVG) | 1.98KB |
-| <a href="snippets-form-layouts-feedback-a2.svg"><img src="snippets-form-layouts-feedback-a2.svg" width="250"></a> | **snippets-form-layouts-feedback-a2.svg**<br>Vector (SVG) | 6.30KB |
-| <a href="snippets-form-layouts-filters-77.svg"><img src="snippets-form-layouts-filters-77.svg" width="250"></a> | **snippets-form-layouts-filters-77.svg**<br>Vector (SVG) | 2.86KB |
-| <a href="snippets-form-layouts-search-77.svg"><img src="snippets-form-layouts-search-77.svg" width="250"></a> | **snippets-form-layouts-search-77.svg**<br>Vector (SVG) | 1.24KB |
-| <a href="snippets-form-layouts-subscribe-af.svg"><img src="snippets-form-layouts-subscribe-af.svg" width="250"></a> | **snippets-form-layouts-subscribe-af.svg**<br>Vector (SVG) | 10.26KB |
-| <a href="snippets-gallery-c7.svg"><img src="snippets-gallery-c7.svg" width="250"></a> | **snippets-gallery-c7.svg**<br>Vector (SVG) | 7.14KB |
-| <a href="snippets-hero-sections-15.svg"><img src="snippets-hero-sections-15.svg" width="250"></a> | **snippets-hero-sections-15.svg**<br>Vector (SVG) | 10.70KB |
-| <a href="snippets-icon-blocks-3c.svg"><img src="snippets-icon-blocks-3c.svg" width="250"></a> | **snippets-icon-blocks-3c.svg**<br>Vector (SVG) | 4.92KB |
-| <a href="snippets-navbar-ee.svg"><img src="snippets-navbar-ee.svg" width="250"></a> | **snippets-navbar-ee.svg**<br>Vector (SVG) | 3.34KB |
-| <a href="snippets-pricing-80.svg"><img src="snippets-pricing-80.svg" width="250"></a> | **snippets-pricing-80.svg**<br>Vector (SVG) | 10.98KB |
-| <a href="snippets-sidebar-examples-6f.svg"><img src="snippets-sidebar-examples-6f.svg" width="250"></a> | **snippets-sidebar-examples-6f.svg**<br>Vector (SVG) | 1.98KB |
-| <a href="snippets-team-sections-d6.svg"><img src="snippets-team-sections-d6.svg" width="250"></a> | **snippets-team-sections-d6.svg**<br>Vector (SVG) | 5.16KB |
-| <a href="snippets-testimonials-ff.svg"><img src="snippets-testimonials-ff.svg" width="250"></a> | **snippets-testimonials-ff.svg**<br>Vector (SVG) | 10.58KB |
-| <a href="snippets-user-profile-36.svg"><img src="snippets-user-profile-36.svg" width="250"></a> | **snippets-user-profile-36.svg**<br>Vector (SVG) | 2.71KB |
+| <a href="docs-accordion-8d.svg"><img src="docs-accordion-8d.svg" width="250"></a> | **docs-accordion-8d.svg** |
+| <a href="docs-alerts-89.svg"><img src="docs-alerts-89.svg" width="250"></a> | **docs-alerts-89.svg** |
+| <a href="docs-avatars-94.svg"><img src="docs-avatars-94.svg" width="250"></a> | **docs-avatars-94.svg** |
+| <a href="docs-badge-8d.svg"><img src="docs-badge-8d.svg" width="250"></a> | **docs-badge-8d.svg** |
+| <a href="docs-basic-forms-10.svg"><img src="docs-basic-forms-10.svg" width="250"></a> | **docs-basic-forms-10.svg** |
+| <a href="docs-breadcrumb-27.svg"><img src="docs-breadcrumb-27.svg" width="250"></a> | **docs-breadcrumb-27.svg** |
+| <a href="docs-bs-icons-d8.svg"><img src="docs-bs-icons-d8.svg" width="250"></a> | **docs-bs-icons-d8.svg** |
+| <a href="docs-buttons-ff.svg"><img src="docs-buttons-ff.svg" width="250"></a> | **docs-buttons-ff.svg** |
+| <a href="docs-cards-ea.svg"><img src="docs-cards-ea.svg" width="250"></a> | **docs-cards-ea.svg** |
+| <a href="docs-checks-and-switches-dd.svg"><img src="docs-checks-and-switches-dd.svg" width="250"></a> | **docs-checks-and-switches-dd.svg** |
+| <a href="docs-collapse-6f.svg"><img src="docs-collapse-6f.svg" width="250"></a> | **docs-collapse-6f.svg** |
+| <a href="docs-colors-af.svg"><img src="docs-colors-af.svg" width="250"></a> | **docs-colors-af.svg** |
+| <a href="docs-column-divider-04.svg"><img src="docs-column-divider-04.svg" width="250"></a> | **docs-column-divider-04.svg** |
+| <a href="docs-countdown-02.svg"><img src="docs-countdown-02.svg" width="250"></a> | **docs-countdown-02.svg** |
+| <a href="docs-devices-04.svg"><img src="docs-devices-04.svg" width="250"></a> | **docs-devices-04.svg** |
+| <a href="docs-divider-a1.svg"><img src="docs-divider-a1.svg" width="250"></a> | **docs-divider-a1.svg** |
+| <a href="docs-dropdowns-8a.svg"><img src="docs-dropdowns-8a.svg" width="250"></a> | **docs-dropdowns-8a.svg** |
+| <a href="docs-fslightbox-59.svg"><img src="docs-fslightbox-59.svg" width="250"></a> | **docs-fslightbox-59.svg** |
+| <a href="docs-go-to-56.svg"><img src="docs-go-to-56.svg" width="250"></a> | **docs-go-to-56.svg** |
+| <a href="docs-heading-df.svg"><img src="docs-heading-df.svg" width="250"></a> | **docs-heading-df.svg** |
+| <a href="docs-input-group-8e.svg"><img src="docs-input-group-8e.svg" width="250"></a> | **docs-input-group-8e.svg** |
+| <a href="docs-list-group-a7.svg"><img src="docs-list-group-a7.svg" width="250"></a> | **docs-list-group-a7.svg** |
+| <a href="docs-lists-c6.svg"><img src="docs-lists-c6.svg" width="250"></a> | **docs-lists-c6.svg** |
+| <a href="docs-mask-7a.svg"><img src="docs-mask-7a.svg" width="250"></a> | **docs-mask-7a.svg** |
+| <a href="docs-mega-menu-6d.svg"><img src="docs-mega-menu-6d.svg" width="250"></a> | **docs-mega-menu-6d.svg** |
+| <a href="docs-modal-5a.svg"><img src="docs-modal-5a.svg" width="250"></a> | **docs-modal-5a.svg** |
+| <a href="docs-navbar-d6.svg"><img src="docs-navbar-d6.svg" width="250"></a> | **docs-navbar-d6.svg** |
+| <a href="docs-navs-95.svg"><img src="docs-navs-95.svg" width="250"></a> | **docs-navs-95.svg** |
+| <a href="docs-offcanvas-ef.svg"><img src="docs-offcanvas-ef.svg" width="250"></a> | **docs-offcanvas-ef.svg** |
+| <a href="docs-pagination-6f.svg"><img src="docs-pagination-6f.svg" width="250"></a> | **docs-pagination-6f.svg** |
+| <a href="docs-popovers-af.svg"><img src="docs-popovers-af.svg" width="250"></a> | **docs-popovers-af.svg** |
+| <a href="docs-progress-15.svg"><img src="docs-progress-15.svg" width="250"></a> | **docs-progress-15.svg** |
+| <a href="docs-scrollspy-ec.svg"><img src="docs-scrollspy-ec.svg" width="250"></a> | **docs-scrollspy-ec.svg** |
+| <a href="docs-shapes-87.svg"><img src="docs-shapes-87.svg" width="250"></a> | **docs-shapes-87.svg** |
+| <a href="docs-sliding-img-ac.svg"><img src="docs-sliding-img-ac.svg" width="250"></a> | **docs-sliding-img-ac.svg** |
+| <a href="docs-spinners-d0.svg"><img src="docs-spinners-d0.svg" width="250"></a> | **docs-spinners-d0.svg** |
+| <a href="docs-steps-23.svg"><img src="docs-steps-23.svg" width="250"></a> | **docs-steps-23.svg** |
+| <a href="docs-sticky-block-ff.svg"><img src="docs-sticky-block-ff.svg" width="250"></a> | **docs-sticky-block-ff.svg** |
+| <a href="docs-swiper-c9.svg"><img src="docs-swiper-c9.svg" width="250"></a> | **docs-swiper-c9.svg** |
+| <a href="docs-tab-9e.svg"><img src="docs-tab-9e.svg" width="250"></a> | **docs-tab-9e.svg** |
+| <a href="docs-tables-e5.svg"><img src="docs-tables-e5.svg" width="250"></a> | **docs-tables-e5.svg** |
+| <a href="docs-toasts-2d.svg"><img src="docs-toasts-2d.svg" width="250"></a> | **docs-toasts-2d.svg** |
+| <a href="docs-tooltips-93.svg"><img src="docs-tooltips-93.svg" width="250"></a> | **docs-tooltips-93.svg** |
+| <a href="docs-typography-06.svg"><img src="docs-typography-06.svg" width="250"></a> | **docs-typography-06.svg** |
+| <a href="snippets-cards-grid-d1.svg"><img src="snippets-cards-grid-d1.svg" width="250"></a> | **snippets-cards-grid-d1.svg** |
+| <a href="snippets-cards-list-5b.svg"><img src="snippets-cards-list-5b.svg" width="250"></a> | **snippets-cards-list-5b.svg** |
+| <a href="snippets-clients-e5.svg"><img src="snippets-clients-e5.svg" width="250"></a> | **snippets-clients-e5.svg** |
+| <a href="snippets-comments-ed.svg"><img src="snippets-comments-ed.svg" width="250"></a> | **snippets-comments-ed.svg** |
+| <a href="snippets-contact-sections-0a.svg"><img src="snippets-contact-sections-0a.svg" width="250"></a> | **snippets-contact-sections-0a.svg** |
+| <a href="snippets-content-sections-ca.svg"><img src="snippets-content-sections-ca.svg" width="250"></a> | **snippets-content-sections-ca.svg** |
+| <a href="snippets-cta-c7.svg"><img src="snippets-cta-c7.svg" width="250"></a> | **snippets-cta-c7.svg** |
+| <a href="snippets-faq-15.svg"><img src="snippets-faq-15.svg" width="250"></a> | **snippets-faq-15.svg** |
+| <a href="snippets-features-general-86.svg"><img src="snippets-features-general-86.svg" width="250"></a> | **snippets-features-general-86.svg** |
+| <a href="snippets-features-navs-cf.svg"><img src="snippets-features-navs-cf.svg" width="250"></a> | **snippets-features-navs-cf.svg** |
+| <a href="snippets-features-stats-be.svg"><img src="snippets-features-stats-be.svg" width="250"></a> | **snippets-features-stats-be.svg** |
+| <a href="snippets-features-step-83.svg"><img src="snippets-features-step-83.svg" width="250"></a> | **snippets-features-step-83.svg** |
+| <a href="snippets-footer-6c.svg"><img src="snippets-footer-6c.svg" width="250"></a> | **snippets-footer-6c.svg** |
+| <a href="snippets-form-layouts-authentication-da.svg"><img src="snippets-form-layouts-authentication-da.svg" width="250"></a> | **snippets-form-layouts-authentication-da.svg** |
+| <a href="snippets-form-layouts-feedback-a2.svg"><img src="snippets-form-layouts-feedback-a2.svg" width="250"></a> | **snippets-form-layouts-feedback-a2.svg** |
+| <a href="snippets-form-layouts-filters-77.svg"><img src="snippets-form-layouts-filters-77.svg" width="250"></a> | **snippets-form-layouts-filters-77.svg** |
+| <a href="snippets-form-layouts-search-77.svg"><img src="snippets-form-layouts-search-77.svg" width="250"></a> | **snippets-form-layouts-search-77.svg** |
+| <a href="snippets-form-layouts-subscribe-af.svg"><img src="snippets-form-layouts-subscribe-af.svg" width="250"></a> | **snippets-form-layouts-subscribe-af.svg** |
+| <a href="snippets-gallery-c7.svg"><img src="snippets-gallery-c7.svg" width="250"></a> | **snippets-gallery-c7.svg** |
+| <a href="snippets-hero-sections-15.svg"><img src="snippets-hero-sections-15.svg" width="250"></a> | **snippets-hero-sections-15.svg** |
+| <a href="snippets-icon-blocks-3c.svg"><img src="snippets-icon-blocks-3c.svg" width="250"></a> | **snippets-icon-blocks-3c.svg** |
+| <a href="snippets-navbar-ee.svg"><img src="snippets-navbar-ee.svg" width="250"></a> | **snippets-navbar-ee.svg** |
+| <a href="snippets-pricing-80.svg"><img src="snippets-pricing-80.svg" width="250"></a> | **snippets-pricing-80.svg** |
+| <a href="snippets-sidebar-examples-6f.svg"><img src="snippets-sidebar-examples-6f.svg" width="250"></a> | **snippets-sidebar-examples-6f.svg** |
+| <a href="snippets-team-sections-d6.svg"><img src="snippets-team-sections-d6.svg" width="250"></a> | **snippets-team-sections-d6.svg** |
+| <a href="snippets-testimonials-ff.svg"><img src="snippets-testimonials-ff.svg" width="250"></a> | **snippets-testimonials-ff.svg** |
+| <a href="snippets-user-profile-36.svg"><img src="snippets-user-profile-36.svg" width="250"></a> | **snippets-user-profile-36.svg** |

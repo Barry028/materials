@@ -1,72 +1,72 @@
-# 🖼️ finance 素材庫
+# 🖼️ finance
 
 [⬅️ 返回主目錄](../../../../../README.md)
 
-| 預覽 (點擊放大) | 檔案資訊 |
+| 預覽 | 資訊 |
 | :--- | :--- |
-| <a href="24-hours-line.svg"><img src="24-hours-line.svg" width="250"></a> | **24-hours-line.svg**<br>Vector (SVG) | 735.00B |
-| <a href="auction-line.svg"><img src="auction-line.svg" width="250"></a> | **auction-line.svg**<br>Vector (SVG) | 576.00B |
-| <a href="bank-card-2-line.svg"><img src="bank-card-2-line.svg" width="250"></a> | **bank-card-2-line.svg**<br>Vector (SVG) | 615.00B |
-| <a href="bank-card-line.svg"><img src="bank-card-line.svg" width="250"></a> | **bank-card-line.svg**<br>Vector (SVG) | 634.00B |
-| <a href="bit-coin-line.svg"><img src="bit-coin-line.svg" width="250"></a> | **bit-coin-line.svg**<br>Vector (SVG) | 1.38KB |
-| <a href="coin-line.svg"><img src="coin-line.svg" width="250"></a> | **coin-line.svg**<br>Vector (SVG) | 643.00B |
-| <a href="coins-line.svg"><img src="coins-line.svg" width="250"></a> | **coins-line.svg**<br>Vector (SVG) | 2.65KB |
-| <a href="copper-coin-line.svg"><img src="copper-coin-line.svg" width="250"></a> | **copper-coin-line.svg**<br>Vector (SVG) | 768.00B |
-| <a href="copper-diamond-line.svg"><img src="copper-diamond-line.svg" width="250"></a> | **copper-diamond-line.svg**<br>Vector (SVG) | 771.00B |
-| <a href="coupon-2-line.svg"><img src="coupon-2-line.svg" width="250"></a> | **coupon-2-line.svg**<br>Vector (SVG) | 1.28KB |
-| <a href="coupon-3-line.svg"><img src="coupon-3-line.svg" width="250"></a> | **coupon-3-line.svg**<br>Vector (SVG) | 1.89KB |
-| <a href="coupon-4-line.svg"><img src="coupon-4-line.svg" width="250"></a> | **coupon-4-line.svg**<br>Vector (SVG) | 1.21KB |
-| <a href="coupon-5-line.svg"><img src="coupon-5-line.svg" width="250"></a> | **coupon-5-line.svg**<br>Vector (SVG) | 1.10KB |
-| <a href="coupon-line.svg"><img src="coupon-line.svg" width="250"></a> | **coupon-line.svg**<br>Vector (SVG) | 1.29KB |
-| <a href="currency-line.svg"><img src="currency-line.svg" width="250"></a> | **currency-line.svg**<br>Vector (SVG) | 1.44KB |
-| <a href="exchange-box-line.svg"><img src="exchange-box-line.svg" width="250"></a> | **exchange-box-line.svg**<br>Vector (SVG) | 641.00B |
-| <a href="exchange-cny-line.svg"><img src="exchange-cny-line.svg" width="250"></a> | **exchange-cny-line.svg**<br>Vector (SVG) | 1.24KB |
-| <a href="exchange-dollar-line.svg"><img src="exchange-dollar-line.svg" width="250"></a> | **exchange-dollar-line.svg**<br>Vector (SVG) | 1.76KB |
-| <a href="exchange-funds-fill.svg"><img src="exchange-funds-fill.svg" width="250"></a> | **exchange-funds-fill.svg**<br>Vector (SVG) | 1.02KB |
-| <a href="exchange-line.svg"><img src="exchange-line.svg" width="250"></a> | **exchange-line.svg**<br>Vector (SVG) | 721.00B |
-| <a href="funds-box-line.svg"><img src="funds-box-line.svg" width="250"></a> | **funds-box-line.svg**<br>Vector (SVG) | 730.00B |
-| <a href="funds-line.svg"><img src="funds-line.svg" width="250"></a> | **funds-line.svg**<br>Vector (SVG) | 994.00B |
-| <a href="gift-2-line.svg"><img src="gift-2-line.svg" width="250"></a> | **gift-2-line.svg**<br>Vector (SVG) | 1.83KB |
-| <a href="gift-line.svg"><img src="gift-line.svg" width="250"></a> | **gift-line.svg**<br>Vector (SVG) | 1.59KB |
-| <a href="hand-coin-line.svg"><img src="hand-coin-line.svg" width="250"></a> | **hand-coin-line.svg**<br>Vector (SVG) | 2.44KB |
-| <a href="hand-heart-line.svg"><img src="hand-heart-line.svg" width="250"></a> | **hand-heart-line.svg**<br>Vector (SVG) | 2.53KB |
-| <a href="increase-decrease-line.svg"><img src="increase-decrease-line.svg" width="250"></a> | **increase-decrease-line.svg**<br>Vector (SVG) | 652.00B |
-| <a href="money-cny-box-line.svg"><img src="money-cny-box-line.svg" width="250"></a> | **money-cny-box-line.svg**<br>Vector (SVG) | 727.00B |
-| <a href="money-cny-circle-line.svg"><img src="money-cny-circle-line.svg" width="250"></a> | **money-cny-circle-line.svg**<br>Vector (SVG) | 805.00B |
-| <a href="money-dollar-box-line.svg"><img src="money-dollar-box-line.svg" width="250"></a> | **money-dollar-box-line.svg**<br>Vector (SVG) | 1.25KB |
-| <a href="money-dollar-circle-line.svg"><img src="money-dollar-circle-line.svg" width="250"></a> | **money-dollar-circle-line.svg**<br>Vector (SVG) | 1.33KB |
-| <a href="money-euro-box-line.svg"><img src="money-euro-box-line.svg" width="250"></a> | **money-euro-box-line.svg**<br>Vector (SVG) | 1.37KB |
-| <a href="money-euro-circle-line.svg"><img src="money-euro-circle-line.svg" width="250"></a> | **money-euro-circle-line.svg**<br>Vector (SVG) | 1.45KB |
-| <a href="money-pound-box-line.svg"><img src="money-pound-box-line.svg" width="250"></a> | **money-pound-box-line.svg**<br>Vector (SVG) | 1023.00B |
-| <a href="money-pound-circle-line.svg"><img src="money-pound-circle-line.svg" width="250"></a> | **money-pound-circle-line.svg**<br>Vector (SVG) | 1.08KB |
-| <a href="percent-line.svg"><img src="percent-line.svg" width="250"></a> | **percent-line.svg**<br>Vector (SVG) | 1.74KB |
-| <a href="price-tag-2-line.svg"><img src="price-tag-2-line.svg" width="250"></a> | **price-tag-2-line.svg**<br>Vector (SVG) | 977.00B |
-| <a href="price-tag-3-line.svg"><img src="price-tag-3-line.svg" width="250"></a> | **price-tag-3-line.svg**<br>Vector (SVG) | 1.11KB |
-| <a href="price-tag-line.svg"><img src="price-tag-line.svg" width="250"></a> | **price-tag-line.svg**<br>Vector (SVG) | 943.00B |
-| <a href="red-packet-line.svg"><img src="red-packet-line.svg" width="250"></a> | **red-packet-line.svg**<br>Vector (SVG) | 1.15KB |
-| <a href="refund-2-line.svg"><img src="refund-2-line.svg" width="250"></a> | **refund-2-line.svg**<br>Vector (SVG) | 1.72KB |
-| <a href="refund-line.svg"><img src="refund-line.svg" width="250"></a> | **refund-line.svg**<br>Vector (SVG) | 643.00B |
-| <a href="safe-2-line.svg"><img src="safe-2-line.svg" width="250"></a> | **safe-2-line.svg**<br>Vector (SVG) | 1.29KB |
-| <a href="safe-line.svg"><img src="safe-line.svg" width="250"></a> | **safe-line.svg**<br>Vector (SVG) | 1.29KB |
-| <a href="secure-payment-line.svg"><img src="secure-payment-line.svg" width="250"></a> | **secure-payment-line.svg**<br>Vector (SVG) | 1.12KB |
-| <a href="shopping-bag-2-line.svg"><img src="shopping-bag-2-line.svg" width="250"></a> | **shopping-bag-2-line.svg**<br>Vector (SVG) | 918.00B |
-| <a href="shopping-bag-3-line.svg"><img src="shopping-bag-3-line.svg" width="250"></a> | **shopping-bag-3-line.svg**<br>Vector (SVG) | 976.00B |
-| <a href="shopping-bag-line.svg"><img src="shopping-bag-line.svg" width="250"></a> | **shopping-bag-line.svg**<br>Vector (SVG) | 932.00B |
-| <a href="shopping-basket-2-line.svg"><img src="shopping-basket-2-line.svg" width="250"></a> | **shopping-basket-2-line.svg**<br>Vector (SVG) | 716.00B |
-| <a href="shopping-basket-line.svg"><img src="shopping-basket-line.svg" width="250"></a> | **shopping-basket-line.svg**<br>Vector (SVG) | 938.00B |
-| <a href="shopping-cart-2-line.svg"><img src="shopping-cart-2-line.svg" width="250"></a> | **shopping-cart-2-line.svg**<br>Vector (SVG) | 1.48KB |
-| <a href="shopping-cart-line.svg"><img src="shopping-cart-line.svg" width="250"></a> | **shopping-cart-line.svg**<br>Vector (SVG) | 1.32KB |
-| <a href="stock-line.svg"><img src="stock-line.svg" width="250"></a> | **stock-line.svg**<br>Vector (SVG) | 379.00B |
-| <a href="swap-box-line.svg"><img src="swap-box-line.svg" width="250"></a> | **swap-box-line.svg**<br>Vector (SVG) | 662.00B |
-| <a href="swap-line.svg"><img src="swap-line.svg" width="250"></a> | **swap-line.svg**<br>Vector (SVG) | 742.00B |
-| <a href="ticket-2-line.svg"><img src="ticket-2-line.svg" width="250"></a> | **ticket-2-line.svg**<br>Vector (SVG) | 1.29KB |
-| <a href="ticket-line.svg"><img src="ticket-line.svg" width="250"></a> | **ticket-line.svg**<br>Vector (SVG) | 1.28KB |
-| <a href="trophy-line.svg"><img src="trophy-line.svg" width="250"></a> | **trophy-line.svg**<br>Vector (SVG) | 660.00B |
-| <a href="vip-crown-2-line.svg"><img src="vip-crown-2-line.svg" width="250"></a> | **vip-crown-2-line.svg**<br>Vector (SVG) | 1.57KB |
-| <a href="vip-crown-line.svg"><img src="vip-crown-line.svg" width="250"></a> | **vip-crown-line.svg**<br>Vector (SVG) | 390.00B |
-| <a href="vip-diamond-line.svg"><img src="vip-diamond-line.svg" width="250"></a> | **vip-diamond-line.svg**<br>Vector (SVG) | 894.00B |
-| <a href="vip-line.svg"><img src="vip-line.svg" width="250"></a> | **vip-line.svg**<br>Vector (SVG) | 728.00B |
-| <a href="wallet-2-line.svg"><img src="wallet-2-line.svg" width="250"></a> | **wallet-2-line.svg**<br>Vector (SVG) | 795.00B |
-| <a href="wallet-3-line.svg"><img src="wallet-3-line.svg" width="250"></a> | **wallet-3-line.svg**<br>Vector (SVG) | 952.00B |
-| <a href="wallet-line.svg"><img src="wallet-line.svg" width="250"></a> | **wallet-line.svg**<br>Vector (SVG) | 636.00B |
-| <a href="water-flash-line.svg"><img src="water-flash-line.svg" width="250"></a> | **water-flash-line.svg**<br>Vector (SVG) | 1.08KB |
+| <a href="24-hours-line.svg"><img src="24-hours-line.svg" width="250"></a> | **24-hours-line.svg** |
+| <a href="auction-line.svg"><img src="auction-line.svg" width="250"></a> | **auction-line.svg** |
+| <a href="bank-card-2-line.svg"><img src="bank-card-2-line.svg" width="250"></a> | **bank-card-2-line.svg** |
+| <a href="bank-card-line.svg"><img src="bank-card-line.svg" width="250"></a> | **bank-card-line.svg** |
+| <a href="bit-coin-line.svg"><img src="bit-coin-line.svg" width="250"></a> | **bit-coin-line.svg** |
+| <a href="coin-line.svg"><img src="coin-line.svg" width="250"></a> | **coin-line.svg** |
+| <a href="coins-line.svg"><img src="coins-line.svg" width="250"></a> | **coins-line.svg** |
+| <a href="copper-coin-line.svg"><img src="copper-coin-line.svg" width="250"></a> | **copper-coin-line.svg** |
+| <a href="copper-diamond-line.svg"><img src="copper-diamond-line.svg" width="250"></a> | **copper-diamond-line.svg** |
+| <a href="coupon-2-line.svg"><img src="coupon-2-line.svg" width="250"></a> | **coupon-2-line.svg** |
+| <a href="coupon-3-line.svg"><img src="coupon-3-line.svg" width="250"></a> | **coupon-3-line.svg** |
+| <a href="coupon-4-line.svg"><img src="coupon-4-line.svg" width="250"></a> | **coupon-4-line.svg** |
+| <a href="coupon-5-line.svg"><img src="coupon-5-line.svg" width="250"></a> | **coupon-5-line.svg** |
+| <a href="coupon-line.svg"><img src="coupon-line.svg" width="250"></a> | **coupon-line.svg** |
+| <a href="currency-line.svg"><img src="currency-line.svg" width="250"></a> | **currency-line.svg** |
+| <a href="exchange-box-line.svg"><img src="exchange-box-line.svg" width="250"></a> | **exchange-box-line.svg** |
+| <a href="exchange-cny-line.svg"><img src="exchange-cny-line.svg" width="250"></a> | **exchange-cny-line.svg** |
+| <a href="exchange-dollar-line.svg"><img src="exchange-dollar-line.svg" width="250"></a> | **exchange-dollar-line.svg** |
+| <a href="exchange-funds-fill.svg"><img src="exchange-funds-fill.svg" width="250"></a> | **exchange-funds-fill.svg** |
+| <a href="exchange-line.svg"><img src="exchange-line.svg" width="250"></a> | **exchange-line.svg** |
+| <a href="funds-box-line.svg"><img src="funds-box-line.svg" width="250"></a> | **funds-box-line.svg** |
+| <a href="funds-line.svg"><img src="funds-line.svg" width="250"></a> | **funds-line.svg** |
+| <a href="gift-2-line.svg"><img src="gift-2-line.svg" width="250"></a> | **gift-2-line.svg** |
+| <a href="gift-line.svg"><img src="gift-line.svg" width="250"></a> | **gift-line.svg** |
+| <a href="hand-coin-line.svg"><img src="hand-coin-line.svg" width="250"></a> | **hand-coin-line.svg** |
+| <a href="hand-heart-line.svg"><img src="hand-heart-line.svg" width="250"></a> | **hand-heart-line.svg** |
+| <a href="increase-decrease-line.svg"><img src="increase-decrease-line.svg" width="250"></a> | **increase-decrease-line.svg** |
+| <a href="money-cny-box-line.svg"><img src="money-cny-box-line.svg" width="250"></a> | **money-cny-box-line.svg** |
+| <a href="money-cny-circle-line.svg"><img src="money-cny-circle-line.svg" width="250"></a> | **money-cny-circle-line.svg** |
+| <a href="money-dollar-box-line.svg"><img src="money-dollar-box-line.svg" width="250"></a> | **money-dollar-box-line.svg** |
+| <a href="money-dollar-circle-line.svg"><img src="money-dollar-circle-line.svg" width="250"></a> | **money-dollar-circle-line.svg** |
+| <a href="money-euro-box-line.svg"><img src="money-euro-box-line.svg" width="250"></a> | **money-euro-box-line.svg** |
+| <a href="money-euro-circle-line.svg"><img src="money-euro-circle-line.svg" width="250"></a> | **money-euro-circle-line.svg** |
+| <a href="money-pound-box-line.svg"><img src="money-pound-box-line.svg" width="250"></a> | **money-pound-box-line.svg** |
+| <a href="money-pound-circle-line.svg"><img src="money-pound-circle-line.svg" width="250"></a> | **money-pound-circle-line.svg** |
+| <a href="percent-line.svg"><img src="percent-line.svg" width="250"></a> | **percent-line.svg** |
+| <a href="price-tag-2-line.svg"><img src="price-tag-2-line.svg" width="250"></a> | **price-tag-2-line.svg** |
+| <a href="price-tag-3-line.svg"><img src="price-tag-3-line.svg" width="250"></a> | **price-tag-3-line.svg** |
+| <a href="price-tag-line.svg"><img src="price-tag-line.svg" width="250"></a> | **price-tag-line.svg** |
+| <a href="red-packet-line.svg"><img src="red-packet-line.svg" width="250"></a> | **red-packet-line.svg** |
+| <a href="refund-2-line.svg"><img src="refund-2-line.svg" width="250"></a> | **refund-2-line.svg** |
+| <a href="refund-line.svg"><img src="refund-line.svg" width="250"></a> | **refund-line.svg** |
+| <a href="safe-2-line.svg"><img src="safe-2-line.svg" width="250"></a> | **safe-2-line.svg** |
+| <a href="safe-line.svg"><img src="safe-line.svg" width="250"></a> | **safe-line.svg** |
+| <a href="secure-payment-line.svg"><img src="secure-payment-line.svg" width="250"></a> | **secure-payment-line.svg** |
+| <a href="shopping-bag-2-line.svg"><img src="shopping-bag-2-line.svg" width="250"></a> | **shopping-bag-2-line.svg** |
+| <a href="shopping-bag-3-line.svg"><img src="shopping-bag-3-line.svg" width="250"></a> | **shopping-bag-3-line.svg** |
+| <a href="shopping-bag-line.svg"><img src="shopping-bag-line.svg" width="250"></a> | **shopping-bag-line.svg** |
+| <a href="shopping-basket-2-line.svg"><img src="shopping-basket-2-line.svg" width="250"></a> | **shopping-basket-2-line.svg** |
+| <a href="shopping-basket-line.svg"><img src="shopping-basket-line.svg" width="250"></a> | **shopping-basket-line.svg** |
+| <a href="shopping-cart-2-line.svg"><img src="shopping-cart-2-line.svg" width="250"></a> | **shopping-cart-2-line.svg** |
+| <a href="shopping-cart-line.svg"><img src="shopping-cart-line.svg" width="250"></a> | **shopping-cart-line.svg** |
+| <a href="stock-line.svg"><img src="stock-line.svg" width="250"></a> | **stock-line.svg** |
+| <a href="swap-box-line.svg"><img src="swap-box-line.svg" width="250"></a> | **swap-box-line.svg** |
+| <a href="swap-line.svg"><img src="swap-line.svg" width="250"></a> | **swap-line.svg** |
+| <a href="ticket-2-line.svg"><img src="ticket-2-line.svg" width="250"></a> | **ticket-2-line.svg** |
+| <a href="ticket-line.svg"><img src="ticket-line.svg" width="250"></a> | **ticket-line.svg** |
+| <a href="trophy-line.svg"><img src="trophy-line.svg" width="250"></a> | **trophy-line.svg** |
+| <a href="vip-crown-2-line.svg"><img src="vip-crown-2-line.svg" width="250"></a> | **vip-crown-2-line.svg** |
+| <a href="vip-crown-line.svg"><img src="vip-crown-line.svg" width="250"></a> | **vip-crown-line.svg** |
+| <a href="vip-diamond-line.svg"><img src="vip-diamond-line.svg" width="250"></a> | **vip-diamond-line.svg** |
+| <a href="vip-line.svg"><img src="vip-line.svg" width="250"></a> | **vip-line.svg** |
+| <a href="wallet-2-line.svg"><img src="wallet-2-line.svg" width="250"></a> | **wallet-2-line.svg** |
+| <a href="wallet-3-line.svg"><img src="wallet-3-line.svg" width="250"></a> | **wallet-3-line.svg** |
+| <a href="wallet-line.svg"><img src="wallet-line.svg" width="250"></a> | **wallet-line.svg** |
+| <a href="water-flash-line.svg"><img src="water-flash-line.svg" width="250"></a> | **water-flash-line.svg** |

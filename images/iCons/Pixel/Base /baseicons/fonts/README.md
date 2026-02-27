@@ -1,7 +1,7 @@
-# 🖼️ fonts 素材庫
+# 🖼️ fonts
 
 [⬅️ 返回主目錄](../../../../../../README.md)
 
-| 預覽 (點擊放大) | 檔案資訊 |
+| 預覽 | 資訊 |
 | :--- | :--- |
-| <a href="baseicons.svg"><img src="baseicons.svg" width="250"></a> | **baseicons.svg**<br>Vector (SVG) | 83.29KB |
+| <a href="baseicons.svg"><img src="baseicons.svg" width="250"></a> | **baseicons.svg** |

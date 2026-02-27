@@ -1,108 +1,108 @@
-# 🖼️ 16 素材庫
+# 🖼️ 16
 
 [⬅️ 返回主目錄](../../../../../../README.md)
 
-| 預覽 (點擊放大) | 檔案資訊 |
+| 預覽 | 資訊 |
 | :--- | :--- |
-| <a href="appointment-missed-symbolic.svg"><img src="appointment-missed-symbolic.svg" width="250"></a> | **appointment-missed-symbolic.svg**<br>Vector (SVG) | 1.07KB |
-| <a href="appointment-soon-symbolic.svg"><img src="appointment-soon-symbolic.svg" width="250"></a> | **appointment-soon-symbolic.svg**<br>Vector (SVG) | 919.00B |
-| <a href="audio-on.svg"><img src="audio-on.svg" width="250"></a> | **audio-on.svg**<br>Vector (SVG) | 1.14KB |
-| <a href="audio-ready.svg"><img src="audio-ready.svg" width="250"></a> | **audio-ready.svg**<br>Vector (SVG) | 789.00B |
-| <a href="audio-volume-high-danger.svg"><img src="audio-volume-high-danger.svg" width="250"></a> | **audio-volume-high-danger.svg**<br>Vector (SVG) | 855.00B |
-| <a href="audio-volume-high-warning.svg"><img src="audio-volume-high-warning.svg" width="250"></a> | **audio-volume-high-warning.svg**<br>Vector (SVG) | 853.00B |
-| <a href="audio-volume-high.svg"><img src="audio-volume-high.svg" width="250"></a> | **audio-volume-high.svg**<br>Vector (SVG) | 712.00B |
-| <a href="audio-volume-low.svg"><img src="audio-volume-low.svg" width="250"></a> | **audio-volume-low.svg**<br>Vector (SVG) | 740.00B |
-| <a href="audio-volume-medium.svg"><img src="audio-volume-medium.svg" width="250"></a> | **audio-volume-medium.svg**<br>Vector (SVG) | 726.00B |
-| <a href="audio-volume-muted.svg"><img src="audio-volume-muted.svg" width="250"></a> | **audio-volume-muted.svg**<br>Vector (SVG) | 1.17KB |
-| <a href="auth-sim-locked.svg"><img src="auth-sim-locked.svg" width="250"></a> | **auth-sim-locked.svg**<br>Vector (SVG) | 800.00B |
-| <a href="auth-sim-missing.svg"><img src="auth-sim-missing.svg" width="250"></a> | **auth-sim-missing.svg**<br>Vector (SVG) | 1.02KB |
-| <a href="battery-000-charging.svg"><img src="battery-000-charging.svg" width="250"></a> | **battery-000-charging.svg**<br>Vector (SVG) | 661.00B |
-| <a href="battery-000.svg"><img src="battery-000.svg" width="250"></a> | **battery-000.svg**<br>Vector (SVG) | 446.00B |
-| <a href="battery-010-charging.svg"><img src="battery-010-charging.svg" width="250"></a> | **battery-010-charging.svg**<br>Vector (SVG) | 674.00B |
-| <a href="battery-010.svg"><img src="battery-010.svg" width="250"></a> | **battery-010.svg**<br>Vector (SVG) | 459.00B |
-| <a href="battery-020-charging.svg"><img src="battery-020-charging.svg" width="250"></a> | **battery-020-charging.svg**<br>Vector (SVG) | 658.00B |
-| <a href="battery-020.svg"><img src="battery-020.svg" width="250"></a> | **battery-020.svg**<br>Vector (SVG) | 443.00B |
-| <a href="battery-030-charging.svg"><img src="battery-030-charging.svg" width="250"></a> | **battery-030-charging.svg**<br>Vector (SVG) | 658.00B |
-| <a href="battery-030.svg"><img src="battery-030.svg" width="250"></a> | **battery-030.svg**<br>Vector (SVG) | 443.00B |
-| <a href="battery-040-charging.svg"><img src="battery-040-charging.svg" width="250"></a> | **battery-040-charging.svg**<br>Vector (SVG) | 658.00B |
-| <a href="battery-040.svg"><img src="battery-040.svg" width="250"></a> | **battery-040.svg**<br>Vector (SVG) | 443.00B |
-| <a href="battery-050-charging.svg"><img src="battery-050-charging.svg" width="250"></a> | **battery-050-charging.svg**<br>Vector (SVG) | 658.00B |
-| <a href="battery-050.svg"><img src="battery-050.svg" width="250"></a> | **battery-050.svg**<br>Vector (SVG) | 443.00B |
-| <a href="battery-060-charging.svg"><img src="battery-060-charging.svg" width="250"></a> | **battery-060-charging.svg**<br>Vector (SVG) | 658.00B |
-| <a href="battery-060.svg"><img src="battery-060.svg" width="250"></a> | **battery-060.svg**<br>Vector (SVG) | 443.00B |
-| <a href="battery-070-charging.svg"><img src="battery-070-charging.svg" width="250"></a> | **battery-070-charging.svg**<br>Vector (SVG) | 658.00B |
-| <a href="battery-070.svg"><img src="battery-070.svg" width="250"></a> | **battery-070.svg**<br>Vector (SVG) | 443.00B |
-| <a href="battery-080-charging.svg"><img src="battery-080-charging.svg" width="250"></a> | **battery-080-charging.svg**<br>Vector (SVG) | 658.00B |
-| <a href="battery-080.svg"><img src="battery-080.svg" width="250"></a> | **battery-080.svg**<br>Vector (SVG) | 443.00B |
-| <a href="battery-090-charging.svg"><img src="battery-090-charging.svg" width="250"></a> | **battery-090-charging.svg**<br>Vector (SVG) | 658.00B |
-| <a href="battery-090.svg"><img src="battery-090.svg" width="250"></a> | **battery-090.svg**<br>Vector (SVG) | 443.00B |
-| <a href="battery-100-charging.svg"><img src="battery-100-charging.svg" width="250"></a> | **battery-100-charging.svg**<br>Vector (SVG) | 657.00B |
-| <a href="battery-100.svg"><img src="battery-100.svg" width="250"></a> | **battery-100.svg**<br>Vector (SVG) | 442.00B |
-| <a href="battery-missing.svg"><img src="battery-missing.svg" width="250"></a> | **battery-missing.svg**<br>Vector (SVG) | 850.00B |
-| <a href="call-incoming.svg"><img src="call-incoming.svg" width="250"></a> | **call-incoming.svg**<br>Vector (SVG) | 1.18KB |
-| <a href="call-missed.svg"><img src="call-missed.svg" width="250"></a> | **call-missed.svg**<br>Vector (SVG) | 818.00B |
-| <a href="call-outgoing.svg"><img src="call-outgoing.svg" width="250"></a> | **call-outgoing.svg**<br>Vector (SVG) | 1.18KB |
-| <a href="camera-off.svg"><img src="camera-off.svg" width="250"></a> | **camera-off.svg**<br>Vector (SVG) | 1.61KB |
-| <a href="camera-on.svg"><img src="camera-on.svg" width="250"></a> | **camera-on.svg**<br>Vector (SVG) | 1.74KB |
-| <a href="camera-ready.svg"><img src="camera-ready.svg" width="250"></a> | **camera-ready.svg**<br>Vector (SVG) | 1.74KB |
-| <a href="crow-translate-tray.svg"><img src="crow-translate-tray.svg" width="250"></a> | **crow-translate-tray.svg**<br>Vector (SVG) | 1.24KB |
-| <a href="data-error.svg"><img src="data-error.svg" width="250"></a> | **data-error.svg**<br>Vector (SVG) | 465.00B |
-| <a href="data-information.svg"><img src="data-information.svg" width="250"></a> | **data-information.svg**<br>Vector (SVG) | 376.00B |
-| <a href="data-warning.svg"><img src="data-warning.svg" width="250"></a> | **data-warning.svg**<br>Vector (SVG) | 603.00B |
-| <a href="device-notifier-symbolic.svg"><img src="device-notifier-symbolic.svg" width="250"></a> | **device-notifier-symbolic.svg**<br>Vector (SVG) | 2.39KB |
-| <a href="dialog-information.svg"><img src="dialog-information.svg" width="250"></a> | **dialog-information.svg**<br>Vector (SVG) | 529.00B |
-| <a href="dialog-warning.svg"><img src="dialog-warning.svg" width="250"></a> | **dialog-warning.svg**<br>Vector (SVG) | 381.00B |
-| <a href="disk-quota-critical.svg"><img src="disk-quota-critical.svg" width="250"></a> | **disk-quota-critical.svg**<br>Vector (SVG) | 1.71KB |
-| <a href="disk-quota-high.svg"><img src="disk-quota-high.svg" width="250"></a> | **disk-quota-high.svg**<br>Vector (SVG) | 1.61KB |
-| <a href="disk-quota-low.svg"><img src="disk-quota-low.svg" width="250"></a> | **disk-quota-low.svg**<br>Vector (SVG) | 1.74KB |
-| <a href="disk-quota.svg"><img src="disk-quota.svg" width="250"></a> | **disk-quota.svg**<br>Vector (SVG) | 1.57KB |
-| <a href="firewall-applet-error.svg"><img src="firewall-applet-error.svg" width="250"></a> | **firewall-applet-error.svg**<br>Vector (SVG) | 696.00B |
-| <a href="firewall-applet-panic.svg"><img src="firewall-applet-panic.svg" width="250"></a> | **firewall-applet-panic.svg**<br>Vector (SVG) | 802.00B |
-| <a href="firewall-applet-shields_up.svg"><img src="firewall-applet-shields_up.svg" width="250"></a> | **firewall-applet-shields_up.svg**<br>Vector (SVG) | 720.00B |
-| <a href="firewall-applet.svg"><img src="firewall-applet.svg" width="250"></a> | **firewall-applet.svg**<br>Vector (SVG) | 432.00B |
-| <a href="image-missing.svg"><img src="image-missing.svg" width="250"></a> | **image-missing.svg**<br>Vector (SVG) | 731.00B |
-| <a href="input-caps-on.svg"><img src="input-caps-on.svg" width="250"></a> | **input-caps-on.svg**<br>Vector (SVG) | 555.00B |
-| <a href="kdeconnect-tray.svg"><img src="kdeconnect-tray.svg" width="250"></a> | **kdeconnect-tray.svg**<br>Vector (SVG) | 1.43KB |
-| <a href="media-playback-paused.svg"><img src="media-playback-paused.svg" width="250"></a> | **media-playback-paused.svg**<br>Vector (SVG) | 479.00B |
-| <a href="media-playback-playing.svg"><img src="media-playback-playing.svg" width="250"></a> | **media-playback-playing.svg**<br>Vector (SVG) | 437.00B |
-| <a href="media-playback-stopped.svg"><img src="media-playback-stopped.svg" width="250"></a> | **media-playback-stopped.svg**<br>Vector (SVG) | 445.00B |
-| <a href="meeting-organizer.svg"><img src="meeting-organizer.svg" width="250"></a> | **meeting-organizer.svg**<br>Vector (SVG) | 673.00B |
-| <a href="mic-off.svg"><img src="mic-off.svg" width="250"></a> | **mic-off.svg**<br>Vector (SVG) | 1008.00B |
-| <a href="mic-on.svg"><img src="mic-on.svg" width="250"></a> | **mic-on.svg**<br>Vector (SVG) | 1.29KB |
-| <a href="mic-ready.svg"><img src="mic-ready.svg" width="250"></a> | **mic-ready.svg**<br>Vector (SVG) | 921.00B |
-| <a href="microphone-sensitivity-high.svg"><img src="microphone-sensitivity-high.svg" width="250"></a> | **microphone-sensitivity-high.svg**<br>Vector (SVG) | 1.04KB |
-| <a href="microphone-sensitivity-low.svg"><img src="microphone-sensitivity-low.svg" width="250"></a> | **microphone-sensitivity-low.svg**<br>Vector (SVG) | 1.09KB |
-| <a href="microphone-sensitivity-medium.svg"><img src="microphone-sensitivity-medium.svg" width="250"></a> | **microphone-sensitivity-medium.svg**<br>Vector (SVG) | 1.06KB |
-| <a href="microphone-sensitivity-muted.svg"><img src="microphone-sensitivity-muted.svg" width="250"></a> | **microphone-sensitivity-muted.svg**<br>Vector (SVG) | 1.45KB |
-| <a href="printer-error-symbolic.svg"><img src="printer-error-symbolic.svg" width="250"></a> | **printer-error-symbolic.svg**<br>Vector (SVG) | 835.00B |
-| <a href="printer-warning-symbolic.svg"><img src="printer-warning-symbolic.svg" width="250"></a> | **printer-warning-symbolic.svg**<br>Vector (SVG) | 898.00B |
-| <a href="process-working-symbolic.svg"><img src="process-working-symbolic.svg" width="250"></a> | **process-working-symbolic.svg**<br>Vector (SVG) | 1.99KB |
-| <a href="rotation-allowed.svg"><img src="rotation-allowed.svg" width="250"></a> | **rotation-allowed.svg**<br>Vector (SVG) | 908.00B |
-| <a href="rotation-locked-landscape.svg"><img src="rotation-locked-landscape.svg" width="250"></a> | **rotation-locked-landscape.svg**<br>Vector (SVG) | 512.00B |
-| <a href="rotation-locked-portrait.svg"><img src="rotation-locked-portrait.svg" width="250"></a> | **rotation-locked-portrait.svg**<br>Vector (SVG) | 511.00B |
-| <a href="security-high.svg"><img src="security-high.svg" width="250"></a> | **security-high.svg**<br>Vector (SVG) | 1.17KB |
-| <a href="security-low.svg"><img src="security-low.svg" width="250"></a> | **security-low.svg**<br>Vector (SVG) | 948.00B |
-| <a href="security-medium.svg"><img src="security-medium.svg" width="250"></a> | **security-medium.svg**<br>Vector (SVG) | 1.06KB |
-| <a href="semi-starred-symbolic-rtl.svg"><img src="semi-starred-symbolic-rtl.svg" width="250"></a> | **semi-starred-symbolic-rtl.svg**<br>Vector (SVG) | 658.00B |
-| <a href="semi-starred-symbolic.svg"><img src="semi-starred-symbolic.svg" width="250"></a> | **semi-starred-symbolic.svg**<br>Vector (SVG) | 660.00B |
-| <a href="smartphoneconnected.svg"><img src="smartphoneconnected.svg" width="250"></a> | **smartphoneconnected.svg**<br>Vector (SVG) | 950.00B |
-| <a href="smartphonedisconnected.svg"><img src="smartphonedisconnected.svg" width="250"></a> | **smartphonedisconnected.svg**<br>Vector (SVG) | 950.00B |
-| <a href="smartphonetrusted.svg"><img src="smartphonetrusted.svg" width="250"></a> | **smartphonetrusted.svg**<br>Vector (SVG) | 932.00B |
-| <a href="state-download.svg"><img src="state-download.svg" width="250"></a> | **state-download.svg**<br>Vector (SVG) | 1.62KB |
-| <a href="state-error.svg"><img src="state-error.svg" width="250"></a> | **state-error.svg**<br>Vector (SVG) | 1.85KB |
-| <a href="state-information.svg"><img src="state-information.svg" width="250"></a> | **state-information.svg**<br>Vector (SVG) | 1.61KB |
-| <a href="state-offline.svg"><img src="state-offline.svg" width="250"></a> | **state-offline.svg**<br>Vector (SVG) | 1.47KB |
-| <a href="state-ok.svg"><img src="state-ok.svg" width="250"></a> | **state-ok.svg**<br>Vector (SVG) | 1.73KB |
-| <a href="state-pause.svg"><img src="state-pause.svg" width="250"></a> | **state-pause.svg**<br>Vector (SVG) | 1.63KB |
-| <a href="state-sync.svg"><img src="state-sync.svg" width="250"></a> | **state-sync.svg**<br>Vector (SVG) | 1.93KB |
-| <a href="state-warning.svg"><img src="state-warning.svg" width="250"></a> | **state-warning.svg**<br>Vector (SVG) | 1.60KB |
-| <a href="task-complete.svg"><img src="task-complete.svg" width="250"></a> | **task-complete.svg**<br>Vector (SVG) | 551.00B |
-| <a href="task-process-0.svg"><img src="task-process-0.svg" width="250"></a> | **task-process-0.svg**<br>Vector (SVG) | 457.00B |
-| <a href="task-process-1.svg"><img src="task-process-1.svg" width="250"></a> | **task-process-1.svg**<br>Vector (SVG) | 453.00B |
-| <a href="task-process-2.svg"><img src="task-process-2.svg" width="250"></a> | **task-process-2.svg**<br>Vector (SVG) | 452.00B |
-| <a href="task-process-3.svg"><img src="task-process-3.svg" width="250"></a> | **task-process-3.svg**<br>Vector (SVG) | 419.00B |
-| <a href="task-process-4.svg"><img src="task-process-4.svg" width="250"></a> | **task-process-4.svg**<br>Vector (SVG) | 399.00B |
-| <a href="temperature-cold.svg"><img src="temperature-cold.svg" width="250"></a> | **temperature-cold.svg**<br>Vector (SVG) | 748.00B |
-| <a href="temperature-normal.svg"><img src="temperature-normal.svg" width="250"></a> | **temperature-normal.svg**<br>Vector (SVG) | 759.00B |
-| <a href="temperature-warm.svg"><img src="temperature-warm.svg" width="250"></a> | **temperature-warm.svg**<br>Vector (SVG) | 763.00B |
-| <a href="user-idle.svg"><img src="user-idle.svg" width="250"></a> | **user-idle.svg**<br>Vector (SVG) | 882.00B |
+| <a href="appointment-missed-symbolic.svg"><img src="appointment-missed-symbolic.svg" width="250"></a> | **appointment-missed-symbolic.svg** |
+| <a href="appointment-soon-symbolic.svg"><img src="appointment-soon-symbolic.svg" width="250"></a> | **appointment-soon-symbolic.svg** |
+| <a href="audio-on.svg"><img src="audio-on.svg" width="250"></a> | **audio-on.svg** |
+| <a href="audio-ready.svg"><img src="audio-ready.svg" width="250"></a> | **audio-ready.svg** |
+| <a href="audio-volume-high-danger.svg"><img src="audio-volume-high-danger.svg" width="250"></a> | **audio-volume-high-danger.svg** |
+| <a href="audio-volume-high-warning.svg"><img src="audio-volume-high-warning.svg" width="250"></a> | **audio-volume-high-warning.svg** |
+| <a href="audio-volume-high.svg"><img src="audio-volume-high.svg" width="250"></a> | **audio-volume-high.svg** |
+| <a href="audio-volume-low.svg"><img src="audio-volume-low.svg" width="250"></a> | **audio-volume-low.svg** |
+| <a href="audio-volume-medium.svg"><img src="audio-volume-medium.svg" width="250"></a> | **audio-volume-medium.svg** |
+| <a href="audio-volume-muted.svg"><img src="audio-volume-muted.svg" width="250"></a> | **audio-volume-muted.svg** |
+| <a href="auth-sim-locked.svg"><img src="auth-sim-locked.svg" width="250"></a> | **auth-sim-locked.svg** |
+| <a href="auth-sim-missing.svg"><img src="auth-sim-missing.svg" width="250"></a> | **auth-sim-missing.svg** |
+| <a href="battery-000-charging.svg"><img src="battery-000-charging.svg" width="250"></a> | **battery-000-charging.svg** |
+| <a href="battery-000.svg"><img src="battery-000.svg" width="250"></a> | **battery-000.svg** |
+| <a href="battery-010-charging.svg"><img src="battery-010-charging.svg" width="250"></a> | **battery-010-charging.svg** |
+| <a href="battery-010.svg"><img src="battery-010.svg" width="250"></a> | **battery-010.svg** |
+| <a href="battery-020-charging.svg"><img src="battery-020-charging.svg" width="250"></a> | **battery-020-charging.svg** |
+| <a href="battery-020.svg"><img src="battery-020.svg" width="250"></a> | **battery-020.svg** |
+| <a href="battery-030-charging.svg"><img src="battery-030-charging.svg" width="250"></a> | **battery-030-charging.svg** |
+| <a href="battery-030.svg"><img src="battery-030.svg" width="250"></a> | **battery-030.svg** |
+| <a href="battery-040-charging.svg"><img src="battery-040-charging.svg" width="250"></a> | **battery-040-charging.svg** |
+| <a href="battery-040.svg"><img src="battery-040.svg" width="250"></a> | **battery-040.svg** |
+| <a href="battery-050-charging.svg"><img src="battery-050-charging.svg" width="250"></a> | **battery-050-charging.svg** |
+| <a href="battery-050.svg"><img src="battery-050.svg" width="250"></a> | **battery-050.svg** |
+| <a href="battery-060-charging.svg"><img src="battery-060-charging.svg" width="250"></a> | **battery-060-charging.svg** |
+| <a href="battery-060.svg"><img src="battery-060.svg" width="250"></a> | **battery-060.svg** |
+| <a href="battery-070-charging.svg"><img src="battery-070-charging.svg" width="250"></a> | **battery-070-charging.svg** |
+| <a href="battery-070.svg"><img src="battery-070.svg" width="250"></a> | **battery-070.svg** |
+| <a href="battery-080-charging.svg"><img src="battery-080-charging.svg" width="250"></a> | **battery-080-charging.svg** |
+| <a href="battery-080.svg"><img src="battery-080.svg" width="250"></a> | **battery-080.svg** |
+| <a href="battery-090-charging.svg"><img src="battery-090-charging.svg" width="250"></a> | **battery-090-charging.svg** |
+| <a href="battery-090.svg"><img src="battery-090.svg" width="250"></a> | **battery-090.svg** |
+| <a href="battery-100-charging.svg"><img src="battery-100-charging.svg" width="250"></a> | **battery-100-charging.svg** |
+| <a href="battery-100.svg"><img src="battery-100.svg" width="250"></a> | **battery-100.svg** |
+| <a href="battery-missing.svg"><img src="battery-missing.svg" width="250"></a> | **battery-missing.svg** |
+| <a href="call-incoming.svg"><img src="call-incoming.svg" width="250"></a> | **call-incoming.svg** |
+| <a href="call-missed.svg"><img src="call-missed.svg" width="250"></a> | **call-missed.svg** |
+| <a href="call-outgoing.svg"><img src="call-outgoing.svg" width="250"></a> | **call-outgoing.svg** |
+| <a href="camera-off.svg"><img src="camera-off.svg" width="250"></a> | **camera-off.svg** |
+| <a href="camera-on.svg"><img src="camera-on.svg" width="250"></a> | **camera-on.svg** |
+| <a href="camera-ready.svg"><img src="camera-ready.svg" width="250"></a> | **camera-ready.svg** |
+| <a href="crow-translate-tray.svg"><img src="crow-translate-tray.svg" width="250"></a> | **crow-translate-tray.svg** |
+| <a href="data-error.svg"><img src="data-error.svg" width="250"></a> | **data-error.svg** |
+| <a href="data-information.svg"><img src="data-information.svg" width="250"></a> | **data-information.svg** |
+| <a href="data-warning.svg"><img src="data-warning.svg" width="250"></a> | **data-warning.svg** |
+| <a href="device-notifier-symbolic.svg"><img src="device-notifier-symbolic.svg" width="250"></a> | **device-notifier-symbolic.svg** |
+| <a href="dialog-information.svg"><img src="dialog-information.svg" width="250"></a> | **dialog-information.svg** |
+| <a href="dialog-warning.svg"><img src="dialog-warning.svg" width="250"></a> | **dialog-warning.svg** |
+| <a href="disk-quota-critical.svg"><img src="disk-quota-critical.svg" width="250"></a> | **disk-quota-critical.svg** |
+| <a href="disk-quota-high.svg"><img src="disk-quota-high.svg" width="250"></a> | **disk-quota-high.svg** |
+| <a href="disk-quota-low.svg"><img src="disk-quota-low.svg" width="250"></a> | **disk-quota-low.svg** |
+| <a href="disk-quota.svg"><img src="disk-quota.svg" width="250"></a> | **disk-quota.svg** |
+| <a href="firewall-applet-error.svg"><img src="firewall-applet-error.svg" width="250"></a> | **firewall-applet-error.svg** |
+| <a href="firewall-applet-panic.svg"><img src="firewall-applet-panic.svg" width="250"></a> | **firewall-applet-panic.svg** |
+| <a href="firewall-applet-shields_up.svg"><img src="firewall-applet-shields_up.svg" width="250"></a> | **firewall-applet-shields_up.svg** |
+| <a href="firewall-applet.svg"><img src="firewall-applet.svg" width="250"></a> | **firewall-applet.svg** |
+| <a href="image-missing.svg"><img src="image-missing.svg" width="250"></a> | **image-missing.svg** |
+| <a href="input-caps-on.svg"><img src="input-caps-on.svg" width="250"></a> | **input-caps-on.svg** |
+| <a href="kdeconnect-tray.svg"><img src="kdeconnect-tray.svg" width="250"></a> | **kdeconnect-tray.svg** |
+| <a href="media-playback-paused.svg"><img src="media-playback-paused.svg" width="250"></a> | **media-playback-paused.svg** |
+| <a href="media-playback-playing.svg"><img src="media-playback-playing.svg" width="250"></a> | **media-playback-playing.svg** |
+| <a href="media-playback-stopped.svg"><img src="media-playback-stopped.svg" width="250"></a> | **media-playback-stopped.svg** |
+| <a href="meeting-organizer.svg"><img src="meeting-organizer.svg" width="250"></a> | **meeting-organizer.svg** |
+| <a href="mic-off.svg"><img src="mic-off.svg" width="250"></a> | **mic-off.svg** |
+| <a href="mic-on.svg"><img src="mic-on.svg" width="250"></a> | **mic-on.svg** |
+| <a href="mic-ready.svg"><img src="mic-ready.svg" width="250"></a> | **mic-ready.svg** |
+| <a href="microphone-sensitivity-high.svg"><img src="microphone-sensitivity-high.svg" width="250"></a> | **microphone-sensitivity-high.svg** |
+| <a href="microphone-sensitivity-low.svg"><img src="microphone-sensitivity-low.svg" width="250"></a> | **microphone-sensitivity-low.svg** |
+| <a href="microphone-sensitivity-medium.svg"><img src="microphone-sensitivity-medium.svg" width="250"></a> | **microphone-sensitivity-medium.svg** |
+| <a href="microphone-sensitivity-muted.svg"><img src="microphone-sensitivity-muted.svg" width="250"></a> | **microphone-sensitivity-muted.svg** |
+| <a href="printer-error-symbolic.svg"><img src="printer-error-symbolic.svg" width="250"></a> | **printer-error-symbolic.svg** |
+| <a href="printer-warning-symbolic.svg"><img src="printer-warning-symbolic.svg" width="250"></a> | **printer-warning-symbolic.svg** |
+| <a href="process-working-symbolic.svg"><img src="process-working-symbolic.svg" width="250"></a> | **process-working-symbolic.svg** |
+| <a href="rotation-allowed.svg"><img src="rotation-allowed.svg" width="250"></a> | **rotation-allowed.svg** |
+| <a href="rotation-locked-landscape.svg"><img src="rotation-locked-landscape.svg" width="250"></a> | **rotation-locked-landscape.svg** |
+| <a href="rotation-locked-portrait.svg"><img src="rotation-locked-portrait.svg" width="250"></a> | **rotation-locked-portrait.svg** |
+| <a href="security-high.svg"><img src="security-high.svg" width="250"></a> | **security-high.svg** |
+| <a href="security-low.svg"><img src="security-low.svg" width="250"></a> | **security-low.svg** |
+| <a href="security-medium.svg"><img src="security-medium.svg" width="250"></a> | **security-medium.svg** |
+| <a href="semi-starred-symbolic-rtl.svg"><img src="semi-starred-symbolic-rtl.svg" width="250"></a> | **semi-starred-symbolic-rtl.svg** |
+| <a href="semi-starred-symbolic.svg"><img src="semi-starred-symbolic.svg" width="250"></a> | **semi-starred-symbolic.svg** |
+| <a href="smartphoneconnected.svg"><img src="smartphoneconnected.svg" width="250"></a> | **smartphoneconnected.svg** |
+| <a href="smartphonedisconnected.svg"><img src="smartphonedisconnected.svg" width="250"></a> | **smartphonedisconnected.svg** |
+| <a href="smartphonetrusted.svg"><img src="smartphonetrusted.svg" width="250"></a> | **smartphonetrusted.svg** |
+| <a href="state-download.svg"><img src="state-download.svg" width="250"></a> | **state-download.svg** |
+| <a href="state-error.svg"><img src="state-error.svg" width="250"></a> | **state-error.svg** |
+| <a href="state-information.svg"><img src="state-information.svg" width="250"></a> | **state-information.svg** |
+| <a href="state-offline.svg"><img src="state-offline.svg" width="250"></a> | **state-offline.svg** |
+| <a href="state-ok.svg"><img src="state-ok.svg" width="250"></a> | **state-ok.svg** |
+| <a href="state-pause.svg"><img src="state-pause.svg" width="250"></a> | **state-pause.svg** |
+| <a href="state-sync.svg"><img src="state-sync.svg" width="250"></a> | **state-sync.svg** |
+| <a href="state-warning.svg"><img src="state-warning.svg" width="250"></a> | **state-warning.svg** |
+| <a href="task-complete.svg"><img src="task-complete.svg" width="250"></a> | **task-complete.svg** |
+| <a href="task-process-0.svg"><img src="task-process-0.svg" width="250"></a> | **task-process-0.svg** |
+| <a href="task-process-1.svg"><img src="task-process-1.svg" width="250"></a> | **task-process-1.svg** |
+| <a href="task-process-2.svg"><img src="task-process-2.svg" width="250"></a> | **task-process-2.svg** |
+| <a href="task-process-3.svg"><img src="task-process-3.svg" width="250"></a> | **task-process-3.svg** |
+| <a href="task-process-4.svg"><img src="task-process-4.svg" width="250"></a> | **task-process-4.svg** |
+| <a href="temperature-cold.svg"><img src="temperature-cold.svg" width="250"></a> | **temperature-cold.svg** |
+| <a href="temperature-normal.svg"><img src="temperature-normal.svg" width="250"></a> | **temperature-normal.svg** |
+| <a href="temperature-warm.svg"><img src="temperature-warm.svg" width="250"></a> | **temperature-warm.svg** |
+| <a href="user-idle.svg"><img src="user-idle.svg" width="250"></a> | **user-idle.svg** |

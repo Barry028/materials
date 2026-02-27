@@ -1,366 +1,366 @@
-# 🖼️ Icon pack - IconBrew (Community) 2 素材庫
+# 🖼️ Icon pack - IconBrew (Community) 2
 
 [⬅️ 返回主目錄](../../../../README.md)
 
-| 預覽 (點擊放大) | 檔案資訊 |
+| 預覽 | 資訊 |
 | :--- | :--- |
-| <a href="icon-abc.svg"><img src="icon-abc.svg" width="250"></a> | **icon-abc.svg**<br>Vector (SVG) | 190.51KB |
-| <a href="icon-academic-book.svg"><img src="icon-academic-book.svg" width="250"></a> | **icon-academic-book.svg**<br>Vector (SVG) | 298.33KB |
-| <a href="icon-accessibility.svg"><img src="icon-accessibility.svg" width="250"></a> | **icon-accessibility.svg**<br>Vector (SVG) | 201.80KB |
-| <a href="icon-activity.svg"><img src="icon-activity.svg" width="250"></a> | **icon-activity.svg**<br>Vector (SVG) | 190.04KB |
-| <a href="icon-add-to-playlist.svg"><img src="icon-add-to-playlist.svg" width="250"></a> | **icon-add-to-playlist.svg**<br>Vector (SVG) | 198.83KB |
-| <a href="icon-add.svg"><img src="icon-add.svg" width="250"></a> | **icon-add.svg**<br>Vector (SVG) | 187.15KB |
-| <a href="icon-alarm-clock-2.svg"><img src="icon-alarm-clock-2.svg" width="250"></a> | **icon-alarm-clock-2.svg**<br>Vector (SVG) | 197.85KB |
-| <a href="icon-alarm-clock.svg"><img src="icon-alarm-clock.svg" width="250"></a> | **icon-alarm-clock.svg**<br>Vector (SVG) | 196.06KB |
-| <a href="icon-alert-with-circle.svg"><img src="icon-alert-with-circle.svg" width="250"></a> | **icon-alert-with-circle.svg**<br>Vector (SVG) | 198.95KB |
-| <a href="icon-algolia.svg"><img src="icon-algolia.svg" width="250"></a> | **icon-algolia.svg**<br>Vector (SVG) | 194.64KB |
-| <a href="icon-analogue-watch.svg"><img src="icon-analogue-watch.svg" width="250"></a> | **icon-analogue-watch.svg**<br>Vector (SVG) | 204.64KB |
-| <a href="icon-apple-watch.svg"><img src="icon-apple-watch.svg" width="250"></a> | **icon-apple-watch.svg**<br>Vector (SVG) | 197.94KB |
-| <a href="icon-archive.svg"><img src="icon-archive.svg" width="250"></a> | **icon-archive.svg**<br>Vector (SVG) | 191.95KB |
-| <a href="icon-arrow-bend-left-down.svg"><img src="icon-arrow-bend-left-down.svg" width="250"></a> | **icon-arrow-bend-left-down.svg**<br>Vector (SVG) | 204.36KB |
-| <a href="icon-arrow-bend-left-up.svg"><img src="icon-arrow-bend-left-up.svg" width="250"></a> | **icon-arrow-bend-left-up.svg**<br>Vector (SVG) | 202.00KB |
-| <a href="icon-arrow-bend-right-down.svg"><img src="icon-arrow-bend-right-down.svg" width="250"></a> | **icon-arrow-bend-right-down.svg**<br>Vector (SVG) | 209.12KB |
-| <a href="icon-arrow-bend-right-up.svg"><img src="icon-arrow-bend-right-up.svg" width="250"></a> | **icon-arrow-bend-right-up.svg**<br>Vector (SVG) | 206.64KB |
-| <a href="icon-arrow-bottom-right.svg"><img src="icon-arrow-bottom-right.svg" width="250"></a> | **icon-arrow-bottom-right.svg**<br>Vector (SVG) | 206.69KB |
-| <a href="icon-arrow-circle-backward-five.svg"><img src="icon-arrow-circle-backward-five.svg" width="250"></a> | **icon-arrow-circle-backward-five.svg**<br>Vector (SVG) | 212.49KB |
-| <a href="icon-arrow-circle-backward-fiveteen.svg"><img src="icon-arrow-circle-backward-fiveteen.svg" width="250"></a> | **icon-arrow-circle-backward-fiveteen.svg**<br>Vector (SVG) | 218.72KB |
-| <a href="icon-arrow-circle-backward-ten.svg"><img src="icon-arrow-circle-backward-ten.svg" width="250"></a> | **icon-arrow-circle-backward-ten.svg**<br>Vector (SVG) | 212.42KB |
-| <a href="icon-arrow-circle-backward-twenty.svg"><img src="icon-arrow-circle-backward-twenty.svg" width="250"></a> | **icon-arrow-circle-backward-twenty.svg**<br>Vector (SVG) | 214.37KB |
-| <a href="icon-arrow-circle-backward.svg"><img src="icon-arrow-circle-backward.svg" width="250"></a> | **icon-arrow-circle-backward.svg**<br>Vector (SVG) | 208.57KB |
-| <a href="icon-arrow-circle-bckwards-thirty-1.svg"><img src="icon-arrow-circle-bckwards-thirty-1.svg" width="250"></a> | **icon-arrow-circle-bckwards-thirty-1.svg**<br>Vector (SVG) | 213.97KB |
-| <a href="icon-arrow-circle-bckwards-thirty.svg"><img src="icon-arrow-circle-bckwards-thirty.svg" width="250"></a> | **icon-arrow-circle-bckwards-thirty.svg**<br>Vector (SVG) | 213.97KB |
-| <a href="icon-arrow-circle-forward-five.svg"><img src="icon-arrow-circle-forward-five.svg" width="250"></a> | **icon-arrow-circle-forward-five.svg**<br>Vector (SVG) | 208.71KB |
-| <a href="icon-arrow-circle-forward-fiveteen.svg"><img src="icon-arrow-circle-forward-fiveteen.svg" width="250"></a> | **icon-arrow-circle-forward-fiveteen.svg**<br>Vector (SVG) | 214.83KB |
-| <a href="icon-arrow-circle-forward-ten.svg"><img src="icon-arrow-circle-forward-ten.svg" width="250"></a> | **icon-arrow-circle-forward-ten.svg**<br>Vector (SVG) | 208.63KB |
-| <a href="icon-arrow-circle-forward-thirty.svg"><img src="icon-arrow-circle-forward-thirty.svg" width="250"></a> | **icon-arrow-circle-forward-thirty.svg**<br>Vector (SVG) | 209.68KB |
-| <a href="icon-arrow-circle-forward-twenty.svg"><img src="icon-arrow-circle-forward-twenty.svg" width="250"></a> | **icon-arrow-circle-forward-twenty.svg**<br>Vector (SVG) | 210.72KB |
-| <a href="icon-arrow-circle-forward.svg"><img src="icon-arrow-circle-forward.svg" width="250"></a> | **icon-arrow-circle-forward.svg**<br>Vector (SVG) | 204.74KB |
-| <a href="icon-arrow-down-left.svg"><img src="icon-arrow-down-left.svg" width="250"></a> | **icon-arrow-down-left.svg**<br>Vector (SVG) | 196.84KB |
-| <a href="icon-arrow-down.svg"><img src="icon-arrow-down.svg" width="250"></a> | **icon-arrow-down.svg**<br>Vector (SVG) | 193.49KB |
-| <a href="icon-arrow-left.svg"><img src="icon-arrow-left.svg" width="250"></a> | **icon-arrow-left.svg**<br>Vector (SVG) | 191.58KB |
-| <a href="icon-arrow-right.svg"><img src="icon-arrow-right.svg" width="250"></a> | **icon-arrow-right.svg**<br>Vector (SVG) | 196.27KB |
-| <a href="icon-arrow-switch.svg"><img src="icon-arrow-switch.svg" width="250"></a> | **icon-arrow-switch.svg**<br>Vector (SVG) | 196.11KB |
-| <a href="icon-arrow-thick-down.svg"><img src="icon-arrow-thick-down.svg" width="250"></a> | **icon-arrow-thick-down.svg**<br>Vector (SVG) | 198.43KB |
-| <a href="icon-arrow-thick-left.svg"><img src="icon-arrow-thick-left.svg" width="250"></a> | **icon-arrow-thick-left.svg**<br>Vector (SVG) | 196.55KB |
-| <a href="icon-arrow-thick-right.svg"><img src="icon-arrow-thick-right.svg" width="250"></a> | **icon-arrow-thick-right.svg**<br>Vector (SVG) | 201.20KB |
-| <a href="icon-arrow-thick-up.svg"><img src="icon-arrow-thick-up.svg" width="250"></a> | **icon-arrow-thick-up.svg**<br>Vector (SVG) | 196.05KB |
-| <a href="icon-arrow-up-left.svg"><img src="icon-arrow-up-left.svg" width="250"></a> | **icon-arrow-up-left.svg**<br>Vector (SVG) | 194.64KB |
-| <a href="icon-arrow-up-right.svg"><img src="icon-arrow-up-right.svg" width="250"></a> | **icon-arrow-up-right.svg**<br>Vector (SVG) | 199.30KB |
-| <a href="icon-arrow-up.svg"><img src="icon-arrow-up.svg" width="250"></a> | **icon-arrow-up.svg**<br>Vector (SVG) | 191.09KB |
-| <a href="icon-bank.svg"><img src="icon-bank.svg" width="250"></a> | **icon-bank.svg**<br>Vector (SVG) | 190.05KB |
-| <a href="icon-basketball.svg"><img src="icon-basketball.svg" width="250"></a> | **icon-basketball.svg**<br>Vector (SVG) | 199.23KB |
-| <a href="icon-battery-horizontal-charging.svg"><img src="icon-battery-horizontal-charging.svg" width="250"></a> | **icon-battery-horizontal-charging.svg**<br>Vector (SVG) | 221.34KB |
-| <a href="icon-battery-horizontal-empty.svg"><img src="icon-battery-horizontal-empty.svg" width="250"></a> | **icon-battery-horizontal-empty.svg**<br>Vector (SVG) | 209.49KB |
-| <a href="icon-battery-horizontal-full-horizontal.svg"><img src="icon-battery-horizontal-full-horizontal.svg" width="250"></a> | **icon-battery-horizontal-full-horizontal.svg**<br>Vector (SVG) | 217.57KB |
-| <a href="icon-battery-horizontal-low.svg"><img src="icon-battery-horizontal-low.svg" width="250"></a> | **icon-battery-horizontal-low.svg**<br>Vector (SVG) | 207.60KB |
-| <a href="icon-battery-horizontal-medium.svg"><img src="icon-battery-horizontal-medium.svg" width="250"></a> | **icon-battery-horizontal-medium.svg**<br>Vector (SVG) | 212.78KB |
-| <a href="icon-battery-vertical-charging.svg"><img src="icon-battery-vertical-charging.svg" width="250"></a> | **icon-battery-vertical-charging.svg**<br>Vector (SVG) | 219.53KB |
-| <a href="icon-battery-vertical-empty.svg"><img src="icon-battery-vertical-empty.svg" width="250"></a> | **icon-battery-vertical-empty.svg**<br>Vector (SVG) | 208.05KB |
-| <a href="icon-battery-vertical-full.svg"><img src="icon-battery-vertical-full.svg" width="250"></a> | **icon-battery-vertical-full.svg**<br>Vector (SVG) | 205.27KB |
-| <a href="icon-battery-vertical-medium.svg"><img src="icon-battery-vertical-medium.svg" width="250"></a> | **icon-battery-vertical-medium.svg**<br>Vector (SVG) | 211.36KB |
-| <a href="icon-beaker.svg"><img src="icon-beaker.svg" width="250"></a> | **icon-beaker.svg**<br>Vector (SVG) | 194.17KB |
-| <a href="icon-bell.svg"><img src="icon-bell.svg" width="250"></a> | **icon-bell.svg**<br>Vector (SVG) | 189.26KB |
-| <a href="icon-bold.svg"><img src="icon-bold.svg" width="250"></a> | **icon-bold.svg**<br>Vector (SVG) | 194.34KB |
-| <a href="icon-bool-exclude.svg"><img src="icon-bool-exclude.svg" width="250"></a> | **icon-bool-exclude.svg**<br>Vector (SVG) | 203.76KB |
-| <a href="icon-bool-intersect.svg"><img src="icon-bool-intersect.svg" width="250"></a> | **icon-bool-intersect.svg**<br>Vector (SVG) | 205.15KB |
-| <a href="icon-bool-subtract.svg"><img src="icon-bool-subtract.svg" width="250"></a> | **icon-bool-subtract.svg**<br>Vector (SVG) | 205.30KB |
-| <a href="icon-bool-union.svg"><img src="icon-bool-union.svg" width="250"></a> | **icon-bool-union.svg**<br>Vector (SVG) | 201.05KB |
-| <a href="icon-border-all.svg"><img src="icon-border-all.svg" width="250"></a> | **icon-border-all.svg**<br>Vector (SVG) | 194.47KB |
-| <a href="icon-border-bottom.svg"><img src="icon-border-bottom.svg" width="250"></a> | **icon-border-bottom.svg**<br>Vector (SVG) | 203.37KB |
-| <a href="icon-border-horizontal.svg"><img src="icon-border-horizontal.svg" width="250"></a> | **icon-border-horizontal.svg**<br>Vector (SVG) | 204.16KB |
-| <a href="icon-border-left.svg"><img src="icon-border-left.svg" width="250"></a> | **icon-border-left.svg**<br>Vector (SVG) | 196.57KB |
-| <a href="icon-border-right.svg"><img src="icon-border-right.svg" width="250"></a> | **icon-border-right.svg**<br>Vector (SVG) | 201.34KB |
-| <a href="icon-border-top.svg"><img src="icon-border-top.svg" width="250"></a> | **icon-border-top.svg**<br>Vector (SVG) | 197.38KB |
-| <a href="icon-border-vertical.svg"><img src="icon-border-vertical.svg" width="250"></a> | **icon-border-vertical.svg**<br>Vector (SVG) | 202.40KB |
-| <a href="icon-brightness-down.svg"><img src="icon-brightness-down.svg" width="250"></a> | **icon-brightness-down.svg**<br>Vector (SVG) | 209.12KB |
-| <a href="icon-brightness-up.svg"><img src="icon-brightness-up.svg" width="250"></a> | **icon-brightness-up.svg**<br>Vector (SVG) | 205.39KB |
-| <a href="icon-bullet-list.svg"><img src="icon-bullet-list.svg" width="250"></a> | **icon-bullet-list.svg**<br>Vector (SVG) | 195.73KB |
-| <a href="icon-burger-menu.svg"><img src="icon-burger-menu.svg" width="250"></a> | **icon-burger-menu.svg**<br>Vector (SVG) | 200.02KB |
-| <a href="icon-calculator.svg"><img src="icon-calculator.svg" width="250"></a> | **icon-calculator.svg**<br>Vector (SVG) | 199.50KB |
-| <a href="icon-calendar-2-booking.svg"><img src="icon-calendar-2-booking.svg" width="250"></a> | **icon-calendar-2-booking.svg**<br>Vector (SVG) | 212.61KB |
-| <a href="icon-calendar-2.svg"><img src="icon-calendar-2.svg" width="250"></a> | **icon-calendar-2.svg**<br>Vector (SVG) | 249.37KB |
-| <a href="icon-calendar-booking.svg"><img src="icon-calendar-booking.svg" width="250"></a> | **icon-calendar-booking.svg**<br>Vector (SVG) | 209.94KB |
-| <a href="icon-calendar.svg"><img src="icon-calendar.svg" width="250"></a> | **icon-calendar.svg**<br>Vector (SVG) | 245.92KB |
-| <a href="icon-camera.svg"><img src="icon-camera.svg" width="250"></a> | **icon-camera.svg**<br>Vector (SVG) | 195.87KB |
-| <a href="icon-capitalise-text.svg"><img src="icon-capitalise-text.svg" width="250"></a> | **icon-capitalise-text.svg**<br>Vector (SVG) | 203.19KB |
-| <a href="icon-car.svg"><img src="icon-car.svg" width="250"></a> | **icon-car.svg**<br>Vector (SVG) | 189.47KB |
-| <a href="icon-categories.svg"><img src="icon-categories.svg" width="250"></a> | **icon-categories.svg**<br>Vector (SVG) | 203.59KB |
-| <a href="icon-chart-bar.svg"><img src="icon-chart-bar.svg" width="250"></a> | **icon-chart-bar.svg**<br>Vector (SVG) | 195.52KB |
-| <a href="icon-chart-pie.svg"><img src="icon-chart-pie.svg" width="250"></a> | **icon-chart-pie.svg**<br>Vector (SVG) | 196.13KB |
-| <a href="icon-check-with-circle.svg"><img src="icon-check-with-circle.svg" width="250"></a> | **icon-check-with-circle.svg**<br>Vector (SVG) | 202.32KB |
-| <a href="icon-check.svg"><img src="icon-check.svg" width="250"></a> | **icon-check.svg**<br>Vector (SVG) | 190.99KB |
-| <a href="icon-chevron-double-down.svg"><img src="icon-chevron-double-down.svg" width="250"></a> | **icon-chevron-double-down.svg**<br>Vector (SVG) | 207.59KB |
-| <a href="icon-chevron-double-left.svg"><img src="icon-chevron-double-left.svg" width="250"></a> | **icon-chevron-double-left.svg**<br>Vector (SVG) | 205.70KB |
-| <a href="icon-chevron-double-right.svg"><img src="icon-chevron-double-right.svg" width="250"></a> | **icon-chevron-double-right.svg**<br>Vector (SVG) | 210.43KB |
-| <a href="icon-chevron-double-up.svg"><img src="icon-chevron-double-up.svg" width="250"></a> | **icon-chevron-double-up.svg**<br>Vector (SVG) | 205.21KB |
-| <a href="icon-chevron-down.svg"><img src="icon-chevron-down.svg" width="250"></a> | **icon-chevron-down.svg**<br>Vector (SVG) | 198.81KB |
-| <a href="icon-chevron-left.svg"><img src="icon-chevron-left.svg" width="250"></a> | **icon-chevron-left.svg**<br>Vector (SVG) | 196.95KB |
-| <a href="icon-chevron-right.svg"><img src="icon-chevron-right.svg" width="250"></a> | **icon-chevron-right.svg**<br>Vector (SVG) | 201.59KB |
-| <a href="icon-chevron-up.svg"><img src="icon-chevron-up.svg" width="250"></a> | **icon-chevron-up.svg**<br>Vector (SVG) | 196.21KB |
-| <a href="icon-chip.svg"><img src="icon-chip.svg" width="250"></a> | **icon-chip.svg**<br>Vector (SVG) | 190.09KB |
-| <a href="icon-chromatica.svg"><img src="icon-chromatica.svg" width="250"></a> | **icon-chromatica.svg**<br>Vector (SVG) | 201.87KB |
-| <a href="icon-chromecast.svg"><img src="icon-chromecast.svg" width="250"></a> | **icon-chromecast.svg**<br>Vector (SVG) | 201.81KB |
-| <a href="icon-circle-circle-down.svg"><img src="icon-circle-circle-down.svg" width="250"></a> | **icon-circle-circle-down.svg**<br>Vector (SVG) | 205.17KB |
-| <a href="icon-circle-circle-left.svg"><img src="icon-circle-circle-left.svg" width="250"></a> | **icon-circle-circle-left.svg**<br>Vector (SVG) | 203.31KB |
-| <a href="icon-circle-circle-right.svg"><img src="icon-circle-circle-right.svg" width="250"></a> | **icon-circle-circle-right.svg**<br>Vector (SVG) | 208.05KB |
-| <a href="icon-circle-circle-up.svg"><img src="icon-circle-circle-up.svg" width="250"></a> | **icon-circle-circle-up.svg**<br>Vector (SVG) | 202.62KB |
-| <a href="icon-circle-circle.svg"><img src="icon-circle-circle.svg" width="250"></a> | **icon-circle-circle.svg**<br>Vector (SVG) | 199.59KB |
-| <a href="icon-circle-square.svg"><img src="icon-circle-square.svg" width="250"></a> | **icon-circle-square.svg**<br>Vector (SVG) | 202.55KB |
-| <a href="icon-circle-triangle.svg"><img src="icon-circle-triangle.svg" width="250"></a> | **icon-circle-triangle.svg**<br>Vector (SVG) | 203.55KB |
-| <a href="icon-circle-with-blocks.svg"><img src="icon-circle-with-blocks.svg" width="250"></a> | **icon-circle-with-blocks.svg**<br>Vector (SVG) | 205.52KB |
-| <a href="icon-circle-with-cross.svg"><img src="icon-circle-with-cross.svg" width="250"></a> | **icon-circle-with-cross.svg**<br>Vector (SVG) | 205.37KB |
-| <a href="icon-circle.svg"><img src="icon-circle.svg" width="250"></a> | **icon-circle.svg**<br>Vector (SVG) | 191.29KB |
-| <a href="icon-clarus-the-dogcow.svg"><img src="icon-clarus-the-dogcow.svg" width="250"></a> | **icon-clarus-the-dogcow.svg**<br>Vector (SVG) | 210.35KB |
-| <a href="icon-clipboard-empty.svg"><img src="icon-clipboard-empty.svg" width="250"></a> | **icon-clipboard-empty.svg**<br>Vector (SVG) | 202.70KB |
-| <a href="icon-clipboard-full.svg"><img src="icon-clipboard-full.svg" width="250"></a> | **icon-clipboard-full.svg**<br>Vector (SVG) | 200.03KB |
-| <a href="icon-clock.svg"><img src="icon-clock.svg" width="250"></a> | **icon-clock.svg**<br>Vector (SVG) | 190.21KB |
-| <a href="icon-close-full-screen-arrow-1.svg"><img src="icon-close-full-screen-arrow-1.svg" width="250"></a> | **icon-close-full-screen-arrow-1.svg**<br>Vector (SVG) | 210.59KB |
-| <a href="icon-close-full-screen-arrow.svg"><img src="icon-close-full-screen-arrow.svg" width="250"></a> | **icon-close-full-screen-arrow.svg**<br>Vector (SVG) | 210.62KB |
-| <a href="icon-close.svg"><img src="icon-close.svg" width="250"></a> | **icon-close.svg**<br>Vector (SVG) | 193.00KB |
-| <a href="icon-cloud.svg"><img src="icon-cloud.svg" width="250"></a> | **icon-cloud.svg**<br>Vector (SVG) | 191.21KB |
-| <a href="icon-command.svg"><img src="icon-command.svg" width="250"></a> | **icon-command.svg**<br>Vector (SVG) | 196.92KB |
-| <a href="icon-connections.svg"><img src="icon-connections.svg" width="250"></a> | **icon-connections.svg**<br>Vector (SVG) | 203.34KB |
-| <a href="icon-connectivity.svg"><img src="icon-connectivity.svg" width="250"></a> | **icon-connectivity.svg**<br>Vector (SVG) | 198.48KB |
-| <a href="icon-contrast.svg"><img src="icon-contrast.svg" width="250"></a> | **icon-contrast.svg**<br>Vector (SVG) | 195.73KB |
-| <a href="icon-creative-cloud.svg"><img src="icon-creative-cloud.svg" width="250"></a> | **icon-creative-cloud.svg**<br>Vector (SVG) | 204.74KB |
-| <a href="icon-credit-card.svg"><img src="icon-credit-card.svg" width="250"></a> | **icon-credit-card.svg**<br>Vector (SVG) | 198.56KB |
-| <a href="icon-cross-with-circle.svg"><img src="icon-cross-with-circle.svg" width="250"></a> | **icon-cross-with-circle.svg**<br>Vector (SVG) | 205.37KB |
-| <a href="icon-crown.svg"><img src="icon-crown.svg" width="250"></a> | **icon-crown.svg**<br>Vector (SVG) | 190.18KB |
-| <a href="icon-cursor-default.svg"><img src="icon-cursor-default.svg" width="250"></a> | **icon-cursor-default.svg**<br>Vector (SVG) | 202.15KB |
-| <a href="icon-cursor-pointer.svg"><img src="icon-cursor-pointer.svg" width="250"></a> | **icon-cursor-pointer.svg**<br>Vector (SVG) | 202.77KB |
-| <a href="icon-dashboard-one-is-filled.svg"><img src="icon-dashboard-one-is-filled.svg" width="250"></a> | **icon-dashboard-one-is-filled.svg**<br>Vector (SVG) | 214.33KB |
-| <a href="icon-dashboard.svg"><img src="icon-dashboard.svg" width="250"></a> | **icon-dashboard.svg**<br>Vector (SVG) | 199.75KB |
-| <a href="icon-databse.svg"><img src="icon-databse.svg" width="250"></a> | **icon-databse.svg**<br>Vector (SVG) | 197.47KB |
-| <a href="icon-display-zoom.svg"><img src="icon-display-zoom.svg" width="250"></a> | **icon-display-zoom.svg**<br>Vector (SVG) | 200.70KB |
-| <a href="icon-document-code.svg"><img src="icon-document-code.svg" width="250"></a> | **icon-document-code.svg**<br>Vector (SVG) | 205.55KB |
-| <a href="icon-document-photo.svg"><img src="icon-document-photo.svg" width="250"></a> | **icon-document-photo.svg**<br>Vector (SVG) | 205.04KB |
-| <a href="icon-document-text.svg"><img src="icon-document-text.svg" width="250"></a> | **icon-document-text.svg**<br>Vector (SVG) | 200.32KB |
-| <a href="icon-document-video.svg"><img src="icon-document-video.svg" width="250"></a> | **icon-document-video.svg**<br>Vector (SVG) | 204.45KB |
-| <a href="icon-document.svg"><img src="icon-document.svg" width="250"></a> | **icon-document.svg**<br>Vector (SVG) | 196.51KB |
-| <a href="icon-dot-matrix.svg"><img src="icon-dot-matrix.svg" width="250"></a> | **icon-dot-matrix.svg**<br>Vector (SVG) | 194.06KB |
-| <a href="icon-dot.svg"><img src="icon-dot.svg" width="250"></a> | **icon-dot.svg**<br>Vector (SVG) | 187.68KB |
-| <a href="icon-download.svg"><img src="icon-download.svg" width="250"></a> | **icon-download.svg**<br>Vector (SVG) | 195.44KB |
-| <a href="icon-dpad.svg"><img src="icon-dpad.svg" width="250"></a> | **icon-dpad.svg**<br>Vector (SVG) | 192.71KB |
-| <a href="icon-earth.svg"><img src="icon-earth.svg" width="250"></a> | **icon-earth.svg**<br>Vector (SVG) | 189.18KB |
-| <a href="icon-ellipses-horizontal.svg"><img src="icon-ellipses-horizontal.svg" width="250"></a> | **icon-ellipses-horizontal.svg**<br>Vector (SVG) | 205.87KB |
-| <a href="icon-ellipses-vertical.svg"><img src="icon-ellipses-vertical.svg" width="250"></a> | **icon-ellipses-vertical.svg**<br>Vector (SVG) | 204.25KB |
-| <a href="icon-email.svg"><img src="icon-email.svg" width="250"></a> | **icon-email.svg**<br>Vector (SVG) | 189.74KB |
-| <a href="icon-entertainment.svg"><img src="icon-entertainment.svg" width="250"></a> | **icon-entertainment.svg**<br>Vector (SVG) | 199.40KB |
-| <a href="icon-equal.svg"><img src="icon-equal.svg" width="250"></a> | **icon-equal.svg**<br>Vector (SVG) | 189.00KB |
-| <a href="icon-euro-with-circle.svg"><img src="icon-euro-with-circle.svg" width="250"></a> | **icon-euro-with-circle.svg**<br>Vector (SVG) | 199.48KB |
-| <a href="icon-euro.svg"><img src="icon-euro.svg" width="250"></a> | **icon-euro.svg**<br>Vector (SVG) | 188.05KB |
-| <a href="icon-exclamation-mark.svg"><img src="icon-exclamation-mark.svg" width="250"></a> | **icon-exclamation-mark.svg**<br>Vector (SVG) | 201.05KB |
-| <a href="icon-expand-horizontal.svg"><img src="icon-expand-horizontal.svg" width="250"></a> | **icon-expand-horizontal.svg**<br>Vector (SVG) | 201.51KB |
-| <a href="icon-expand-vertical.svg"><img src="icon-expand-vertical.svg" width="250"></a> | **icon-expand-vertical.svg**<br>Vector (SVG) | 200.08KB |
-| <a href="icon-eye.svg"><img src="icon-eye.svg" width="250"></a> | **icon-eye.svg**<br>Vector (SVG) | 186.65KB |
-| <a href="icon-figma.svg"><img src="icon-figma.svg" width="250"></a> | **icon-figma.svg**<br>Vector (SVG) | 193.35KB |
-| <a href="icon-film.svg"><img src="icon-film.svg" width="250"></a> | **icon-film.svg**<br>Vector (SVG) | 187.15KB |
-| <a href="icon-filters.svg"><img src="icon-filters.svg" width="250"></a> | **icon-filters.svg**<br>Vector (SVG) | 191.24KB |
-| <a href="icon-flag.svg"><img src="icon-flag.svg" width="250"></a> | **icon-flag.svg**<br>Vector (SVG) | 190.76KB |
-| <a href="icon-flame.svg"><img src="icon-flame.svg" width="250"></a> | **icon-flame.svg**<br>Vector (SVG) | 190.54KB |
-| <a href="icon-folder-2.svg"><img src="icon-folder-2.svg" width="250"></a> | **icon-folder-2.svg**<br>Vector (SVG) | 193.07KB |
-| <a href="icon-folder-add.svg"><img src="icon-folder-add.svg" width="250"></a> | **icon-folder-add.svg**<br>Vector (SVG) | 194.85KB |
-| <a href="icon-folder-alert.svg"><img src="icon-folder-alert.svg" width="250"></a> | **icon-folder-alert.svg**<br>Vector (SVG) | 195.81KB |
-| <a href="icon-folder-cross.svg"><img src="icon-folder-cross.svg" width="250"></a> | **icon-folder-cross.svg**<br>Vector (SVG) | 202.08KB |
-| <a href="icon-folder-minus.svg"><img src="icon-folder-minus.svg" width="250"></a> | **icon-folder-minus.svg**<br>Vector (SVG) | 197.77KB |
-| <a href="icon-folder-tick.svg"><img src="icon-folder-tick.svg" width="250"></a> | **icon-folder-tick.svg**<br>Vector (SVG) | 194.82KB |
-| <a href="icon-folder.svg"><img src="icon-folder.svg" width="250"></a> | **icon-folder.svg**<br>Vector (SVG) | 191.22KB |
-| <a href="icon-folders.svg"><img src="icon-folders.svg" width="250"></a> | **icon-folders.svg**<br>Vector (SVG) | 194.74KB |
-| <a href="icon-full-screen-arrow.svg"><img src="icon-full-screen-arrow.svg" width="250"></a> | **icon-full-screen-arrow.svg**<br>Vector (SVG) | 201.10KB |
-| <a href="icon-full-screen.svg"><img src="icon-full-screen.svg" width="250"></a> | **icon-full-screen.svg**<br>Vector (SVG) | 196.82KB |
-| <a href="icon-games.svg"><img src="icon-games.svg" width="250"></a> | **icon-games.svg**<br>Vector (SVG) | 197.42KB |
-| <a href="icon-github.svg"><img src="icon-github.svg" width="250"></a> | **icon-github.svg**<br>Vector (SVG) | 192.25KB |
-| <a href="icon-globe.svg"><img src="icon-globe.svg" width="250"></a> | **icon-globe.svg**<br>Vector (SVG) | 192.82KB |
-| <a href="icon-graph-line-down.svg"><img src="icon-graph-line-down.svg" width="250"></a> | **icon-graph-line-down.svg**<br>Vector (SVG) | 201.38KB |
-| <a href="icon-graph-line-up.svg"><img src="icon-graph-line-up.svg" width="250"></a> | **icon-graph-line-up.svg**<br>Vector (SVG) | 198.98KB |
-| <a href="icon-graphics-and-design.svg"><img src="icon-graphics-and-design.svg" width="250"></a> | **icon-graphics-and-design.svg**<br>Vector (SVG) | 213.72KB |
-| <a href="icon-grid.svg"><img src="icon-grid.svg" width="250"></a> | **icon-grid.svg**<br>Vector (SVG) | 189.57KB |
-| <a href="icon-hammer.svg"><img src="icon-hammer.svg" width="250"></a> | **icon-hammer.svg**<br>Vector (SVG) | 193.37KB |
-| <a href="icon-headphones.svg"><img src="icon-headphones.svg" width="250"></a> | **icon-headphones.svg**<br>Vector (SVG) | 201.26KB |
-| <a href="icon-health-and-fitness.svg"><img src="icon-health-and-fitness.svg" width="250"></a> | **icon-health-and-fitness.svg**<br>Vector (SVG) | 204.21KB |
-| <a href="icon-heartbeat-monitor.svg"><img src="icon-heartbeat-monitor.svg" width="250"></a> | **icon-heartbeat-monitor.svg**<br>Vector (SVG) | 204.75KB |
-| <a href="icon-helm.svg"><img src="icon-helm.svg" width="250"></a> | **icon-helm.svg**<br>Vector (SVG) | 188.30KB |
-| <a href="icon-helmet-with-lights.svg"><img src="icon-helmet-with-lights.svg" width="250"></a> | **icon-helmet-with-lights.svg**<br>Vector (SVG) | 204.20KB |
-| <a href="icon-helmet.svg"><img src="icon-helmet.svg" width="250"></a> | **icon-helmet.svg**<br>Vector (SVG) | 191.06KB |
-| <a href="icon-hoops.svg"><img src="icon-hoops.svg" width="250"></a> | **icon-hoops.svg**<br>Vector (SVG) | 194.22KB |
-| <a href="icon-hot-brew.svg"><img src="icon-hot-brew.svg" width="250"></a> | **icon-hot-brew.svg**<br>Vector (SVG) | 193.82KB |
-| <a href="icon-house.svg"><img src="icon-house.svg" width="250"></a> | **icon-house.svg**<br>Vector (SVG) | 193.35KB |
-| <a href="icon-hug-content-horizontal.svg"><img src="icon-hug-content-horizontal.svg" width="250"></a> | **icon-hug-content-horizontal.svg**<br>Vector (SVG) | 210.26KB |
-| <a href="icon-hug-content-vertical.svg"><img src="icon-hug-content-vertical.svg" width="250"></a> | **icon-hug-content-vertical.svg**<br>Vector (SVG) | 208.63KB |
-| <a href="icon-icon-brew.svg"><img src="icon-icon-brew.svg" width="250"></a> | **icon-icon-brew.svg**<br>Vector (SVG) | 195.55KB |
-| <a href="icon-inbox-tray.svg"><img src="icon-inbox-tray.svg" width="250"></a> | **icon-inbox-tray.svg**<br>Vector (SVG) | 194.26KB |
-| <a href="icon-internet-browser.svg"><img src="icon-internet-browser.svg" width="250"></a> | **icon-internet-browser.svg**<br>Vector (SVG) | 206.46KB |
-| <a href="icon-iphone.svg"><img src="icon-iphone.svg" width="250"></a> | **icon-iphone.svg**<br>Vector (SVG) | 192.77KB |
-| <a href="icon-italic.svg"><img src="icon-italic.svg" width="250"></a> | **icon-italic.svg**<br>Vector (SVG) | 189.69KB |
-| <a href="icon-key.svg"><img src="icon-key.svg" width="250"></a> | **icon-key.svg**<br>Vector (SVG) | 187.02KB |
-| <a href="icon-laptop.svg"><img src="icon-laptop.svg" width="250"></a> | **icon-laptop.svg**<br>Vector (SVG) | 192.01KB |
-| <a href="icon-layout-bottom.svg"><img src="icon-layout-bottom.svg" width="250"></a> | **icon-layout-bottom.svg**<br>Vector (SVG) | 201.03KB |
-| <a href="icon-layout-left.svg"><img src="icon-layout-left.svg" width="250"></a> | **icon-layout-left.svg**<br>Vector (SVG) | 194.27KB |
-| <a href="icon-layout-right.svg"><img src="icon-layout-right.svg" width="250"></a> | **icon-layout-right.svg**<br>Vector (SVG) | 198.98KB |
-| <a href="icon-layout-top.svg"><img src="icon-layout-top.svg" width="250"></a> | **icon-layout-top.svg**<br>Vector (SVG) | 195.04KB |
-| <a href="icon-life-buoy.svg"><img src="icon-life-buoy.svg" width="250"></a> | **icon-life-buoy.svg**<br>Vector (SVG) | 194.09KB |
-| <a href="icon-light-bulb.svg"><img src="icon-light-bulb.svg" width="250"></a> | **icon-light-bulb.svg**<br>Vector (SVG) | 196.63KB |
-| <a href="icon-lightning.svg"><img src="icon-lightning.svg" width="250"></a> | **icon-lightning.svg**<br>Vector (SVG) | 197.81KB |
-| <a href="icon-lights-off.svg"><img src="icon-lights-off.svg" width="250"></a> | **icon-lights-off.svg**<br>Vector (SVG) | 196.86KB |
-| <a href="icon-lights-on.svg"><img src="icon-lights-on.svg" width="250"></a> | **icon-lights-on.svg**<br>Vector (SVG) | 197.19KB |
-| <a href="icon-line-chart-down-arrow.svg"><img src="icon-line-chart-down-arrow.svg" width="250"></a> | **icon-line-chart-down-arrow.svg**<br>Vector (SVG) | 204.45KB |
-| <a href="icon-line-chart-down.svg"><img src="icon-line-chart-down.svg" width="250"></a> | **icon-line-chart-down.svg**<br>Vector (SVG) | 199.69KB |
-| <a href="icon-line-chart-up-arrow.svg"><img src="icon-line-chart-up-arrow.svg" width="250"></a> | **icon-line-chart-up-arrow.svg**<br>Vector (SVG) | 202.08KB |
-| <a href="icon-line-chart-up.svg"><img src="icon-line-chart-up.svg" width="250"></a> | **icon-line-chart-up.svg**<br>Vector (SVG) | 197.37KB |
-| <a href="icon-line-weight.svg"><img src="icon-line-weight.svg" width="250"></a> | **icon-line-weight.svg**<br>Vector (SVG) | 200.17KB |
-| <a href="icon-link.svg"><img src="icon-link.svg" width="250"></a> | **icon-link.svg**<br>Vector (SVG) | 186.24KB |
-| <a href="icon-location.svg"><img src="icon-location.svg" width="250"></a> | **icon-location.svg**<br>Vector (SVG) | 195.71KB |
-| <a href="icon-locked.svg"><img src="icon-locked.svg" width="250"></a> | **icon-locked.svg**<br>Vector (SVG) | 192.62KB |
-| <a href="icon-mac-mini.svg"><img src="icon-mac-mini.svg" width="250"></a> | **icon-mac-mini.svg**<br>Vector (SVG) | 191.65KB |
-| <a href="icon-mac-window.svg"><img src="icon-mac-window.svg" width="250"></a> | **icon-mac-window.svg**<br>Vector (SVG) | 195.94KB |
-| <a href="icon-magic-wand.svg"><img src="icon-magic-wand.svg" width="250"></a> | **icon-magic-wand.svg**<br>Vector (SVG) | 199.19KB |
-| <a href="icon-map-folded.svg"><img src="icon-map-folded.svg" width="250"></a> | **icon-map-folded.svg**<br>Vector (SVG) | 196.41KB |
-| <a href="icon-masonery.svg"><img src="icon-masonery.svg" width="250"></a> | **icon-masonery.svg**<br>Vector (SVG) | 196.46KB |
-| <a href="icon-medical.svg"><img src="icon-medical.svg" width="250"></a> | **icon-medical.svg**<br>Vector (SVG) | 193.95KB |
-| <a href="icon-message-bubble-with-ellipses.svg"><img src="icon-message-bubble-with-ellipses.svg" width="250"></a> | **icon-message-bubble-with-ellipses.svg**<br>Vector (SVG) | 227.09KB |
-| <a href="icon-message-bubble.svg"><img src="icon-message-bubble.svg" width="250"></a> | **icon-message-bubble.svg**<br>Vector (SVG) | 212.12KB |
-| <a href="icon-microphone.svg"><img src="icon-microphone.svg" width="250"></a> | **icon-microphone.svg**<br>Vector (SVG) | 198.24KB |
-| <a href="icon-money-note.svg"><img src="icon-money-note.svg" width="250"></a> | **icon-money-note.svg**<br>Vector (SVG) | 196.30KB |
-| <a href="icon-moon.svg"><img src="icon-moon.svg" width="250"></a> | **icon-moon.svg**<br>Vector (SVG) | 191.28KB |
-| <a href="icon-mouse-rectangular-wired.svg"><img src="icon-mouse-rectangular-wired.svg" width="250"></a> | **icon-mouse-rectangular-wired.svg**<br>Vector (SVG) | 217.31KB |
-| <a href="icon-mouse-rectangular.svg"><img src="icon-mouse-rectangular.svg" width="250"></a> | **icon-mouse-rectangular.svg**<br>Vector (SVG) | 210.89KB |
-| <a href="icon-mouse-rounded-wired.svg"><img src="icon-mouse-rounded-wired.svg" width="250"></a> | **icon-mouse-rounded-wired.svg**<br>Vector (SVG) | 210.52KB |
-| <a href="icon-mouse-rounded.svg"><img src="icon-mouse-rounded.svg" width="250"></a> | **icon-mouse-rounded.svg**<br>Vector (SVG) | 204.06KB |
-| <a href="icon-music-note.svg"><img src="icon-music-note.svg" width="250"></a> | **icon-music-note.svg**<br>Vector (SVG) | 196.78KB |
-| <a href="icon-music.svg"><img src="icon-music.svg" width="250"></a> | **icon-music.svg**<br>Vector (SVG) | 191.40KB |
-| <a href="icon-news.svg"><img src="icon-news.svg" width="250"></a> | **icon-news.svg**<br>Vector (SVG) | 190.44KB |
-| <a href="icon-numbers.svg"><img src="icon-numbers.svg" width="250"></a> | **icon-numbers.svg**<br>Vector (SVG) | 246.51KB |
-| <a href="icon-open-source.svg"><img src="icon-open-source.svg" width="250"></a> | **icon-open-source.svg**<br>Vector (SVG) | 202.05KB |
-| <a href="icon-option.svg"><img src="icon-option.svg" width="250"></a> | **icon-option.svg**<br>Vector (SVG) | 192.43KB |
-| <a href="icon-outbox-tray.svg"><img src="icon-outbox-tray.svg" width="250"></a> | **icon-outbox-tray.svg**<br>Vector (SVG) | 197.12KB |
-| <a href="icon-padding-all.svg"><img src="icon-padding-all.svg" width="250"></a> | **icon-padding-all.svg**<br>Vector (SVG) | 198.09KB |
-| <a href="icon-padding-bottom.svg"><img src="icon-padding-bottom.svg" width="250"></a> | **icon-padding-bottom.svg**<br>Vector (SVG) | 207.13KB |
-| <a href="icon-padding-horizontal.svg"><img src="icon-padding-horizontal.svg" width="250"></a> | **icon-padding-horizontal.svg**<br>Vector (SVG) | 207.83KB |
-| <a href="icon-padding-left.svg"><img src="icon-padding-left.svg" width="250"></a> | **icon-padding-left.svg**<br>Vector (SVG) | 200.27KB |
-| <a href="icon-padding-right.svg"><img src="icon-padding-right.svg" width="250"></a> | **icon-padding-right.svg**<br>Vector (SVG) | 205.02KB |
-| <a href="icon-padding-top.svg"><img src="icon-padding-top.svg" width="250"></a> | **icon-padding-top.svg**<br>Vector (SVG) | 201.04KB |
-| <a href="icon-padding-vertical.svg"><img src="icon-padding-vertical.svg" width="250"></a> | **icon-padding-vertical.svg**<br>Vector (SVG) | 206.17KB |
-| <a href="icon-pause.svg"><img src="icon-pause.svg" width="250"></a> | **icon-pause.svg**<br>Vector (SVG) | 193.30KB |
-| <a href="icon-peace.svg"><img src="icon-peace.svg" width="250"></a> | **icon-peace.svg**<br>Vector (SVG) | 193.37KB |
-| <a href="icon-pencil-tip.svg"><img src="icon-pencil-tip.svg" width="250"></a> | **icon-pencil-tip.svg**<br>Vector (SVG) | 194.26KB |
-| <a href="icon-pencil.svg"><img src="icon-pencil.svg" width="250"></a> | **icon-pencil.svg**<br>Vector (SVG) | 191.77KB |
-| <a href="icon-person.svg"><img src="icon-person.svg" width="250"></a> | **icon-person.svg**<br>Vector (SVG) | 194.06KB |
-| <a href="icon-pharmacy.svg"><img src="icon-pharmacy.svg" width="250"></a> | **icon-pharmacy.svg**<br>Vector (SVG) | 195.81KB |
-| <a href="icon-phone-call-in.svg"><img src="icon-phone-call-in.svg" width="250"></a> | **icon-phone-call-in.svg**<br>Vector (SVG) | 198.18KB |
-| <a href="icon-phone-call-out.svg"><img src="icon-phone-call-out.svg" width="250"></a> | **icon-phone-call-out.svg**<br>Vector (SVG) | 201.03KB |
-| <a href="icon-phone-call-transfer.svg"><img src="icon-phone-call-transfer.svg" width="250"></a> | **icon-phone-call-transfer.svg**<br>Vector (SVG) | 207.21KB |
-| <a href="icon-phone-call.svg"><img src="icon-phone-call.svg" width="250"></a> | **icon-phone-call.svg**<br>Vector (SVG) | 196.71KB |
-| <a href="icon-phone-signal.svg"><img src="icon-phone-signal.svg" width="250"></a> | **icon-phone-signal.svg**<br>Vector (SVG) | 203.14KB |
-| <a href="icon-photo.svg"><img src="icon-photo.svg" width="250"></a> | **icon-photo.svg**<br>Vector (SVG) | 191.79KB |
-| <a href="icon-pin.svg"><img src="icon-pin.svg" width="250"></a> | **icon-pin.svg**<br>Vector (SVG) | 187.47KB |
-| <a href="icon-plane-landing.svg"><img src="icon-plane-landing.svg" width="250"></a> | **icon-plane-landing.svg**<br>Vector (SVG) | 203.05KB |
-| <a href="icon-plane-take-off.svg"><img src="icon-plane-take-off.svg" width="250"></a> | **icon-plane-take-off.svg**<br>Vector (SVG) | 199.67KB |
-| <a href="icon-play.svg"><img src="icon-play.svg" width="250"></a> | **icon-play.svg**<br>Vector (SVG) | 188.36KB |
-| <a href="icon-pocket.svg"><img src="icon-pocket.svg" width="250"></a> | **icon-pocket.svg**<br>Vector (SVG) | 192.89KB |
-| <a href="icon-power.svg"><img src="icon-power.svg" width="250"></a> | **icon-power.svg**<br>Vector (SVG) | 190.94KB |
-| <a href="icon-presentation-graph.svg"><img src="icon-presentation-graph.svg" width="250"></a> | **icon-presentation-graph.svg**<br>Vector (SVG) | 209.63KB |
-| <a href="icon-presentation.svg"><img src="icon-presentation.svg" width="250"></a> | **icon-presentation.svg**<br>Vector (SVG) | 201.68KB |
-| <a href="icon-productivity.svg"><img src="icon-productivity.svg" width="250"></a> | **icon-productivity.svg**<br>Vector (SVG) | 197.28KB |
-| <a href="icon-question-mark-with-circle.svg"><img src="icon-question-mark-with-circle.svg" width="250"></a> | **icon-question-mark-with-circle.svg**<br>Vector (SVG) | 212.76KB |
-| <a href="icon-radio-pole.svg"><img src="icon-radio-pole.svg" width="250"></a> | **icon-radio-pole.svg**<br>Vector (SVG) | 198.84KB |
-| <a href="icon-radio.svg"><img src="icon-radio.svg" width="250"></a> | **icon-radio.svg**<br>Vector (SVG) | 192.55KB |
-| <a href="icon-receipt.svg"><img src="icon-receipt.svg" width="250"></a> | **icon-receipt.svg**<br>Vector (SVG) | 195.37KB |
-| <a href="icon-rectangle-contract.svg"><img src="icon-rectangle-contract.svg" width="250"></a> | **icon-rectangle-contract.svg**<br>Vector (SVG) | 211.27KB |
-| <a href="icon-rectangle-expand.svg"><img src="icon-rectangle-expand.svg" width="250"></a> | **icon-rectangle-expand.svg**<br>Vector (SVG) | 207.00KB |
-| <a href="icon-rectangle-left-filled-rounded.svg"><img src="icon-rectangle-left-filled-rounded.svg" width="250"></a> | **icon-rectangle-left-filled-rounded.svg**<br>Vector (SVG) | 220.58KB |
-| <a href="icon-rectangle-left-filled.svg"><img src="icon-rectangle-left-filled.svg" width="250"></a> | **icon-rectangle-left-filled.svg**<br>Vector (SVG) | 208.86KB |
-| <a href="icon-rectangle-on-rectangle-horizontal.svg"><img src="icon-rectangle-on-rectangle-horizontal.svg" width="250"></a> | **icon-rectangle-on-rectangle-horizontal.svg**<br>Vector (SVG) | 230.63KB |
-| <a href="icon-rectangle-on-rectangle-vertical.svg"><img src="icon-rectangle-on-rectangle-vertical.svg" width="250"></a> | **icon-rectangle-on-rectangle-vertical.svg**<br>Vector (SVG) | 228.77KB |
-| <a href="icon-rectangle-right-filled-rounded.svg"><img src="icon-rectangle-right-filled-rounded.svg" width="250"></a> | **icon-rectangle-right-filled-rounded.svg**<br>Vector (SVG) | 225.32KB |
-| <a href="icon-rectangle-right-filled.svg"><img src="icon-rectangle-right-filled.svg" width="250"></a> | **icon-rectangle-right-filled.svg**<br>Vector (SVG) | 213.77KB |
-| <a href="icon-rectangle-small-with-blocks.svg"><img src="icon-rectangle-small-with-blocks.svg" width="250"></a> | **icon-rectangle-small-with-blocks.svg**<br>Vector (SVG) | 221.18KB |
-| <a href="icon-rectangle-with-blocks.svg"><img src="icon-rectangle-with-blocks.svg" width="250"></a> | **icon-rectangle-with-blocks.svg**<br>Vector (SVG) | 213.26KB |
-| <a href="icon-rectangle.svg"><img src="icon-rectangle.svg" width="250"></a> | **icon-rectangle.svg**<br>Vector (SVG) | 199.99KB |
-| <a href="icon-recycle-triangle.svg"><img src="icon-recycle-triangle.svg" width="250"></a> | **icon-recycle-triangle.svg**<br>Vector (SVG) | 206.63KB |
-| <a href="icon-return-down.svg"><img src="icon-return-down.svg" width="250"></a> | **icon-return-down.svg**<br>Vector (SVG) | 196.28KB |
-| <a href="icon-return-left.svg"><img src="icon-return-left.svg" width="250"></a> | **icon-return-left.svg**<br>Vector (SVG) | 194.27KB |
-| <a href="icon-return-right.svg"><img src="icon-return-right.svg" width="250"></a> | **icon-return-right.svg**<br>Vector (SVG) | 199.10KB |
-| <a href="icon-return-up.svg"><img src="icon-return-up.svg" width="250"></a> | **icon-return-up.svg**<br>Vector (SVG) | 193.98KB |
-| <a href="icon-retweet.svg"><img src="icon-retweet.svg" width="250"></a> | **icon-retweet.svg**<br>Vector (SVG) | 193.58KB |
-| <a href="icon-ribbon-add.svg"><img src="icon-ribbon-add.svg" width="250"></a> | **icon-ribbon-add.svg**<br>Vector (SVG) | 196.31KB |
-| <a href="icon-ribbon.svg"><img src="icon-ribbon.svg" width="250"></a> | **icon-ribbon.svg**<br>Vector (SVG) | 192.62KB |
-| <a href="icon-rocket.svg"><img src="icon-rocket.svg" width="250"></a> | **icon-rocket.svg**<br>Vector (SVG) | 193.31KB |
-| <a href="icon-rudder-wheel.svg"><img src="icon-rudder-wheel.svg" width="250"></a> | **icon-rudder-wheel.svg**<br>Vector (SVG) | 198.60KB |
-| <a href="icon-ruler.svg"><img src="icon-ruler.svg" width="250"></a> | **icon-ruler.svg**<br>Vector (SVG) | 189.95KB |
-| <a href="icon-scale-circle.svg"><img src="icon-scale-circle.svg" width="250"></a> | **icon-scale-circle.svg**<br>Vector (SVG) | 201.47KB |
-| <a href="icon-scale.svg"><img src="icon-scale.svg" width="250"></a> | **icon-scale.svg**<br>Vector (SVG) | 193.03KB |
-| <a href="icon-search.svg"><img src="icon-search.svg" width="250"></a> | **icon-search.svg**<br>Vector (SVG) | 194.30KB |
-| <a href="icon-share-arrow.svg"><img src="icon-share-arrow.svg" width="250"></a> | **icon-share-arrow.svg**<br>Vector (SVG) | 196.95KB |
-| <a href="icon-share-cirlce.svg"><img src="icon-share-cirlce.svg" width="250"></a> | **icon-share-cirlce.svg**<br>Vector (SVG) | 200.32KB |
-| <a href="icon-share.svg"><img src="icon-share.svg" width="250"></a> | **icon-share.svg**<br>Vector (SVG) | 192.87KB |
-| <a href="icon-sharing.svg"><img src="icon-sharing.svg" width="250"></a> | **icon-sharing.svg**<br>Vector (SVG) | 197.33KB |
-| <a href="icon-shield.svg"><img src="icon-shield.svg" width="250"></a> | **icon-shield.svg**<br>Vector (SVG) | 192.84KB |
-| <a href="icon-shopping-basket.svg"><img src="icon-shopping-basket.svg" width="250"></a> | **icon-shopping-basket.svg**<br>Vector (SVG) | 210.42KB |
-| <a href="icon-shopping-cart-empty.svg"><img src="icon-shopping-cart-empty.svg" width="250"></a> | **icon-shopping-cart-empty.svg**<br>Vector (SVG) | 210.60KB |
-| <a href="icon-shopping-cart-full.svg"><img src="icon-shopping-cart-full.svg" width="250"></a> | **icon-shopping-cart-full.svg**<br>Vector (SVG) | 208.16KB |
-| <a href="icon-side-bar-left.svg"><img src="icon-side-bar-left.svg" width="250"></a> | **icon-side-bar-left.svg**<br>Vector (SVG) | 200.43KB |
-| <a href="icon-side-bar-right.svg"><img src="icon-side-bar-right.svg" width="250"></a> | **icon-side-bar-right.svg**<br>Vector (SVG) | 205.15KB |
-| <a href="icon-soda-can.svg"><img src="icon-soda-can.svg" width="250"></a> | **icon-soda-can.svg**<br>Vector (SVG) | 199.28KB |
-| <a href="icon-spacing-horizontal.svg"><img src="icon-spacing-horizontal.svg" width="250"></a> | **icon-spacing-horizontal.svg**<br>Vector (SVG) | 209.31KB |
-| <a href="icon-spacing-vertical.svg"><img src="icon-spacing-vertical.svg" width="250"></a> | **icon-spacing-vertical.svg**<br>Vector (SVG) | 207.61KB |
-| <a href="icon-sparks.svg"><img src="icon-sparks.svg" width="250"></a> | **icon-sparks.svg**<br>Vector (SVG) | 195.00KB |
-| <a href="icon-splash.svg"><img src="icon-splash.svg" width="250"></a> | **icon-splash.svg**<br>Vector (SVG) | 194.72KB |
-| <a href="icon-sports.svg"><img src="icon-sports.svg" width="250"></a> | **icon-sports.svg**<br>Vector (SVG) | 195.18KB |
-| <a href="icon-spotify.svg"><img src="icon-spotify.svg" width="250"></a> | **icon-spotify.svg**<br>Vector (SVG) | 193.34KB |
-| <a href="icon-sprout.svg"><img src="icon-sprout.svg" width="250"></a> | **icon-sprout.svg**<br>Vector (SVG) | 193.32KB |
-| <a href="icon-square-and-pencil.svg"><img src="icon-square-and-pencil.svg" width="250"></a> | **icon-square-and-pencil.svg**<br>Vector (SVG) | 205.81KB |
-| <a href="icon-square.svg"><img src="icon-square.svg" width="250"></a> | **icon-square.svg**<br>Vector (SVG) | 194.50KB |
-| <a href="icon-stack-horizontal.svg"><img src="icon-stack-horizontal.svg" width="250"></a> | **icon-stack-horizontal.svg**<br>Vector (SVG) | 203.39KB |
-| <a href="icon-stack-vertical.svg"><img src="icon-stack-vertical.svg" width="250"></a> | **icon-stack-vertical.svg**<br>Vector (SVG) | 201.61KB |
-| <a href="icon-star.svg"><img src="icon-star.svg" width="250"></a> | **icon-star.svg**<br>Vector (SVG) | 190.67KB |
-| <a href="icon-statement.svg"><img src="icon-statement.svg" width="250"></a> | **icon-statement.svg**<br>Vector (SVG) | 197.98KB |
-| <a href="icon-stop.svg"><img src="icon-stop.svg" width="250"></a> | **icon-stop.svg**<br>Vector (SVG) | 191.10KB |
-| <a href="icon-store.svg"><img src="icon-store.svg" width="250"></a> | **icon-store.svg**<br>Vector (SVG) | 193.55KB |
-| <a href="icon-strikethrough.svg"><img src="icon-strikethrough.svg" width="250"></a> | **icon-strikethrough.svg**<br>Vector (SVG) | 203.04KB |
-| <a href="icon-stroke-width.svg"><img src="icon-stroke-width.svg" width="250"></a> | **icon-stroke-width.svg**<br>Vector (SVG) | 197.47KB |
-| <a href="icon-tab-bottom.svg"><img src="icon-tab-bottom.svg" width="250"></a> | **icon-tab-bottom.svg**<br>Vector (SVG) | 198.14KB |
-| <a href="icon-tab-left-compact.svg"><img src="icon-tab-left-compact.svg" width="250"></a> | **icon-tab-left-compact.svg**<br>Vector (SVG) | 203.89KB |
-| <a href="icon-tab-left.svg"><img src="icon-tab-left.svg" width="250"></a> | **icon-tab-left.svg**<br>Vector (SVG) | 191.54KB |
-| <a href="icon-tab-right-compact.svg"><img src="icon-tab-right-compact.svg" width="250"></a> | **icon-tab-right-compact.svg**<br>Vector (SVG) | 208.59KB |
-| <a href="icon-tab-right.svg"><img src="icon-tab-right.svg" width="250"></a> | **icon-tab-right.svg**<br>Vector (SVG) | 196.24KB |
-| <a href="icon-tabcells-add.svg"><img src="icon-tabcells-add.svg" width="250"></a> | **icon-tabcells-add.svg**<br>Vector (SVG) | 199.64KB |
-| <a href="icon-tabcells.svg"><img src="icon-tabcells.svg" width="250"></a> | **icon-tabcells.svg**<br>Vector (SVG) | 195.94KB |
-| <a href="icon-tag.svg"><img src="icon-tag.svg" width="250"></a> | **icon-tag.svg**<br>Vector (SVG) | 191.60KB |
-| <a href="icon-tags.svg"><img src="icon-tags.svg" width="250"></a> | **icon-tags.svg**<br>Vector (SVG) | 194.42KB |
-| <a href="icon-take-away.svg"><img src="icon-take-away.svg" width="250"></a> | **icon-take-away.svg**<br>Vector (SVG) | 193.16KB |
-| <a href="icon-target.svg"><img src="icon-target.svg" width="250"></a> | **icon-target.svg**<br>Vector (SVG) | 194.39KB |
-| <a href="icon-taylor-swift.svg"><img src="icon-taylor-swift.svg" width="250"></a> | **icon-taylor-swift.svg**<br>Vector (SVG) | 197.47KB |
-| <a href="icon-text-align-center.svg"><img src="icon-text-align-center.svg" width="250"></a> | **icon-text-align-center.svg**<br>Vector (SVG) | 203.16KB |
-| <a href="icon-text-align-justified.svg"><img src="icon-text-align-justified.svg" width="250"></a> | **icon-text-align-justified.svg**<br>Vector (SVG) | 206.18KB |
-| <a href="icon-text-align-left.svg"><img src="icon-text-align-left.svg" width="250"></a> | **icon-text-align-left.svg**<br>Vector (SVG) | 197.79KB |
-| <a href="icon-text-align-right.svg"><img src="icon-text-align-right.svg" width="250"></a> | **icon-text-align-right.svg**<br>Vector (SVG) | 202.53KB |
-| <a href="icon-text.svg"><img src="icon-text.svg" width="250"></a> | **icon-text.svg**<br>Vector (SVG) | 187.49KB |
-| <a href="icon-tornado.svg"><img src="icon-tornado.svg" width="250"></a> | **icon-tornado.svg**<br>Vector (SVG) | 194.44KB |
-| <a href="icon-trash-with-lines.svg"><img src="icon-trash-with-lines.svg" width="250"></a> | **icon-trash-with-lines.svg**<br>Vector (SVG) | 202.29KB |
-| <a href="icon-trash.svg"><img src="icon-trash.svg" width="250"></a> | **icon-trash.svg**<br>Vector (SVG) | 191.55KB |
-| <a href="icon-tray-and-arrow-down.svg"><img src="icon-tray-and-arrow-down.svg" width="250"></a> | **icon-tray-and-arrow-down.svg**<br>Vector (SVG) | 201.00KB |
-| <a href="icon-tray-and-arrow-left.svg"><img src="icon-tray-and-arrow-left.svg" width="250"></a> | **icon-tray-and-arrow-left.svg**<br>Vector (SVG) | 199.36KB |
-| <a href="icon-tray-and-arrow-right.svg"><img src="icon-tray-and-arrow-right.svg" width="250"></a> | **icon-tray-and-arrow-right.svg**<br>Vector (SVG) | 204.05KB |
-| <a href="icon-tray-and-arrow-up.svg"><img src="icon-tray-and-arrow-up.svg" width="250"></a> | **icon-tray-and-arrow-up.svg**<br>Vector (SVG) | 198.59KB |
-| <a href="icon-tray-full.svg"><img src="icon-tray-full.svg" width="250"></a> | **icon-tray-full.svg**<br>Vector (SVG) | 190.89KB |
-| <a href="icon-tray-stacked.svg"><img src="icon-tray-stacked.svg" width="250"></a> | **icon-tray-stacked.svg**<br>Vector (SVG) | 200.65KB |
-| <a href="icon-tray.svg"><img src="icon-tray.svg" width="250"></a> | **icon-tray.svg**<br>Vector (SVG) | 188.65KB |
-| <a href="icon-tree-map-down.svg"><img src="icon-tree-map-down.svg" width="250"></a> | **icon-tree-map-down.svg**<br>Vector (SVG) | 199.75KB |
-| <a href="icon-tree-map-left.svg"><img src="icon-tree-map-left.svg" width="250"></a> | **icon-tree-map-left.svg**<br>Vector (SVG) | 198.03KB |
-| <a href="icon-tree-map-right.svg"><img src="icon-tree-map-right.svg" width="250"></a> | **icon-tree-map-right.svg**<br>Vector (SVG) | 202.69KB |
-| <a href="icon-tree-map-up.svg"><img src="icon-tree-map-up.svg" width="250"></a> | **icon-tree-map-up.svg**<br>Vector (SVG) | 197.53KB |
-| <a href="icon-triangle-down-filled.svg"><img src="icon-triangle-down-filled.svg" width="250"></a> | **icon-triangle-down-filled.svg**<br>Vector (SVG) | 206.67KB |
-| <a href="icon-triangle-down-outline.svg"><img src="icon-triangle-down-outline.svg" width="250"></a> | **icon-triangle-down-outline.svg**<br>Vector (SVG) | 209.66KB |
-| <a href="icon-triangle-equilateral.svg"><img src="icon-triangle-equilateral.svg" width="250"></a> | **icon-triangle-equilateral.svg**<br>Vector (SVG) | 208.47KB |
-| <a href="icon-triangle-left-filled.svg"><img src="icon-triangle-left-filled.svg" width="250"></a> | **icon-triangle-left-filled.svg**<br>Vector (SVG) | 204.94KB |
-| <a href="icon-triangle-left-outline.svg"><img src="icon-triangle-left-outline.svg" width="250"></a> | **icon-triangle-left-outline.svg**<br>Vector (SVG) | 207.97KB |
-| <a href="icon-triangle-right-filled.svg"><img src="icon-triangle-right-filled.svg" width="250"></a> | **icon-triangle-right-filled.svg**<br>Vector (SVG) | 209.74KB |
-| <a href="icon-triangle-right-outline.svg"><img src="icon-triangle-right-outline.svg" width="250"></a> | **icon-triangle-right-outline.svg**<br>Vector (SVG) | 212.68KB |
-| <a href="icon-triangle-up-filled.svg"><img src="icon-triangle-up-filled.svg" width="250"></a> | **icon-triangle-up-filled.svg**<br>Vector (SVG) | 204.43KB |
-| <a href="icon-triangle-up-outline.svg"><img src="icon-triangle-up-outline.svg" width="250"></a> | **icon-triangle-up-outline.svg**<br>Vector (SVG) | 207.44KB |
-| <a href="icon-triangle-with-blocks.svg"><img src="icon-triangle-with-blocks.svg" width="250"></a> | **icon-triangle-with-blocks.svg**<br>Vector (SVG) | 209.37KB |
-| <a href="icon-triangle.svg"><img src="icon-triangle.svg" width="250"></a> | **icon-triangle.svg**<br>Vector (SVG) | 196.01KB |
-| <a href="icon-truck.svg"><img src="icon-truck.svg" width="250"></a> | **icon-truck.svg**<br>Vector (SVG) | 189.48KB |
-| <a href="loader.svg"><img src="loader.svg" width="250"></a> | **loader.svg**<br>Vector (SVG) | 192.74KB |
-| <a href="night.svg"><img src="night.svg" width="250"></a> | **night.svg**<br>Vector (SVG) | 193.03KB |
-| <a href="wind.svg"><img src="wind.svg" width="250"></a> | **wind.svg**<br>Vector (SVG) | 188.19KB |
+| <a href="icon-abc.svg"><img src="icon-abc.svg" width="250"></a> | **icon-abc.svg** |
+| <a href="icon-academic-book.svg"><img src="icon-academic-book.svg" width="250"></a> | **icon-academic-book.svg** |
+| <a href="icon-accessibility.svg"><img src="icon-accessibility.svg" width="250"></a> | **icon-accessibility.svg** |
+| <a href="icon-activity.svg"><img src="icon-activity.svg" width="250"></a> | **icon-activity.svg** |
+| <a href="icon-add-to-playlist.svg"><img src="icon-add-to-playlist.svg" width="250"></a> | **icon-add-to-playlist.svg** |
+| <a href="icon-add.svg"><img src="icon-add.svg" width="250"></a> | **icon-add.svg** |
+| <a href="icon-alarm-clock-2.svg"><img src="icon-alarm-clock-2.svg" width="250"></a> | **icon-alarm-clock-2.svg** |
+| <a href="icon-alarm-clock.svg"><img src="icon-alarm-clock.svg" width="250"></a> | **icon-alarm-clock.svg** |
+| <a href="icon-alert-with-circle.svg"><img src="icon-alert-with-circle.svg" width="250"></a> | **icon-alert-with-circle.svg** |
+| <a href="icon-algolia.svg"><img src="icon-algolia.svg" width="250"></a> | **icon-algolia.svg** |
+| <a href="icon-analogue-watch.svg"><img src="icon-analogue-watch.svg" width="250"></a> | **icon-analogue-watch.svg** |
+| <a href="icon-apple-watch.svg"><img src="icon-apple-watch.svg" width="250"></a> | **icon-apple-watch.svg** |
+| <a href="icon-archive.svg"><img src="icon-archive.svg" width="250"></a> | **icon-archive.svg** |
+| <a href="icon-arrow-bend-left-down.svg"><img src="icon-arrow-bend-left-down.svg" width="250"></a> | **icon-arrow-bend-left-down.svg** |
+| <a href="icon-arrow-bend-left-up.svg"><img src="icon-arrow-bend-left-up.svg" width="250"></a> | **icon-arrow-bend-left-up.svg** |
+| <a href="icon-arrow-bend-right-down.svg"><img src="icon-arrow-bend-right-down.svg" width="250"></a> | **icon-arrow-bend-right-down.svg** |
+| <a href="icon-arrow-bend-right-up.svg"><img src="icon-arrow-bend-right-up.svg" width="250"></a> | **icon-arrow-bend-right-up.svg** |
+| <a href="icon-arrow-bottom-right.svg"><img src="icon-arrow-bottom-right.svg" width="250"></a> | **icon-arrow-bottom-right.svg** |
+| <a href="icon-arrow-circle-backward-five.svg"><img src="icon-arrow-circle-backward-five.svg" width="250"></a> | **icon-arrow-circle-backward-five.svg** |
+| <a href="icon-arrow-circle-backward-fiveteen.svg"><img src="icon-arrow-circle-backward-fiveteen.svg" width="250"></a> | **icon-arrow-circle-backward-fiveteen.svg** |
+| <a href="icon-arrow-circle-backward-ten.svg"><img src="icon-arrow-circle-backward-ten.svg" width="250"></a> | **icon-arrow-circle-backward-ten.svg** |
+| <a href="icon-arrow-circle-backward-twenty.svg"><img src="icon-arrow-circle-backward-twenty.svg" width="250"></a> | **icon-arrow-circle-backward-twenty.svg** |
+| <a href="icon-arrow-circle-backward.svg"><img src="icon-arrow-circle-backward.svg" width="250"></a> | **icon-arrow-circle-backward.svg** |
+| <a href="icon-arrow-circle-bckwards-thirty-1.svg"><img src="icon-arrow-circle-bckwards-thirty-1.svg" width="250"></a> | **icon-arrow-circle-bckwards-thirty-1.svg** |
+| <a href="icon-arrow-circle-bckwards-thirty.svg"><img src="icon-arrow-circle-bckwards-thirty.svg" width="250"></a> | **icon-arrow-circle-bckwards-thirty.svg** |
+| <a href="icon-arrow-circle-forward-five.svg"><img src="icon-arrow-circle-forward-five.svg" width="250"></a> | **icon-arrow-circle-forward-five.svg** |
+| <a href="icon-arrow-circle-forward-fiveteen.svg"><img src="icon-arrow-circle-forward-fiveteen.svg" width="250"></a> | **icon-arrow-circle-forward-fiveteen.svg** |
+| <a href="icon-arrow-circle-forward-ten.svg"><img src="icon-arrow-circle-forward-ten.svg" width="250"></a> | **icon-arrow-circle-forward-ten.svg** |
+| <a href="icon-arrow-circle-forward-thirty.svg"><img src="icon-arrow-circle-forward-thirty.svg" width="250"></a> | **icon-arrow-circle-forward-thirty.svg** |
+| <a href="icon-arrow-circle-forward-twenty.svg"><img src="icon-arrow-circle-forward-twenty.svg" width="250"></a> | **icon-arrow-circle-forward-twenty.svg** |
+| <a href="icon-arrow-circle-forward.svg"><img src="icon-arrow-circle-forward.svg" width="250"></a> | **icon-arrow-circle-forward.svg** |
+| <a href="icon-arrow-down-left.svg"><img src="icon-arrow-down-left.svg" width="250"></a> | **icon-arrow-down-left.svg** |
+| <a href="icon-arrow-down.svg"><img src="icon-arrow-down.svg" width="250"></a> | **icon-arrow-down.svg** |
+| <a href="icon-arrow-left.svg"><img src="icon-arrow-left.svg" width="250"></a> | **icon-arrow-left.svg** |
+| <a href="icon-arrow-right.svg"><img src="icon-arrow-right.svg" width="250"></a> | **icon-arrow-right.svg** |
+| <a href="icon-arrow-switch.svg"><img src="icon-arrow-switch.svg" width="250"></a> | **icon-arrow-switch.svg** |
+| <a href="icon-arrow-thick-down.svg"><img src="icon-arrow-thick-down.svg" width="250"></a> | **icon-arrow-thick-down.svg** |
+| <a href="icon-arrow-thick-left.svg"><img src="icon-arrow-thick-left.svg" width="250"></a> | **icon-arrow-thick-left.svg** |
+| <a href="icon-arrow-thick-right.svg"><img src="icon-arrow-thick-right.svg" width="250"></a> | **icon-arrow-thick-right.svg** |
+| <a href="icon-arrow-thick-up.svg"><img src="icon-arrow-thick-up.svg" width="250"></a> | **icon-arrow-thick-up.svg** |
+| <a href="icon-arrow-up-left.svg"><img src="icon-arrow-up-left.svg" width="250"></a> | **icon-arrow-up-left.svg** |
+| <a href="icon-arrow-up-right.svg"><img src="icon-arrow-up-right.svg" width="250"></a> | **icon-arrow-up-right.svg** |
+| <a href="icon-arrow-up.svg"><img src="icon-arrow-up.svg" width="250"></a> | **icon-arrow-up.svg** |
+| <a href="icon-bank.svg"><img src="icon-bank.svg" width="250"></a> | **icon-bank.svg** |
+| <a href="icon-basketball.svg"><img src="icon-basketball.svg" width="250"></a> | **icon-basketball.svg** |
+| <a href="icon-battery-horizontal-charging.svg"><img src="icon-battery-horizontal-charging.svg" width="250"></a> | **icon-battery-horizontal-charging.svg** |
+| <a href="icon-battery-horizontal-empty.svg"><img src="icon-battery-horizontal-empty.svg" width="250"></a> | **icon-battery-horizontal-empty.svg** |
+| <a href="icon-battery-horizontal-full-horizontal.svg"><img src="icon-battery-horizontal-full-horizontal.svg" width="250"></a> | **icon-battery-horizontal-full-horizontal.svg** |
+| <a href="icon-battery-horizontal-low.svg"><img src="icon-battery-horizontal-low.svg" width="250"></a> | **icon-battery-horizontal-low.svg** |
+| <a href="icon-battery-horizontal-medium.svg"><img src="icon-battery-horizontal-medium.svg" width="250"></a> | **icon-battery-horizontal-medium.svg** |
+| <a href="icon-battery-vertical-charging.svg"><img src="icon-battery-vertical-charging.svg" width="250"></a> | **icon-battery-vertical-charging.svg** |
+| <a href="icon-battery-vertical-empty.svg"><img src="icon-battery-vertical-empty.svg" width="250"></a> | **icon-battery-vertical-empty.svg** |
+| <a href="icon-battery-vertical-full.svg"><img src="icon-battery-vertical-full.svg" width="250"></a> | **icon-battery-vertical-full.svg** |
+| <a href="icon-battery-vertical-medium.svg"><img src="icon-battery-vertical-medium.svg" width="250"></a> | **icon-battery-vertical-medium.svg** |
+| <a href="icon-beaker.svg"><img src="icon-beaker.svg" width="250"></a> | **icon-beaker.svg** |
+| <a href="icon-bell.svg"><img src="icon-bell.svg" width="250"></a> | **icon-bell.svg** |
+| <a href="icon-bold.svg"><img src="icon-bold.svg" width="250"></a> | **icon-bold.svg** |
+| <a href="icon-bool-exclude.svg"><img src="icon-bool-exclude.svg" width="250"></a> | **icon-bool-exclude.svg** |
+| <a href="icon-bool-intersect.svg"><img src="icon-bool-intersect.svg" width="250"></a> | **icon-bool-intersect.svg** |
+| <a href="icon-bool-subtract.svg"><img src="icon-bool-subtract.svg" width="250"></a> | **icon-bool-subtract.svg** |
+| <a href="icon-bool-union.svg"><img src="icon-bool-union.svg" width="250"></a> | **icon-bool-union.svg** |
+| <a href="icon-border-all.svg"><img src="icon-border-all.svg" width="250"></a> | **icon-border-all.svg** |
+| <a href="icon-border-bottom.svg"><img src="icon-border-bottom.svg" width="250"></a> | **icon-border-bottom.svg** |
+| <a href="icon-border-horizontal.svg"><img src="icon-border-horizontal.svg" width="250"></a> | **icon-border-horizontal.svg** |
+| <a href="icon-border-left.svg"><img src="icon-border-left.svg" width="250"></a> | **icon-border-left.svg** |
+| <a href="icon-border-right.svg"><img src="icon-border-right.svg" width="250"></a> | **icon-border-right.svg** |
+| <a href="icon-border-top.svg"><img src="icon-border-top.svg" width="250"></a> | **icon-border-top.svg** |
+| <a href="icon-border-vertical.svg"><img src="icon-border-vertical.svg" width="250"></a> | **icon-border-vertical.svg** |
+| <a href="icon-brightness-down.svg"><img src="icon-brightness-down.svg" width="250"></a> | **icon-brightness-down.svg** |
+| <a href="icon-brightness-up.svg"><img src="icon-brightness-up.svg" width="250"></a> | **icon-brightness-up.svg** |
+| <a href="icon-bullet-list.svg"><img src="icon-bullet-list.svg" width="250"></a> | **icon-bullet-list.svg** |
+| <a href="icon-burger-menu.svg"><img src="icon-burger-menu.svg" width="250"></a> | **icon-burger-menu.svg** |
+| <a href="icon-calculator.svg"><img src="icon-calculator.svg" width="250"></a> | **icon-calculator.svg** |
+| <a href="icon-calendar-2-booking.svg"><img src="icon-calendar-2-booking.svg" width="250"></a> | **icon-calendar-2-booking.svg** |
+| <a href="icon-calendar-2.svg"><img src="icon-calendar-2.svg" width="250"></a> | **icon-calendar-2.svg** |
+| <a href="icon-calendar-booking.svg"><img src="icon-calendar-booking.svg" width="250"></a> | **icon-calendar-booking.svg** |
+| <a href="icon-calendar.svg"><img src="icon-calendar.svg" width="250"></a> | **icon-calendar.svg** |
+| <a href="icon-camera.svg"><img src="icon-camera.svg" width="250"></a> | **icon-camera.svg** |
+| <a href="icon-capitalise-text.svg"><img src="icon-capitalise-text.svg" width="250"></a> | **icon-capitalise-text.svg** |
+| <a href="icon-car.svg"><img src="icon-car.svg" width="250"></a> | **icon-car.svg** |
+| <a href="icon-categories.svg"><img src="icon-categories.svg" width="250"></a> | **icon-categories.svg** |
+| <a href="icon-chart-bar.svg"><img src="icon-chart-bar.svg" width="250"></a> | **icon-chart-bar.svg** |
+| <a href="icon-chart-pie.svg"><img src="icon-chart-pie.svg" width="250"></a> | **icon-chart-pie.svg** |
+| <a href="icon-check-with-circle.svg"><img src="icon-check-with-circle.svg" width="250"></a> | **icon-check-with-circle.svg** |
+| <a href="icon-check.svg"><img src="icon-check.svg" width="250"></a> | **icon-check.svg** |
+| <a href="icon-chevron-double-down.svg"><img src="icon-chevron-double-down.svg" width="250"></a> | **icon-chevron-double-down.svg** |
+| <a href="icon-chevron-double-left.svg"><img src="icon-chevron-double-left.svg" width="250"></a> | **icon-chevron-double-left.svg** |
+| <a href="icon-chevron-double-right.svg"><img src="icon-chevron-double-right.svg" width="250"></a> | **icon-chevron-double-right.svg** |
+| <a href="icon-chevron-double-up.svg"><img src="icon-chevron-double-up.svg" width="250"></a> | **icon-chevron-double-up.svg** |
+| <a href="icon-chevron-down.svg"><img src="icon-chevron-down.svg" width="250"></a> | **icon-chevron-down.svg** |
+| <a href="icon-chevron-left.svg"><img src="icon-chevron-left.svg" width="250"></a> | **icon-chevron-left.svg** |
+| <a href="icon-chevron-right.svg"><img src="icon-chevron-right.svg" width="250"></a> | **icon-chevron-right.svg** |
+| <a href="icon-chevron-up.svg"><img src="icon-chevron-up.svg" width="250"></a> | **icon-chevron-up.svg** |
+| <a href="icon-chip.svg"><img src="icon-chip.svg" width="250"></a> | **icon-chip.svg** |
+| <a href="icon-chromatica.svg"><img src="icon-chromatica.svg" width="250"></a> | **icon-chromatica.svg** |
+| <a href="icon-chromecast.svg"><img src="icon-chromecast.svg" width="250"></a> | **icon-chromecast.svg** |
+| <a href="icon-circle-circle-down.svg"><img src="icon-circle-circle-down.svg" width="250"></a> | **icon-circle-circle-down.svg** |
+| <a href="icon-circle-circle-left.svg"><img src="icon-circle-circle-left.svg" width="250"></a> | **icon-circle-circle-left.svg** |
+| <a href="icon-circle-circle-right.svg"><img src="icon-circle-circle-right.svg" width="250"></a> | **icon-circle-circle-right.svg** |
+| <a href="icon-circle-circle-up.svg"><img src="icon-circle-circle-up.svg" width="250"></a> | **icon-circle-circle-up.svg** |
+| <a href="icon-circle-circle.svg"><img src="icon-circle-circle.svg" width="250"></a> | **icon-circle-circle.svg** |
+| <a href="icon-circle-square.svg"><img src="icon-circle-square.svg" width="250"></a> | **icon-circle-square.svg** |
+| <a href="icon-circle-triangle.svg"><img src="icon-circle-triangle.svg" width="250"></a> | **icon-circle-triangle.svg** |
+| <a href="icon-circle-with-blocks.svg"><img src="icon-circle-with-blocks.svg" width="250"></a> | **icon-circle-with-blocks.svg** |
+| <a href="icon-circle-with-cross.svg"><img src="icon-circle-with-cross.svg" width="250"></a> | **icon-circle-with-cross.svg** |
+| <a href="icon-circle.svg"><img src="icon-circle.svg" width="250"></a> | **icon-circle.svg** |
+| <a href="icon-clarus-the-dogcow.svg"><img src="icon-clarus-the-dogcow.svg" width="250"></a> | **icon-clarus-the-dogcow.svg** |
+| <a href="icon-clipboard-empty.svg"><img src="icon-clipboard-empty.svg" width="250"></a> | **icon-clipboard-empty.svg** |
+| <a href="icon-clipboard-full.svg"><img src="icon-clipboard-full.svg" width="250"></a> | **icon-clipboard-full.svg** |
+| <a href="icon-clock.svg"><img src="icon-clock.svg" width="250"></a> | **icon-clock.svg** |
+| <a href="icon-close-full-screen-arrow-1.svg"><img src="icon-close-full-screen-arrow-1.svg" width="250"></a> | **icon-close-full-screen-arrow-1.svg** |
+| <a href="icon-close-full-screen-arrow.svg"><img src="icon-close-full-screen-arrow.svg" width="250"></a> | **icon-close-full-screen-arrow.svg** |
+| <a href="icon-close.svg"><img src="icon-close.svg" width="250"></a> | **icon-close.svg** |
+| <a href="icon-cloud.svg"><img src="icon-cloud.svg" width="250"></a> | **icon-cloud.svg** |
+| <a href="icon-command.svg"><img src="icon-command.svg" width="250"></a> | **icon-command.svg** |
+| <a href="icon-connections.svg"><img src="icon-connections.svg" width="250"></a> | **icon-connections.svg** |
+| <a href="icon-connectivity.svg"><img src="icon-connectivity.svg" width="250"></a> | **icon-connectivity.svg** |
+| <a href="icon-contrast.svg"><img src="icon-contrast.svg" width="250"></a> | **icon-contrast.svg** |
+| <a href="icon-creative-cloud.svg"><img src="icon-creative-cloud.svg" width="250"></a> | **icon-creative-cloud.svg** |
+| <a href="icon-credit-card.svg"><img src="icon-credit-card.svg" width="250"></a> | **icon-credit-card.svg** |
+| <a href="icon-cross-with-circle.svg"><img src="icon-cross-with-circle.svg" width="250"></a> | **icon-cross-with-circle.svg** |
+| <a href="icon-crown.svg"><img src="icon-crown.svg" width="250"></a> | **icon-crown.svg** |
+| <a href="icon-cursor-default.svg"><img src="icon-cursor-default.svg" width="250"></a> | **icon-cursor-default.svg** |
+| <a href="icon-cursor-pointer.svg"><img src="icon-cursor-pointer.svg" width="250"></a> | **icon-cursor-pointer.svg** |
+| <a href="icon-dashboard-one-is-filled.svg"><img src="icon-dashboard-one-is-filled.svg" width="250"></a> | **icon-dashboard-one-is-filled.svg** |
+| <a href="icon-dashboard.svg"><img src="icon-dashboard.svg" width="250"></a> | **icon-dashboard.svg** |
+| <a href="icon-databse.svg"><img src="icon-databse.svg" width="250"></a> | **icon-databse.svg** |
+| <a href="icon-display-zoom.svg"><img src="icon-display-zoom.svg" width="250"></a> | **icon-display-zoom.svg** |
+| <a href="icon-document-code.svg"><img src="icon-document-code.svg" width="250"></a> | **icon-document-code.svg** |
+| <a href="icon-document-photo.svg"><img src="icon-document-photo.svg" width="250"></a> | **icon-document-photo.svg** |
+| <a href="icon-document-text.svg"><img src="icon-document-text.svg" width="250"></a> | **icon-document-text.svg** |
+| <a href="icon-document-video.svg"><img src="icon-document-video.svg" width="250"></a> | **icon-document-video.svg** |
+| <a href="icon-document.svg"><img src="icon-document.svg" width="250"></a> | **icon-document.svg** |
+| <a href="icon-dot-matrix.svg"><img src="icon-dot-matrix.svg" width="250"></a> | **icon-dot-matrix.svg** |
+| <a href="icon-dot.svg"><img src="icon-dot.svg" width="250"></a> | **icon-dot.svg** |
+| <a href="icon-download.svg"><img src="icon-download.svg" width="250"></a> | **icon-download.svg** |
+| <a href="icon-dpad.svg"><img src="icon-dpad.svg" width="250"></a> | **icon-dpad.svg** |
+| <a href="icon-earth.svg"><img src="icon-earth.svg" width="250"></a> | **icon-earth.svg** |
+| <a href="icon-ellipses-horizontal.svg"><img src="icon-ellipses-horizontal.svg" width="250"></a> | **icon-ellipses-horizontal.svg** |
+| <a href="icon-ellipses-vertical.svg"><img src="icon-ellipses-vertical.svg" width="250"></a> | **icon-ellipses-vertical.svg** |
+| <a href="icon-email.svg"><img src="icon-email.svg" width="250"></a> | **icon-email.svg** |
+| <a href="icon-entertainment.svg"><img src="icon-entertainment.svg" width="250"></a> | **icon-entertainment.svg** |
+| <a href="icon-equal.svg"><img src="icon-equal.svg" width="250"></a> | **icon-equal.svg** |
+| <a href="icon-euro-with-circle.svg"><img src="icon-euro-with-circle.svg" width="250"></a> | **icon-euro-with-circle.svg** |
+| <a href="icon-euro.svg"><img src="icon-euro.svg" width="250"></a> | **icon-euro.svg** |
+| <a href="icon-exclamation-mark.svg"><img src="icon-exclamation-mark.svg" width="250"></a> | **icon-exclamation-mark.svg** |
+| <a href="icon-expand-horizontal.svg"><img src="icon-expand-horizontal.svg" width="250"></a> | **icon-expand-horizontal.svg** |
+| <a href="icon-expand-vertical.svg"><img src="icon-expand-vertical.svg" width="250"></a> | **icon-expand-vertical.svg** |
+| <a href="icon-eye.svg"><img src="icon-eye.svg" width="250"></a> | **icon-eye.svg** |
+| <a href="icon-figma.svg"><img src="icon-figma.svg" width="250"></a> | **icon-figma.svg** |
+| <a href="icon-film.svg"><img src="icon-film.svg" width="250"></a> | **icon-film.svg** |
+| <a href="icon-filters.svg"><img src="icon-filters.svg" width="250"></a> | **icon-filters.svg** |
+| <a href="icon-flag.svg"><img src="icon-flag.svg" width="250"></a> | **icon-flag.svg** |
+| <a href="icon-flame.svg"><img src="icon-flame.svg" width="250"></a> | **icon-flame.svg** |
+| <a href="icon-folder-2.svg"><img src="icon-folder-2.svg" width="250"></a> | **icon-folder-2.svg** |
+| <a href="icon-folder-add.svg"><img src="icon-folder-add.svg" width="250"></a> | **icon-folder-add.svg** |
+| <a href="icon-folder-alert.svg"><img src="icon-folder-alert.svg" width="250"></a> | **icon-folder-alert.svg** |
+| <a href="icon-folder-cross.svg"><img src="icon-folder-cross.svg" width="250"></a> | **icon-folder-cross.svg** |
+| <a href="icon-folder-minus.svg"><img src="icon-folder-minus.svg" width="250"></a> | **icon-folder-minus.svg** |
+| <a href="icon-folder-tick.svg"><img src="icon-folder-tick.svg" width="250"></a> | **icon-folder-tick.svg** |
+| <a href="icon-folder.svg"><img src="icon-folder.svg" width="250"></a> | **icon-folder.svg** |
+| <a href="icon-folders.svg"><img src="icon-folders.svg" width="250"></a> | **icon-folders.svg** |
+| <a href="icon-full-screen-arrow.svg"><img src="icon-full-screen-arrow.svg" width="250"></a> | **icon-full-screen-arrow.svg** |
+| <a href="icon-full-screen.svg"><img src="icon-full-screen.svg" width="250"></a> | **icon-full-screen.svg** |
+| <a href="icon-games.svg"><img src="icon-games.svg" width="250"></a> | **icon-games.svg** |
+| <a href="icon-github.svg"><img src="icon-github.svg" width="250"></a> | **icon-github.svg** |
+| <a href="icon-globe.svg"><img src="icon-globe.svg" width="250"></a> | **icon-globe.svg** |
+| <a href="icon-graph-line-down.svg"><img src="icon-graph-line-down.svg" width="250"></a> | **icon-graph-line-down.svg** |
+| <a href="icon-graph-line-up.svg"><img src="icon-graph-line-up.svg" width="250"></a> | **icon-graph-line-up.svg** |
+| <a href="icon-graphics-and-design.svg"><img src="icon-graphics-and-design.svg" width="250"></a> | **icon-graphics-and-design.svg** |
+| <a href="icon-grid.svg"><img src="icon-grid.svg" width="250"></a> | **icon-grid.svg** |
+| <a href="icon-hammer.svg"><img src="icon-hammer.svg" width="250"></a> | **icon-hammer.svg** |
+| <a href="icon-headphones.svg"><img src="icon-headphones.svg" width="250"></a> | **icon-headphones.svg** |
+| <a href="icon-health-and-fitness.svg"><img src="icon-health-and-fitness.svg" width="250"></a> | **icon-health-and-fitness.svg** |
+| <a href="icon-heartbeat-monitor.svg"><img src="icon-heartbeat-monitor.svg" width="250"></a> | **icon-heartbeat-monitor.svg** |
+| <a href="icon-helm.svg"><img src="icon-helm.svg" width="250"></a> | **icon-helm.svg** |
+| <a href="icon-helmet-with-lights.svg"><img src="icon-helmet-with-lights.svg" width="250"></a> | **icon-helmet-with-lights.svg** |
+| <a href="icon-helmet.svg"><img src="icon-helmet.svg" width="250"></a> | **icon-helmet.svg** |
+| <a href="icon-hoops.svg"><img src="icon-hoops.svg" width="250"></a> | **icon-hoops.svg** |
+| <a href="icon-hot-brew.svg"><img src="icon-hot-brew.svg" width="250"></a> | **icon-hot-brew.svg** |
+| <a href="icon-house.svg"><img src="icon-house.svg" width="250"></a> | **icon-house.svg** |
+| <a href="icon-hug-content-horizontal.svg"><img src="icon-hug-content-horizontal.svg" width="250"></a> | **icon-hug-content-horizontal.svg** |
+| <a href="icon-hug-content-vertical.svg"><img src="icon-hug-content-vertical.svg" width="250"></a> | **icon-hug-content-vertical.svg** |
+| <a href="icon-icon-brew.svg"><img src="icon-icon-brew.svg" width="250"></a> | **icon-icon-brew.svg** |
+| <a href="icon-inbox-tray.svg"><img src="icon-inbox-tray.svg" width="250"></a> | **icon-inbox-tray.svg** |
+| <a href="icon-internet-browser.svg"><img src="icon-internet-browser.svg" width="250"></a> | **icon-internet-browser.svg** |
+| <a href="icon-iphone.svg"><img src="icon-iphone.svg" width="250"></a> | **icon-iphone.svg** |
+| <a href="icon-italic.svg"><img src="icon-italic.svg" width="250"></a> | **icon-italic.svg** |
+| <a href="icon-key.svg"><img src="icon-key.svg" width="250"></a> | **icon-key.svg** |
+| <a href="icon-laptop.svg"><img src="icon-laptop.svg" width="250"></a> | **icon-laptop.svg** |
+| <a href="icon-layout-bottom.svg"><img src="icon-layout-bottom.svg" width="250"></a> | **icon-layout-bottom.svg** |
+| <a href="icon-layout-left.svg"><img src="icon-layout-left.svg" width="250"></a> | **icon-layout-left.svg** |
+| <a href="icon-layout-right.svg"><img src="icon-layout-right.svg" width="250"></a> | **icon-layout-right.svg** |
+| <a href="icon-layout-top.svg"><img src="icon-layout-top.svg" width="250"></a> | **icon-layout-top.svg** |
+| <a href="icon-life-buoy.svg"><img src="icon-life-buoy.svg" width="250"></a> | **icon-life-buoy.svg** |
+| <a href="icon-light-bulb.svg"><img src="icon-light-bulb.svg" width="250"></a> | **icon-light-bulb.svg** |
+| <a href="icon-lightning.svg"><img src="icon-lightning.svg" width="250"></a> | **icon-lightning.svg** |
+| <a href="icon-lights-off.svg"><img src="icon-lights-off.svg" width="250"></a> | **icon-lights-off.svg** |
+| <a href="icon-lights-on.svg"><img src="icon-lights-on.svg" width="250"></a> | **icon-lights-on.svg** |
+| <a href="icon-line-chart-down-arrow.svg"><img src="icon-line-chart-down-arrow.svg" width="250"></a> | **icon-line-chart-down-arrow.svg** |
+| <a href="icon-line-chart-down.svg"><img src="icon-line-chart-down.svg" width="250"></a> | **icon-line-chart-down.svg** |
+| <a href="icon-line-chart-up-arrow.svg"><img src="icon-line-chart-up-arrow.svg" width="250"></a> | **icon-line-chart-up-arrow.svg** |
+| <a href="icon-line-chart-up.svg"><img src="icon-line-chart-up.svg" width="250"></a> | **icon-line-chart-up.svg** |
+| <a href="icon-line-weight.svg"><img src="icon-line-weight.svg" width="250"></a> | **icon-line-weight.svg** |
+| <a href="icon-link.svg"><img src="icon-link.svg" width="250"></a> | **icon-link.svg** |
+| <a href="icon-location.svg"><img src="icon-location.svg" width="250"></a> | **icon-location.svg** |
+| <a href="icon-locked.svg"><img src="icon-locked.svg" width="250"></a> | **icon-locked.svg** |
+| <a href="icon-mac-mini.svg"><img src="icon-mac-mini.svg" width="250"></a> | **icon-mac-mini.svg** |
+| <a href="icon-mac-window.svg"><img src="icon-mac-window.svg" width="250"></a> | **icon-mac-window.svg** |
+| <a href="icon-magic-wand.svg"><img src="icon-magic-wand.svg" width="250"></a> | **icon-magic-wand.svg** |
+| <a href="icon-map-folded.svg"><img src="icon-map-folded.svg" width="250"></a> | **icon-map-folded.svg** |
+| <a href="icon-masonery.svg"><img src="icon-masonery.svg" width="250"></a> | **icon-masonery.svg** |
+| <a href="icon-medical.svg"><img src="icon-medical.svg" width="250"></a> | **icon-medical.svg** |
+| <a href="icon-message-bubble-with-ellipses.svg"><img src="icon-message-bubble-with-ellipses.svg" width="250"></a> | **icon-message-bubble-with-ellipses.svg** |
+| <a href="icon-message-bubble.svg"><img src="icon-message-bubble.svg" width="250"></a> | **icon-message-bubble.svg** |
+| <a href="icon-microphone.svg"><img src="icon-microphone.svg" width="250"></a> | **icon-microphone.svg** |
+| <a href="icon-money-note.svg"><img src="icon-money-note.svg" width="250"></a> | **icon-money-note.svg** |
+| <a href="icon-moon.svg"><img src="icon-moon.svg" width="250"></a> | **icon-moon.svg** |
+| <a href="icon-mouse-rectangular-wired.svg"><img src="icon-mouse-rectangular-wired.svg" width="250"></a> | **icon-mouse-rectangular-wired.svg** |
+| <a href="icon-mouse-rectangular.svg"><img src="icon-mouse-rectangular.svg" width="250"></a> | **icon-mouse-rectangular.svg** |
+| <a href="icon-mouse-rounded-wired.svg"><img src="icon-mouse-rounded-wired.svg" width="250"></a> | **icon-mouse-rounded-wired.svg** |
+| <a href="icon-mouse-rounded.svg"><img src="icon-mouse-rounded.svg" width="250"></a> | **icon-mouse-rounded.svg** |
+| <a href="icon-music-note.svg"><img src="icon-music-note.svg" width="250"></a> | **icon-music-note.svg** |
+| <a href="icon-music.svg"><img src="icon-music.svg" width="250"></a> | **icon-music.svg** |
+| <a href="icon-news.svg"><img src="icon-news.svg" width="250"></a> | **icon-news.svg** |
+| <a href="icon-numbers.svg"><img src="icon-numbers.svg" width="250"></a> | **icon-numbers.svg** |
+| <a href="icon-open-source.svg"><img src="icon-open-source.svg" width="250"></a> | **icon-open-source.svg** |
+| <a href="icon-option.svg"><img src="icon-option.svg" width="250"></a> | **icon-option.svg** |
+| <a href="icon-outbox-tray.svg"><img src="icon-outbox-tray.svg" width="250"></a> | **icon-outbox-tray.svg** |
+| <a href="icon-padding-all.svg"><img src="icon-padding-all.svg" width="250"></a> | **icon-padding-all.svg** |
+| <a href="icon-padding-bottom.svg"><img src="icon-padding-bottom.svg" width="250"></a> | **icon-padding-bottom.svg** |
+| <a href="icon-padding-horizontal.svg"><img src="icon-padding-horizontal.svg" width="250"></a> | **icon-padding-horizontal.svg** |
+| <a href="icon-padding-left.svg"><img src="icon-padding-left.svg" width="250"></a> | **icon-padding-left.svg** |
+| <a href="icon-padding-right.svg"><img src="icon-padding-right.svg" width="250"></a> | **icon-padding-right.svg** |
+| <a href="icon-padding-top.svg"><img src="icon-padding-top.svg" width="250"></a> | **icon-padding-top.svg** |
+| <a href="icon-padding-vertical.svg"><img src="icon-padding-vertical.svg" width="250"></a> | **icon-padding-vertical.svg** |
+| <a href="icon-pause.svg"><img src="icon-pause.svg" width="250"></a> | **icon-pause.svg** |
+| <a href="icon-peace.svg"><img src="icon-peace.svg" width="250"></a> | **icon-peace.svg** |
+| <a href="icon-pencil-tip.svg"><img src="icon-pencil-tip.svg" width="250"></a> | **icon-pencil-tip.svg** |
+| <a href="icon-pencil.svg"><img src="icon-pencil.svg" width="250"></a> | **icon-pencil.svg** |
+| <a href="icon-person.svg"><img src="icon-person.svg" width="250"></a> | **icon-person.svg** |
+| <a href="icon-pharmacy.svg"><img src="icon-pharmacy.svg" width="250"></a> | **icon-pharmacy.svg** |
+| <a href="icon-phone-call-in.svg"><img src="icon-phone-call-in.svg" width="250"></a> | **icon-phone-call-in.svg** |
+| <a href="icon-phone-call-out.svg"><img src="icon-phone-call-out.svg" width="250"></a> | **icon-phone-call-out.svg** |
+| <a href="icon-phone-call-transfer.svg"><img src="icon-phone-call-transfer.svg" width="250"></a> | **icon-phone-call-transfer.svg** |
+| <a href="icon-phone-call.svg"><img src="icon-phone-call.svg" width="250"></a> | **icon-phone-call.svg** |
+| <a href="icon-phone-signal.svg"><img src="icon-phone-signal.svg" width="250"></a> | **icon-phone-signal.svg** |
+| <a href="icon-photo.svg"><img src="icon-photo.svg" width="250"></a> | **icon-photo.svg** |
+| <a href="icon-pin.svg"><img src="icon-pin.svg" width="250"></a> | **icon-pin.svg** |
+| <a href="icon-plane-landing.svg"><img src="icon-plane-landing.svg" width="250"></a> | **icon-plane-landing.svg** |
+| <a href="icon-plane-take-off.svg"><img src="icon-plane-take-off.svg" width="250"></a> | **icon-plane-take-off.svg** |
+| <a href="icon-play.svg"><img src="icon-play.svg" width="250"></a> | **icon-play.svg** |
+| <a href="icon-pocket.svg"><img src="icon-pocket.svg" width="250"></a> | **icon-pocket.svg** |
+| <a href="icon-power.svg"><img src="icon-power.svg" width="250"></a> | **icon-power.svg** |
+| <a href="icon-presentation-graph.svg"><img src="icon-presentation-graph.svg" width="250"></a> | **icon-presentation-graph.svg** |
+| <a href="icon-presentation.svg"><img src="icon-presentation.svg" width="250"></a> | **icon-presentation.svg** |
+| <a href="icon-productivity.svg"><img src="icon-productivity.svg" width="250"></a> | **icon-productivity.svg** |
+| <a href="icon-question-mark-with-circle.svg"><img src="icon-question-mark-with-circle.svg" width="250"></a> | **icon-question-mark-with-circle.svg** |
+| <a href="icon-radio-pole.svg"><img src="icon-radio-pole.svg" width="250"></a> | **icon-radio-pole.svg** |
+| <a href="icon-radio.svg"><img src="icon-radio.svg" width="250"></a> | **icon-radio.svg** |
+| <a href="icon-receipt.svg"><img src="icon-receipt.svg" width="250"></a> | **icon-receipt.svg** |
+| <a href="icon-rectangle-contract.svg"><img src="icon-rectangle-contract.svg" width="250"></a> | **icon-rectangle-contract.svg** |
+| <a href="icon-rectangle-expand.svg"><img src="icon-rectangle-expand.svg" width="250"></a> | **icon-rectangle-expand.svg** |
+| <a href="icon-rectangle-left-filled-rounded.svg"><img src="icon-rectangle-left-filled-rounded.svg" width="250"></a> | **icon-rectangle-left-filled-rounded.svg** |
+| <a href="icon-rectangle-left-filled.svg"><img src="icon-rectangle-left-filled.svg" width="250"></a> | **icon-rectangle-left-filled.svg** |
+| <a href="icon-rectangle-on-rectangle-horizontal.svg"><img src="icon-rectangle-on-rectangle-horizontal.svg" width="250"></a> | **icon-rectangle-on-rectangle-horizontal.svg** |
+| <a href="icon-rectangle-on-rectangle-vertical.svg"><img src="icon-rectangle-on-rectangle-vertical.svg" width="250"></a> | **icon-rectangle-on-rectangle-vertical.svg** |
+| <a href="icon-rectangle-right-filled-rounded.svg"><img src="icon-rectangle-right-filled-rounded.svg" width="250"></a> | **icon-rectangle-right-filled-rounded.svg** |
+| <a href="icon-rectangle-right-filled.svg"><img src="icon-rectangle-right-filled.svg" width="250"></a> | **icon-rectangle-right-filled.svg** |
+| <a href="icon-rectangle-small-with-blocks.svg"><img src="icon-rectangle-small-with-blocks.svg" width="250"></a> | **icon-rectangle-small-with-blocks.svg** |
+| <a href="icon-rectangle-with-blocks.svg"><img src="icon-rectangle-with-blocks.svg" width="250"></a> | **icon-rectangle-with-blocks.svg** |
+| <a href="icon-rectangle.svg"><img src="icon-rectangle.svg" width="250"></a> | **icon-rectangle.svg** |
+| <a href="icon-recycle-triangle.svg"><img src="icon-recycle-triangle.svg" width="250"></a> | **icon-recycle-triangle.svg** |
+| <a href="icon-return-down.svg"><img src="icon-return-down.svg" width="250"></a> | **icon-return-down.svg** |
+| <a href="icon-return-left.svg"><img src="icon-return-left.svg" width="250"></a> | **icon-return-left.svg** |
+| <a href="icon-return-right.svg"><img src="icon-return-right.svg" width="250"></a> | **icon-return-right.svg** |
+| <a href="icon-return-up.svg"><img src="icon-return-up.svg" width="250"></a> | **icon-return-up.svg** |
+| <a href="icon-retweet.svg"><img src="icon-retweet.svg" width="250"></a> | **icon-retweet.svg** |
+| <a href="icon-ribbon-add.svg"><img src="icon-ribbon-add.svg" width="250"></a> | **icon-ribbon-add.svg** |
+| <a href="icon-ribbon.svg"><img src="icon-ribbon.svg" width="250"></a> | **icon-ribbon.svg** |
+| <a href="icon-rocket.svg"><img src="icon-rocket.svg" width="250"></a> | **icon-rocket.svg** |
+| <a href="icon-rudder-wheel.svg"><img src="icon-rudder-wheel.svg" width="250"></a> | **icon-rudder-wheel.svg** |
+| <a href="icon-ruler.svg"><img src="icon-ruler.svg" width="250"></a> | **icon-ruler.svg** |
+| <a href="icon-scale-circle.svg"><img src="icon-scale-circle.svg" width="250"></a> | **icon-scale-circle.svg** |
+| <a href="icon-scale.svg"><img src="icon-scale.svg" width="250"></a> | **icon-scale.svg** |
+| <a href="icon-search.svg"><img src="icon-search.svg" width="250"></a> | **icon-search.svg** |
+| <a href="icon-share-arrow.svg"><img src="icon-share-arrow.svg" width="250"></a> | **icon-share-arrow.svg** |
+| <a href="icon-share-cirlce.svg"><img src="icon-share-cirlce.svg" width="250"></a> | **icon-share-cirlce.svg** |
+| <a href="icon-share.svg"><img src="icon-share.svg" width="250"></a> | **icon-share.svg** |
+| <a href="icon-sharing.svg"><img src="icon-sharing.svg" width="250"></a> | **icon-sharing.svg** |
+| <a href="icon-shield.svg"><img src="icon-shield.svg" width="250"></a> | **icon-shield.svg** |
+| <a href="icon-shopping-basket.svg"><img src="icon-shopping-basket.svg" width="250"></a> | **icon-shopping-basket.svg** |
+| <a href="icon-shopping-cart-empty.svg"><img src="icon-shopping-cart-empty.svg" width="250"></a> | **icon-shopping-cart-empty.svg** |
+| <a href="icon-shopping-cart-full.svg"><img src="icon-shopping-cart-full.svg" width="250"></a> | **icon-shopping-cart-full.svg** |
+| <a href="icon-side-bar-left.svg"><img src="icon-side-bar-left.svg" width="250"></a> | **icon-side-bar-left.svg** |
+| <a href="icon-side-bar-right.svg"><img src="icon-side-bar-right.svg" width="250"></a> | **icon-side-bar-right.svg** |
+| <a href="icon-soda-can.svg"><img src="icon-soda-can.svg" width="250"></a> | **icon-soda-can.svg** |
+| <a href="icon-spacing-horizontal.svg"><img src="icon-spacing-horizontal.svg" width="250"></a> | **icon-spacing-horizontal.svg** |
+| <a href="icon-spacing-vertical.svg"><img src="icon-spacing-vertical.svg" width="250"></a> | **icon-spacing-vertical.svg** |
+| <a href="icon-sparks.svg"><img src="icon-sparks.svg" width="250"></a> | **icon-sparks.svg** |
+| <a href="icon-splash.svg"><img src="icon-splash.svg" width="250"></a> | **icon-splash.svg** |
+| <a href="icon-sports.svg"><img src="icon-sports.svg" width="250"></a> | **icon-sports.svg** |
+| <a href="icon-spotify.svg"><img src="icon-spotify.svg" width="250"></a> | **icon-spotify.svg** |
+| <a href="icon-sprout.svg"><img src="icon-sprout.svg" width="250"></a> | **icon-sprout.svg** |
+| <a href="icon-square-and-pencil.svg"><img src="icon-square-and-pencil.svg" width="250"></a> | **icon-square-and-pencil.svg** |
+| <a href="icon-square.svg"><img src="icon-square.svg" width="250"></a> | **icon-square.svg** |
+| <a href="icon-stack-horizontal.svg"><img src="icon-stack-horizontal.svg" width="250"></a> | **icon-stack-horizontal.svg** |
+| <a href="icon-stack-vertical.svg"><img src="icon-stack-vertical.svg" width="250"></a> | **icon-stack-vertical.svg** |
+| <a href="icon-star.svg"><img src="icon-star.svg" width="250"></a> | **icon-star.svg** |
+| <a href="icon-statement.svg"><img src="icon-statement.svg" width="250"></a> | **icon-statement.svg** |
+| <a href="icon-stop.svg"><img src="icon-stop.svg" width="250"></a> | **icon-stop.svg** |
+| <a href="icon-store.svg"><img src="icon-store.svg" width="250"></a> | **icon-store.svg** |
+| <a href="icon-strikethrough.svg"><img src="icon-strikethrough.svg" width="250"></a> | **icon-strikethrough.svg** |
+| <a href="icon-stroke-width.svg"><img src="icon-stroke-width.svg" width="250"></a> | **icon-stroke-width.svg** |
+| <a href="icon-tab-bottom.svg"><img src="icon-tab-bottom.svg" width="250"></a> | **icon-tab-bottom.svg** |
+| <a href="icon-tab-left-compact.svg"><img src="icon-tab-left-compact.svg" width="250"></a> | **icon-tab-left-compact.svg** |
+| <a href="icon-tab-left.svg"><img src="icon-tab-left.svg" width="250"></a> | **icon-tab-left.svg** |
+| <a href="icon-tab-right-compact.svg"><img src="icon-tab-right-compact.svg" width="250"></a> | **icon-tab-right-compact.svg** |
+| <a href="icon-tab-right.svg"><img src="icon-tab-right.svg" width="250"></a> | **icon-tab-right.svg** |
+| <a href="icon-tabcells-add.svg"><img src="icon-tabcells-add.svg" width="250"></a> | **icon-tabcells-add.svg** |
+| <a href="icon-tabcells.svg"><img src="icon-tabcells.svg" width="250"></a> | **icon-tabcells.svg** |
+| <a href="icon-tag.svg"><img src="icon-tag.svg" width="250"></a> | **icon-tag.svg** |
+| <a href="icon-tags.svg"><img src="icon-tags.svg" width="250"></a> | **icon-tags.svg** |
+| <a href="icon-take-away.svg"><img src="icon-take-away.svg" width="250"></a> | **icon-take-away.svg** |
+| <a href="icon-target.svg"><img src="icon-target.svg" width="250"></a> | **icon-target.svg** |
+| <a href="icon-taylor-swift.svg"><img src="icon-taylor-swift.svg" width="250"></a> | **icon-taylor-swift.svg** |
+| <a href="icon-text-align-center.svg"><img src="icon-text-align-center.svg" width="250"></a> | **icon-text-align-center.svg** |
+| <a href="icon-text-align-justified.svg"><img src="icon-text-align-justified.svg" width="250"></a> | **icon-text-align-justified.svg** |
+| <a href="icon-text-align-left.svg"><img src="icon-text-align-left.svg" width="250"></a> | **icon-text-align-left.svg** |
+| <a href="icon-text-align-right.svg"><img src="icon-text-align-right.svg" width="250"></a> | **icon-text-align-right.svg** |
+| <a href="icon-text.svg"><img src="icon-text.svg" width="250"></a> | **icon-text.svg** |
+| <a href="icon-tornado.svg"><img src="icon-tornado.svg" width="250"></a> | **icon-tornado.svg** |
+| <a href="icon-trash-with-lines.svg"><img src="icon-trash-with-lines.svg" width="250"></a> | **icon-trash-with-lines.svg** |
+| <a href="icon-trash.svg"><img src="icon-trash.svg" width="250"></a> | **icon-trash.svg** |
+| <a href="icon-tray-and-arrow-down.svg"><img src="icon-tray-and-arrow-down.svg" width="250"></a> | **icon-tray-and-arrow-down.svg** |
+| <a href="icon-tray-and-arrow-left.svg"><img src="icon-tray-and-arrow-left.svg" width="250"></a> | **icon-tray-and-arrow-left.svg** |
+| <a href="icon-tray-and-arrow-right.svg"><img src="icon-tray-and-arrow-right.svg" width="250"></a> | **icon-tray-and-arrow-right.svg** |
+| <a href="icon-tray-and-arrow-up.svg"><img src="icon-tray-and-arrow-up.svg" width="250"></a> | **icon-tray-and-arrow-up.svg** |
+| <a href="icon-tray-full.svg"><img src="icon-tray-full.svg" width="250"></a> | **icon-tray-full.svg** |
+| <a href="icon-tray-stacked.svg"><img src="icon-tray-stacked.svg" width="250"></a> | **icon-tray-stacked.svg** |
+| <a href="icon-tray.svg"><img src="icon-tray.svg" width="250"></a> | **icon-tray.svg** |
+| <a href="icon-tree-map-down.svg"><img src="icon-tree-map-down.svg" width="250"></a> | **icon-tree-map-down.svg** |
+| <a href="icon-tree-map-left.svg"><img src="icon-tree-map-left.svg" width="250"></a> | **icon-tree-map-left.svg** |
+| <a href="icon-tree-map-right.svg"><img src="icon-tree-map-right.svg" width="250"></a> | **icon-tree-map-right.svg** |
+| <a href="icon-tree-map-up.svg"><img src="icon-tree-map-up.svg" width="250"></a> | **icon-tree-map-up.svg** |
+| <a href="icon-triangle-down-filled.svg"><img src="icon-triangle-down-filled.svg" width="250"></a> | **icon-triangle-down-filled.svg** |
+| <a href="icon-triangle-down-outline.svg"><img src="icon-triangle-down-outline.svg" width="250"></a> | **icon-triangle-down-outline.svg** |
+| <a href="icon-triangle-equilateral.svg"><img src="icon-triangle-equilateral.svg" width="250"></a> | **icon-triangle-equilateral.svg** |
+| <a href="icon-triangle-left-filled.svg"><img src="icon-triangle-left-filled.svg" width="250"></a> | **icon-triangle-left-filled.svg** |
+| <a href="icon-triangle-left-outline.svg"><img src="icon-triangle-left-outline.svg" width="250"></a> | **icon-triangle-left-outline.svg** |
+| <a href="icon-triangle-right-filled.svg"><img src="icon-triangle-right-filled.svg" width="250"></a> | **icon-triangle-right-filled.svg** |
+| <a href="icon-triangle-right-outline.svg"><img src="icon-triangle-right-outline.svg" width="250"></a> | **icon-triangle-right-outline.svg** |
+| <a href="icon-triangle-up-filled.svg"><img src="icon-triangle-up-filled.svg" width="250"></a> | **icon-triangle-up-filled.svg** |
+| <a href="icon-triangle-up-outline.svg"><img src="icon-triangle-up-outline.svg" width="250"></a> | **icon-triangle-up-outline.svg** |
+| <a href="icon-triangle-with-blocks.svg"><img src="icon-triangle-with-blocks.svg" width="250"></a> | **icon-triangle-with-blocks.svg** |
+| <a href="icon-triangle.svg"><img src="icon-triangle.svg" width="250"></a> | **icon-triangle.svg** |
+| <a href="icon-truck.svg"><img src="icon-truck.svg" width="250"></a> | **icon-truck.svg** |
+| <a href="loader.svg"><img src="loader.svg" width="250"></a> | **loader.svg** |
+| <a href="night.svg"><img src="night.svg" width="250"></a> | **night.svg** |
+| <a href="wind.svg"><img src="wind.svg" width="250"></a> | **wind.svg** |

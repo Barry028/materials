@@ -1,35 +1,35 @@
-# 🖼️ 22 素材庫
+# 🖼️ 22
 
 [⬅️ 返回主目錄](../../../../../../README.md)
 
-| 預覽 (點擊放大) | 檔案資訊 |
+| 預覽 | 資訊 |
 | :--- | :--- |
-| <a href="emblem-added.svg"><img src="emblem-added.svg" width="250"></a> | **emblem-added.svg**<br>Vector (SVG) | 745.00B |
-| <a href="emblem-checked.svg"><img src="emblem-checked.svg" width="250"></a> | **emblem-checked.svg**<br>Vector (SVG) | 770.00B |
-| <a href="emblem-encrypted-locked.svg"><img src="emblem-encrypted-locked.svg" width="250"></a> | **emblem-encrypted-locked.svg**<br>Vector (SVG) | 838.00B |
-| <a href="emblem-error.svg"><img src="emblem-error.svg" width="250"></a> | **emblem-error.svg**<br>Vector (SVG) | 831.00B |
-| <a href="emblem-important.svg"><img src="emblem-important.svg" width="250"></a> | **emblem-important.svg**<br>Vector (SVG) | 744.00B |
-| <a href="emblem-information.svg"><img src="emblem-information.svg" width="250"></a> | **emblem-information.svg**<br>Vector (SVG) | 738.00B |
-| <a href="emblem-locked.svg"><img src="emblem-locked.svg" width="250"></a> | **emblem-locked.svg**<br>Vector (SVG) | 836.00B |
-| <a href="emblem-mounted.svg"><img src="emblem-mounted.svg" width="250"></a> | **emblem-mounted.svg**<br>Vector (SVG) | 798.00B |
-| <a href="emblem-pause.svg"><img src="emblem-pause.svg" width="250"></a> | **emblem-pause.svg**<br>Vector (SVG) | 600.00B |
-| <a href="emblem-question.svg"><img src="emblem-question.svg" width="250"></a> | **emblem-question.svg**<br>Vector (SVG) | 697.00B |
-| <a href="emblem-readonly.svg"><img src="emblem-readonly.svg" width="250"></a> | **emblem-readonly.svg**<br>Vector (SVG) | 694.00B |
-| <a href="emblem-remove.svg"><img src="emblem-remove.svg" width="250"></a> | **emblem-remove.svg**<br>Vector (SVG) | 725.00B |
-| <a href="emblem-shared.svg"><img src="emblem-shared.svg" width="250"></a> | **emblem-shared.svg**<br>Vector (SVG) | 1.12KB |
-| <a href="emblem-symbolic-link.svg"><img src="emblem-symbolic-link.svg" width="250"></a> | **emblem-symbolic-link.svg**<br>Vector (SVG) | 896.00B |
-| <a href="emblem-unavailable.svg"><img src="emblem-unavailable.svg" width="250"></a> | **emblem-unavailable.svg**<br>Vector (SVG) | 687.00B |
-| <a href="emblem-unlocked.svg"><img src="emblem-unlocked.svg" width="250"></a> | **emblem-unlocked.svg**<br>Vector (SVG) | 791.00B |
-| <a href="emblem-unmounted.svg"><img src="emblem-unmounted.svg" width="250"></a> | **emblem-unmounted.svg**<br>Vector (SVG) | 838.00B |
-| <a href="emblem-warning.svg"><img src="emblem-warning.svg" width="250"></a> | **emblem-warning.svg**<br>Vector (SVG) | 761.00B |
-| <a href="rating-half-rtl.svg"><img src="rating-half-rtl.svg" width="250"></a> | **rating-half-rtl.svg**<br>Vector (SVG) | 742.00B |
-| <a href="rating-half.svg"><img src="rating-half.svg" width="250"></a> | **rating-half.svg**<br>Vector (SVG) | 580.00B |
-| <a href="rating-unrated.svg"><img src="rating-unrated.svg" width="250"></a> | **rating-unrated.svg**<br>Vector (SVG) | 526.00B |
-| <a href="rating.svg"><img src="rating.svg" width="250"></a> | **rating.svg**<br>Vector (SVG) | 405.00B |
-| <a href="vcs-added.svg"><img src="vcs-added.svg" width="250"></a> | **vcs-added.svg**<br>Vector (SVG) | 770.00B |
-| <a href="vcs-conflicting.svg"><img src="vcs-conflicting.svg" width="250"></a> | **vcs-conflicting.svg**<br>Vector (SVG) | 769.00B |
-| <a href="vcs-locally-modified-unstaged.svg"><img src="vcs-locally-modified-unstaged.svg" width="250"></a> | **vcs-locally-modified-unstaged.svg**<br>Vector (SVG) | 874.00B |
-| <a href="vcs-locally-modified.svg"><img src="vcs-locally-modified.svg" width="250"></a> | **vcs-locally-modified.svg**<br>Vector (SVG) | 874.00B |
-| <a href="vcs-normal.svg"><img src="vcs-normal.svg" width="250"></a> | **vcs-normal.svg**<br>Vector (SVG) | 798.00B |
-| <a href="vcs-removed.svg"><img src="vcs-removed.svg" width="250"></a> | **vcs-removed.svg**<br>Vector (SVG) | 759.00B |
-| <a href="vcs-update-required.svg"><img src="vcs-update-required.svg" width="250"></a> | **vcs-update-required.svg**<br>Vector (SVG) | 844.00B |
+| <a href="emblem-added.svg"><img src="emblem-added.svg" width="250"></a> | **emblem-added.svg** |
+| <a href="emblem-checked.svg"><img src="emblem-checked.svg" width="250"></a> | **emblem-checked.svg** |
+| <a href="emblem-encrypted-locked.svg"><img src="emblem-encrypted-locked.svg" width="250"></a> | **emblem-encrypted-locked.svg** |
+| <a href="emblem-error.svg"><img src="emblem-error.svg" width="250"></a> | **emblem-error.svg** |
+| <a href="emblem-important.svg"><img src="emblem-important.svg" width="250"></a> | **emblem-important.svg** |
+| <a href="emblem-information.svg"><img src="emblem-information.svg" width="250"></a> | **emblem-information.svg** |
+| <a href="emblem-locked.svg"><img src="emblem-locked.svg" width="250"></a> | **emblem-locked.svg** |
+| <a href="emblem-mounted.svg"><img src="emblem-mounted.svg" width="250"></a> | **emblem-mounted.svg** |
+| <a href="emblem-pause.svg"><img src="emblem-pause.svg" width="250"></a> | **emblem-pause.svg** |
+| <a href="emblem-question.svg"><img src="emblem-question.svg" width="250"></a> | **emblem-question.svg** |
+| <a href="emblem-readonly.svg"><img src="emblem-readonly.svg" width="250"></a> | **emblem-readonly.svg** |
+| <a href="emblem-remove.svg"><img src="emblem-remove.svg" width="250"></a> | **emblem-remove.svg** |
+| <a href="emblem-shared.svg"><img src="emblem-shared.svg" width="250"></a> | **emblem-shared.svg** |
+| <a href="emblem-symbolic-link.svg"><img src="emblem-symbolic-link.svg" width="250"></a> | **emblem-symbolic-link.svg** |
+| <a href="emblem-unavailable.svg"><img src="emblem-unavailable.svg" width="250"></a> | **emblem-unavailable.svg** |
+| <a href="emblem-unlocked.svg"><img src="emblem-unlocked.svg" width="250"></a> | **emblem-unlocked.svg** |
+| <a href="emblem-unmounted.svg"><img src="emblem-unmounted.svg" width="250"></a> | **emblem-unmounted.svg** |
+| <a href="emblem-warning.svg"><img src="emblem-warning.svg" width="250"></a> | **emblem-warning.svg** |
+| <a href="rating-half-rtl.svg"><img src="rating-half-rtl.svg" width="250"></a> | **rating-half-rtl.svg** |
+| <a href="rating-half.svg"><img src="rating-half.svg" width="250"></a> | **rating-half.svg** |
+| <a href="rating-unrated.svg"><img src="rating-unrated.svg" width="250"></a> | **rating-unrated.svg** |
+| <a href="rating.svg"><img src="rating.svg" width="250"></a> | **rating.svg** |
+| <a href="vcs-added.svg"><img src="vcs-added.svg" width="250"></a> | **vcs-added.svg** |
+| <a href="vcs-conflicting.svg"><img src="vcs-conflicting.svg" width="250"></a> | **vcs-conflicting.svg** |
+| <a href="vcs-locally-modified-unstaged.svg"><img src="vcs-locally-modified-unstaged.svg" width="250"></a> | **vcs-locally-modified-unstaged.svg** |
+| <a href="vcs-locally-modified.svg"><img src="vcs-locally-modified.svg" width="250"></a> | **vcs-locally-modified.svg** |
+| <a href="vcs-normal.svg"><img src="vcs-normal.svg" width="250"></a> | **vcs-normal.svg** |
+| <a href="vcs-removed.svg"><img src="vcs-removed.svg" width="250"></a> | **vcs-removed.svg** |
+| <a href="vcs-update-required.svg"><img src="vcs-update-required.svg" width="250"></a> | **vcs-update-required.svg** |

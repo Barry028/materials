@@ -1,104 +1,104 @@
-# 🖼️ media 素材庫
+# 🖼️ media
 
 [⬅️ 返回主目錄](../../../../../README.md)
 
-| 預覽 (點擊放大) | 檔案資訊 |
+| 預覽 | 資訊 |
 | :--- | :--- |
-| <a href="4k-line.svg"><img src="4k-line.svg" width="250"></a> | **4k-line.svg**<br>Vector (SVG) | 725.00B |
-| <a href="album-line.svg"><img src="album-line.svg" width="250"></a> | **album-line.svg**<br>Vector (SVG) | 1.26KB |
-| <a href="aspect-ratio-line.svg"><img src="aspect-ratio-line.svg" width="250"></a> | **aspect-ratio-line.svg**<br>Vector (SVG) | 644.00B |
-| <a href="broadcast-line.svg"><img src="broadcast-line.svg" width="250"></a> | **broadcast-line.svg**<br>Vector (SVG) | 2.01KB |
-| <a href="camera-2-line.svg"><img src="camera-2-line.svg" width="250"></a> | **camera-2-line.svg**<br>Vector (SVG) | 1.20KB |
-| <a href="camera-3-line.svg"><img src="camera-3-line.svg" width="250"></a> | **camera-3-line.svg**<br>Vector (SVG) | 1.23KB |
-| <a href="camera-lens-fill.svg"><img src="camera-lens-fill.svg" width="250"></a> | **camera-lens-fill.svg**<br>Vector (SVG) | 1.02KB |
-| <a href="camera-line.svg"><img src="camera-line.svg" width="250"></a> | **camera-line.svg**<br>Vector (SVG) | 1.26KB |
-| <a href="camera-off-line.svg"><img src="camera-off-line.svg" width="250"></a> | **camera-off-line.svg**<br>Vector (SVG) | 1.53KB |
-| <a href="camera-switch-line.svg"><img src="camera-switch-line.svg" width="250"></a> | **camera-switch-line.svg**<br>Vector (SVG) | 1.46KB |
-| <a href="clapperboard-line.svg"><img src="clapperboard-line.svg" width="250"></a> | **clapperboard-line.svg**<br>Vector (SVG) | 708.00B |
-| <a href="closed-captioning-line.svg"><img src="closed-captioning-line.svg" width="250"></a> | **closed-captioning-line.svg**<br>Vector (SVG) | 914.00B |
-| <a href="disc-line.svg"><img src="disc-line.svg" width="250"></a> | **disc-line.svg**<br>Vector (SVG) | 1.13KB |
-| <a href="dv-line.svg"><img src="dv-line.svg" width="250"></a> | **dv-line.svg**<br>Vector (SVG) | 2.29KB |
-| <a href="dvd-line.svg"><img src="dvd-line.svg" width="250"></a> | **dvd-line.svg**<br>Vector (SVG) | 706.00B |
-| <a href="eject-line.svg"><img src="eject-line.svg" width="250"></a> | **eject-line.svg**<br>Vector (SVG) | 1.20KB |
-| <a href="equalizer-line.svg"><img src="equalizer-line.svg" width="250"></a> | **equalizer-line.svg**<br>Vector (SVG) | 2.36KB |
-| <a href="film-line.svg"><img src="film-line.svg" width="250"></a> | **film-line.svg**<br>Vector (SVG) | 735.00B |
-| <a href="fullscreen-exit-line.svg"><img src="fullscreen-exit-line.svg" width="250"></a> | **fullscreen-exit-line.svg**<br>Vector (SVG) | 355.00B |
-| <a href="fullscreen-line.svg"><img src="fullscreen-line.svg" width="250"></a> | **fullscreen-line.svg**<br>Vector (SVG) | 362.00B |
-| <a href="gallery-line.svg"><img src="gallery-line.svg" width="250"></a> | **gallery-line.svg**<br>Vector (SVG) | 1.12KB |
-| <a href="gallery-upload-line.svg"><img src="gallery-upload-line.svg" width="250"></a> | **gallery-upload-line.svg**<br>Vector (SVG) | 656.00B |
-| <a href="hd-line.svg"><img src="hd-line.svg" width="250"></a> | **hd-line.svg**<br>Vector (SVG) | 1010.00B |
-| <a href="headphone-line.svg"><img src="headphone-line.svg" width="250"></a> | **headphone-line.svg**<br>Vector (SVG) | 976.00B |
-| <a href="hq-line.svg"><img src="hq-line.svg" width="250"></a> | **hq-line.svg**<br>Vector (SVG) | 1.00KB |
-| <a href="image-2-line.svg"><img src="image-2-line.svg" width="250"></a> | **image-2-line.svg**<br>Vector (SVG) | 1.01KB |
-| <a href="image-add-line.svg"><img src="image-add-line.svg" width="250"></a> | **image-add-line.svg**<br>Vector (SVG) | 897.00B |
-| <a href="image-edit-line.svg"><img src="image-edit-line.svg" width="250"></a> | **image-edit-line.svg**<br>Vector (SVG) | 702.00B |
-| <a href="image-line.svg"><img src="image-line.svg" width="250"></a> | **image-line.svg**<br>Vector (SVG) | 983.00B |
-| <a href="landscape-line.svg"><img src="landscape-line.svg" width="250"></a> | **landscape-line.svg**<br>Vector (SVG) | 711.00B |
-| <a href="live-line.svg"><img src="live-line.svg" width="250"></a> | **live-line.svg**<br>Vector (SVG) | 1.48KB |
-| <a href="mic-2-line.svg"><img src="mic-2-line.svg" width="250"></a> | **mic-2-line.svg**<br>Vector (SVG) | 1.36KB |
-| <a href="mic-line.svg"><img src="mic-line.svg" width="250"></a> | **mic-line.svg**<br>Vector (SVG) | 1.45KB |
-| <a href="mic-off-line.svg"><img src="mic-off-line.svg" width="250"></a> | **mic-off-line.svg**<br>Vector (SVG) | 1.68KB |
-| <a href="movie-2-line.svg"><img src="movie-2-line.svg" width="250"></a> | **movie-2-line.svg**<br>Vector (SVG) | 1.95KB |
-| <a href="movie-line.svg"><img src="movie-line.svg" width="250"></a> | **movie-line.svg**<br>Vector (SVG) | 1.18KB |
-| <a href="music-2-line.svg"><img src="music-2-line.svg" width="250"></a> | **music-2-line.svg**<br>Vector (SVG) | 1.68KB |
-| <a href="music-line.svg"><img src="music-line.svg" width="250"></a> | **music-line.svg**<br>Vector (SVG) | 996.00B |
-| <a href="mv-line.svg"><img src="mv-line.svg" width="250"></a> | **mv-line.svg**<br>Vector (SVG) | 999.00B |
-| <a href="notification-2-line.svg"><img src="notification-2-line.svg" width="250"></a> | **notification-2-line.svg**<br>Vector (SVG) | 586.00B |
-| <a href="notification-3-line.svg"><img src="notification-3-line.svg" width="250"></a> | **notification-3-line.svg**<br>Vector (SVG) | 623.00B |
-| <a href="notification-4-line.svg"><img src="notification-4-line.svg" width="250"></a> | **notification-4-line.svg**<br>Vector (SVG) | 1.12KB |
-| <a href="notification-line.svg"><img src="notification-line.svg" width="250"></a> | **notification-line.svg**<br>Vector (SVG) | 574.00B |
-| <a href="notification-off-line.svg"><img src="notification-off-line.svg" width="250"></a> | **notification-off-line.svg**<br>Vector (SVG) | 1.29KB |
-| <a href="order-play-line.svg"><img src="order-play-line.svg" width="250"></a> | **order-play-line.svg**<br>Vector (SVG) | 729.00B |
-| <a href="pause-circle-line.svg"><img src="pause-circle-line.svg" width="250"></a> | **pause-circle-line.svg**<br>Vector (SVG) | 709.00B |
-| <a href="pause-line.svg"><img src="pause-line.svg" width="250"></a> | **pause-line.svg**<br>Vector (SVG) | 302.00B |
-| <a href="pause-mini-line.svg"><img src="pause-mini-line.svg" width="250"></a> | **pause-mini-line.svg**<br>Vector (SVG) | 884.00B |
-| <a href="phone-camera-line.svg"><img src="phone-camera-line.svg" width="250"></a> | **phone-camera-line.svg**<br>Vector (SVG) | 1.24KB |
-| <a href="picture-in-picture-2-line.svg"><img src="picture-in-picture-2-line.svg" width="250"></a> | **picture-in-picture-2-line.svg**<br>Vector (SVG) | 940.00B |
-| <a href="picture-in-picture-exit-line.svg"><img src="picture-in-picture-exit-line.svg" width="250"></a> | **picture-in-picture-exit-line.svg**<br>Vector (SVG) | 940.00B |
-| <a href="picture-in-picture-line.svg"><img src="picture-in-picture-line.svg" width="250"></a> | **picture-in-picture-line.svg**<br>Vector (SVG) | 867.00B |
-| <a href="play-circle-line.svg"><img src="play-circle-line.svg" width="250"></a> | **play-circle-line.svg**<br>Vector (SVG) | 1.25KB |
-| <a href="play-line.svg"><img src="play-line.svg" width="250"></a> | **play-line.svg**<br>Vector (SVG) | 913.00B |
-| <a href="play-list-2-line.svg"><img src="play-list-2-line.svg" width="250"></a> | **play-list-2-line.svg**<br>Vector (SVG) | 382.00B |
-| <a href="play-list-add-line.svg"><img src="play-list-add-line.svg" width="250"></a> | **play-list-add-line.svg**<br>Vector (SVG) | 362.00B |
-| <a href="play-list-line.svg"><img src="play-list-line.svg" width="250"></a> | **play-list-line.svg**<br>Vector (SVG) | 1.00KB |
-| <a href="play-mini-line.svg"><img src="play-mini-line.svg" width="250"></a> | **play-mini-line.svg**<br>Vector (SVG) | 931.00B |
-| <a href="polaroid-2-line.svg"><img src="polaroid-2-line.svg" width="250"></a> | **polaroid-2-line.svg**<br>Vector (SVG) | 1.16KB |
-| <a href="polaroid-line.svg"><img src="polaroid-line.svg" width="250"></a> | **polaroid-line.svg**<br>Vector (SVG) | 1.50KB |
-| <a href="radio-2-line.svg"><img src="radio-2-line.svg" width="250"></a> | **radio-2-line.svg**<br>Vector (SVG) | 947.00B |
-| <a href="radio-line.svg"><img src="radio-line.svg" width="250"></a> | **radio-line.svg**<br>Vector (SVG) | 942.00B |
-| <a href="record-circle-line.svg"><img src="record-circle-line.svg" width="250"></a> | **record-circle-line.svg**<br>Vector (SVG) | 982.00B |
-| <a href="repeat-2-line.svg"><img src="repeat-2-line.svg" width="250"></a> | **repeat-2-line.svg**<br>Vector (SVG) | 1.40KB |
-| <a href="repeat-line.svg"><img src="repeat-line.svg" width="250"></a> | **repeat-line.svg**<br>Vector (SVG) | 487.00B |
-| <a href="repeat-one-line.svg"><img src="repeat-one-line.svg" width="250"></a> | **repeat-one-line.svg**<br>Vector (SVG) | 1.44KB |
-| <a href="rewind-line.svg"><img src="rewind-line.svg" width="250"></a> | **rewind-line.svg**<br>Vector (SVG) | 1.36KB |
-| <a href="rewind-mini-line.svg"><img src="rewind-mini-line.svg" width="250"></a> | **rewind-mini-line.svg**<br>Vector (SVG) | 1.47KB |
-| <a href="rhythm-line.svg"><img src="rhythm-line.svg" width="250"></a> | **rhythm-line.svg**<br>Vector (SVG) | 336.00B |
-| <a href="shuffle-line.svg"><img src="shuffle-line.svg" width="250"></a> | **shuffle-line.svg**<br>Vector (SVG) | 1.12KB |
-| <a href="skip-back-line.svg"><img src="skip-back-line.svg" width="250"></a> | **skip-back-line.svg**<br>Vector (SVG) | 1015.00B |
-| <a href="skip-back-mini-line.svg"><img src="skip-back-mini-line.svg" width="250"></a> | **skip-back-mini-line.svg**<br>Vector (SVG) | 1.18KB |
-| <a href="skip-forward-line.svg"><img src="skip-forward-line.svg" width="250"></a> | **skip-forward-line.svg**<br>Vector (SVG) | 1.00KB |
-| <a href="skip-forward-mini-line.svg"><img src="skip-forward-mini-line.svg" width="250"></a> | **skip-forward-mini-line.svg**<br>Vector (SVG) | 1.13KB |
-| <a href="sound-module-line.svg"><img src="sound-module-line.svg" width="250"></a> | **sound-module-line.svg**<br>Vector (SVG) | 405.00B |
-| <a href="speaker-2-line.svg"><img src="speaker-2-line.svg" width="250"></a> | **speaker-2-line.svg**<br>Vector (SVG) | 1.50KB |
-| <a href="speaker-3-line.svg"><img src="speaker-3-line.svg" width="250"></a> | **speaker-3-line.svg**<br>Vector (SVG) | 2.66KB |
-| <a href="speaker-line.svg"><img src="speaker-line.svg" width="250"></a> | **speaker-line.svg**<br>Vector (SVG) | 1.70KB |
-| <a href="speed-line.svg"><img src="speed-line.svg" width="250"></a> | **speed-line.svg**<br>Vector (SVG) | 1.32KB |
-| <a href="speed-mini-line.svg"><img src="speed-mini-line.svg" width="250"></a> | **speed-mini-line.svg**<br>Vector (SVG) | 1.50KB |
-| <a href="stop-circle-line.svg"><img src="stop-circle-line.svg" width="250"></a> | **stop-circle-line.svg**<br>Vector (SVG) | 692.00B |
-| <a href="stop-line.svg"><img src="stop-line.svg" width="250"></a> | **stop-line.svg**<br>Vector (SVG) | 597.00B |
-| <a href="stop-mini-line.svg"><img src="stop-mini-line.svg" width="250"></a> | **stop-mini-line.svg**<br>Vector (SVG) | 597.00B |
-| <a href="surround-sound-line.svg"><img src="surround-sound-line.svg" width="250"></a> | **surround-sound-line.svg**<br>Vector (SVG) | 1.86KB |
-| <a href="tape-line.svg"><img src="tape-line.svg" width="250"></a> | **tape-line.svg**<br>Vector (SVG) | 1.92KB |
-| <a href="video-add-line.svg"><img src="video-add-line.svg" width="250"></a> | **video-add-line.svg**<br>Vector (SVG) | 664.00B |
-| <a href="video-download-line.svg"><img src="video-download-line.svg" width="250"></a> | **video-download-line.svg**<br>Vector (SVG) | 644.00B |
-| <a href="video-line.svg"><img src="video-line.svg" width="250"></a> | **video-line.svg**<br>Vector (SVG) | 1.12KB |
-| <a href="video-upload-line.svg"><img src="video-upload-line.svg" width="250"></a> | **video-upload-line.svg**<br>Vector (SVG) | 643.00B |
-| <a href="vidicon-2-line.svg"><img src="vidicon-2-line.svg" width="250"></a> | **vidicon-2-line.svg**<br>Vector (SVG) | 1.05KB |
-| <a href="vidicon-line.svg"><img src="vidicon-line.svg" width="250"></a> | **vidicon-line.svg**<br>Vector (SVG) | 1.03KB |
-| <a href="voiceprint-line.svg"><img src="voiceprint-line.svg" width="250"></a> | **voiceprint-line.svg**<br>Vector (SVG) | 369.00B |
-| <a href="volume-down-line.svg"><img src="volume-down-line.svg" width="250"></a> | **volume-down-line.svg**<br>Vector (SVG) | 1.18KB |
-| <a href="volume-mute-line.svg"><img src="volume-mute-line.svg" width="250"></a> | **volume-mute-line.svg**<br>Vector (SVG) | 1.05KB |
-| <a href="volume-off-vibrate-line.svg"><img src="volume-off-vibrate-line.svg" width="250"></a> | **volume-off-vibrate-line.svg**<br>Vector (SVG) | 1.37KB |
-| <a href="volume-up-line.svg"><img src="volume-up-line.svg" width="250"></a> | **volume-up-line.svg**<br>Vector (SVG) | 1.51KB |
-| <a href="volume-vibrate-line.svg"><img src="volume-vibrate-line.svg" width="250"></a> | **volume-vibrate-line.svg**<br>Vector (SVG) | 1.16KB |
-| <a href="webcam-line.svg"><img src="webcam-line.svg" width="250"></a> | **webcam-line.svg**<br>Vector (SVG) | 1.68KB |
+| <a href="4k-line.svg"><img src="4k-line.svg" width="250"></a> | **4k-line.svg** |
+| <a href="album-line.svg"><img src="album-line.svg" width="250"></a> | **album-line.svg** |
+| <a href="aspect-ratio-line.svg"><img src="aspect-ratio-line.svg" width="250"></a> | **aspect-ratio-line.svg** |
+| <a href="broadcast-line.svg"><img src="broadcast-line.svg" width="250"></a> | **broadcast-line.svg** |
+| <a href="camera-2-line.svg"><img src="camera-2-line.svg" width="250"></a> | **camera-2-line.svg** |
+| <a href="camera-3-line.svg"><img src="camera-3-line.svg" width="250"></a> | **camera-3-line.svg** |
+| <a href="camera-lens-fill.svg"><img src="camera-lens-fill.svg" width="250"></a> | **camera-lens-fill.svg** |
+| <a href="camera-line.svg"><img src="camera-line.svg" width="250"></a> | **camera-line.svg** |
+| <a href="camera-off-line.svg"><img src="camera-off-line.svg" width="250"></a> | **camera-off-line.svg** |
+| <a href="camera-switch-line.svg"><img src="camera-switch-line.svg" width="250"></a> | **camera-switch-line.svg** |
+| <a href="clapperboard-line.svg"><img src="clapperboard-line.svg" width="250"></a> | **clapperboard-line.svg** |
+| <a href="closed-captioning-line.svg"><img src="closed-captioning-line.svg" width="250"></a> | **closed-captioning-line.svg** |
+| <a href="disc-line.svg"><img src="disc-line.svg" width="250"></a> | **disc-line.svg** |
+| <a href="dv-line.svg"><img src="dv-line.svg" width="250"></a> | **dv-line.svg** |
+| <a href="dvd-line.svg"><img src="dvd-line.svg" width="250"></a> | **dvd-line.svg** |
+| <a href="eject-line.svg"><img src="eject-line.svg" width="250"></a> | **eject-line.svg** |
+| <a href="equalizer-line.svg"><img src="equalizer-line.svg" width="250"></a> | **equalizer-line.svg** |
+| <a href="film-line.svg"><img src="film-line.svg" width="250"></a> | **film-line.svg** |
+| <a href="fullscreen-exit-line.svg"><img src="fullscreen-exit-line.svg" width="250"></a> | **fullscreen-exit-line.svg** |
+| <a href="fullscreen-line.svg"><img src="fullscreen-line.svg" width="250"></a> | **fullscreen-line.svg** |
+| <a href="gallery-line.svg"><img src="gallery-line.svg" width="250"></a> | **gallery-line.svg** |
+| <a href="gallery-upload-line.svg"><img src="gallery-upload-line.svg" width="250"></a> | **gallery-upload-line.svg** |
+| <a href="hd-line.svg"><img src="hd-line.svg" width="250"></a> | **hd-line.svg** |
+| <a href="headphone-line.svg"><img src="headphone-line.svg" width="250"></a> | **headphone-line.svg** |
+| <a href="hq-line.svg"><img src="hq-line.svg" width="250"></a> | **hq-line.svg** |
+| <a href="image-2-line.svg"><img src="image-2-line.svg" width="250"></a> | **image-2-line.svg** |
+| <a href="image-add-line.svg"><img src="image-add-line.svg" width="250"></a> | **image-add-line.svg** |
+| <a href="image-edit-line.svg"><img src="image-edit-line.svg" width="250"></a> | **image-edit-line.svg** |
+| <a href="image-line.svg"><img src="image-line.svg" width="250"></a> | **image-line.svg** |
+| <a href="landscape-line.svg"><img src="landscape-line.svg" width="250"></a> | **landscape-line.svg** |
+| <a href="live-line.svg"><img src="live-line.svg" width="250"></a> | **live-line.svg** |
+| <a href="mic-2-line.svg"><img src="mic-2-line.svg" width="250"></a> | **mic-2-line.svg** |
+| <a href="mic-line.svg"><img src="mic-line.svg" width="250"></a> | **mic-line.svg** |
+| <a href="mic-off-line.svg"><img src="mic-off-line.svg" width="250"></a> | **mic-off-line.svg** |
+| <a href="movie-2-line.svg"><img src="movie-2-line.svg" width="250"></a> | **movie-2-line.svg** |
+| <a href="movie-line.svg"><img src="movie-line.svg" width="250"></a> | **movie-line.svg** |
+| <a href="music-2-line.svg"><img src="music-2-line.svg" width="250"></a> | **music-2-line.svg** |
+| <a href="music-line.svg"><img src="music-line.svg" width="250"></a> | **music-line.svg** |
+| <a href="mv-line.svg"><img src="mv-line.svg" width="250"></a> | **mv-line.svg** |
+| <a href="notification-2-line.svg"><img src="notification-2-line.svg" width="250"></a> | **notification-2-line.svg** |
+| <a href="notification-3-line.svg"><img src="notification-3-line.svg" width="250"></a> | **notification-3-line.svg** |
+| <a href="notification-4-line.svg"><img src="notification-4-line.svg" width="250"></a> | **notification-4-line.svg** |
+| <a href="notification-line.svg"><img src="notification-line.svg" width="250"></a> | **notification-line.svg** |
+| <a href="notification-off-line.svg"><img src="notification-off-line.svg" width="250"></a> | **notification-off-line.svg** |
+| <a href="order-play-line.svg"><img src="order-play-line.svg" width="250"></a> | **order-play-line.svg** |
+| <a href="pause-circle-line.svg"><img src="pause-circle-line.svg" width="250"></a> | **pause-circle-line.svg** |
+| <a href="pause-line.svg"><img src="pause-line.svg" width="250"></a> | **pause-line.svg** |
+| <a href="pause-mini-line.svg"><img src="pause-mini-line.svg" width="250"></a> | **pause-mini-line.svg** |
+| <a href="phone-camera-line.svg"><img src="phone-camera-line.svg" width="250"></a> | **phone-camera-line.svg** |
+| <a href="picture-in-picture-2-line.svg"><img src="picture-in-picture-2-line.svg" width="250"></a> | **picture-in-picture-2-line.svg** |
+| <a href="picture-in-picture-exit-line.svg"><img src="picture-in-picture-exit-line.svg" width="250"></a> | **picture-in-picture-exit-line.svg** |
+| <a href="picture-in-picture-line.svg"><img src="picture-in-picture-line.svg" width="250"></a> | **picture-in-picture-line.svg** |
+| <a href="play-circle-line.svg"><img src="play-circle-line.svg" width="250"></a> | **play-circle-line.svg** |
+| <a href="play-line.svg"><img src="play-line.svg" width="250"></a> | **play-line.svg** |
+| <a href="play-list-2-line.svg"><img src="play-list-2-line.svg" width="250"></a> | **play-list-2-line.svg** |
+| <a href="play-list-add-line.svg"><img src="play-list-add-line.svg" width="250"></a> | **play-list-add-line.svg** |
+| <a href="play-list-line.svg"><img src="play-list-line.svg" width="250"></a> | **play-list-line.svg** |
+| <a href="play-mini-line.svg"><img src="play-mini-line.svg" width="250"></a> | **play-mini-line.svg** |
+| <a href="polaroid-2-line.svg"><img src="polaroid-2-line.svg" width="250"></a> | **polaroid-2-line.svg** |
+| <a href="polaroid-line.svg"><img src="polaroid-line.svg" width="250"></a> | **polaroid-line.svg** |
+| <a href="radio-2-line.svg"><img src="radio-2-line.svg" width="250"></a> | **radio-2-line.svg** |
+| <a href="radio-line.svg"><img src="radio-line.svg" width="250"></a> | **radio-line.svg** |
+| <a href="record-circle-line.svg"><img src="record-circle-line.svg" width="250"></a> | **record-circle-line.svg** |
+| <a href="repeat-2-line.svg"><img src="repeat-2-line.svg" width="250"></a> | **repeat-2-line.svg** |
+| <a href="repeat-line.svg"><img src="repeat-line.svg" width="250"></a> | **repeat-line.svg** |
+| <a href="repeat-one-line.svg"><img src="repeat-one-line.svg" width="250"></a> | **repeat-one-line.svg** |
+| <a href="rewind-line.svg"><img src="rewind-line.svg" width="250"></a> | **rewind-line.svg** |
+| <a href="rewind-mini-line.svg"><img src="rewind-mini-line.svg" width="250"></a> | **rewind-mini-line.svg** |
+| <a href="rhythm-line.svg"><img src="rhythm-line.svg" width="250"></a> | **rhythm-line.svg** |
+| <a href="shuffle-line.svg"><img src="shuffle-line.svg" width="250"></a> | **shuffle-line.svg** |
+| <a href="skip-back-line.svg"><img src="skip-back-line.svg" width="250"></a> | **skip-back-line.svg** |
+| <a href="skip-back-mini-line.svg"><img src="skip-back-mini-line.svg" width="250"></a> | **skip-back-mini-line.svg** |
+| <a href="skip-forward-line.svg"><img src="skip-forward-line.svg" width="250"></a> | **skip-forward-line.svg** |
+| <a href="skip-forward-mini-line.svg"><img src="skip-forward-mini-line.svg" width="250"></a> | **skip-forward-mini-line.svg** |
+| <a href="sound-module-line.svg"><img src="sound-module-line.svg" width="250"></a> | **sound-module-line.svg** |
+| <a href="speaker-2-line.svg"><img src="speaker-2-line.svg" width="250"></a> | **speaker-2-line.svg** |
+| <a href="speaker-3-line.svg"><img src="speaker-3-line.svg" width="250"></a> | **speaker-3-line.svg** |
+| <a href="speaker-line.svg"><img src="speaker-line.svg" width="250"></a> | **speaker-line.svg** |
+| <a href="speed-line.svg"><img src="speed-line.svg" width="250"></a> | **speed-line.svg** |
+| <a href="speed-mini-line.svg"><img src="speed-mini-line.svg" width="250"></a> | **speed-mini-line.svg** |
+| <a href="stop-circle-line.svg"><img src="stop-circle-line.svg" width="250"></a> | **stop-circle-line.svg** |
+| <a href="stop-line.svg"><img src="stop-line.svg" width="250"></a> | **stop-line.svg** |
+| <a href="stop-mini-line.svg"><img src="stop-mini-line.svg" width="250"></a> | **stop-mini-line.svg** |
+| <a href="surround-sound-line.svg"><img src="surround-sound-line.svg" width="250"></a> | **surround-sound-line.svg** |
+| <a href="tape-line.svg"><img src="tape-line.svg" width="250"></a> | **tape-line.svg** |
+| <a href="video-add-line.svg"><img src="video-add-line.svg" width="250"></a> | **video-add-line.svg** |
+| <a href="video-download-line.svg"><img src="video-download-line.svg" width="250"></a> | **video-download-line.svg** |
+| <a href="video-line.svg"><img src="video-line.svg" width="250"></a> | **video-line.svg** |
+| <a href="video-upload-line.svg"><img src="video-upload-line.svg" width="250"></a> | **video-upload-line.svg** |
+| <a href="vidicon-2-line.svg"><img src="vidicon-2-line.svg" width="250"></a> | **vidicon-2-line.svg** |
+| <a href="vidicon-line.svg"><img src="vidicon-line.svg" width="250"></a> | **vidicon-line.svg** |
+| <a href="voiceprint-line.svg"><img src="voiceprint-line.svg" width="250"></a> | **voiceprint-line.svg** |
+| <a href="volume-down-line.svg"><img src="volume-down-line.svg" width="250"></a> | **volume-down-line.svg** |
+| <a href="volume-mute-line.svg"><img src="volume-mute-line.svg" width="250"></a> | **volume-mute-line.svg** |
+| <a href="volume-off-vibrate-line.svg"><img src="volume-off-vibrate-line.svg" width="250"></a> | **volume-off-vibrate-line.svg** |
+| <a href="volume-up-line.svg"><img src="volume-up-line.svg" width="250"></a> | **volume-up-line.svg** |
+| <a href="volume-vibrate-line.svg"><img src="volume-vibrate-line.svg" width="250"></a> | **volume-vibrate-line.svg** |
+| <a href="webcam-line.svg"><img src="webcam-line.svg" width="250"></a> | **webcam-line.svg** |

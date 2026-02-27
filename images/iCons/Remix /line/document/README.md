@@ -1,106 +1,106 @@
-# 🖼️ document 素材庫
+# 🖼️ document
 
 [⬅️ 返回主目錄](../../../../../README.md)
 
-| 預覽 (點擊放大) | 檔案資訊 |
+| 預覽 | 資訊 |
 | :--- | :--- |
-| <a href="article-line.svg"><img src="article-line.svg" width="250"></a> | **article-line.svg**<br>Vector (SVG) | 666.00B |
-| <a href="bill-line.svg"><img src="bill-line.svg" width="250"></a> | **bill-line.svg**<br>Vector (SVG) | 635.00B |
-| <a href="book-2-line.svg"><img src="book-2-line.svg" width="250"></a> | **book-2-line.svg**<br>Vector (SVG) | 658.00B |
-| <a href="book-3-line.svg"><img src="book-3-line.svg" width="250"></a> | **book-3-line.svg**<br>Vector (SVG) | 1.00KB |
-| <a href="book-line.svg"><img src="book-line.svg" width="250"></a> | **book-line.svg**<br>Vector (SVG) | 890.00B |
-| <a href="book-mark-line.svg"><img src="book-mark-line.svg" width="250"></a> | **book-mark-line.svg**<br>Vector (SVG) | 910.00B |
-| <a href="book-open-line.svg"><img src="book-open-line.svg" width="250"></a> | **book-open-line.svg**<br>Vector (SVG) | 950.00B |
-| <a href="book-read-line.svg"><img src="book-read-line.svg" width="250"></a> | **book-read-line.svg**<br>Vector (SVG) | 658.00B |
-| <a href="booklet-line.svg"><img src="booklet-line.svg" width="250"></a> | **booklet-line.svg**<br>Vector (SVG) | 413.00B |
-| <a href="clipboard-line.svg"><img src="clipboard-line.svg" width="250"></a> | **clipboard-line.svg**<br>Vector (SVG) | 575.00B |
-| <a href="contacts-book-2-line.svg"><img src="contacts-book-2-line.svg" width="250"></a> | **contacts-book-2-line.svg**<br>Vector (SVG) | 1.30KB |
-| <a href="contacts-book-line.svg"><img src="contacts-book-line.svg" width="250"></a> | **contacts-book-line.svg**<br>Vector (SVG) | 885.00B |
-| <a href="contacts-book-upload-line.svg"><img src="contacts-book-upload-line.svg" width="250"></a> | **contacts-book-upload-line.svg**<br>Vector (SVG) | 452.00B |
-| <a href="draft-line.svg"><img src="draft-line.svg" width="250"></a> | **draft-line.svg**<br>Vector (SVG) | 530.00B |
-| <a href="file-2-line.svg"><img src="file-2-line.svg" width="250"></a> | **file-2-line.svg**<br>Vector (SVG) | 642.00B |
-| <a href="file-3-line.svg"><img src="file-3-line.svg" width="250"></a> | **file-3-line.svg**<br>Vector (SVG) | 619.00B |
-| <a href="file-4-line.svg"><img src="file-4-line.svg" width="250"></a> | **file-4-line.svg**<br>Vector (SVG) | 541.00B |
-| <a href="file-add-line.svg"><img src="file-add-line.svg" width="250"></a> | **file-add-line.svg**<br>Vector (SVG) | 667.00B |
-| <a href="file-chart-2-line.svg"><img src="file-chart-2-line.svg" width="250"></a> | **file-chart-2-line.svg**<br>Vector (SVG) | 997.00B |
-| <a href="file-chart-line.svg"><img src="file-chart-line.svg" width="250"></a> | **file-chart-line.svg**<br>Vector (SVG) | 678.00B |
-| <a href="file-cloud-line.svg"><img src="file-cloud-line.svg" width="250"></a> | **file-cloud-line.svg**<br>Vector (SVG) | 1.77KB |
-| <a href="file-code-line.svg"><img src="file-code-line.svg" width="250"></a> | **file-code-line.svg**<br>Vector (SVG) | 790.00B |
-| <a href="file-copy-2-line.svg"><img src="file-copy-2-line.svg" width="250"></a> | **file-copy-2-line.svg**<br>Vector (SVG) | 846.00B |
-| <a href="file-copy-line.svg"><img src="file-copy-line.svg" width="250"></a> | **file-copy-line.svg**<br>Vector (SVG) | 809.00B |
-| <a href="file-damage-line.svg"><img src="file-damage-line.svg" width="250"></a> | **file-damage-line.svg**<br>Vector (SVG) | 698.00B |
-| <a href="file-download-line.svg"><img src="file-download-line.svg" width="250"></a> | **file-download-line.svg**<br>Vector (SVG) | 658.00B |
-| <a href="file-edit-line.svg"><img src="file-edit-line.svg" width="250"></a> | **file-edit-line.svg**<br>Vector (SVG) | 748.00B |
-| <a href="file-excel-2-line.svg"><img src="file-excel-2-line.svg" width="250"></a> | **file-excel-2-line.svg**<br>Vector (SVG) | 1.25KB |
-| <a href="file-excel-line.svg"><img src="file-excel-line.svg" width="250"></a> | **file-excel-line.svg**<br>Vector (SVG) | 705.00B |
-| <a href="file-forbid-line.svg"><img src="file-forbid-line.svg" width="250"></a> | **file-forbid-line.svg**<br>Vector (SVG) | 1.24KB |
-| <a href="file-gif-line.svg"><img src="file-gif-line.svg" width="250"></a> | **file-gif-line.svg**<br>Vector (SVG) | 620.00B |
-| <a href="file-history-line.svg"><img src="file-history-line.svg" width="250"></a> | **file-history-line.svg**<br>Vector (SVG) | 431.00B |
-| <a href="file-hwp-line.svg"><img src="file-hwp-line.svg" width="250"></a> | **file-hwp-line.svg**<br>Vector (SVG) | 1.88KB |
-| <a href="file-info-line.svg"><img src="file-info-line.svg" width="250"></a> | **file-info-line.svg**<br>Vector (SVG) | 663.00B |
-| <a href="file-line.svg"><img src="file-line.svg" width="250"></a> | **file-line.svg**<br>Vector (SVG) | 764.00B |
-| <a href="file-list-2-line.svg"><img src="file-list-2-line.svg" width="250"></a> | **file-list-2-line.svg**<br>Vector (SVG) | 649.00B |
-| <a href="file-list-3-line.svg"><img src="file-list-3-line.svg" width="250"></a> | **file-list-3-line.svg**<br>Vector (SVG) | 897.00B |
-| <a href="file-list-line.svg"><img src="file-list-line.svg" width="250"></a> | **file-list-line.svg**<br>Vector (SVG) | 649.00B |
-| <a href="file-lock-line.svg"><img src="file-lock-line.svg" width="250"></a> | **file-lock-line.svg**<br>Vector (SVG) | 965.00B |
-| <a href="file-mark-line.svg"><img src="file-mark-line.svg" width="250"></a> | **file-mark-line.svg**<br>Vector (SVG) | 620.00B |
-| <a href="file-music-line.svg"><img src="file-music-line.svg" width="250"></a> | **file-music-line.svg**<br>Vector (SVG) | 1015.00B |
-| <a href="file-paper-2-line.svg"><img src="file-paper-2-line.svg" width="250"></a> | **file-paper-2-line.svg**<br>Vector (SVG) | 890.00B |
-| <a href="file-paper-line.svg"><img src="file-paper-line.svg" width="250"></a> | **file-paper-line.svg**<br>Vector (SVG) | 756.00B |
-| <a href="file-pdf-line.svg"><img src="file-pdf-line.svg" width="250"></a> | **file-pdf-line.svg**<br>Vector (SVG) | 959.00B |
-| <a href="file-ppt-2-line.svg"><img src="file-ppt-2-line.svg" width="250"></a> | **file-ppt-2-line.svg**<br>Vector (SVG) | 1.21KB |
-| <a href="file-ppt-line.svg"><img src="file-ppt-line.svg" width="250"></a> | **file-ppt-line.svg**<br>Vector (SVG) | 660.00B |
-| <a href="file-reduce-line.svg"><img src="file-reduce-line.svg" width="250"></a> | **file-reduce-line.svg**<br>Vector (SVG) | 644.00B |
-| <a href="file-search-line.svg"><img src="file-search-line.svg" width="250"></a> | **file-search-line.svg**<br>Vector (SVG) | 1.60KB |
-| <a href="file-settings-line.svg"><img src="file-settings-line.svg" width="250"></a> | **file-settings-line.svg**<br>Vector (SVG) | 1.38KB |
-| <a href="file-shield-2-line.svg"><img src="file-shield-2-line.svg" width="250"></a> | **file-shield-2-line.svg**<br>Vector (SVG) | 825.00B |
-| <a href="file-shield-line.svg"><img src="file-shield-line.svg" width="250"></a> | **file-shield-line.svg**<br>Vector (SVG) | 833.00B |
-| <a href="file-shred-line.svg"><img src="file-shred-line.svg" width="250"></a> | **file-shred-line.svg**<br>Vector (SVG) | 441.00B |
-| <a href="file-text-line.svg"><img src="file-text-line.svg" width="250"></a> | **file-text-line.svg**<br>Vector (SVG) | 667.00B |
-| <a href="file-transfer-line.svg"><img src="file-transfer-line.svg" width="250"></a> | **file-transfer-line.svg**<br>Vector (SVG) | 658.00B |
-| <a href="file-unknow-line.svg"><img src="file-unknow-line.svg" width="250"></a> | **file-unknow-line.svg**<br>Vector (SVG) | 1.47KB |
-| <a href="file-upload-line.svg"><img src="file-upload-line.svg" width="250"></a> | **file-upload-line.svg**<br>Vector (SVG) | 660.00B |
-| <a href="file-user-line.svg"><img src="file-user-line.svg" width="250"></a> | **file-user-line.svg**<br>Vector (SVG) | 1.12KB |
-| <a href="file-warning-line.svg"><img src="file-warning-line.svg" width="250"></a> | **file-warning-line.svg**<br>Vector (SVG) | 662.00B |
-| <a href="file-word-2-line.svg"><img src="file-word-2-line.svg" width="250"></a> | **file-word-2-line.svg**<br>Vector (SVG) | 1.23KB |
-| <a href="file-word-line.svg"><img src="file-word-line.svg" width="250"></a> | **file-word-line.svg**<br>Vector (SVG) | 673.00B |
-| <a href="file-zip-line.svg"><img src="file-zip-line.svg" width="250"></a> | **file-zip-line.svg**<br>Vector (SVG) | 694.00B |
-| <a href="folder-2-line.svg"><img src="folder-2-line.svg" width="250"></a> | **folder-2-line.svg**<br>Vector (SVG) | 651.00B |
-| <a href="folder-3-line.svg"><img src="folder-3-line.svg" width="250"></a> | **folder-3-line.svg**<br>Vector (SVG) | 618.00B |
-| <a href="folder-4-line.svg"><img src="folder-4-line.svg" width="250"></a> | **folder-4-line.svg**<br>Vector (SVG) | 730.00B |
-| <a href="folder-5-line.svg"><img src="folder-5-line.svg" width="250"></a> | **folder-5-line.svg**<br>Vector (SVG) | 1.13KB |
-| <a href="folder-add-line.svg"><img src="folder-add-line.svg" width="250"></a> | **folder-add-line.svg**<br>Vector (SVG) | 674.00B |
-| <a href="folder-chart-2-line.svg"><img src="folder-chart-2-line.svg" width="250"></a> | **folder-chart-2-line.svg**<br>Vector (SVG) | 1004.00B |
-| <a href="folder-chart-line.svg"><img src="folder-chart-line.svg" width="250"></a> | **folder-chart-line.svg**<br>Vector (SVG) | 685.00B |
-| <a href="folder-download-line.svg"><img src="folder-download-line.svg" width="250"></a> | **folder-download-line.svg**<br>Vector (SVG) | 667.00B |
-| <a href="folder-forbid-line.svg"><img src="folder-forbid-line.svg" width="250"></a> | **folder-forbid-line.svg**<br>Vector (SVG) | 1.36KB |
-| <a href="folder-history-line.svg"><img src="folder-history-line.svg" width="250"></a> | **folder-history-line.svg**<br>Vector (SVG) | 458.00B |
-| <a href="folder-info-line.svg"><img src="folder-info-line.svg" width="250"></a> | **folder-info-line.svg**<br>Vector (SVG) | 669.00B |
-| <a href="folder-keyhole-line.svg"><img src="folder-keyhole-line.svg" width="250"></a> | **folder-keyhole-line.svg**<br>Vector (SVG) | 1.00KB |
-| <a href="folder-line.svg"><img src="folder-line.svg" width="250"></a> | **folder-line.svg**<br>Vector (SVG) | 633.00B |
-| <a href="folder-lock-line.svg"><img src="folder-lock-line.svg" width="250"></a> | **folder-lock-line.svg**<br>Vector (SVG) | 975.00B |
-| <a href="folder-music-line.svg"><img src="folder-music-line.svg" width="250"></a> | **folder-music-line.svg**<br>Vector (SVG) | 1.01KB |
-| <a href="folder-open-line.svg"><img src="folder-open-line.svg" width="250"></a> | **folder-open-line.svg**<br>Vector (SVG) | 702.00B |
-| <a href="folder-received-line.svg"><img src="folder-received-line.svg" width="250"></a> | **folder-received-line.svg**<br>Vector (SVG) | 593.00B |
-| <a href="folder-reduce-line.svg"><img src="folder-reduce-line.svg" width="250"></a> | **folder-reduce-line.svg**<br>Vector (SVG) | 650.00B |
-| <a href="folder-settings-line.svg"><img src="folder-settings-line.svg" width="250"></a> | **folder-settings-line.svg**<br>Vector (SVG) | 1.64KB |
-| <a href="folder-shared-line.svg"><img src="folder-shared-line.svg" width="250"></a> | **folder-shared-line.svg**<br>Vector (SVG) | 595.00B |
-| <a href="folder-shield-2-line.svg"><img src="folder-shield-2-line.svg" width="250"></a> | **folder-shield-2-line.svg**<br>Vector (SVG) | 945.00B |
-| <a href="folder-shield-line.svg"><img src="folder-shield-line.svg" width="250"></a> | **folder-shield-line.svg**<br>Vector (SVG) | 969.00B |
-| <a href="folder-transfer-line.svg"><img src="folder-transfer-line.svg" width="250"></a> | **folder-transfer-line.svg**<br>Vector (SVG) | 665.00B |
-| <a href="folder-unknow-line.svg"><img src="folder-unknow-line.svg" width="250"></a> | **folder-unknow-line.svg**<br>Vector (SVG) | 1.39KB |
-| <a href="folder-upload-line.svg"><img src="folder-upload-line.svg" width="250"></a> | **folder-upload-line.svg**<br>Vector (SVG) | 665.00B |
-| <a href="folder-user-line.svg"><img src="folder-user-line.svg" width="250"></a> | **folder-user-line.svg**<br>Vector (SVG) | 1.08KB |
-| <a href="folder-warning-line.svg"><img src="folder-warning-line.svg" width="250"></a> | **folder-warning-line.svg**<br>Vector (SVG) | 669.00B |
-| <a href="folder-zip-line.svg"><img src="folder-zip-line.svg" width="250"></a> | **folder-zip-line.svg**<br>Vector (SVG) | 686.00B |
-| <a href="folders-line.svg"><img src="folders-line.svg" width="250"></a> | **folders-line.svg**<br>Vector (SVG) | 809.00B |
-| <a href="keynote-line.svg"><img src="keynote-line.svg" width="250"></a> | **keynote-line.svg**<br>Vector (SVG) | 569.00B |
-| <a href="markdown-line.svg"><img src="markdown-line.svg" width="250"></a> | **markdown-line.svg**<br>Vector (SVG) | 707.00B |
-| <a href="newspaper-line.svg"><img src="newspaper-line.svg" width="250"></a> | **newspaper-line.svg**<br>Vector (SVG) | 913.00B |
-| <a href="numbers-line.svg"><img src="numbers-line.svg" width="250"></a> | **numbers-line.svg**<br>Vector (SVG) | 393.00B |
-| <a href="pages-line.svg"><img src="pages-line.svg" width="250"></a> | **pages-line.svg**<br>Vector (SVG) | 666.00B |
-| <a href="sticky-note-2-line.svg"><img src="sticky-note-2-line.svg" width="250"></a> | **sticky-note-2-line.svg**<br>Vector (SVG) | 480.00B |
-| <a href="sticky-note-line.svg"><img src="sticky-note-line.svg" width="250"></a> | **sticky-note-line.svg**<br>Vector (SVG) | 616.00B |
-| <a href="survey-line.svg"><img src="survey-line.svg" width="250"></a> | **survey-line.svg**<br>Vector (SVG) | 507.00B |
-| <a href="task-line.svg"><img src="task-line.svg" width="250"></a> | **task-line.svg**<br>Vector (SVG) | 700.00B |
-| <a href="todo-line.svg"><img src="todo-line.svg" width="250"></a> | **todo-line.svg**<br>Vector (SVG) | 667.00B |
+| <a href="article-line.svg"><img src="article-line.svg" width="250"></a> | **article-line.svg** |
+| <a href="bill-line.svg"><img src="bill-line.svg" width="250"></a> | **bill-line.svg** |
+| <a href="book-2-line.svg"><img src="book-2-line.svg" width="250"></a> | **book-2-line.svg** |
+| <a href="book-3-line.svg"><img src="book-3-line.svg" width="250"></a> | **book-3-line.svg** |
+| <a href="book-line.svg"><img src="book-line.svg" width="250"></a> | **book-line.svg** |
+| <a href="book-mark-line.svg"><img src="book-mark-line.svg" width="250"></a> | **book-mark-line.svg** |
+| <a href="book-open-line.svg"><img src="book-open-line.svg" width="250"></a> | **book-open-line.svg** |
+| <a href="book-read-line.svg"><img src="book-read-line.svg" width="250"></a> | **book-read-line.svg** |
+| <a href="booklet-line.svg"><img src="booklet-line.svg" width="250"></a> | **booklet-line.svg** |
+| <a href="clipboard-line.svg"><img src="clipboard-line.svg" width="250"></a> | **clipboard-line.svg** |
+| <a href="contacts-book-2-line.svg"><img src="contacts-book-2-line.svg" width="250"></a> | **contacts-book-2-line.svg** |
+| <a href="contacts-book-line.svg"><img src="contacts-book-line.svg" width="250"></a> | **contacts-book-line.svg** |
+| <a href="contacts-book-upload-line.svg"><img src="contacts-book-upload-line.svg" width="250"></a> | **contacts-book-upload-line.svg** |
+| <a href="draft-line.svg"><img src="draft-line.svg" width="250"></a> | **draft-line.svg** |
+| <a href="file-2-line.svg"><img src="file-2-line.svg" width="250"></a> | **file-2-line.svg** |
+| <a href="file-3-line.svg"><img src="file-3-line.svg" width="250"></a> | **file-3-line.svg** |
+| <a href="file-4-line.svg"><img src="file-4-line.svg" width="250"></a> | **file-4-line.svg** |
+| <a href="file-add-line.svg"><img src="file-add-line.svg" width="250"></a> | **file-add-line.svg** |
+| <a href="file-chart-2-line.svg"><img src="file-chart-2-line.svg" width="250"></a> | **file-chart-2-line.svg** |
+| <a href="file-chart-line.svg"><img src="file-chart-line.svg" width="250"></a> | **file-chart-line.svg** |
+| <a href="file-cloud-line.svg"><img src="file-cloud-line.svg" width="250"></a> | **file-cloud-line.svg** |
+| <a href="file-code-line.svg"><img src="file-code-line.svg" width="250"></a> | **file-code-line.svg** |
+| <a href="file-copy-2-line.svg"><img src="file-copy-2-line.svg" width="250"></a> | **file-copy-2-line.svg** |
+| <a href="file-copy-line.svg"><img src="file-copy-line.svg" width="250"></a> | **file-copy-line.svg** |
+| <a href="file-damage-line.svg"><img src="file-damage-line.svg" width="250"></a> | **file-damage-line.svg** |
+| <a href="file-download-line.svg"><img src="file-download-line.svg" width="250"></a> | **file-download-line.svg** |
+| <a href="file-edit-line.svg"><img src="file-edit-line.svg" width="250"></a> | **file-edit-line.svg** |
+| <a href="file-excel-2-line.svg"><img src="file-excel-2-line.svg" width="250"></a> | **file-excel-2-line.svg** |
+| <a href="file-excel-line.svg"><img src="file-excel-line.svg" width="250"></a> | **file-excel-line.svg** |
+| <a href="file-forbid-line.svg"><img src="file-forbid-line.svg" width="250"></a> | **file-forbid-line.svg** |
+| <a href="file-gif-line.svg"><img src="file-gif-line.svg" width="250"></a> | **file-gif-line.svg** |
+| <a href="file-history-line.svg"><img src="file-history-line.svg" width="250"></a> | **file-history-line.svg** |
+| <a href="file-hwp-line.svg"><img src="file-hwp-line.svg" width="250"></a> | **file-hwp-line.svg** |
+| <a href="file-info-line.svg"><img src="file-info-line.svg" width="250"></a> | **file-info-line.svg** |
+| <a href="file-line.svg"><img src="file-line.svg" width="250"></a> | **file-line.svg** |
+| <a href="file-list-2-line.svg"><img src="file-list-2-line.svg" width="250"></a> | **file-list-2-line.svg** |
+| <a href="file-list-3-line.svg"><img src="file-list-3-line.svg" width="250"></a> | **file-list-3-line.svg** |
+| <a href="file-list-line.svg"><img src="file-list-line.svg" width="250"></a> | **file-list-line.svg** |
+| <a href="file-lock-line.svg"><img src="file-lock-line.svg" width="250"></a> | **file-lock-line.svg** |
+| <a href="file-mark-line.svg"><img src="file-mark-line.svg" width="250"></a> | **file-mark-line.svg** |
+| <a href="file-music-line.svg"><img src="file-music-line.svg" width="250"></a> | **file-music-line.svg** |
+| <a href="file-paper-2-line.svg"><img src="file-paper-2-line.svg" width="250"></a> | **file-paper-2-line.svg** |
+| <a href="file-paper-line.svg"><img src="file-paper-line.svg" width="250"></a> | **file-paper-line.svg** |
+| <a href="file-pdf-line.svg"><img src="file-pdf-line.svg" width="250"></a> | **file-pdf-line.svg** |
+| <a href="file-ppt-2-line.svg"><img src="file-ppt-2-line.svg" width="250"></a> | **file-ppt-2-line.svg** |
+| <a href="file-ppt-line.svg"><img src="file-ppt-line.svg" width="250"></a> | **file-ppt-line.svg** |
+| <a href="file-reduce-line.svg"><img src="file-reduce-line.svg" width="250"></a> | **file-reduce-line.svg** |
+| <a href="file-search-line.svg"><img src="file-search-line.svg" width="250"></a> | **file-search-line.svg** |
+| <a href="file-settings-line.svg"><img src="file-settings-line.svg" width="250"></a> | **file-settings-line.svg** |
+| <a href="file-shield-2-line.svg"><img src="file-shield-2-line.svg" width="250"></a> | **file-shield-2-line.svg** |
+| <a href="file-shield-line.svg"><img src="file-shield-line.svg" width="250"></a> | **file-shield-line.svg** |
+| <a href="file-shred-line.svg"><img src="file-shred-line.svg" width="250"></a> | **file-shred-line.svg** |
+| <a href="file-text-line.svg"><img src="file-text-line.svg" width="250"></a> | **file-text-line.svg** |
+| <a href="file-transfer-line.svg"><img src="file-transfer-line.svg" width="250"></a> | **file-transfer-line.svg** |
+| <a href="file-unknow-line.svg"><img src="file-unknow-line.svg" width="250"></a> | **file-unknow-line.svg** |
+| <a href="file-upload-line.svg"><img src="file-upload-line.svg" width="250"></a> | **file-upload-line.svg** |
+| <a href="file-user-line.svg"><img src="file-user-line.svg" width="250"></a> | **file-user-line.svg** |
+| <a href="file-warning-line.svg"><img src="file-warning-line.svg" width="250"></a> | **file-warning-line.svg** |
+| <a href="file-word-2-line.svg"><img src="file-word-2-line.svg" width="250"></a> | **file-word-2-line.svg** |
+| <a href="file-word-line.svg"><img src="file-word-line.svg" width="250"></a> | **file-word-line.svg** |
+| <a href="file-zip-line.svg"><img src="file-zip-line.svg" width="250"></a> | **file-zip-line.svg** |
+| <a href="folder-2-line.svg"><img src="folder-2-line.svg" width="250"></a> | **folder-2-line.svg** |
+| <a href="folder-3-line.svg"><img src="folder-3-line.svg" width="250"></a> | **folder-3-line.svg** |
+| <a href="folder-4-line.svg"><img src="folder-4-line.svg" width="250"></a> | **folder-4-line.svg** |
+| <a href="folder-5-line.svg"><img src="folder-5-line.svg" width="250"></a> | **folder-5-line.svg** |
+| <a href="folder-add-line.svg"><img src="folder-add-line.svg" width="250"></a> | **folder-add-line.svg** |
+| <a href="folder-chart-2-line.svg"><img src="folder-chart-2-line.svg" width="250"></a> | **folder-chart-2-line.svg** |
+| <a href="folder-chart-line.svg"><img src="folder-chart-line.svg" width="250"></a> | **folder-chart-line.svg** |
+| <a href="folder-download-line.svg"><img src="folder-download-line.svg" width="250"></a> | **folder-download-line.svg** |
+| <a href="folder-forbid-line.svg"><img src="folder-forbid-line.svg" width="250"></a> | **folder-forbid-line.svg** |
+| <a href="folder-history-line.svg"><img src="folder-history-line.svg" width="250"></a> | **folder-history-line.svg** |
+| <a href="folder-info-line.svg"><img src="folder-info-line.svg" width="250"></a> | **folder-info-line.svg** |
+| <a href="folder-keyhole-line.svg"><img src="folder-keyhole-line.svg" width="250"></a> | **folder-keyhole-line.svg** |
+| <a href="folder-line.svg"><img src="folder-line.svg" width="250"></a> | **folder-line.svg** |
+| <a href="folder-lock-line.svg"><img src="folder-lock-line.svg" width="250"></a> | **folder-lock-line.svg** |
+| <a href="folder-music-line.svg"><img src="folder-music-line.svg" width="250"></a> | **folder-music-line.svg** |
+| <a href="folder-open-line.svg"><img src="folder-open-line.svg" width="250"></a> | **folder-open-line.svg** |
+| <a href="folder-received-line.svg"><img src="folder-received-line.svg" width="250"></a> | **folder-received-line.svg** |
+| <a href="folder-reduce-line.svg"><img src="folder-reduce-line.svg" width="250"></a> | **folder-reduce-line.svg** |
+| <a href="folder-settings-line.svg"><img src="folder-settings-line.svg" width="250"></a> | **folder-settings-line.svg** |
+| <a href="folder-shared-line.svg"><img src="folder-shared-line.svg" width="250"></a> | **folder-shared-line.svg** |
+| <a href="folder-shield-2-line.svg"><img src="folder-shield-2-line.svg" width="250"></a> | **folder-shield-2-line.svg** |
+| <a href="folder-shield-line.svg"><img src="folder-shield-line.svg" width="250"></a> | **folder-shield-line.svg** |
+| <a href="folder-transfer-line.svg"><img src="folder-transfer-line.svg" width="250"></a> | **folder-transfer-line.svg** |
+| <a href="folder-unknow-line.svg"><img src="folder-unknow-line.svg" width="250"></a> | **folder-unknow-line.svg** |
+| <a href="folder-upload-line.svg"><img src="folder-upload-line.svg" width="250"></a> | **folder-upload-line.svg** |
+| <a href="folder-user-line.svg"><img src="folder-user-line.svg" width="250"></a> | **folder-user-line.svg** |
+| <a href="folder-warning-line.svg"><img src="folder-warning-line.svg" width="250"></a> | **folder-warning-line.svg** |
+| <a href="folder-zip-line.svg"><img src="folder-zip-line.svg" width="250"></a> | **folder-zip-line.svg** |
+| <a href="folders-line.svg"><img src="folders-line.svg" width="250"></a> | **folders-line.svg** |
+| <a href="keynote-line.svg"><img src="keynote-line.svg" width="250"></a> | **keynote-line.svg** |
+| <a href="markdown-line.svg"><img src="markdown-line.svg" width="250"></a> | **markdown-line.svg** |
+| <a href="newspaper-line.svg"><img src="newspaper-line.svg" width="250"></a> | **newspaper-line.svg** |
+| <a href="numbers-line.svg"><img src="numbers-line.svg" width="250"></a> | **numbers-line.svg** |
+| <a href="pages-line.svg"><img src="pages-line.svg" width="250"></a> | **pages-line.svg** |
+| <a href="sticky-note-2-line.svg"><img src="sticky-note-2-line.svg" width="250"></a> | **sticky-note-2-line.svg** |
+| <a href="sticky-note-line.svg"><img src="sticky-note-line.svg" width="250"></a> | **sticky-note-line.svg** |
+| <a href="survey-line.svg"><img src="survey-line.svg" width="250"></a> | **survey-line.svg** |
+| <a href="task-line.svg"><img src="task-line.svg" width="250"></a> | **task-line.svg** |
+| <a href="todo-line.svg"><img src="todo-line.svg" width="250"></a> | **todo-line.svg** |

@@ -1,87 +1,87 @@
-# 🖼️ Company  素材庫
+# 🖼️ Company 
 
 [⬅️ 返回主目錄](../../../README.md)
 
-| 預覽 (點擊放大) | 檔案資訊 |
+| 預覽 | 資訊 |
 | :--- | :--- |
-| <a href="adidas.svg"><img src="adidas.svg" width="250"></a> | **adidas.svg**<br>Vector (SVG) | 108.74KB |
-| <a href="adobe.svg"><img src="adobe.svg" width="250"></a> | **adobe.svg**<br>Vector (SVG) | 3.34KB |
-| <a href="airbnb.svg"><img src="airbnb.svg" width="250"></a> | **airbnb.svg**<br>Vector (SVG) | 1.92KB |
-| <a href="amazon.svg"><img src="amazon.svg" width="250"></a> | **amazon.svg**<br>Vector (SVG) | 2.09KB |
-| <a href="apple.svg"><img src="apple.svg" width="250"></a> | **apple.svg**<br>Vector (SVG) | 534.00B |
-| <a href="asana.svg"><img src="asana.svg" width="250"></a> | **asana.svg**<br>Vector (SVG) | 5.31KB |
-| <a href="asianpaints.svg"><img src="asianpaints.svg" width="250"></a> | **asianpaints.svg**<br>Vector (SVG) | 18.99KB |
-| <a href="asus.svg"><img src="asus.svg" width="250"></a> | **asus.svg**<br>Vector (SVG) | 1.22KB |
-| <a href="atlassian.svg"><img src="atlassian.svg" width="250"></a> | **atlassian.svg**<br>Vector (SVG) | 4.13KB |
-| <a href="audi.svg"><img src="audi.svg" width="250"></a> | **audi.svg**<br>Vector (SVG) | 3.54KB |
-| <a href="bitcon.svg"><img src="bitcon.svg" width="250"></a> | **bitcon.svg**<br>Vector (SVG) | 1.17KB |
-| <a href="blinkit.svg"><img src="blinkit.svg" width="250"></a> | **blinkit.svg**<br>Vector (SVG) | 15.74KB |
-| <a href="bmw.svg"><img src="bmw.svg" width="250"></a> | **bmw.svg**<br>Vector (SVG) | 2.99KB |
-| <a href="canva.svg"><img src="canva.svg" width="250"></a> | **canva.svg**<br>Vector (SVG) | 5.19KB |
-| <a href="cocacola.svg"><img src="cocacola.svg" width="250"></a> | **cocacola.svg**<br>Vector (SVG) | 7.71KB |
-| <a href="coinbase.svg"><img src="coinbase.svg" width="250"></a> | **coinbase.svg**<br>Vector (SVG) | 3.55KB |
-| <a href="discord.svg"><img src="discord.svg" width="250"></a> | **discord.svg**<br>Vector (SVG) | 1.45KB |
-| <a href="dribbble.svg"><img src="dribbble.svg" width="250"></a> | **dribbble.svg**<br>Vector (SVG) | 5.11KB |
-| <a href="dropbox.svg"><img src="dropbox.svg" width="250"></a> | **dropbox.svg**<br>Vector (SVG) | 2.92KB |
-| <a href="facebook.svg"><img src="facebook.svg" width="250"></a> | **facebook.svg**<br>Vector (SVG) | 319.00B |
-| <a href="fila.svg"><img src="fila.svg" width="250"></a> | **fila.svg**<br>Vector (SVG) | 1.78KB |
-| <a href="flipkart.svg"><img src="flipkart.svg" width="250"></a> | **flipkart.svg**<br>Vector (SVG) | 20.58KB |
-| <a href="ford.svg"><img src="ford.svg" width="250"></a> | **ford.svg**<br>Vector (SVG) | 7.05KB |
-| <a href="framer.svg"><img src="framer.svg" width="250"></a> | **framer.svg**<br>Vector (SVG) | 3.54KB |
-| <a href="github.svg"><img src="github.svg" width="250"></a> | **github.svg**<br>Vector (SVG) | 5.10KB |
-| <a href="gitlab.svg"><img src="gitlab.svg" width="250"></a> | **gitlab.svg**<br>Vector (SVG) | 2.98KB |
-| <a href="google.svg"><img src="google.svg" width="250"></a> | **google.svg**<br>Vector (SVG) | 2.81KB |
-| <a href="gpay.svg"><img src="gpay.svg" width="250"></a> | **gpay.svg**<br>Vector (SVG) | 2.58KB |
-| <a href="grammarly.svg"><img src="grammarly.svg" width="250"></a> | **grammarly.svg**<br>Vector (SVG) | 9.08KB |
-| <a href="gumroad.svg"><img src="gumroad.svg" width="250"></a> | **gumroad.svg**<br>Vector (SVG) | 2.62KB |
-| <a href="hdfc.svg"><img src="hdfc.svg" width="250"></a> | **hdfc.svg**<br>Vector (SVG) | 126.54KB |
-| <a href="hero.svg"><img src="hero.svg" width="250"></a> | **hero.svg**<br>Vector (SVG) | 123.89KB |
-| <a href="honda.svg"><img src="honda.svg" width="250"></a> | **honda.svg**<br>Vector (SVG) | 2.54KB |
-| <a href="hp.svg"><img src="hp.svg" width="250"></a> | **hp.svg**<br>Vector (SVG) | 866.00B |
-| <a href="hubspot.svg"><img src="hubspot.svg" width="250"></a> | **hubspot.svg**<br>Vector (SVG) | 5.44KB |
-| <a href="ibm.svg"><img src="ibm.svg" width="250"></a> | **ibm.svg**<br>Vector (SVG) | 2.62KB |
-| <a href="ikea.svg"><img src="ikea.svg" width="250"></a> | **ikea.svg**<br>Vector (SVG) | 3.28KB |
-| <a href="instagram.svg"><img src="instagram.svg" width="250"></a> | **instagram.svg**<br>Vector (SVG) | 1.48KB |
-| <a href="instagram_word.svg"><img src="instagram_word.svg" width="250"></a> | **instagram_word.svg**<br>Vector (SVG) | 9.55KB |
-| <a href="inter.svg"><img src="inter.svg" width="250"></a> | **inter.svg**<br>Vector (SVG) | 3.34KB |
-| <a href="kia.svg"><img src="kia.svg" width="250"></a> | **kia.svg**<br>Vector (SVG) | 1.56KB |
-| <a href="lenovo.svg"><img src="lenovo.svg" width="250"></a> | **lenovo.svg**<br>Vector (SVG) | 1.85KB |
-| <a href="linear.svg"><img src="linear.svg" width="250"></a> | **linear.svg**<br>Vector (SVG) | 2.65KB |
-| <a href="mahindra.svg"><img src="mahindra.svg" width="250"></a> | **mahindra.svg**<br>Vector (SVG) | 2.53KB |
-| <a href="mailchimp.svg"><img src="mailchimp.svg" width="250"></a> | **mailchimp.svg**<br>Vector (SVG) | 11.57KB |
-| <a href="mcdonalds.svg"><img src="mcdonalds.svg" width="250"></a> | **mcdonalds.svg**<br>Vector (SVG) | 494.00B |
-| <a href="medium.svg"><img src="medium.svg" width="250"></a> | **medium.svg**<br>Vector (SVG) | 4.31KB |
-| <a href="mercedes.svg"><img src="mercedes.svg" width="250"></a> | **mercedes.svg**<br>Vector (SVG) | 723.00B |
-| <a href="microsoft.svg"><img src="microsoft.svg" width="250"></a> | **microsoft.svg**<br>Vector (SVG) | 6.12KB |
-| <a href="netflix.svg"><img src="netflix.svg" width="250"></a> | **netflix.svg**<br>Vector (SVG) | 244.00B |
-| <a href="nike.svg"><img src="nike.svg" width="250"></a> | **nike.svg**<br>Vector (SVG) | 563.00B |
-| <a href="nokia.svg"><img src="nokia.svg" width="250"></a> | **nokia.svg**<br>Vector (SVG) | 896.00B |
-| <a href="notion.svg"><img src="notion.svg" width="250"></a> | **notion.svg**<br>Vector (SVG) | 3.36KB |
-| <a href="oppo.svg"><img src="oppo.svg" width="250"></a> | **oppo.svg**<br>Vector (SVG) | 1.64KB |
-| <a href="paypal.svg"><img src="paypal.svg" width="250"></a> | **paypal.svg**<br>Vector (SVG) | 668.00B |
-| <a href="pepsi.svg"><img src="pepsi.svg" width="250"></a> | **pepsi.svg**<br>Vector (SVG) | 4.46KB |
-| <a href="puma.svg"><img src="puma.svg" width="250"></a> | **puma.svg**<br>Vector (SVG) | 298.22KB |
-| <a href="rbi.svg"><img src="rbi.svg" width="250"></a> | **rbi.svg**<br>Vector (SVG) | 1.28MB |
-| <a href="royalenfield.svg"><img src="royalenfield.svg" width="250"></a> | **royalenfield.svg**<br>Vector (SVG) | 438.78KB |
-| <a href="samsung.svg"><img src="samsung.svg" width="250"></a> | **samsung.svg**<br>Vector (SVG) | 2.76KB |
-| <a href="sbi.svg"><img src="sbi.svg" width="250"></a> | **sbi.svg**<br>Vector (SVG) | 307.86KB |
-| <a href="shopify.svg"><img src="shopify.svg" width="250"></a> | **shopify.svg**<br>Vector (SVG) | 5.82KB |
-| <a href="skoda.svg"><img src="skoda.svg" width="250"></a> | **skoda.svg**<br>Vector (SVG) | 1.33KB |
-| <a href="slack.svg"><img src="slack.svg" width="250"></a> | **slack.svg**<br>Vector (SVG) | 4.60KB |
-| <a href="spotify.svg"><img src="spotify.svg" width="250"></a> | **spotify.svg**<br>Vector (SVG) | 6.44KB |
-| <a href="starbucks.svg"><img src="starbucks.svg" width="250"></a> | **starbucks.svg**<br>Vector (SVG) | 9.71KB |
-| <a href="stripe.svg"><img src="stripe.svg" width="250"></a> | **stripe.svg**<br>Vector (SVG) | 2.46KB |
-| <a href="suzuki.svg"><img src="suzuki.svg" width="250"></a> | **suzuki.svg**<br>Vector (SVG) | 507.00B |
-| <a href="swiggy.svg"><img src="swiggy.svg" width="250"></a> | **swiggy.svg**<br>Vector (SVG) | 2.16KB |
-| <a href="tata.svg"><img src="tata.svg" width="250"></a> | **tata.svg**<br>Vector (SVG) | 1.33KB |
-| <a href="tesla.svg"><img src="tesla.svg" width="250"></a> | **tesla.svg**<br>Vector (SVG) | 788.00B |
-| <a href="tinder.svg"><img src="tinder.svg" width="250"></a> | **tinder.svg**<br>Vector (SVG) | 3.23KB |
-| <a href="toyata.svg"><img src="toyata.svg" width="250"></a> | **toyata.svg**<br>Vector (SVG) | 1.21KB |
-| <a href="tvs.svg"><img src="tvs.svg" width="250"></a> | **tvs.svg**<br>Vector (SVG) | 230.95KB |
-| <a href="uber.svg"><img src="uber.svg" width="250"></a> | **uber.svg**<br>Vector (SVG) | 3.78KB |
-| <a href="visa.svg"><img src="visa.svg" width="250"></a> | **visa.svg**<br>Vector (SVG) | 1.23KB |
-| <a href="vivo.svg"><img src="vivo.svg" width="250"></a> | **vivo.svg**<br>Vector (SVG) | 259.65KB |
-| <a href="webflow.svg"><img src="webflow.svg" width="250"></a> | **webflow.svg**<br>Vector (SVG) | 3.41KB |
-| <a href="whatsapp.svg"><img src="whatsapp.svg" width="250"></a> | **whatsapp.svg**<br>Vector (SVG) | 11.14KB |
-| <a href="x.svg"><img src="x.svg" width="250"></a> | **x.svg**<br>Vector (SVG) | 351.00B |
-| <a href="zoom.svg"><img src="zoom.svg" width="250"></a> | **zoom.svg**<br>Vector (SVG) | 3.51KB |
+| <a href="adidas.svg"><img src="adidas.svg" width="250"></a> | **adidas.svg** |
+| <a href="adobe.svg"><img src="adobe.svg" width="250"></a> | **adobe.svg** |
+| <a href="airbnb.svg"><img src="airbnb.svg" width="250"></a> | **airbnb.svg** |
+| <a href="amazon.svg"><img src="amazon.svg" width="250"></a> | **amazon.svg** |
+| <a href="apple.svg"><img src="apple.svg" width="250"></a> | **apple.svg** |
+| <a href="asana.svg"><img src="asana.svg" width="250"></a> | **asana.svg** |
+| <a href="asianpaints.svg"><img src="asianpaints.svg" width="250"></a> | **asianpaints.svg** |
+| <a href="asus.svg"><img src="asus.svg" width="250"></a> | **asus.svg** |
+| <a href="atlassian.svg"><img src="atlassian.svg" width="250"></a> | **atlassian.svg** |
+| <a href="audi.svg"><img src="audi.svg" width="250"></a> | **audi.svg** |
+| <a href="bitcon.svg"><img src="bitcon.svg" width="250"></a> | **bitcon.svg** |
+| <a href="blinkit.svg"><img src="blinkit.svg" width="250"></a> | **blinkit.svg** |
+| <a href="bmw.svg"><img src="bmw.svg" width="250"></a> | **bmw.svg** |
+| <a href="canva.svg"><img src="canva.svg" width="250"></a> | **canva.svg** |
+| <a href="cocacola.svg"><img src="cocacola.svg" width="250"></a> | **cocacola.svg** |
+| <a href="coinbase.svg"><img src="coinbase.svg" width="250"></a> | **coinbase.svg** |
+| <a href="discord.svg"><img src="discord.svg" width="250"></a> | **discord.svg** |
+| <a href="dribbble.svg"><img src="dribbble.svg" width="250"></a> | **dribbble.svg** |
+| <a href="dropbox.svg"><img src="dropbox.svg" width="250"></a> | **dropbox.svg** |
+| <a href="facebook.svg"><img src="facebook.svg" width="250"></a> | **facebook.svg** |
+| <a href="fila.svg"><img src="fila.svg" width="250"></a> | **fila.svg** |
+| <a href="flipkart.svg"><img src="flipkart.svg" width="250"></a> | **flipkart.svg** |
+| <a href="ford.svg"><img src="ford.svg" width="250"></a> | **ford.svg** |
+| <a href="framer.svg"><img src="framer.svg" width="250"></a> | **framer.svg** |
+| <a href="github.svg"><img src="github.svg" width="250"></a> | **github.svg** |
+| <a href="gitlab.svg"><img src="gitlab.svg" width="250"></a> | **gitlab.svg** |
+| <a href="google.svg"><img src="google.svg" width="250"></a> | **google.svg** |
+| <a href="gpay.svg"><img src="gpay.svg" width="250"></a> | **gpay.svg** |
+| <a href="grammarly.svg"><img src="grammarly.svg" width="250"></a> | **grammarly.svg** |
+| <a href="gumroad.svg"><img src="gumroad.svg" width="250"></a> | **gumroad.svg** |
+| <a href="hdfc.svg"><img src="hdfc.svg" width="250"></a> | **hdfc.svg** |
+| <a href="hero.svg"><img src="hero.svg" width="250"></a> | **hero.svg** |
+| <a href="honda.svg"><img src="honda.svg" width="250"></a> | **honda.svg** |
+| <a href="hp.svg"><img src="hp.svg" width="250"></a> | **hp.svg** |
+| <a href="hubspot.svg"><img src="hubspot.svg" width="250"></a> | **hubspot.svg** |
+| <a href="ibm.svg"><img src="ibm.svg" width="250"></a> | **ibm.svg** |
+| <a href="ikea.svg"><img src="ikea.svg" width="250"></a> | **ikea.svg** |
+| <a href="instagram.svg"><img src="instagram.svg" width="250"></a> | **instagram.svg** |
+| <a href="instagram_word.svg"><img src="instagram_word.svg" width="250"></a> | **instagram_word.svg** |
+| <a href="inter.svg"><img src="inter.svg" width="250"></a> | **inter.svg** |
+| <a href="kia.svg"><img src="kia.svg" width="250"></a> | **kia.svg** |
+| <a href="lenovo.svg"><img src="lenovo.svg" width="250"></a> | **lenovo.svg** |
+| <a href="linear.svg"><img src="linear.svg" width="250"></a> | **linear.svg** |
+| <a href="mahindra.svg"><img src="mahindra.svg" width="250"></a> | **mahindra.svg** |
+| <a href="mailchimp.svg"><img src="mailchimp.svg" width="250"></a> | **mailchimp.svg** |
+| <a href="mcdonalds.svg"><img src="mcdonalds.svg" width="250"></a> | **mcdonalds.svg** |
+| <a href="medium.svg"><img src="medium.svg" width="250"></a> | **medium.svg** |
+| <a href="mercedes.svg"><img src="mercedes.svg" width="250"></a> | **mercedes.svg** |
+| <a href="microsoft.svg"><img src="microsoft.svg" width="250"></a> | **microsoft.svg** |
+| <a href="netflix.svg"><img src="netflix.svg" width="250"></a> | **netflix.svg** |
+| <a href="nike.svg"><img src="nike.svg" width="250"></a> | **nike.svg** |
+| <a href="nokia.svg"><img src="nokia.svg" width="250"></a> | **nokia.svg** |
+| <a href="notion.svg"><img src="notion.svg" width="250"></a> | **notion.svg** |
+| <a href="oppo.svg"><img src="oppo.svg" width="250"></a> | **oppo.svg** |
+| <a href="paypal.svg"><img src="paypal.svg" width="250"></a> | **paypal.svg** |
+| <a href="pepsi.svg"><img src="pepsi.svg" width="250"></a> | **pepsi.svg** |
+| <a href="puma.svg"><img src="puma.svg" width="250"></a> | **puma.svg** |
+| <a href="rbi.svg"><img src="rbi.svg" width="250"></a> | **rbi.svg** |
+| <a href="royalenfield.svg"><img src="royalenfield.svg" width="250"></a> | **royalenfield.svg** |
+| <a href="samsung.svg"><img src="samsung.svg" width="250"></a> | **samsung.svg** |
+| <a href="sbi.svg"><img src="sbi.svg" width="250"></a> | **sbi.svg** |
+| <a href="shopify.svg"><img src="shopify.svg" width="250"></a> | **shopify.svg** |
+| <a href="skoda.svg"><img src="skoda.svg" width="250"></a> | **skoda.svg** |
+| <a href="slack.svg"><img src="slack.svg" width="250"></a> | **slack.svg** |
+| <a href="spotify.svg"><img src="spotify.svg" width="250"></a> | **spotify.svg** |
+| <a href="starbucks.svg"><img src="starbucks.svg" width="250"></a> | **starbucks.svg** |
+| <a href="stripe.svg"><img src="stripe.svg" width="250"></a> | **stripe.svg** |
+| <a href="suzuki.svg"><img src="suzuki.svg" width="250"></a> | **suzuki.svg** |
+| <a href="swiggy.svg"><img src="swiggy.svg" width="250"></a> | **swiggy.svg** |
+| <a href="tata.svg"><img src="tata.svg" width="250"></a> | **tata.svg** |
+| <a href="tesla.svg"><img src="tesla.svg" width="250"></a> | **tesla.svg** |
+| <a href="tinder.svg"><img src="tinder.svg" width="250"></a> | **tinder.svg** |
+| <a href="toyata.svg"><img src="toyata.svg" width="250"></a> | **toyata.svg** |
+| <a href="tvs.svg"><img src="tvs.svg" width="250"></a> | **tvs.svg** |
+| <a href="uber.svg"><img src="uber.svg" width="250"></a> | **uber.svg** |
+| <a href="visa.svg"><img src="visa.svg" width="250"></a> | **visa.svg** |
+| <a href="vivo.svg"><img src="vivo.svg" width="250"></a> | **vivo.svg** |
+| <a href="webflow.svg"><img src="webflow.svg" width="250"></a> | **webflow.svg** |
+| <a href="whatsapp.svg"><img src="whatsapp.svg" width="250"></a> | **whatsapp.svg** |
+| <a href="x.svg"><img src="x.svg" width="250"></a> | **x.svg** |
+| <a href="zoom.svg"><img src="zoom.svg" width="250"></a> | **zoom.svg** |

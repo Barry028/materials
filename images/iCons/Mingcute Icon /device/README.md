@@ -1,104 +1,104 @@
-# 🖼️ device 素材庫
+# 🖼️ device
 
 [⬅️ 返回主目錄](../../../../README.md)
 
-| 預覽 (點擊放大) | 檔案資訊 |
+| 預覽 | 資訊 |
 | :--- | :--- |
-| <a href="airplay_fill.svg"><img src="airplay_fill.svg" width="250"></a> | **airplay_fill.svg**<br>Vector (SVG) | 1.43KB |
-| <a href="airplay_line.svg"><img src="airplay_line.svg" width="250"></a> | **airplay_line.svg**<br>Vector (SVG) | 0.00B |
-| <a href="alarm_1_fill.svg"><img src="alarm_1_fill.svg" width="250"></a> | **alarm_1_fill.svg**<br>Vector (SVG) | 2.13KB |
-| <a href="alarm_1_line.svg"><img src="alarm_1_line.svg" width="250"></a> | **alarm_1_line.svg**<br>Vector (SVG) | 0.00B |
-| <a href="alarm_2_fill.svg"><img src="alarm_2_fill.svg" width="250"></a> | **alarm_2_fill.svg**<br>Vector (SVG) | 2.06KB |
-| <a href="alarm_2_line.svg"><img src="alarm_2_line.svg" width="250"></a> | **alarm_2_line.svg**<br>Vector (SVG) | 0.00B |
-| <a href="battery_charging_fill.svg"><img src="battery_charging_fill.svg" width="250"></a> | **battery_charging_fill.svg**<br>Vector (SVG) | 14.57KB |
-| <a href="battery_charging_line.svg"><img src="battery_charging_line.svg" width="250"></a> | **battery_charging_line.svg**<br>Vector (SVG) | 14.77KB |
-| <a href="battery_fill.svg"><img src="battery_fill.svg" width="250"></a> | **battery_fill.svg**<br>Vector (SVG) | 13.88KB |
-| <a href="battery_line.svg"><img src="battery_line.svg" width="250"></a> | **battery_line.svg**<br>Vector (SVG) | 13.98KB |
-| <a href="bluetooth_fill.svg"><img src="bluetooth_fill.svg" width="250"></a> | **bluetooth_fill.svg**<br>Vector (SVG) | 13.91KB |
-| <a href="bluetooth_line.svg"><img src="bluetooth_line.svg" width="250"></a> | **bluetooth_line.svg**<br>Vector (SVG) | 14.01KB |
-| <a href="bluetooth_off_fill.svg"><img src="bluetooth_off_fill.svg" width="250"></a> | **bluetooth_off_fill.svg**<br>Vector (SVG) | 14.05KB |
-| <a href="bluetooth_off_line.svg"><img src="bluetooth_off_line.svg" width="250"></a> | **bluetooth_off_line.svg**<br>Vector (SVG) | 14.18KB |
-| <a href="bulb_fill.svg"><img src="bulb_fill.svg" width="250"></a> | **bulb_fill.svg**<br>Vector (SVG) | 1.80KB |
-| <a href="bulb_line.svg"><img src="bulb_line.svg" width="250"></a> | **bulb_line.svg**<br>Vector (SVG) | 2.19KB |
-| <a href="ceiling_lamp_fill.svg"><img src="ceiling_lamp_fill.svg" width="250"></a> | **ceiling_lamp_fill.svg**<br>Vector (SVG) | 14.81KB |
-| <a href="ceiling_lamp_line.svg"><img src="ceiling_lamp_line.svg" width="250"></a> | **ceiling_lamp_line.svg**<br>Vector (SVG) | 14.96KB |
-| <a href="cellphone_fill.svg"><img src="cellphone_fill.svg" width="250"></a> | **cellphone_fill.svg**<br>Vector (SVG) | 1.36KB |
-| <a href="cellphone_line.svg"><img src="cellphone_line.svg" width="250"></a> | **cellphone_line.svg**<br>Vector (SVG) | 0.00B |
-| <a href="cellphone_vibration_fill.svg"><img src="cellphone_vibration_fill.svg" width="250"></a> | **cellphone_vibration_fill.svg**<br>Vector (SVG) | 14.46KB |
-| <a href="cellphone_vibration_line.svg"><img src="cellphone_vibration_line.svg" width="250"></a> | **cellphone_vibration_line.svg**<br>Vector (SVG) | 14.56KB |
-| <a href="chip_fill.svg"><img src="chip_fill.svg" width="250"></a> | **chip_fill.svg**<br>Vector (SVG) | 14.90KB |
-| <a href="chip_line.svg"><img src="chip_line.svg" width="250"></a> | **chip_line.svg**<br>Vector (SVG) | 15.17KB |
-| <a href="computer_camera_fill.svg"><img src="computer_camera_fill.svg" width="250"></a> | **computer_camera_fill.svg**<br>Vector (SVG) | 16.92KB |
-| <a href="computer_camera_line.svg"><img src="computer_camera_line.svg" width="250"></a> | **computer_camera_line.svg**<br>Vector (SVG) | 17.58KB |
-| <a href="computer_camera_off_fill.svg"><img src="computer_camera_off_fill.svg" width="250"></a> | **computer_camera_off_fill.svg**<br>Vector (SVG) | 15.00KB |
-| <a href="computer_camera_off_line.svg"><img src="computer_camera_off_line.svg" width="250"></a> | **computer_camera_off_line.svg**<br>Vector (SVG) | 15.91KB |
-| <a href="computer_fill.svg"><img src="computer_fill.svg" width="250"></a> | **computer_fill.svg**<br>Vector (SVG) | 1.39KB |
-| <a href="computer_line.svg"><img src="computer_line.svg" width="250"></a> | **computer_line.svg**<br>Vector (SVG) | 0.00B |
-| <a href="dashboard_2_fill.svg"><img src="dashboard_2_fill.svg" width="250"></a> | **dashboard_2_fill.svg**<br>Vector (SVG) | 16.80KB |
-| <a href="dashboard_2_line.svg"><img src="dashboard_2_line.svg" width="250"></a> | **dashboard_2_line.svg**<br>Vector (SVG) | 16.75KB |
-| <a href="dashboard_fill.svg"><img src="dashboard_fill.svg" width="250"></a> | **dashboard_fill.svg**<br>Vector (SVG) | 14.59KB |
-| <a href="dashboard_line.svg"><img src="dashboard_line.svg" width="250"></a> | **dashboard_line.svg**<br>Vector (SVG) | 14.80KB |
-| <a href="desk_lamp_fill.svg"><img src="desk_lamp_fill.svg" width="250"></a> | **desk_lamp_fill.svg**<br>Vector (SVG) | 14.25KB |
-| <a href="desk_lamp_line.svg"><img src="desk_lamp_line.svg" width="250"></a> | **desk_lamp_line.svg**<br>Vector (SVG) | 14.36KB |
-| <a href="device_fill.svg"><img src="device_fill.svg" width="250"></a> | **device_fill.svg**<br>Vector (SVG) | 1.39KB |
-| <a href="device_line.svg"><img src="device_line.svg" width="250"></a> | **device_line.svg**<br>Vector (SVG) | 0.00B |
-| <a href="flash_fill.svg"><img src="flash_fill.svg" width="250"></a> | **flash_fill.svg**<br>Vector (SVG) | 1.19KB |
-| <a href="flash_line.svg"><img src="flash_line.svg" width="250"></a> | **flash_line.svg**<br>Vector (SVG) | 1.37KB |
-| <a href="flashlight_fill.svg"><img src="flashlight_fill.svg" width="250"></a> | **flashlight_fill.svg**<br>Vector (SVG) | 2.70KB |
-| <a href="flashlight_line.svg"><img src="flashlight_line.svg" width="250"></a> | **flashlight_line.svg**<br>Vector (SVG) | 2.87KB |
-| <a href="fridge_fill.svg"><img src="fridge_fill.svg" width="250"></a> | **fridge_fill.svg**<br>Vector (SVG) | 14.31KB |
-| <a href="fridge_line.svg"><img src="fridge_line.svg" width="250"></a> | **fridge_line.svg**<br>Vector (SVG) | 14.25KB |
-| <a href="game_1_fill.svg"><img src="game_1_fill.svg" width="250"></a> | **game_1_fill.svg**<br>Vector (SVG) | 3.49KB |
-| <a href="game_1_line.svg"><img src="game_1_line.svg" width="250"></a> | **game_1_line.svg**<br>Vector (SVG) | 3.95KB |
-| <a href="game_2_fill.svg"><img src="game_2_fill.svg" width="250"></a> | **game_2_fill.svg**<br>Vector (SVG) | 3.91KB |
-| <a href="game_2_line.svg"><img src="game_2_line.svg" width="250"></a> | **game_2_line.svg**<br>Vector (SVG) | 4.68KB |
-| <a href="iMac_fill.svg"><img src="iMac_fill.svg" width="250"></a> | **iMac_fill.svg**<br>Vector (SVG) | 2.50KB |
-| <a href="iMac_line.svg"><img src="iMac_line.svg" width="250"></a> | **iMac_line.svg**<br>Vector (SVG) | 2.61KB |
-| <a href="keyboard_fill.svg"><img src="keyboard_fill.svg" width="250"></a> | **keyboard_fill.svg**<br>Vector (SVG) | 2.58KB |
-| <a href="keyboard_line.svg"><img src="keyboard_line.svg" width="250"></a> | **keyboard_line.svg**<br>Vector (SVG) | 2.56KB |
-| <a href="laptop_fill.svg"><img src="laptop_fill.svg" width="250"></a> | **laptop_fill.svg**<br>Vector (SVG) | 1.37KB |
-| <a href="laptop_line.svg"><img src="laptop_line.svg" width="250"></a> | **laptop_line.svg**<br>Vector (SVG) | 0.00B |
-| <a href="microscope_fill.svg"><img src="microscope_fill.svg" width="250"></a> | **microscope_fill.svg**<br>Vector (SVG) | 14.63KB |
-| <a href="microscope_line.svg"><img src="microscope_line.svg" width="250"></a> | **microscope_line.svg**<br>Vector (SVG) | 14.71KB |
-| <a href="mouse_fill.svg"><img src="mouse_fill.svg" width="250"></a> | **mouse_fill.svg**<br>Vector (SVG) | 2.94KB |
-| <a href="mouse_line.svg"><img src="mouse_line.svg" width="250"></a> | **mouse_line.svg**<br>Vector (SVG) | 3.37KB |
-| <a href="pad_fill.svg"><img src="pad_fill.svg" width="250"></a> | **pad_fill.svg**<br>Vector (SVG) | 1.51KB |
-| <a href="pad_line.svg"><img src="pad_line.svg" width="250"></a> | **pad_line.svg**<br>Vector (SVG) | 1.58KB |
-| <a href="plugin_2_fill.svg"><img src="plugin_2_fill.svg" width="250"></a> | **plugin_2_fill.svg**<br>Vector (SVG) | 15.94KB |
-| <a href="plugin_2_line.svg"><img src="plugin_2_line.svg" width="250"></a> | **plugin_2_line.svg**<br>Vector (SVG) | 16.79KB |
-| <a href="plugin_fill.svg"><img src="plugin_fill.svg" width="250"></a> | **plugin_fill.svg**<br>Vector (SVG) | 14.09KB |
-| <a href="plugin_line.svg"><img src="plugin_line.svg" width="250"></a> | **plugin_line.svg**<br>Vector (SVG) | 14.28KB |
-| <a href="print_fill.svg"><img src="print_fill.svg" width="250"></a> | **print_fill.svg**<br>Vector (SVG) | 1.94KB |
-| <a href="print_line.svg"><img src="print_line.svg" width="250"></a> | **print_line.svg**<br>Vector (SVG) | 2.02KB |
-| <a href="qrcode_fill.svg"><img src="qrcode_fill.svg" width="250"></a> | **qrcode_fill.svg**<br>Vector (SVG) | 15.12KB |
-| <a href="qrcode_line.svg"><img src="qrcode_line.svg" width="250"></a> | **qrcode_line.svg**<br>Vector (SVG) | 15.38KB |
-| <a href="radar_2_fill.svg"><img src="radar_2_fill.svg" width="250"></a> | **radar_2_fill.svg**<br>Vector (SVG) | 15.05KB |
-| <a href="radar_2_line.svg"><img src="radar_2_line.svg" width="250"></a> | **radar_2_line.svg**<br>Vector (SVG) | 15.37KB |
-| <a href="radar_fill.svg"><img src="radar_fill.svg" width="250"></a> | **radar_fill.svg**<br>Vector (SVG) | 15.23KB |
-| <a href="radar_line.svg"><img src="radar_line.svg" width="250"></a> | **radar_line.svg**<br>Vector (SVG) | 15.23KB |
-| <a href="radio_fill.svg"><img src="radio_fill.svg" width="250"></a> | **radio_fill.svg**<br>Vector (SVG) | 2.17KB |
-| <a href="radio_line.svg"><img src="radio_line.svg" width="250"></a> | **radio_line.svg**<br>Vector (SVG) | 2.33KB |
-| <a href="remote_fill.svg"><img src="remote_fill.svg" width="250"></a> | **remote_fill.svg**<br>Vector (SVG) | 16.40KB |
-| <a href="remote_line.svg"><img src="remote_line.svg" width="250"></a> | **remote_line.svg**<br>Vector (SVG) | 16.42KB |
-| <a href="sandglass_fill.svg"><img src="sandglass_fill.svg" width="250"></a> | **sandglass_fill.svg**<br>Vector (SVG) | 15.47KB |
-| <a href="sandglass_line.svg"><img src="sandglass_line.svg" width="250"></a> | **sandglass_line.svg**<br>Vector (SVG) | 15.96KB |
-| <a href="scan_2_fill.svg"><img src="scan_2_fill.svg" width="250"></a> | **scan_2_fill.svg**<br>Vector (SVG) | 14.16KB |
-| <a href="scan_2_line.svg"><img src="scan_2_line.svg" width="250"></a> | **scan_2_line.svg**<br>Vector (SVG) | 14.16KB |
-| <a href="scan_fill.svg"><img src="scan_fill.svg" width="250"></a> | **scan_fill.svg**<br>Vector (SVG) | 14.83KB |
-| <a href="scan_line.svg"><img src="scan_line.svg" width="250"></a> | **scan_line.svg**<br>Vector (SVG) | 14.83KB |
-| <a href="speaker_fill.svg"><img src="speaker_fill.svg" width="250"></a> | **speaker_fill.svg**<br>Vector (SVG) | 16.03KB |
-| <a href="speaker_line.svg"><img src="speaker_line.svg" width="250"></a> | **speaker_line.svg**<br>Vector (SVG) | 16.14KB |
-| <a href="stopwatch_fill.svg"><img src="stopwatch_fill.svg" width="250"></a> | **stopwatch_fill.svg**<br>Vector (SVG) | 3.37KB |
-| <a href="stopwatch_line.svg"><img src="stopwatch_line.svg" width="250"></a> | **stopwatch_line.svg**<br>Vector (SVG) | 4.08KB |
-| <a href="telescope_fill.svg"><img src="telescope_fill.svg" width="250"></a> | **telescope_fill.svg**<br>Vector (SVG) | 14.26KB |
-| <a href="telescope_line.svg"><img src="telescope_line.svg" width="250"></a> | **telescope_line.svg**<br>Vector (SVG) | 14.58KB |
-| <a href="tv_1_fill.svg"><img src="tv_1_fill.svg" width="250"></a> | **tv_1_fill.svg**<br>Vector (SVG) | 1.37KB |
-| <a href="tv_1_line.svg"><img src="tv_1_line.svg" width="250"></a> | **tv_1_line.svg**<br>Vector (SVG) | 0.00B |
-| <a href="tv_2_fill.svg"><img src="tv_2_fill.svg" width="250"></a> | **tv_2_fill.svg**<br>Vector (SVG) | 1.52KB |
-| <a href="tv_2_line.svg"><img src="tv_2_line.svg" width="250"></a> | **tv_2_line.svg**<br>Vector (SVG) | 0.00B |
-| <a href="watch_fill.svg"><img src="watch_fill.svg" width="250"></a> | **watch_fill.svg**<br>Vector (SVG) | 2.87KB |
-| <a href="watch_line.svg"><img src="watch_line.svg" width="250"></a> | **watch_line.svg**<br>Vector (SVG) | 0.00B |
-| <a href="wifi_fill.svg"><img src="wifi_fill.svg" width="250"></a> | **wifi_fill.svg**<br>Vector (SVG) | 14.82KB |
-| <a href="wifi_line.svg"><img src="wifi_line.svg" width="250"></a> | **wifi_line.svg**<br>Vector (SVG) | 14.83KB |
-| <a href="wifi_off_fill.svg"><img src="wifi_off_fill.svg" width="250"></a> | **wifi_off_fill.svg**<br>Vector (SVG) | 15.23KB |
-| <a href="wifi_off_line.svg"><img src="wifi_off_line.svg" width="250"></a> | **wifi_off_line.svg**<br>Vector (SVG) | 15.21KB |
+| <a href="airplay_fill.svg"><img src="airplay_fill.svg" width="250"></a> | **airplay_fill.svg** |
+| <a href="airplay_line.svg"><img src="airplay_line.svg" width="250"></a> | **airplay_line.svg** |
+| <a href="alarm_1_fill.svg"><img src="alarm_1_fill.svg" width="250"></a> | **alarm_1_fill.svg** |
+| <a href="alarm_1_line.svg"><img src="alarm_1_line.svg" width="250"></a> | **alarm_1_line.svg** |
+| <a href="alarm_2_fill.svg"><img src="alarm_2_fill.svg" width="250"></a> | **alarm_2_fill.svg** |
+| <a href="alarm_2_line.svg"><img src="alarm_2_line.svg" width="250"></a> | **alarm_2_line.svg** |
+| <a href="battery_charging_fill.svg"><img src="battery_charging_fill.svg" width="250"></a> | **battery_charging_fill.svg** |
+| <a href="battery_charging_line.svg"><img src="battery_charging_line.svg" width="250"></a> | **battery_charging_line.svg** |
+| <a href="battery_fill.svg"><img src="battery_fill.svg" width="250"></a> | **battery_fill.svg** |
+| <a href="battery_line.svg"><img src="battery_line.svg" width="250"></a> | **battery_line.svg** |
+| <a href="bluetooth_fill.svg"><img src="bluetooth_fill.svg" width="250"></a> | **bluetooth_fill.svg** |
+| <a href="bluetooth_line.svg"><img src="bluetooth_line.svg" width="250"></a> | **bluetooth_line.svg** |
+| <a href="bluetooth_off_fill.svg"><img src="bluetooth_off_fill.svg" width="250"></a> | **bluetooth_off_fill.svg** |
+| <a href="bluetooth_off_line.svg"><img src="bluetooth_off_line.svg" width="250"></a> | **bluetooth_off_line.svg** |
+| <a href="bulb_fill.svg"><img src="bulb_fill.svg" width="250"></a> | **bulb_fill.svg** |
+| <a href="bulb_line.svg"><img src="bulb_line.svg" width="250"></a> | **bulb_line.svg** |
+| <a href="ceiling_lamp_fill.svg"><img src="ceiling_lamp_fill.svg" width="250"></a> | **ceiling_lamp_fill.svg** |
+| <a href="ceiling_lamp_line.svg"><img src="ceiling_lamp_line.svg" width="250"></a> | **ceiling_lamp_line.svg** |
+| <a href="cellphone_fill.svg"><img src="cellphone_fill.svg" width="250"></a> | **cellphone_fill.svg** |
+| <a href="cellphone_line.svg"><img src="cellphone_line.svg" width="250"></a> | **cellphone_line.svg** |
+| <a href="cellphone_vibration_fill.svg"><img src="cellphone_vibration_fill.svg" width="250"></a> | **cellphone_vibration_fill.svg** |
+| <a href="cellphone_vibration_line.svg"><img src="cellphone_vibration_line.svg" width="250"></a> | **cellphone_vibration_line.svg** |
+| <a href="chip_fill.svg"><img src="chip_fill.svg" width="250"></a> | **chip_fill.svg** |
+| <a href="chip_line.svg"><img src="chip_line.svg" width="250"></a> | **chip_line.svg** |
+| <a href="computer_camera_fill.svg"><img src="computer_camera_fill.svg" width="250"></a> | **computer_camera_fill.svg** |
+| <a href="computer_camera_line.svg"><img src="computer_camera_line.svg" width="250"></a> | **computer_camera_line.svg** |
+| <a href="computer_camera_off_fill.svg"><img src="computer_camera_off_fill.svg" width="250"></a> | **computer_camera_off_fill.svg** |
+| <a href="computer_camera_off_line.svg"><img src="computer_camera_off_line.svg" width="250"></a> | **computer_camera_off_line.svg** |
+| <a href="computer_fill.svg"><img src="computer_fill.svg" width="250"></a> | **computer_fill.svg** |
+| <a href="computer_line.svg"><img src="computer_line.svg" width="250"></a> | **computer_line.svg** |
+| <a href="dashboard_2_fill.svg"><img src="dashboard_2_fill.svg" width="250"></a> | **dashboard_2_fill.svg** |
+| <a href="dashboard_2_line.svg"><img src="dashboard_2_line.svg" width="250"></a> | **dashboard_2_line.svg** |
+| <a href="dashboard_fill.svg"><img src="dashboard_fill.svg" width="250"></a> | **dashboard_fill.svg** |
+| <a href="dashboard_line.svg"><img src="dashboard_line.svg" width="250"></a> | **dashboard_line.svg** |
+| <a href="desk_lamp_fill.svg"><img src="desk_lamp_fill.svg" width="250"></a> | **desk_lamp_fill.svg** |
+| <a href="desk_lamp_line.svg"><img src="desk_lamp_line.svg" width="250"></a> | **desk_lamp_line.svg** |
+| <a href="device_fill.svg"><img src="device_fill.svg" width="250"></a> | **device_fill.svg** |
+| <a href="device_line.svg"><img src="device_line.svg" width="250"></a> | **device_line.svg** |
+| <a href="flash_fill.svg"><img src="flash_fill.svg" width="250"></a> | **flash_fill.svg** |
+| <a href="flash_line.svg"><img src="flash_line.svg" width="250"></a> | **flash_line.svg** |
+| <a href="flashlight_fill.svg"><img src="flashlight_fill.svg" width="250"></a> | **flashlight_fill.svg** |
+| <a href="flashlight_line.svg"><img src="flashlight_line.svg" width="250"></a> | **flashlight_line.svg** |
+| <a href="fridge_fill.svg"><img src="fridge_fill.svg" width="250"></a> | **fridge_fill.svg** |
+| <a href="fridge_line.svg"><img src="fridge_line.svg" width="250"></a> | **fridge_line.svg** |
+| <a href="game_1_fill.svg"><img src="game_1_fill.svg" width="250"></a> | **game_1_fill.svg** |
+| <a href="game_1_line.svg"><img src="game_1_line.svg" width="250"></a> | **game_1_line.svg** |
+| <a href="game_2_fill.svg"><img src="game_2_fill.svg" width="250"></a> | **game_2_fill.svg** |
+| <a href="game_2_line.svg"><img src="game_2_line.svg" width="250"></a> | **game_2_line.svg** |
+| <a href="iMac_fill.svg"><img src="iMac_fill.svg" width="250"></a> | **iMac_fill.svg** |
+| <a href="iMac_line.svg"><img src="iMac_line.svg" width="250"></a> | **iMac_line.svg** |
+| <a href="keyboard_fill.svg"><img src="keyboard_fill.svg" width="250"></a> | **keyboard_fill.svg** |
+| <a href="keyboard_line.svg"><img src="keyboard_line.svg" width="250"></a> | **keyboard_line.svg** |
+| <a href="laptop_fill.svg"><img src="laptop_fill.svg" width="250"></a> | **laptop_fill.svg** |
+| <a href="laptop_line.svg"><img src="laptop_line.svg" width="250"></a> | **laptop_line.svg** |
+| <a href="microscope_fill.svg"><img src="microscope_fill.svg" width="250"></a> | **microscope_fill.svg** |
+| <a href="microscope_line.svg"><img src="microscope_line.svg" width="250"></a> | **microscope_line.svg** |
+| <a href="mouse_fill.svg"><img src="mouse_fill.svg" width="250"></a> | **mouse_fill.svg** |
+| <a href="mouse_line.svg"><img src="mouse_line.svg" width="250"></a> | **mouse_line.svg** |
+| <a href="pad_fill.svg"><img src="pad_fill.svg" width="250"></a> | **pad_fill.svg** |
+| <a href="pad_line.svg"><img src="pad_line.svg" width="250"></a> | **pad_line.svg** |
+| <a href="plugin_2_fill.svg"><img src="plugin_2_fill.svg" width="250"></a> | **plugin_2_fill.svg** |
+| <a href="plugin_2_line.svg"><img src="plugin_2_line.svg" width="250"></a> | **plugin_2_line.svg** |
+| <a href="plugin_fill.svg"><img src="plugin_fill.svg" width="250"></a> | **plugin_fill.svg** |
+| <a href="plugin_line.svg"><img src="plugin_line.svg" width="250"></a> | **plugin_line.svg** |
+| <a href="print_fill.svg"><img src="print_fill.svg" width="250"></a> | **print_fill.svg** |
+| <a href="print_line.svg"><img src="print_line.svg" width="250"></a> | **print_line.svg** |
+| <a href="qrcode_fill.svg"><img src="qrcode_fill.svg" width="250"></a> | **qrcode_fill.svg** |
+| <a href="qrcode_line.svg"><img src="qrcode_line.svg" width="250"></a> | **qrcode_line.svg** |
+| <a href="radar_2_fill.svg"><img src="radar_2_fill.svg" width="250"></a> | **radar_2_fill.svg** |
+| <a href="radar_2_line.svg"><img src="radar_2_line.svg" width="250"></a> | **radar_2_line.svg** |
+| <a href="radar_fill.svg"><img src="radar_fill.svg" width="250"></a> | **radar_fill.svg** |
+| <a href="radar_line.svg"><img src="radar_line.svg" width="250"></a> | **radar_line.svg** |
+| <a href="radio_fill.svg"><img src="radio_fill.svg" width="250"></a> | **radio_fill.svg** |
+| <a href="radio_line.svg"><img src="radio_line.svg" width="250"></a> | **radio_line.svg** |
+| <a href="remote_fill.svg"><img src="remote_fill.svg" width="250"></a> | **remote_fill.svg** |
+| <a href="remote_line.svg"><img src="remote_line.svg" width="250"></a> | **remote_line.svg** |
+| <a href="sandglass_fill.svg"><img src="sandglass_fill.svg" width="250"></a> | **sandglass_fill.svg** |
+| <a href="sandglass_line.svg"><img src="sandglass_line.svg" width="250"></a> | **sandglass_line.svg** |
+| <a href="scan_2_fill.svg"><img src="scan_2_fill.svg" width="250"></a> | **scan_2_fill.svg** |
+| <a href="scan_2_line.svg"><img src="scan_2_line.svg" width="250"></a> | **scan_2_line.svg** |
+| <a href="scan_fill.svg"><img src="scan_fill.svg" width="250"></a> | **scan_fill.svg** |
+| <a href="scan_line.svg"><img src="scan_line.svg" width="250"></a> | **scan_line.svg** |
+| <a href="speaker_fill.svg"><img src="speaker_fill.svg" width="250"></a> | **speaker_fill.svg** |
+| <a href="speaker_line.svg"><img src="speaker_line.svg" width="250"></a> | **speaker_line.svg** |
+| <a href="stopwatch_fill.svg"><img src="stopwatch_fill.svg" width="250"></a> | **stopwatch_fill.svg** |
+| <a href="stopwatch_line.svg"><img src="stopwatch_line.svg" width="250"></a> | **stopwatch_line.svg** |
+| <a href="telescope_fill.svg"><img src="telescope_fill.svg" width="250"></a> | **telescope_fill.svg** |
+| <a href="telescope_line.svg"><img src="telescope_line.svg" width="250"></a> | **telescope_line.svg** |
+| <a href="tv_1_fill.svg"><img src="tv_1_fill.svg" width="250"></a> | **tv_1_fill.svg** |
+| <a href="tv_1_line.svg"><img src="tv_1_line.svg" width="250"></a> | **tv_1_line.svg** |
+| <a href="tv_2_fill.svg"><img src="tv_2_fill.svg" width="250"></a> | **tv_2_fill.svg** |
+| <a href="tv_2_line.svg"><img src="tv_2_line.svg" width="250"></a> | **tv_2_line.svg** |
+| <a href="watch_fill.svg"><img src="watch_fill.svg" width="250"></a> | **watch_fill.svg** |
+| <a href="watch_line.svg"><img src="watch_line.svg" width="250"></a> | **watch_line.svg** |
+| <a href="wifi_fill.svg"><img src="wifi_fill.svg" width="250"></a> | **wifi_fill.svg** |
+| <a href="wifi_line.svg"><img src="wifi_line.svg" width="250"></a> | **wifi_line.svg** |
+| <a href="wifi_off_fill.svg"><img src="wifi_off_fill.svg" width="250"></a> | **wifi_off_fill.svg** |
+| <a href="wifi_off_line.svg"><img src="wifi_off_line.svg" width="250"></a> | **wifi_off_line.svg** |

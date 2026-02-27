@@ -1,86 +1,86 @@
-# 🖼️ device 素材庫
+# 🖼️ device
 
 [⬅️ 返回主目錄](../../../../../README.md)
 
-| 預覽 (點擊放大) | 檔案資訊 |
+| 預覽 | 資訊 |
 | :--- | :--- |
-| <a href="airplay-line.svg"><img src="airplay-line.svg" width="250"></a> | **airplay-line.svg**<br>Vector (SVG) | 1.18KB |
-| <a href="barcode-box-line.svg"><img src="barcode-box-line.svg" width="250"></a> | **barcode-box-line.svg**<br>Vector (SVG) | 662.00B |
-| <a href="barcode-line.svg"><img src="barcode-line.svg" width="250"></a> | **barcode-line.svg**<br>Vector (SVG) | 384.00B |
-| <a href="base-station-line.svg"><img src="base-station-line.svg" width="250"></a> | **base-station-line.svg**<br>Vector (SVG) | 2.17KB |
-| <a href="battery-2-charge-line.svg"><img src="battery-2-charge-line.svg" width="250"></a> | **battery-2-charge-line.svg**<br>Vector (SVG) | 795.00B |
-| <a href="battery-2-line.svg"><img src="battery-2-line.svg" width="250"></a> | **battery-2-line.svg**<br>Vector (SVG) | 764.00B |
-| <a href="battery-charge-line.svg"><img src="battery-charge-line.svg" width="250"></a> | **battery-charge-line.svg**<br>Vector (SVG) | 691.00B |
-| <a href="battery-line.svg"><img src="battery-line.svg" width="250"></a> | **battery-line.svg**<br>Vector (SVG) | 616.00B |
-| <a href="battery-low-line.svg"><img src="battery-low-line.svg" width="250"></a> | **battery-low-line.svg**<br>Vector (SVG) | 628.00B |
-| <a href="battery-saver-line.svg"><img src="battery-saver-line.svg" width="250"></a> | **battery-saver-line.svg**<br>Vector (SVG) | 807.00B |
-| <a href="battery-share-line.svg"><img src="battery-share-line.svg" width="250"></a> | **battery-share-line.svg**<br>Vector (SVG) | 909.00B |
-| <a href="bluetooth-connect-line.svg"><img src="bluetooth-connect-line.svg" width="250"></a> | **bluetooth-connect-line.svg**<br>Vector (SVG) | 1.19KB |
-| <a href="bluetooth-line.svg"><img src="bluetooth-line.svg" width="250"></a> | **bluetooth-line.svg**<br>Vector (SVG) | 584.00B |
-| <a href="cast-line.svg"><img src="cast-line.svg" width="250"></a> | **cast-line.svg**<br>Vector (SVG) | 1.02KB |
-| <a href="cellphone-line.svg"><img src="cellphone-line.svg" width="250"></a> | **cellphone-line.svg**<br>Vector (SVG) | 547.00B |
-| <a href="computer-line.svg"><img src="computer-line.svg" width="250"></a> | **computer-line.svg**<br>Vector (SVG) | 645.00B |
-| <a href="cpu-line.svg"><img src="cpu-line.svg" width="250"></a> | **cpu-line.svg**<br>Vector (SVG) | 701.00B |
-| <a href="dashboard-2-line.svg"><img src="dashboard-2-line.svg" width="250"></a> | **dashboard-2-line.svg**<br>Vector (SVG) | 1.03KB |
-| <a href="dashboard-3-line.svg"><img src="dashboard-3-line.svg" width="250"></a> | **dashboard-3-line.svg**<br>Vector (SVG) | 1.21KB |
-| <a href="database-2-line.svg"><img src="database-2-line.svg" width="250"></a> | **database-2-line.svg**<br>Vector (SVG) | 1.03KB |
-| <a href="database-line.svg"><img src="database-line.svg" width="250"></a> | **database-line.svg**<br>Vector (SVG) | 787.00B |
-| <a href="device-line.svg"><img src="device-line.svg" width="250"></a> | **device-line.svg**<br>Vector (SVG) | 858.00B |
-| <a href="device-recover-line.svg"><img src="device-recover-line.svg" width="250"></a> | **device-recover-line.svg**<br>Vector (SVG) | 1.51KB |
-| <a href="dual-sim-1-line.svg"><img src="dual-sim-1-line.svg" width="250"></a> | **dual-sim-1-line.svg**<br>Vector (SVG) | 622.00B |
-| <a href="dual-sim-2-line.svg"><img src="dual-sim-2-line.svg" width="250"></a> | **dual-sim-2-line.svg**<br>Vector (SVG) | 1.27KB |
-| <a href="fingerprint-2-line.svg"><img src="fingerprint-2-line.svg" width="250"></a> | **fingerprint-2-line.svg**<br>Vector (SVG) | 2.01KB |
-| <a href="fingerprint-line.svg"><img src="fingerprint-line.svg" width="250"></a> | **fingerprint-line.svg**<br>Vector (SVG) | 1.87KB |
-| <a href="gamepad-line.svg"><img src="gamepad-line.svg" width="250"></a> | **gamepad-line.svg**<br>Vector (SVG) | 1.02KB |
-| <a href="gps-line.svg"><img src="gps-line.svg" width="250"></a> | **gps-line.svg**<br>Vector (SVG) | 1.67KB |
-| <a href="gradienter-line.svg"><img src="gradienter-line.svg" width="250"></a> | **gradienter-line.svg**<br>Vector (SVG) | 1.17KB |
-| <a href="hard-drive-2-line.svg"><img src="hard-drive-2-line.svg" width="250"></a> | **hard-drive-2-line.svg**<br>Vector (SVG) | 636.00B |
-| <a href="hard-drive-line.svg"><img src="hard-drive-line.svg" width="250"></a> | **hard-drive-line.svg**<br>Vector (SVG) | 830.00B |
-| <a href="hotspot-line.svg"><img src="hotspot-line.svg" width="250"></a> | **hotspot-line.svg**<br>Vector (SVG) | 929.00B |
-| <a href="install-line.svg"><img src="install-line.svg" width="250"></a> | **install-line.svg**<br>Vector (SVG) | 697.00B |
-| <a href="keyboard-box-line.svg"><img src="keyboard-box-line.svg" width="250"></a> | **keyboard-box-line.svg**<br>Vector (SVG) | 713.00B |
-| <a href="keyboard-line.svg"><img src="keyboard-line.svg" width="250"></a> | **keyboard-line.svg**<br>Vector (SVG) | 418.00B |
-| <a href="mac-line.svg"><img src="mac-line.svg" width="250"></a> | **mac-line.svg**<br>Vector (SVG) | 660.00B |
-| <a href="macbook-line.svg"><img src="macbook-line.svg" width="250"></a> | **macbook-line.svg**<br>Vector (SVG) | 381.00B |
-| <a href="mouse-line.svg"><img src="mouse-line.svg" width="250"></a> | **mouse-line.svg**<br>Vector (SVG) | 1.22KB |
-| <a href="phone-find-line.svg"><img src="phone-find-line.svg" width="250"></a> | **phone-find-line.svg**<br>Vector (SVG) | 1.41KB |
-| <a href="phone-line.svg"><img src="phone-line.svg" width="250"></a> | **phone-line.svg**<br>Vector (SVG) | 1.44KB |
-| <a href="phone-lock-line.svg"><img src="phone-lock-line.svg" width="250"></a> | **phone-lock-line.svg**<br>Vector (SVG) | 991.00B |
-| <a href="qr-code-line.svg"><img src="qr-code-line.svg" width="250"></a> | **qr-code-line.svg**<br>Vector (SVG) | 511.00B |
-| <a href="qr-scan-2-line.svg"><img src="qr-scan-2-line.svg" width="250"></a> | **qr-scan-2-line.svg**<br>Vector (SVG) | 374.00B |
-| <a href="qr-scan-line.svg"><img src="qr-scan-line.svg" width="250"></a> | **qr-scan-line.svg**<br>Vector (SVG) | 343.00B |
-| <a href="radar-line.svg"><img src="radar-line.svg" width="250"></a> | **radar-line.svg**<br>Vector (SVG) | 995.00B |
-| <a href="remote-control-2-line.svg"><img src="remote-control-2-line.svg" width="250"></a> | **remote-control-2-line.svg**<br>Vector (SVG) | 688.00B |
-| <a href="remote-control-line.svg"><img src="remote-control-line.svg" width="250"></a> | **remote-control-line.svg**<br>Vector (SVG) | 1.25KB |
-| <a href="restart-line.svg"><img src="restart-line.svg" width="250"></a> | **restart-line.svg**<br>Vector (SVG) | 831.00B |
-| <a href="rotate-lock-line.svg"><img src="rotate-lock-line.svg" width="250"></a> | **rotate-lock-line.svg**<br>Vector (SVG) | 1.19KB |
-| <a href="router-line.svg"><img src="router-line.svg" width="250"></a> | **router-line.svg**<br>Vector (SVG) | 1.33KB |
-| <a href="rss-line.svg"><img src="rss-line.svg" width="250"></a> | **rss-line.svg**<br>Vector (SVG) | 525.00B |
-| <a href="save-2-line.svg"><img src="save-2-line.svg" width="250"></a> | **save-2-line.svg**<br>Vector (SVG) | 913.00B |
-| <a href="save-3-line.svg"><img src="save-3-line.svg" width="250"></a> | **save-3-line.svg**<br>Vector (SVG) | 629.00B |
-| <a href="save-line.svg"><img src="save-line.svg" width="250"></a> | **save-line.svg**<br>Vector (SVG) | 570.00B |
-| <a href="scan-2-line.svg"><img src="scan-2-line.svg" width="250"></a> | **scan-2-line.svg**<br>Vector (SVG) | 1.70KB |
-| <a href="scan-line.svg"><img src="scan-line.svg" width="250"></a> | **scan-line.svg**<br>Vector (SVG) | 950.00B |
-| <a href="sd-card-line.svg"><img src="sd-card-line.svg" width="250"></a> | **sd-card-line.svg**<br>Vector (SVG) | 653.00B |
-| <a href="sd-card-mini-line.svg"><img src="sd-card-mini-line.svg" width="250"></a> | **sd-card-mini-line.svg**<br>Vector (SVG) | 806.00B |
-| <a href="sensor-line.svg"><img src="sensor-line.svg" width="250"></a> | **sensor-line.svg**<br>Vector (SVG) | 489.00B |
-| <a href="server-line.svg"><img src="server-line.svg" width="250"></a> | **server-line.svg**<br>Vector (SVG) | 648.00B |
-| <a href="shut-down-line.svg"><img src="shut-down-line.svg" width="250"></a> | **shut-down-line.svg**<br>Vector (SVG) | 921.00B |
-| <a href="signal-wifi-1-line.svg"><img src="signal-wifi-1-line.svg" width="250"></a> | **signal-wifi-1-line.svg**<br>Vector (SVG) | 686.00B |
-| <a href="signal-wifi-2-line.svg"><img src="signal-wifi-2-line.svg" width="250"></a> | **signal-wifi-2-line.svg**<br>Vector (SVG) | 687.00B |
-| <a href="signal-wifi-3-line.svg"><img src="signal-wifi-3-line.svg" width="250"></a> | **signal-wifi-3-line.svg**<br>Vector (SVG) | 680.00B |
-| <a href="signal-wifi-error-line.svg"><img src="signal-wifi-error-line.svg" width="250"></a> | **signal-wifi-error-line.svg**<br>Vector (SVG) | 571.00B |
-| <a href="signal-wifi-line.svg"><img src="signal-wifi-line.svg" width="250"></a> | **signal-wifi-line.svg**<br>Vector (SVG) | 491.00B |
-| <a href="signal-wifi-off-line.svg"><img src="signal-wifi-off-line.svg" width="250"></a> | **signal-wifi-off-line.svg**<br>Vector (SVG) | 833.00B |
-| <a href="sim-card-2-line.svg"><img src="sim-card-2-line.svg" width="250"></a> | **sim-card-2-line.svg**<br>Vector (SVG) | 705.00B |
-| <a href="sim-card-line.svg"><img src="sim-card-line.svg" width="250"></a> | **sim-card-line.svg**<br>Vector (SVG) | 607.00B |
-| <a href="smartphone-line.svg"><img src="smartphone-line.svg" width="250"></a> | **smartphone-line.svg**<br>Vector (SVG) | 908.00B |
-| <a href="tablet-line.svg"><img src="tablet-line.svg" width="250"></a> | **tablet-line.svg**<br>Vector (SVG) | 908.00B |
-| <a href="tv-2-line.svg"><img src="tv-2-line.svg" width="250"></a> | **tv-2-line.svg**<br>Vector (SVG) | 630.00B |
-| <a href="tv-line.svg"><img src="tv-line.svg" width="250"></a> | **tv-line.svg**<br>Vector (SVG) | 758.00B |
-| <a href="u-disk-line.svg"><img src="u-disk-line.svg" width="250"></a> | **u-disk-line.svg**<br>Vector (SVG) | 662.00B |
-| <a href="uninstall-line.svg"><img src="uninstall-line.svg" width="250"></a> | **uninstall-line.svg**<br>Vector (SVG) | 697.00B |
-| <a href="usb-line.svg"><img src="usb-line.svg" width="250"></a> | **usb-line.svg**<br>Vector (SVG) | 717.00B |
-| <a href="wifi-line.svg"><img src="wifi-line.svg" width="250"></a> | **wifi-line.svg**<br>Vector (SVG) | 1.07KB |
-| <a href="wifi-off-line.svg"><img src="wifi-off-line.svg" width="250"></a> | **wifi-off-line.svg**<br>Vector (SVG) | 1.18KB |
-| <a href="wireless-charging-line.svg"><img src="wireless-charging-line.svg" width="250"></a> | **wireless-charging-line.svg**<br>Vector (SVG) | 1.00KB |
+| <a href="airplay-line.svg"><img src="airplay-line.svg" width="250"></a> | **airplay-line.svg** |
+| <a href="barcode-box-line.svg"><img src="barcode-box-line.svg" width="250"></a> | **barcode-box-line.svg** |
+| <a href="barcode-line.svg"><img src="barcode-line.svg" width="250"></a> | **barcode-line.svg** |
+| <a href="base-station-line.svg"><img src="base-station-line.svg" width="250"></a> | **base-station-line.svg** |
+| <a href="battery-2-charge-line.svg"><img src="battery-2-charge-line.svg" width="250"></a> | **battery-2-charge-line.svg** |
+| <a href="battery-2-line.svg"><img src="battery-2-line.svg" width="250"></a> | **battery-2-line.svg** |
+| <a href="battery-charge-line.svg"><img src="battery-charge-line.svg" width="250"></a> | **battery-charge-line.svg** |
+| <a href="battery-line.svg"><img src="battery-line.svg" width="250"></a> | **battery-line.svg** |
+| <a href="battery-low-line.svg"><img src="battery-low-line.svg" width="250"></a> | **battery-low-line.svg** |
+| <a href="battery-saver-line.svg"><img src="battery-saver-line.svg" width="250"></a> | **battery-saver-line.svg** |
+| <a href="battery-share-line.svg"><img src="battery-share-line.svg" width="250"></a> | **battery-share-line.svg** |
+| <a href="bluetooth-connect-line.svg"><img src="bluetooth-connect-line.svg" width="250"></a> | **bluetooth-connect-line.svg** |
+| <a href="bluetooth-line.svg"><img src="bluetooth-line.svg" width="250"></a> | **bluetooth-line.svg** |
+| <a href="cast-line.svg"><img src="cast-line.svg" width="250"></a> | **cast-line.svg** |
+| <a href="cellphone-line.svg"><img src="cellphone-line.svg" width="250"></a> | **cellphone-line.svg** |
+| <a href="computer-line.svg"><img src="computer-line.svg" width="250"></a> | **computer-line.svg** |
+| <a href="cpu-line.svg"><img src="cpu-line.svg" width="250"></a> | **cpu-line.svg** |
+| <a href="dashboard-2-line.svg"><img src="dashboard-2-line.svg" width="250"></a> | **dashboard-2-line.svg** |
+| <a href="dashboard-3-line.svg"><img src="dashboard-3-line.svg" width="250"></a> | **dashboard-3-line.svg** |
+| <a href="database-2-line.svg"><img src="database-2-line.svg" width="250"></a> | **database-2-line.svg** |
+| <a href="database-line.svg"><img src="database-line.svg" width="250"></a> | **database-line.svg** |
+| <a href="device-line.svg"><img src="device-line.svg" width="250"></a> | **device-line.svg** |
+| <a href="device-recover-line.svg"><img src="device-recover-line.svg" width="250"></a> | **device-recover-line.svg** |
+| <a href="dual-sim-1-line.svg"><img src="dual-sim-1-line.svg" width="250"></a> | **dual-sim-1-line.svg** |
+| <a href="dual-sim-2-line.svg"><img src="dual-sim-2-line.svg" width="250"></a> | **dual-sim-2-line.svg** |
+| <a href="fingerprint-2-line.svg"><img src="fingerprint-2-line.svg" width="250"></a> | **fingerprint-2-line.svg** |
+| <a href="fingerprint-line.svg"><img src="fingerprint-line.svg" width="250"></a> | **fingerprint-line.svg** |
+| <a href="gamepad-line.svg"><img src="gamepad-line.svg" width="250"></a> | **gamepad-line.svg** |
+| <a href="gps-line.svg"><img src="gps-line.svg" width="250"></a> | **gps-line.svg** |
+| <a href="gradienter-line.svg"><img src="gradienter-line.svg" width="250"></a> | **gradienter-line.svg** |
+| <a href="hard-drive-2-line.svg"><img src="hard-drive-2-line.svg" width="250"></a> | **hard-drive-2-line.svg** |
+| <a href="hard-drive-line.svg"><img src="hard-drive-line.svg" width="250"></a> | **hard-drive-line.svg** |
+| <a href="hotspot-line.svg"><img src="hotspot-line.svg" width="250"></a> | **hotspot-line.svg** |
+| <a href="install-line.svg"><img src="install-line.svg" width="250"></a> | **install-line.svg** |
+| <a href="keyboard-box-line.svg"><img src="keyboard-box-line.svg" width="250"></a> | **keyboard-box-line.svg** |
+| <a href="keyboard-line.svg"><img src="keyboard-line.svg" width="250"></a> | **keyboard-line.svg** |
+| <a href="mac-line.svg"><img src="mac-line.svg" width="250"></a> | **mac-line.svg** |
+| <a href="macbook-line.svg"><img src="macbook-line.svg" width="250"></a> | **macbook-line.svg** |
+| <a href="mouse-line.svg"><img src="mouse-line.svg" width="250"></a> | **mouse-line.svg** |
+| <a href="phone-find-line.svg"><img src="phone-find-line.svg" width="250"></a> | **phone-find-line.svg** |
+| <a href="phone-line.svg"><img src="phone-line.svg" width="250"></a> | **phone-line.svg** |
+| <a href="phone-lock-line.svg"><img src="phone-lock-line.svg" width="250"></a> | **phone-lock-line.svg** |
+| <a href="qr-code-line.svg"><img src="qr-code-line.svg" width="250"></a> | **qr-code-line.svg** |
+| <a href="qr-scan-2-line.svg"><img src="qr-scan-2-line.svg" width="250"></a> | **qr-scan-2-line.svg** |
+| <a href="qr-scan-line.svg"><img src="qr-scan-line.svg" width="250"></a> | **qr-scan-line.svg** |
+| <a href="radar-line.svg"><img src="radar-line.svg" width="250"></a> | **radar-line.svg** |
+| <a href="remote-control-2-line.svg"><img src="remote-control-2-line.svg" width="250"></a> | **remote-control-2-line.svg** |
+| <a href="remote-control-line.svg"><img src="remote-control-line.svg" width="250"></a> | **remote-control-line.svg** |
+| <a href="restart-line.svg"><img src="restart-line.svg" width="250"></a> | **restart-line.svg** |
+| <a href="rotate-lock-line.svg"><img src="rotate-lock-line.svg" width="250"></a> | **rotate-lock-line.svg** |
+| <a href="router-line.svg"><img src="router-line.svg" width="250"></a> | **router-line.svg** |
+| <a href="rss-line.svg"><img src="rss-line.svg" width="250"></a> | **rss-line.svg** |
+| <a href="save-2-line.svg"><img src="save-2-line.svg" width="250"></a> | **save-2-line.svg** |
+| <a href="save-3-line.svg"><img src="save-3-line.svg" width="250"></a> | **save-3-line.svg** |
+| <a href="save-line.svg"><img src="save-line.svg" width="250"></a> | **save-line.svg** |
+| <a href="scan-2-line.svg"><img src="scan-2-line.svg" width="250"></a> | **scan-2-line.svg** |
+| <a href="scan-line.svg"><img src="scan-line.svg" width="250"></a> | **scan-line.svg** |
+| <a href="sd-card-line.svg"><img src="sd-card-line.svg" width="250"></a> | **sd-card-line.svg** |
+| <a href="sd-card-mini-line.svg"><img src="sd-card-mini-line.svg" width="250"></a> | **sd-card-mini-line.svg** |
+| <a href="sensor-line.svg"><img src="sensor-line.svg" width="250"></a> | **sensor-line.svg** |
+| <a href="server-line.svg"><img src="server-line.svg" width="250"></a> | **server-line.svg** |
+| <a href="shut-down-line.svg"><img src="shut-down-line.svg" width="250"></a> | **shut-down-line.svg** |
+| <a href="signal-wifi-1-line.svg"><img src="signal-wifi-1-line.svg" width="250"></a> | **signal-wifi-1-line.svg** |
+| <a href="signal-wifi-2-line.svg"><img src="signal-wifi-2-line.svg" width="250"></a> | **signal-wifi-2-line.svg** |
+| <a href="signal-wifi-3-line.svg"><img src="signal-wifi-3-line.svg" width="250"></a> | **signal-wifi-3-line.svg** |
+| <a href="signal-wifi-error-line.svg"><img src="signal-wifi-error-line.svg" width="250"></a> | **signal-wifi-error-line.svg** |
+| <a href="signal-wifi-line.svg"><img src="signal-wifi-line.svg" width="250"></a> | **signal-wifi-line.svg** |
+| <a href="signal-wifi-off-line.svg"><img src="signal-wifi-off-line.svg" width="250"></a> | **signal-wifi-off-line.svg** |
+| <a href="sim-card-2-line.svg"><img src="sim-card-2-line.svg" width="250"></a> | **sim-card-2-line.svg** |
+| <a href="sim-card-line.svg"><img src="sim-card-line.svg" width="250"></a> | **sim-card-line.svg** |
+| <a href="smartphone-line.svg"><img src="smartphone-line.svg" width="250"></a> | **smartphone-line.svg** |
+| <a href="tablet-line.svg"><img src="tablet-line.svg" width="250"></a> | **tablet-line.svg** |
+| <a href="tv-2-line.svg"><img src="tv-2-line.svg" width="250"></a> | **tv-2-line.svg** |
+| <a href="tv-line.svg"><img src="tv-line.svg" width="250"></a> | **tv-line.svg** |
+| <a href="u-disk-line.svg"><img src="u-disk-line.svg" width="250"></a> | **u-disk-line.svg** |
+| <a href="uninstall-line.svg"><img src="uninstall-line.svg" width="250"></a> | **uninstall-line.svg** |
+| <a href="usb-line.svg"><img src="usb-line.svg" width="250"></a> | **usb-line.svg** |
+| <a href="wifi-line.svg"><img src="wifi-line.svg" width="250"></a> | **wifi-line.svg** |
+| <a href="wifi-off-line.svg"><img src="wifi-off-line.svg" width="250"></a> | **wifi-off-line.svg** |
+| <a href="wireless-charging-line.svg"><img src="wireless-charging-line.svg" width="250"></a> | **wireless-charging-line.svg** |

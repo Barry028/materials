@@ -1,140 +1,140 @@
-# 🖼️ 32 素材庫
+# 🖼️ 32
 
 [⬅️ 返回主目錄](../../../../../../README.md)
 
-| 預覽 (點擊放大) | 檔案資訊 |
+| 預覽 | 資訊 |
 | :--- | :--- |
-| <a href="device-notifier.svg"><img src="device-notifier.svg" width="250"></a> | **device-notifier.svg**<br>Vector (SVG) | 4.12KB |
-| <a href="drive-removable-media.svg"><img src="drive-removable-media.svg" width="250"></a> | **drive-removable-media.svg**<br>Vector (SVG) | 4.53KB |
-| <a href="plasma-search.svg"><img src="plasma-search.svg" width="250"></a> | **plasma-search.svg**<br>Vector (SVG) | 6.35KB |
-| <a href="podcast-amarok.svg"><img src="podcast-amarok.svg" width="250"></a> | **podcast-amarok.svg**<br>Vector (SVG) | 5.04KB |
-| <a href="preferences-desktop-accessibility.svg"><img src="preferences-desktop-accessibility.svg" width="250"></a> | **preferences-desktop-accessibility.svg**<br>Vector (SVG) | 3.29KB |
-| <a href="preferences-desktop-activities.svg"><img src="preferences-desktop-activities.svg" width="250"></a> | **preferences-desktop-activities.svg**<br>Vector (SVG) | 8.88KB |
-| <a href="preferences-desktop-baloo.svg"><img src="preferences-desktop-baloo.svg" width="250"></a> | **preferences-desktop-baloo.svg**<br>Vector (SVG) | 3.12KB |
-| <a href="preferences-desktop-color.svg"><img src="preferences-desktop-color.svg" width="250"></a> | **preferences-desktop-color.svg**<br>Vector (SVG) | 12.13KB |
-| <a href="preferences-desktop-cryptography.svg"><img src="preferences-desktop-cryptography.svg" width="250"></a> | **preferences-desktop-cryptography.svg**<br>Vector (SVG) | 2.38KB |
-| <a href="preferences-desktop-cursors.svg"><img src="preferences-desktop-cursors.svg" width="250"></a> | **preferences-desktop-cursors.svg**<br>Vector (SVG) | 2.07KB |
-| <a href="preferences-desktop-default-applications.svg"><img src="preferences-desktop-default-applications.svg" width="250"></a> | **preferences-desktop-default-applications.svg**<br>Vector (SVG) | 1.19KB |
-| <a href="preferences-desktop-display-color.svg"><img src="preferences-desktop-display-color.svg" width="250"></a> | **preferences-desktop-display-color.svg**<br>Vector (SVG) | 20.45KB |
-| <a href="preferences-desktop-display-randr.svg"><img src="preferences-desktop-display-randr.svg" width="250"></a> | **preferences-desktop-display-randr.svg**<br>Vector (SVG) | 1.48KB |
-| <a href="preferences-desktop-display.svg"><img src="preferences-desktop-display.svg" width="250"></a> | **preferences-desktop-display.svg**<br>Vector (SVG) | 2.84KB |
-| <a href="preferences-desktop-effects.svg"><img src="preferences-desktop-effects.svg" width="250"></a> | **preferences-desktop-effects.svg**<br>Vector (SVG) | 4.57KB |
-| <a href="preferences-desktop-emoticons.svg"><img src="preferences-desktop-emoticons.svg" width="250"></a> | **preferences-desktop-emoticons.svg**<br>Vector (SVG) | 2.20KB |
-| <a href="preferences-desktop-feedback.svg"><img src="preferences-desktop-feedback.svg" width="250"></a> | **preferences-desktop-feedback.svg**<br>Vector (SVG) | 1.47KB |
-| <a href="preferences-desktop-filetype-association.svg"><img src="preferences-desktop-filetype-association.svg" width="250"></a> | **preferences-desktop-filetype-association.svg**<br>Vector (SVG) | 3.68KB |
-| <a href="preferences-desktop-filter.svg"><img src="preferences-desktop-filter.svg" width="250"></a> | **preferences-desktop-filter.svg**<br>Vector (SVG) | 1.28KB |
-| <a href="preferences-desktop-font.svg"><img src="preferences-desktop-font.svg" width="250"></a> | **preferences-desktop-font.svg**<br>Vector (SVG) | 3.09KB |
-| <a href="preferences-desktop-gestures-screenedges.svg"><img src="preferences-desktop-gestures-screenedges.svg" width="250"></a> | **preferences-desktop-gestures-screenedges.svg**<br>Vector (SVG) | 2.82KB |
-| <a href="preferences-desktop-gestures-touch.svg"><img src="preferences-desktop-gestures-touch.svg" width="250"></a> | **preferences-desktop-gestures-touch.svg**<br>Vector (SVG) | 3.75KB |
-| <a href="preferences-desktop-icons.svg"><img src="preferences-desktop-icons.svg" width="250"></a> | **preferences-desktop-icons.svg**<br>Vector (SVG) | 3.37KB |
-| <a href="preferences-desktop-keyboard.svg"><img src="preferences-desktop-keyboard.svg" width="250"></a> | **preferences-desktop-keyboard.svg**<br>Vector (SVG) | 2.77KB |
-| <a href="preferences-desktop-launch-feedback.svg"><img src="preferences-desktop-launch-feedback.svg" width="250"></a> | **preferences-desktop-launch-feedback.svg**<br>Vector (SVG) | 4.39KB |
-| <a href="preferences-desktop-locale.svg"><img src="preferences-desktop-locale.svg" width="250"></a> | **preferences-desktop-locale.svg**<br>Vector (SVG) | 2.33KB |
-| <a href="preferences-desktop-multimedia.svg"><img src="preferences-desktop-multimedia.svg" width="250"></a> | **preferences-desktop-multimedia.svg**<br>Vector (SVG) | 4.42KB |
-| <a href="preferences-desktop-navigation.svg"><img src="preferences-desktop-navigation.svg" width="250"></a> | **preferences-desktop-navigation.svg**<br>Vector (SVG) | 3.30KB |
-| <a href="preferences-desktop-notification-bell.svg"><img src="preferences-desktop-notification-bell.svg" width="250"></a> | **preferences-desktop-notification-bell.svg**<br>Vector (SVG) | 1.49KB |
-| <a href="preferences-desktop-plasma-theme.svg"><img src="preferences-desktop-plasma-theme.svg" width="250"></a> | **preferences-desktop-plasma-theme.svg**<br>Vector (SVG) | 4.42KB |
-| <a href="preferences-desktop-plasma.svg"><img src="preferences-desktop-plasma.svg" width="250"></a> | **preferences-desktop-plasma.svg**<br>Vector (SVG) | 7.72KB |
-| <a href="preferences-desktop-screensaver.svg"><img src="preferences-desktop-screensaver.svg" width="250"></a> | **preferences-desktop-screensaver.svg**<br>Vector (SVG) | 11.24KB |
-| <a href="preferences-desktop-search.svg"><img src="preferences-desktop-search.svg" width="250"></a> | **preferences-desktop-search.svg**<br>Vector (SVG) | 1.84KB |
-| <a href="preferences-desktop-sound.svg"><img src="preferences-desktop-sound.svg" width="250"></a> | **preferences-desktop-sound.svg**<br>Vector (SVG) | 4.39KB |
-| <a href="preferences-desktop-tablet.svg"><img src="preferences-desktop-tablet.svg" width="250"></a> | **preferences-desktop-tablet.svg**<br>Vector (SVG) | 1.38KB |
-| <a href="preferences-desktop-text-to-speech.svg"><img src="preferences-desktop-text-to-speech.svg" width="250"></a> | **preferences-desktop-text-to-speech.svg**<br>Vector (SVG) | 2.48KB |
-| <a href="preferences-desktop-theme-applications.svg"><img src="preferences-desktop-theme-applications.svg" width="250"></a> | **preferences-desktop-theme-applications.svg**<br>Vector (SVG) | 2.21KB |
-| <a href="preferences-desktop-theme-global.svg"><img src="preferences-desktop-theme-global.svg" width="250"></a> | **preferences-desktop-theme-global.svg**<br>Vector (SVG) | 6.63KB |
-| <a href="preferences-desktop-theme-windowdecorations.svg"><img src="preferences-desktop-theme-windowdecorations.svg" width="250"></a> | **preferences-desktop-theme-windowdecorations.svg**<br>Vector (SVG) | 986.00B |
-| <a href="preferences-desktop-thunderbolt.svg"><img src="preferences-desktop-thunderbolt.svg" width="250"></a> | **preferences-desktop-thunderbolt.svg**<br>Vector (SVG) | 2.18KB |
-| <a href="preferences-desktop-touchpad.svg"><img src="preferences-desktop-touchpad.svg" width="250"></a> | **preferences-desktop-touchpad.svg**<br>Vector (SVG) | 6.01KB |
-| <a href="preferences-desktop-touchscreen.svg"><img src="preferences-desktop-touchscreen.svg" width="250"></a> | **preferences-desktop-touchscreen.svg**<br>Vector (SVG) | 6.08KB |
-| <a href="preferences-desktop-user-password.svg"><img src="preferences-desktop-user-password.svg" width="250"></a> | **preferences-desktop-user-password.svg**<br>Vector (SVG) | 4.26KB |
-| <a href="preferences-desktop-user.svg"><img src="preferences-desktop-user.svg" width="250"></a> | **preferences-desktop-user.svg**<br>Vector (SVG) | 4.32KB |
-| <a href="preferences-desktop-virtual.svg"><img src="preferences-desktop-virtual.svg" width="250"></a> | **preferences-desktop-virtual.svg**<br>Vector (SVG) | 1.88KB |
-| <a href="preferences-desktop-wallpaper.svg"><img src="preferences-desktop-wallpaper.svg" width="250"></a> | **preferences-desktop-wallpaper.svg**<br>Vector (SVG) | 9.54KB |
-| <a href="preferences-desktop.svg"><img src="preferences-desktop.svg" width="250"></a> | **preferences-desktop.svg**<br>Vector (SVG) | 9.62KB |
-| <a href="preferences-devices-cpu.svg"><img src="preferences-devices-cpu.svg" width="250"></a> | **preferences-devices-cpu.svg**<br>Vector (SVG) | 2.53KB |
-| <a href="preferences-devices-drive-optical-check.svg"><img src="preferences-devices-drive-optical-check.svg" width="250"></a> | **preferences-devices-drive-optical-check.svg**<br>Vector (SVG) | 1.95KB |
-| <a href="preferences-devices-printer.svg"><img src="preferences-devices-printer.svg" width="250"></a> | **preferences-devices-printer.svg**<br>Vector (SVG) | 4.09KB |
-| <a href="preferences-devices-scanner.svg"><img src="preferences-devices-scanner.svg" width="250"></a> | **preferences-devices-scanner.svg**<br>Vector (SVG) | 3.31KB |
-| <a href="preferences-devices-tree.svg"><img src="preferences-devices-tree.svg" width="250"></a> | **preferences-devices-tree.svg**<br>Vector (SVG) | 3.70KB |
-| <a href="preferences-document.svg"><img src="preferences-document.svg" width="250"></a> | **preferences-document.svg**<br>Vector (SVG) | 1.00KB |
-| <a href="preferences-git.svg"><img src="preferences-git.svg" width="250"></a> | **preferences-git.svg**<br>Vector (SVG) | 2.94KB |
-| <a href="preferences-gtk-config.svg"><img src="preferences-gtk-config.svg" width="250"></a> | **preferences-gtk-config.svg**<br>Vector (SVG) | 4.56KB |
-| <a href="preferences-kde-connect.svg"><img src="preferences-kde-connect.svg" width="250"></a> | **preferences-kde-connect.svg**<br>Vector (SVG) | 3.90KB |
-| <a href="preferences-log.svg"><img src="preferences-log.svg" width="250"></a> | **preferences-log.svg**<br>Vector (SVG) | 1.81KB |
-| <a href="preferences-online-accounts.svg"><img src="preferences-online-accounts.svg" width="250"></a> | **preferences-online-accounts.svg**<br>Vector (SVG) | 3.57KB |
-| <a href="preferences-other.svg"><img src="preferences-other.svg" width="250"></a> | **preferences-other.svg**<br>Vector (SVG) | 2.61KB |
-| <a href="preferences-plugin.svg"><img src="preferences-plugin.svg" width="250"></a> | **preferences-plugin.svg**<br>Vector (SVG) | 7.15KB |
-| <a href="preferences-releasenotes.svg"><img src="preferences-releasenotes.svg" width="250"></a> | **preferences-releasenotes.svg**<br>Vector (SVG) | 2.06KB |
-| <a href="preferences-scroll.svg"><img src="preferences-scroll.svg" width="250"></a> | **preferences-scroll.svg**<br>Vector (SVG) | 4.01KB |
-| <a href="preferences-security-apparmor.svg"><img src="preferences-security-apparmor.svg" width="250"></a> | **preferences-security-apparmor.svg**<br>Vector (SVG) | 3.26KB |
-| <a href="preferences-security-firewall.svg"><img src="preferences-security-firewall.svg" width="250"></a> | **preferences-security-firewall.svg**<br>Vector (SVG) | 2.35KB |
-| <a href="preferences-security-kerberos.svg"><img src="preferences-security-kerberos.svg" width="250"></a> | **preferences-security-kerberos.svg**<br>Vector (SVG) | 5.92KB |
-| <a href="preferences-security.svg"><img src="preferences-security.svg" width="250"></a> | **preferences-security.svg**<br>Vector (SVG) | 1.16KB |
-| <a href="preferences-smart-status.svg"><img src="preferences-smart-status.svg" width="250"></a> | **preferences-smart-status.svg**<br>Vector (SVG) | 3.78KB |
-| <a href="preferences-system-backup.svg"><img src="preferences-system-backup.svg" width="250"></a> | **preferences-system-backup.svg**<br>Vector (SVG) | 1.98KB |
-| <a href="preferences-system-bluetooth-activated-symbolic.svg"><img src="preferences-system-bluetooth-activated-symbolic.svg" width="250"></a> | **preferences-system-bluetooth-activated-symbolic.svg**<br>Vector (SVG) | 1.82KB |
-| <a href="preferences-system-bluetooth-battery-symbolic.svg"><img src="preferences-system-bluetooth-battery-symbolic.svg" width="250"></a> | **preferences-system-bluetooth-battery-symbolic.svg**<br>Vector (SVG) | 1.52KB |
-| <a href="preferences-system-bluetooth-inactive-symbolic.svg"><img src="preferences-system-bluetooth-inactive-symbolic.svg" width="250"></a> | **preferences-system-bluetooth-inactive-symbolic.svg**<br>Vector (SVG) | 1.57KB |
-| <a href="preferences-system-bluetooth-symbolic.svg"><img src="preferences-system-bluetooth-symbolic.svg" width="250"></a> | **preferences-system-bluetooth-symbolic.svg**<br>Vector (SVG) | 1.55KB |
-| <a href="preferences-system-bluetooth.svg"><img src="preferences-system-bluetooth.svg" width="250"></a> | **preferences-system-bluetooth.svg**<br>Vector (SVG) | 2.77KB |
-| <a href="preferences-system-disks.svg"><img src="preferences-system-disks.svg" width="250"></a> | **preferences-system-disks.svg**<br>Vector (SVG) | 1.64KB |
-| <a href="preferences-system-linux.svg"><img src="preferences-system-linux.svg" width="250"></a> | **preferences-system-linux.svg**<br>Vector (SVG) | 4.46KB |
-| <a href="preferences-system-login.svg"><img src="preferences-system-login.svg" width="250"></a> | **preferences-system-login.svg**<br>Vector (SVG) | 7.65KB |
-| <a href="preferences-system-network-dsl.svg"><img src="preferences-system-network-dsl.svg" width="250"></a> | **preferences-system-network-dsl.svg**<br>Vector (SVG) | 3.77KB |
-| <a href="preferences-system-network-ethernet.svg"><img src="preferences-system-network-ethernet.svg" width="250"></a> | **preferences-system-network-ethernet.svg**<br>Vector (SVG) | 3.68KB |
-| <a href="preferences-system-network-iscsi.svg"><img src="preferences-system-network-iscsi.svg" width="250"></a> | **preferences-system-network-iscsi.svg**<br>Vector (SVG) | 16.03KB |
-| <a href="preferences-system-network-ldap.svg"><img src="preferences-system-network-ldap.svg" width="250"></a> | **preferences-system-network-ldap.svg**<br>Vector (SVG) | 3.24KB |
-| <a href="preferences-system-network-nis.svg"><img src="preferences-system-network-nis.svg" width="250"></a> | **preferences-system-network-nis.svg**<br>Vector (SVG) | 1.67KB |
-| <a href="preferences-system-network-ntp.svg"><img src="preferences-system-network-ntp.svg" width="250"></a> | **preferences-system-network-ntp.svg**<br>Vector (SVG) | 2.37KB |
-| <a href="preferences-system-network-proxy.svg"><img src="preferences-system-network-proxy.svg" width="250"></a> | **preferences-system-network-proxy.svg**<br>Vector (SVG) | 3.76KB |
-| <a href="preferences-system-network-remote.svg"><img src="preferences-system-network-remote.svg" width="250"></a> | **preferences-system-network-remote.svg**<br>Vector (SVG) | 1.82KB |
-| <a href="preferences-system-network-server-boot.svg"><img src="preferences-system-network-server-boot.svg" width="250"></a> | **preferences-system-network-server-boot.svg**<br>Vector (SVG) | 1.48KB |
-| <a href="preferences-system-network-server-dhcp.svg"><img src="preferences-system-network-server-dhcp.svg" width="250"></a> | **preferences-system-network-server-dhcp.svg**<br>Vector (SVG) | 1.44KB |
-| <a href="preferences-system-network-server-dns.svg"><img src="preferences-system-network-server-dns.svg" width="250"></a> | **preferences-system-network-server-dns.svg**<br>Vector (SVG) | 1.65KB |
-| <a href="preferences-system-network-server-ftp.svg"><img src="preferences-system-network-server-ftp.svg" width="250"></a> | **preferences-system-network-server-ftp.svg**<br>Vector (SVG) | 1.43KB |
-| <a href="preferences-system-network-server-installation.svg"><img src="preferences-system-network-server-installation.svg" width="250"></a> | **preferences-system-network-server-installation.svg**<br>Vector (SVG) | 1.46KB |
-| <a href="preferences-system-network-server-iscsi.svg"><img src="preferences-system-network-server-iscsi.svg" width="250"></a> | **preferences-system-network-server-iscsi.svg**<br>Vector (SVG) | 1.45KB |
-| <a href="preferences-system-network-server-kerberos.svg"><img src="preferences-system-network-server-kerberos.svg" width="250"></a> | **preferences-system-network-server-kerberos.svg**<br>Vector (SVG) | 1.53KB |
-| <a href="preferences-system-network-server-ldap.svg"><img src="preferences-system-network-server-ldap.svg" width="250"></a> | **preferences-system-network-server-ldap.svg**<br>Vector (SVG) | 1.55KB |
-| <a href="preferences-system-network-server-mail.svg"><img src="preferences-system-network-server-mail.svg" width="250"></a> | **preferences-system-network-server-mail.svg**<br>Vector (SVG) | 1.48KB |
-| <a href="preferences-system-network-server-nis.svg"><img src="preferences-system-network-server-nis.svg" width="250"></a> | **preferences-system-network-server-nis.svg**<br>Vector (SVG) | 1.65KB |
-| <a href="preferences-system-network-server-share-windows.svg"><img src="preferences-system-network-server-share-windows.svg" width="250"></a> | **preferences-system-network-server-share-windows.svg**<br>Vector (SVG) | 1.91KB |
-| <a href="preferences-system-network-server-share.svg"><img src="preferences-system-network-server-share.svg" width="250"></a> | **preferences-system-network-server-share.svg**<br>Vector (SVG) | 1.67KB |
-| <a href="preferences-system-network-server-slp.svg"><img src="preferences-system-network-server-slp.svg" width="250"></a> | **preferences-system-network-server-slp.svg**<br>Vector (SVG) | 1.57KB |
-| <a href="preferences-system-network-server-web.svg"><img src="preferences-system-network-server-web.svg" width="250"></a> | **preferences-system-network-server-web.svg**<br>Vector (SVG) | 11.32KB |
-| <a href="preferences-system-network-server.svg"><img src="preferences-system-network-server.svg" width="250"></a> | **preferences-system-network-server.svg**<br>Vector (SVG) | 1.24KB |
-| <a href="preferences-system-network-share-windows.svg"><img src="preferences-system-network-share-windows.svg" width="250"></a> | **preferences-system-network-share-windows.svg**<br>Vector (SVG) | 2.72KB |
-| <a href="preferences-system-network-sharing.svg"><img src="preferences-system-network-sharing.svg" width="250"></a> | **preferences-system-network-sharing.svg**<br>Vector (SVG) | 3.84KB |
-| <a href="preferences-system-network-vpn.svg"><img src="preferences-system-network-vpn.svg" width="250"></a> | **preferences-system-network-vpn.svg**<br>Vector (SVG) | 3.09KB |
-| <a href="preferences-system-network-wakeonlan.svg"><img src="preferences-system-network-wakeonlan.svg" width="250"></a> | **preferences-system-network-wakeonlan.svg**<br>Vector (SVG) | 2.55KB |
-| <a href="preferences-system-power-management.svg"><img src="preferences-system-power-management.svg" width="250"></a> | **preferences-system-power-management.svg**<br>Vector (SVG) | 2.57KB |
-| <a href="preferences-system-services.svg"><img src="preferences-system-services.svg" width="250"></a> | **preferences-system-services.svg**<br>Vector (SVG) | 2.73KB |
-| <a href="preferences-system-session-services.svg"><img src="preferences-system-session-services.svg" width="250"></a> | **preferences-system-session-services.svg**<br>Vector (SVG) | 3.79KB |
-| <a href="preferences-system-splash.svg"><img src="preferences-system-splash.svg" width="250"></a> | **preferences-system-splash.svg**<br>Vector (SVG) | 5.00KB |
-| <a href="preferences-system-startup.svg"><img src="preferences-system-startup.svg" width="250"></a> | **preferences-system-startup.svg**<br>Vector (SVG) | 5.37KB |
-| <a href="preferences-system-time.svg"><img src="preferences-system-time.svg" width="250"></a> | **preferences-system-time.svg**<br>Vector (SVG) | 1.62KB |
-| <a href="preferences-system-user-sudo.svg"><img src="preferences-system-user-sudo.svg" width="250"></a> | **preferences-system-user-sudo.svg**<br>Vector (SVG) | 1.80KB |
-| <a href="preferences-system-windows-actions.svg"><img src="preferences-system-windows-actions.svg" width="250"></a> | **preferences-system-windows-actions.svg**<br>Vector (SVG) | 3.05KB |
-| <a href="preferences-system-windows-behavior.svg"><img src="preferences-system-windows-behavior.svg" width="250"></a> | **preferences-system-windows-behavior.svg**<br>Vector (SVG) | 2.38KB |
-| <a href="preferences-system-windows-move.svg"><img src="preferences-system-windows-move.svg" width="250"></a> | **preferences-system-windows-move.svg**<br>Vector (SVG) | 3.18KB |
-| <a href="preferences-system-windows.svg"><img src="preferences-system-windows.svg" width="250"></a> | **preferences-system-windows.svg**<br>Vector (SVG) | 2.05KB |
-| <a href="preferences-tabs.svg"><img src="preferences-tabs.svg" width="250"></a> | **preferences-tabs.svg**<br>Vector (SVG) | 959.00B |
-| <a href="preferences-virtualization-container.svg"><img src="preferences-virtualization-container.svg" width="250"></a> | **preferences-virtualization-container.svg**<br>Vector (SVG) | 5.65KB |
-| <a href="preferences-virtualization-vm-install.svg"><img src="preferences-virtualization-vm-install.svg" width="250"></a> | **preferences-virtualization-vm-install.svg**<br>Vector (SVG) | 2.98KB |
-| <a href="preferences-virtualization-vm-migrate.svg"><img src="preferences-virtualization-vm-migrate.svg" width="250"></a> | **preferences-virtualization-vm-migrate.svg**<br>Vector (SVG) | 3.06KB |
-| <a href="preferences-virtualization-vm-new.svg"><img src="preferences-virtualization-vm-new.svg" width="250"></a> | **preferences-virtualization-vm-new.svg**<br>Vector (SVG) | 3.00KB |
-| <a href="preferences-virtualization-vm.svg"><img src="preferences-virtualization-vm.svg" width="250"></a> | **preferences-virtualization-vm.svg**<br>Vector (SVG) | 2.94KB |
-| <a href="preferences-web-browser-adblock.svg"><img src="preferences-web-browser-adblock.svg" width="250"></a> | **preferences-web-browser-adblock.svg**<br>Vector (SVG) | 4.88KB |
-| <a href="preferences-web-browser-cache.svg"><img src="preferences-web-browser-cache.svg" width="250"></a> | **preferences-web-browser-cache.svg**<br>Vector (SVG) | 2.38KB |
-| <a href="preferences-web-browser-cookies.svg"><img src="preferences-web-browser-cookies.svg" width="250"></a> | **preferences-web-browser-cookies.svg**<br>Vector (SVG) | 5.48KB |
-| <a href="preferences-web-browser-identification.svg"><img src="preferences-web-browser-identification.svg" width="250"></a> | **preferences-web-browser-identification.svg**<br>Vector (SVG) | 2.77KB |
-| <a href="preferences-web-browser-shortcuts.svg"><img src="preferences-web-browser-shortcuts.svg" width="250"></a> | **preferences-web-browser-shortcuts.svg**<br>Vector (SVG) | 2.53KB |
-| <a href="preferences-web-browser-ssl.svg"><img src="preferences-web-browser-ssl.svg" width="250"></a> | **preferences-web-browser-ssl.svg**<br>Vector (SVG) | 2.51KB |
-| <a href="preferences-web-browser-stylesheets.svg"><img src="preferences-web-browser-stylesheets.svg" width="250"></a> | **preferences-web-browser-stylesheets.svg**<br>Vector (SVG) | 3.08KB |
-| <a href="system-users.svg"><img src="system-users.svg" width="250"></a> | **system-users.svg**<br>Vector (SVG) | 3.43KB |
-| <a href="window-duplicate.svg"><img src="window-duplicate.svg" width="250"></a> | **window-duplicate.svg**<br>Vector (SVG) | 3.42KB |
-| <a href="yast-autoyast.svg"><img src="yast-autoyast.svg" width="250"></a> | **yast-autoyast.svg**<br>Vector (SVG) | 2.68KB |
-| <a href="yast-disk.svg"><img src="yast-disk.svg" width="250"></a> | **yast-disk.svg**<br>Vector (SVG) | 2.92KB |
-| <a href="yast-software-group.svg"><img src="yast-software-group.svg" width="250"></a> | **yast-software-group.svg**<br>Vector (SVG) | 2.07KB |
-| <a href="yast-sw_source.svg"><img src="yast-sw_source.svg" width="250"></a> | **yast-sw_source.svg**<br>Vector (SVG) | 12.30KB |
-| <a href="yast-update.svg"><img src="yast-update.svg" width="250"></a> | **yast-update.svg**<br>Vector (SVG) | 3.55KB |
+| <a href="device-notifier.svg"><img src="device-notifier.svg" width="250"></a> | **device-notifier.svg** |
+| <a href="drive-removable-media.svg"><img src="drive-removable-media.svg" width="250"></a> | **drive-removable-media.svg** |
+| <a href="plasma-search.svg"><img src="plasma-search.svg" width="250"></a> | **plasma-search.svg** |
+| <a href="podcast-amarok.svg"><img src="podcast-amarok.svg" width="250"></a> | **podcast-amarok.svg** |
+| <a href="preferences-desktop-accessibility.svg"><img src="preferences-desktop-accessibility.svg" width="250"></a> | **preferences-desktop-accessibility.svg** |
+| <a href="preferences-desktop-activities.svg"><img src="preferences-desktop-activities.svg" width="250"></a> | **preferences-desktop-activities.svg** |
+| <a href="preferences-desktop-baloo.svg"><img src="preferences-desktop-baloo.svg" width="250"></a> | **preferences-desktop-baloo.svg** |
+| <a href="preferences-desktop-color.svg"><img src="preferences-desktop-color.svg" width="250"></a> | **preferences-desktop-color.svg** |
+| <a href="preferences-desktop-cryptography.svg"><img src="preferences-desktop-cryptography.svg" width="250"></a> | **preferences-desktop-cryptography.svg** |
+| <a href="preferences-desktop-cursors.svg"><img src="preferences-desktop-cursors.svg" width="250"></a> | **preferences-desktop-cursors.svg** |
+| <a href="preferences-desktop-default-applications.svg"><img src="preferences-desktop-default-applications.svg" width="250"></a> | **preferences-desktop-default-applications.svg** |
+| <a href="preferences-desktop-display-color.svg"><img src="preferences-desktop-display-color.svg" width="250"></a> | **preferences-desktop-display-color.svg** |
+| <a href="preferences-desktop-display-randr.svg"><img src="preferences-desktop-display-randr.svg" width="250"></a> | **preferences-desktop-display-randr.svg** |
+| <a href="preferences-desktop-display.svg"><img src="preferences-desktop-display.svg" width="250"></a> | **preferences-desktop-display.svg** |
+| <a href="preferences-desktop-effects.svg"><img src="preferences-desktop-effects.svg" width="250"></a> | **preferences-desktop-effects.svg** |
+| <a href="preferences-desktop-emoticons.svg"><img src="preferences-desktop-emoticons.svg" width="250"></a> | **preferences-desktop-emoticons.svg** |
+| <a href="preferences-desktop-feedback.svg"><img src="preferences-desktop-feedback.svg" width="250"></a> | **preferences-desktop-feedback.svg** |
+| <a href="preferences-desktop-filetype-association.svg"><img src="preferences-desktop-filetype-association.svg" width="250"></a> | **preferences-desktop-filetype-association.svg** |
+| <a href="preferences-desktop-filter.svg"><img src="preferences-desktop-filter.svg" width="250"></a> | **preferences-desktop-filter.svg** |
+| <a href="preferences-desktop-font.svg"><img src="preferences-desktop-font.svg" width="250"></a> | **preferences-desktop-font.svg** |
+| <a href="preferences-desktop-gestures-screenedges.svg"><img src="preferences-desktop-gestures-screenedges.svg" width="250"></a> | **preferences-desktop-gestures-screenedges.svg** |
+| <a href="preferences-desktop-gestures-touch.svg"><img src="preferences-desktop-gestures-touch.svg" width="250"></a> | **preferences-desktop-gestures-touch.svg** |
+| <a href="preferences-desktop-icons.svg"><img src="preferences-desktop-icons.svg" width="250"></a> | **preferences-desktop-icons.svg** |
+| <a href="preferences-desktop-keyboard.svg"><img src="preferences-desktop-keyboard.svg" width="250"></a> | **preferences-desktop-keyboard.svg** |
+| <a href="preferences-desktop-launch-feedback.svg"><img src="preferences-desktop-launch-feedback.svg" width="250"></a> | **preferences-desktop-launch-feedback.svg** |
+| <a href="preferences-desktop-locale.svg"><img src="preferences-desktop-locale.svg" width="250"></a> | **preferences-desktop-locale.svg** |
+| <a href="preferences-desktop-multimedia.svg"><img src="preferences-desktop-multimedia.svg" width="250"></a> | **preferences-desktop-multimedia.svg** |
+| <a href="preferences-desktop-navigation.svg"><img src="preferences-desktop-navigation.svg" width="250"></a> | **preferences-desktop-navigation.svg** |
+| <a href="preferences-desktop-notification-bell.svg"><img src="preferences-desktop-notification-bell.svg" width="250"></a> | **preferences-desktop-notification-bell.svg** |
+| <a href="preferences-desktop-plasma-theme.svg"><img src="preferences-desktop-plasma-theme.svg" width="250"></a> | **preferences-desktop-plasma-theme.svg** |
+| <a href="preferences-desktop-plasma.svg"><img src="preferences-desktop-plasma.svg" width="250"></a> | **preferences-desktop-plasma.svg** |
+| <a href="preferences-desktop-screensaver.svg"><img src="preferences-desktop-screensaver.svg" width="250"></a> | **preferences-desktop-screensaver.svg** |
+| <a href="preferences-desktop-search.svg"><img src="preferences-desktop-search.svg" width="250"></a> | **preferences-desktop-search.svg** |
+| <a href="preferences-desktop-sound.svg"><img src="preferences-desktop-sound.svg" width="250"></a> | **preferences-desktop-sound.svg** |
+| <a href="preferences-desktop-tablet.svg"><img src="preferences-desktop-tablet.svg" width="250"></a> | **preferences-desktop-tablet.svg** |
+| <a href="preferences-desktop-text-to-speech.svg"><img src="preferences-desktop-text-to-speech.svg" width="250"></a> | **preferences-desktop-text-to-speech.svg** |
+| <a href="preferences-desktop-theme-applications.svg"><img src="preferences-desktop-theme-applications.svg" width="250"></a> | **preferences-desktop-theme-applications.svg** |
+| <a href="preferences-desktop-theme-global.svg"><img src="preferences-desktop-theme-global.svg" width="250"></a> | **preferences-desktop-theme-global.svg** |
+| <a href="preferences-desktop-theme-windowdecorations.svg"><img src="preferences-desktop-theme-windowdecorations.svg" width="250"></a> | **preferences-desktop-theme-windowdecorations.svg** |
+| <a href="preferences-desktop-thunderbolt.svg"><img src="preferences-desktop-thunderbolt.svg" width="250"></a> | **preferences-desktop-thunderbolt.svg** |
+| <a href="preferences-desktop-touchpad.svg"><img src="preferences-desktop-touchpad.svg" width="250"></a> | **preferences-desktop-touchpad.svg** |
+| <a href="preferences-desktop-touchscreen.svg"><img src="preferences-desktop-touchscreen.svg" width="250"></a> | **preferences-desktop-touchscreen.svg** |
+| <a href="preferences-desktop-user-password.svg"><img src="preferences-desktop-user-password.svg" width="250"></a> | **preferences-desktop-user-password.svg** |
+| <a href="preferences-desktop-user.svg"><img src="preferences-desktop-user.svg" width="250"></a> | **preferences-desktop-user.svg** |
+| <a href="preferences-desktop-virtual.svg"><img src="preferences-desktop-virtual.svg" width="250"></a> | **preferences-desktop-virtual.svg** |
+| <a href="preferences-desktop-wallpaper.svg"><img src="preferences-desktop-wallpaper.svg" width="250"></a> | **preferences-desktop-wallpaper.svg** |
+| <a href="preferences-desktop.svg"><img src="preferences-desktop.svg" width="250"></a> | **preferences-desktop.svg** |
+| <a href="preferences-devices-cpu.svg"><img src="preferences-devices-cpu.svg" width="250"></a> | **preferences-devices-cpu.svg** |
+| <a href="preferences-devices-drive-optical-check.svg"><img src="preferences-devices-drive-optical-check.svg" width="250"></a> | **preferences-devices-drive-optical-check.svg** |
+| <a href="preferences-devices-printer.svg"><img src="preferences-devices-printer.svg" width="250"></a> | **preferences-devices-printer.svg** |
+| <a href="preferences-devices-scanner.svg"><img src="preferences-devices-scanner.svg" width="250"></a> | **preferences-devices-scanner.svg** |
+| <a href="preferences-devices-tree.svg"><img src="preferences-devices-tree.svg" width="250"></a> | **preferences-devices-tree.svg** |
+| <a href="preferences-document.svg"><img src="preferences-document.svg" width="250"></a> | **preferences-document.svg** |
+| <a href="preferences-git.svg"><img src="preferences-git.svg" width="250"></a> | **preferences-git.svg** |
+| <a href="preferences-gtk-config.svg"><img src="preferences-gtk-config.svg" width="250"></a> | **preferences-gtk-config.svg** |
+| <a href="preferences-kde-connect.svg"><img src="preferences-kde-connect.svg" width="250"></a> | **preferences-kde-connect.svg** |
+| <a href="preferences-log.svg"><img src="preferences-log.svg" width="250"></a> | **preferences-log.svg** |
+| <a href="preferences-online-accounts.svg"><img src="preferences-online-accounts.svg" width="250"></a> | **preferences-online-accounts.svg** |
+| <a href="preferences-other.svg"><img src="preferences-other.svg" width="250"></a> | **preferences-other.svg** |
+| <a href="preferences-plugin.svg"><img src="preferences-plugin.svg" width="250"></a> | **preferences-plugin.svg** |
+| <a href="preferences-releasenotes.svg"><img src="preferences-releasenotes.svg" width="250"></a> | **preferences-releasenotes.svg** |
+| <a href="preferences-scroll.svg"><img src="preferences-scroll.svg" width="250"></a> | **preferences-scroll.svg** |
+| <a href="preferences-security-apparmor.svg"><img src="preferences-security-apparmor.svg" width="250"></a> | **preferences-security-apparmor.svg** |
+| <a href="preferences-security-firewall.svg"><img src="preferences-security-firewall.svg" width="250"></a> | **preferences-security-firewall.svg** |
+| <a href="preferences-security-kerberos.svg"><img src="preferences-security-kerberos.svg" width="250"></a> | **preferences-security-kerberos.svg** |
+| <a href="preferences-security.svg"><img src="preferences-security.svg" width="250"></a> | **preferences-security.svg** |
+| <a href="preferences-smart-status.svg"><img src="preferences-smart-status.svg" width="250"></a> | **preferences-smart-status.svg** |
+| <a href="preferences-system-backup.svg"><img src="preferences-system-backup.svg" width="250"></a> | **preferences-system-backup.svg** |
+| <a href="preferences-system-bluetooth-activated-symbolic.svg"><img src="preferences-system-bluetooth-activated-symbolic.svg" width="250"></a> | **preferences-system-bluetooth-activated-symbolic.svg** |
+| <a href="preferences-system-bluetooth-battery-symbolic.svg"><img src="preferences-system-bluetooth-battery-symbolic.svg" width="250"></a> | **preferences-system-bluetooth-battery-symbolic.svg** |
+| <a href="preferences-system-bluetooth-inactive-symbolic.svg"><img src="preferences-system-bluetooth-inactive-symbolic.svg" width="250"></a> | **preferences-system-bluetooth-inactive-symbolic.svg** |
+| <a href="preferences-system-bluetooth-symbolic.svg"><img src="preferences-system-bluetooth-symbolic.svg" width="250"></a> | **preferences-system-bluetooth-symbolic.svg** |
+| <a href="preferences-system-bluetooth.svg"><img src="preferences-system-bluetooth.svg" width="250"></a> | **preferences-system-bluetooth.svg** |
+| <a href="preferences-system-disks.svg"><img src="preferences-system-disks.svg" width="250"></a> | **preferences-system-disks.svg** |
+| <a href="preferences-system-linux.svg"><img src="preferences-system-linux.svg" width="250"></a> | **preferences-system-linux.svg** |
+| <a href="preferences-system-login.svg"><img src="preferences-system-login.svg" width="250"></a> | **preferences-system-login.svg** |
+| <a href="preferences-system-network-dsl.svg"><img src="preferences-system-network-dsl.svg" width="250"></a> | **preferences-system-network-dsl.svg** |
+| <a href="preferences-system-network-ethernet.svg"><img src="preferences-system-network-ethernet.svg" width="250"></a> | **preferences-system-network-ethernet.svg** |
+| <a href="preferences-system-network-iscsi.svg"><img src="preferences-system-network-iscsi.svg" width="250"></a> | **preferences-system-network-iscsi.svg** |
+| <a href="preferences-system-network-ldap.svg"><img src="preferences-system-network-ldap.svg" width="250"></a> | **preferences-system-network-ldap.svg** |
+| <a href="preferences-system-network-nis.svg"><img src="preferences-system-network-nis.svg" width="250"></a> | **preferences-system-network-nis.svg** |
+| <a href="preferences-system-network-ntp.svg"><img src="preferences-system-network-ntp.svg" width="250"></a> | **preferences-system-network-ntp.svg** |
+| <a href="preferences-system-network-proxy.svg"><img src="preferences-system-network-proxy.svg" width="250"></a> | **preferences-system-network-proxy.svg** |
+| <a href="preferences-system-network-remote.svg"><img src="preferences-system-network-remote.svg" width="250"></a> | **preferences-system-network-remote.svg** |
+| <a href="preferences-system-network-server-boot.svg"><img src="preferences-system-network-server-boot.svg" width="250"></a> | **preferences-system-network-server-boot.svg** |
+| <a href="preferences-system-network-server-dhcp.svg"><img src="preferences-system-network-server-dhcp.svg" width="250"></a> | **preferences-system-network-server-dhcp.svg** |
+| <a href="preferences-system-network-server-dns.svg"><img src="preferences-system-network-server-dns.svg" width="250"></a> | **preferences-system-network-server-dns.svg** |
+| <a href="preferences-system-network-server-ftp.svg"><img src="preferences-system-network-server-ftp.svg" width="250"></a> | **preferences-system-network-server-ftp.svg** |
+| <a href="preferences-system-network-server-installation.svg"><img src="preferences-system-network-server-installation.svg" width="250"></a> | **preferences-system-network-server-installation.svg** |
+| <a href="preferences-system-network-server-iscsi.svg"><img src="preferences-system-network-server-iscsi.svg" width="250"></a> | **preferences-system-network-server-iscsi.svg** |
+| <a href="preferences-system-network-server-kerberos.svg"><img src="preferences-system-network-server-kerberos.svg" width="250"></a> | **preferences-system-network-server-kerberos.svg** |
+| <a href="preferences-system-network-server-ldap.svg"><img src="preferences-system-network-server-ldap.svg" width="250"></a> | **preferences-system-network-server-ldap.svg** |
+| <a href="preferences-system-network-server-mail.svg"><img src="preferences-system-network-server-mail.svg" width="250"></a> | **preferences-system-network-server-mail.svg** |
+| <a href="preferences-system-network-server-nis.svg"><img src="preferences-system-network-server-nis.svg" width="250"></a> | **preferences-system-network-server-nis.svg** |
+| <a href="preferences-system-network-server-share-windows.svg"><img src="preferences-system-network-server-share-windows.svg" width="250"></a> | **preferences-system-network-server-share-windows.svg** |
+| <a href="preferences-system-network-server-share.svg"><img src="preferences-system-network-server-share.svg" width="250"></a> | **preferences-system-network-server-share.svg** |
+| <a href="preferences-system-network-server-slp.svg"><img src="preferences-system-network-server-slp.svg" width="250"></a> | **preferences-system-network-server-slp.svg** |
+| <a href="preferences-system-network-server-web.svg"><img src="preferences-system-network-server-web.svg" width="250"></a> | **preferences-system-network-server-web.svg** |
+| <a href="preferences-system-network-server.svg"><img src="preferences-system-network-server.svg" width="250"></a> | **preferences-system-network-server.svg** |
+| <a href="preferences-system-network-share-windows.svg"><img src="preferences-system-network-share-windows.svg" width="250"></a> | **preferences-system-network-share-windows.svg** |
+| <a href="preferences-system-network-sharing.svg"><img src="preferences-system-network-sharing.svg" width="250"></a> | **preferences-system-network-sharing.svg** |
+| <a href="preferences-system-network-vpn.svg"><img src="preferences-system-network-vpn.svg" width="250"></a> | **preferences-system-network-vpn.svg** |
+| <a href="preferences-system-network-wakeonlan.svg"><img src="preferences-system-network-wakeonlan.svg" width="250"></a> | **preferences-system-network-wakeonlan.svg** |
+| <a href="preferences-system-power-management.svg"><img src="preferences-system-power-management.svg" width="250"></a> | **preferences-system-power-management.svg** |
+| <a href="preferences-system-services.svg"><img src="preferences-system-services.svg" width="250"></a> | **preferences-system-services.svg** |
+| <a href="preferences-system-session-services.svg"><img src="preferences-system-session-services.svg" width="250"></a> | **preferences-system-session-services.svg** |
+| <a href="preferences-system-splash.svg"><img src="preferences-system-splash.svg" width="250"></a> | **preferences-system-splash.svg** |
+| <a href="preferences-system-startup.svg"><img src="preferences-system-startup.svg" width="250"></a> | **preferences-system-startup.svg** |
+| <a href="preferences-system-time.svg"><img src="preferences-system-time.svg" width="250"></a> | **preferences-system-time.svg** |
+| <a href="preferences-system-user-sudo.svg"><img src="preferences-system-user-sudo.svg" width="250"></a> | **preferences-system-user-sudo.svg** |
+| <a href="preferences-system-windows-actions.svg"><img src="preferences-system-windows-actions.svg" width="250"></a> | **preferences-system-windows-actions.svg** |
+| <a href="preferences-system-windows-behavior.svg"><img src="preferences-system-windows-behavior.svg" width="250"></a> | **preferences-system-windows-behavior.svg** |
+| <a href="preferences-system-windows-move.svg"><img src="preferences-system-windows-move.svg" width="250"></a> | **preferences-system-windows-move.svg** |
+| <a href="preferences-system-windows.svg"><img src="preferences-system-windows.svg" width="250"></a> | **preferences-system-windows.svg** |
+| <a href="preferences-tabs.svg"><img src="preferences-tabs.svg" width="250"></a> | **preferences-tabs.svg** |
+| <a href="preferences-virtualization-container.svg"><img src="preferences-virtualization-container.svg" width="250"></a> | **preferences-virtualization-container.svg** |
+| <a href="preferences-virtualization-vm-install.svg"><img src="preferences-virtualization-vm-install.svg" width="250"></a> | **preferences-virtualization-vm-install.svg** |
+| <a href="preferences-virtualization-vm-migrate.svg"><img src="preferences-virtualization-vm-migrate.svg" width="250"></a> | **preferences-virtualization-vm-migrate.svg** |
+| <a href="preferences-virtualization-vm-new.svg"><img src="preferences-virtualization-vm-new.svg" width="250"></a> | **preferences-virtualization-vm-new.svg** |
+| <a href="preferences-virtualization-vm.svg"><img src="preferences-virtualization-vm.svg" width="250"></a> | **preferences-virtualization-vm.svg** |
+| <a href="preferences-web-browser-adblock.svg"><img src="preferences-web-browser-adblock.svg" width="250"></a> | **preferences-web-browser-adblock.svg** |
+| <a href="preferences-web-browser-cache.svg"><img src="preferences-web-browser-cache.svg" width="250"></a> | **preferences-web-browser-cache.svg** |
+| <a href="preferences-web-browser-cookies.svg"><img src="preferences-web-browser-cookies.svg" width="250"></a> | **preferences-web-browser-cookies.svg** |
+| <a href="preferences-web-browser-identification.svg"><img src="preferences-web-browser-identification.svg" width="250"></a> | **preferences-web-browser-identification.svg** |
+| <a href="preferences-web-browser-shortcuts.svg"><img src="preferences-web-browser-shortcuts.svg" width="250"></a> | **preferences-web-browser-shortcuts.svg** |
+| <a href="preferences-web-browser-ssl.svg"><img src="preferences-web-browser-ssl.svg" width="250"></a> | **preferences-web-browser-ssl.svg** |
+| <a href="preferences-web-browser-stylesheets.svg"><img src="preferences-web-browser-stylesheets.svg" width="250"></a> | **preferences-web-browser-stylesheets.svg** |
+| <a href="system-users.svg"><img src="system-users.svg" width="250"></a> | **system-users.svg** |
+| <a href="window-duplicate.svg"><img src="window-duplicate.svg" width="250"></a> | **window-duplicate.svg** |
+| <a href="yast-autoyast.svg"><img src="yast-autoyast.svg" width="250"></a> | **yast-autoyast.svg** |
+| <a href="yast-disk.svg"><img src="yast-disk.svg" width="250"></a> | **yast-disk.svg** |
+| <a href="yast-software-group.svg"><img src="yast-software-group.svg" width="250"></a> | **yast-software-group.svg** |
+| <a href="yast-sw_source.svg"><img src="yast-sw_source.svg" width="250"></a> | **yast-sw_source.svg** |
+| <a href="yast-update.svg"><img src="yast-update.svg" width="250"></a> | **yast-update.svg** |

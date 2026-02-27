@@ -1,186 +1,186 @@
-# 🖼️ solid 素材庫
+# 🖼️ solid
 
 [⬅️ 返回主目錄](../../../../../README.md)
 
-| 預覽 (點擊放大) | 檔案資訊 |
+| 預覽 | 資訊 |
 | :--- | :--- |
-| <a href="ad-solid.svg"><img src="ad-solid.svg" width="250"></a> | **ad-solid.svg**<br>Vector (SVG) | 357.00B |
-| <a href="analytics-solid.svg"><img src="analytics-solid.svg" width="250"></a> | **analytics-solid.svg**<br>Vector (SVG) | 1.04KB |
-| <a href="angle-down-solid.svg"><img src="angle-down-solid.svg" width="250"></a> | **angle-down-solid.svg**<br>Vector (SVG) | 443.00B |
-| <a href="angle-left-solid.svg"><img src="angle-left-solid.svg" width="250"></a> | **angle-left-solid.svg**<br>Vector (SVG) | 450.00B |
-| <a href="angle-right-solid.svg"><img src="angle-right-solid.svg" width="250"></a> | **angle-right-solid.svg**<br>Vector (SVG) | 445.00B |
-| <a href="angle-up-solid.svg"><img src="angle-up-solid.svg" width="250"></a> | **angle-up-solid.svg**<br>Vector (SVG) | 449.00B |
-| <a href="arrow-alt-circle-down-solid.svg"><img src="arrow-alt-circle-down-solid.svg" width="250"></a> | **arrow-alt-circle-down-solid.svg**<br>Vector (SVG) | 349.00B |
-| <a href="arrow-alt-circle-left-solid.svg"><img src="arrow-alt-circle-left-solid.svg" width="250"></a> | **arrow-alt-circle-left-solid.svg**<br>Vector (SVG) | 349.00B |
-| <a href="arrow-alt-circle-right-solid.svg"><img src="arrow-alt-circle-right-solid.svg" width="250"></a> | **arrow-alt-circle-right-solid.svg**<br>Vector (SVG) | 339.00B |
-| <a href="arrow-alt-circle-up-solid.svg"><img src="arrow-alt-circle-up-solid.svg" width="250"></a> | **arrow-alt-circle-up-solid.svg**<br>Vector (SVG) | 338.00B |
-| <a href="arrow-circle-down-solid.svg"><img src="arrow-circle-down-solid.svg" width="250"></a> | **arrow-circle-down-solid.svg**<br>Vector (SVG) | 410.00B |
-| <a href="arrow-circle-left-solid.svg"><img src="arrow-circle-left-solid.svg" width="250"></a> | **arrow-circle-left-solid.svg**<br>Vector (SVG) | 411.00B |
-| <a href="arrow-circle-right-solid.svg"><img src="arrow-circle-right-solid.svg" width="250"></a> | **arrow-circle-right-solid.svg**<br>Vector (SVG) | 413.00B |
-| <a href="arrow-circle-up-solid.svg"><img src="arrow-circle-up-solid.svg" width="250"></a> | **arrow-circle-up-solid.svg**<br>Vector (SVG) | 411.00B |
-| <a href="arrow-down-solid.svg"><img src="arrow-down-solid.svg" width="250"></a> | **arrow-down-solid.svg**<br>Vector (SVG) | 589.00B |
-| <a href="arrow-left-solid.svg"><img src="arrow-left-solid.svg" width="250"></a> | **arrow-left-solid.svg**<br>Vector (SVG) | 548.00B |
-| <a href="arrow-right-solid.svg"><img src="arrow-right-solid.svg" width="250"></a> | **arrow-right-solid.svg**<br>Vector (SVG) | 590.00B |
-| <a href="arrow-up-solid.svg"><img src="arrow-up-solid.svg" width="250"></a> | **arrow-up-solid.svg**<br>Vector (SVG) | 546.00B |
-| <a href="at-solid.svg"><img src="at-solid.svg" width="250"></a> | **at-solid.svg**<br>Vector (SVG) | 449.00B |
-| <a href="badge-check-solid.svg"><img src="badge-check-solid.svg" width="250"></a> | **badge-check-solid.svg**<br>Vector (SVG) | 367.00B |
-| <a href="bank-solid.svg"><img src="bank-solid.svg" width="250"></a> | **bank-solid.svg**<br>Vector (SVG) | 421.00B |
-| <a href="bars-solid.svg"><img src="bars-solid.svg" width="250"></a> | **bars-solid.svg**<br>Vector (SVG) | 374.00B |
-| <a href="bell-exclaimation-solid.svg"><img src="bell-exclaimation-solid.svg" width="250"></a> | **bell-exclaimation-solid.svg**<br>Vector (SVG) | 368.00B |
-| <a href="bell-mute-solid.svg"><img src="bell-mute-solid.svg" width="250"></a> | **bell-mute-solid.svg**<br>Vector (SVG) | 1.14KB |
-| <a href="bell-solid.svg"><img src="bell-solid.svg" width="250"></a> | **bell-solid.svg**<br>Vector (SVG) | 412.00B |
-| <a href="bold-solid.svg"><img src="bold-solid.svg" width="250"></a> | **bold-solid.svg**<br>Vector (SVG) | 322.00B |
-| <a href="bolt-solid.svg"><img src="bolt-solid.svg" width="250"></a> | **bolt-solid.svg**<br>Vector (SVG) | 481.00B |
-| <a href="book-heart-solid.svg"><img src="book-heart-solid.svg" width="250"></a> | **book-heart-solid.svg**<br>Vector (SVG) | 325.00B |
-| <a href="bookmark-solid.svg"><img src="bookmark-solid.svg" width="250"></a> | **bookmark-solid.svg**<br>Vector (SVG) | 338.00B |
-| <a href="box-usd-solid.svg"><img src="box-usd-solid.svg" width="250"></a> | **box-usd-solid.svg**<br>Vector (SVG) | 380.00B |
-| <a href="brightness-high-solid.svg"><img src="brightness-high-solid.svg" width="250"></a> | **brightness-high-solid.svg**<br>Vector (SVG) | 920.00B |
-| <a href="brightness-low-solid.svg"><img src="brightness-low-solid.svg" width="250"></a> | **brightness-low-solid.svg**<br>Vector (SVG) | 955.00B |
-| <a href="bullet-list-solid.svg"><img src="bullet-list-solid.svg" width="250"></a> | **bullet-list-solid.svg**<br>Vector (SVG) | 581.00B |
-| <a href="bullhorn-solid.svg"><img src="bullhorn-solid.svg" width="250"></a> | **bullhorn-solid.svg**<br>Vector (SVG) | 424.00B |
-| <a href="calender-solid.svg"><img src="calender-solid.svg" width="250"></a> | **calender-solid.svg**<br>Vector (SVG) | 478.00B |
-| <a href="cc-solid.svg"><img src="cc-solid.svg" width="250"></a> | **cc-solid.svg**<br>Vector (SVG) | 272.00B |
-| <a href="chart-line-solid.svg"><img src="chart-line-solid.svg" width="250"></a> | **chart-line-solid.svg**<br>Vector (SVG) | 519.00B |
-| <a href="chart-network-solid.svg"><img src="chart-network-solid.svg" width="250"></a> | **chart-network-solid.svg**<br>Vector (SVG) | 368.00B |
-| <a href="check-box-solid.svg"><img src="check-box-solid.svg" width="250"></a> | **check-box-solid.svg**<br>Vector (SVG) | 303.00B |
-| <a href="check-circle-solid.svg"><img src="check-circle-solid.svg" width="250"></a> | **check-circle-solid.svg**<br>Vector (SVG) | 387.00B |
-| <a href="check-list-solid.svg"><img src="check-list-solid.svg" width="250"></a> | **check-list-solid.svg**<br>Vector (SVG) | 918.00B |
-| <a href="check-solid.svg"><img src="check-solid.svg" width="250"></a> | **check-solid.svg**<br>Vector (SVG) | 585.00B |
-| <a href="chevron-down-solid.svg"><img src="chevron-down-solid.svg" width="250"></a> | **chevron-down-solid.svg**<br>Vector (SVG) | 588.00B |
-| <a href="chevron-up-solid.svg"><img src="chevron-up-solid.svg" width="250"></a> | **chevron-up-solid.svg**<br>Vector (SVG) | 601.00B |
-| <a href="circle-notch-solid.svg"><img src="circle-notch-solid.svg" width="250"></a> | **circle-notch-solid.svg**<br>Vector (SVG) | 626.00B |
-| <a href="clipboard-solid.svg"><img src="clipboard-solid.svg" width="250"></a> | **clipboard-solid.svg**<br>Vector (SVG) | 334.00B |
-| <a href="clock-solid.svg"><img src="clock-solid.svg" width="250"></a> | **clock-solid.svg**<br>Vector (SVG) | 313.00B |
-| <a href="cloud-download-solid.svg"><img src="cloud-download-solid.svg" width="250"></a> | **cloud-download-solid.svg**<br>Vector (SVG) | 321.00B |
-| <a href="cloud-upload-solid.svg"><img src="cloud-upload-solid.svg" width="250"></a> | **cloud-upload-solid.svg**<br>Vector (SVG) | 309.00B |
-| <a href="code-solid.svg"><img src="code-solid.svg" width="250"></a> | **code-solid.svg**<br>Vector (SVG) | 696.00B |
-| <a href="cog-solid.svg"><img src="cog-solid.svg" width="250"></a> | **cog-solid.svg**<br>Vector (SVG) | 343.00B |
-| <a href="comment-dots-solid.svg"><img src="comment-dots-solid.svg" width="250"></a> | **comment-dots-solid.svg**<br>Vector (SVG) | 370.00B |
-| <a href="comment-quote-solid.svg"><img src="comment-quote-solid.svg" width="250"></a> | **comment-quote-solid.svg**<br>Vector (SVG) | 337.00B |
-| <a href="comment-solid.svg"><img src="comment-solid.svg" width="250"></a> | **comment-solid.svg**<br>Vector (SVG) | 381.00B |
-| <a href="comments-solid.svg"><img src="comments-solid.svg" width="250"></a> | **comments-solid.svg**<br>Vector (SVG) | 499.00B |
-| <a href="copy-solid.svg"><img src="copy-solid.svg" width="250"></a> | **copy-solid.svg**<br>Vector (SVG) | 367.00B |
-| <a href="credit-card-solid.svg"><img src="credit-card-solid.svg" width="250"></a> | **credit-card-solid.svg**<br>Vector (SVG) | 248.00B |
-| <a href="crown-solid.svg"><img src="crown-solid.svg" width="250"></a> | **crown-solid.svg**<br>Vector (SVG) | 505.00B |
-| <a href="divider-solid.svg"><img src="divider-solid.svg" width="250"></a> | **divider-solid.svg**<br>Vector (SVG) | 393.00B |
-| <a href="download-alt-solid.svg"><img src="download-alt-solid.svg" width="250"></a> | **download-alt-solid.svg**<br>Vector (SVG) | 471.00B |
-| <a href="download-solid.svg"><img src="download-solid.svg" width="250"></a> | **download-solid.svg**<br>Vector (SVG) | 458.00B |
-| <a href="edit-solid.svg"><img src="edit-solid.svg" width="250"></a> | **edit-solid.svg**<br>Vector (SVG) | 593.00B |
-| <a href="ellipses-horizontal-circle-solid.svg"><img src="ellipses-horizontal-circle-solid.svg" width="250"></a> | **ellipses-horizontal-circle-solid.svg**<br>Vector (SVG) | 392.00B |
-| <a href="ellipses-horizontal-solid.svg"><img src="ellipses-horizontal-solid.svg" width="250"></a> | **ellipses-horizontal-solid.svg**<br>Vector (SVG) | 535.00B |
-| <a href="ellipses-vertical-circle-solid.svg"><img src="ellipses-vertical-circle-solid.svg" width="250"></a> | **ellipses-vertical-circle-solid.svg**<br>Vector (SVG) | 387.00B |
-| <a href="ellipses-vertical-solid.svg"><img src="ellipses-vertical-solid.svg" width="250"></a> | **ellipses-vertical-solid.svg**<br>Vector (SVG) | 533.00B |
-| <a href="envelope-solid.svg"><img src="envelope-solid.svg" width="250"></a> | **envelope-solid.svg**<br>Vector (SVG) | 572.00B |
-| <a href="exclaimation-solid.svg"><img src="exclaimation-solid.svg" width="250"></a> | **exclaimation-solid.svg**<br>Vector (SVG) | 325.00B |
-| <a href="exclamation-triangle-solid.svg"><img src="exclamation-triangle-solid.svg" width="250"></a> | **exclamation-triangle-solid.svg**<br>Vector (SVG) | 322.00B |
-| <a href="expand-solid.svg"><img src="expand-solid.svg" width="250"></a> | **expand-solid.svg**<br>Vector (SVG) | 372.00B |
-| <a href="external-link-solid.svg"><img src="external-link-solid.svg" width="250"></a> | **external-link-solid.svg**<br>Vector (SVG) | 574.00B |
-| <a href="eye-cross-solid.svg"><img src="eye-cross-solid.svg" width="250"></a> | **eye-cross-solid.svg**<br>Vector (SVG) | 1.23KB |
-| <a href="eye-solid.svg"><img src="eye-solid.svg" width="250"></a> | **eye-solid.svg**<br>Vector (SVG) | 511.00B |
-| <a href="face-thinking-solid.svg"><img src="face-thinking-solid.svg" width="250"></a> | **face-thinking-solid.svg**<br>Vector (SVG) | 580.00B |
-| <a href="file-import-solid.svg"><img src="file-import-solid.svg" width="250"></a> | **file-import-solid.svg**<br>Vector (SVG) | 504.00B |
-| <a href="filter-alt-circle-solid.svg"><img src="filter-alt-circle-solid.svg" width="250"></a> | **filter-alt-circle-solid.svg**<br>Vector (SVG) | 312.00B |
-| <a href="filter-solid.svg"><img src="filter-solid.svg" width="250"></a> | **filter-solid.svg**<br>Vector (SVG) | 380.00B |
-| <a href="fire-solid.svg"><img src="fire-solid.svg" width="250"></a> | **fire-solid.svg**<br>Vector (SVG) | 376.00B |
-| <a href="flag-checkered-solid.svg"><img src="flag-checkered-solid.svg" width="250"></a> | **flag-checkered-solid.svg**<br>Vector (SVG) | 388.00B |
-| <a href="flag-solid.svg"><img src="flag-solid.svg" width="250"></a> | **flag-solid.svg**<br>Vector (SVG) | 292.00B |
-| <a href="folder-open-solid.svg"><img src="folder-open-solid.svg" width="250"></a> | **folder-open-solid.svg**<br>Vector (SVG) | 396.00B |
-| <a href="folder-solid.svg"><img src="folder-solid.svg" width="250"></a> | **folder-solid.svg**<br>Vector (SVG) | 230.00B |
-| <a href="globe-americas-solid.svg"><img src="globe-americas-solid.svg" width="250"></a> | **globe-americas-solid.svg**<br>Vector (SVG) | 433.00B |
-| <a href="globe-solid.svg"><img src="globe-solid.svg" width="250"></a> | **globe-solid.svg**<br>Vector (SVG) | 1.11KB |
-| <a href="grid-solid.svg"><img src="grid-solid.svg" width="250"></a> | **grid-solid.svg**<br>Vector (SVG) | 476.00B |
-| <a href="heading-1-solid.svg"><img src="heading-1-solid.svg" width="250"></a> | **heading-1-solid.svg**<br>Vector (SVG) | 305.00B |
-| <a href="heading-2-solid.svg"><img src="heading-2-solid.svg" width="250"></a> | **heading-2-solid.svg**<br>Vector (SVG) | 511.00B |
-| <a href="heading-3-solid.svg"><img src="heading-3-solid.svg" width="250"></a> | **heading-3-solid.svg**<br>Vector (SVG) | 512.00B |
-| <a href="headphones-solid.svg"><img src="headphones-solid.svg" width="250"></a> | **headphones-solid.svg**<br>Vector (SVG) | 536.00B |
-| <a href="heart-solid.svg"><img src="heart-solid.svg" width="250"></a> | **heart-solid.svg**<br>Vector (SVG) | 477.00B |
-| <a href="highlight-solid.svg"><img src="highlight-solid.svg" width="250"></a> | **highlight-solid.svg**<br>Vector (SVG) | 298.00B |
-| <a href="hockey-mask-solid.svg"><img src="hockey-mask-solid.svg" width="250"></a> | **hockey-mask-solid.svg**<br>Vector (SVG) | 431.00B |
-| <a href="home-solid.svg"><img src="home-solid.svg" width="250"></a> | **home-solid.svg**<br>Vector (SVG) | 417.00B |
-| <a href="image-solid.svg"><img src="image-solid.svg" width="250"></a> | **image-solid.svg**<br>Vector (SVG) | 653.00B |
-| <a href="info-circle-solid.svg"><img src="info-circle-solid.svg" width="250"></a> | **info-circle-solid.svg**<br>Vector (SVG) | 381.00B |
-| <a href="italics-solid.svg"><img src="italics-solid.svg" width="250"></a> | **italics-solid.svg**<br>Vector (SVG) | 333.00B |
-| <a href="lightbulb-solid.svg"><img src="lightbulb-solid.svg" width="250"></a> | **lightbulb-solid.svg**<br>Vector (SVG) | 965.00B |
-| <a href="link-solid.svg"><img src="link-solid.svg" width="250"></a> | **link-solid.svg**<br>Vector (SVG) | 825.00B |
-| <a href="location-pin-solid.svg"><img src="location-pin-solid.svg" width="250"></a> | **location-pin-solid.svg**<br>Vector (SVG) | 313.00B |
-| <a href="lock-alt-solid.svg"><img src="lock-alt-solid.svg" width="250"></a> | **lock-alt-solid.svg**<br>Vector (SVG) | 256.00B |
-| <a href="lock-open-solid.svg"><img src="lock-open-solid.svg" width="250"></a> | **lock-open-solid.svg**<br>Vector (SVG) | 333.00B |
-| <a href="lock-solid.svg"><img src="lock-solid.svg" width="250"></a> | **lock-solid.svg**<br>Vector (SVG) | 235.00B |
-| <a href="login-solid.svg"><img src="login-solid.svg" width="250"></a> | **login-solid.svg**<br>Vector (SVG) | 416.00B |
-| <a href="logout-solid.svg"><img src="logout-solid.svg" width="250"></a> | **logout-solid.svg**<br>Vector (SVG) | 433.00B |
-| <a href="message-dots-solid.svg"><img src="message-dots-solid.svg" width="250"></a> | **message-dots-solid.svg**<br>Vector (SVG) | 300.00B |
-| <a href="message-solid.svg"><img src="message-solid.svg" width="250"></a> | **message-solid.svg**<br>Vector (SVG) | 257.00B |
-| <a href="minus-solid.svg"><img src="minus-solid.svg" width="250"></a> | **minus-solid.svg**<br>Vector (SVG) | 206.00B |
-| <a href="moon-solid.svg"><img src="moon-solid.svg" width="250"></a> | **moon-solid.svg**<br>Vector (SVG) | 459.00B |
-| <a href="music-solid.svg"><img src="music-solid.svg" width="250"></a> | **music-solid.svg**<br>Vector (SVG) | 415.00B |
-| <a href="newspaper-solid.svg"><img src="newspaper-solid.svg" width="250"></a> | **newspaper-solid.svg**<br>Vector (SVG) | 305.00B |
-| <a href="numbered-list-solid.svg"><img src="numbered-list-solid.svg" width="250"></a> | **numbered-list-solid.svg**<br>Vector (SVG) | 775.00B |
-| <a href="octagon-check-solid.svg"><img src="octagon-check-solid.svg" width="250"></a> | **octagon-check-solid.svg**<br>Vector (SVG) | 379.00B |
-| <a href="octagon-times-solid.svg"><img src="octagon-times-solid.svg" width="250"></a> | **octagon-times-solid.svg**<br>Vector (SVG) | 407.00B |
-| <a href="page-break-solid.svg"><img src="page-break-solid.svg" width="250"></a> | **page-break-solid.svg**<br>Vector (SVG) | 440.00B |
-| <a href="paperclip-solid.svg"><img src="paperclip-solid.svg" width="250"></a> | **paperclip-solid.svg**<br>Vector (SVG) | 1.10KB |
-| <a href="paragraph-solid.svg"><img src="paragraph-solid.svg" width="250"></a> | **paragraph-solid.svg**<br>Vector (SVG) | 279.00B |
-| <a href="pause-solid.svg"><img src="pause-solid.svg" width="250"></a> | **pause-solid.svg**<br>Vector (SVG) | 284.00B |
-| <a href="pen-nib-solid.svg"><img src="pen-nib-solid.svg" width="250"></a> | **pen-nib-solid.svg**<br>Vector (SVG) | 722.00B |
-| <a href="pen-solid.svg"><img src="pen-solid.svg" width="250"></a> | **pen-solid.svg**<br>Vector (SVG) | 632.00B |
-| <a href="pencil-ruler-solid.svg"><img src="pencil-ruler-solid.svg" width="250"></a> | **pencil-ruler-solid.svg**<br>Vector (SVG) | 1.08KB |
-| <a href="pencil-solid.svg"><img src="pencil-solid.svg" width="250"></a> | **pencil-solid.svg**<br>Vector (SVG) | 697.00B |
-| <a href="people-carry-solid.svg"><img src="people-carry-solid.svg" width="250"></a> | **people-carry-solid.svg**<br>Vector (SVG) | 821.00B |
-| <a href="phone-ringing-high-solid.svg"><img src="phone-ringing-high-solid.svg" width="250"></a> | **phone-ringing-high-solid.svg**<br>Vector (SVG) | 821.00B |
-| <a href="phone-ringing-low-solid.svg"><img src="phone-ringing-low-solid.svg" width="250"></a> | **phone-ringing-low-solid.svg**<br>Vector (SVG) | 612.00B |
-| <a href="plane-departure-solid.svg"><img src="plane-departure-solid.svg" width="250"></a> | **plane-departure-solid.svg**<br>Vector (SVG) | 483.00B |
-| <a href="plane-solid.svg"><img src="plane-solid.svg" width="250"></a> | **plane-solid.svg**<br>Vector (SVG) | 448.00B |
-| <a href="play-solid.svg"><img src="play-solid.svg" width="250"></a> | **play-solid.svg**<br>Vector (SVG) | 393.00B |
-| <a href="playlist-solid.svg"><img src="playlist-solid.svg" width="250"></a> | **playlist-solid.svg**<br>Vector (SVG) | 419.00B |
-| <a href="plus-solid.svg"><img src="plus-solid.svg" width="250"></a> | **plus-solid.svg**<br>Vector (SVG) | 295.00B |
-| <a href="print-solid.svg"><img src="print-solid.svg" width="250"></a> | **print-solid.svg**<br>Vector (SVG) | 273.00B |
-| <a href="pro-solid.svg"><img src="pro-solid.svg" width="250"></a> | **pro-solid.svg**<br>Vector (SVG) | 360.00B |
-| <a href="question-solid.svg"><img src="question-solid.svg" width="250"></a> | **question-solid.svg**<br>Vector (SVG) | 473.00B |
-| <a href="quote-left-solid.svg"><img src="quote-left-solid.svg" width="250"></a> | **quote-left-solid.svg**<br>Vector (SVG) | 448.00B |
-| <a href="quote-right-solid.svg"><img src="quote-right-solid.svg" width="250"></a> | **quote-right-solid.svg**<br>Vector (SVG) | 471.00B |
-| <a href="receipt-solid.svg"><img src="receipt-solid.svg" width="250"></a> | **receipt-solid.svg**<br>Vector (SVG) | 311.00B |
-| <a href="refresh-solid.svg"><img src="refresh-solid.svg" width="250"></a> | **refresh-solid.svg**<br>Vector (SVG) | 634.00B |
-| <a href="retro-camera-solid.svg"><img src="retro-camera-solid.svg" width="250"></a> | **retro-camera-solid.svg**<br>Vector (SVG) | 402.00B |
-| <a href="robot-solid.svg"><img src="robot-solid.svg" width="250"></a> | **robot-solid.svg**<br>Vector (SVG) | 412.00B |
-| <a href="save-solid.svg"><img src="save-solid.svg" width="250"></a> | **save-solid.svg**<br>Vector (SVG) | 245.00B |
-| <a href="search-solid.svg"><img src="search-solid.svg" width="250"></a> | **search-solid.svg**<br>Vector (SVG) | 542.00B |
-| <a href="seedlings-solid.svg"><img src="seedlings-solid.svg" width="250"></a> | **seedlings-solid.svg**<br>Vector (SVG) | 434.00B |
-| <a href="share-solid.svg"><img src="share-solid.svg" width="250"></a> | **share-solid.svg**<br>Vector (SVG) | 529.00B |
-| <a href="shop-solid.svg"><img src="shop-solid.svg" width="250"></a> | **shop-solid.svg**<br>Vector (SVG) | 364.00B |
-| <a href="shopping-cart-solid.svg"><img src="shopping-cart-solid.svg" width="250"></a> | **shopping-cart-solid.svg**<br>Vector (SVG) | 439.00B |
-| <a href="shuffle-solid.svg"><img src="shuffle-solid.svg" width="250"></a> | **shuffle-solid.svg**<br>Vector (SVG) | 718.00B |
-| <a href="sort-solid.svg"><img src="sort-solid.svg" width="250"></a> | **sort-solid.svg**<br>Vector (SVG) | 537.00B |
-| <a href="sound-mute-solid.svg"><img src="sound-mute-solid.svg" width="250"></a> | **sound-mute-solid.svg**<br>Vector (SVG) | 512.00B |
-| <a href="sound-on-solid.svg"><img src="sound-on-solid.svg" width="250"></a> | **sound-on-solid.svg**<br>Vector (SVG) | 602.00B |
-| <a href="spinner-solid.svg"><img src="spinner-solid.svg" width="250"></a> | **spinner-solid.svg**<br>Vector (SVG) | 731.00B |
-| <a href="spinner-third-solid.svg"><img src="spinner-third-solid.svg" width="250"></a> | **spinner-third-solid.svg**<br>Vector (SVG) | 318.00B |
-| <a href="star-crescent-solid.svg"><img src="star-crescent-solid.svg" width="250"></a> | **star-crescent-solid.svg**<br>Vector (SVG) | 657.00B |
-| <a href="star-solid.svg"><img src="star-solid.svg" width="250"></a> | **star-solid.svg**<br>Vector (SVG) | 434.00B |
-| <a href="strike-through-solid.svg"><img src="strike-through-solid.svg" width="250"></a> | **strike-through-solid.svg**<br>Vector (SVG) | 471.00B |
-| <a href="sun-solid.svg"><img src="sun-solid.svg" width="250"></a> | **sun-solid.svg**<br>Vector (SVG) | 569.00B |
-| <a href="table-solid.svg"><img src="table-solid.svg" width="250"></a> | **table-solid.svg**<br>Vector (SVG) | 270.00B |
-| <a href="tag-solid.svg"><img src="tag-solid.svg" width="250"></a> | **tag-solid.svg**<br>Vector (SVG) | 341.00B |
-| <a href="themes-solid.svg"><img src="themes-solid.svg" width="250"></a> | **themes-solid.svg**<br>Vector (SVG) | 398.00B |
-| <a href="thumbsdown-solid.svg"><img src="thumbsdown-solid.svg" width="250"></a> | **thumbsdown-solid.svg**<br>Vector (SVG) | 400.00B |
-| <a href="thumbsup-solid.svg"><img src="thumbsup-solid.svg" width="250"></a> | **thumbsup-solid.svg**<br>Vector (SVG) | 398.00B |
-| <a href="thumbtack-solid.svg"><img src="thumbtack-solid.svg" width="250"></a> | **thumbtack-solid.svg**<br>Vector (SVG) | 312.00B |
-| <a href="times-circle-solid.svg"><img src="times-circle-solid.svg" width="250"></a> | **times-circle-solid.svg**<br>Vector (SVG) | 426.00B |
-| <a href="times-solid.svg"><img src="times-solid.svg" width="250"></a> | **times-solid.svg**<br>Vector (SVG) | 816.00B |
-| <a href="translate-solid.svg"><img src="translate-solid.svg" width="250"></a> | **translate-solid.svg**<br>Vector (SVG) | 858.00B |
-| <a href="trash-alt-solid.svg"><img src="trash-alt-solid.svg" width="250"></a> | **trash-alt-solid.svg**<br>Vector (SVG) | 270.00B |
-| <a href="trash-solid.svg"><img src="trash-solid.svg" width="250"></a> | **trash-solid.svg**<br>Vector (SVG) | 281.00B |
-| <a href="trending-solid.svg"><img src="trending-solid.svg" width="250"></a> | **trending-solid.svg**<br>Vector (SVG) | 516.00B |
-| <a href="trophy-solid.svg"><img src="trophy-solid.svg" width="250"></a> | **trophy-solid.svg**<br>Vector (SVG) | 320.00B |
-| <a href="underline-solid.svg"><img src="underline-solid.svg" width="250"></a> | **underline-solid.svg**<br>Vector (SVG) | 359.00B |
-| <a href="unlock-alt-solid.svg"><img src="unlock-alt-solid.svg" width="250"></a> | **unlock-alt-solid.svg**<br>Vector (SVG) | 361.00B |
-| <a href="unlock-solid.svg"><img src="unlock-solid.svg" width="250"></a> | **unlock-solid.svg**<br>Vector (SVG) | 321.00B |
-| <a href="upload-alt-solid.svg"><img src="upload-alt-solid.svg" width="250"></a> | **upload-alt-solid.svg**<br>Vector (SVG) | 416.00B |
-| <a href="upload-solid.svg"><img src="upload-solid.svg" width="250"></a> | **upload-solid.svg**<br>Vector (SVG) | 436.00B |
-| <a href="user-check-solid.svg"><img src="user-check-solid.svg" width="250"></a> | **user-check-solid.svg**<br>Vector (SVG) | 583.00B |
-| <a href="user-headset-solid.svg"><img src="user-headset-solid.svg" width="250"></a> | **user-headset-solid.svg**<br>Vector (SVG) | 753.00B |
-| <a href="user-solid.svg"><img src="user-solid.svg" width="250"></a> | **user-solid.svg**<br>Vector (SVG) | 434.00B |
-| <a href="users-crown-solid.svg"><img src="users-crown-solid.svg" width="250"></a> | **users-crown-solid.svg**<br>Vector (SVG) | 586.00B |
-| <a href="users-solid.svg"><img src="users-solid.svg" width="250"></a> | **users-solid.svg**<br>Vector (SVG) | 687.00B |
-| <a href="vote-yeah-solid.svg"><img src="vote-yeah-solid.svg" width="250"></a> | **vote-yeah-solid.svg**<br>Vector (SVG) | 369.00B |
-| <a href="wallet-solid.svg"><img src="wallet-solid.svg" width="250"></a> | **wallet-solid.svg**<br>Vector (SVG) | 219.00B |
-| <a href="window-close-solid.svg"><img src="window-close-solid.svg" width="250"></a> | **window-close-solid.svg**<br>Vector (SVG) | 346.00B |
+| <a href="ad-solid.svg"><img src="ad-solid.svg" width="250"></a> | **ad-solid.svg** |
+| <a href="analytics-solid.svg"><img src="analytics-solid.svg" width="250"></a> | **analytics-solid.svg** |
+| <a href="angle-down-solid.svg"><img src="angle-down-solid.svg" width="250"></a> | **angle-down-solid.svg** |
+| <a href="angle-left-solid.svg"><img src="angle-left-solid.svg" width="250"></a> | **angle-left-solid.svg** |
+| <a href="angle-right-solid.svg"><img src="angle-right-solid.svg" width="250"></a> | **angle-right-solid.svg** |
+| <a href="angle-up-solid.svg"><img src="angle-up-solid.svg" width="250"></a> | **angle-up-solid.svg** |
+| <a href="arrow-alt-circle-down-solid.svg"><img src="arrow-alt-circle-down-solid.svg" width="250"></a> | **arrow-alt-circle-down-solid.svg** |
+| <a href="arrow-alt-circle-left-solid.svg"><img src="arrow-alt-circle-left-solid.svg" width="250"></a> | **arrow-alt-circle-left-solid.svg** |
+| <a href="arrow-alt-circle-right-solid.svg"><img src="arrow-alt-circle-right-solid.svg" width="250"></a> | **arrow-alt-circle-right-solid.svg** |
+| <a href="arrow-alt-circle-up-solid.svg"><img src="arrow-alt-circle-up-solid.svg" width="250"></a> | **arrow-alt-circle-up-solid.svg** |
+| <a href="arrow-circle-down-solid.svg"><img src="arrow-circle-down-solid.svg" width="250"></a> | **arrow-circle-down-solid.svg** |
+| <a href="arrow-circle-left-solid.svg"><img src="arrow-circle-left-solid.svg" width="250"></a> | **arrow-circle-left-solid.svg** |
+| <a href="arrow-circle-right-solid.svg"><img src="arrow-circle-right-solid.svg" width="250"></a> | **arrow-circle-right-solid.svg** |
+| <a href="arrow-circle-up-solid.svg"><img src="arrow-circle-up-solid.svg" width="250"></a> | **arrow-circle-up-solid.svg** |
+| <a href="arrow-down-solid.svg"><img src="arrow-down-solid.svg" width="250"></a> | **arrow-down-solid.svg** |
+| <a href="arrow-left-solid.svg"><img src="arrow-left-solid.svg" width="250"></a> | **arrow-left-solid.svg** |
+| <a href="arrow-right-solid.svg"><img src="arrow-right-solid.svg" width="250"></a> | **arrow-right-solid.svg** |
+| <a href="arrow-up-solid.svg"><img src="arrow-up-solid.svg" width="250"></a> | **arrow-up-solid.svg** |
+| <a href="at-solid.svg"><img src="at-solid.svg" width="250"></a> | **at-solid.svg** |
+| <a href="badge-check-solid.svg"><img src="badge-check-solid.svg" width="250"></a> | **badge-check-solid.svg** |
+| <a href="bank-solid.svg"><img src="bank-solid.svg" width="250"></a> | **bank-solid.svg** |
+| <a href="bars-solid.svg"><img src="bars-solid.svg" width="250"></a> | **bars-solid.svg** |
+| <a href="bell-exclaimation-solid.svg"><img src="bell-exclaimation-solid.svg" width="250"></a> | **bell-exclaimation-solid.svg** |
+| <a href="bell-mute-solid.svg"><img src="bell-mute-solid.svg" width="250"></a> | **bell-mute-solid.svg** |
+| <a href="bell-solid.svg"><img src="bell-solid.svg" width="250"></a> | **bell-solid.svg** |
+| <a href="bold-solid.svg"><img src="bold-solid.svg" width="250"></a> | **bold-solid.svg** |
+| <a href="bolt-solid.svg"><img src="bolt-solid.svg" width="250"></a> | **bolt-solid.svg** |
+| <a href="book-heart-solid.svg"><img src="book-heart-solid.svg" width="250"></a> | **book-heart-solid.svg** |
+| <a href="bookmark-solid.svg"><img src="bookmark-solid.svg" width="250"></a> | **bookmark-solid.svg** |
+| <a href="box-usd-solid.svg"><img src="box-usd-solid.svg" width="250"></a> | **box-usd-solid.svg** |
+| <a href="brightness-high-solid.svg"><img src="brightness-high-solid.svg" width="250"></a> | **brightness-high-solid.svg** |
+| <a href="brightness-low-solid.svg"><img src="brightness-low-solid.svg" width="250"></a> | **brightness-low-solid.svg** |
+| <a href="bullet-list-solid.svg"><img src="bullet-list-solid.svg" width="250"></a> | **bullet-list-solid.svg** |
+| <a href="bullhorn-solid.svg"><img src="bullhorn-solid.svg" width="250"></a> | **bullhorn-solid.svg** |
+| <a href="calender-solid.svg"><img src="calender-solid.svg" width="250"></a> | **calender-solid.svg** |
+| <a href="cc-solid.svg"><img src="cc-solid.svg" width="250"></a> | **cc-solid.svg** |
+| <a href="chart-line-solid.svg"><img src="chart-line-solid.svg" width="250"></a> | **chart-line-solid.svg** |
+| <a href="chart-network-solid.svg"><img src="chart-network-solid.svg" width="250"></a> | **chart-network-solid.svg** |
+| <a href="check-box-solid.svg"><img src="check-box-solid.svg" width="250"></a> | **check-box-solid.svg** |
+| <a href="check-circle-solid.svg"><img src="check-circle-solid.svg" width="250"></a> | **check-circle-solid.svg** |
+| <a href="check-list-solid.svg"><img src="check-list-solid.svg" width="250"></a> | **check-list-solid.svg** |
+| <a href="check-solid.svg"><img src="check-solid.svg" width="250"></a> | **check-solid.svg** |
+| <a href="chevron-down-solid.svg"><img src="chevron-down-solid.svg" width="250"></a> | **chevron-down-solid.svg** |
+| <a href="chevron-up-solid.svg"><img src="chevron-up-solid.svg" width="250"></a> | **chevron-up-solid.svg** |
+| <a href="circle-notch-solid.svg"><img src="circle-notch-solid.svg" width="250"></a> | **circle-notch-solid.svg** |
+| <a href="clipboard-solid.svg"><img src="clipboard-solid.svg" width="250"></a> | **clipboard-solid.svg** |
+| <a href="clock-solid.svg"><img src="clock-solid.svg" width="250"></a> | **clock-solid.svg** |
+| <a href="cloud-download-solid.svg"><img src="cloud-download-solid.svg" width="250"></a> | **cloud-download-solid.svg** |
+| <a href="cloud-upload-solid.svg"><img src="cloud-upload-solid.svg" width="250"></a> | **cloud-upload-solid.svg** |
+| <a href="code-solid.svg"><img src="code-solid.svg" width="250"></a> | **code-solid.svg** |
+| <a href="cog-solid.svg"><img src="cog-solid.svg" width="250"></a> | **cog-solid.svg** |
+| <a href="comment-dots-solid.svg"><img src="comment-dots-solid.svg" width="250"></a> | **comment-dots-solid.svg** |
+| <a href="comment-quote-solid.svg"><img src="comment-quote-solid.svg" width="250"></a> | **comment-quote-solid.svg** |
+| <a href="comment-solid.svg"><img src="comment-solid.svg" width="250"></a> | **comment-solid.svg** |
+| <a href="comments-solid.svg"><img src="comments-solid.svg" width="250"></a> | **comments-solid.svg** |
+| <a href="copy-solid.svg"><img src="copy-solid.svg" width="250"></a> | **copy-solid.svg** |
+| <a href="credit-card-solid.svg"><img src="credit-card-solid.svg" width="250"></a> | **credit-card-solid.svg** |
+| <a href="crown-solid.svg"><img src="crown-solid.svg" width="250"></a> | **crown-solid.svg** |
+| <a href="divider-solid.svg"><img src="divider-solid.svg" width="250"></a> | **divider-solid.svg** |
+| <a href="download-alt-solid.svg"><img src="download-alt-solid.svg" width="250"></a> | **download-alt-solid.svg** |
+| <a href="download-solid.svg"><img src="download-solid.svg" width="250"></a> | **download-solid.svg** |
+| <a href="edit-solid.svg"><img src="edit-solid.svg" width="250"></a> | **edit-solid.svg** |
+| <a href="ellipses-horizontal-circle-solid.svg"><img src="ellipses-horizontal-circle-solid.svg" width="250"></a> | **ellipses-horizontal-circle-solid.svg** |
+| <a href="ellipses-horizontal-solid.svg"><img src="ellipses-horizontal-solid.svg" width="250"></a> | **ellipses-horizontal-solid.svg** |
+| <a href="ellipses-vertical-circle-solid.svg"><img src="ellipses-vertical-circle-solid.svg" width="250"></a> | **ellipses-vertical-circle-solid.svg** |
+| <a href="ellipses-vertical-solid.svg"><img src="ellipses-vertical-solid.svg" width="250"></a> | **ellipses-vertical-solid.svg** |
+| <a href="envelope-solid.svg"><img src="envelope-solid.svg" width="250"></a> | **envelope-solid.svg** |
+| <a href="exclaimation-solid.svg"><img src="exclaimation-solid.svg" width="250"></a> | **exclaimation-solid.svg** |
+| <a href="exclamation-triangle-solid.svg"><img src="exclamation-triangle-solid.svg" width="250"></a> | **exclamation-triangle-solid.svg** |
+| <a href="expand-solid.svg"><img src="expand-solid.svg" width="250"></a> | **expand-solid.svg** |
+| <a href="external-link-solid.svg"><img src="external-link-solid.svg" width="250"></a> | **external-link-solid.svg** |
+| <a href="eye-cross-solid.svg"><img src="eye-cross-solid.svg" width="250"></a> | **eye-cross-solid.svg** |
+| <a href="eye-solid.svg"><img src="eye-solid.svg" width="250"></a> | **eye-solid.svg** |
+| <a href="face-thinking-solid.svg"><img src="face-thinking-solid.svg" width="250"></a> | **face-thinking-solid.svg** |
+| <a href="file-import-solid.svg"><img src="file-import-solid.svg" width="250"></a> | **file-import-solid.svg** |
+| <a href="filter-alt-circle-solid.svg"><img src="filter-alt-circle-solid.svg" width="250"></a> | **filter-alt-circle-solid.svg** |
+| <a href="filter-solid.svg"><img src="filter-solid.svg" width="250"></a> | **filter-solid.svg** |
+| <a href="fire-solid.svg"><img src="fire-solid.svg" width="250"></a> | **fire-solid.svg** |
+| <a href="flag-checkered-solid.svg"><img src="flag-checkered-solid.svg" width="250"></a> | **flag-checkered-solid.svg** |
+| <a href="flag-solid.svg"><img src="flag-solid.svg" width="250"></a> | **flag-solid.svg** |
+| <a href="folder-open-solid.svg"><img src="folder-open-solid.svg" width="250"></a> | **folder-open-solid.svg** |
+| <a href="folder-solid.svg"><img src="folder-solid.svg" width="250"></a> | **folder-solid.svg** |
+| <a href="globe-americas-solid.svg"><img src="globe-americas-solid.svg" width="250"></a> | **globe-americas-solid.svg** |
+| <a href="globe-solid.svg"><img src="globe-solid.svg" width="250"></a> | **globe-solid.svg** |
+| <a href="grid-solid.svg"><img src="grid-solid.svg" width="250"></a> | **grid-solid.svg** |
+| <a href="heading-1-solid.svg"><img src="heading-1-solid.svg" width="250"></a> | **heading-1-solid.svg** |
+| <a href="heading-2-solid.svg"><img src="heading-2-solid.svg" width="250"></a> | **heading-2-solid.svg** |
+| <a href="heading-3-solid.svg"><img src="heading-3-solid.svg" width="250"></a> | **heading-3-solid.svg** |
+| <a href="headphones-solid.svg"><img src="headphones-solid.svg" width="250"></a> | **headphones-solid.svg** |
+| <a href="heart-solid.svg"><img src="heart-solid.svg" width="250"></a> | **heart-solid.svg** |
+| <a href="highlight-solid.svg"><img src="highlight-solid.svg" width="250"></a> | **highlight-solid.svg** |
+| <a href="hockey-mask-solid.svg"><img src="hockey-mask-solid.svg" width="250"></a> | **hockey-mask-solid.svg** |
+| <a href="home-solid.svg"><img src="home-solid.svg" width="250"></a> | **home-solid.svg** |
+| <a href="image-solid.svg"><img src="image-solid.svg" width="250"></a> | **image-solid.svg** |
+| <a href="info-circle-solid.svg"><img src="info-circle-solid.svg" width="250"></a> | **info-circle-solid.svg** |
+| <a href="italics-solid.svg"><img src="italics-solid.svg" width="250"></a> | **italics-solid.svg** |
+| <a href="lightbulb-solid.svg"><img src="lightbulb-solid.svg" width="250"></a> | **lightbulb-solid.svg** |
+| <a href="link-solid.svg"><img src="link-solid.svg" width="250"></a> | **link-solid.svg** |
+| <a href="location-pin-solid.svg"><img src="location-pin-solid.svg" width="250"></a> | **location-pin-solid.svg** |
+| <a href="lock-alt-solid.svg"><img src="lock-alt-solid.svg" width="250"></a> | **lock-alt-solid.svg** |
+| <a href="lock-open-solid.svg"><img src="lock-open-solid.svg" width="250"></a> | **lock-open-solid.svg** |
+| <a href="lock-solid.svg"><img src="lock-solid.svg" width="250"></a> | **lock-solid.svg** |
+| <a href="login-solid.svg"><img src="login-solid.svg" width="250"></a> | **login-solid.svg** |
+| <a href="logout-solid.svg"><img src="logout-solid.svg" width="250"></a> | **logout-solid.svg** |
+| <a href="message-dots-solid.svg"><img src="message-dots-solid.svg" width="250"></a> | **message-dots-solid.svg** |
+| <a href="message-solid.svg"><img src="message-solid.svg" width="250"></a> | **message-solid.svg** |
+| <a href="minus-solid.svg"><img src="minus-solid.svg" width="250"></a> | **minus-solid.svg** |
+| <a href="moon-solid.svg"><img src="moon-solid.svg" width="250"></a> | **moon-solid.svg** |
+| <a href="music-solid.svg"><img src="music-solid.svg" width="250"></a> | **music-solid.svg** |
+| <a href="newspaper-solid.svg"><img src="newspaper-solid.svg" width="250"></a> | **newspaper-solid.svg** |
+| <a href="numbered-list-solid.svg"><img src="numbered-list-solid.svg" width="250"></a> | **numbered-list-solid.svg** |
+| <a href="octagon-check-solid.svg"><img src="octagon-check-solid.svg" width="250"></a> | **octagon-check-solid.svg** |
+| <a href="octagon-times-solid.svg"><img src="octagon-times-solid.svg" width="250"></a> | **octagon-times-solid.svg** |
+| <a href="page-break-solid.svg"><img src="page-break-solid.svg" width="250"></a> | **page-break-solid.svg** |
+| <a href="paperclip-solid.svg"><img src="paperclip-solid.svg" width="250"></a> | **paperclip-solid.svg** |
+| <a href="paragraph-solid.svg"><img src="paragraph-solid.svg" width="250"></a> | **paragraph-solid.svg** |
+| <a href="pause-solid.svg"><img src="pause-solid.svg" width="250"></a> | **pause-solid.svg** |
+| <a href="pen-nib-solid.svg"><img src="pen-nib-solid.svg" width="250"></a> | **pen-nib-solid.svg** |
+| <a href="pen-solid.svg"><img src="pen-solid.svg" width="250"></a> | **pen-solid.svg** |
+| <a href="pencil-ruler-solid.svg"><img src="pencil-ruler-solid.svg" width="250"></a> | **pencil-ruler-solid.svg** |
+| <a href="pencil-solid.svg"><img src="pencil-solid.svg" width="250"></a> | **pencil-solid.svg** |
+| <a href="people-carry-solid.svg"><img src="people-carry-solid.svg" width="250"></a> | **people-carry-solid.svg** |
+| <a href="phone-ringing-high-solid.svg"><img src="phone-ringing-high-solid.svg" width="250"></a> | **phone-ringing-high-solid.svg** |
+| <a href="phone-ringing-low-solid.svg"><img src="phone-ringing-low-solid.svg" width="250"></a> | **phone-ringing-low-solid.svg** |
+| <a href="plane-departure-solid.svg"><img src="plane-departure-solid.svg" width="250"></a> | **plane-departure-solid.svg** |
+| <a href="plane-solid.svg"><img src="plane-solid.svg" width="250"></a> | **plane-solid.svg** |
+| <a href="play-solid.svg"><img src="play-solid.svg" width="250"></a> | **play-solid.svg** |
+| <a href="playlist-solid.svg"><img src="playlist-solid.svg" width="250"></a> | **playlist-solid.svg** |
+| <a href="plus-solid.svg"><img src="plus-solid.svg" width="250"></a> | **plus-solid.svg** |
+| <a href="print-solid.svg"><img src="print-solid.svg" width="250"></a> | **print-solid.svg** |
+| <a href="pro-solid.svg"><img src="pro-solid.svg" width="250"></a> | **pro-solid.svg** |
+| <a href="question-solid.svg"><img src="question-solid.svg" width="250"></a> | **question-solid.svg** |
+| <a href="quote-left-solid.svg"><img src="quote-left-solid.svg" width="250"></a> | **quote-left-solid.svg** |
+| <a href="quote-right-solid.svg"><img src="quote-right-solid.svg" width="250"></a> | **quote-right-solid.svg** |
+| <a href="receipt-solid.svg"><img src="receipt-solid.svg" width="250"></a> | **receipt-solid.svg** |
+| <a href="refresh-solid.svg"><img src="refresh-solid.svg" width="250"></a> | **refresh-solid.svg** |
+| <a href="retro-camera-solid.svg"><img src="retro-camera-solid.svg" width="250"></a> | **retro-camera-solid.svg** |
+| <a href="robot-solid.svg"><img src="robot-solid.svg" width="250"></a> | **robot-solid.svg** |
+| <a href="save-solid.svg"><img src="save-solid.svg" width="250"></a> | **save-solid.svg** |
+| <a href="search-solid.svg"><img src="search-solid.svg" width="250"></a> | **search-solid.svg** |
+| <a href="seedlings-solid.svg"><img src="seedlings-solid.svg" width="250"></a> | **seedlings-solid.svg** |
+| <a href="share-solid.svg"><img src="share-solid.svg" width="250"></a> | **share-solid.svg** |
+| <a href="shop-solid.svg"><img src="shop-solid.svg" width="250"></a> | **shop-solid.svg** |
+| <a href="shopping-cart-solid.svg"><img src="shopping-cart-solid.svg" width="250"></a> | **shopping-cart-solid.svg** |
+| <a href="shuffle-solid.svg"><img src="shuffle-solid.svg" width="250"></a> | **shuffle-solid.svg** |
+| <a href="sort-solid.svg"><img src="sort-solid.svg" width="250"></a> | **sort-solid.svg** |
+| <a href="sound-mute-solid.svg"><img src="sound-mute-solid.svg" width="250"></a> | **sound-mute-solid.svg** |
+| <a href="sound-on-solid.svg"><img src="sound-on-solid.svg" width="250"></a> | **sound-on-solid.svg** |
+| <a href="spinner-solid.svg"><img src="spinner-solid.svg" width="250"></a> | **spinner-solid.svg** |
+| <a href="spinner-third-solid.svg"><img src="spinner-third-solid.svg" width="250"></a> | **spinner-third-solid.svg** |
+| <a href="star-crescent-solid.svg"><img src="star-crescent-solid.svg" width="250"></a> | **star-crescent-solid.svg** |
+| <a href="star-solid.svg"><img src="star-solid.svg" width="250"></a> | **star-solid.svg** |
+| <a href="strike-through-solid.svg"><img src="strike-through-solid.svg" width="250"></a> | **strike-through-solid.svg** |
+| <a href="sun-solid.svg"><img src="sun-solid.svg" width="250"></a> | **sun-solid.svg** |
+| <a href="table-solid.svg"><img src="table-solid.svg" width="250"></a> | **table-solid.svg** |
+| <a href="tag-solid.svg"><img src="tag-solid.svg" width="250"></a> | **tag-solid.svg** |
+| <a href="themes-solid.svg"><img src="themes-solid.svg" width="250"></a> | **themes-solid.svg** |
+| <a href="thumbsdown-solid.svg"><img src="thumbsdown-solid.svg" width="250"></a> | **thumbsdown-solid.svg** |
+| <a href="thumbsup-solid.svg"><img src="thumbsup-solid.svg" width="250"></a> | **thumbsup-solid.svg** |
+| <a href="thumbtack-solid.svg"><img src="thumbtack-solid.svg" width="250"></a> | **thumbtack-solid.svg** |
+| <a href="times-circle-solid.svg"><img src="times-circle-solid.svg" width="250"></a> | **times-circle-solid.svg** |
+| <a href="times-solid.svg"><img src="times-solid.svg" width="250"></a> | **times-solid.svg** |
+| <a href="translate-solid.svg"><img src="translate-solid.svg" width="250"></a> | **translate-solid.svg** |
+| <a href="trash-alt-solid.svg"><img src="trash-alt-solid.svg" width="250"></a> | **trash-alt-solid.svg** |
+| <a href="trash-solid.svg"><img src="trash-solid.svg" width="250"></a> | **trash-solid.svg** |
+| <a href="trending-solid.svg"><img src="trending-solid.svg" width="250"></a> | **trending-solid.svg** |
+| <a href="trophy-solid.svg"><img src="trophy-solid.svg" width="250"></a> | **trophy-solid.svg** |
+| <a href="underline-solid.svg"><img src="underline-solid.svg" width="250"></a> | **underline-solid.svg** |
+| <a href="unlock-alt-solid.svg"><img src="unlock-alt-solid.svg" width="250"></a> | **unlock-alt-solid.svg** |
+| <a href="unlock-solid.svg"><img src="unlock-solid.svg" width="250"></a> | **unlock-solid.svg** |
+| <a href="upload-alt-solid.svg"><img src="upload-alt-solid.svg" width="250"></a> | **upload-alt-solid.svg** |
+| <a href="upload-solid.svg"><img src="upload-solid.svg" width="250"></a> | **upload-solid.svg** |
+| <a href="user-check-solid.svg"><img src="user-check-solid.svg" width="250"></a> | **user-check-solid.svg** |
+| <a href="user-headset-solid.svg"><img src="user-headset-solid.svg" width="250"></a> | **user-headset-solid.svg** |
+| <a href="user-solid.svg"><img src="user-solid.svg" width="250"></a> | **user-solid.svg** |
+| <a href="users-crown-solid.svg"><img src="users-crown-solid.svg" width="250"></a> | **users-crown-solid.svg** |
+| <a href="users-solid.svg"><img src="users-solid.svg" width="250"></a> | **users-solid.svg** |
+| <a href="vote-yeah-solid.svg"><img src="vote-yeah-solid.svg" width="250"></a> | **vote-yeah-solid.svg** |
+| <a href="wallet-solid.svg"><img src="wallet-solid.svg" width="250"></a> | **wallet-solid.svg** |
+| <a href="window-close-solid.svg"><img src="window-close-solid.svg" width="250"></a> | **window-close-solid.svg** |

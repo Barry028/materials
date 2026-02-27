@@ -1,388 +1,388 @@
-# 🖼️ 22 素材庫
+# 🖼️ 22
 
 [⬅️ 返回主目錄](../../../../../../README.md)
 
-| 預覽 (點擊放大) | 檔案資訊 |
+| 預覽 | 資訊 |
 | :--- | :--- |
-| <a href="apport.svg"><img src="apport.svg" width="250"></a> | **apport.svg**<br>Vector (SVG) | 1.48KB |
-| <a href="audio-on.svg"><img src="audio-on.svg" width="250"></a> | **audio-on.svg**<br>Vector (SVG) | 783.00B |
-| <a href="audio-ready.svg"><img src="audio-ready.svg" width="250"></a> | **audio-ready.svg**<br>Vector (SVG) | 541.00B |
-| <a href="audio-volume-high-danger.svg"><img src="audio-volume-high-danger.svg" width="250"></a> | **audio-volume-high-danger.svg**<br>Vector (SVG) | 875.00B |
-| <a href="audio-volume-high-warning.svg"><img src="audio-volume-high-warning.svg" width="250"></a> | **audio-volume-high-warning.svg**<br>Vector (SVG) | 873.00B |
-| <a href="audio-volume-high.svg"><img src="audio-volume-high.svg" width="250"></a> | **audio-volume-high.svg**<br>Vector (SVG) | 732.00B |
-| <a href="audio-volume-low.svg"><img src="audio-volume-low.svg" width="250"></a> | **audio-volume-low.svg**<br>Vector (SVG) | 730.00B |
-| <a href="audio-volume-medium.svg"><img src="audio-volume-medium.svg" width="250"></a> | **audio-volume-medium.svg**<br>Vector (SVG) | 789.00B |
-| <a href="audio-volume-muted.svg"><img src="audio-volume-muted.svg" width="250"></a> | **audio-volume-muted.svg**<br>Vector (SVG) | 1.12KB |
-| <a href="auth-sim-locked.svg"><img src="auth-sim-locked.svg" width="250"></a> | **auth-sim-locked.svg**<br>Vector (SVG) | 783.00B |
-| <a href="auth-sim-missing.svg"><img src="auth-sim-missing.svg" width="250"></a> | **auth-sim-missing.svg**<br>Vector (SVG) | 1.10KB |
-| <a href="battery-000-charging.svg"><img src="battery-000-charging.svg" width="250"></a> | **battery-000-charging.svg**<br>Vector (SVG) | 671.00B |
-| <a href="battery-000.svg"><img src="battery-000.svg" width="250"></a> | **battery-000.svg**<br>Vector (SVG) | 450.00B |
-| <a href="battery-010-charging.svg"><img src="battery-010-charging.svg" width="250"></a> | **battery-010-charging.svg**<br>Vector (SVG) | 682.00B |
-| <a href="battery-010.svg"><img src="battery-010.svg" width="250"></a> | **battery-010.svg**<br>Vector (SVG) | 461.00B |
-| <a href="battery-020-charging.svg"><img src="battery-020-charging.svg" width="250"></a> | **battery-020-charging.svg**<br>Vector (SVG) | 664.00B |
-| <a href="battery-020.svg"><img src="battery-020.svg" width="250"></a> | **battery-020.svg**<br>Vector (SVG) | 443.00B |
-| <a href="battery-030-charging.svg"><img src="battery-030-charging.svg" width="250"></a> | **battery-030-charging.svg**<br>Vector (SVG) | 686.00B |
-| <a href="battery-030.svg"><img src="battery-030.svg" width="250"></a> | **battery-030.svg**<br>Vector (SVG) | 465.00B |
-| <a href="battery-040-charging.svg"><img src="battery-040-charging.svg" width="250"></a> | **battery-040-charging.svg**<br>Vector (SVG) | 684.00B |
-| <a href="battery-040.svg"><img src="battery-040.svg" width="250"></a> | **battery-040.svg**<br>Vector (SVG) | 463.00B |
-| <a href="battery-050-charging.svg"><img src="battery-050-charging.svg" width="250"></a> | **battery-050-charging.svg**<br>Vector (SVG) | 687.00B |
-| <a href="battery-050.svg"><img src="battery-050.svg" width="250"></a> | **battery-050.svg**<br>Vector (SVG) | 466.00B |
-| <a href="battery-060-charging.svg"><img src="battery-060-charging.svg" width="250"></a> | **battery-060-charging.svg**<br>Vector (SVG) | 684.00B |
-| <a href="battery-060.svg"><img src="battery-060.svg" width="250"></a> | **battery-060.svg**<br>Vector (SVG) | 463.00B |
-| <a href="battery-070-charging.svg"><img src="battery-070-charging.svg" width="250"></a> | **battery-070-charging.svg**<br>Vector (SVG) | 688.00B |
-| <a href="battery-070.svg"><img src="battery-070.svg" width="250"></a> | **battery-070.svg**<br>Vector (SVG) | 467.00B |
-| <a href="battery-080-charging.svg"><img src="battery-080-charging.svg" width="250"></a> | **battery-080-charging.svg**<br>Vector (SVG) | 685.00B |
-| <a href="battery-080.svg"><img src="battery-080.svg" width="250"></a> | **battery-080.svg**<br>Vector (SVG) | 464.00B |
-| <a href="battery-090-charging.svg"><img src="battery-090-charging.svg" width="250"></a> | **battery-090-charging.svg**<br>Vector (SVG) | 688.00B |
-| <a href="battery-090.svg"><img src="battery-090.svg" width="250"></a> | **battery-090.svg**<br>Vector (SVG) | 467.00B |
-| <a href="battery-100-charging.svg"><img src="battery-100-charging.svg" width="250"></a> | **battery-100-charging.svg**<br>Vector (SVG) | 672.00B |
-| <a href="battery-100.svg"><img src="battery-100.svg" width="250"></a> | **battery-100.svg**<br>Vector (SVG) | 446.00B |
-| <a href="battery-missing.svg"><img src="battery-missing.svg" width="250"></a> | **battery-missing.svg**<br>Vector (SVG) | 861.00B |
-| <a href="battery-profile-performance.svg"><img src="battery-profile-performance.svg" width="250"></a> | **battery-profile-performance.svg**<br>Vector (SVG) | 560.00B |
-| <a href="battery-profile-powersave.svg"><img src="battery-profile-powersave.svg" width="250"></a> | **battery-profile-powersave.svg**<br>Vector (SVG) | 1.46KB |
-| <a href="call-incoming.svg"><img src="call-incoming.svg" width="250"></a> | **call-incoming.svg**<br>Vector (SVG) | 859.00B |
-| <a href="call-missed.svg"><img src="call-missed.svg" width="250"></a> | **call-missed.svg**<br>Vector (SVG) | 801.00B |
-| <a href="call-outgoing.svg"><img src="call-outgoing.svg" width="250"></a> | **call-outgoing.svg**<br>Vector (SVG) | 864.00B |
-| <a href="camera-off.svg"><img src="camera-off.svg" width="250"></a> | **camera-off.svg**<br>Vector (SVG) | 1.58KB |
-| <a href="camera-on.svg"><img src="camera-on.svg" width="250"></a> | **camera-on.svg**<br>Vector (SVG) | 1.79KB |
-| <a href="camera-ready.svg"><img src="camera-ready.svg" width="250"></a> | **camera-ready.svg**<br>Vector (SVG) | 1.94KB |
-| <a href="data-error.svg"><img src="data-error.svg" width="250"></a> | **data-error.svg**<br>Vector (SVG) | 471.00B |
-| <a href="data-information.svg"><img src="data-information.svg" width="250"></a> | **data-information.svg**<br>Vector (SVG) | 377.00B |
-| <a href="data-success.svg"><img src="data-success.svg" width="250"></a> | **data-success.svg**<br>Vector (SVG) | 534.00B |
-| <a href="data-warning.svg"><img src="data-warning.svg" width="250"></a> | **data-warning.svg**<br>Vector (SVG) | 602.00B |
-| <a href="dialog-error.svg"><img src="dialog-error.svg" width="250"></a> | **dialog-error.svg**<br>Vector (SVG) | 525.00B |
-| <a href="dialog-information.svg"><img src="dialog-information.svg" width="250"></a> | **dialog-information.svg**<br>Vector (SVG) | 473.00B |
-| <a href="dialog-password.svg"><img src="dialog-password.svg" width="250"></a> | **dialog-password.svg**<br>Vector (SVG) | 604.00B |
-| <a href="dialog-positive.svg"><img src="dialog-positive.svg" width="250"></a> | **dialog-positive.svg**<br>Vector (SVG) | 488.00B |
-| <a href="dialog-question.svg"><img src="dialog-question.svg" width="250"></a> | **dialog-question.svg**<br>Vector (SVG) | 680.00B |
-| <a href="dialog-warning.svg"><img src="dialog-warning.svg" width="250"></a> | **dialog-warning.svg**<br>Vector (SVG) | 329.00B |
-| <a href="disk-quota-critical.svg"><img src="disk-quota-critical.svg" width="250"></a> | **disk-quota-critical.svg**<br>Vector (SVG) | 1.32KB |
-| <a href="disk-quota-high.svg"><img src="disk-quota-high.svg" width="250"></a> | **disk-quota-high.svg**<br>Vector (SVG) | 1.22KB |
-| <a href="disk-quota-low.svg"><img src="disk-quota-low.svg" width="250"></a> | **disk-quota-low.svg**<br>Vector (SVG) | 1.34KB |
-| <a href="disk-quota.svg"><img src="disk-quota.svg" width="250"></a> | **disk-quota.svg**<br>Vector (SVG) | 1.12KB |
-| <a href="dropboxstatus-busy.svg"><img src="dropboxstatus-busy.svg" width="250"></a> | **dropboxstatus-busy.svg**<br>Vector (SVG) | 1.82KB |
-| <a href="dropboxstatus-idle.svg"><img src="dropboxstatus-idle.svg" width="250"></a> | **dropboxstatus-idle.svg**<br>Vector (SVG) | 1.41KB |
-| <a href="dropboxstatus-logo.svg"><img src="dropboxstatus-logo.svg" width="250"></a> | **dropboxstatus-logo.svg**<br>Vector (SVG) | 1.05KB |
-| <a href="dropboxstatus-x.svg"><img src="dropboxstatus-x.svg" width="250"></a> | **dropboxstatus-x.svg**<br>Vector (SVG) | 1.48KB |
-| <a href="fcitx-anthy.svg"><img src="fcitx-anthy.svg" width="250"></a> | **fcitx-anthy.svg**<br>Vector (SVG) | 3.95KB |
-| <a href="fcitx-bopomofo-libpinyin.svg"><img src="fcitx-bopomofo-libpinyin.svg" width="250"></a> | **fcitx-bopomofo-libpinyin.svg**<br>Vector (SVG) | 2.55KB |
-| <a href="fcitx-bopomofo.svg"><img src="fcitx-bopomofo.svg" width="250"></a> | **fcitx-bopomofo.svg**<br>Vector (SVG) | 2.03KB |
-| <a href="fcitx-cangjie.svg"><img src="fcitx-cangjie.svg" width="250"></a> | **fcitx-cangjie.svg**<br>Vector (SVG) | 2.42KB |
-| <a href="fcitx-chewing-libpinyin.svg"><img src="fcitx-chewing-libpinyin.svg" width="250"></a> | **fcitx-chewing-libpinyin.svg**<br>Vector (SVG) | 2.04KB |
-| <a href="fcitx-chewing.svg"><img src="fcitx-chewing.svg" width="250"></a> | **fcitx-chewing.svg**<br>Vector (SVG) | 2.06KB |
-| <a href="fcitx-chttrans-active.svg"><img src="fcitx-chttrans-active.svg" width="250"></a> | **fcitx-chttrans-active.svg**<br>Vector (SVG) | 4.40KB |
-| <a href="fcitx-chttrans-inactive.svg"><img src="fcitx-chttrans-inactive.svg" width="250"></a> | **fcitx-chttrans-inactive.svg**<br>Vector (SVG) | 2.93KB |
-| <a href="fcitx-emoji.svg"><img src="fcitx-emoji.svg" width="250"></a> | **fcitx-emoji.svg**<br>Vector (SVG) | 2.71KB |
-| <a href="fcitx-erbi.svg"><img src="fcitx-erbi.svg" width="250"></a> | **fcitx-erbi.svg**<br>Vector (SVG) | 1.59KB |
-| <a href="fcitx-fullwidth-active.svg"><img src="fcitx-fullwidth-active.svg" width="250"></a> | **fcitx-fullwidth-active.svg**<br>Vector (SVG) | 1.52KB |
-| <a href="fcitx-fullwidth-inactive.svg"><img src="fcitx-fullwidth-inactive.svg" width="250"></a> | **fcitx-fullwidth-inactive.svg**<br>Vector (SVG) | 1.73KB |
-| <a href="fcitx-googlepinyin.svg"><img src="fcitx-googlepinyin.svg" width="250"></a> | **fcitx-googlepinyin.svg**<br>Vector (SVG) | 1.14KB |
-| <a href="fcitx-handwriting-active.svg"><img src="fcitx-handwriting-active.svg" width="250"></a> | **fcitx-handwriting-active.svg**<br>Vector (SVG) | 4.95KB |
-| <a href="fcitx-handwriting-inactive.svg"><img src="fcitx-handwriting-inactive.svg" width="250"></a> | **fcitx-handwriting-inactive.svg**<br>Vector (SVG) | 4.88KB |
-| <a href="fcitx-hangul.svg"><img src="fcitx-hangul.svg" width="250"></a> | **fcitx-hangul.svg**<br>Vector (SVG) | 1.96KB |
-| <a href="fcitx-kbd.svg"><img src="fcitx-kbd.svg" width="250"></a> | **fcitx-kbd.svg**<br>Vector (SVG) | 2.13KB |
-| <a href="fcitx-libkkc.svg"><img src="fcitx-libkkc.svg" width="250"></a> | **fcitx-libkkc.svg**<br>Vector (SVG) | 2.56KB |
-| <a href="fcitx-libskk.svg"><img src="fcitx-libskk.svg" width="250"></a> | **fcitx-libskk.svg**<br>Vector (SVG) | 2.95KB |
-| <a href="fcitx-pinyin-libpinyin.svg"><img src="fcitx-pinyin-libpinyin.svg" width="250"></a> | **fcitx-pinyin-libpinyin.svg**<br>Vector (SVG) | 1.25KB |
-| <a href="fcitx-pinyin.svg"><img src="fcitx-pinyin.svg" width="250"></a> | **fcitx-pinyin.svg**<br>Vector (SVG) | 1.31KB |
-| <a href="fcitx-punc-active.svg"><img src="fcitx-punc-active.svg" width="250"></a> | **fcitx-punc-active.svg**<br>Vector (SVG) | 2.39KB |
-| <a href="fcitx-punc-inactive.svg"><img src="fcitx-punc-inactive.svg" width="250"></a> | **fcitx-punc-inactive.svg**<br>Vector (SVG) | 1.87KB |
-| <a href="fcitx-quanpin-libpinyin.svg"><img src="fcitx-quanpin-libpinyin.svg" width="250"></a> | **fcitx-quanpin-libpinyin.svg**<br>Vector (SVG) | 2.28KB |
-| <a href="fcitx-quanpin.svg"><img src="fcitx-quanpin.svg" width="250"></a> | **fcitx-quanpin.svg**<br>Vector (SVG) | 2.24KB |
-| <a href="fcitx-remind-active.svg"><img src="fcitx-remind-active.svg" width="250"></a> | **fcitx-remind-active.svg**<br>Vector (SVG) | 2.48KB |
-| <a href="fcitx-remind-inactive.svg"><img src="fcitx-remind-inactive.svg" width="250"></a> | **fcitx-remind-inactive.svg**<br>Vector (SVG) | 2.37KB |
-| <a href="fcitx-rime.svg"><img src="fcitx-rime.svg" width="250"></a> | **fcitx-rime.svg**<br>Vector (SVG) | 2.05KB |
-| <a href="fcitx-shuangpin-libpinyin.svg"><img src="fcitx-shuangpin-libpinyin.svg" width="250"></a> | **fcitx-shuangpin-libpinyin.svg**<br>Vector (SVG) | 1.78KB |
-| <a href="fcitx-shuangpin.svg"><img src="fcitx-shuangpin.svg" width="250"></a> | **fcitx-shuangpin.svg**<br>Vector (SVG) | 1.84KB |
-| <a href="fcitx-sunpinyin.svg"><img src="fcitx-sunpinyin.svg" width="250"></a> | **fcitx-sunpinyin.svg**<br>Vector (SVG) | 1.87KB |
-| <a href="fcitx-unikey.svg"><img src="fcitx-unikey.svg" width="250"></a> | **fcitx-unikey.svg**<br>Vector (SVG) | 2.11KB |
-| <a href="fcitx-vk-active.svg"><img src="fcitx-vk-active.svg" width="250"></a> | **fcitx-vk-active.svg**<br>Vector (SVG) | 2.14KB |
-| <a href="fcitx-vk-inactive.svg"><img src="fcitx-vk-inactive.svg" width="250"></a> | **fcitx-vk-inactive.svg**<br>Vector (SVG) | 1.88KB |
-| <a href="fcitx-wbpy.svg"><img src="fcitx-wbpy.svg" width="250"></a> | **fcitx-wbpy.svg**<br>Vector (SVG) | 2.38KB |
-| <a href="fcitx-wubi.svg"><img src="fcitx-wubi.svg" width="250"></a> | **fcitx-wubi.svg**<br>Vector (SVG) | 700.00B |
-| <a href="fcitx-ziranma.svg"><img src="fcitx-ziranma.svg" width="250"></a> | **fcitx-ziranma.svg**<br>Vector (SVG) | 1.71KB |
-| <a href="fcitx.svg"><img src="fcitx.svg" width="250"></a> | **fcitx.svg**<br>Vector (SVG) | 12.13KB |
-| <a href="firewall-applet-error.svg"><img src="firewall-applet-error.svg" width="250"></a> | **firewall-applet-error.svg**<br>Vector (SVG) | 624.00B |
-| <a href="firewall-applet-panic.svg"><img src="firewall-applet-panic.svg" width="250"></a> | **firewall-applet-panic.svg**<br>Vector (SVG) | 843.00B |
-| <a href="firewall-applet-shields_up.svg"><img src="firewall-applet-shields_up.svg" width="250"></a> | **firewall-applet-shields_up.svg**<br>Vector (SVG) | 966.00B |
-| <a href="firewall-applet.svg"><img src="firewall-applet.svg" width="250"></a> | **firewall-applet.svg**<br>Vector (SVG) | 466.00B |
-| <a href="flameshot-tray.svg"><img src="flameshot-tray.svg" width="250"></a> | **flameshot-tray.svg**<br>Vector (SVG) | 2.41KB |
-| <a href="flightmode-off.svg"><img src="flightmode-off.svg" width="250"></a> | **flightmode-off.svg**<br>Vector (SVG) | 3.04KB |
-| <a href="flightmode-on.svg"><img src="flightmode-on.svg" width="250"></a> | **flightmode-on.svg**<br>Vector (SVG) | 2.91KB |
-| <a href="haguichi-connected.svg"><img src="haguichi-connected.svg" width="250"></a> | **haguichi-connected.svg**<br>Vector (SVG) | 574.00B |
-| <a href="haguichi-connecting-1.svg"><img src="haguichi-connecting-1.svg" width="250"></a> | **haguichi-connecting-1.svg**<br>Vector (SVG) | 486.00B |
-| <a href="haguichi-connecting-2.svg"><img src="haguichi-connecting-2.svg" width="250"></a> | **haguichi-connecting-2.svg**<br>Vector (SVG) | 493.00B |
-| <a href="haguichi-connecting-3.svg"><img src="haguichi-connecting-3.svg" width="250"></a> | **haguichi-connecting-3.svg**<br>Vector (SVG) | 558.00B |
-| <a href="haguichi-disconnected.svg"><img src="haguichi-disconnected.svg" width="250"></a> | **haguichi-disconnected.svg**<br>Vector (SVG) | 559.00B |
-| <a href="image-missing.svg"><img src="image-missing.svg" width="250"></a> | **image-missing.svg**<br>Vector (SVG) | 936.00B |
-| <a href="ime-anthy.svg"><img src="ime-anthy.svg" width="250"></a> | **ime-anthy.svg**<br>Vector (SVG) | 3.95KB |
-| <a href="ime-bopomofo.svg"><img src="ime-bopomofo.svg" width="250"></a> | **ime-bopomofo.svg**<br>Vector (SVG) | 2.03KB |
-| <a href="ime-cangjie.svg"><img src="ime-cangjie.svg" width="250"></a> | **ime-cangjie.svg**<br>Vector (SVG) | 2.41KB |
-| <a href="ime-chewing.svg"><img src="ime-chewing.svg" width="250"></a> | **ime-chewing.svg**<br>Vector (SVG) | 2.06KB |
-| <a href="ime-chinese-simplified.svg"><img src="ime-chinese-simplified.svg" width="250"></a> | **ime-chinese-simplified.svg**<br>Vector (SVG) | 2.92KB |
-| <a href="ime-chinese-traditional.svg"><img src="ime-chinese-traditional.svg" width="250"></a> | **ime-chinese-traditional.svg**<br>Vector (SVG) | 4.40KB |
-| <a href="ime-emoji.svg"><img src="ime-emoji.svg" width="250"></a> | **ime-emoji.svg**<br>Vector (SVG) | 2.70KB |
-| <a href="ime-erbi.svg"><img src="ime-erbi.svg" width="250"></a> | **ime-erbi.svg**<br>Vector (SVG) | 1.58KB |
-| <a href="ime-fullwidth.svg"><img src="ime-fullwidth.svg" width="250"></a> | **ime-fullwidth.svg**<br>Vector (SVG) | 1.51KB |
-| <a href="ime-googlepinyin.svg"><img src="ime-googlepinyin.svg" width="250"></a> | **ime-googlepinyin.svg**<br>Vector (SVG) | 2.17KB |
-| <a href="ime-halfwidth.svg"><img src="ime-halfwidth.svg" width="250"></a> | **ime-halfwidth.svg**<br>Vector (SVG) | 1.72KB |
-| <a href="ime-handwriting-off.svg"><img src="ime-handwriting-off.svg" width="250"></a> | **ime-handwriting-off.svg**<br>Vector (SVG) | 4.87KB |
-| <a href="ime-handwriting-on.svg"><img src="ime-handwriting-on.svg" width="250"></a> | **ime-handwriting-on.svg**<br>Vector (SVG) | 4.30KB |
-| <a href="ime-hangul.svg"><img src="ime-hangul.svg" width="250"></a> | **ime-hangul.svg**<br>Vector (SVG) | 1.96KB |
-| <a href="ime-libkkc.svg"><img src="ime-libkkc.svg" width="250"></a> | **ime-libkkc.svg**<br>Vector (SVG) | 2.55KB |
-| <a href="ime-libpinyin-bopomofo.svg"><img src="ime-libpinyin-bopomofo.svg" width="250"></a> | **ime-libpinyin-bopomofo.svg**<br>Vector (SVG) | 3.05KB |
-| <a href="ime-libpinyin-chewing.svg"><img src="ime-libpinyin-chewing.svg" width="250"></a> | **ime-libpinyin-chewing.svg**<br>Vector (SVG) | 2.04KB |
-| <a href="ime-libpinyin-pinyin.svg"><img src="ime-libpinyin-pinyin.svg" width="250"></a> | **ime-libpinyin-pinyin.svg**<br>Vector (SVG) | 2.19KB |
-| <a href="ime-libpinyin-quanpin.svg"><img src="ime-libpinyin-quanpin.svg" width="250"></a> | **ime-libpinyin-quanpin.svg**<br>Vector (SVG) | 2.28KB |
-| <a href="ime-libpinyin-shuangpin.svg"><img src="ime-libpinyin-shuangpin.svg" width="250"></a> | **ime-libpinyin-shuangpin.svg**<br>Vector (SVG) | 2.74KB |
-| <a href="ime-libskk.svg"><img src="ime-libskk.svg" width="250"></a> | **ime-libskk.svg**<br>Vector (SVG) | 2.95KB |
-| <a href="ime-pinyin.svg"><img src="ime-pinyin.svg" width="250"></a> | **ime-pinyin.svg**<br>Vector (SVG) | 2.23KB |
-| <a href="ime-punctuation-fullwidth.svg"><img src="ime-punctuation-fullwidth.svg" width="250"></a> | **ime-punctuation-fullwidth.svg**<br>Vector (SVG) | 4.18KB |
-| <a href="ime-punctuation-halfwidth.svg"><img src="ime-punctuation-halfwidth.svg" width="250"></a> | **ime-punctuation-halfwidth.svg**<br>Vector (SVG) | 1.87KB |
-| <a href="ime-quanpin.svg"><img src="ime-quanpin.svg" width="250"></a> | **ime-quanpin.svg**<br>Vector (SVG) | 2.24KB |
-| <a href="ime-remind-off.svg"><img src="ime-remind-off.svg" width="250"></a> | **ime-remind-off.svg**<br>Vector (SVG) | 2.36KB |
-| <a href="ime-remind-on.svg"><img src="ime-remind-on.svg" width="250"></a> | **ime-remind-on.svg**<br>Vector (SVG) | 2.47KB |
-| <a href="ime-rime.svg"><img src="ime-rime.svg" width="250"></a> | **ime-rime.svg**<br>Vector (SVG) | 2.04KB |
-| <a href="ime-shuangpin.svg"><img src="ime-shuangpin.svg" width="250"></a> | **ime-shuangpin.svg**<br>Vector (SVG) | 2.80KB |
-| <a href="ime-sunpinyin.svg"><img src="ime-sunpinyin.svg" width="250"></a> | **ime-sunpinyin.svg**<br>Vector (SVG) | 2.75KB |
-| <a href="ime-unikey.svg"><img src="ime-unikey.svg" width="250"></a> | **ime-unikey.svg**<br>Vector (SVG) | 2.11KB |
-| <a href="ime-wubi.svg"><img src="ime-wubi.svg" width="250"></a> | **ime-wubi.svg**<br>Vector (SVG) | 1.69KB |
-| <a href="ime-wubipinyin.svg"><img src="ime-wubipinyin.svg" width="250"></a> | **ime-wubipinyin.svg**<br>Vector (SVG) | 2.43KB |
-| <a href="ime-ziranma.svg"><img src="ime-ziranma.svg" width="250"></a> | **ime-ziranma.svg**<br>Vector (SVG) | 1.71KB |
-| <a href="input-caps-on.svg"><img src="input-caps-on.svg" width="250"></a> | **input-caps-on.svg**<br>Vector (SVG) | 1.61KB |
-| <a href="input-combo-on.svg"><img src="input-combo-on.svg" width="250"></a> | **input-combo-on.svg**<br>Vector (SVG) | 1.62KB |
-| <a href="input-keyboard-battery.svg"><img src="input-keyboard-battery.svg" width="250"></a> | **input-keyboard-battery.svg**<br>Vector (SVG) | 1.67KB |
-| <a href="input-keyboard-brightness.svg"><img src="input-keyboard-brightness.svg" width="250"></a> | **input-keyboard-brightness.svg**<br>Vector (SVG) | 1.78KB |
-| <a href="input-keyboard-virtual-off.svg"><img src="input-keyboard-virtual-off.svg" width="250"></a> | **input-keyboard-virtual-off.svg**<br>Vector (SVG) | 1.61KB |
-| <a href="input-keyboard-virtual-on.svg"><img src="input-keyboard-virtual-on.svg" width="250"></a> | **input-keyboard-virtual-on.svg**<br>Vector (SVG) | 1.78KB |
-| <a href="input-num-on.svg"><img src="input-num-on.svg" width="250"></a> | **input-num-on.svg**<br>Vector (SVG) | 1.46KB |
-| <a href="input-touchpad-off.svg"><img src="input-touchpad-off.svg" width="250"></a> | **input-touchpad-off.svg**<br>Vector (SVG) | 649.00B |
-| <a href="input-touchpad-on.svg"><img src="input-touchpad-on.svg" width="250"></a> | **input-touchpad-on.svg**<br>Vector (SVG) | 950.00B |
-| <a href="kalarm-disabled.svg"><img src="kalarm-disabled.svg" width="250"></a> | **kalarm-disabled.svg**<br>Vector (SVG) | 2.24KB |
-| <a href="kalarm-partdisabled.svg"><img src="kalarm-partdisabled.svg" width="250"></a> | **kalarm-partdisabled.svg**<br>Vector (SVG) | 2.37KB |
-| <a href="kdeconnect-tray.svg"><img src="kdeconnect-tray.svg" width="250"></a> | **kdeconnect-tray.svg**<br>Vector (SVG) | 1.58KB |
-| <a href="keyboard-layout.svg"><img src="keyboard-layout.svg" width="250"></a> | **keyboard-layout.svg**<br>Vector (SVG) | 2.14KB |
-| <a href="klipper-symbolic.svg"><img src="klipper-symbolic.svg" width="250"></a> | **klipper-symbolic.svg**<br>Vector (SVG) | 1.83KB |
-| <a href="konv_message.svg"><img src="konv_message.svg" width="250"></a> | **konv_message.svg**<br>Vector (SVG) | 3.15KB |
-| <a href="kpackagekit-important.svg"><img src="kpackagekit-important.svg" width="250"></a> | **kpackagekit-important.svg**<br>Vector (SVG) | 2.03KB |
-| <a href="kpackagekit-inactive.svg"><img src="kpackagekit-inactive.svg" width="250"></a> | **kpackagekit-inactive.svg**<br>Vector (SVG) | 1.78KB |
-| <a href="kpackagekit-security.svg"><img src="kpackagekit-security.svg" width="250"></a> | **kpackagekit-security.svg**<br>Vector (SVG) | 2.10KB |
-| <a href="kpackagekit-updates.svg"><img src="kpackagekit-updates.svg" width="250"></a> | **kpackagekit-updates.svg**<br>Vector (SVG) | 2.20KB |
-| <a href="mail-unread-new.svg"><img src="mail-unread-new.svg" width="250"></a> | **mail-unread-new.svg**<br>Vector (SVG) | 2.18KB |
-| <a href="mail-unread.svg"><img src="mail-unread.svg" width="250"></a> | **mail-unread.svg**<br>Vector (SVG) | 2.13KB |
-| <a href="media-playback-paused.svg"><img src="media-playback-paused.svg" width="250"></a> | **media-playback-paused.svg**<br>Vector (SVG) | 1014.00B |
-| <a href="media-playback-playing.svg"><img src="media-playback-playing.svg" width="250"></a> | **media-playback-playing.svg**<br>Vector (SVG) | 930.00B |
-| <a href="media-playback-stopped.svg"><img src="media-playback-stopped.svg" width="250"></a> | **media-playback-stopped.svg**<br>Vector (SVG) | 973.00B |
-| <a href="meeting-organizer.svg"><img src="meeting-organizer.svg" width="250"></a> | **meeting-organizer.svg**<br>Vector (SVG) | 616.00B |
-| <a href="mic-off.svg"><img src="mic-off.svg" width="250"></a> | **mic-off.svg**<br>Vector (SVG) | 1.03KB |
-| <a href="mic-on.svg"><img src="mic-on.svg" width="250"></a> | **mic-on.svg**<br>Vector (SVG) | 1.33KB |
-| <a href="mic-ready.svg"><img src="mic-ready.svg" width="250"></a> | **mic-ready.svg**<br>Vector (SVG) | 1.04KB |
-| <a href="microphone-sensitivity-high.svg"><img src="microphone-sensitivity-high.svg" width="250"></a> | **microphone-sensitivity-high.svg**<br>Vector (SVG) | 1.39KB |
-| <a href="microphone-sensitivity-low.svg"><img src="microphone-sensitivity-low.svg" width="250"></a> | **microphone-sensitivity-low.svg**<br>Vector (SVG) | 1.43KB |
-| <a href="microphone-sensitivity-medium.svg"><img src="microphone-sensitivity-medium.svg" width="250"></a> | **microphone-sensitivity-medium.svg**<br>Vector (SVG) | 1.45KB |
-| <a href="microphone-sensitivity-muted.svg"><img src="microphone-sensitivity-muted.svg" width="250"></a> | **microphone-sensitivity-muted.svg**<br>Vector (SVG) | 1.94KB |
-| <a href="network-bluetooth-activated-locked.svg"><img src="network-bluetooth-activated-locked.svg" width="250"></a> | **network-bluetooth-activated-locked.svg**<br>Vector (SVG) | 1.10KB |
-| <a href="network-bluetooth-activated.svg"><img src="network-bluetooth-activated.svg" width="250"></a> | **network-bluetooth-activated.svg**<br>Vector (SVG) | 1.47KB |
-| <a href="network-bluetooth-inactive-symbolic.svg"><img src="network-bluetooth-inactive-symbolic.svg" width="250"></a> | **network-bluetooth-inactive-symbolic.svg**<br>Vector (SVG) | 1.60KB |
-| <a href="network-bluetooth.svg"><img src="network-bluetooth.svg" width="250"></a> | **network-bluetooth.svg**<br>Vector (SVG) | 1.19KB |
-| <a href="network-flightmode-off.svg"><img src="network-flightmode-off.svg" width="250"></a> | **network-flightmode-off.svg**<br>Vector (SVG) | 1.67KB |
-| <a href="network-flightmode-on.svg"><img src="network-flightmode-on.svg" width="250"></a> | **network-flightmode-on.svg**<br>Vector (SVG) | 1.33KB |
-| <a href="network-limited.svg"><img src="network-limited.svg" width="250"></a> | **network-limited.svg**<br>Vector (SVG) | 598.00B |
-| <a href="network-mobile-0-5g-locked.svg"><img src="network-mobile-0-5g-locked.svg" width="250"></a> | **network-mobile-0-5g-locked.svg**<br>Vector (SVG) | 2.62KB |
-| <a href="network-mobile-0-5g.svg"><img src="network-mobile-0-5g.svg" width="250"></a> | **network-mobile-0-5g.svg**<br>Vector (SVG) | 2.25KB |
-| <a href="network-mobile-0-edge-locked.svg"><img src="network-mobile-0-edge-locked.svg" width="250"></a> | **network-mobile-0-edge-locked.svg**<br>Vector (SVG) | 1007.00B |
-| <a href="network-mobile-0-edge.svg"><img src="network-mobile-0-edge.svg" width="250"></a> | **network-mobile-0-edge.svg**<br>Vector (SVG) | 629.00B |
-| <a href="network-mobile-0-gprs-locked.svg"><img src="network-mobile-0-gprs-locked.svg" width="250"></a> | **network-mobile-0-gprs-locked.svg**<br>Vector (SVG) | 1012.00B |
-| <a href="network-mobile-0-gprs.svg"><img src="network-mobile-0-gprs.svg" width="250"></a> | **network-mobile-0-gprs.svg**<br>Vector (SVG) | 633.00B |
-| <a href="network-mobile-0-hsdpa-locked.svg"><img src="network-mobile-0-hsdpa-locked.svg" width="250"></a> | **network-mobile-0-hsdpa-locked.svg**<br>Vector (SVG) | 1023.00B |
-| <a href="network-mobile-0-hsdpa.svg"><img src="network-mobile-0-hsdpa.svg" width="250"></a> | **network-mobile-0-hsdpa.svg**<br>Vector (SVG) | 644.00B |
-| <a href="network-mobile-0-hspa-locked.svg"><img src="network-mobile-0-hspa-locked.svg" width="250"></a> | **network-mobile-0-hspa-locked.svg**<br>Vector (SVG) | 1001.00B |
-| <a href="network-mobile-0-hspa.svg"><img src="network-mobile-0-hspa.svg" width="250"></a> | **network-mobile-0-hspa.svg**<br>Vector (SVG) | 622.00B |
-| <a href="network-mobile-0-hsupa-locked.svg"><img src="network-mobile-0-hsupa-locked.svg" width="250"></a> | **network-mobile-0-hsupa-locked.svg**<br>Vector (SVG) | 1017.00B |
-| <a href="network-mobile-0-hsupa.svg"><img src="network-mobile-0-hsupa.svg" width="250"></a> | **network-mobile-0-hsupa.svg**<br>Vector (SVG) | 638.00B |
-| <a href="network-mobile-0-locked.svg"><img src="network-mobile-0-locked.svg" width="250"></a> | **network-mobile-0-locked.svg**<br>Vector (SVG) | 851.00B |
-| <a href="network-mobile-0-lte-locked.svg"><img src="network-mobile-0-lte-locked.svg" width="250"></a> | **network-mobile-0-lte-locked.svg**<br>Vector (SVG) | 979.00B |
-| <a href="network-mobile-0-lte.svg"><img src="network-mobile-0-lte.svg" width="250"></a> | **network-mobile-0-lte.svg**<br>Vector (SVG) | 600.00B |
-| <a href="network-mobile-0-umts-locked.svg"><img src="network-mobile-0-umts-locked.svg" width="250"></a> | **network-mobile-0-umts-locked.svg**<br>Vector (SVG) | 989.00B |
-| <a href="network-mobile-0-umts.svg"><img src="network-mobile-0-umts.svg" width="250"></a> | **network-mobile-0-umts.svg**<br>Vector (SVG) | 610.00B |
-| <a href="network-mobile-0.svg"><img src="network-mobile-0.svg" width="250"></a> | **network-mobile-0.svg**<br>Vector (SVG) | 463.00B |
-| <a href="network-mobile-100-5g-locked.svg"><img src="network-mobile-100-5g-locked.svg" width="250"></a> | **network-mobile-100-5g-locked.svg**<br>Vector (SVG) | 2.63KB |
-| <a href="network-mobile-100-5g.svg"><img src="network-mobile-100-5g.svg" width="250"></a> | **network-mobile-100-5g.svg**<br>Vector (SVG) | 2.24KB |
-| <a href="network-mobile-100-edge-locked.svg"><img src="network-mobile-100-edge-locked.svg" width="250"></a> | **network-mobile-100-edge-locked.svg**<br>Vector (SVG) | 1.23KB |
-| <a href="network-mobile-100-edge.svg"><img src="network-mobile-100-edge.svg" width="250"></a> | **network-mobile-100-edge.svg**<br>Vector (SVG) | 849.00B |
-| <a href="network-mobile-100-gprs-locked.svg"><img src="network-mobile-100-gprs-locked.svg" width="250"></a> | **network-mobile-100-gprs-locked.svg**<br>Vector (SVG) | 1.23KB |
-| <a href="network-mobile-100-gprs.svg"><img src="network-mobile-100-gprs.svg" width="250"></a> | **network-mobile-100-gprs.svg**<br>Vector (SVG) | 619.00B |
-| <a href="network-mobile-100-hsdpa-locked.svg"><img src="network-mobile-100-hsdpa-locked.svg" width="250"></a> | **network-mobile-100-hsdpa-locked.svg**<br>Vector (SVG) | 1.25KB |
-| <a href="network-mobile-100-hsdpa.svg"><img src="network-mobile-100-hsdpa.svg" width="250"></a> | **network-mobile-100-hsdpa.svg**<br>Vector (SVG) | 630.00B |
-| <a href="network-mobile-100-hspa-locked.svg"><img src="network-mobile-100-hspa-locked.svg" width="250"></a> | **network-mobile-100-hspa-locked.svg**<br>Vector (SVG) | 1.22KB |
-| <a href="network-mobile-100-hspa.svg"><img src="network-mobile-100-hspa.svg" width="250"></a> | **network-mobile-100-hspa.svg**<br>Vector (SVG) | 609.00B |
-| <a href="network-mobile-100-hsupa-locked.svg"><img src="network-mobile-100-hsupa-locked.svg" width="250"></a> | **network-mobile-100-hsupa-locked.svg**<br>Vector (SVG) | 1.24KB |
-| <a href="network-mobile-100-hsupa.svg"><img src="network-mobile-100-hsupa.svg" width="250"></a> | **network-mobile-100-hsupa.svg**<br>Vector (SVG) | 625.00B |
-| <a href="network-mobile-100-locked.svg"><img src="network-mobile-100-locked.svg" width="250"></a> | **network-mobile-100-locked.svg**<br>Vector (SVG) | 1.07KB |
-| <a href="network-mobile-100-lte-locked.svg"><img src="network-mobile-100-lte-locked.svg" width="250"></a> | **network-mobile-100-lte-locked.svg**<br>Vector (SVG) | 1.20KB |
-| <a href="network-mobile-100-lte.svg"><img src="network-mobile-100-lte.svg" width="250"></a> | **network-mobile-100-lte.svg**<br>Vector (SVG) | 587.00B |
-| <a href="network-mobile-100-umts-locked.svg"><img src="network-mobile-100-umts-locked.svg" width="250"></a> | **network-mobile-100-umts-locked.svg**<br>Vector (SVG) | 1.21KB |
-| <a href="network-mobile-100-umts.svg"><img src="network-mobile-100-umts.svg" width="250"></a> | **network-mobile-100-umts.svg**<br>Vector (SVG) | 597.00B |
-| <a href="network-mobile-100.svg"><img src="network-mobile-100.svg" width="250"></a> | **network-mobile-100.svg**<br>Vector (SVG) | 451.00B |
-| <a href="network-mobile-20-5g-locked.svg"><img src="network-mobile-20-5g-locked.svg" width="250"></a> | **network-mobile-20-5g-locked.svg**<br>Vector (SVG) | 2.86KB |
-| <a href="network-mobile-20-5g.svg"><img src="network-mobile-20-5g.svg" width="250"></a> | **network-mobile-20-5g.svg**<br>Vector (SVG) | 2.47KB |
-| <a href="network-mobile-20-edge-locked.svg"><img src="network-mobile-20-edge-locked.svg" width="250"></a> | **network-mobile-20-edge-locked.svg**<br>Vector (SVG) | 1.05KB |
-| <a href="network-mobile-20-edge.svg"><img src="network-mobile-20-edge.svg" width="250"></a> | **network-mobile-20-edge.svg**<br>Vector (SVG) | 858.00B |
-| <a href="network-mobile-20-gprs-locked.svg"><img src="network-mobile-20-gprs-locked.svg" width="250"></a> | **network-mobile-20-gprs-locked.svg**<br>Vector (SVG) | 1.20KB |
-| <a href="network-mobile-20-gprs.svg"><img src="network-mobile-20-gprs.svg" width="250"></a> | **network-mobile-20-gprs.svg**<br>Vector (SVG) | 852.00B |
-| <a href="network-mobile-20-hsdpa-locked.svg"><img src="network-mobile-20-hsdpa-locked.svg" width="250"></a> | **network-mobile-20-hsdpa-locked.svg**<br>Vector (SVG) | 1.21KB |
-| <a href="network-mobile-20-hsdpa.svg"><img src="network-mobile-20-hsdpa.svg" width="250"></a> | **network-mobile-20-hsdpa.svg**<br>Vector (SVG) | 863.00B |
-| <a href="network-mobile-20-hspa-locked.svg"><img src="network-mobile-20-hspa-locked.svg" width="250"></a> | **network-mobile-20-hspa-locked.svg**<br>Vector (SVG) | 1.19KB |
-| <a href="network-mobile-20-hspa.svg"><img src="network-mobile-20-hspa.svg" width="250"></a> | **network-mobile-20-hspa.svg**<br>Vector (SVG) | 842.00B |
-| <a href="network-mobile-20-hsupa-locked.svg"><img src="network-mobile-20-hsupa-locked.svg" width="250"></a> | **network-mobile-20-hsupa-locked.svg**<br>Vector (SVG) | 1.21KB |
-| <a href="network-mobile-20-hsupa.svg"><img src="network-mobile-20-hsupa.svg" width="250"></a> | **network-mobile-20-hsupa.svg**<br>Vector (SVG) | 858.00B |
-| <a href="network-mobile-20-locked.svg"><img src="network-mobile-20-locked.svg" width="250"></a> | **network-mobile-20-locked.svg**<br>Vector (SVG) | 1.05KB |
-| <a href="network-mobile-20-lte-locked.svg"><img src="network-mobile-20-lte-locked.svg" width="250"></a> | **network-mobile-20-lte-locked.svg**<br>Vector (SVG) | 1.17KB |
-| <a href="network-mobile-20-lte.svg"><img src="network-mobile-20-lte.svg" width="250"></a> | **network-mobile-20-lte.svg**<br>Vector (SVG) | 820.00B |
-| <a href="network-mobile-20-umts-locked.svg"><img src="network-mobile-20-umts-locked.svg" width="250"></a> | **network-mobile-20-umts-locked.svg**<br>Vector (SVG) | 1.18KB |
-| <a href="network-mobile-20-umts.svg"><img src="network-mobile-20-umts.svg" width="250"></a> | **network-mobile-20-umts.svg**<br>Vector (SVG) | 830.00B |
-| <a href="network-mobile-20.svg"><img src="network-mobile-20.svg" width="250"></a> | **network-mobile-20.svg**<br>Vector (SVG) | 683.00B |
-| <a href="network-mobile-40-5g-locked.svg"><img src="network-mobile-40-5g-locked.svg" width="250"></a> | **network-mobile-40-5g-locked.svg**<br>Vector (SVG) | 2.87KB |
-| <a href="network-mobile-40-5g.svg"><img src="network-mobile-40-5g.svg" width="250"></a> | **network-mobile-40-5g.svg**<br>Vector (SVG) | 2.47KB |
-| <a href="network-mobile-40-edge-locked.svg"><img src="network-mobile-40-edge-locked.svg" width="250"></a> | **network-mobile-40-edge-locked.svg**<br>Vector (SVG) | 1.20KB |
-| <a href="network-mobile-40-edge.svg"><img src="network-mobile-40-edge.svg" width="250"></a> | **network-mobile-40-edge.svg**<br>Vector (SVG) | 848.00B |
-| <a href="network-mobile-40-gprs-locked.svg"><img src="network-mobile-40-gprs-locked.svg" width="250"></a> | **network-mobile-40-gprs-locked.svg**<br>Vector (SVG) | 1.20KB |
-| <a href="network-mobile-40-gprs.svg"><img src="network-mobile-40-gprs.svg" width="250"></a> | **network-mobile-40-gprs.svg**<br>Vector (SVG) | 852.00B |
-| <a href="network-mobile-40-hsdpa-locked.svg"><img src="network-mobile-40-hsdpa-locked.svg" width="250"></a> | **network-mobile-40-hsdpa-locked.svg**<br>Vector (SVG) | 1.21KB |
-| <a href="network-mobile-40-hsdpa.svg"><img src="network-mobile-40-hsdpa.svg" width="250"></a> | **network-mobile-40-hsdpa.svg**<br>Vector (SVG) | 863.00B |
-| <a href="network-mobile-40-hspa-locked.svg"><img src="network-mobile-40-hspa-locked.svg" width="250"></a> | **network-mobile-40-hspa-locked.svg**<br>Vector (SVG) | 1.19KB |
-| <a href="network-mobile-40-hspa.svg"><img src="network-mobile-40-hspa.svg" width="250"></a> | **network-mobile-40-hspa.svg**<br>Vector (SVG) | 842.00B |
-| <a href="network-mobile-40-hsupa-locked.svg"><img src="network-mobile-40-hsupa-locked.svg" width="250"></a> | **network-mobile-40-hsupa-locked.svg**<br>Vector (SVG) | 1.21KB |
-| <a href="network-mobile-40-hsupa.svg"><img src="network-mobile-40-hsupa.svg" width="250"></a> | **network-mobile-40-hsupa.svg**<br>Vector (SVG) | 858.00B |
-| <a href="network-mobile-40-locked.svg"><img src="network-mobile-40-locked.svg" width="250"></a> | **network-mobile-40-locked.svg**<br>Vector (SVG) | 1.04KB |
-| <a href="network-mobile-40-lte-locked.svg"><img src="network-mobile-40-lte-locked.svg" width="250"></a> | **network-mobile-40-lte-locked.svg**<br>Vector (SVG) | 1.17KB |
-| <a href="network-mobile-40-lte.svg"><img src="network-mobile-40-lte.svg" width="250"></a> | **network-mobile-40-lte.svg**<br>Vector (SVG) | 820.00B |
-| <a href="network-mobile-40-umts-locked.svg"><img src="network-mobile-40-umts-locked.svg" width="250"></a> | **network-mobile-40-umts-locked.svg**<br>Vector (SVG) | 1.18KB |
-| <a href="network-mobile-40-umts.svg"><img src="network-mobile-40-umts.svg" width="250"></a> | **network-mobile-40-umts.svg**<br>Vector (SVG) | 830.00B |
-| <a href="network-mobile-40.svg"><img src="network-mobile-40.svg" width="250"></a> | **network-mobile-40.svg**<br>Vector (SVG) | 683.00B |
-| <a href="network-mobile-60-5g-locked.svg"><img src="network-mobile-60-5g-locked.svg" width="250"></a> | **network-mobile-60-5g-locked.svg**<br>Vector (SVG) | 2.88KB |
-| <a href="network-mobile-60-5g.svg"><img src="network-mobile-60-5g.svg" width="250"></a> | **network-mobile-60-5g.svg**<br>Vector (SVG) | 2.50KB |
-| <a href="network-mobile-60-edge-locked.svg"><img src="network-mobile-60-edge-locked.svg" width="250"></a> | **network-mobile-60-edge-locked.svg**<br>Vector (SVG) | 1.21KB |
-| <a href="network-mobile-60-edge.svg"><img src="network-mobile-60-edge.svg" width="250"></a> | **network-mobile-60-edge.svg**<br>Vector (SVG) | 684.00B |
-| <a href="network-mobile-60-gprs-locked.svg"><img src="network-mobile-60-gprs-locked.svg" width="250"></a> | **network-mobile-60-gprs-locked.svg**<br>Vector (SVG) | 1.22KB |
-| <a href="network-mobile-60-gprs.svg"><img src="network-mobile-60-gprs.svg" width="250"></a> | **network-mobile-60-gprs.svg**<br>Vector (SVG) | 852.00B |
-| <a href="network-mobile-60-hsdpa-locked.svg"><img src="network-mobile-60-hsdpa-locked.svg" width="250"></a> | **network-mobile-60-hsdpa-locked.svg**<br>Vector (SVG) | 1.23KB |
-| <a href="network-mobile-60-hsdpa.svg"><img src="network-mobile-60-hsdpa.svg" width="250"></a> | **network-mobile-60-hsdpa.svg**<br>Vector (SVG) | 863.00B |
-| <a href="network-mobile-60-hspa-locked.svg"><img src="network-mobile-60-hspa-locked.svg" width="250"></a> | **network-mobile-60-hspa-locked.svg**<br>Vector (SVG) | 1.21KB |
-| <a href="network-mobile-60-hspa.svg"><img src="network-mobile-60-hspa.svg" width="250"></a> | **network-mobile-60-hspa.svg**<br>Vector (SVG) | 843.00B |
-| <a href="network-mobile-60-hsupa-locked.svg"><img src="network-mobile-60-hsupa-locked.svg" width="250"></a> | **network-mobile-60-hsupa-locked.svg**<br>Vector (SVG) | 1.22KB |
-| <a href="network-mobile-60-hsupa.svg"><img src="network-mobile-60-hsupa.svg" width="250"></a> | **network-mobile-60-hsupa.svg**<br>Vector (SVG) | 858.00B |
-| <a href="network-mobile-60-locked.svg"><img src="network-mobile-60-locked.svg" width="250"></a> | **network-mobile-60-locked.svg**<br>Vector (SVG) | 1.05KB |
-| <a href="network-mobile-60-lte-locked.svg"><img src="network-mobile-60-lte-locked.svg" width="250"></a> | **network-mobile-60-lte-locked.svg**<br>Vector (SVG) | 1.19KB |
-| <a href="network-mobile-60-lte.svg"><img src="network-mobile-60-lte.svg" width="250"></a> | **network-mobile-60-lte.svg**<br>Vector (SVG) | 820.00B |
-| <a href="network-mobile-60-umts-locked.svg"><img src="network-mobile-60-umts-locked.svg" width="250"></a> | **network-mobile-60-umts-locked.svg**<br>Vector (SVG) | 1.20KB |
-| <a href="network-mobile-60-umts.svg"><img src="network-mobile-60-umts.svg" width="250"></a> | **network-mobile-60-umts.svg**<br>Vector (SVG) | 830.00B |
-| <a href="network-mobile-60.svg"><img src="network-mobile-60.svg" width="250"></a> | **network-mobile-60.svg**<br>Vector (SVG) | 683.00B |
-| <a href="network-mobile-80-5g-locked.svg"><img src="network-mobile-80-5g-locked.svg" width="250"></a> | **network-mobile-80-5g-locked.svg**<br>Vector (SVG) | 2.88KB |
-| <a href="network-mobile-80-5g.svg"><img src="network-mobile-80-5g.svg" width="250"></a> | **network-mobile-80-5g.svg**<br>Vector (SVG) | 2.46KB |
-| <a href="network-mobile-80-edge-locked.svg"><img src="network-mobile-80-edge-locked.svg" width="250"></a> | **network-mobile-80-edge-locked.svg**<br>Vector (SVG) | 1.22KB |
-| <a href="network-mobile-80-edge.svg"><img src="network-mobile-80-edge.svg" width="250"></a> | **network-mobile-80-edge.svg**<br>Vector (SVG) | 848.00B |
-| <a href="network-mobile-80-gprs-locked.svg"><img src="network-mobile-80-gprs-locked.svg" width="250"></a> | **network-mobile-80-gprs-locked.svg**<br>Vector (SVG) | 1.23KB |
-| <a href="network-mobile-80-gprs.svg"><img src="network-mobile-80-gprs.svg" width="250"></a> | **network-mobile-80-gprs.svg**<br>Vector (SVG) | 852.00B |
-| <a href="network-mobile-80-hsdpa-locked.svg"><img src="network-mobile-80-hsdpa-locked.svg" width="250"></a> | **network-mobile-80-hsdpa-locked.svg**<br>Vector (SVG) | 1.24KB |
-| <a href="network-mobile-80-hsdpa.svg"><img src="network-mobile-80-hsdpa.svg" width="250"></a> | **network-mobile-80-hsdpa.svg**<br>Vector (SVG) | 863.00B |
-| <a href="network-mobile-80-hspa-locked.svg"><img src="network-mobile-80-hspa-locked.svg" width="250"></a> | **network-mobile-80-hspa-locked.svg**<br>Vector (SVG) | 1.22KB |
-| <a href="network-mobile-80-hspa.svg"><img src="network-mobile-80-hspa.svg" width="250"></a> | **network-mobile-80-hspa.svg**<br>Vector (SVG) | 842.00B |
-| <a href="network-mobile-80-hsupa-locked.svg"><img src="network-mobile-80-hsupa-locked.svg" width="250"></a> | **network-mobile-80-hsupa-locked.svg**<br>Vector (SVG) | 1.24KB |
-| <a href="network-mobile-80-hsupa.svg"><img src="network-mobile-80-hsupa.svg" width="250"></a> | **network-mobile-80-hsupa.svg**<br>Vector (SVG) | 858.00B |
-| <a href="network-mobile-80-locked.svg"><img src="network-mobile-80-locked.svg" width="250"></a> | **network-mobile-80-locked.svg**<br>Vector (SVG) | 1.07KB |
-| <a href="network-mobile-80-lte-locked.svg"><img src="network-mobile-80-lte-locked.svg" width="250"></a> | **network-mobile-80-lte-locked.svg**<br>Vector (SVG) | 1.20KB |
-| <a href="network-mobile-80-lte.svg"><img src="network-mobile-80-lte.svg" width="250"></a> | **network-mobile-80-lte.svg**<br>Vector (SVG) | 820.00B |
-| <a href="network-mobile-80-umts-locked.svg"><img src="network-mobile-80-umts-locked.svg" width="250"></a> | **network-mobile-80-umts-locked.svg**<br>Vector (SVG) | 1.21KB |
-| <a href="network-mobile-80-umts.svg"><img src="network-mobile-80-umts.svg" width="250"></a> | **network-mobile-80-umts.svg**<br>Vector (SVG) | 830.00B |
-| <a href="network-mobile-80.svg"><img src="network-mobile-80.svg" width="250"></a> | **network-mobile-80.svg**<br>Vector (SVG) | 683.00B |
-| <a href="network-mobile-available.svg"><img src="network-mobile-available.svg" width="250"></a> | **network-mobile-available.svg**<br>Vector (SVG) | 465.00B |
-| <a href="network-mobile-off.svg"><img src="network-mobile-off.svg" width="250"></a> | **network-mobile-off.svg**<br>Vector (SVG) | 1009.00B |
-| <a href="network-unavailable.svg"><img src="network-unavailable.svg" width="250"></a> | **network-unavailable.svg**<br>Vector (SVG) | 2.25KB |
-| <a href="network-vpn.svg"><img src="network-vpn.svg" width="250"></a> | **network-vpn.svg**<br>Vector (SVG) | 2.29KB |
-| <a href="network-wired-activated-limited.svg"><img src="network-wired-activated-limited.svg" width="250"></a> | **network-wired-activated-limited.svg**<br>Vector (SVG) | 2.00KB |
-| <a href="network-wired-activated-locked.svg"><img src="network-wired-activated-locked.svg" width="250"></a> | **network-wired-activated-locked.svg**<br>Vector (SVG) | 1.96KB |
-| <a href="network-wired-activated.svg"><img src="network-wired-activated.svg" width="250"></a> | **network-wired-activated.svg**<br>Vector (SVG) | 675.00B |
-| <a href="network-wired-available.svg"><img src="network-wired-available.svg" width="250"></a> | **network-wired-available.svg**<br>Vector (SVG) | 630.00B |
-| <a href="network-wired-unavailable.svg"><img src="network-wired-unavailable.svg" width="250"></a> | **network-wired-unavailable.svg**<br>Vector (SVG) | 810.00B |
-| <a href="network-wired.svg"><img src="network-wired.svg" width="250"></a> | **network-wired.svg**<br>Vector (SVG) | 1.79KB |
-| <a href="network-wireless-0-limited.svg"><img src="network-wireless-0-limited.svg" width="250"></a> | **network-wireless-0-limited.svg**<br>Vector (SVG) | 3.04KB |
-| <a href="network-wireless-0-locked.svg"><img src="network-wireless-0-locked.svg" width="250"></a> | **network-wireless-0-locked.svg**<br>Vector (SVG) | 3.31KB |
-| <a href="network-wireless-0.svg"><img src="network-wireless-0.svg" width="250"></a> | **network-wireless-0.svg**<br>Vector (SVG) | 2.85KB |
-| <a href="network-wireless-100-limited.svg"><img src="network-wireless-100-limited.svg" width="250"></a> | **network-wireless-100-limited.svg**<br>Vector (SVG) | 3.25KB |
-| <a href="network-wireless-100-locked.svg"><img src="network-wireless-100-locked.svg" width="250"></a> | **network-wireless-100-locked.svg**<br>Vector (SVG) | 3.29KB |
-| <a href="network-wireless-100.svg"><img src="network-wireless-100.svg" width="250"></a> | **network-wireless-100.svg**<br>Vector (SVG) | 2.85KB |
-| <a href="network-wireless-20-limited.svg"><img src="network-wireless-20-limited.svg" width="250"></a> | **network-wireless-20-limited.svg**<br>Vector (SVG) | 3.04KB |
-| <a href="network-wireless-20-locked.svg"><img src="network-wireless-20-locked.svg" width="250"></a> | **network-wireless-20-locked.svg**<br>Vector (SVG) | 3.29KB |
-| <a href="network-wireless-20.svg"><img src="network-wireless-20.svg" width="250"></a> | **network-wireless-20.svg**<br>Vector (SVG) | 2.85KB |
-| <a href="network-wireless-40-limited.svg"><img src="network-wireless-40-limited.svg" width="250"></a> | **network-wireless-40-limited.svg**<br>Vector (SVG) | 3.04KB |
-| <a href="network-wireless-40-locked.svg"><img src="network-wireless-40-locked.svg" width="250"></a> | **network-wireless-40-locked.svg**<br>Vector (SVG) | 3.29KB |
-| <a href="network-wireless-40.svg"><img src="network-wireless-40.svg" width="250"></a> | **network-wireless-40.svg**<br>Vector (SVG) | 2.84KB |
-| <a href="network-wireless-60-limited.svg"><img src="network-wireless-60-limited.svg" width="250"></a> | **network-wireless-60-limited.svg**<br>Vector (SVG) | 3.04KB |
-| <a href="network-wireless-60-locked.svg"><img src="network-wireless-60-locked.svg" width="250"></a> | **network-wireless-60-locked.svg**<br>Vector (SVG) | 3.28KB |
-| <a href="network-wireless-60.svg"><img src="network-wireless-60.svg" width="250"></a> | **network-wireless-60.svg**<br>Vector (SVG) | 2.83KB |
-| <a href="network-wireless-80-limited.svg"><img src="network-wireless-80-limited.svg" width="250"></a> | **network-wireless-80-limited.svg**<br>Vector (SVG) | 3.02KB |
-| <a href="network-wireless-80-locked.svg"><img src="network-wireless-80-locked.svg" width="250"></a> | **network-wireless-80-locked.svg**<br>Vector (SVG) | 3.27KB |
-| <a href="network-wireless-80.svg"><img src="network-wireless-80.svg" width="250"></a> | **network-wireless-80.svg**<br>Vector (SVG) | 2.82KB |
-| <a href="network-wireless-acquiring.svg"><img src="network-wireless-acquiring.svg" width="250"></a> | **network-wireless-acquiring.svg**<br>Vector (SVG) | 1.97KB |
-| <a href="network-wireless-available.svg"><img src="network-wireless-available.svg" width="250"></a> | **network-wireless-available.svg**<br>Vector (SVG) | 3.72KB |
-| <a href="network-wireless-bluetooth-symbolic.svg"><img src="network-wireless-bluetooth-symbolic.svg" width="250"></a> | **network-wireless-bluetooth-symbolic.svg**<br>Vector (SVG) | 2.58KB |
-| <a href="network-wireless-connected-00.svg"><img src="network-wireless-connected-00.svg" width="250"></a> | **network-wireless-connected-00.svg**<br>Vector (SVG) | 1.39KB |
-| <a href="network-wireless-connected-100.svg"><img src="network-wireless-connected-100.svg" width="250"></a> | **network-wireless-connected-100.svg**<br>Vector (SVG) | 1.32KB |
-| <a href="network-wireless-connected-20.svg"><img src="network-wireless-connected-20.svg" width="250"></a> | **network-wireless-connected-20.svg**<br>Vector (SVG) | 2.87KB |
-| <a href="network-wireless-connected-25.svg"><img src="network-wireless-connected-25.svg" width="250"></a> | **network-wireless-connected-25.svg**<br>Vector (SVG) | 1.62KB |
-| <a href="network-wireless-connected-40.svg"><img src="network-wireless-connected-40.svg" width="250"></a> | **network-wireless-connected-40.svg**<br>Vector (SVG) | 2.86KB |
-| <a href="network-wireless-connected-50.svg"><img src="network-wireless-connected-50.svg" width="250"></a> | **network-wireless-connected-50.svg**<br>Vector (SVG) | 1.47KB |
-| <a href="network-wireless-connected-60.svg"><img src="network-wireless-connected-60.svg" width="250"></a> | **network-wireless-connected-60.svg**<br>Vector (SVG) | 2.86KB |
-| <a href="network-wireless-connected-75.svg"><img src="network-wireless-connected-75.svg" width="250"></a> | **network-wireless-connected-75.svg**<br>Vector (SVG) | 1.59KB |
-| <a href="network-wireless-connected-80.svg"><img src="network-wireless-connected-80.svg" width="250"></a> | **network-wireless-connected-80.svg**<br>Vector (SVG) | 2.85KB |
-| <a href="network-wireless-disconnected.svg"><img src="network-wireless-disconnected.svg" width="250"></a> | **network-wireless-disconnected.svg**<br>Vector (SVG) | 1.71KB |
-| <a href="network-wireless-off.svg"><img src="network-wireless-off.svg" width="250"></a> | **network-wireless-off.svg**<br>Vector (SVG) | 3.79KB |
-| <a href="network-wireless-on.svg"><img src="network-wireless-on.svg" width="250"></a> | **network-wireless-on.svg**<br>Vector (SVG) | 2.86KB |
-| <a href="plasmavault_error.svg"><img src="plasmavault_error.svg" width="250"></a> | **plasmavault_error.svg**<br>Vector (SVG) | 1.01KB |
-| <a href="redshift-status-day.svg"><img src="redshift-status-day.svg" width="250"></a> | **redshift-status-day.svg**<br>Vector (SVG) | 2.97KB |
-| <a href="redshift-status-off.svg"><img src="redshift-status-off.svg" width="250"></a> | **redshift-status-off.svg**<br>Vector (SVG) | 2.57KB |
-| <a href="redshift-status-on.svg"><img src="redshift-status-on.svg" width="250"></a> | **redshift-status-on.svg**<br>Vector (SVG) | 2.57KB |
-| <a href="rotation-allowed.svg"><img src="rotation-allowed.svg" width="250"></a> | **rotation-allowed.svg**<br>Vector (SVG) | 1007.00B |
-| <a href="rotation-locked-landscape.svg"><img src="rotation-locked-landscape.svg" width="250"></a> | **rotation-locked-landscape.svg**<br>Vector (SVG) | 511.00B |
-| <a href="rotation-locked-portrait.svg"><img src="rotation-locked-portrait.svg" width="250"></a> | **rotation-locked-portrait.svg**<br>Vector (SVG) | 510.00B |
-| <a href="security-high.svg"><img src="security-high.svg" width="250"></a> | **security-high.svg**<br>Vector (SVG) | 1.80KB |
-| <a href="security-low.svg"><img src="security-low.svg" width="250"></a> | **security-low.svg**<br>Vector (SVG) | 1.45KB |
-| <a href="security-medium.svg"><img src="security-medium.svg" width="250"></a> | **security-medium.svg**<br>Vector (SVG) | 1.96KB |
-| <a href="showinfo-hover.svg"><img src="showinfo-hover.svg" width="250"></a> | **showinfo-hover.svg**<br>Vector (SVG) | 2.16KB |
-| <a href="showinfo.svg"><img src="showinfo.svg" width="250"></a> | **showinfo.svg**<br>Vector (SVG) | 2.13KB |
-| <a href="smartphoneconnected.svg"><img src="smartphoneconnected.svg" width="250"></a> | **smartphoneconnected.svg**<br>Vector (SVG) | 927.00B |
-| <a href="smartphonedisconnected.svg"><img src="smartphonedisconnected.svg" width="250"></a> | **smartphonedisconnected.svg**<br>Vector (SVG) | 1.24KB |
-| <a href="smartphonetrusted.svg"><img src="smartphonetrusted.svg" width="250"></a> | **smartphonetrusted.svg**<br>Vector (SVG) | 1.38KB |
-| <a href="state-download.svg"><img src="state-download.svg" width="250"></a> | **state-download.svg**<br>Vector (SVG) | 1.23KB |
-| <a href="state-error.svg"><img src="state-error.svg" width="250"></a> | **state-error.svg**<br>Vector (SVG) | 1.26KB |
-| <a href="state-information.svg"><img src="state-information.svg" width="250"></a> | **state-information.svg**<br>Vector (SVG) | 1.46KB |
-| <a href="state-offline.svg"><img src="state-offline.svg" width="250"></a> | **state-offline.svg**<br>Vector (SVG) | 1.41KB |
-| <a href="state-ok.svg"><img src="state-ok.svg" width="250"></a> | **state-ok.svg**<br>Vector (SVG) | 1.12KB |
-| <a href="state-pause.svg"><img src="state-pause.svg" width="250"></a> | **state-pause.svg**<br>Vector (SVG) | 1.47KB |
-| <a href="state-sync.svg"><img src="state-sync.svg" width="250"></a> | **state-sync.svg**<br>Vector (SVG) | 1.59KB |
-| <a href="state-warning.svg"><img src="state-warning.svg" width="250"></a> | **state-warning.svg**<br>Vector (SVG) | 1.62KB |
-| <a href="task-complete.svg"><img src="task-complete.svg" width="250"></a> | **task-complete.svg**<br>Vector (SVG) | 631.00B |
-| <a href="task-process-0.svg"><img src="task-process-0.svg" width="250"></a> | **task-process-0.svg**<br>Vector (SVG) | 491.00B |
-| <a href="task-process-1.svg"><img src="task-process-1.svg" width="250"></a> | **task-process-1.svg**<br>Vector (SVG) | 531.00B |
-| <a href="task-process-2.svg"><img src="task-process-2.svg" width="250"></a> | **task-process-2.svg**<br>Vector (SVG) | 463.00B |
-| <a href="task-process-3.svg"><img src="task-process-3.svg" width="250"></a> | **task-process-3.svg**<br>Vector (SVG) | 452.00B |
-| <a href="task-process-4.svg"><img src="task-process-4.svg" width="250"></a> | **task-process-4.svg**<br>Vector (SVG) | 428.00B |
-| <a href="telegram-attention-panel.svg"><img src="telegram-attention-panel.svg" width="250"></a> | **telegram-attention-panel.svg**<br>Vector (SVG) | 2.09KB |
-| <a href="telegram-mute-panel.svg"><img src="telegram-mute-panel.svg" width="250"></a> | **telegram-mute-panel.svg**<br>Vector (SVG) | 2.04KB |
-| <a href="telegram-panel.svg"><img src="telegram-panel.svg" width="250"></a> | **telegram-panel.svg**<br>Vector (SVG) | 2.01KB |
-| <a href="temperature-cold.svg"><img src="temperature-cold.svg" width="250"></a> | **temperature-cold.svg**<br>Vector (SVG) | 900.00B |
-| <a href="temperature-normal.svg"><img src="temperature-normal.svg" width="250"></a> | **temperature-normal.svg**<br>Vector (SVG) | 912.00B |
-| <a href="temperature-warm.svg"><img src="temperature-warm.svg" width="250"></a> | **temperature-warm.svg**<br>Vector (SVG) | 908.00B |
-| <a href="touchpad_disabled.svg"><img src="touchpad_disabled.svg" width="250"></a> | **touchpad_disabled.svg**<br>Vector (SVG) | 2.02KB |
-| <a href="touchpad_enabled.svg"><img src="touchpad_enabled.svg" width="250"></a> | **touchpad_enabled.svg**<br>Vector (SVG) | 1.72KB |
-| <a href="transmission-tray-icon.svg"><img src="transmission-tray-icon.svg" width="250"></a> | **transmission-tray-icon.svg**<br>Vector (SVG) | 872.00B |
-| <a href="uninstall.svg"><img src="uninstall.svg" width="250"></a> | **uninstall.svg**<br>Vector (SVG) | 1.25KB |
-| <a href="update-high.svg"><img src="update-high.svg" width="250"></a> | **update-high.svg**<br>Vector (SVG) | 1.09KB |
-| <a href="update-low.svg"><img src="update-low.svg" width="250"></a> | **update-low.svg**<br>Vector (SVG) | 1.07KB |
-| <a href="update-medium.svg"><img src="update-medium.svg" width="250"></a> | **update-medium.svg**<br>Vector (SVG) | 1.07KB |
-| <a href="update-none.svg"><img src="update-none.svg" width="250"></a> | **update-none.svg**<br>Vector (SVG) | 614.00B |
-| <a href="user-idle.svg"><img src="user-idle.svg" width="250"></a> | **user-idle.svg**<br>Vector (SVG) | 5.07KB |
-| <a href="video-card-inactive.svg"><img src="video-card-inactive.svg" width="250"></a> | **video-card-inactive.svg**<br>Vector (SVG) | 1.54KB |
-| <a href="wallet-closed.svg"><img src="wallet-closed.svg" width="250"></a> | **wallet-closed.svg**<br>Vector (SVG) | 1.83KB |
-| <a href="wallet-open.svg"><img src="wallet-open.svg" width="250"></a> | **wallet-open.svg**<br>Vector (SVG) | 2.00KB |
+| <a href="apport.svg"><img src="apport.svg" width="250"></a> | **apport.svg** |
+| <a href="audio-on.svg"><img src="audio-on.svg" width="250"></a> | **audio-on.svg** |
+| <a href="audio-ready.svg"><img src="audio-ready.svg" width="250"></a> | **audio-ready.svg** |
+| <a href="audio-volume-high-danger.svg"><img src="audio-volume-high-danger.svg" width="250"></a> | **audio-volume-high-danger.svg** |
+| <a href="audio-volume-high-warning.svg"><img src="audio-volume-high-warning.svg" width="250"></a> | **audio-volume-high-warning.svg** |
+| <a href="audio-volume-high.svg"><img src="audio-volume-high.svg" width="250"></a> | **audio-volume-high.svg** |
+| <a href="audio-volume-low.svg"><img src="audio-volume-low.svg" width="250"></a> | **audio-volume-low.svg** |
+| <a href="audio-volume-medium.svg"><img src="audio-volume-medium.svg" width="250"></a> | **audio-volume-medium.svg** |
+| <a href="audio-volume-muted.svg"><img src="audio-volume-muted.svg" width="250"></a> | **audio-volume-muted.svg** |
+| <a href="auth-sim-locked.svg"><img src="auth-sim-locked.svg" width="250"></a> | **auth-sim-locked.svg** |
+| <a href="auth-sim-missing.svg"><img src="auth-sim-missing.svg" width="250"></a> | **auth-sim-missing.svg** |
+| <a href="battery-000-charging.svg"><img src="battery-000-charging.svg" width="250"></a> | **battery-000-charging.svg** |
+| <a href="battery-000.svg"><img src="battery-000.svg" width="250"></a> | **battery-000.svg** |
+| <a href="battery-010-charging.svg"><img src="battery-010-charging.svg" width="250"></a> | **battery-010-charging.svg** |
+| <a href="battery-010.svg"><img src="battery-010.svg" width="250"></a> | **battery-010.svg** |
+| <a href="battery-020-charging.svg"><img src="battery-020-charging.svg" width="250"></a> | **battery-020-charging.svg** |
+| <a href="battery-020.svg"><img src="battery-020.svg" width="250"></a> | **battery-020.svg** |
+| <a href="battery-030-charging.svg"><img src="battery-030-charging.svg" width="250"></a> | **battery-030-charging.svg** |
+| <a href="battery-030.svg"><img src="battery-030.svg" width="250"></a> | **battery-030.svg** |
+| <a href="battery-040-charging.svg"><img src="battery-040-charging.svg" width="250"></a> | **battery-040-charging.svg** |
+| <a href="battery-040.svg"><img src="battery-040.svg" width="250"></a> | **battery-040.svg** |
+| <a href="battery-050-charging.svg"><img src="battery-050-charging.svg" width="250"></a> | **battery-050-charging.svg** |
+| <a href="battery-050.svg"><img src="battery-050.svg" width="250"></a> | **battery-050.svg** |
+| <a href="battery-060-charging.svg"><img src="battery-060-charging.svg" width="250"></a> | **battery-060-charging.svg** |
+| <a href="battery-060.svg"><img src="battery-060.svg" width="250"></a> | **battery-060.svg** |
+| <a href="battery-070-charging.svg"><img src="battery-070-charging.svg" width="250"></a> | **battery-070-charging.svg** |
+| <a href="battery-070.svg"><img src="battery-070.svg" width="250"></a> | **battery-070.svg** |
+| <a href="battery-080-charging.svg"><img src="battery-080-charging.svg" width="250"></a> | **battery-080-charging.svg** |
+| <a href="battery-080.svg"><img src="battery-080.svg" width="250"></a> | **battery-080.svg** |
+| <a href="battery-090-charging.svg"><img src="battery-090-charging.svg" width="250"></a> | **battery-090-charging.svg** |
+| <a href="battery-090.svg"><img src="battery-090.svg" width="250"></a> | **battery-090.svg** |
+| <a href="battery-100-charging.svg"><img src="battery-100-charging.svg" width="250"></a> | **battery-100-charging.svg** |
+| <a href="battery-100.svg"><img src="battery-100.svg" width="250"></a> | **battery-100.svg** |
+| <a href="battery-missing.svg"><img src="battery-missing.svg" width="250"></a> | **battery-missing.svg** |
+| <a href="battery-profile-performance.svg"><img src="battery-profile-performance.svg" width="250"></a> | **battery-profile-performance.svg** |
+| <a href="battery-profile-powersave.svg"><img src="battery-profile-powersave.svg" width="250"></a> | **battery-profile-powersave.svg** |
+| <a href="call-incoming.svg"><img src="call-incoming.svg" width="250"></a> | **call-incoming.svg** |
+| <a href="call-missed.svg"><img src="call-missed.svg" width="250"></a> | **call-missed.svg** |
+| <a href="call-outgoing.svg"><img src="call-outgoing.svg" width="250"></a> | **call-outgoing.svg** |
+| <a href="camera-off.svg"><img src="camera-off.svg" width="250"></a> | **camera-off.svg** |
+| <a href="camera-on.svg"><img src="camera-on.svg" width="250"></a> | **camera-on.svg** |
+| <a href="camera-ready.svg"><img src="camera-ready.svg" width="250"></a> | **camera-ready.svg** |
+| <a href="data-error.svg"><img src="data-error.svg" width="250"></a> | **data-error.svg** |
+| <a href="data-information.svg"><img src="data-information.svg" width="250"></a> | **data-information.svg** |
+| <a href="data-success.svg"><img src="data-success.svg" width="250"></a> | **data-success.svg** |
+| <a href="data-warning.svg"><img src="data-warning.svg" width="250"></a> | **data-warning.svg** |
+| <a href="dialog-error.svg"><img src="dialog-error.svg" width="250"></a> | **dialog-error.svg** |
+| <a href="dialog-information.svg"><img src="dialog-information.svg" width="250"></a> | **dialog-information.svg** |
+| <a href="dialog-password.svg"><img src="dialog-password.svg" width="250"></a> | **dialog-password.svg** |
+| <a href="dialog-positive.svg"><img src="dialog-positive.svg" width="250"></a> | **dialog-positive.svg** |
+| <a href="dialog-question.svg"><img src="dialog-question.svg" width="250"></a> | **dialog-question.svg** |
+| <a href="dialog-warning.svg"><img src="dialog-warning.svg" width="250"></a> | **dialog-warning.svg** |
+| <a href="disk-quota-critical.svg"><img src="disk-quota-critical.svg" width="250"></a> | **disk-quota-critical.svg** |
+| <a href="disk-quota-high.svg"><img src="disk-quota-high.svg" width="250"></a> | **disk-quota-high.svg** |
+| <a href="disk-quota-low.svg"><img src="disk-quota-low.svg" width="250"></a> | **disk-quota-low.svg** |
+| <a href="disk-quota.svg"><img src="disk-quota.svg" width="250"></a> | **disk-quota.svg** |
+| <a href="dropboxstatus-busy.svg"><img src="dropboxstatus-busy.svg" width="250"></a> | **dropboxstatus-busy.svg** |
+| <a href="dropboxstatus-idle.svg"><img src="dropboxstatus-idle.svg" width="250"></a> | **dropboxstatus-idle.svg** |
+| <a href="dropboxstatus-logo.svg"><img src="dropboxstatus-logo.svg" width="250"></a> | **dropboxstatus-logo.svg** |
+| <a href="dropboxstatus-x.svg"><img src="dropboxstatus-x.svg" width="250"></a> | **dropboxstatus-x.svg** |
+| <a href="fcitx-anthy.svg"><img src="fcitx-anthy.svg" width="250"></a> | **fcitx-anthy.svg** |
+| <a href="fcitx-bopomofo-libpinyin.svg"><img src="fcitx-bopomofo-libpinyin.svg" width="250"></a> | **fcitx-bopomofo-libpinyin.svg** |
+| <a href="fcitx-bopomofo.svg"><img src="fcitx-bopomofo.svg" width="250"></a> | **fcitx-bopomofo.svg** |
+| <a href="fcitx-cangjie.svg"><img src="fcitx-cangjie.svg" width="250"></a> | **fcitx-cangjie.svg** |
+| <a href="fcitx-chewing-libpinyin.svg"><img src="fcitx-chewing-libpinyin.svg" width="250"></a> | **fcitx-chewing-libpinyin.svg** |
+| <a href="fcitx-chewing.svg"><img src="fcitx-chewing.svg" width="250"></a> | **fcitx-chewing.svg** |
+| <a href="fcitx-chttrans-active.svg"><img src="fcitx-chttrans-active.svg" width="250"></a> | **fcitx-chttrans-active.svg** |
+| <a href="fcitx-chttrans-inactive.svg"><img src="fcitx-chttrans-inactive.svg" width="250"></a> | **fcitx-chttrans-inactive.svg** |
+| <a href="fcitx-emoji.svg"><img src="fcitx-emoji.svg" width="250"></a> | **fcitx-emoji.svg** |
+| <a href="fcitx-erbi.svg"><img src="fcitx-erbi.svg" width="250"></a> | **fcitx-erbi.svg** |
+| <a href="fcitx-fullwidth-active.svg"><img src="fcitx-fullwidth-active.svg" width="250"></a> | **fcitx-fullwidth-active.svg** |
+| <a href="fcitx-fullwidth-inactive.svg"><img src="fcitx-fullwidth-inactive.svg" width="250"></a> | **fcitx-fullwidth-inactive.svg** |
+| <a href="fcitx-googlepinyin.svg"><img src="fcitx-googlepinyin.svg" width="250"></a> | **fcitx-googlepinyin.svg** |
+| <a href="fcitx-handwriting-active.svg"><img src="fcitx-handwriting-active.svg" width="250"></a> | **fcitx-handwriting-active.svg** |
+| <a href="fcitx-handwriting-inactive.svg"><img src="fcitx-handwriting-inactive.svg" width="250"></a> | **fcitx-handwriting-inactive.svg** |
+| <a href="fcitx-hangul.svg"><img src="fcitx-hangul.svg" width="250"></a> | **fcitx-hangul.svg** |
+| <a href="fcitx-kbd.svg"><img src="fcitx-kbd.svg" width="250"></a> | **fcitx-kbd.svg** |
+| <a href="fcitx-libkkc.svg"><img src="fcitx-libkkc.svg" width="250"></a> | **fcitx-libkkc.svg** |
+| <a href="fcitx-libskk.svg"><img src="fcitx-libskk.svg" width="250"></a> | **fcitx-libskk.svg** |
+| <a href="fcitx-pinyin-libpinyin.svg"><img src="fcitx-pinyin-libpinyin.svg" width="250"></a> | **fcitx-pinyin-libpinyin.svg** |
+| <a href="fcitx-pinyin.svg"><img src="fcitx-pinyin.svg" width="250"></a> | **fcitx-pinyin.svg** |
+| <a href="fcitx-punc-active.svg"><img src="fcitx-punc-active.svg" width="250"></a> | **fcitx-punc-active.svg** |
+| <a href="fcitx-punc-inactive.svg"><img src="fcitx-punc-inactive.svg" width="250"></a> | **fcitx-punc-inactive.svg** |
+| <a href="fcitx-quanpin-libpinyin.svg"><img src="fcitx-quanpin-libpinyin.svg" width="250"></a> | **fcitx-quanpin-libpinyin.svg** |
+| <a href="fcitx-quanpin.svg"><img src="fcitx-quanpin.svg" width="250"></a> | **fcitx-quanpin.svg** |
+| <a href="fcitx-remind-active.svg"><img src="fcitx-remind-active.svg" width="250"></a> | **fcitx-remind-active.svg** |
+| <a href="fcitx-remind-inactive.svg"><img src="fcitx-remind-inactive.svg" width="250"></a> | **fcitx-remind-inactive.svg** |
+| <a href="fcitx-rime.svg"><img src="fcitx-rime.svg" width="250"></a> | **fcitx-rime.svg** |
+| <a href="fcitx-shuangpin-libpinyin.svg"><img src="fcitx-shuangpin-libpinyin.svg" width="250"></a> | **fcitx-shuangpin-libpinyin.svg** |
+| <a href="fcitx-shuangpin.svg"><img src="fcitx-shuangpin.svg" width="250"></a> | **fcitx-shuangpin.svg** |
+| <a href="fcitx-sunpinyin.svg"><img src="fcitx-sunpinyin.svg" width="250"></a> | **fcitx-sunpinyin.svg** |
+| <a href="fcitx-unikey.svg"><img src="fcitx-unikey.svg" width="250"></a> | **fcitx-unikey.svg** |
+| <a href="fcitx-vk-active.svg"><img src="fcitx-vk-active.svg" width="250"></a> | **fcitx-vk-active.svg** |
+| <a href="fcitx-vk-inactive.svg"><img src="fcitx-vk-inactive.svg" width="250"></a> | **fcitx-vk-inactive.svg** |
+| <a href="fcitx-wbpy.svg"><img src="fcitx-wbpy.svg" width="250"></a> | **fcitx-wbpy.svg** |
+| <a href="fcitx-wubi.svg"><img src="fcitx-wubi.svg" width="250"></a> | **fcitx-wubi.svg** |
+| <a href="fcitx-ziranma.svg"><img src="fcitx-ziranma.svg" width="250"></a> | **fcitx-ziranma.svg** |
+| <a href="fcitx.svg"><img src="fcitx.svg" width="250"></a> | **fcitx.svg** |
+| <a href="firewall-applet-error.svg"><img src="firewall-applet-error.svg" width="250"></a> | **firewall-applet-error.svg** |
+| <a href="firewall-applet-panic.svg"><img src="firewall-applet-panic.svg" width="250"></a> | **firewall-applet-panic.svg** |
+| <a href="firewall-applet-shields_up.svg"><img src="firewall-applet-shields_up.svg" width="250"></a> | **firewall-applet-shields_up.svg** |
+| <a href="firewall-applet.svg"><img src="firewall-applet.svg" width="250"></a> | **firewall-applet.svg** |
+| <a href="flameshot-tray.svg"><img src="flameshot-tray.svg" width="250"></a> | **flameshot-tray.svg** |
+| <a href="flightmode-off.svg"><img src="flightmode-off.svg" width="250"></a> | **flightmode-off.svg** |
+| <a href="flightmode-on.svg"><img src="flightmode-on.svg" width="250"></a> | **flightmode-on.svg** |
+| <a href="haguichi-connected.svg"><img src="haguichi-connected.svg" width="250"></a> | **haguichi-connected.svg** |
+| <a href="haguichi-connecting-1.svg"><img src="haguichi-connecting-1.svg" width="250"></a> | **haguichi-connecting-1.svg** |
+| <a href="haguichi-connecting-2.svg"><img src="haguichi-connecting-2.svg" width="250"></a> | **haguichi-connecting-2.svg** |
+| <a href="haguichi-connecting-3.svg"><img src="haguichi-connecting-3.svg" width="250"></a> | **haguichi-connecting-3.svg** |
+| <a href="haguichi-disconnected.svg"><img src="haguichi-disconnected.svg" width="250"></a> | **haguichi-disconnected.svg** |
+| <a href="image-missing.svg"><img src="image-missing.svg" width="250"></a> | **image-missing.svg** |
+| <a href="ime-anthy.svg"><img src="ime-anthy.svg" width="250"></a> | **ime-anthy.svg** |
+| <a href="ime-bopomofo.svg"><img src="ime-bopomofo.svg" width="250"></a> | **ime-bopomofo.svg** |
+| <a href="ime-cangjie.svg"><img src="ime-cangjie.svg" width="250"></a> | **ime-cangjie.svg** |
+| <a href="ime-chewing.svg"><img src="ime-chewing.svg" width="250"></a> | **ime-chewing.svg** |
+| <a href="ime-chinese-simplified.svg"><img src="ime-chinese-simplified.svg" width="250"></a> | **ime-chinese-simplified.svg** |
+| <a href="ime-chinese-traditional.svg"><img src="ime-chinese-traditional.svg" width="250"></a> | **ime-chinese-traditional.svg** |
+| <a href="ime-emoji.svg"><img src="ime-emoji.svg" width="250"></a> | **ime-emoji.svg** |
+| <a href="ime-erbi.svg"><img src="ime-erbi.svg" width="250"></a> | **ime-erbi.svg** |
+| <a href="ime-fullwidth.svg"><img src="ime-fullwidth.svg" width="250"></a> | **ime-fullwidth.svg** |
+| <a href="ime-googlepinyin.svg"><img src="ime-googlepinyin.svg" width="250"></a> | **ime-googlepinyin.svg** |
+| <a href="ime-halfwidth.svg"><img src="ime-halfwidth.svg" width="250"></a> | **ime-halfwidth.svg** |
+| <a href="ime-handwriting-off.svg"><img src="ime-handwriting-off.svg" width="250"></a> | **ime-handwriting-off.svg** |
+| <a href="ime-handwriting-on.svg"><img src="ime-handwriting-on.svg" width="250"></a> | **ime-handwriting-on.svg** |
+| <a href="ime-hangul.svg"><img src="ime-hangul.svg" width="250"></a> | **ime-hangul.svg** |
+| <a href="ime-libkkc.svg"><img src="ime-libkkc.svg" width="250"></a> | **ime-libkkc.svg** |
+| <a href="ime-libpinyin-bopomofo.svg"><img src="ime-libpinyin-bopomofo.svg" width="250"></a> | **ime-libpinyin-bopomofo.svg** |
+| <a href="ime-libpinyin-chewing.svg"><img src="ime-libpinyin-chewing.svg" width="250"></a> | **ime-libpinyin-chewing.svg** |
+| <a href="ime-libpinyin-pinyin.svg"><img src="ime-libpinyin-pinyin.svg" width="250"></a> | **ime-libpinyin-pinyin.svg** |
+| <a href="ime-libpinyin-quanpin.svg"><img src="ime-libpinyin-quanpin.svg" width="250"></a> | **ime-libpinyin-quanpin.svg** |
+| <a href="ime-libpinyin-shuangpin.svg"><img src="ime-libpinyin-shuangpin.svg" width="250"></a> | **ime-libpinyin-shuangpin.svg** |
+| <a href="ime-libskk.svg"><img src="ime-libskk.svg" width="250"></a> | **ime-libskk.svg** |
+| <a href="ime-pinyin.svg"><img src="ime-pinyin.svg" width="250"></a> | **ime-pinyin.svg** |
+| <a href="ime-punctuation-fullwidth.svg"><img src="ime-punctuation-fullwidth.svg" width="250"></a> | **ime-punctuation-fullwidth.svg** |
+| <a href="ime-punctuation-halfwidth.svg"><img src="ime-punctuation-halfwidth.svg" width="250"></a> | **ime-punctuation-halfwidth.svg** |
+| <a href="ime-quanpin.svg"><img src="ime-quanpin.svg" width="250"></a> | **ime-quanpin.svg** |
+| <a href="ime-remind-off.svg"><img src="ime-remind-off.svg" width="250"></a> | **ime-remind-off.svg** |
+| <a href="ime-remind-on.svg"><img src="ime-remind-on.svg" width="250"></a> | **ime-remind-on.svg** |
+| <a href="ime-rime.svg"><img src="ime-rime.svg" width="250"></a> | **ime-rime.svg** |
+| <a href="ime-shuangpin.svg"><img src="ime-shuangpin.svg" width="250"></a> | **ime-shuangpin.svg** |
+| <a href="ime-sunpinyin.svg"><img src="ime-sunpinyin.svg" width="250"></a> | **ime-sunpinyin.svg** |
+| <a href="ime-unikey.svg"><img src="ime-unikey.svg" width="250"></a> | **ime-unikey.svg** |
+| <a href="ime-wubi.svg"><img src="ime-wubi.svg" width="250"></a> | **ime-wubi.svg** |
+| <a href="ime-wubipinyin.svg"><img src="ime-wubipinyin.svg" width="250"></a> | **ime-wubipinyin.svg** |
+| <a href="ime-ziranma.svg"><img src="ime-ziranma.svg" width="250"></a> | **ime-ziranma.svg** |
+| <a href="input-caps-on.svg"><img src="input-caps-on.svg" width="250"></a> | **input-caps-on.svg** |
+| <a href="input-combo-on.svg"><img src="input-combo-on.svg" width="250"></a> | **input-combo-on.svg** |
+| <a href="input-keyboard-battery.svg"><img src="input-keyboard-battery.svg" width="250"></a> | **input-keyboard-battery.svg** |
+| <a href="input-keyboard-brightness.svg"><img src="input-keyboard-brightness.svg" width="250"></a> | **input-keyboard-brightness.svg** |
+| <a href="input-keyboard-virtual-off.svg"><img src="input-keyboard-virtual-off.svg" width="250"></a> | **input-keyboard-virtual-off.svg** |
+| <a href="input-keyboard-virtual-on.svg"><img src="input-keyboard-virtual-on.svg" width="250"></a> | **input-keyboard-virtual-on.svg** |
+| <a href="input-num-on.svg"><img src="input-num-on.svg" width="250"></a> | **input-num-on.svg** |
+| <a href="input-touchpad-off.svg"><img src="input-touchpad-off.svg" width="250"></a> | **input-touchpad-off.svg** |
+| <a href="input-touchpad-on.svg"><img src="input-touchpad-on.svg" width="250"></a> | **input-touchpad-on.svg** |
+| <a href="kalarm-disabled.svg"><img src="kalarm-disabled.svg" width="250"></a> | **kalarm-disabled.svg** |
+| <a href="kalarm-partdisabled.svg"><img src="kalarm-partdisabled.svg" width="250"></a> | **kalarm-partdisabled.svg** |
+| <a href="kdeconnect-tray.svg"><img src="kdeconnect-tray.svg" width="250"></a> | **kdeconnect-tray.svg** |
+| <a href="keyboard-layout.svg"><img src="keyboard-layout.svg" width="250"></a> | **keyboard-layout.svg** |
+| <a href="klipper-symbolic.svg"><img src="klipper-symbolic.svg" width="250"></a> | **klipper-symbolic.svg** |
+| <a href="konv_message.svg"><img src="konv_message.svg" width="250"></a> | **konv_message.svg** |
+| <a href="kpackagekit-important.svg"><img src="kpackagekit-important.svg" width="250"></a> | **kpackagekit-important.svg** |
+| <a href="kpackagekit-inactive.svg"><img src="kpackagekit-inactive.svg" width="250"></a> | **kpackagekit-inactive.svg** |
+| <a href="kpackagekit-security.svg"><img src="kpackagekit-security.svg" width="250"></a> | **kpackagekit-security.svg** |
+| <a href="kpackagekit-updates.svg"><img src="kpackagekit-updates.svg" width="250"></a> | **kpackagekit-updates.svg** |
+| <a href="mail-unread-new.svg"><img src="mail-unread-new.svg" width="250"></a> | **mail-unread-new.svg** |
+| <a href="mail-unread.svg"><img src="mail-unread.svg" width="250"></a> | **mail-unread.svg** |
+| <a href="media-playback-paused.svg"><img src="media-playback-paused.svg" width="250"></a> | **media-playback-paused.svg** |
+| <a href="media-playback-playing.svg"><img src="media-playback-playing.svg" width="250"></a> | **media-playback-playing.svg** |
+| <a href="media-playback-stopped.svg"><img src="media-playback-stopped.svg" width="250"></a> | **media-playback-stopped.svg** |
+| <a href="meeting-organizer.svg"><img src="meeting-organizer.svg" width="250"></a> | **meeting-organizer.svg** |
+| <a href="mic-off.svg"><img src="mic-off.svg" width="250"></a> | **mic-off.svg** |
+| <a href="mic-on.svg"><img src="mic-on.svg" width="250"></a> | **mic-on.svg** |
+| <a href="mic-ready.svg"><img src="mic-ready.svg" width="250"></a> | **mic-ready.svg** |
+| <a href="microphone-sensitivity-high.svg"><img src="microphone-sensitivity-high.svg" width="250"></a> | **microphone-sensitivity-high.svg** |
+| <a href="microphone-sensitivity-low.svg"><img src="microphone-sensitivity-low.svg" width="250"></a> | **microphone-sensitivity-low.svg** |
+| <a href="microphone-sensitivity-medium.svg"><img src="microphone-sensitivity-medium.svg" width="250"></a> | **microphone-sensitivity-medium.svg** |
+| <a href="microphone-sensitivity-muted.svg"><img src="microphone-sensitivity-muted.svg" width="250"></a> | **microphone-sensitivity-muted.svg** |
+| <a href="network-bluetooth-activated-locked.svg"><img src="network-bluetooth-activated-locked.svg" width="250"></a> | **network-bluetooth-activated-locked.svg** |
+| <a href="network-bluetooth-activated.svg"><img src="network-bluetooth-activated.svg" width="250"></a> | **network-bluetooth-activated.svg** |
+| <a href="network-bluetooth-inactive-symbolic.svg"><img src="network-bluetooth-inactive-symbolic.svg" width="250"></a> | **network-bluetooth-inactive-symbolic.svg** |
+| <a href="network-bluetooth.svg"><img src="network-bluetooth.svg" width="250"></a> | **network-bluetooth.svg** |
+| <a href="network-flightmode-off.svg"><img src="network-flightmode-off.svg" width="250"></a> | **network-flightmode-off.svg** |
+| <a href="network-flightmode-on.svg"><img src="network-flightmode-on.svg" width="250"></a> | **network-flightmode-on.svg** |
+| <a href="network-limited.svg"><img src="network-limited.svg" width="250"></a> | **network-limited.svg** |
+| <a href="network-mobile-0-5g-locked.svg"><img src="network-mobile-0-5g-locked.svg" width="250"></a> | **network-mobile-0-5g-locked.svg** |
+| <a href="network-mobile-0-5g.svg"><img src="network-mobile-0-5g.svg" width="250"></a> | **network-mobile-0-5g.svg** |
+| <a href="network-mobile-0-edge-locked.svg"><img src="network-mobile-0-edge-locked.svg" width="250"></a> | **network-mobile-0-edge-locked.svg** |
+| <a href="network-mobile-0-edge.svg"><img src="network-mobile-0-edge.svg" width="250"></a> | **network-mobile-0-edge.svg** |
+| <a href="network-mobile-0-gprs-locked.svg"><img src="network-mobile-0-gprs-locked.svg" width="250"></a> | **network-mobile-0-gprs-locked.svg** |
+| <a href="network-mobile-0-gprs.svg"><img src="network-mobile-0-gprs.svg" width="250"></a> | **network-mobile-0-gprs.svg** |
+| <a href="network-mobile-0-hsdpa-locked.svg"><img src="network-mobile-0-hsdpa-locked.svg" width="250"></a> | **network-mobile-0-hsdpa-locked.svg** |
+| <a href="network-mobile-0-hsdpa.svg"><img src="network-mobile-0-hsdpa.svg" width="250"></a> | **network-mobile-0-hsdpa.svg** |
+| <a href="network-mobile-0-hspa-locked.svg"><img src="network-mobile-0-hspa-locked.svg" width="250"></a> | **network-mobile-0-hspa-locked.svg** |
+| <a href="network-mobile-0-hspa.svg"><img src="network-mobile-0-hspa.svg" width="250"></a> | **network-mobile-0-hspa.svg** |
+| <a href="network-mobile-0-hsupa-locked.svg"><img src="network-mobile-0-hsupa-locked.svg" width="250"></a> | **network-mobile-0-hsupa-locked.svg** |
+| <a href="network-mobile-0-hsupa.svg"><img src="network-mobile-0-hsupa.svg" width="250"></a> | **network-mobile-0-hsupa.svg** |
+| <a href="network-mobile-0-locked.svg"><img src="network-mobile-0-locked.svg" width="250"></a> | **network-mobile-0-locked.svg** |
+| <a href="network-mobile-0-lte-locked.svg"><img src="network-mobile-0-lte-locked.svg" width="250"></a> | **network-mobile-0-lte-locked.svg** |
+| <a href="network-mobile-0-lte.svg"><img src="network-mobile-0-lte.svg" width="250"></a> | **network-mobile-0-lte.svg** |
+| <a href="network-mobile-0-umts-locked.svg"><img src="network-mobile-0-umts-locked.svg" width="250"></a> | **network-mobile-0-umts-locked.svg** |
+| <a href="network-mobile-0-umts.svg"><img src="network-mobile-0-umts.svg" width="250"></a> | **network-mobile-0-umts.svg** |
+| <a href="network-mobile-0.svg"><img src="network-mobile-0.svg" width="250"></a> | **network-mobile-0.svg** |
+| <a href="network-mobile-100-5g-locked.svg"><img src="network-mobile-100-5g-locked.svg" width="250"></a> | **network-mobile-100-5g-locked.svg** |
+| <a href="network-mobile-100-5g.svg"><img src="network-mobile-100-5g.svg" width="250"></a> | **network-mobile-100-5g.svg** |
+| <a href="network-mobile-100-edge-locked.svg"><img src="network-mobile-100-edge-locked.svg" width="250"></a> | **network-mobile-100-edge-locked.svg** |
+| <a href="network-mobile-100-edge.svg"><img src="network-mobile-100-edge.svg" width="250"></a> | **network-mobile-100-edge.svg** |
+| <a href="network-mobile-100-gprs-locked.svg"><img src="network-mobile-100-gprs-locked.svg" width="250"></a> | **network-mobile-100-gprs-locked.svg** |
+| <a href="network-mobile-100-gprs.svg"><img src="network-mobile-100-gprs.svg" width="250"></a> | **network-mobile-100-gprs.svg** |
+| <a href="network-mobile-100-hsdpa-locked.svg"><img src="network-mobile-100-hsdpa-locked.svg" width="250"></a> | **network-mobile-100-hsdpa-locked.svg** |
+| <a href="network-mobile-100-hsdpa.svg"><img src="network-mobile-100-hsdpa.svg" width="250"></a> | **network-mobile-100-hsdpa.svg** |
+| <a href="network-mobile-100-hspa-locked.svg"><img src="network-mobile-100-hspa-locked.svg" width="250"></a> | **network-mobile-100-hspa-locked.svg** |
+| <a href="network-mobile-100-hspa.svg"><img src="network-mobile-100-hspa.svg" width="250"></a> | **network-mobile-100-hspa.svg** |
+| <a href="network-mobile-100-hsupa-locked.svg"><img src="network-mobile-100-hsupa-locked.svg" width="250"></a> | **network-mobile-100-hsupa-locked.svg** |
+| <a href="network-mobile-100-hsupa.svg"><img src="network-mobile-100-hsupa.svg" width="250"></a> | **network-mobile-100-hsupa.svg** |
+| <a href="network-mobile-100-locked.svg"><img src="network-mobile-100-locked.svg" width="250"></a> | **network-mobile-100-locked.svg** |
+| <a href="network-mobile-100-lte-locked.svg"><img src="network-mobile-100-lte-locked.svg" width="250"></a> | **network-mobile-100-lte-locked.svg** |
+| <a href="network-mobile-100-lte.svg"><img src="network-mobile-100-lte.svg" width="250"></a> | **network-mobile-100-lte.svg** |
+| <a href="network-mobile-100-umts-locked.svg"><img src="network-mobile-100-umts-locked.svg" width="250"></a> | **network-mobile-100-umts-locked.svg** |
+| <a href="network-mobile-100-umts.svg"><img src="network-mobile-100-umts.svg" width="250"></a> | **network-mobile-100-umts.svg** |
+| <a href="network-mobile-100.svg"><img src="network-mobile-100.svg" width="250"></a> | **network-mobile-100.svg** |
+| <a href="network-mobile-20-5g-locked.svg"><img src="network-mobile-20-5g-locked.svg" width="250"></a> | **network-mobile-20-5g-locked.svg** |
+| <a href="network-mobile-20-5g.svg"><img src="network-mobile-20-5g.svg" width="250"></a> | **network-mobile-20-5g.svg** |
+| <a href="network-mobile-20-edge-locked.svg"><img src="network-mobile-20-edge-locked.svg" width="250"></a> | **network-mobile-20-edge-locked.svg** |
+| <a href="network-mobile-20-edge.svg"><img src="network-mobile-20-edge.svg" width="250"></a> | **network-mobile-20-edge.svg** |
+| <a href="network-mobile-20-gprs-locked.svg"><img src="network-mobile-20-gprs-locked.svg" width="250"></a> | **network-mobile-20-gprs-locked.svg** |
+| <a href="network-mobile-20-gprs.svg"><img src="network-mobile-20-gprs.svg" width="250"></a> | **network-mobile-20-gprs.svg** |
+| <a href="network-mobile-20-hsdpa-locked.svg"><img src="network-mobile-20-hsdpa-locked.svg" width="250"></a> | **network-mobile-20-hsdpa-locked.svg** |
+| <a href="network-mobile-20-hsdpa.svg"><img src="network-mobile-20-hsdpa.svg" width="250"></a> | **network-mobile-20-hsdpa.svg** |
+| <a href="network-mobile-20-hspa-locked.svg"><img src="network-mobile-20-hspa-locked.svg" width="250"></a> | **network-mobile-20-hspa-locked.svg** |
+| <a href="network-mobile-20-hspa.svg"><img src="network-mobile-20-hspa.svg" width="250"></a> | **network-mobile-20-hspa.svg** |
+| <a href="network-mobile-20-hsupa-locked.svg"><img src="network-mobile-20-hsupa-locked.svg" width="250"></a> | **network-mobile-20-hsupa-locked.svg** |
+| <a href="network-mobile-20-hsupa.svg"><img src="network-mobile-20-hsupa.svg" width="250"></a> | **network-mobile-20-hsupa.svg** |
+| <a href="network-mobile-20-locked.svg"><img src="network-mobile-20-locked.svg" width="250"></a> | **network-mobile-20-locked.svg** |
+| <a href="network-mobile-20-lte-locked.svg"><img src="network-mobile-20-lte-locked.svg" width="250"></a> | **network-mobile-20-lte-locked.svg** |
+| <a href="network-mobile-20-lte.svg"><img src="network-mobile-20-lte.svg" width="250"></a> | **network-mobile-20-lte.svg** |
+| <a href="network-mobile-20-umts-locked.svg"><img src="network-mobile-20-umts-locked.svg" width="250"></a> | **network-mobile-20-umts-locked.svg** |
+| <a href="network-mobile-20-umts.svg"><img src="network-mobile-20-umts.svg" width="250"></a> | **network-mobile-20-umts.svg** |
+| <a href="network-mobile-20.svg"><img src="network-mobile-20.svg" width="250"></a> | **network-mobile-20.svg** |
+| <a href="network-mobile-40-5g-locked.svg"><img src="network-mobile-40-5g-locked.svg" width="250"></a> | **network-mobile-40-5g-locked.svg** |
+| <a href="network-mobile-40-5g.svg"><img src="network-mobile-40-5g.svg" width="250"></a> | **network-mobile-40-5g.svg** |
+| <a href="network-mobile-40-edge-locked.svg"><img src="network-mobile-40-edge-locked.svg" width="250"></a> | **network-mobile-40-edge-locked.svg** |
+| <a href="network-mobile-40-edge.svg"><img src="network-mobile-40-edge.svg" width="250"></a> | **network-mobile-40-edge.svg** |
+| <a href="network-mobile-40-gprs-locked.svg"><img src="network-mobile-40-gprs-locked.svg" width="250"></a> | **network-mobile-40-gprs-locked.svg** |
+| <a href="network-mobile-40-gprs.svg"><img src="network-mobile-40-gprs.svg" width="250"></a> | **network-mobile-40-gprs.svg** |
+| <a href="network-mobile-40-hsdpa-locked.svg"><img src="network-mobile-40-hsdpa-locked.svg" width="250"></a> | **network-mobile-40-hsdpa-locked.svg** |
+| <a href="network-mobile-40-hsdpa.svg"><img src="network-mobile-40-hsdpa.svg" width="250"></a> | **network-mobile-40-hsdpa.svg** |
+| <a href="network-mobile-40-hspa-locked.svg"><img src="network-mobile-40-hspa-locked.svg" width="250"></a> | **network-mobile-40-hspa-locked.svg** |
+| <a href="network-mobile-40-hspa.svg"><img src="network-mobile-40-hspa.svg" width="250"></a> | **network-mobile-40-hspa.svg** |
+| <a href="network-mobile-40-hsupa-locked.svg"><img src="network-mobile-40-hsupa-locked.svg" width="250"></a> | **network-mobile-40-hsupa-locked.svg** |
+| <a href="network-mobile-40-hsupa.svg"><img src="network-mobile-40-hsupa.svg" width="250"></a> | **network-mobile-40-hsupa.svg** |
+| <a href="network-mobile-40-locked.svg"><img src="network-mobile-40-locked.svg" width="250"></a> | **network-mobile-40-locked.svg** |
+| <a href="network-mobile-40-lte-locked.svg"><img src="network-mobile-40-lte-locked.svg" width="250"></a> | **network-mobile-40-lte-locked.svg** |
+| <a href="network-mobile-40-lte.svg"><img src="network-mobile-40-lte.svg" width="250"></a> | **network-mobile-40-lte.svg** |
+| <a href="network-mobile-40-umts-locked.svg"><img src="network-mobile-40-umts-locked.svg" width="250"></a> | **network-mobile-40-umts-locked.svg** |
+| <a href="network-mobile-40-umts.svg"><img src="network-mobile-40-umts.svg" width="250"></a> | **network-mobile-40-umts.svg** |
+| <a href="network-mobile-40.svg"><img src="network-mobile-40.svg" width="250"></a> | **network-mobile-40.svg** |
+| <a href="network-mobile-60-5g-locked.svg"><img src="network-mobile-60-5g-locked.svg" width="250"></a> | **network-mobile-60-5g-locked.svg** |
+| <a href="network-mobile-60-5g.svg"><img src="network-mobile-60-5g.svg" width="250"></a> | **network-mobile-60-5g.svg** |
+| <a href="network-mobile-60-edge-locked.svg"><img src="network-mobile-60-edge-locked.svg" width="250"></a> | **network-mobile-60-edge-locked.svg** |
+| <a href="network-mobile-60-edge.svg"><img src="network-mobile-60-edge.svg" width="250"></a> | **network-mobile-60-edge.svg** |
+| <a href="network-mobile-60-gprs-locked.svg"><img src="network-mobile-60-gprs-locked.svg" width="250"></a> | **network-mobile-60-gprs-locked.svg** |
+| <a href="network-mobile-60-gprs.svg"><img src="network-mobile-60-gprs.svg" width="250"></a> | **network-mobile-60-gprs.svg** |
+| <a href="network-mobile-60-hsdpa-locked.svg"><img src="network-mobile-60-hsdpa-locked.svg" width="250"></a> | **network-mobile-60-hsdpa-locked.svg** |
+| <a href="network-mobile-60-hsdpa.svg"><img src="network-mobile-60-hsdpa.svg" width="250"></a> | **network-mobile-60-hsdpa.svg** |
+| <a href="network-mobile-60-hspa-locked.svg"><img src="network-mobile-60-hspa-locked.svg" width="250"></a> | **network-mobile-60-hspa-locked.svg** |
+| <a href="network-mobile-60-hspa.svg"><img src="network-mobile-60-hspa.svg" width="250"></a> | **network-mobile-60-hspa.svg** |
+| <a href="network-mobile-60-hsupa-locked.svg"><img src="network-mobile-60-hsupa-locked.svg" width="250"></a> | **network-mobile-60-hsupa-locked.svg** |
+| <a href="network-mobile-60-hsupa.svg"><img src="network-mobile-60-hsupa.svg" width="250"></a> | **network-mobile-60-hsupa.svg** |
+| <a href="network-mobile-60-locked.svg"><img src="network-mobile-60-locked.svg" width="250"></a> | **network-mobile-60-locked.svg** |
+| <a href="network-mobile-60-lte-locked.svg"><img src="network-mobile-60-lte-locked.svg" width="250"></a> | **network-mobile-60-lte-locked.svg** |
+| <a href="network-mobile-60-lte.svg"><img src="network-mobile-60-lte.svg" width="250"></a> | **network-mobile-60-lte.svg** |
+| <a href="network-mobile-60-umts-locked.svg"><img src="network-mobile-60-umts-locked.svg" width="250"></a> | **network-mobile-60-umts-locked.svg** |
+| <a href="network-mobile-60-umts.svg"><img src="network-mobile-60-umts.svg" width="250"></a> | **network-mobile-60-umts.svg** |
+| <a href="network-mobile-60.svg"><img src="network-mobile-60.svg" width="250"></a> | **network-mobile-60.svg** |
+| <a href="network-mobile-80-5g-locked.svg"><img src="network-mobile-80-5g-locked.svg" width="250"></a> | **network-mobile-80-5g-locked.svg** |
+| <a href="network-mobile-80-5g.svg"><img src="network-mobile-80-5g.svg" width="250"></a> | **network-mobile-80-5g.svg** |
+| <a href="network-mobile-80-edge-locked.svg"><img src="network-mobile-80-edge-locked.svg" width="250"></a> | **network-mobile-80-edge-locked.svg** |
+| <a href="network-mobile-80-edge.svg"><img src="network-mobile-80-edge.svg" width="250"></a> | **network-mobile-80-edge.svg** |
+| <a href="network-mobile-80-gprs-locked.svg"><img src="network-mobile-80-gprs-locked.svg" width="250"></a> | **network-mobile-80-gprs-locked.svg** |
+| <a href="network-mobile-80-gprs.svg"><img src="network-mobile-80-gprs.svg" width="250"></a> | **network-mobile-80-gprs.svg** |
+| <a href="network-mobile-80-hsdpa-locked.svg"><img src="network-mobile-80-hsdpa-locked.svg" width="250"></a> | **network-mobile-80-hsdpa-locked.svg** |
+| <a href="network-mobile-80-hsdpa.svg"><img src="network-mobile-80-hsdpa.svg" width="250"></a> | **network-mobile-80-hsdpa.svg** |
+| <a href="network-mobile-80-hspa-locked.svg"><img src="network-mobile-80-hspa-locked.svg" width="250"></a> | **network-mobile-80-hspa-locked.svg** |
+| <a href="network-mobile-80-hspa.svg"><img src="network-mobile-80-hspa.svg" width="250"></a> | **network-mobile-80-hspa.svg** |
+| <a href="network-mobile-80-hsupa-locked.svg"><img src="network-mobile-80-hsupa-locked.svg" width="250"></a> | **network-mobile-80-hsupa-locked.svg** |
+| <a href="network-mobile-80-hsupa.svg"><img src="network-mobile-80-hsupa.svg" width="250"></a> | **network-mobile-80-hsupa.svg** |
+| <a href="network-mobile-80-locked.svg"><img src="network-mobile-80-locked.svg" width="250"></a> | **network-mobile-80-locked.svg** |
+| <a href="network-mobile-80-lte-locked.svg"><img src="network-mobile-80-lte-locked.svg" width="250"></a> | **network-mobile-80-lte-locked.svg** |
+| <a href="network-mobile-80-lte.svg"><img src="network-mobile-80-lte.svg" width="250"></a> | **network-mobile-80-lte.svg** |
+| <a href="network-mobile-80-umts-locked.svg"><img src="network-mobile-80-umts-locked.svg" width="250"></a> | **network-mobile-80-umts-locked.svg** |
+| <a href="network-mobile-80-umts.svg"><img src="network-mobile-80-umts.svg" width="250"></a> | **network-mobile-80-umts.svg** |
+| <a href="network-mobile-80.svg"><img src="network-mobile-80.svg" width="250"></a> | **network-mobile-80.svg** |
+| <a href="network-mobile-available.svg"><img src="network-mobile-available.svg" width="250"></a> | **network-mobile-available.svg** |
+| <a href="network-mobile-off.svg"><img src="network-mobile-off.svg" width="250"></a> | **network-mobile-off.svg** |
+| <a href="network-unavailable.svg"><img src="network-unavailable.svg" width="250"></a> | **network-unavailable.svg** |
+| <a href="network-vpn.svg"><img src="network-vpn.svg" width="250"></a> | **network-vpn.svg** |
+| <a href="network-wired-activated-limited.svg"><img src="network-wired-activated-limited.svg" width="250"></a> | **network-wired-activated-limited.svg** |
+| <a href="network-wired-activated-locked.svg"><img src="network-wired-activated-locked.svg" width="250"></a> | **network-wired-activated-locked.svg** |
+| <a href="network-wired-activated.svg"><img src="network-wired-activated.svg" width="250"></a> | **network-wired-activated.svg** |
+| <a href="network-wired-available.svg"><img src="network-wired-available.svg" width="250"></a> | **network-wired-available.svg** |
+| <a href="network-wired-unavailable.svg"><img src="network-wired-unavailable.svg" width="250"></a> | **network-wired-unavailable.svg** |
+| <a href="network-wired.svg"><img src="network-wired.svg" width="250"></a> | **network-wired.svg** |
+| <a href="network-wireless-0-limited.svg"><img src="network-wireless-0-limited.svg" width="250"></a> | **network-wireless-0-limited.svg** |
+| <a href="network-wireless-0-locked.svg"><img src="network-wireless-0-locked.svg" width="250"></a> | **network-wireless-0-locked.svg** |
+| <a href="network-wireless-0.svg"><img src="network-wireless-0.svg" width="250"></a> | **network-wireless-0.svg** |
+| <a href="network-wireless-100-limited.svg"><img src="network-wireless-100-limited.svg" width="250"></a> | **network-wireless-100-limited.svg** |
+| <a href="network-wireless-100-locked.svg"><img src="network-wireless-100-locked.svg" width="250"></a> | **network-wireless-100-locked.svg** |
+| <a href="network-wireless-100.svg"><img src="network-wireless-100.svg" width="250"></a> | **network-wireless-100.svg** |
+| <a href="network-wireless-20-limited.svg"><img src="network-wireless-20-limited.svg" width="250"></a> | **network-wireless-20-limited.svg** |
+| <a href="network-wireless-20-locked.svg"><img src="network-wireless-20-locked.svg" width="250"></a> | **network-wireless-20-locked.svg** |
+| <a href="network-wireless-20.svg"><img src="network-wireless-20.svg" width="250"></a> | **network-wireless-20.svg** |
+| <a href="network-wireless-40-limited.svg"><img src="network-wireless-40-limited.svg" width="250"></a> | **network-wireless-40-limited.svg** |
+| <a href="network-wireless-40-locked.svg"><img src="network-wireless-40-locked.svg" width="250"></a> | **network-wireless-40-locked.svg** |
+| <a href="network-wireless-40.svg"><img src="network-wireless-40.svg" width="250"></a> | **network-wireless-40.svg** |
+| <a href="network-wireless-60-limited.svg"><img src="network-wireless-60-limited.svg" width="250"></a> | **network-wireless-60-limited.svg** |
+| <a href="network-wireless-60-locked.svg"><img src="network-wireless-60-locked.svg" width="250"></a> | **network-wireless-60-locked.svg** |
+| <a href="network-wireless-60.svg"><img src="network-wireless-60.svg" width="250"></a> | **network-wireless-60.svg** |
+| <a href="network-wireless-80-limited.svg"><img src="network-wireless-80-limited.svg" width="250"></a> | **network-wireless-80-limited.svg** |
+| <a href="network-wireless-80-locked.svg"><img src="network-wireless-80-locked.svg" width="250"></a> | **network-wireless-80-locked.svg** |
+| <a href="network-wireless-80.svg"><img src="network-wireless-80.svg" width="250"></a> | **network-wireless-80.svg** |
+| <a href="network-wireless-acquiring.svg"><img src="network-wireless-acquiring.svg" width="250"></a> | **network-wireless-acquiring.svg** |
+| <a href="network-wireless-available.svg"><img src="network-wireless-available.svg" width="250"></a> | **network-wireless-available.svg** |
+| <a href="network-wireless-bluetooth-symbolic.svg"><img src="network-wireless-bluetooth-symbolic.svg" width="250"></a> | **network-wireless-bluetooth-symbolic.svg** |
+| <a href="network-wireless-connected-00.svg"><img src="network-wireless-connected-00.svg" width="250"></a> | **network-wireless-connected-00.svg** |
+| <a href="network-wireless-connected-100.svg"><img src="network-wireless-connected-100.svg" width="250"></a> | **network-wireless-connected-100.svg** |
+| <a href="network-wireless-connected-20.svg"><img src="network-wireless-connected-20.svg" width="250"></a> | **network-wireless-connected-20.svg** |
+| <a href="network-wireless-connected-25.svg"><img src="network-wireless-connected-25.svg" width="250"></a> | **network-wireless-connected-25.svg** |
+| <a href="network-wireless-connected-40.svg"><img src="network-wireless-connected-40.svg" width="250"></a> | **network-wireless-connected-40.svg** |
+| <a href="network-wireless-connected-50.svg"><img src="network-wireless-connected-50.svg" width="250"></a> | **network-wireless-connected-50.svg** |
+| <a href="network-wireless-connected-60.svg"><img src="network-wireless-connected-60.svg" width="250"></a> | **network-wireless-connected-60.svg** |
+| <a href="network-wireless-connected-75.svg"><img src="network-wireless-connected-75.svg" width="250"></a> | **network-wireless-connected-75.svg** |
+| <a href="network-wireless-connected-80.svg"><img src="network-wireless-connected-80.svg" width="250"></a> | **network-wireless-connected-80.svg** |
+| <a href="network-wireless-disconnected.svg"><img src="network-wireless-disconnected.svg" width="250"></a> | **network-wireless-disconnected.svg** |
+| <a href="network-wireless-off.svg"><img src="network-wireless-off.svg" width="250"></a> | **network-wireless-off.svg** |
+| <a href="network-wireless-on.svg"><img src="network-wireless-on.svg" width="250"></a> | **network-wireless-on.svg** |
+| <a href="plasmavault_error.svg"><img src="plasmavault_error.svg" width="250"></a> | **plasmavault_error.svg** |
+| <a href="redshift-status-day.svg"><img src="redshift-status-day.svg" width="250"></a> | **redshift-status-day.svg** |
+| <a href="redshift-status-off.svg"><img src="redshift-status-off.svg" width="250"></a> | **redshift-status-off.svg** |
+| <a href="redshift-status-on.svg"><img src="redshift-status-on.svg" width="250"></a> | **redshift-status-on.svg** |
+| <a href="rotation-allowed.svg"><img src="rotation-allowed.svg" width="250"></a> | **rotation-allowed.svg** |
+| <a href="rotation-locked-landscape.svg"><img src="rotation-locked-landscape.svg" width="250"></a> | **rotation-locked-landscape.svg** |
+| <a href="rotation-locked-portrait.svg"><img src="rotation-locked-portrait.svg" width="250"></a> | **rotation-locked-portrait.svg** |
+| <a href="security-high.svg"><img src="security-high.svg" width="250"></a> | **security-high.svg** |
+| <a href="security-low.svg"><img src="security-low.svg" width="250"></a> | **security-low.svg** |
+| <a href="security-medium.svg"><img src="security-medium.svg" width="250"></a> | **security-medium.svg** |
+| <a href="showinfo-hover.svg"><img src="showinfo-hover.svg" width="250"></a> | **showinfo-hover.svg** |
+| <a href="showinfo.svg"><img src="showinfo.svg" width="250"></a> | **showinfo.svg** |
+| <a href="smartphoneconnected.svg"><img src="smartphoneconnected.svg" width="250"></a> | **smartphoneconnected.svg** |
+| <a href="smartphonedisconnected.svg"><img src="smartphonedisconnected.svg" width="250"></a> | **smartphonedisconnected.svg** |
+| <a href="smartphonetrusted.svg"><img src="smartphonetrusted.svg" width="250"></a> | **smartphonetrusted.svg** |
+| <a href="state-download.svg"><img src="state-download.svg" width="250"></a> | **state-download.svg** |
+| <a href="state-error.svg"><img src="state-error.svg" width="250"></a> | **state-error.svg** |
+| <a href="state-information.svg"><img src="state-information.svg" width="250"></a> | **state-information.svg** |
+| <a href="state-offline.svg"><img src="state-offline.svg" width="250"></a> | **state-offline.svg** |
+| <a href="state-ok.svg"><img src="state-ok.svg" width="250"></a> | **state-ok.svg** |
+| <a href="state-pause.svg"><img src="state-pause.svg" width="250"></a> | **state-pause.svg** |
+| <a href="state-sync.svg"><img src="state-sync.svg" width="250"></a> | **state-sync.svg** |
+| <a href="state-warning.svg"><img src="state-warning.svg" width="250"></a> | **state-warning.svg** |
+| <a href="task-complete.svg"><img src="task-complete.svg" width="250"></a> | **task-complete.svg** |
+| <a href="task-process-0.svg"><img src="task-process-0.svg" width="250"></a> | **task-process-0.svg** |
+| <a href="task-process-1.svg"><img src="task-process-1.svg" width="250"></a> | **task-process-1.svg** |
+| <a href="task-process-2.svg"><img src="task-process-2.svg" width="250"></a> | **task-process-2.svg** |
+| <a href="task-process-3.svg"><img src="task-process-3.svg" width="250"></a> | **task-process-3.svg** |
+| <a href="task-process-4.svg"><img src="task-process-4.svg" width="250"></a> | **task-process-4.svg** |
+| <a href="telegram-attention-panel.svg"><img src="telegram-attention-panel.svg" width="250"></a> | **telegram-attention-panel.svg** |
+| <a href="telegram-mute-panel.svg"><img src="telegram-mute-panel.svg" width="250"></a> | **telegram-mute-panel.svg** |
+| <a href="telegram-panel.svg"><img src="telegram-panel.svg" width="250"></a> | **telegram-panel.svg** |
+| <a href="temperature-cold.svg"><img src="temperature-cold.svg" width="250"></a> | **temperature-cold.svg** |
+| <a href="temperature-normal.svg"><img src="temperature-normal.svg" width="250"></a> | **temperature-normal.svg** |
+| <a href="temperature-warm.svg"><img src="temperature-warm.svg" width="250"></a> | **temperature-warm.svg** |
+| <a href="touchpad_disabled.svg"><img src="touchpad_disabled.svg" width="250"></a> | **touchpad_disabled.svg** |
+| <a href="touchpad_enabled.svg"><img src="touchpad_enabled.svg" width="250"></a> | **touchpad_enabled.svg** |
+| <a href="transmission-tray-icon.svg"><img src="transmission-tray-icon.svg" width="250"></a> | **transmission-tray-icon.svg** |
+| <a href="uninstall.svg"><img src="uninstall.svg" width="250"></a> | **uninstall.svg** |
+| <a href="update-high.svg"><img src="update-high.svg" width="250"></a> | **update-high.svg** |
+| <a href="update-low.svg"><img src="update-low.svg" width="250"></a> | **update-low.svg** |
+| <a href="update-medium.svg"><img src="update-medium.svg" width="250"></a> | **update-medium.svg** |
+| <a href="update-none.svg"><img src="update-none.svg" width="250"></a> | **update-none.svg** |
+| <a href="user-idle.svg"><img src="user-idle.svg" width="250"></a> | **user-idle.svg** |
+| <a href="video-card-inactive.svg"><img src="video-card-inactive.svg" width="250"></a> | **video-card-inactive.svg** |
+| <a href="wallet-closed.svg"><img src="wallet-closed.svg" width="250"></a> | **wallet-closed.svg** |
+| <a href="wallet-open.svg"><img src="wallet-open.svg" width="250"></a> | **wallet-open.svg** |

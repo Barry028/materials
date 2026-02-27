@@ -1,132 +1,132 @@
-# 🖼️ 16px  素材庫
+# 🖼️ 16px 
 
 [⬅️ 返回主目錄](../../../../README.md)
 
-| 預覽 (點擊放大) | 檔案資訊 |
+| 預覽 | 資訊 |
 | :--- | :--- |
-| <a href="align-bottom-svgrepo-com.svg"><img src="align-bottom-svgrepo-com.svg" width="250"></a> | **align-bottom-svgrepo-com.svg**<br>Vector (SVG) | 573.00B |
-| <a href="align-horizontal-svgrepo-com.svg"><img src="align-horizontal-svgrepo-com.svg" width="250"></a> | **align-horizontal-svgrepo-com.svg**<br>Vector (SVG) | 576.00B |
-| <a href="align-left-svgrepo-com.svg"><img src="align-left-svgrepo-com.svg" width="250"></a> | **align-left-svgrepo-com.svg**<br>Vector (SVG) | 570.00B |
-| <a href="align-right-svgrepo-com.svg"><img src="align-right-svgrepo-com.svg" width="250"></a> | **align-right-svgrepo-com.svg**<br>Vector (SVG) | 574.00B |
-| <a href="align-top-svgrepo-com.svg"><img src="align-top-svgrepo-com.svg" width="250"></a> | **align-top-svgrepo-com.svg**<br>Vector (SVG) | 570.00B |
-| <a href="align-verticle-svgrepo-com.svg"><img src="align-verticle-svgrepo-com.svg" width="250"></a> | **align-verticle-svgrepo-com.svg**<br>Vector (SVG) | 576.00B |
-| <a href="anchor-svgrepo-com.svg"><img src="anchor-svgrepo-com.svg" width="250"></a> | **anchor-svgrepo-com.svg**<br>Vector (SVG) | 786.00B |
-| <a href="arcadestick-svgrepo-com.svg"><img src="arcadestick-svgrepo-com.svg" width="250"></a> | **arcadestick-svgrepo-com.svg**<br>Vector (SVG) | 733.00B |
-| <a href="archive-svgrepo-com.svg"><img src="archive-svgrepo-com.svg" width="250"></a> | **archive-svgrepo-com.svg**<br>Vector (SVG) | 581.00B |
-| <a href="arrows-down-svgrepo-com.svg"><img src="arrows-down-svgrepo-com.svg" width="250"></a> | **arrows-down-svgrepo-com.svg**<br>Vector (SVG) | 570.00B |
-| <a href="arrows-horizontal-svgrepo-com.svg"><img src="arrows-horizontal-svgrepo-com.svg" width="250"></a> | **arrows-horizontal-svgrepo-com.svg**<br>Vector (SVG) | 567.00B |
-| <a href="arrows-left-svgrepo-com.svg"><img src="arrows-left-svgrepo-com.svg" width="250"></a> | **arrows-left-svgrepo-com.svg**<br>Vector (SVG) | 569.00B |
-| <a href="arrows-right-svgrepo-com.svg"><img src="arrows-right-svgrepo-com.svg" width="250"></a> | **arrows-right-svgrepo-com.svg**<br>Vector (SVG) | 570.00B |
-| <a href="arrows-up-svgrepo-com.svg"><img src="arrows-up-svgrepo-com.svg" width="250"></a> | **arrows-up-svgrepo-com.svg**<br>Vector (SVG) | 568.00B |
-| <a href="arrows-verticle-svgrepo-com.svg"><img src="arrows-verticle-svgrepo-com.svg" width="250"></a> | **arrows-verticle-svgrepo-com.svg**<br>Vector (SVG) | 566.00B |
-| <a href="audio-svgrepo-com.svg"><img src="audio-svgrepo-com.svg" width="250"></a> | **audio-svgrepo-com.svg**<br>Vector (SVG) | 729.00B |
-| <a href="branch-svgrepo-com.svg"><img src="branch-svgrepo-com.svg" width="250"></a> | **branch-svgrepo-com.svg**<br>Vector (SVG) | 690.00B |
-| <a href="browser-svgrepo-com.svg"><img src="browser-svgrepo-com.svg" width="250"></a> | **browser-svgrepo-com.svg**<br>Vector (SVG) | 571.00B |
-| <a href="calculator-svgrepo-com.svg"><img src="calculator-svgrepo-com.svg" width="250"></a> | **calculator-svgrepo-com.svg**<br>Vector (SVG) | 643.00B |
-| <a href="calendar-svgrepo-com.svg"><img src="calendar-svgrepo-com.svg" width="250"></a> | **calendar-svgrepo-com.svg**<br>Vector (SVG) | 603.00B |
-| <a href="chat-svgrepo-com.svg"><img src="chat-svgrepo-com.svg" width="250"></a> | **chat-svgrepo-com.svg**<br>Vector (SVG) | 590.00B |
-| <a href="circle-arrow-down-svgrepo-com.svg"><img src="circle-arrow-down-svgrepo-com.svg" width="250"></a> | **circle-arrow-down-svgrepo-com.svg**<br>Vector (SVG) | 762.00B |
-| <a href="circle-arrow-left-svgrepo-com.svg"><img src="circle-arrow-left-svgrepo-com.svg" width="250"></a> | **circle-arrow-left-svgrepo-com.svg**<br>Vector (SVG) | 761.00B |
-| <a href="circle-arrow-right-svgrepo-com.svg"><img src="circle-arrow-right-svgrepo-com.svg" width="250"></a> | **circle-arrow-right-svgrepo-com.svg**<br>Vector (SVG) | 761.00B |
-| <a href="circle-arrow-up-svgrepo-com.svg"><img src="circle-arrow-up-svgrepo-com.svg" width="250"></a> | **circle-arrow-up-svgrepo-com.svg**<br>Vector (SVG) | 760.00B |
-| <a href="circle-attention-svgrepo-com.svg"><img src="circle-attention-svgrepo-com.svg" width="250"></a> | **circle-attention-svgrepo-com.svg**<br>Vector (SVG) | 612.00B |
-| <a href="circle-delete-svgrepo-com.svg"><img src="circle-delete-svgrepo-com.svg" width="250"></a> | **circle-delete-svgrepo-com.svg**<br>Vector (SVG) | 819.00B |
-| <a href="circle-info-svgrepo-com.svg"><img src="circle-info-svgrepo-com.svg" width="250"></a> | **circle-info-svgrepo-com.svg**<br>Vector (SVG) | 612.00B |
-| <a href="circle-minus-svgrepo-com.svg"><img src="circle-minus-svgrepo-com.svg" width="250"></a> | **circle-minus-svgrepo-com.svg**<br>Vector (SVG) | 695.00B |
-| <a href="circle-pause-svgrepo-com.svg"><img src="circle-pause-svgrepo-com.svg" width="250"></a> | **circle-pause-svgrepo-com.svg**<br>Vector (SVG) | 709.00B |
-| <a href="circle-play-svgrepo-com.svg"><img src="circle-play-svgrepo-com.svg" width="250"></a> | **circle-play-svgrepo-com.svg**<br>Vector (SVG) | 697.00B |
-| <a href="circle-plus-svgrepo-com.svg"><img src="circle-plus-svgrepo-com.svg" width="250"></a> | **circle-plus-svgrepo-com.svg**<br>Vector (SVG) | 711.00B |
-| <a href="circle-skip-left-svgrepo-com.svg"><img src="circle-skip-left-svgrepo-com.svg" width="250"></a> | **circle-skip-left-svgrepo-com.svg**<br>Vector (SVG) | 710.00B |
-| <a href="circle-skip-right-svgrepo-com.svg"><img src="circle-skip-right-svgrepo-com.svg" width="250"></a> | **circle-skip-right-svgrepo-com.svg**<br>Vector (SVG) | 711.00B |
-| <a href="circle-tick-svgrepo-com.svg"><img src="circle-tick-svgrepo-com.svg" width="250"></a> | **circle-tick-svgrepo-com.svg**<br>Vector (SVG) | 774.00B |
-| <a href="clock-svgrepo-com.svg"><img src="clock-svgrepo-com.svg" width="250"></a> | **clock-svgrepo-com.svg**<br>Vector (SVG) | 699.00B |
-| <a href="contrast-svgrepo-com.svg"><img src="contrast-svgrepo-com.svg" width="250"></a> | **contrast-svgrepo-com.svg**<br>Vector (SVG) | 703.00B |
-| <a href="copy-svgrepo-com.svg"><img src="copy-svgrepo-com.svg" width="250"></a> | **copy-svgrepo-com.svg**<br>Vector (SVG) | 566.00B |
-| <a href="cross-svgrepo-com.svg"><img src="cross-svgrepo-com.svg" width="250"></a> | **cross-svgrepo-com.svg**<br>Vector (SVG) | 621.00B |
-| <a href="crosshair-svgrepo-com.svg"><img src="crosshair-svgrepo-com.svg" width="250"></a> | **crosshair-svgrepo-com.svg**<br>Vector (SVG) | 584.00B |
-| <a href="cup-svgrepo-com.svg"><img src="cup-svgrepo-com.svg" width="250"></a> | **cup-svgrepo-com.svg**<br>Vector (SVG) | 687.00B |
-| <a href="diamond-svgrepo-com.svg"><img src="diamond-svgrepo-com.svg" width="250"></a> | **diamond-svgrepo-com.svg**<br>Vector (SVG) | 659.00B |
-| <a href="exit-svgrepo-com.svg"><img src="exit-svgrepo-com.svg" width="250"></a> | **exit-svgrepo-com.svg**<br>Vector (SVG) | 635.00B |
-| <a href="external-svgrepo-com.svg"><img src="external-svgrepo-com.svg" width="250"></a> | **external-svgrepo-com.svg**<br>Vector (SVG) | 587.00B |
-| <a href="factory-svgrepo-com.svg"><img src="factory-svgrepo-com.svg" width="250"></a> | **factory-svgrepo-com.svg**<br>Vector (SVG) | 598.00B |
-| <a href="file-download-svgrepo-com.svg"><img src="file-download-svgrepo-com.svg" width="250"></a> | **file-download-svgrepo-com.svg**<br>Vector (SVG) | 624.00B |
-| <a href="file-text-svgrepo-com.svg"><img src="file-text-svgrepo-com.svg" width="250"></a> | **file-text-svgrepo-com.svg**<br>Vector (SVG) | 585.00B |
-| <a href="file-upload-svgrepo-com.svg"><img src="file-upload-svgrepo-com.svg" width="250"></a> | **file-upload-svgrepo-com.svg**<br>Vector (SVG) | 639.00B |
-| <a href="flag-svgrepo-com.svg"><img src="flag-svgrepo-com.svg" width="250"></a> | **flag-svgrepo-com.svg**<br>Vector (SVG) | 560.00B |
-| <a href="flower-svgrepo-com.svg"><img src="flower-svgrepo-com.svg" width="250"></a> | **flower-svgrepo-com.svg**<br>Vector (SVG) | 620.00B |
-| <a href="folder-svgrepo-com.svg"><img src="folder-svgrepo-com.svg" width="250"></a> | **folder-svgrepo-com.svg**<br>Vector (SVG) | 590.00B |
-| <a href="font-svgrepo-com.svg"><img src="font-svgrepo-com.svg" width="250"></a> | **font-svgrepo-com.svg**<br>Vector (SVG) | 557.00B |
-| <a href="fork-svgrepo-com.svg"><img src="fork-svgrepo-com.svg" width="250"></a> | **fork-svgrepo-com.svg**<br>Vector (SVG) | 661.00B |
-| <a href="frown-svgrepo-com.svg"><img src="frown-svgrepo-com.svg" width="250"></a> | **frown-svgrepo-com.svg**<br>Vector (SVG) | 721.00B |
-| <a href="fullscreen-svgrepo-com.svg"><img src="fullscreen-svgrepo-com.svg" width="250"></a> | **fullscreen-svgrepo-com.svg**<br>Vector (SVG) | 702.00B |
-| <a href="ghost-svgrepo-com.svg"><img src="ghost-svgrepo-com.svg" width="250"></a> | **ghost-svgrepo-com.svg**<br>Vector (SVG) | 813.00B |
-| <a href="heart-svgrepo-com.svg"><img src="heart-svgrepo-com.svg" width="250"></a> | **heart-svgrepo-com.svg**<br>Vector (SVG) | 600.00B |
-| <a href="house-svgrepo-com.svg"><img src="house-svgrepo-com.svg" width="250"></a> | **house-svgrepo-com.svg**<br>Vector (SVG) | 625.00B |
-| <a href="justify-center-svgrepo-com.svg"><img src="justify-center-svgrepo-com.svg" width="250"></a> | **justify-center-svgrepo-com.svg**<br>Vector (SVG) | 588.00B |
-| <a href="justify-left-svgrepo-com.svg"><img src="justify-left-svgrepo-com.svg" width="250"></a> | **justify-left-svgrepo-com.svg**<br>Vector (SVG) | 588.00B |
-| <a href="justify-right-svgrepo-com.svg"><img src="justify-right-svgrepo-com.svg" width="250"></a> | **justify-right-svgrepo-com.svg**<br>Vector (SVG) | 591.00B |
-| <a href="layout-svgrepo-com.svg"><img src="layout-svgrepo-com.svg" width="250"></a> | **layout-svgrepo-com.svg**<br>Vector (SVG) | 600.00B |
-| <a href="lock-svgrepo-com.svg"><img src="lock-svgrepo-com.svg" width="250"></a> | **lock-svgrepo-com.svg**<br>Vector (SVG) | 682.00B |
-| <a href="mail-inbox-svgrepo-com.svg"><img src="mail-inbox-svgrepo-com.svg" width="250"></a> | **mail-inbox-svgrepo-com.svg**<br>Vector (SVG) | 644.00B |
-| <a href="mail-open-svgrepo-com.svg"><img src="mail-open-svgrepo-com.svg" width="250"></a> | **mail-open-svgrepo-com.svg**<br>Vector (SVG) | 599.00B |
-| <a href="mail-outbox-svgrepo-com.svg"><img src="mail-outbox-svgrepo-com.svg" width="250"></a> | **mail-outbox-svgrepo-com.svg**<br>Vector (SVG) | 646.00B |
-| <a href="maximise-svgrepo-com.svg"><img src="maximise-svgrepo-com.svg" width="250"></a> | **maximise-svgrepo-com.svg**<br>Vector (SVG) | 592.00B |
-| <a href="menu-four-svgrepo-com.svg"><img src="menu-four-svgrepo-com.svg" width="250"></a> | **menu-four-svgrepo-com.svg**<br>Vector (SVG) | 625.00B |
-| <a href="menu-two-svgrepo-com.svg"><img src="menu-two-svgrepo-com.svg" width="250"></a> | **menu-two-svgrepo-com.svg**<br>Vector (SVG) | 573.00B |
-| <a href="microphone-svgrepo-com.svg"><img src="microphone-svgrepo-com.svg" width="250"></a> | **microphone-svgrepo-com.svg**<br>Vector (SVG) | 717.00B |
-| <a href="minimise-svgrepo-com.svg"><img src="minimise-svgrepo-com.svg" width="250"></a> | **minimise-svgrepo-com.svg**<br>Vector (SVG) | 598.00B |
-| <a href="monitor-svgrepo-com.svg"><img src="monitor-svgrepo-com.svg" width="250"></a> | **monitor-svgrepo-com.svg**<br>Vector (SVG) | 564.00B |
-| <a href="network-port-svgrepo-com.svg"><img src="network-port-svgrepo-com.svg" width="250"></a> | **network-port-svgrepo-com.svg**<br>Vector (SVG) | 568.00B |
-| <a href="network-svgrepo-com.svg"><img src="network-svgrepo-com.svg" width="250"></a> | **network-svgrepo-com.svg**<br>Vector (SVG) | 652.00B |
-| <a href="noentry-svgrepo-com.svg"><img src="noentry-svgrepo-com.svg" width="250"></a> | **noentry-svgrepo-com.svg**<br>Vector (SVG) | 645.00B |
-| <a href="notification-svgrepo-com.svg"><img src="notification-svgrepo-com.svg" width="250"></a> | **notification-svgrepo-com.svg**<br>Vector (SVG) | 810.00B |
-| <a href="photo-svgrepo-com.svg"><img src="photo-svgrepo-com.svg" width="250"></a> | **photo-svgrepo-com.svg**<br>Vector (SVG) | 665.00B |
-| <a href="photoset-svgrepo-com.svg"><img src="photoset-svgrepo-com.svg" width="250"></a> | **photoset-svgrepo-com.svg**<br>Vector (SVG) | 679.00B |
-| <a href="pie-svgrepo-com.svg"><img src="pie-svgrepo-com.svg" width="250"></a> | **pie-svgrepo-com.svg**<br>Vector (SVG) | 713.00B |
-| <a href="pin-svgrepo-com.svg"><img src="pin-svgrepo-com.svg" width="250"></a> | **pin-svgrepo-com.svg**<br>Vector (SVG) | 689.00B |
-| <a href="pixel-magnifying-glass-svgrepo-com.svg"><img src="pixel-magnifying-glass-svgrepo-com.svg" width="250"></a> | **pixel-magnifying-glass-svgrepo-com.svg**<br>Vector (SVG) | 492.00B |
-| <a href="pixelarticons-svgrepo-com.svg"><img src="pixelarticons-svgrepo-com.svg" width="250"></a> | **pixelarticons-svgrepo-com.svg**<br>Vector (SVG) | 370.00B |
-| <a href="plug-svgrepo-com.svg"><img src="plug-svgrepo-com.svg" width="250"></a> | **plug-svgrepo-com.svg**<br>Vector (SVG) | 771.00B |
-| <a href="printer-svgrepo-com.svg"><img src="printer-svgrepo-com.svg" width="250"></a> | **printer-svgrepo-com.svg**<br>Vector (SVG) | 606.00B |
-| <a href="quote-svgrepo-com.svg"><img src="quote-svgrepo-com.svg" width="250"></a> | **quote-svgrepo-com.svg**<br>Vector (SVG) | 712.00B |
-| <a href="refresh-svgrepo-com.svg"><img src="refresh-svgrepo-com.svg" width="250"></a> | **refresh-svgrepo-com.svg**<br>Vector (SVG) | 656.00B |
-| <a href="robot-svgrepo-com.svg"><img src="robot-svgrepo-com.svg" width="250"></a> | **robot-svgrepo-com.svg**<br>Vector (SVG) | 642.00B |
-| <a href="save-svgrepo-com.svg"><img src="save-svgrepo-com.svg" width="250"></a> | **save-svgrepo-com.svg**<br>Vector (SVG) | 585.00B |
-| <a href="scissors-svgrepo-com.svg"><img src="scissors-svgrepo-com.svg" width="250"></a> | **scissors-svgrepo-com.svg**<br>Vector (SVG) | 1010.00B |
-| <a href="search-svgrepo-com.svg"><img src="search-svgrepo-com.svg" width="250"></a> | **search-svgrepo-com.svg**<br>Vector (SVG) | 791.00B |
-| <a href="server-svgrepo-com.svg"><img src="server-svgrepo-com.svg" width="250"></a> | **server-svgrepo-com.svg**<br>Vector (SVG) | 650.00B |
-| <a href="settings-svgrepo-com.svg"><img src="settings-svgrepo-com.svg" width="250"></a> | **settings-svgrepo-com.svg**<br>Vector (SVG) | 938.00B |
-| <a href="share-svgrepo-com.svg"><img src="share-svgrepo-com.svg" width="250"></a> | **share-svgrepo-com.svg**<br>Vector (SVG) | 706.00B |
-| <a href="skull-svgrepo-com.svg"><img src="skull-svgrepo-com.svg" width="250"></a> | **skull-svgrepo-com.svg**<br>Vector (SVG) | 666.00B |
-| <a href="smile-svgrepo-com.svg"><img src="smile-svgrepo-com.svg" width="250"></a> | **smile-svgrepo-com.svg**<br>Vector (SVG) | 773.00B |
-| <a href="sort-ascending-svgrepo-com.svg"><img src="sort-ascending-svgrepo-com.svg" width="250"></a> | **sort-ascending-svgrepo-com.svg**<br>Vector (SVG) | 670.00B |
-| <a href="sort-descending-svgrepo-com.svg"><img src="sort-descending-svgrepo-com.svg" width="250"></a> | **sort-descending-svgrepo-com.svg**<br>Vector (SVG) | 675.00B |
-| <a href="sound-off-svgrepo-com.svg"><img src="sound-off-svgrepo-com.svg" width="250"></a> | **sound-off-svgrepo-com.svg**<br>Vector (SVG) | 714.00B |
-| <a href="sound-on-svgrepo-com.svg"><img src="sound-on-svgrepo-com.svg" width="250"></a> | **sound-on-svgrepo-com.svg**<br>Vector (SVG) | 690.00B |
-| <a href="soup-svgrepo-com.svg"><img src="soup-svgrepo-com.svg" width="250"></a> | **soup-svgrepo-com.svg**<br>Vector (SVG) | 604.00B |
-| <a href="square-arrow-down-svgrepo-com.svg"><img src="square-arrow-down-svgrepo-com.svg" width="250"></a> | **square-arrow-down-svgrepo-com.svg**<br>Vector (SVG) | 627.00B |
-| <a href="square-arrow-left-svgrepo-com.svg"><img src="square-arrow-left-svgrepo-com.svg" width="250"></a> | **square-arrow-left-svgrepo-com.svg**<br>Vector (SVG) | 624.00B |
-| <a href="square-arrow-right-svgrepo-com.svg"><img src="square-arrow-right-svgrepo-com.svg" width="250"></a> | **square-arrow-right-svgrepo-com.svg**<br>Vector (SVG) | 627.00B |
-| <a href="square-arrow-up-svgrepo-com.svg"><img src="square-arrow-up-svgrepo-com.svg" width="250"></a> | **square-arrow-up-svgrepo-com.svg**<br>Vector (SVG) | 624.00B |
-| <a href="square-attention-svgrepo-com.svg"><img src="square-attention-svgrepo-com.svg" width="250"></a> | **square-attention-svgrepo-com.svg**<br>Vector (SVG) | 574.00B |
-| <a href="square-delete-svgrepo-com.svg"><img src="square-delete-svgrepo-com.svg" width="250"></a> | **square-delete-svgrepo-com.svg**<br>Vector (SVG) | 684.00B |
-| <a href="square-info-svgrepo-com.svg"><img src="square-info-svgrepo-com.svg" width="250"></a> | **square-info-svgrepo-com.svg**<br>Vector (SVG) | 573.00B |
-| <a href="square-lock-svgrepo-com.svg"><img src="square-lock-svgrepo-com.svg" width="250"></a> | **square-lock-svgrepo-com.svg**<br>Vector (SVG) | 592.00B |
-| <a href="square-minus-svgrepo-com.svg"><img src="square-minus-svgrepo-com.svg" width="250"></a> | **square-minus-svgrepo-com.svg**<br>Vector (SVG) | 559.00B |
-| <a href="square-more-svgrepo-com.svg"><img src="square-more-svgrepo-com.svg" width="250"></a> | **square-more-svgrepo-com.svg**<br>Vector (SVG) | 587.00B |
-| <a href="square-pause-svgrepo-com.svg"><img src="square-pause-svgrepo-com.svg" width="250"></a> | **square-pause-svgrepo-com.svg**<br>Vector (SVG) | 574.00B |
-| <a href="square-play-svgrepo-com.svg"><img src="square-play-svgrepo-com.svg" width="250"></a> | **square-play-svgrepo-com.svg**<br>Vector (SVG) | 562.00B |
-| <a href="square-plus-svgrepo-com.svg"><img src="square-plus-svgrepo-com.svg" width="250"></a> | **square-plus-svgrepo-com.svg**<br>Vector (SVG) | 576.00B |
-| <a href="square-skip-left-svgrepo-com.svg"><img src="square-skip-left-svgrepo-com.svg" width="250"></a> | **square-skip-left-svgrepo-com.svg**<br>Vector (SVG) | 575.00B |
-| <a href="square-skip-right-svgrepo-com.svg"><img src="square-skip-right-svgrepo-com.svg" width="250"></a> | **square-skip-right-svgrepo-com.svg**<br>Vector (SVG) | 576.00B |
-| <a href="square-tick-svgrepo-com.svg"><img src="square-tick-svgrepo-com.svg" width="250"></a> | **square-tick-svgrepo-com.svg**<br>Vector (SVG) | 639.00B |
-| <a href="stack-svgrepo-com.svg"><img src="stack-svgrepo-com.svg" width="250"></a> | **stack-svgrepo-com.svg**<br>Vector (SVG) | 591.00B |
-| <a href="stockgraph-svgrepo-com.svg"><img src="stockgraph-svgrepo-com.svg" width="250"></a> | **stockgraph-svgrepo-com.svg**<br>Vector (SVG) | 602.00B |
-| <a href="tag-svgrepo-com.svg"><img src="tag-svgrepo-com.svg" width="250"></a> | **tag-svgrepo-com.svg**<br>Vector (SVG) | 653.00B |
-| <a href="target-svgrepo-com.svg"><img src="target-svgrepo-com.svg" width="250"></a> | **target-svgrepo-com.svg**<br>Vector (SVG) | 843.00B |
-| <a href="thumbdown-svgrepo-com.svg"><img src="thumbdown-svgrepo-com.svg" width="250"></a> | **thumbdown-svgrepo-com.svg**<br>Vector (SVG) | 590.00B |
-| <a href="thumbup-svgrepo-com.svg"><img src="thumbup-svgrepo-com.svg" width="250"></a> | **thumbup-svgrepo-com.svg**<br>Vector (SVG) | 593.00B |
-| <a href="towerblock-svgrepo-com.svg"><img src="towerblock-svgrepo-com.svg" width="250"></a> | **towerblock-svgrepo-com.svg**<br>Vector (SVG) | 648.00B |
-| <a href="usb-svgrepo-com.svg"><img src="usb-svgrepo-com.svg" width="250"></a> | **usb-svgrepo-com.svg**<br>Vector (SVG) | 574.00B |
-| <a href="video-svgrepo-com.svg"><img src="video-svgrepo-com.svg" width="250"></a> | **video-svgrepo-com.svg**<br>Vector (SVG) | 939.00B |
-| <a href="zip-svgrepo-com.svg"><img src="zip-svgrepo-com.svg" width="250"></a> | **zip-svgrepo-com.svg**<br>Vector (SVG) | 609.00B |
+| <a href="align-bottom-svgrepo-com.svg"><img src="align-bottom-svgrepo-com.svg" width="250"></a> | **align-bottom-svgrepo-com.svg** |
+| <a href="align-horizontal-svgrepo-com.svg"><img src="align-horizontal-svgrepo-com.svg" width="250"></a> | **align-horizontal-svgrepo-com.svg** |
+| <a href="align-left-svgrepo-com.svg"><img src="align-left-svgrepo-com.svg" width="250"></a> | **align-left-svgrepo-com.svg** |
+| <a href="align-right-svgrepo-com.svg"><img src="align-right-svgrepo-com.svg" width="250"></a> | **align-right-svgrepo-com.svg** |
+| <a href="align-top-svgrepo-com.svg"><img src="align-top-svgrepo-com.svg" width="250"></a> | **align-top-svgrepo-com.svg** |
+| <a href="align-verticle-svgrepo-com.svg"><img src="align-verticle-svgrepo-com.svg" width="250"></a> | **align-verticle-svgrepo-com.svg** |
+| <a href="anchor-svgrepo-com.svg"><img src="anchor-svgrepo-com.svg" width="250"></a> | **anchor-svgrepo-com.svg** |
+| <a href="arcadestick-svgrepo-com.svg"><img src="arcadestick-svgrepo-com.svg" width="250"></a> | **arcadestick-svgrepo-com.svg** |
+| <a href="archive-svgrepo-com.svg"><img src="archive-svgrepo-com.svg" width="250"></a> | **archive-svgrepo-com.svg** |
+| <a href="arrows-down-svgrepo-com.svg"><img src="arrows-down-svgrepo-com.svg" width="250"></a> | **arrows-down-svgrepo-com.svg** |
+| <a href="arrows-horizontal-svgrepo-com.svg"><img src="arrows-horizontal-svgrepo-com.svg" width="250"></a> | **arrows-horizontal-svgrepo-com.svg** |
+| <a href="arrows-left-svgrepo-com.svg"><img src="arrows-left-svgrepo-com.svg" width="250"></a> | **arrows-left-svgrepo-com.svg** |
+| <a href="arrows-right-svgrepo-com.svg"><img src="arrows-right-svgrepo-com.svg" width="250"></a> | **arrows-right-svgrepo-com.svg** |
+| <a href="arrows-up-svgrepo-com.svg"><img src="arrows-up-svgrepo-com.svg" width="250"></a> | **arrows-up-svgrepo-com.svg** |
+| <a href="arrows-verticle-svgrepo-com.svg"><img src="arrows-verticle-svgrepo-com.svg" width="250"></a> | **arrows-verticle-svgrepo-com.svg** |
+| <a href="audio-svgrepo-com.svg"><img src="audio-svgrepo-com.svg" width="250"></a> | **audio-svgrepo-com.svg** |
+| <a href="branch-svgrepo-com.svg"><img src="branch-svgrepo-com.svg" width="250"></a> | **branch-svgrepo-com.svg** |
+| <a href="browser-svgrepo-com.svg"><img src="browser-svgrepo-com.svg" width="250"></a> | **browser-svgrepo-com.svg** |
+| <a href="calculator-svgrepo-com.svg"><img src="calculator-svgrepo-com.svg" width="250"></a> | **calculator-svgrepo-com.svg** |
+| <a href="calendar-svgrepo-com.svg"><img src="calendar-svgrepo-com.svg" width="250"></a> | **calendar-svgrepo-com.svg** |
+| <a href="chat-svgrepo-com.svg"><img src="chat-svgrepo-com.svg" width="250"></a> | **chat-svgrepo-com.svg** |
+| <a href="circle-arrow-down-svgrepo-com.svg"><img src="circle-arrow-down-svgrepo-com.svg" width="250"></a> | **circle-arrow-down-svgrepo-com.svg** |
+| <a href="circle-arrow-left-svgrepo-com.svg"><img src="circle-arrow-left-svgrepo-com.svg" width="250"></a> | **circle-arrow-left-svgrepo-com.svg** |
+| <a href="circle-arrow-right-svgrepo-com.svg"><img src="circle-arrow-right-svgrepo-com.svg" width="250"></a> | **circle-arrow-right-svgrepo-com.svg** |
+| <a href="circle-arrow-up-svgrepo-com.svg"><img src="circle-arrow-up-svgrepo-com.svg" width="250"></a> | **circle-arrow-up-svgrepo-com.svg** |
+| <a href="circle-attention-svgrepo-com.svg"><img src="circle-attention-svgrepo-com.svg" width="250"></a> | **circle-attention-svgrepo-com.svg** |
+| <a href="circle-delete-svgrepo-com.svg"><img src="circle-delete-svgrepo-com.svg" width="250"></a> | **circle-delete-svgrepo-com.svg** |
+| <a href="circle-info-svgrepo-com.svg"><img src="circle-info-svgrepo-com.svg" width="250"></a> | **circle-info-svgrepo-com.svg** |
+| <a href="circle-minus-svgrepo-com.svg"><img src="circle-minus-svgrepo-com.svg" width="250"></a> | **circle-minus-svgrepo-com.svg** |
+| <a href="circle-pause-svgrepo-com.svg"><img src="circle-pause-svgrepo-com.svg" width="250"></a> | **circle-pause-svgrepo-com.svg** |
+| <a href="circle-play-svgrepo-com.svg"><img src="circle-play-svgrepo-com.svg" width="250"></a> | **circle-play-svgrepo-com.svg** |
+| <a href="circle-plus-svgrepo-com.svg"><img src="circle-plus-svgrepo-com.svg" width="250"></a> | **circle-plus-svgrepo-com.svg** |
+| <a href="circle-skip-left-svgrepo-com.svg"><img src="circle-skip-left-svgrepo-com.svg" width="250"></a> | **circle-skip-left-svgrepo-com.svg** |
+| <a href="circle-skip-right-svgrepo-com.svg"><img src="circle-skip-right-svgrepo-com.svg" width="250"></a> | **circle-skip-right-svgrepo-com.svg** |
+| <a href="circle-tick-svgrepo-com.svg"><img src="circle-tick-svgrepo-com.svg" width="250"></a> | **circle-tick-svgrepo-com.svg** |
+| <a href="clock-svgrepo-com.svg"><img src="clock-svgrepo-com.svg" width="250"></a> | **clock-svgrepo-com.svg** |
+| <a href="contrast-svgrepo-com.svg"><img src="contrast-svgrepo-com.svg" width="250"></a> | **contrast-svgrepo-com.svg** |
+| <a href="copy-svgrepo-com.svg"><img src="copy-svgrepo-com.svg" width="250"></a> | **copy-svgrepo-com.svg** |
+| <a href="cross-svgrepo-com.svg"><img src="cross-svgrepo-com.svg" width="250"></a> | **cross-svgrepo-com.svg** |
+| <a href="crosshair-svgrepo-com.svg"><img src="crosshair-svgrepo-com.svg" width="250"></a> | **crosshair-svgrepo-com.svg** |
+| <a href="cup-svgrepo-com.svg"><img src="cup-svgrepo-com.svg" width="250"></a> | **cup-svgrepo-com.svg** |
+| <a href="diamond-svgrepo-com.svg"><img src="diamond-svgrepo-com.svg" width="250"></a> | **diamond-svgrepo-com.svg** |
+| <a href="exit-svgrepo-com.svg"><img src="exit-svgrepo-com.svg" width="250"></a> | **exit-svgrepo-com.svg** |
+| <a href="external-svgrepo-com.svg"><img src="external-svgrepo-com.svg" width="250"></a> | **external-svgrepo-com.svg** |
+| <a href="factory-svgrepo-com.svg"><img src="factory-svgrepo-com.svg" width="250"></a> | **factory-svgrepo-com.svg** |
+| <a href="file-download-svgrepo-com.svg"><img src="file-download-svgrepo-com.svg" width="250"></a> | **file-download-svgrepo-com.svg** |
+| <a href="file-text-svgrepo-com.svg"><img src="file-text-svgrepo-com.svg" width="250"></a> | **file-text-svgrepo-com.svg** |
+| <a href="file-upload-svgrepo-com.svg"><img src="file-upload-svgrepo-com.svg" width="250"></a> | **file-upload-svgrepo-com.svg** |
+| <a href="flag-svgrepo-com.svg"><img src="flag-svgrepo-com.svg" width="250"></a> | **flag-svgrepo-com.svg** |
+| <a href="flower-svgrepo-com.svg"><img src="flower-svgrepo-com.svg" width="250"></a> | **flower-svgrepo-com.svg** |
+| <a href="folder-svgrepo-com.svg"><img src="folder-svgrepo-com.svg" width="250"></a> | **folder-svgrepo-com.svg** |
+| <a href="font-svgrepo-com.svg"><img src="font-svgrepo-com.svg" width="250"></a> | **font-svgrepo-com.svg** |
+| <a href="fork-svgrepo-com.svg"><img src="fork-svgrepo-com.svg" width="250"></a> | **fork-svgrepo-com.svg** |
+| <a href="frown-svgrepo-com.svg"><img src="frown-svgrepo-com.svg" width="250"></a> | **frown-svgrepo-com.svg** |
+| <a href="fullscreen-svgrepo-com.svg"><img src="fullscreen-svgrepo-com.svg" width="250"></a> | **fullscreen-svgrepo-com.svg** |
+| <a href="ghost-svgrepo-com.svg"><img src="ghost-svgrepo-com.svg" width="250"></a> | **ghost-svgrepo-com.svg** |
+| <a href="heart-svgrepo-com.svg"><img src="heart-svgrepo-com.svg" width="250"></a> | **heart-svgrepo-com.svg** |
+| <a href="house-svgrepo-com.svg"><img src="house-svgrepo-com.svg" width="250"></a> | **house-svgrepo-com.svg** |
+| <a href="justify-center-svgrepo-com.svg"><img src="justify-center-svgrepo-com.svg" width="250"></a> | **justify-center-svgrepo-com.svg** |
+| <a href="justify-left-svgrepo-com.svg"><img src="justify-left-svgrepo-com.svg" width="250"></a> | **justify-left-svgrepo-com.svg** |
+| <a href="justify-right-svgrepo-com.svg"><img src="justify-right-svgrepo-com.svg" width="250"></a> | **justify-right-svgrepo-com.svg** |
+| <a href="layout-svgrepo-com.svg"><img src="layout-svgrepo-com.svg" width="250"></a> | **layout-svgrepo-com.svg** |
+| <a href="lock-svgrepo-com.svg"><img src="lock-svgrepo-com.svg" width="250"></a> | **lock-svgrepo-com.svg** |
+| <a href="mail-inbox-svgrepo-com.svg"><img src="mail-inbox-svgrepo-com.svg" width="250"></a> | **mail-inbox-svgrepo-com.svg** |
+| <a href="mail-open-svgrepo-com.svg"><img src="mail-open-svgrepo-com.svg" width="250"></a> | **mail-open-svgrepo-com.svg** |
+| <a href="mail-outbox-svgrepo-com.svg"><img src="mail-outbox-svgrepo-com.svg" width="250"></a> | **mail-outbox-svgrepo-com.svg** |
+| <a href="maximise-svgrepo-com.svg"><img src="maximise-svgrepo-com.svg" width="250"></a> | **maximise-svgrepo-com.svg** |
+| <a href="menu-four-svgrepo-com.svg"><img src="menu-four-svgrepo-com.svg" width="250"></a> | **menu-four-svgrepo-com.svg** |
+| <a href="menu-two-svgrepo-com.svg"><img src="menu-two-svgrepo-com.svg" width="250"></a> | **menu-two-svgrepo-com.svg** |
+| <a href="microphone-svgrepo-com.svg"><img src="microphone-svgrepo-com.svg" width="250"></a> | **microphone-svgrepo-com.svg** |
+| <a href="minimise-svgrepo-com.svg"><img src="minimise-svgrepo-com.svg" width="250"></a> | **minimise-svgrepo-com.svg** |
+| <a href="monitor-svgrepo-com.svg"><img src="monitor-svgrepo-com.svg" width="250"></a> | **monitor-svgrepo-com.svg** |
+| <a href="network-port-svgrepo-com.svg"><img src="network-port-svgrepo-com.svg" width="250"></a> | **network-port-svgrepo-com.svg** |
+| <a href="network-svgrepo-com.svg"><img src="network-svgrepo-com.svg" width="250"></a> | **network-svgrepo-com.svg** |
+| <a href="noentry-svgrepo-com.svg"><img src="noentry-svgrepo-com.svg" width="250"></a> | **noentry-svgrepo-com.svg** |
+| <a href="notification-svgrepo-com.svg"><img src="notification-svgrepo-com.svg" width="250"></a> | **notification-svgrepo-com.svg** |
+| <a href="photo-svgrepo-com.svg"><img src="photo-svgrepo-com.svg" width="250"></a> | **photo-svgrepo-com.svg** |
+| <a href="photoset-svgrepo-com.svg"><img src="photoset-svgrepo-com.svg" width="250"></a> | **photoset-svgrepo-com.svg** |
+| <a href="pie-svgrepo-com.svg"><img src="pie-svgrepo-com.svg" width="250"></a> | **pie-svgrepo-com.svg** |
+| <a href="pin-svgrepo-com.svg"><img src="pin-svgrepo-com.svg" width="250"></a> | **pin-svgrepo-com.svg** |
+| <a href="pixel-magnifying-glass-svgrepo-com.svg"><img src="pixel-magnifying-glass-svgrepo-com.svg" width="250"></a> | **pixel-magnifying-glass-svgrepo-com.svg** |
+| <a href="pixelarticons-svgrepo-com.svg"><img src="pixelarticons-svgrepo-com.svg" width="250"></a> | **pixelarticons-svgrepo-com.svg** |
+| <a href="plug-svgrepo-com.svg"><img src="plug-svgrepo-com.svg" width="250"></a> | **plug-svgrepo-com.svg** |
+| <a href="printer-svgrepo-com.svg"><img src="printer-svgrepo-com.svg" width="250"></a> | **printer-svgrepo-com.svg** |
+| <a href="quote-svgrepo-com.svg"><img src="quote-svgrepo-com.svg" width="250"></a> | **quote-svgrepo-com.svg** |
+| <a href="refresh-svgrepo-com.svg"><img src="refresh-svgrepo-com.svg" width="250"></a> | **refresh-svgrepo-com.svg** |
+| <a href="robot-svgrepo-com.svg"><img src="robot-svgrepo-com.svg" width="250"></a> | **robot-svgrepo-com.svg** |
+| <a href="save-svgrepo-com.svg"><img src="save-svgrepo-com.svg" width="250"></a> | **save-svgrepo-com.svg** |
+| <a href="scissors-svgrepo-com.svg"><img src="scissors-svgrepo-com.svg" width="250"></a> | **scissors-svgrepo-com.svg** |
+| <a href="search-svgrepo-com.svg"><img src="search-svgrepo-com.svg" width="250"></a> | **search-svgrepo-com.svg** |
+| <a href="server-svgrepo-com.svg"><img src="server-svgrepo-com.svg" width="250"></a> | **server-svgrepo-com.svg** |
+| <a href="settings-svgrepo-com.svg"><img src="settings-svgrepo-com.svg" width="250"></a> | **settings-svgrepo-com.svg** |
+| <a href="share-svgrepo-com.svg"><img src="share-svgrepo-com.svg" width="250"></a> | **share-svgrepo-com.svg** |
+| <a href="skull-svgrepo-com.svg"><img src="skull-svgrepo-com.svg" width="250"></a> | **skull-svgrepo-com.svg** |
+| <a href="smile-svgrepo-com.svg"><img src="smile-svgrepo-com.svg" width="250"></a> | **smile-svgrepo-com.svg** |
+| <a href="sort-ascending-svgrepo-com.svg"><img src="sort-ascending-svgrepo-com.svg" width="250"></a> | **sort-ascending-svgrepo-com.svg** |
+| <a href="sort-descending-svgrepo-com.svg"><img src="sort-descending-svgrepo-com.svg" width="250"></a> | **sort-descending-svgrepo-com.svg** |
+| <a href="sound-off-svgrepo-com.svg"><img src="sound-off-svgrepo-com.svg" width="250"></a> | **sound-off-svgrepo-com.svg** |
+| <a href="sound-on-svgrepo-com.svg"><img src="sound-on-svgrepo-com.svg" width="250"></a> | **sound-on-svgrepo-com.svg** |
+| <a href="soup-svgrepo-com.svg"><img src="soup-svgrepo-com.svg" width="250"></a> | **soup-svgrepo-com.svg** |
+| <a href="square-arrow-down-svgrepo-com.svg"><img src="square-arrow-down-svgrepo-com.svg" width="250"></a> | **square-arrow-down-svgrepo-com.svg** |
+| <a href="square-arrow-left-svgrepo-com.svg"><img src="square-arrow-left-svgrepo-com.svg" width="250"></a> | **square-arrow-left-svgrepo-com.svg** |
+| <a href="square-arrow-right-svgrepo-com.svg"><img src="square-arrow-right-svgrepo-com.svg" width="250"></a> | **square-arrow-right-svgrepo-com.svg** |
+| <a href="square-arrow-up-svgrepo-com.svg"><img src="square-arrow-up-svgrepo-com.svg" width="250"></a> | **square-arrow-up-svgrepo-com.svg** |
+| <a href="square-attention-svgrepo-com.svg"><img src="square-attention-svgrepo-com.svg" width="250"></a> | **square-attention-svgrepo-com.svg** |
+| <a href="square-delete-svgrepo-com.svg"><img src="square-delete-svgrepo-com.svg" width="250"></a> | **square-delete-svgrepo-com.svg** |
+| <a href="square-info-svgrepo-com.svg"><img src="square-info-svgrepo-com.svg" width="250"></a> | **square-info-svgrepo-com.svg** |
+| <a href="square-lock-svgrepo-com.svg"><img src="square-lock-svgrepo-com.svg" width="250"></a> | **square-lock-svgrepo-com.svg** |
+| <a href="square-minus-svgrepo-com.svg"><img src="square-minus-svgrepo-com.svg" width="250"></a> | **square-minus-svgrepo-com.svg** |
+| <a href="square-more-svgrepo-com.svg"><img src="square-more-svgrepo-com.svg" width="250"></a> | **square-more-svgrepo-com.svg** |
+| <a href="square-pause-svgrepo-com.svg"><img src="square-pause-svgrepo-com.svg" width="250"></a> | **square-pause-svgrepo-com.svg** |
+| <a href="square-play-svgrepo-com.svg"><img src="square-play-svgrepo-com.svg" width="250"></a> | **square-play-svgrepo-com.svg** |
+| <a href="square-plus-svgrepo-com.svg"><img src="square-plus-svgrepo-com.svg" width="250"></a> | **square-plus-svgrepo-com.svg** |
+| <a href="square-skip-left-svgrepo-com.svg"><img src="square-skip-left-svgrepo-com.svg" width="250"></a> | **square-skip-left-svgrepo-com.svg** |
+| <a href="square-skip-right-svgrepo-com.svg"><img src="square-skip-right-svgrepo-com.svg" width="250"></a> | **square-skip-right-svgrepo-com.svg** |
+| <a href="square-tick-svgrepo-com.svg"><img src="square-tick-svgrepo-com.svg" width="250"></a> | **square-tick-svgrepo-com.svg** |
+| <a href="stack-svgrepo-com.svg"><img src="stack-svgrepo-com.svg" width="250"></a> | **stack-svgrepo-com.svg** |
+| <a href="stockgraph-svgrepo-com.svg"><img src="stockgraph-svgrepo-com.svg" width="250"></a> | **stockgraph-svgrepo-com.svg** |
+| <a href="tag-svgrepo-com.svg"><img src="tag-svgrepo-com.svg" width="250"></a> | **tag-svgrepo-com.svg** |
+| <a href="target-svgrepo-com.svg"><img src="target-svgrepo-com.svg" width="250"></a> | **target-svgrepo-com.svg** |
+| <a href="thumbdown-svgrepo-com.svg"><img src="thumbdown-svgrepo-com.svg" width="250"></a> | **thumbdown-svgrepo-com.svg** |
+| <a href="thumbup-svgrepo-com.svg"><img src="thumbup-svgrepo-com.svg" width="250"></a> | **thumbup-svgrepo-com.svg** |
+| <a href="towerblock-svgrepo-com.svg"><img src="towerblock-svgrepo-com.svg" width="250"></a> | **towerblock-svgrepo-com.svg** |
+| <a href="usb-svgrepo-com.svg"><img src="usb-svgrepo-com.svg" width="250"></a> | **usb-svgrepo-com.svg** |
+| <a href="video-svgrepo-com.svg"><img src="video-svgrepo-com.svg" width="250"></a> | **video-svgrepo-com.svg** |
+| <a href="zip-svgrepo-com.svg"><img src="zip-svgrepo-com.svg" width="250"></a> | **zip-svgrepo-com.svg** |

@@ -1,70 +1,70 @@
-# 🖼️ design 素材庫
+# 🖼️ design
 
 [⬅️ 返回主目錄](../../../../README.md)
 
-| 預覽 (點擊放大) | 檔案資訊 |
+| 預覽 | 資訊 |
 | :--- | :--- |
-| <a href="anticlockwise_fill.svg"><img src="anticlockwise_fill.svg" width="250"></a> | **anticlockwise_fill.svg**<br>Vector (SVG) | 14.11KB |
-| <a href="anticlockwise_line.svg"><img src="anticlockwise_line.svg" width="250"></a> | **anticlockwise_line.svg**<br>Vector (SVG) | 14.20KB |
-| <a href="bling_fill.svg"><img src="bling_fill.svg" width="250"></a> | **bling_fill.svg**<br>Vector (SVG) | 14.30KB |
-| <a href="bling_line.svg"><img src="bling_line.svg" width="250"></a> | **bling_line.svg**<br>Vector (SVG) | 14.54KB |
-| <a href="brightness_fill.svg"><img src="brightness_fill.svg" width="250"></a> | **brightness_fill.svg**<br>Vector (SVG) | 15.86KB |
-| <a href="brightness_line.svg"><img src="brightness_line.svg" width="250"></a> | **brightness_line.svg**<br>Vector (SVG) | 15.85KB |
-| <a href="clockwise_fill.svg"><img src="clockwise_fill.svg" width="250"></a> | **clockwise_fill.svg**<br>Vector (SVG) | 14.10KB |
-| <a href="clockwise_line.svg"><img src="clockwise_line.svg" width="250"></a> | **clockwise_line.svg**<br>Vector (SVG) | 14.19KB |
-| <a href="color_filter_fill.svg"><img src="color_filter_fill.svg" width="250"></a> | **color_filter_fill.svg**<br>Vector (SVG) | 14.04KB |
-| <a href="color_filter_line.svg"><img src="color_filter_line.svg" width="250"></a> | **color_filter_line.svg**<br>Vector (SVG) | 14.80KB |
-| <a href="color_picker_fill.svg"><img src="color_picker_fill.svg" width="250"></a> | **color_picker_fill.svg**<br>Vector (SVG) | 15.61KB |
-| <a href="color_picker_line.svg"><img src="color_picker_line.svg" width="250"></a> | **color_picker_line.svg**<br>Vector (SVG) | 15.96KB |
-| <a href="drop_fill.svg"><img src="drop_fill.svg" width="250"></a> | **drop_fill.svg**<br>Vector (SVG) | 13.91KB |
-| <a href="drop_line.svg"><img src="drop_line.svg" width="250"></a> | **drop_line.svg**<br>Vector (SVG) | 14.20KB |
-| <a href="flip_horizontal_fill.svg"><img src="flip_horizontal_fill.svg" width="250"></a> | **flip_horizontal_fill.svg**<br>Vector (SVG) | 14.27KB |
-| <a href="flip_horizontal_line.svg"><img src="flip_horizontal_line.svg" width="250"></a> | **flip_horizontal_line.svg**<br>Vector (SVG) | 14.28KB |
-| <a href="flip_vertical_fill.svg"><img src="flip_vertical_fill.svg" width="250"></a> | **flip_vertical_fill.svg**<br>Vector (SVG) | 14.12KB |
-| <a href="flip_vertical_line.svg"><img src="flip_vertical_line.svg" width="250"></a> | **flip_vertical_line.svg**<br>Vector (SVG) | 14.23KB |
-| <a href="knife_fill.svg"><img src="knife_fill.svg" width="250"></a> | **knife_fill.svg**<br>Vector (SVG) | 13.74KB |
-| <a href="knife_line.svg"><img src="knife_line.svg" width="250"></a> | **knife_line.svg**<br>Vector (SVG) | 13.92KB |
-| <a href="layout_fill.svg"><img src="layout_fill.svg" width="250"></a> | **layout_fill.svg**<br>Vector (SVG) | 13.71KB |
-| <a href="layout_line.svg"><img src="layout_line.svg" width="250"></a> | **layout_line.svg**<br>Vector (SVG) | 13.73KB |
-| <a href="magic_1_fill.svg"><img src="magic_1_fill.svg" width="250"></a> | **magic_1_fill.svg**<br>Vector (SVG) | 3.48KB |
-| <a href="magic_1_line.svg"><img src="magic_1_line.svg" width="250"></a> | **magic_1_line.svg**<br>Vector (SVG) | 4.24KB |
-| <a href="magic_2_fill.svg"><img src="magic_2_fill.svg" width="250"></a> | **magic_2_fill.svg**<br>Vector (SVG) | 15.25KB |
-| <a href="magic_2_line.svg"><img src="magic_2_line.svg" width="250"></a> | **magic_2_line.svg**<br>Vector (SVG) | 15.24KB |
-| <a href="mark_pen_fill.svg"><img src="mark_pen_fill.svg" width="250"></a> | **mark_pen_fill.svg**<br>Vector (SVG) | 13.99KB |
-| <a href="mark_pen_line.svg"><img src="mark_pen_line.svg" width="250"></a> | **mark_pen_line.svg**<br>Vector (SVG) | 14.24KB |
-| <a href="markup_fill.svg"><img src="markup_fill.svg" width="250"></a> | **markup_fill.svg**<br>Vector (SVG) | 16.47KB |
-| <a href="markup_line.svg"><img src="markup_line.svg" width="250"></a> | **markup_line.svg**<br>Vector (SVG) | 17.24KB |
-| <a href="mosaic_fill.svg"><img src="mosaic_fill.svg" width="250"></a> | **mosaic_fill.svg**<br>Vector (SVG) | 13.86KB |
-| <a href="mosaic_line.svg"><img src="mosaic_line.svg" width="250"></a> | **mosaic_line.svg**<br>Vector (SVG) | 13.95KB |
-| <a href="paint_2_fill.svg"><img src="paint_2_fill.svg" width="250"></a> | **paint_2_fill.svg**<br>Vector (SVG) | 14.01KB |
-| <a href="paint_2_line.svg"><img src="paint_2_line.svg" width="250"></a> | **paint_2_line.svg**<br>Vector (SVG) | 14.29KB |
-| <a href="paint_brush_fill.svg"><img src="paint_brush_fill.svg" width="250"></a> | **paint_brush_fill.svg**<br>Vector (SVG) | 16.36KB |
-| <a href="paint_brush_line.svg"><img src="paint_brush_line.svg" width="250"></a> | **paint_brush_line.svg**<br>Vector (SVG) | 16.65KB |
-| <a href="palette_2_fill.svg"><img src="palette_2_fill.svg" width="250"></a> | **palette_2_fill.svg**<br>Vector (SVG) | 14.20KB |
-| <a href="palette_2_line.svg"><img src="palette_2_line.svg" width="250"></a> | **palette_2_line.svg**<br>Vector (SVG) | 14.29KB |
-| <a href="palette_fill.svg"><img src="palette_fill.svg" width="250"></a> | **palette_fill.svg**<br>Vector (SVG) | 16.51KB |
-| <a href="palette_line.svg"><img src="palette_line.svg" width="250"></a> | **palette_line.svg**<br>Vector (SVG) | 17.27KB |
-| <a href="paster_fill.svg"><img src="paster_fill.svg" width="250"></a> | **paster_fill.svg**<br>Vector (SVG) | 13.92KB |
-| <a href="paster_line.svg"><img src="paster_line.svg" width="250"></a> | **paster_line.svg**<br>Vector (SVG) | 14.18KB |
-| <a href="pen_fill.svg"><img src="pen_fill.svg" width="250"></a> | **pen_fill.svg**<br>Vector (SVG) | 16.14KB |
-| <a href="pen_line.svg"><img src="pen_line.svg" width="250"></a> | **pen_line.svg**<br>Vector (SVG) | 16.48KB |
-| <a href="quill_pen_fill.svg"><img src="quill_pen_fill.svg" width="250"></a> | **quill_pen_fill.svg**<br>Vector (SVG) | 16.02KB |
-| <a href="quill_pen_line.svg"><img src="quill_pen_line.svg" width="250"></a> | **quill_pen_line.svg**<br>Vector (SVG) | 16.68KB |
-| <a href="ruler_fill.svg"><img src="ruler_fill.svg" width="250"></a> | **ruler_fill.svg**<br>Vector (SVG) | 14.91KB |
-| <a href="ruler_line.svg"><img src="ruler_line.svg" width="250"></a> | **ruler_line.svg**<br>Vector (SVG) | 14.44KB |
-| <a href="scale_fill.svg"><img src="scale_fill.svg" width="250"></a> | **scale_fill.svg**<br>Vector (SVG) | 14.51KB |
-| <a href="scale_line.svg"><img src="scale_line.svg" width="250"></a> | **scale_line.svg**<br>Vector (SVG) | 14.27KB |
-| <a href="scissors_2_fill.svg"><img src="scissors_2_fill.svg" width="250"></a> | **scissors_2_fill.svg**<br>Vector (SVG) | 17.08KB |
-| <a href="scissors_2_line.svg"><img src="scissors_2_line.svg" width="250"></a> | **scissors_2_line.svg**<br>Vector (SVG) | 17.02KB |
-| <a href="scissors_3_fill.svg"><img src="scissors_3_fill.svg" width="250"></a> | **scissors_3_fill.svg**<br>Vector (SVG) | 15.54KB |
-| <a href="scissors_3_line.svg"><img src="scissors_3_line.svg" width="250"></a> | **scissors_3_line.svg**<br>Vector (SVG) | 15.35KB |
-| <a href="scissors_fill.svg"><img src="scissors_fill.svg" width="250"></a> | **scissors_fill.svg**<br>Vector (SVG) | 14.52KB |
-| <a href="scissors_line.svg"><img src="scissors_line.svg" width="250"></a> | **scissors_line.svg**<br>Vector (SVG) | 14.49KB |
-| <a href="screenshot_fill.svg"><img src="screenshot_fill.svg" width="250"></a> | **screenshot_fill.svg**<br>Vector (SVG) | 13.98KB |
-| <a href="screenshot_line.svg"><img src="screenshot_line.svg" width="250"></a> | **screenshot_line.svg**<br>Vector (SVG) | 13.98KB |
-| <a href="vector_bezier_2_fill.svg"><img src="vector_bezier_2_fill.svg" width="250"></a> | **vector_bezier_2_fill.svg**<br>Vector (SVG) | 14.45KB |
-| <a href="vector_bezier_2_line.svg"><img src="vector_bezier_2_line.svg" width="250"></a> | **vector_bezier_2_line.svg**<br>Vector (SVG) | 14.56KB |
-| <a href="vector_bezier_3_fill.svg"><img src="vector_bezier_3_fill.svg" width="250"></a> | **vector_bezier_3_fill.svg**<br>Vector (SVG) | 14.34KB |
-| <a href="vector_bezier_3_line.svg"><img src="vector_bezier_3_line.svg" width="250"></a> | **vector_bezier_3_line.svg**<br>Vector (SVG) | 14.49KB |
-| <a href="vector_bezier_fill.svg"><img src="vector_bezier_fill.svg" width="250"></a> | **vector_bezier_fill.svg**<br>Vector (SVG) | 3.37KB |
-| <a href="vector_bezier_line.svg"><img src="vector_bezier_line.svg" width="250"></a> | **vector_bezier_line.svg**<br>Vector (SVG) | 3.43KB |
+| <a href="anticlockwise_fill.svg"><img src="anticlockwise_fill.svg" width="250"></a> | **anticlockwise_fill.svg** |
+| <a href="anticlockwise_line.svg"><img src="anticlockwise_line.svg" width="250"></a> | **anticlockwise_line.svg** |
+| <a href="bling_fill.svg"><img src="bling_fill.svg" width="250"></a> | **bling_fill.svg** |
+| <a href="bling_line.svg"><img src="bling_line.svg" width="250"></a> | **bling_line.svg** |
+| <a href="brightness_fill.svg"><img src="brightness_fill.svg" width="250"></a> | **brightness_fill.svg** |
+| <a href="brightness_line.svg"><img src="brightness_line.svg" width="250"></a> | **brightness_line.svg** |
+| <a href="clockwise_fill.svg"><img src="clockwise_fill.svg" width="250"></a> | **clockwise_fill.svg** |
+| <a href="clockwise_line.svg"><img src="clockwise_line.svg" width="250"></a> | **clockwise_line.svg** |
+| <a href="color_filter_fill.svg"><img src="color_filter_fill.svg" width="250"></a> | **color_filter_fill.svg** |
+| <a href="color_filter_line.svg"><img src="color_filter_line.svg" width="250"></a> | **color_filter_line.svg** |
+| <a href="color_picker_fill.svg"><img src="color_picker_fill.svg" width="250"></a> | **color_picker_fill.svg** |
+| <a href="color_picker_line.svg"><img src="color_picker_line.svg" width="250"></a> | **color_picker_line.svg** |
+| <a href="drop_fill.svg"><img src="drop_fill.svg" width="250"></a> | **drop_fill.svg** |
+| <a href="drop_line.svg"><img src="drop_line.svg" width="250"></a> | **drop_line.svg** |
+| <a href="flip_horizontal_fill.svg"><img src="flip_horizontal_fill.svg" width="250"></a> | **flip_horizontal_fill.svg** |
+| <a href="flip_horizontal_line.svg"><img src="flip_horizontal_line.svg" width="250"></a> | **flip_horizontal_line.svg** |
+| <a href="flip_vertical_fill.svg"><img src="flip_vertical_fill.svg" width="250"></a> | **flip_vertical_fill.svg** |
+| <a href="flip_vertical_line.svg"><img src="flip_vertical_line.svg" width="250"></a> | **flip_vertical_line.svg** |
+| <a href="knife_fill.svg"><img src="knife_fill.svg" width="250"></a> | **knife_fill.svg** |
+| <a href="knife_line.svg"><img src="knife_line.svg" width="250"></a> | **knife_line.svg** |
+| <a href="layout_fill.svg"><img src="layout_fill.svg" width="250"></a> | **layout_fill.svg** |
+| <a href="layout_line.svg"><img src="layout_line.svg" width="250"></a> | **layout_line.svg** |
+| <a href="magic_1_fill.svg"><img src="magic_1_fill.svg" width="250"></a> | **magic_1_fill.svg** |
+| <a href="magic_1_line.svg"><img src="magic_1_line.svg" width="250"></a> | **magic_1_line.svg** |
+| <a href="magic_2_fill.svg"><img src="magic_2_fill.svg" width="250"></a> | **magic_2_fill.svg** |
+| <a href="magic_2_line.svg"><img src="magic_2_line.svg" width="250"></a> | **magic_2_line.svg** |
+| <a href="mark_pen_fill.svg"><img src="mark_pen_fill.svg" width="250"></a> | **mark_pen_fill.svg** |
+| <a href="mark_pen_line.svg"><img src="mark_pen_line.svg" width="250"></a> | **mark_pen_line.svg** |
+| <a href="markup_fill.svg"><img src="markup_fill.svg" width="250"></a> | **markup_fill.svg** |
+| <a href="markup_line.svg"><img src="markup_line.svg" width="250"></a> | **markup_line.svg** |
+| <a href="mosaic_fill.svg"><img src="mosaic_fill.svg" width="250"></a> | **mosaic_fill.svg** |
+| <a href="mosaic_line.svg"><img src="mosaic_line.svg" width="250"></a> | **mosaic_line.svg** |
+| <a href="paint_2_fill.svg"><img src="paint_2_fill.svg" width="250"></a> | **paint_2_fill.svg** |
+| <a href="paint_2_line.svg"><img src="paint_2_line.svg" width="250"></a> | **paint_2_line.svg** |
+| <a href="paint_brush_fill.svg"><img src="paint_brush_fill.svg" width="250"></a> | **paint_brush_fill.svg** |
+| <a href="paint_brush_line.svg"><img src="paint_brush_line.svg" width="250"></a> | **paint_brush_line.svg** |
+| <a href="palette_2_fill.svg"><img src="palette_2_fill.svg" width="250"></a> | **palette_2_fill.svg** |
+| <a href="palette_2_line.svg"><img src="palette_2_line.svg" width="250"></a> | **palette_2_line.svg** |
+| <a href="palette_fill.svg"><img src="palette_fill.svg" width="250"></a> | **palette_fill.svg** |
+| <a href="palette_line.svg"><img src="palette_line.svg" width="250"></a> | **palette_line.svg** |
+| <a href="paster_fill.svg"><img src="paster_fill.svg" width="250"></a> | **paster_fill.svg** |
+| <a href="paster_line.svg"><img src="paster_line.svg" width="250"></a> | **paster_line.svg** |
+| <a href="pen_fill.svg"><img src="pen_fill.svg" width="250"></a> | **pen_fill.svg** |
+| <a href="pen_line.svg"><img src="pen_line.svg" width="250"></a> | **pen_line.svg** |
+| <a href="quill_pen_fill.svg"><img src="quill_pen_fill.svg" width="250"></a> | **quill_pen_fill.svg** |
+| <a href="quill_pen_line.svg"><img src="quill_pen_line.svg" width="250"></a> | **quill_pen_line.svg** |
+| <a href="ruler_fill.svg"><img src="ruler_fill.svg" width="250"></a> | **ruler_fill.svg** |
+| <a href="ruler_line.svg"><img src="ruler_line.svg" width="250"></a> | **ruler_line.svg** |
+| <a href="scale_fill.svg"><img src="scale_fill.svg" width="250"></a> | **scale_fill.svg** |
+| <a href="scale_line.svg"><img src="scale_line.svg" width="250"></a> | **scale_line.svg** |
+| <a href="scissors_2_fill.svg"><img src="scissors_2_fill.svg" width="250"></a> | **scissors_2_fill.svg** |
+| <a href="scissors_2_line.svg"><img src="scissors_2_line.svg" width="250"></a> | **scissors_2_line.svg** |
+| <a href="scissors_3_fill.svg"><img src="scissors_3_fill.svg" width="250"></a> | **scissors_3_fill.svg** |
+| <a href="scissors_3_line.svg"><img src="scissors_3_line.svg" width="250"></a> | **scissors_3_line.svg** |
+| <a href="scissors_fill.svg"><img src="scissors_fill.svg" width="250"></a> | **scissors_fill.svg** |
+| <a href="scissors_line.svg"><img src="scissors_line.svg" width="250"></a> | **scissors_line.svg** |
+| <a href="screenshot_fill.svg"><img src="screenshot_fill.svg" width="250"></a> | **screenshot_fill.svg** |
+| <a href="screenshot_line.svg"><img src="screenshot_line.svg" width="250"></a> | **screenshot_line.svg** |
+| <a href="vector_bezier_2_fill.svg"><img src="vector_bezier_2_fill.svg" width="250"></a> | **vector_bezier_2_fill.svg** |
+| <a href="vector_bezier_2_line.svg"><img src="vector_bezier_2_line.svg" width="250"></a> | **vector_bezier_2_line.svg** |
+| <a href="vector_bezier_3_fill.svg"><img src="vector_bezier_3_fill.svg" width="250"></a> | **vector_bezier_3_fill.svg** |
+| <a href="vector_bezier_3_line.svg"><img src="vector_bezier_3_line.svg" width="250"></a> | **vector_bezier_3_line.svg** |
+| <a href="vector_bezier_fill.svg"><img src="vector_bezier_fill.svg" width="250"></a> | **vector_bezier_fill.svg** |
+| <a href="vector_bezier_line.svg"><img src="vector_bezier_line.svg" width="250"></a> | **vector_bezier_line.svg** |
