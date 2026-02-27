@@ -4,4 +4,4 @@
 
 | 預覽 | 資訊 |
 | :--- | :--- |
-| <a href="Man%20transferring%20data%20to%20cloud.svg"><img src="Man%20transferring%20data%20to%20cloud.svg" width="200"></a> | **Man transferring data to cloud.svg** |
+| <a href="Man%20transferring%20data%20to%20cloud.svg"><img src="Man%20transferring%20data%20to%20cloud.svg" width="250"></a> | **Man transferring data to cloud.svg** |

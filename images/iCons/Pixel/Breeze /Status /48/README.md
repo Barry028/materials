@@ -4,4 +4,4 @@
 
 | 預覽 | 資訊 |
 | :--- | :--- |
-| <a href="dialog-warning.svg"><img src="dialog-warning.svg" width="200"></a> | **dialog-warning.svg** |
+| <a href="dialog-warning.svg"><img src="dialog-warning.svg" width="250"></a> | **dialog-warning.svg** |

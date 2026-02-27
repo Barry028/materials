@@ -4,4 +4,4 @@
 
 | 預覽 | 資訊 |
 | :--- | :--- |
-| <a href="car.svg"><img src="car.svg" width="200"></a> | **car.svg** |
+| <a href="car.svg"><img src="car.svg" width="250"></a> | **car.svg** |

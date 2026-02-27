@@ -4,4 +4,4 @@
 
 | 預覽 | 資訊 |
 | :--- | :--- |
-| <a href="applications-all-symbolic.svg"><img src="applications-all-symbolic.svg" width="200"></a> | **applications-all-symbolic.svg** |
+| <a href="applications-all-symbolic.svg"><img src="applications-all-symbolic.svg" width="250"></a> | **applications-all-symbolic.svg** |
