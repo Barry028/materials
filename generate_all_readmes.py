@@ -11,6 +11,10 @@ START_MARKER = '<!-- thumbnails-start -->'
 END_MARKER = '<!-- thumbnails-end -->'
 MAIN_WIDTH = 20 # 主導覽縮圖大小
 SUB_WIDTH = 200 # 子目錄圖片預覽寬度
+REPO_NAME = os.getenv('GITHUB_REPOSITORY', '你的帳號/你的倉庫名')
+BRANCH = 'main' # 或是 'master'，視您的主分支而定
+
+
 
 def get_size_format(b):
     for unit in ["", "K", "M", "G"]:
@@ -71,6 +75,9 @@ for root, dirs, files in sorted(os.walk(IMAGE_DIR)):
         
         for f in sorted(valid_files):
             f_path = os.path.join(root, f)
+            # 取得圖片相對於根目錄的路徑，並轉換為 URL 格式
+            rel_img_path = os.path.relpath(f_path, '.').replace('\\', '/')
+            safe_rel_path = urllib.parse.quote(rel_img_path)
             safe_f = urllib.parse.quote(f)
             try:
                 stat = os.stat(f_path)
@@ -85,7 +92,8 @@ for root, dirs, files in sorted(os.walk(IMAGE_DIR)):
                     spec = f"🖼️ **尺寸:** `{w}x{h} px`"
 
                 # 💡 生成複製用的 Markdown 語法區塊
-                copy_md = f"![{f}]({safe_f})"
+                cdn_url = f"https://cdn.jsdelivr.net/gh/{REPO_NAME}@{BRANCH}/{safe_rel_path}"
+                copy_md = f"![{f}]({cdn_url})"
 
                 details = (
                     f"**📂 檔名:** `{f}`<br>"
@@ -99,7 +107,7 @@ for root, dirs, files in sorted(os.walk(IMAGE_DIR)):
                 img_tag = f'<a href="{safe_f}"><img src="{safe_f}" width="{SUB_WIDTH}" alt="{f}"></a>'
                 sub_content.append(f"| {img_tag} | {details} |")
 
-                
+
             except Exception as e:
                 # 如果出錯，至少顯示基本檔名並印出錯誤原因到 GitHub Actions Log
                 print(f"Error processing {f}: {e}")
