@@ -4,7 +4,7 @@
 
 本目錄共有 `10` 個檔案
 
-| 🎨 預覽 (點擊放大)<br><img src="data:image/gif;base64,R0lGODlh+gABAPAAAAAAAAAAACH5BAEAAAAALAAAAAD6AAEAAAINhI+py+0Po5y02ovzLQA7" width="250" height="1"> | 📋 檔案詳細資訊與連結 |
+| 🎨 預覽 (點擊放大)<br><img src="https://raw.githubusercontent.com" width="250" height="1"> | 📋 檔案詳細資訊與連結 |
 | :--- | :--- |
 | <a href="8340036_cultures_world.svg"><img src="8340036_cultures_world.svg" width="250" alt="8340036_cultures_world.svg"></a> | **📂 檔名:** `8340036_cultures_world.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `171.16KB`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![8340036_cultures_world.svg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/Illustrations/Life%20%26%20Work%20Flat/Travel/8340036_cultures_world.svg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/Illustrations/Life%20%26%20Work%20Flat/Travel/8340036_cultures_world.svg</code><br>📥 [檢視原始檔](8340036_cultures_world.svg) |
 | <a href="8340037_place_choose.svg"><img src="8340037_place_choose.svg" width="250" alt="8340037_place_choose.svg"></a> | **📂 檔名:** `8340037_place_choose.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `111.56KB`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![8340037_place_choose.svg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/Illustrations/Life%20%26%20Work%20Flat/Travel/8340037_place_choose.svg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/Illustrations/Life%20%26%20Work%20Flat/Travel/8340037_place_choose.svg</code><br>📥 [檢視原始檔](8340037_place_choose.svg) |

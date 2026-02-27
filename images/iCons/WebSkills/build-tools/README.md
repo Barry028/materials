@@ -4,7 +4,7 @@
 
 本目錄共有 `21` 個檔案
 
-| 🎨 預覽 (點擊放大)<br><img src="data:image/gif;base64,R0lGODlh+gABAPAAAAAAAAAAACH5BAEAAAAALAAAAAD6AAEAAAINhI+py+0Po5y02ovzLQA7" width="250" height="1"> | 📋 檔案詳細資訊與連結 |
+| 🎨 預覽 (點擊放大)<br><img src="https://raw.githubusercontent.com" width="250" height="1"> | 📋 檔案詳細資訊與連結 |
 | :--- | :--- |
 | <a href="babel.svg"><img src="babel.svg" width="250" alt="babel.svg"></a> | **📂 檔名:** `babel.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `48.22KB`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![babel.svg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/WebSkills/build-tools/babel.svg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/WebSkills/build-tools/babel.svg</code><br>📥 [檢視原始檔](babel.svg) |
 | <a href="css-pre-processors.svg"><img src="css-pre-processors.svg" width="250" alt="css-pre-processors.svg"></a> | **📂 檔名:** `css-pre-processors.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `4.05KB`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![css-pre-processors.svg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/WebSkills/build-tools/css-pre-processors.svg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/WebSkills/build-tools/css-pre-processors.svg</code><br>📥 [檢視原始檔](css-pre-processors.svg) |

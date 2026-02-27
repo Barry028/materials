@@ -4,7 +4,7 @@
 
 本目錄共有 `40` 個檔案
 
-| 🎨 預覽 (點擊放大)<br><img src="data:image/gif;base64,R0lGODlh+gABAPAAAAAAAAAAACH5BAEAAAAALAAAAAD6AAEAAAINhI+py+0Po5y02ovzLQA7" width="250" height="1"> | 📋 檔案詳細資訊與連結 |
+| 🎨 預覽 (點擊放大)<br><img src="https://raw.githubusercontent.com" width="250" height="1"> | 📋 檔案詳細資訊與連結 |
 | :--- | :--- |
 | <a href="3d_web-01-82.png"><img src="3d_web-01-82.png" width="250" alt="3d_web-01-82.png"></a> | **📂 檔名:** `3d_web-01-82.png`<br>🖼️ **尺寸:** `2000x2000 px`<br>⚖️ **大小:** `208.15KB`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![3d_web-01-82.png](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/3Ds/3D_Web-V1/3d_web-01-82.png)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/3Ds/3D_Web-V1/3d_web-01-82.png</code><br>📥 [檢視原始檔](3d_web-01-82.png) |
 | <a href="3d_web-010-2f.webp"><img src="3d_web-010-2f.webp" width="250" alt="3d_web-010-2f.webp"></a> | **📂 檔名:** `3d_web-010-2f.webp`<br>🖼️ **尺寸:** `2000x2000 px`<br>⚖️ **大小:** `67.20KB`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![3d_web-010-2f.webp](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/3Ds/3D_Web-V1/3d_web-010-2f.webp)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/3Ds/3D_Web-V1/3d_web-010-2f.webp</code><br>📥 [檢視原始檔](3d_web-010-2f.webp) |

@@ -4,7 +4,7 @@
 
 本目錄共有 `20` 個檔案
 
-| 🎨 預覽 (點擊放大)<br><img src="data:image/gif;base64,R0lGODlh+gABAPAAAAAAAAAAACH5BAEAAAAALAAAAAD6AAEAAAINhI+py+0Po5y02ovzLQA7" width="250" height="1"> | 📋 檔案詳細資訊與連結 |
+| 🎨 預覽 (點擊放大)<br><img src="https://raw.githubusercontent.com" width="250" height="1"> | 📋 檔案詳細資訊與連結 |
 | :--- | :--- |
 | <a href="bg-pattern-flowers-%25-1.svg"><img src="bg-pattern-flowers-%25-1.svg" width="250" alt="bg-pattern-flowers-%-1.svg"></a> | **📂 檔名:** `bg-pattern-flowers-%-1.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `114.78KB`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![bg-pattern-flowers-%-1.svg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/Svg-Samples/Patterns/bg-pattern-flowers-%25-1.svg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/Svg-Samples/Patterns/bg-pattern-flowers-%25-1.svg</code><br>📥 [檢視原始檔](bg-pattern-flowers-%25-1.svg) |
 | <a href="bg-pattern-flowers-%25-2.svg"><img src="bg-pattern-flowers-%25-2.svg" width="250" alt="bg-pattern-flowers-%-2.svg"></a> | **📂 檔名:** `bg-pattern-flowers-%-2.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `99.87KB`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![bg-pattern-flowers-%-2.svg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/Svg-Samples/Patterns/bg-pattern-flowers-%25-2.svg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/Svg-Samples/Patterns/bg-pattern-flowers-%25-2.svg</code><br>📥 [檢視原始檔](bg-pattern-flowers-%25-2.svg) |

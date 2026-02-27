@@ -4,7 +4,7 @@
 
 本目錄共有 `50` 個檔案
 
-| 🎨 預覽 (點擊放大)<br><img src="data:image/gif;base64,R0lGODlh+gABAPAAAAAAAAAAACH5BAEAAAAALAAAAAD6AAEAAAINhI+py+0Po5y02ovzLQA7" width="250" height="1"> | 📋 檔案詳細資訊與連結 |
+| 🎨 預覽 (點擊放大)<br><img src="https://raw.githubusercontent.com" width="250" height="1"> | 📋 檔案詳細資訊與連結 |
 | :--- | :--- |
 | <a href="osd-duplicate.svg"><img src="osd-duplicate.svg" width="250" alt="osd-duplicate.svg"></a> | **📂 檔名:** `osd-duplicate.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `2.38KB`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![osd-duplicate.svg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Pixel/Breeze%20/Applets%20/64/osd-duplicate.svg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Pixel/Breeze%20/Applets%20/64/osd-duplicate.svg</code><br>📥 [檢視原始檔](osd-duplicate.svg) |
 | <a href="osd-rotate-ccw.svg"><img src="osd-rotate-ccw.svg" width="250" alt="osd-rotate-ccw.svg"></a> | **📂 檔名:** `osd-rotate-ccw.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `2.87KB`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![osd-rotate-ccw.svg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Pixel/Breeze%20/Applets%20/64/osd-rotate-ccw.svg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Pixel/Breeze%20/Applets%20/64/osd-rotate-ccw.svg</code><br>📥 [檢視原始檔](osd-rotate-ccw.svg) |

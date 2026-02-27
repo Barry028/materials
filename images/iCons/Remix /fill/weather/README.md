@@ -4,7 +4,7 @@
 
 本目錄共有 `35` 個檔案
 
-| 🎨 預覽 (點擊放大)<br><img src="data:image/gif;base64,R0lGODlh+gABAPAAAAAAAAAAACH5BAEAAAAALAAAAAD6AAEAAAINhI+py+0Po5y02ovzLQA7" width="250" height="1"> | 📋 檔案詳細資訊與連結 |
+| 🎨 預覽 (點擊放大)<br><img src="https://raw.githubusercontent.com" width="250" height="1"> | 📋 檔案詳細資訊與連結 |
 | :--- | :--- |
 | <a href="blaze-fill.svg"><img src="blaze-fill.svg" width="250" alt="blaze-fill.svg"></a> | **📂 檔名:** `blaze-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `631.00B`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![blaze-fill.svg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Remix%20/fill/weather/blaze-fill.svg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Remix%20/fill/weather/blaze-fill.svg</code><br>📥 [檢視原始檔](blaze-fill.svg) |
 | <a href="celsius-fill.svg"><img src="celsius-fill.svg" width="250" alt="celsius-fill.svg"></a> | **📂 檔名:** `celsius-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.65KB`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![celsius-fill.svg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Remix%20/fill/weather/celsius-fill.svg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Remix%20/fill/weather/celsius-fill.svg</code><br>📥 [檢視原始檔](celsius-fill.svg) |

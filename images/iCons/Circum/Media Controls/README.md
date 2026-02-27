@@ -4,7 +4,7 @@
 
 本目錄共有 `11` 個檔案
 
-| 🎨 預覽 (點擊放大)<br><img src="data:image/gif;base64,R0lGODlh+gABAPAAAAAAAAAAACH5BAEAAAAALAAAAAD6AAEAAAINhI+py+0Po5y02ovzLQA7" width="250" height="1"> | 📋 檔案詳細資訊與連結 |
+| 🎨 預覽 (點擊放大)<br><img src="https://raw.githubusercontent.com" width="250" height="1"> | 📋 檔案詳細資訊與連結 |
 | :--- | :--- |
 | <a href="Brightness_Down.svg"><img src="Brightness_Down.svg" width="250" alt="Brightness_Down.svg"></a> | **📂 檔名:** `Brightness_Down.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `859.00B`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![Brightness_Down.svg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Circum/Media%20Controls/Brightness_Down.svg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Circum/Media%20Controls/Brightness_Down.svg</code><br>📥 [檢視原始檔](Brightness_Down.svg) |
 | <a href="Brightness_Up.svg"><img src="Brightness_Up.svg" width="250" alt="Brightness_Up.svg"></a> | **📂 檔名:** `Brightness_Up.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `831.00B`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![Brightness_Up.svg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Circum/Media%20Controls/Brightness_Up.svg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Circum/Media%20Controls/Brightness_Up.svg</code><br>📥 [檢視原始檔](Brightness_Up.svg) |

@@ -4,7 +4,7 @@
 
 本目錄共有 `85` 個檔案
 
-| 🎨 預覽 (點擊放大)<br><img src="data:image/gif;base64,R0lGODlh+gABAPAAAAAAAAAAACH5BAEAAAAALAAAAAD6AAEAAAINhI+py+0Po5y02ovzLQA7" width="250" height="1"> | 📋 檔案詳細資訊與連結 |
+| 🎨 預覽 (點擊放大)<br><img src="https://raw.githubusercontent.com" width="250" height="1"> | 📋 檔案詳細資訊與連結 |
 | :--- | :--- |
 | <a href="advertisement-fill.svg"><img src="advertisement-fill.svg" width="250" alt="advertisement-fill.svg"></a> | **📂 檔名:** `advertisement-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.10KB`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![advertisement-fill.svg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Remix%20/fill/business/advertisement-fill.svg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Remix%20/fill/business/advertisement-fill.svg</code><br>📥 [檢視原始檔](advertisement-fill.svg) |
 | <a href="archive-drawer-fill.svg"><img src="archive-drawer-fill.svg" width="250" alt="archive-drawer-fill.svg"></a> | **📂 檔名:** `archive-drawer-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `622.00B`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![archive-drawer-fill.svg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Remix%20/fill/business/archive-drawer-fill.svg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Remix%20/fill/business/archive-drawer-fill.svg</code><br>📥 [檢視原始檔](archive-drawer-fill.svg) |
