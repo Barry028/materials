@@ -8,4 +8,4 @@
 
 | 分類名稱 | 封面預覽 | 統計 |
 | :--- | :--- | :--- |
-| [📁 **22**](22/README.md) | <img src="22/drink-beer.svg" width="30" height="30" align="top">&nbsp;<img src="22/drink-martini.svg" width="30" height="30" align="top">&nbsp;<img src="22/face-angel.svg" width="30" height="30" align="top"> | 共 `34` 張 |
+| [📁 **22**](22/README.md) | <img src="22/drink-beer.svg" width="30" height="30" align="top">&nbsp;<img src="22/drink-martini.svg" width="30" height="30" align="top">&nbsp;<img src="22/face-angel.svg" width="30" height="30" align="top">&nbsp;<img src="22/face-angry.svg" width="30" height="30" align="top">&nbsp;<img src="22/face-clown.svg" width="30" height="30" align="top">&nbsp;<img src="22/face-confused.svg" width="30" height="30" align="top">&nbsp;<img src="22/face-cool.svg" width="30" height="30" align="top">&nbsp;<img src="22/face-crying.svg" width="30" height="30" align="top">&nbsp;<img src="22/face-devilish.svg" width="30" height="30" align="top">&nbsp;<img src="22/face-embarrassed.svg" width="30" height="30" align="top"> | 共 `34` 張 |
