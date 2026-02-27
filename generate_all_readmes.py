@@ -60,7 +60,7 @@ for root, dirs, files in sorted(os.walk(IMAGE_DIR)):
             breadcrumb_links.append(f"**{part_name}**")
         else:
             steps_back = len(path_parts) - 1 - i
-            link_path = "../" * steps_back + "README.md"
+            link_path = "../" * steps_back + "{ROOT_README}"
             breadcrumb_links.append(f"[{part_name}]({link_path})")
     breadcrumb_str = " / ".join(breadcrumb_links)
 
@@ -73,7 +73,7 @@ for root, dirs, files in sorted(os.walk(IMAGE_DIR)):
         preview_imgs_html = [f'<img src="{urllib.parse.quote(os.path.join(rel_url, pf).replace("\\", "/"))}" width="{MAIN_WIDTH}" height="{MAIN_WIDTH}" align="top">' for pf in preview_files]
         img_row = "&nbsp;".join(preview_imgs_html)
         more_tag = f'<sub>(+{len(valid_files)-max_previews})</sub>' if len(valid_files) > max_previews else ""
-        img_html = f'{img_row} <a href="{safe_folder_url}/README.md">{more_tag}</a>'
+        img_html = f'{img_row} <a href="{safe_folder_url}/{ROOT_README}">{more_tag}</a>'
         
         subdir_links.append(f"| [{display_name}]({safe_folder_url}/README.md) | {img_html} | `{len(valid_files)} Items` |")
 
