@@ -10,10 +10,10 @@ ROOT_README = 'README.md'
 START_MARKER = '<!-- thumbnails-start -->'
 END_MARKER = '<!-- thumbnails-end -->'
 MAIN_WIDTH = 30 # 主導覽縮圖大小
-SUB_WIDTH = 250 # 子目錄圖片預覽寬度
-# 自動抓取 GitHub 倉庫名稱，若在本機執行請修改預設值
+SUB_WIDTH = 250 # 子目錄圖片預覽寬度鎖定
+# 自動抓取 GitHub 倉庫名稱
 REPO_NAME = os.getenv('GITHUB_REPOSITORY', '你的帳號/你的倉庫名')
-BRANCH = 'main' # 確保這是您的主分支名稱
+BRANCH = 'main' 
 
 def get_size_format(b):
     for unit in ["", "K", "M", "G"]:
@@ -37,15 +37,8 @@ for root, dirs, files in sorted(os.walk(IMAGE_DIR)):
     rel_url = folder_path.replace('\\', '/')
     depth = rel_url.count('/')
     
-    # 樹狀縮排符號
     indent = "　" * depth + ("┗ " if depth > 0 else "📂 ")
-    
-    # 視覺層級：第一層粗體，其餘代碼樣式
-    if depth == 0:
-        display_name = f"{indent}**{folder_name}**"
-    else:
-        display_name = f"{indent}`{folder_name}`"
-
+    display_name = f"{indent}**{folder_name}**" if depth == 0 else f"{indent}`{folder_name}`"
     safe_folder_url = urllib.parse.quote(rel_url)
 
     if valid_files:
@@ -53,7 +46,7 @@ for root, dirs, files in sorted(os.walk(IMAGE_DIR)):
         rel_depth = depth + 1
         back_to_root = "../" * rel_depth
         
-        # --- 主目錄封面預覽 (並排縮圖) ---
+        # --- 主目錄封面預覽 ---
         max_previews = 4
         preview_files = sorted(valid_files)[:max_previews]
         preview_imgs_html = [f'<img src="{urllib.parse.quote(os.path.join(folder_path, pf).replace("\\", "/"))}" width="{MAIN_WIDTH}" height="{MAIN_WIDTH}" align="top">' for pf in preview_files]
@@ -63,7 +56,7 @@ for root, dirs, files in sorted(os.walk(IMAGE_DIR)):
         
         subdir_links.append(f"| [{display_name}]({safe_folder_url}/README.md) | {img_html} | `{len(valid_files)} Items` |")
 
-        # --- 💡 強化版：動態生成完整層級麵包屑 ---
+        # --- 生成層級麵包屑 ---
         path_parts = folder_path.split(os.sep)
         breadcrumb_links = [f"[🏠 主目錄]({back_to_root}{ROOT_README})"]
         for i in range(len(path_parts)):
@@ -76,12 +69,15 @@ for root, dirs, files in sorted(os.walk(IMAGE_DIR)):
                 breadcrumb_links.append(f"[{part_name}]({link_path})")
         breadcrumb_str = " / ".join(breadcrumb_links)
 
-        # --- 子目錄 README 美化 (卡片樣式 + CDN 複製區塊) ---
+        # --- 鎖定預覽欄位寬度的隱藏圖片 ---
+        width_lock = f'<img src="https://via.placeholder.com{SUB_WIDTH}x1/ffffff/000000?text=+" width="{SUB_WIDTH}" height="1">'
+
+        # --- 子目錄 README 美化 ---
         sub_content = [
             f"# 🖼️ 素材分類：{folder_name}\n",
             f"> {breadcrumb_str}\n",
             f"本目錄共有 `{len(valid_files)}` 個檔案\n",
-            "| 🎨 預覽 (點擊放大) | 📋 檔案詳細資訊與連結 |",
+            f"| 🎨 預覽 (點擊放大)<br>{width_lock} | 📋 檔案詳細資訊與連結 |",
             "| :--- | :--- |"
         ]
         
@@ -103,7 +99,8 @@ for root, dirs, files in sorted(os.walk(IMAGE_DIR)):
                         w, h = img.size
                     spec = f"🖼️ **尺寸:** `{w}x{h} px`"
 
-                cdn_url = f"https://cdn.jsdelivr.net/gh{safe_repo}@{BRANCH}/{safe_rel_path}"
+                # 💡 修正 CDN 網址 (補上 /) 並強制顯示 Markdown
+                cdn_url = f"https://cdn.jsdelivr.net{safe_repo}@{BRANCH}/{safe_rel_path}"
                 copy_md = f"![{f}]({cdn_url})"
 
                 details = (
@@ -111,8 +108,8 @@ for root, dirs, files in sorted(os.walk(IMAGE_DIR)):
                     f"{spec}<br>"
                     f"⚖️ **大小:** `{size}`<br>"
                     f"📅 **更新:** `{mtime}`<br><br>"
-                    f"🚀 **jsDelivr Markdown:**<br>`{copy_md}`<br>"
-                    f"🔗 **直接連結 (Url):**<br>`{cdn_url}`<br>"
+                    f"🚀 **jsDelivr Markdown:**<br><code>{copy_md}</code><br>"
+                    f"🔗 **直接連結 (Url):**<br><code>{cdn_url}</code><br>"
                     f"📥 [檢視原始檔]({safe_f})"
                 )
                 
@@ -125,7 +122,6 @@ for root, dirs, files in sorted(os.walk(IMAGE_DIR)):
         with open(readme_path, 'w', encoding='utf-8') as f_out:
             f_out.write("\n".join(sub_content))
     else:
-        # 保留父資料夾名稱（如 3Ds）
         if folder_name != IMAGE_DIR:
             subdir_links.append(f"| {display_name} | 📁 (資料夾) | - |")
 
