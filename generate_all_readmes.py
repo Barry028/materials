@@ -63,7 +63,7 @@ for root, dirs, files in sorted(os.walk(IMAGE_DIR)):
             breadcrumb_links.append(f"[{part_name}]({link_path})")
     breadcrumb_str = " / ".join(breadcrumb_links)
 
-    width_lock_spacer = "&nbsp;" * 40
+    width_lock = f'<img src="data:image/gif;base64,R0lGODlh+gABAPAAAAAAAAAAACH5BAEAAAAALAAAAAD6AAEAAAINhI+py+0Po5y02ovzLQA7" width="250" height="1">'
 
     if valid_files:
         # --- 主目錄預覽邏輯 ---
@@ -80,7 +80,7 @@ for root, dirs, files in sorted(os.walk(IMAGE_DIR)):
             f"# 🖼️ 素材分類：{folder_name}\n",
             f"> {breadcrumb_str}\n",
             f"本目錄共有 `{len(valid_files)}` 個檔案\n",
-            f"| 🎨 預覽 (點擊放大)<br>{width_lock_spacer} | 📋 檔案詳細資訊與連結 |",
+            f"| 🎨 預覽 (點擊放大)<br>{width_lock} | 📋 檔案詳細資訊與連結 |",
             "| :--- | :--- |"
         ]
         
