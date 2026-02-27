@@ -8,5 +8,5 @@
 
 | 分類名稱 | 封面預覽 | 統計 |
 | :--- | :--- | :--- |
-| [📁 **16**](16/README.md) | <img src="16/process-working.svg" width="30" height="30" align="top"> | 共 `1` 張 |
-| [📁 **22**](22/README.md) | <img src="22/process-working.svg" width="30" height="30" align="top"> | 共 `1` 張 |
+| [📁 **16**](16/README.md) | <img src="16/process-working.svg" width="24" height="24" align="top"> | 共 `1` 張 |
+| [📁 **22**](22/README.md) | <img src="22/process-working.svg" width="24" height="24" align="top"> | 共 `1` 張 |

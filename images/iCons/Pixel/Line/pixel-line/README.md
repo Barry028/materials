@@ -8,4 +8,4 @@
 
 | 分類名稱 | 封面預覽 | 統計 |
 | :--- | :--- | :--- |
-| [📁 **fonts**](fonts/README.md) | <img src="fonts/pixel-line.svg" width="30" height="30" align="top"> | 共 `1` 張 |
+| [📁 **fonts**](fonts/README.md) | <img src="fonts/pixel-line.svg" width="24" height="24" align="top"> | 共 `1` 張 |
