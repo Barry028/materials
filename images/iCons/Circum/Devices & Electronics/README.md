@@ -4,7 +4,7 @@
 
 本目錄共有 `36` 個檔案
 
-| 🎨 預覽 (點擊放大)<br><img src="https://raw.githubusercontent.com" width="250" height="1"> | 📋 檔案詳細資訊與連結 |
+| 🎨 預覽 (點擊放大)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 📋 檔案詳細資訊與連結 |
 | :--- | :--- |
 | <a href="Battery_Charging.svg"><img src="Battery_Charging.svg" width="250" alt="Battery_Charging.svg"></a> | **📂 檔名:** `Battery_Charging.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `811.00B`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![Battery_Charging.svg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Circum/Devices%20%26%20Electronics/Battery_Charging.svg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Circum/Devices%20%26%20Electronics/Battery_Charging.svg</code><br>📥 [檢視原始檔](Battery_Charging.svg) |
 | <a href="Battery_Empty.svg"><img src="Battery_Empty.svg" width="250" alt="Battery_Empty.svg"></a> | **📂 檔名:** `Battery_Empty.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `500.00B`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![Battery_Empty.svg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Circum/Devices%20%26%20Electronics/Battery_Empty.svg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Circum/Devices%20%26%20Electronics/Battery_Empty.svg</code><br>📥 [檢視原始檔](Battery_Empty.svg) |

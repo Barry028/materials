@@ -4,7 +4,7 @@
 
 本目錄共有 `29` 個檔案
 
-| 🎨 預覽 (點擊放大)<br><img src="https://raw.githubusercontent.com" width="250" height="1"> | 📋 檔案詳細資訊與連結 |
+| 🎨 預覽 (點擊放大)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 📋 檔案詳細資訊與連結 |
 | :--- | :--- |
 | <a href="Circuit1aGrowwwKit.svg"><img src="Circuit1aGrowwwKit.svg" width="250" alt="Circuit1aGrowwwKit.svg"></a> | **📂 檔名:** `Circuit1aGrowwwKit.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `25.57KB`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![Circuit1aGrowwwKit.svg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/Illustrations/Circuitill/SVG/Circuit1aGrowwwKit.svg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/Illustrations/Circuitill/SVG/Circuit1aGrowwwKit.svg</code><br>📥 [檢視原始檔](Circuit1aGrowwwKit.svg) |
 | <a href="Circuit1bGrowwwKit.svg"><img src="Circuit1bGrowwwKit.svg" width="250" alt="Circuit1bGrowwwKit.svg"></a> | **📂 檔名:** `Circuit1bGrowwwKit.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `11.35KB`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![Circuit1bGrowwwKit.svg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/Illustrations/Circuitill/SVG/Circuit1bGrowwwKit.svg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/Illustrations/Circuitill/SVG/Circuit1bGrowwwKit.svg</code><br>📥 [檢視原始檔](Circuit1bGrowwwKit.svg) |

@@ -4,7 +4,7 @@
 
 本目錄共有 `221` 個檔案
 
-| 🎨 預覽 (點擊放大)<br><img src="https://raw.githubusercontent.com" width="250" height="1"> | 📋 檔案詳細資訊與連結 |
+| 🎨 預覽 (點擊放大)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 📋 檔案詳細資訊與連結 |
 | :--- | :--- |
 | <a href="acrobat.svg"><img src="acrobat.svg" width="250" alt="acrobat.svg"></a> | **📂 檔名:** `acrobat.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `378.00B`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![acrobat.svg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Pixel/Breeze%20/Actions%20/32/acrobat.svg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Pixel/Breeze%20/Actions%20/32/acrobat.svg</code><br>📥 [檢視原始檔](acrobat.svg) |
 | <a href="address-book-new.svg"><img src="address-book-new.svg" width="250" alt="address-book-new.svg"></a> | **📂 檔名:** `address-book-new.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `402.00B`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![address-book-new.svg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Pixel/Breeze%20/Actions%20/32/address-book-new.svg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Pixel/Breeze%20/Actions%20/32/address-book-new.svg</code><br>📥 [檢視原始檔](address-book-new.svg) |

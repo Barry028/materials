@@ -4,7 +4,7 @@
 
 本目錄共有 `30` 個檔案
 
-| 🎨 預覽 (點擊放大)<br><img src="https://raw.githubusercontent.com" width="250" height="1"> | 📋 檔案詳細資訊與連結 |
+| 🎨 預覽 (點擊放大)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 📋 檔案詳細資訊與連結 |
 | :--- | :--- |
 | <a href="chat-1-fill.svg"><img src="chat-1-fill.svg" width="250" alt="chat-1-fill.svg"></a> | **📂 檔名:** `chat-1-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `530.00B`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![chat-1-fill.svg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Remix%20/fill/communication/chat-1-fill.svg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Remix%20/fill/communication/chat-1-fill.svg</code><br>📥 [檢視原始檔](chat-1-fill.svg) |
 | <a href="chat-2-fill.svg"><img src="chat-2-fill.svg" width="250" alt="chat-2-fill.svg"></a> | **📂 檔名:** `chat-2-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `611.00B`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![chat-2-fill.svg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Remix%20/fill/communication/chat-2-fill.svg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Remix%20/fill/communication/chat-2-fill.svg</code><br>📥 [檢視原始檔](chat-2-fill.svg) |

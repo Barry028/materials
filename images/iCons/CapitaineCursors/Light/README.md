@@ -4,7 +4,7 @@
 
 本目錄共有 `18` 個檔案
 
-| 🎨 預覽 (點擊放大)<br><img src="https://raw.githubusercontent.com" width="250" height="1"> | 📋 檔案詳細資訊與連結 |
+| 🎨 預覽 (點擊放大)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 📋 檔案詳細資訊與連結 |
 | :--- | :--- |
 | <a href="000-template.svg"><img src="000-template.svg" width="250" alt="000-template.svg"></a> | **📂 檔名:** `000-template.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.72KB`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![000-template.svg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/CapitaineCursors/Light/000-template.svg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/CapitaineCursors/Light/000-template.svg</code><br>📥 [檢視原始檔](000-template.svg) |
 | <a href="alias.svg"><img src="alias.svg" width="250" alt="alias.svg"></a> | **📂 檔名:** `alias.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `2.27KB`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![alias.svg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/CapitaineCursors/Light/alias.svg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/CapitaineCursors/Light/alias.svg</code><br>📥 [檢視原始檔](alias.svg) |

@@ -4,7 +4,7 @@
 
 本目錄共有 `198` 個檔案
 
-| 🎨 預覽 (點擊放大)<br><img src="https://raw.githubusercontent.com" width="250" height="1"> | 📋 檔案詳細資訊與連結 |
+| 🎨 預覽 (點擊放大)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 📋 檔案詳細資訊與連結 |
 | :--- | :--- |
 | <a href="Itch-io-color.svg"><img src="Itch-io-color.svg" width="250" alt="Itch-io-color.svg"></a> | **📂 檔名:** `Itch-io-color.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `3.22KB`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![Itch-io-color.svg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Sketch/color/Itch-io-color.svg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Sketch/color/Itch-io-color.svg</code><br>📥 [檢視原始檔](Itch-io-color.svg) |
 | <a href="acrobat-reader-color.svg"><img src="acrobat-reader-color.svg" width="250" alt="acrobat-reader-color.svg"></a> | **📂 檔名:** `acrobat-reader-color.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `2.08KB`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![acrobat-reader-color.svg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Sketch/color/acrobat-reader-color.svg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Sketch/color/acrobat-reader-color.svg</code><br>📥 [檢視原始檔](acrobat-reader-color.svg) |

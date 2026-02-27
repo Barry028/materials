@@ -4,7 +4,7 @@
 
 本目錄共有 `23` 個檔案
 
-| 🎨 預覽 (點擊放大)<br><img src="https://raw.githubusercontent.com" width="250" height="1"> | 📋 檔案詳細資訊與連結 |
+| 🎨 預覽 (點擊放大)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 📋 檔案詳細資訊與連結 |
 | :--- | :--- |
 | <a href="adventurer-01.jpeg"><img src="adventurer-01.jpeg" width="250" alt="adventurer-01.jpeg"></a> | **📂 檔名:** `adventurer-01.jpeg`<br>🖼️ **尺寸:** `128x128 px`<br>⚖️ **大小:** `3.58KB`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![adventurer-01.jpeg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/Dicebear/Adventurer/adventurer-01.jpeg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/Dicebear/Adventurer/adventurer-01.jpeg</code><br>📥 [檢視原始檔](adventurer-01.jpeg) |
 | <a href="adventurer-01.png"><img src="adventurer-01.png" width="250" alt="adventurer-01.png"></a> | **📂 檔名:** `adventurer-01.png`<br>🖼️ **尺寸:** `128x128 px`<br>⚖️ **大小:** `6.67KB`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![adventurer-01.png](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/Dicebear/Adventurer/adventurer-01.png)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/Dicebear/Adventurer/adventurer-01.png</code><br>📥 [檢視原始檔](adventurer-01.png) |
