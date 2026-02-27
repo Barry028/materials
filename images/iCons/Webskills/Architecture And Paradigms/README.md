@@ -1,6 +1,6 @@
-# 📂 目錄：architecture-and-paradigms
+# 📂 目錄：Architecture And Paradigms
 
-> [🏠 主目錄](../../../../README.md) / [images](../../../README.md) / [iCons](../../README.md) / [WebSkills](../README.md) / **architecture-and-paradigms**
+> [🏠 主目錄](../../../../README.md) / [images](../../../README.md) / [iCons](../../README.md) / [Webskills](../README.md) / **Architecture And Paradigms**
 
 此目錄目前沒有直接存放圖片，請選擇下方子分類：
 

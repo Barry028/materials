@@ -1,6 +1,6 @@
-# 📂 目錄：Breeze 
+# 📂 目錄：Breeze
 
-> [🏠 主目錄](../../../../README.md) / [images](../../../README.md) / [iCons](../../README.md) / [Pixel](../README.md) / **Breeze **
+> [🏠 主目錄](../../../../README.md) / [images](../../../README.md) / [iCons](../../README.md) / [Pixel](../README.md) / **Breeze**
 
 此目錄目前沒有直接存放圖片，請選擇下方子分類：
 

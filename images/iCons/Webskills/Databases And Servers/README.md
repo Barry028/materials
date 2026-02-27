@@ -1,6 +1,6 @@
-# 📂 目錄：databases-and-servers
+# 📂 目錄：Databases And Servers
 
-> [🏠 主目錄](../../../../README.md) / [images](../../../README.md) / [iCons](../../README.md) / [WebSkills](../README.md) / **databases-and-servers**
+> [🏠 主目錄](../../../../README.md) / [images](../../../README.md) / [iCons](../../README.md) / [Webskills](../README.md) / **Databases And Servers**
 
 此目錄目前沒有直接存放圖片，請選擇下方子分類：
 

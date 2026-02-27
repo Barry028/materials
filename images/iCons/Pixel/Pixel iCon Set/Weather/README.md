@@ -1,6 +1,6 @@
 # 📂 目錄：Weather
 
-> [🏠 主目錄](../../../../../README.md) / [images](../../../../README.md) / [iCons](../../../README.md) / [Pixel](../../README.md) / [Pixel Icon Set ](../README.md) / **Weather**
+> [🏠 主目錄](../../../../../README.md) / [images](../../../../README.md) / [iCons](../../../README.md) / [Pixel](../../README.md) / [Pixel iCon Set](../README.md) / **Weather**
 
 此目錄目前沒有直接存放圖片，請選擇下方子分類：
 

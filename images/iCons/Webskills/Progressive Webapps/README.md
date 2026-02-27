@@ -1,6 +1,6 @@
-# 📂 目錄：progressive-webapps
+# 📂 目錄：Progressive Webapps
 
-> [🏠 主目錄](../../../../README.md) / [images](../../../README.md) / [iCons](../../README.md) / [WebSkills](../README.md) / **progressive-webapps**
+> [🏠 主目錄](../../../../README.md) / [images](../../../README.md) / [iCons](../../README.md) / [Webskills](../README.md) / **Progressive Webapps**
 
 此目錄目前沒有直接存放圖片，請選擇下方子分類：
 

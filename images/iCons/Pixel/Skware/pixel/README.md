@@ -1,6 +1,6 @@
 # 📂 目錄：pixel
 
-> [🏠 主目錄](../../../../../README.md) / [images](../../../../README.md) / [iCons](../../../README.md) / [Pixel](../../README.md) / [Skware ](../README.md) / **pixel**
+> [🏠 主目錄](../../../../../README.md) / [images](../../../../README.md) / [iCons](../../../README.md) / [Pixel](../../README.md) / [Skware](../README.md) / **pixel**
 
 此目錄目前沒有直接存放圖片，請選擇下方子分類：
 

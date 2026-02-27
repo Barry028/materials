@@ -1,6 +1,6 @@
-# 📂 目錄：team-collaboration
+# 📂 目錄：Team Collaboration
 
-> [🏠 主目錄](../../../../README.md) / [images](../../../README.md) / [iCons](../../README.md) / [WebSkills](../README.md) / **team-collaboration**
+> [🏠 主目錄](../../../../README.md) / [images](../../../README.md) / [iCons](../../README.md) / [Webskills](../README.md) / **Team Collaboration**
 
 此目錄目前沒有直接存放圖片，請選擇下方子分類：
 

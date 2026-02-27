@@ -1,6 +1,6 @@
-# 📂 目錄：algorithms-and-data-structures
+# 📂 目錄：Algorithms And Data Structures
 
-> [🏠 主目錄](../../../../README.md) / [images](../../../README.md) / [iCons](../../README.md) / [WebSkills](../README.md) / **algorithms-and-data-structures**
+> [🏠 主目錄](../../../../README.md) / [images](../../../README.md) / [iCons](../../README.md) / [Webskills](../README.md) / **Algorithms And Data Structures**
 
 此目錄目前沒有直接存放圖片，請選擇下方子分類：
 
