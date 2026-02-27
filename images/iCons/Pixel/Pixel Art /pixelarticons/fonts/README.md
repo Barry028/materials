@@ -4,4 +4,4 @@
 
 | 預覽 | 資訊 |
 | :--- | :--- |
-| <a href="pixelarticons.svg"><img src="pixelarticons.svg" width=200></a> | **pixelarticons.svg** |
+| <a href="pixelarticons.svg"><img src="pixelarticons.svg" width="200"></a> | **pixelarticons.svg** |
