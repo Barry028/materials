@@ -4,7 +4,7 @@
 
 本目錄共有 `14` 個檔案
 
-| 🎨 預覽 (點擊放大)<br><img src="data:image/gif;base64,R0lGODlh+gABAPAAAAAAAAAAACH5BAEAAAAALAAAAAD6AAEAAAINhI+py+0Po5y02ovzLQA7" width="250" height="1"> | 📋 檔案詳細資訊與連結 |
+| 🎨 預覽 (點擊放大)<br><img src="https://raw.githubusercontent.com" width="250" height="1"> | 📋 檔案詳細資訊與連結 |
 | :--- | :--- |
 | <a href="Bezier.svg"><img src="Bezier.svg" width="250" alt="Bezier.svg"></a> | **📂 檔名:** `Bezier.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `931.00B`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![Bezier.svg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Circum/Design/Bezier.svg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Circum/Design/Bezier.svg</code><br>📥 [檢視原始檔](Bezier.svg) |
 | <a href="Crop.svg"><img src="Crop.svg" width="250" alt="Crop.svg"></a> | **📂 檔名:** `Crop.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `528.00B`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![Crop.svg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Circum/Design/Crop.svg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Circum/Design/Crop.svg</code><br>📥 [檢視原始檔](Crop.svg) |

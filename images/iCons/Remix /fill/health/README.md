@@ -4,7 +4,7 @@
 
 本目錄共有 `30` 個檔案
 
-| 🎨 預覽 (點擊放大)<br><img src="data:image/gif;base64,R0lGODlh+gABAPAAAAAAAAAAACH5BAEAAAAALAAAAAD6AAEAAAINhI+py+0Po5y02ovzLQA7" width="250" height="1"> | 📋 檔案詳細資訊與連結 |
+| 🎨 預覽 (點擊放大)<br><img src="https://raw.githubusercontent.com" width="250" height="1"> | 📋 檔案詳細資訊與連結 |
 | :--- | :--- |
 | <a href="capsule-fill.svg"><img src="capsule-fill.svg" width="250" alt="capsule-fill.svg"></a> | **📂 檔名:** `capsule-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `658.00B`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![capsule-fill.svg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Remix%20/fill/health/capsule-fill.svg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Remix%20/fill/health/capsule-fill.svg</code><br>📥 [檢視原始檔](capsule-fill.svg) |
 | <a href="dislike-fill.svg"><img src="dislike-fill.svg" width="250" alt="dislike-fill.svg"></a> | **📂 檔名:** `dislike-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `632.00B`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![dislike-fill.svg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Remix%20/fill/health/dislike-fill.svg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Remix%20/fill/health/dislike-fill.svg</code><br>📥 [檢視原始檔](dislike-fill.svg) |

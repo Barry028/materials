@@ -4,7 +4,7 @@
 
 本目錄共有 `51` 個檔案
 
-| 🎨 預覽 (點擊放大)<br><img src="data:image/gif;base64,R0lGODlh+gABAPAAAAAAAAAAACH5BAEAAAAALAAAAAD6AAEAAAINhI+py+0Po5y02ovzLQA7" width="250" height="1"> | 📋 檔案詳細資訊與連結 |
+| 🎨 預覽 (點擊放大)<br><img src="https://raw.githubusercontent.com" width="250" height="1"> | 📋 檔案詳細資訊與連結 |
 | :--- | :--- |
 | <a href="folder-activities.svg"><img src="folder-activities.svg" width="250" alt="folder-activities.svg"></a> | **📂 檔名:** `folder-activities.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.43KB`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![folder-activities.svg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Pixel/Breeze%20/Places%20/48/folder-activities.svg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Pixel/Breeze%20/Places%20/48/folder-activities.svg</code><br>📥 [檢視原始檔](folder-activities.svg) |
 | <a href="folder-black.svg"><img src="folder-black.svg" width="250" alt="folder-black.svg"></a> | **📂 檔名:** `folder-black.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `897.00B`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![folder-black.svg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Pixel/Breeze%20/Places%20/48/folder-black.svg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Pixel/Breeze%20/Places%20/48/folder-black.svg</code><br>📥 [檢視原始檔](folder-black.svg) |

@@ -4,7 +4,7 @@
 
 本目錄共有 `90` 個檔案
 
-| 🎨 預覽 (點擊放大)<br><img src="data:image/gif;base64,R0lGODlh+gABAPAAAAAAAAAAACH5BAEAAAAALAAAAAD6AAEAAAINhI+py+0Po5y02ovzLQA7" width="250" height="1"> | 📋 檔案詳細資訊與連結 |
+| 🎨 預覽 (點擊放大)<br><img src="https://raw.githubusercontent.com" width="250" height="1"> | 📋 檔案詳細資訊與連結 |
 | :--- | :--- |
 | <a href="Saly_1-70.webp"><img src="Saly_1-70.webp" width="250" alt="Saly_1-70.webp"></a> | **📂 檔名:** `Saly_1-70.webp`<br>🖼️ **尺寸:** `2160x2160 px`<br>⚖️ **大小:** `58.22KB`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![Saly_1-70.webp](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/3Ds/3D_Illustration-Saly/Saly_1-70.webp)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/3Ds/3D_Illustration-Saly/Saly_1-70.webp</code><br>📥 [檢視原始檔](Saly_1-70.webp) |
 | <a href="Saly_1-9d.png"><img src="Saly_1-9d.png" width="250" alt="Saly_1-9d.png"></a> | **📂 檔名:** `Saly_1-9d.png`<br>🖼️ **尺寸:** `2160x2160 px`<br>⚖️ **大小:** `214.21KB`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![Saly_1-9d.png](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/3Ds/3D_Illustration-Saly/Saly_1-9d.png)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/3Ds/3D_Illustration-Saly/Saly_1-9d.png</code><br>📥 [檢視原始檔](Saly_1-9d.png) |

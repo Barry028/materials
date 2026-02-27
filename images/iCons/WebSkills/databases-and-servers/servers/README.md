@@ -4,7 +4,7 @@
 
 本目錄共有 `16` 個檔案
 
-| 🎨 預覽 (點擊放大)<br><img src="data:image/gif;base64,R0lGODlh+gABAPAAAAAAAAAAACH5BAEAAAAALAAAAAD6AAEAAAINhI+py+0Po5y02ovzLQA7" width="250" height="1"> | 📋 檔案詳細資訊與連結 |
+| 🎨 預覽 (點擊放大)<br><img src="https://raw.githubusercontent.com" width="250" height="1"> | 📋 檔案詳細資訊與連結 |
 | :--- | :--- |
 | <a href="architectural-models.svg"><img src="architectural-models.svg" width="250" alt="architectural-models.svg"></a> | **📂 檔名:** `architectural-models.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `9.04KB`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![architectural-models.svg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/WebSkills/databases-and-servers/servers/architectural-models.svg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/WebSkills/databases-and-servers/servers/architectural-models.svg</code><br>📥 [檢視原始檔](architectural-models.svg) |
 | <a href="client-many-servers.svg"><img src="client-many-servers.svg" width="250" alt="client-many-servers.svg"></a> | **📂 檔名:** `client-many-servers.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `16.57KB`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![client-many-servers.svg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/WebSkills/databases-and-servers/servers/client-many-servers.svg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/WebSkills/databases-and-servers/servers/client-many-servers.svg</code><br>📥 [檢視原始檔](client-many-servers.svg) |

@@ -4,7 +4,7 @@
 
 本目錄共有 `216` 個檔案
 
-| 🎨 預覽 (點擊放大)<br><img src="data:image/gif;base64,R0lGODlh+gABAPAAAAAAAAAAACH5BAEAAAAALAAAAAD6AAEAAAINhI+py+0Po5y02ovzLQA7" width="250" height="1"> | 📋 檔案詳細資訊與連結 |
+| 🎨 預覽 (點擊放大)<br><img src="https://raw.githubusercontent.com" width="250" height="1"> | 📋 檔案詳細資訊與連結 |
 | :--- | :--- |
 | <a href="access-context-manager.svg"><img src="access-context-manager.svg" width="250" alt="access-context-manager.svg"></a> | **📂 檔名:** `access-context-manager.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `548.00B`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![access-context-manager.svg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/GoogleCloud/access-context-manager.svg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/GoogleCloud/access-context-manager.svg</code><br>📥 [檢視原始檔](access-context-manager.svg) |
 | <a href="administration.svg"><img src="administration.svg" width="250" alt="administration.svg"></a> | **📂 檔名:** `administration.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.58KB`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![administration.svg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/GoogleCloud/administration.svg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/GoogleCloud/administration.svg</code><br>📥 [檢視原始檔](administration.svg) |

@@ -4,7 +4,7 @@
 
 本目錄共有 `20` 個檔案
 
-| 🎨 預覽 (點擊放大)<br><img src="data:image/gif;base64,R0lGODlh+gABAPAAAAAAAAAAACH5BAEAAAAALAAAAAD6AAEAAAINhI+py+0Po5y02ovzLQA7" width="250" height="1"> | 📋 檔案詳細資訊與連結 |
+| 🎨 預覽 (點擊放大)<br><img src="https://raw.githubusercontent.com" width="250" height="1"> | 📋 檔案詳細資訊與連結 |
 | :--- | :--- |
 | <a href="beard_fill.svg"><img src="beard_fill.svg" width="250" alt="beard_fill.svg"></a> | **📂 檔名:** `beard_fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `15.58KB`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![beard_fill.svg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Mingcute%20Icon%20/part/beard_fill.svg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Mingcute%20Icon%20/part/beard_fill.svg</code><br>📥 [檢視原始檔](beard_fill.svg) |
 | <a href="beard_line.svg"><img src="beard_line.svg" width="250" alt="beard_line.svg"></a> | **📂 檔名:** `beard_line.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `16.23KB`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![beard_line.svg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Mingcute%20Icon%20/part/beard_line.svg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Mingcute%20Icon%20/part/beard_line.svg</code><br>📥 [檢視原始檔](beard_line.svg) |

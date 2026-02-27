@@ -4,7 +4,7 @@
 
 本目錄共有 `20` 個檔案
 
-| 🎨 預覽 (點擊放大)<br><img src="data:image/gif;base64,R0lGODlh+gABAPAAAAAAAAAAACH5BAEAAAAALAAAAAD6AAEAAAINhI+py+0Po5y02ovzLQA7" width="250" height="1"> | 📋 檔案詳細資訊與連結 |
+| 🎨 預覽 (點擊放大)<br><img src="https://raw.githubusercontent.com" width="250" height="1"> | 📋 檔案詳細資訊與連結 |
 | :--- | :--- |
 | <a href="adventurerNeutral-01.svg"><img src="adventurerNeutral-01.svg" width="250" alt="adventurerNeutral-01.svg"></a> | **📂 檔名:** `adventurerNeutral-01.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `4.16KB`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![adventurerNeutral-01.svg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/Dicebear/Adventurer%20Neutral%20/adventurerNeutral-01.svg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/Dicebear/Adventurer%20Neutral%20/adventurerNeutral-01.svg</code><br>📥 [檢視原始檔](adventurerNeutral-01.svg) |
 | <a href="adventurerNeutral-010.svg"><img src="adventurerNeutral-010.svg" width="250" alt="adventurerNeutral-010.svg"></a> | **📂 檔名:** `adventurerNeutral-010.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `5.18KB`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![adventurerNeutral-010.svg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/Dicebear/Adventurer%20Neutral%20/adventurerNeutral-010.svg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/Dicebear/Adventurer%20Neutral%20/adventurerNeutral-010.svg</code><br>📥 [檢視原始檔](adventurerNeutral-010.svg) |
