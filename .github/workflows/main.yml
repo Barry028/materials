@@ -1,26 +1,16 @@
-name: Generate Recursive Thumbnails
+name: Checkout and create ghcr.io image
 on: [push]
-
 jobs:
-  build:
+  docker:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-
-      - name: Generate Thumbnails
-        uses: firefly-cpp/thumbnails-readme@v1.0.0
+      - uses: actions/checkout@v5.0.0
+      - name: login_to_ghcr.io
+        uses: docker/login-action@v1.8.0
         with:
-          # 設定包含所有子資料夾的根目錄
-          images_path: 'images'     
-          # 縮圖存放的目錄（建議分開存放以保持整潔）
-          thumbnails_path: 'thumbs' 
-          # 是否遞迴掃描子資料夾（預設為 true）
-          recursive: true           
-
-      - name: Commit and Push
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add .
-          git commit -m "Auto-update thumbnails for multiple folders" || echo "No changes"
-          git push
+          registry: ghcr.io
+          username: ${{ github.actor }}
+          password: ${{ secrets.GITHUB_TOKEN }}
+          logout: true
+      - name: push_to_ghcr
+        run: docker build -t ghcr.io/kukovecrok/thumbnails-readme-action:v1 . && docker image push ghcr.io/kukovecrok/thumbnails-readme-action:v1
