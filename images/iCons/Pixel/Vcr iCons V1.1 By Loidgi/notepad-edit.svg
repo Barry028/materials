@@ -1,0 +1,19 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="9" y="7" width="6" height="2" fill="black"/>
+<rect x="9" y="15" width="3" height="2" fill="black"/>
+<rect x="3" y="6" width="2" height="2" fill="black"/>
+<rect x="3" y="16" width="2" height="2" fill="black"/>
+<rect x="3" y="11" width="2" height="2" fill="black"/>
+<rect x="9" y="11" width="6" height="2" fill="black"/>
+<rect x="7" y="4" width="16" height="2" transform="rotate(90 7 4)" fill="black"/>
+<rect x="19" y="4" width="9" height="2" transform="rotate(90 19 4)" fill="black"/>
+<rect x="6" y="3" width="12" height="2" fill="black"/>
+<rect x="6" y="19" width="6" height="2" fill="black"/>
+<path d="M15 19H17V21H15V19Z" fill="black"/>
+<path d="M16 18H18V20H16V18Z" fill="black"/>
+<path d="M14 20H16V22H14V20Z" fill="black"/>
+<path d="M13 21H15V23H13V21Z" fill="black"/>
+<path d="M17 17H19V19H17V17Z" fill="black"/>
+<path d="M18 16H20V18H18V16Z" fill="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M21 16H20V15L19 15V17H21V16Z" fill="black"/>
+</svg>

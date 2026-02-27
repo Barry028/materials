@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="none" viewBox="0 0 16 16">
+  <g clip-path="url(#a)">
+    <path fill="#000" d="M11 6h1v1h-1zm1 0h1v1h-1zm2 1h1v1h-1zm1 1h1v1h-1zm-4 0h1v1h-1zm1 0h1v1h-1zm-3 2h1v1H9zm1-1h1v1h-1zm1 1h1v1h-1zm-2 2h1v1H9zm1 1h1v1h-1zm1-1h1v1h-1zm0-10h1v1h-1zm0-1h1v1h-1zm-1-1h1v1h-1zM9 2h1v1H9zm0-1h1v1H9zM8 0h1v1H8zM6 3h1v1H6zm1-1h1v1H7zm0-1h1v1H7zM6 0h1v1H6zM4 3h1v1H4zm1-1h1v1H5zm0-1h1v1H5zM4 0h1v1H4zM3 1h1v1H3zm0 4h1v1H3zM2 4h1v1H2zm1 3h1v1H3zM2 6h1v1H2zm0-4h1v1H2zM1 3h1v1H1zm1 6h1v1H2zm-1 1h1v1H1zm0 4h1v1H1zm1 1h1v1H2zm1-1h1v1H3zm0-4h1v1H3zM2 8h1v1H2zm5-3h1v1H7zm3 0h1v1h-1zM8 5h1v1H8zm0-1h1v1H8zm2 0h1v1h-1zm-1 7h1v1H9zm2 0h1v1h-1zm2-5h1v1h-1zm0 2h1v1h-1zm1 0h1v1h-1zM0 5h1v1H0zm1-3h1v1H1zm0 7h1v1H1zm0-4h1v1H1zm0 2h1v1H1zM0 7h1v1H0zm0-3h1v1H0zm0 2h1v1H0zm0 2h1v1H0zm0 1h1v1H0zm10 5h1v1h-1zm-1 1h1v1H9zM7 9h1v1H7zm-7 3h1v1H0zm4 0h1v1H4zm0 1h1v1H4zm-4 0h1v1H0zm2-1h1v1H2zm-2-1h1v1H0zm4 0h1v1H4z"/>
+    <path fill="#fff" d="M4 1h1v1H4zm0 1h1v1H4zM3 2h1v1H3zm3 0h1v1H6zm0-1h1v1H6zm2 0h1v1H8zm0 1h1v1H8zm2-1h1v1h-1zm0 1h1v1h-1zM2 3h1v1H2zM1 4h1v1H1zm1 1h1v1H2zM1 6h1v1H1zm1 1h1v1H2zM1 8h1v1H1zm4-8h1v1H5zm2 0h1v1H7zm2 0h1v1H9zM3 4h1v1H3zm0-1h1v1H3zm2 0h1v1H5zm0 3h1v1H5zm5-3h1v1h-1zM5 8h1v1H5zm0 1h1v1H5zm0 1h1v1H5zm0 1h1v1H5zm0 1h1v1H5zm0 1h1v1H5zm0 1h1v1H5zm0 1h1v1H5zm1 0h1v1H6zm0-1h1v1H6zm0-1h1v1H6zm0-1h1v1H6zm0-1h1v1H6zm0-1h1v1H6zm0-1h1v1H6zm0-1h1v1H6zm0-1h1v1H6zm0-1h1v1H6zm0-1h1v1H6zm0-1h1v1H6zm1 0h1v1H7zm0-1h1v1H7zm1 0h1v1H8zm1 0h1v1H9zm0 1h1v1H9zm0 1h1v1H9zm0 1h1v1H9zm0 1h1v1H9zm0 1h1v1H9zm0 1h1v1H9zM8 9h1v1H8zm0 1h1v1H8zm0 1h1v1H8zm0 1h1v1H8zm0 1h1v1H8zm0 1h1v1H8zm0 1h1v1H8zm-1 0h1v1H7zm0-1h1v1H7zm0-1h1v1H7zm0-1h1v1H7zm0-1h1v1H7zm0-1h1v1H7zm2 4h1v1H9zm0-1h1v1H9zM8 8h1v1H8zm0-1h1v1H8zm0-1h1v1H8zM7 6h1v1H7zm0 1h1v1H7zm0 1h1v1H7zm3 0h1v1h-1zm0-1h1v1h-1zm0-1h1v1h-1zm1 1h1v1h-1zm1 0h1v1h-1zm1 0h1v1h-1zM5 4h1v1H5zm0 1h1v1H5zM4 5h1v1H4zm0 1h1v1H4zm0 1h1v1H4zm0 1h1v1H4zm0 1h1v1H4zm0 1h1v1H4zM3 9h1v1H3zm0-1h1v1H3zm2-1h1v1H5zM3 6h1v1H3zm1-2h1v1H4zm0 11h1v1H4zm0-1h1v1H4zm-1 1h1v1H3zm-1-2h1v1H2zm-1 0h1v1H1zm0-2h1v1H1zm0 1h1v1H1zm1-1h1v1H2zm0-1h1v1H2zm1 1h1v1H3zm0 1h1v1H3zm0 1h1v1H3zm-1 1h1v1H2zm8-4h1v1h-1zm0 1h1v1h-1zm0 1h1v1h-1z"/>
+  </g>
+  <defs>
+    <clipPath id="a">
+      <path fill="#fff" d="M0 0h16v16H0z"/>
+    </clipPath>
+  </defs>
+</svg>

@@ -1,0 +1,22 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="2" height="6" transform="matrix(-1 -8.74228e-08 -8.74228e-08 1 18 8)" fill="black"/>
+<rect width="2" height="8" transform="matrix(-1 -8.74228e-08 -8.74228e-08 1 8 6)" fill="black"/>
+<rect width="2" height="2" transform="matrix(-1 -8.74228e-08 -8.74228e-08 1 9 5)" fill="black"/>
+<rect width="2" height="2" transform="matrix(-1 -8.74228e-08 -8.74228e-08 1 10 4)" fill="black"/>
+<rect width="2" height="2" transform="matrix(-1 -8.74228e-08 -8.74228e-08 1 7 14)" fill="black"/>
+<rect x="17" y="14" width="2" height="2" fill="black"/>
+<rect width="2" height="2" transform="matrix(-1 -8.74228e-08 -8.74228e-08 1 6 16)" fill="black"/>
+<rect x="18" y="16" width="2" height="2" fill="black"/>
+<rect width="14" height="2" transform="matrix(-1 -8.74228e-08 -8.74228e-08 1 19 17)" fill="black"/>
+<rect width="2" height="2" transform="matrix(-1 -8.74228e-08 -8.74228e-08 1 13 19)" fill="black"/>
+<rect width="4" height="2" transform="matrix(-1 -8.74228e-08 -8.74228e-08 1 14 18)" fill="black"/>
+<rect width="4" height="2" transform="matrix(-1 -8.74228e-08 -8.74228e-08 1 14 3)" fill="black"/>
+<path d="M19 5L17 5V7L19 7V5Z" fill="black"/>
+<path d="M17 7H15L15 9L17 9V7Z" fill="black"/>
+<path d="M17 3L15 3L15 5L17 5V3Z" fill="black"/>
+<path d="M15 5L13 5L13 7H15L15 5Z" fill="black"/>
+<path d="M15 4H14L14 5H15V4Z" fill="black"/>
+<path d="M18 4H17V5L18 5V4Z" fill="black"/>
+<path d="M18 7H17V8L18 8V7Z" fill="black"/>
+<path d="M15 7H14L14 8L15 8L15 7Z" fill="black"/>
+</svg>

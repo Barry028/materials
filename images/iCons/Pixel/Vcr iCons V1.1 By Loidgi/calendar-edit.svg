@@ -1,0 +1,21 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="5" y="6" width="14" height="2" transform="rotate(90 5 6)" fill="black"/>
+<rect x="21" y="6" width="7" height="2" transform="rotate(90 21 6)" fill="black"/>
+<rect x="4" y="8.5" width="16" height="2" fill="black"/>
+<rect x="4" y="5" width="16" height="2" fill="black"/>
+<rect x="11" y="11.75" width="2" height="2" fill="black"/>
+<rect x="15" y="11.75" width="2" height="2" fill="black"/>
+<rect x="7" y="11.75" width="2" height="2" fill="black"/>
+<rect x="6" y="3" width="2" height="2" fill="black"/>
+<rect x="7" y="15.75" width="2" height="2" fill="black"/>
+<rect x="11" y="15.75" width="2" height="2" fill="black"/>
+<rect x="4" y="19" width="8" height="2" fill="black"/>
+<rect x="16" y="3" width="2" height="2" fill="black"/>
+<path d="M16 18H18V20H16V18Z" fill="black"/>
+<path d="M17 17H19V19H17V17Z" fill="black"/>
+<path d="M15 19H17V21H15V19Z" fill="black"/>
+<path d="M14 20H16V22H14V20Z" fill="black"/>
+<path d="M18 16H20V18H18V16Z" fill="black"/>
+<path d="M19 15H21V17H19V15Z" fill="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M22 15H21V14L20 14V16H22V15Z" fill="black"/>
+</svg>
