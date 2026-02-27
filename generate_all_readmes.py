@@ -104,7 +104,7 @@ for root, dirs, files in sorted(os.walk(IMAGE_DIR)):
 
 
                 safe_repo = REPO_NAME.lower()
-                cdn_url = f"https://cdn.jsdelivr.net{safe_repo}@{BRANCH}/{safe_rel_path}"
+                cdn_url = f"https://cdn.jsdelivr.net/gh{safe_repo}@{BRANCH}/{safe_rel_path}"
                 copy_md = f"![{f}]({cdn_url})"
 
                 details = (
