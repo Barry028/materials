@@ -90,6 +90,7 @@ for root, dirs, files in sorted(os.walk(IMAGE_DIR)):
             rel_img_path = os.path.relpath(f_path, '.').replace('\\', '/')
             safe_rel_path = urllib.parse.quote(rel_img_path)
             safe_f = urllib.parse.quote(f)
+            safe_repo = REPO_NAME.lower()
             try:
                 stat = os.stat(f_path)
                 size = get_size_format(stat.st_size)
@@ -103,7 +104,7 @@ for root, dirs, files in sorted(os.walk(IMAGE_DIR)):
                     spec = f"🖼️ **尺寸:** `{w}x{h} px`"
 
 
-                safe_repo = REPO_NAME.lower()
+                
                 cdn_url = f"https://cdn.jsdelivr.net/gh{safe_repo}@{BRANCH}/{safe_rel_path}"
                 copy_md = f"![{f}]({cdn_url})"
 
