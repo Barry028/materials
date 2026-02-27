@@ -4,7 +4,7 @@
 
 本目錄共有 `50` 個檔案
 
-| 🎨 預覽 (點擊放大)<br><img src="data:image/gif;base64,R0lGODlh+gABAPAAAAAAAAAAACH5BAEAAAAALAAAAAD6AAEAAAINhI+py+0Po5y02ovzLQA7"> | 📋 檔案詳細資訊與連結 |
+| 🎨 預覽 (點擊放大)<br><img src="data:image/gif;base64,R0lGODlh+gABAPAAAAAAAAAAACH5BAEAAAAALAAAAAD6AAEAAAINhI+py+0Po5y02ovzLQA7" width="250" height="1"> | 📋 檔案詳細資訊與連結 |
 | :--- | :--- |
 | <a href="001-assign.svg"><img src="001-assign.svg" width="250" alt="001-assign.svg"></a> | **📂 檔名:** `001-assign.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.47KB`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![001-assign.svg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Folders/files-and-document-03/001-assign.svg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Folders/files-and-document-03/001-assign.svg</code><br>📥 [檢視原始檔](001-assign.svg) |
 | <a href="002-bar%20chart.svg"><img src="002-bar%20chart.svg" width="250" alt="002-bar chart.svg"></a> | **📂 檔名:** `002-bar chart.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.29KB`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![002-bar chart.svg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Folders/files-and-document-03/002-bar%20chart.svg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Folders/files-and-document-03/002-bar%20chart.svg</code><br>📥 [檢視原始檔](002-bar%20chart.svg) |

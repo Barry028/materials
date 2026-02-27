@@ -4,7 +4,7 @@
 
 本目錄共有 `5` 個檔案
 
-| 🎨 預覽 (點擊放大)<br><img src="data:image/gif;base64,R0lGODlh+gABAPAAAAAAAAAAACH5BAEAAAAALAAAAAD6AAEAAAINhI+py+0Po5y02ovzLQA7"> | 📋 檔案詳細資訊與連結 |
+| 🎨 預覽 (點擊放大)<br><img src="data:image/gif;base64,R0lGODlh+gABAPAAAAAAAAAAACH5BAEAAAAALAAAAAD6AAEAAAINhI+py+0Po5y02ovzLQA7" width="250" height="1"> | 📋 檔案詳細資訊與連結 |
 | :--- | :--- |
 | <a href="big-o-notation.svg"><img src="big-o-notation.svg" width="250" alt="big-o-notation.svg"></a> | **📂 檔名:** `big-o-notation.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.48KB`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![big-o-notation.svg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/WebSkills/algorithms-and-data-structures/analysis/big-o-notation.svg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/WebSkills/algorithms-and-data-structures/analysis/big-o-notation.svg</code><br>📥 [檢視原始檔](big-o-notation.svg) |
 | <a href="cost-model.svg"><img src="cost-model.svg" width="250" alt="cost-model.svg"></a> | **📂 檔名:** `cost-model.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `20.77KB`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![cost-model.svg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/WebSkills/algorithms-and-data-structures/analysis/cost-model.svg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/WebSkills/algorithms-and-data-structures/analysis/cost-model.svg</code><br>📥 [檢視原始檔](cost-model.svg) |

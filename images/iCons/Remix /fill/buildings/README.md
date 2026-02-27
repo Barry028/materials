@@ -4,7 +4,7 @@
 
 本目錄共有 `27` 個檔案
 
-| 🎨 預覽 (點擊放大)<br><img src="data:image/gif;base64,R0lGODlh+gABAPAAAAAAAAAAACH5BAEAAAAALAAAAAD6AAEAAAINhI+py+0Po5y02ovzLQA7"> | 📋 檔案詳細資訊與連結 |
+| 🎨 預覽 (點擊放大)<br><img src="data:image/gif;base64,R0lGODlh+gABAPAAAAAAAAAAACH5BAEAAAAALAAAAAD6AAEAAAINhI+py+0Po5y02ovzLQA7" width="250" height="1"> | 📋 檔案詳細資訊與連結 |
 | :--- | :--- |
 | <a href="ancient-gate-fill.svg"><img src="ancient-gate-fill.svg" width="250" alt="ancient-gate-fill.svg"></a> | **📂 檔名:** `ancient-gate-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.46KB`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![ancient-gate-fill.svg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Remix%20/fill/buildings/ancient-gate-fill.svg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Remix%20/fill/buildings/ancient-gate-fill.svg</code><br>📥 [檢視原始檔](ancient-gate-fill.svg) |
 | <a href="ancient-pavilion-fill.svg"><img src="ancient-pavilion-fill.svg" width="250" alt="ancient-pavilion-fill.svg"></a> | **📂 檔名:** `ancient-pavilion-fill.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `774.00B`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![ancient-pavilion-fill.svg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Remix%20/fill/buildings/ancient-pavilion-fill.svg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Remix%20/fill/buildings/ancient-pavilion-fill.svg</code><br>📥 [檢視原始檔](ancient-pavilion-fill.svg) |

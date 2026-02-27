@@ -4,7 +4,7 @@
 
 本目錄共有 `1134` 個檔案
 
-| 🎨 預覽 (點擊放大)<br><img src="data:image/gif;base64,R0lGODlh+gABAPAAAAAAAAAAACH5BAEAAAAALAAAAAD6AAEAAAINhI+py+0Po5y02ovzLQA7"> | 📋 檔案詳細資訊與連結 |
+| 🎨 預覽 (點擊放大)<br><img src="data:image/gif;base64,R0lGODlh+gABAPAAAAAAAAAAACH5BAEAAAAALAAAAAD6AAEAAAINhI+py+0Po5y02ovzLQA7" width="250" height="1"> | 📋 檔案詳細資訊與連結 |
 | :--- | :--- |
 | <a href="abc-18px.svg"><img src="abc-18px.svg" width="250" alt="abc-18px.svg"></a> | **📂 檔名:** `abc-18px.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `3.08KB`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![abc-18px.svg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Iconbrew%20/abc-18px.svg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Iconbrew%20/abc-18px.svg</code><br>📥 [檢視原始檔](abc-18px.svg) |
 | <a href="abc-24px.svg"><img src="abc-24px.svg" width="250" alt="abc-24px.svg"></a> | **📂 檔名:** `abc-24px.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `3.06KB`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![abc-24px.svg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Iconbrew%20/abc-24px.svg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Iconbrew%20/abc-24px.svg</code><br>📥 [檢視原始檔](abc-24px.svg) |

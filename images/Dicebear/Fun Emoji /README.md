@@ -4,7 +4,7 @@
 
 本目錄共有 `20` 個檔案
 
-| 🎨 預覽 (點擊放大)<br><img src="data:image/gif;base64,R0lGODlh+gABAPAAAAAAAAAAACH5BAEAAAAALAAAAAD6AAEAAAINhI+py+0Po5y02ovzLQA7"> | 📋 檔案詳細資訊與連結 |
+| 🎨 預覽 (點擊放大)<br><img src="data:image/gif;base64,R0lGODlh+gABAPAAAAAAAAAAACH5BAEAAAAALAAAAAD6AAEAAAINhI+py+0Po5y02ovzLQA7" width="250" height="1"> | 📋 檔案詳細資訊與連結 |
 | :--- | :--- |
 | <a href="funEmoji-1771675516991.svg"><img src="funEmoji-1771675516991.svg" width="250" alt="funEmoji-1771675516991.svg"></a> | **📂 檔名:** `funEmoji-1771675516991.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `4.25KB`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![funEmoji-1771675516991.svg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/Dicebear/Fun%20Emoji%20/funEmoji-1771675516991.svg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/Dicebear/Fun%20Emoji%20/funEmoji-1771675516991.svg</code><br>📥 [檢視原始檔](funEmoji-1771675516991.svg) |
 | <a href="funEmoji-1771675519328.svg"><img src="funEmoji-1771675519328.svg" width="250" alt="funEmoji-1771675519328.svg"></a> | **📂 檔名:** `funEmoji-1771675519328.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `2.50KB`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![funEmoji-1771675519328.svg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/Dicebear/Fun%20Emoji%20/funEmoji-1771675519328.svg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/Dicebear/Fun%20Emoji%20/funEmoji-1771675519328.svg</code><br>📥 [檢視原始檔](funEmoji-1771675519328.svg) |

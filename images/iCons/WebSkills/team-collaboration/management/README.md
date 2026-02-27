@@ -4,7 +4,7 @@
 
 本目錄共有 `5` 個檔案
 
-| 🎨 預覽 (點擊放大)<br><img src="data:image/gif;base64,R0lGODlh+gABAPAAAAAAAAAAACH5BAEAAAAALAAAAAD6AAEAAAINhI+py+0Po5y02ovzLQA7"> | 📋 檔案詳細資訊與連結 |
+| 🎨 預覽 (點擊放大)<br><img src="data:image/gif;base64,R0lGODlh+gABAPAAAAAAAAAAACH5BAEAAAAALAAAAAD6AAEAAAINhI+py+0Po5y02ovzLQA7" width="250" height="1"> | 📋 檔案詳細資訊與連結 |
 | :--- | :--- |
 | <a href="agile-development.svg"><img src="agile-development.svg" width="250" alt="agile-development.svg"></a> | **📂 檔名:** `agile-development.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `6.17KB`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![agile-development.svg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/WebSkills/team-collaboration/management/agile-development.svg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/WebSkills/team-collaboration/management/agile-development.svg</code><br>📥 [檢視原始檔](agile-development.svg) |
 | <a href="kanban.svg"><img src="kanban.svg" width="250" alt="kanban.svg"></a> | **📂 檔名:** `kanban.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `3.30KB`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![kanban.svg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/WebSkills/team-collaboration/management/kanban.svg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/WebSkills/team-collaboration/management/kanban.svg</code><br>📥 [檢視原始檔](kanban.svg) |

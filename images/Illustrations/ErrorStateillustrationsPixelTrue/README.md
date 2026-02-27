@@ -4,7 +4,7 @@
 
 本目錄共有 `30` 個檔案
 
-| 🎨 預覽 (點擊放大)<br><img src="data:image/gif;base64,R0lGODlh+gABAPAAAAAAAAAAACH5BAEAAAAALAAAAAD6AAEAAAINhI+py+0Po5y02ovzLQA7"> | 📋 檔案詳細資訊與連結 |
+| 🎨 預覽 (點擊放大)<br><img src="data:image/gif;base64,R0lGODlh+gABAPAAAAAAAAAAACH5BAEAAAAALAAAAAD6AAEAAAINhI+py+0Po5y02ovzLQA7" width="250" height="1"> | 📋 檔案詳細資訊與連結 |
 | :--- | :--- |
 | <a href="Astronaut-01.svg"><img src="Astronaut-01.svg" width="250" alt="Astronaut-01.svg"></a> | **📂 檔名:** `Astronaut-01.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `5.68KB`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![Astronaut-01.svg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/Illustrations/ErrorStateillustrationsPixelTrue/Astronaut-01.svg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/Illustrations/ErrorStateillustrationsPixelTrue/Astronaut-01.svg</code><br>📥 [檢視原始檔](Astronaut-01.svg) |
 | <a href="Cat-01.svg"><img src="Cat-01.svg" width="250" alt="Cat-01.svg"></a> | **📂 檔名:** `Cat-01.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `6.95KB`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![Cat-01.svg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/Illustrations/ErrorStateillustrationsPixelTrue/Cat-01.svg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/Illustrations/ErrorStateillustrationsPixelTrue/Cat-01.svg</code><br>📥 [檢視原始檔](Cat-01.svg) |

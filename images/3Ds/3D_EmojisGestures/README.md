@@ -4,7 +4,7 @@
 
 本目錄共有 `33` 個檔案
 
-| 🎨 預覽 (點擊放大)<br><img src="data:image/gif;base64,R0lGODlh+gABAPAAAAAAAAAAACH5BAEAAAAALAAAAAD6AAEAAAINhI+py+0Po5y02ovzLQA7"> | 📋 檔案詳細資訊與連結 |
+| 🎨 預覽 (點擊放大)<br><img src="data:image/gif;base64,R0lGODlh+gABAPAAAAAAAAAAACH5BAEAAAAALAAAAAD6AAEAAAINhI+py+0Po5y02ovzLQA7" width="250" height="1"> | 📋 檔案詳細資訊與連結 |
 | :--- | :--- |
 | <a href="Black-Claps-83.png"><img src="Black-Claps-83.png" width="250" alt="Black-Claps-83.png"></a> | **📂 檔名:** `Black-Claps-83.png`<br>🖼️ **尺寸:** `1000x1000 px`<br>⚖️ **大小:** `155.40KB`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![Black-Claps-83.png](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/3Ds/3D_EmojisGestures/Black-Claps-83.png)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/3Ds/3D_EmojisGestures/Black-Claps-83.png</code><br>📥 [檢視原始檔](Black-Claps-83.png) |
 | <a href="Black-GivingRight-f4.png"><img src="Black-GivingRight-f4.png" width="250" alt="Black-GivingRight-f4.png"></a> | **📂 檔名:** `Black-GivingRight-f4.png`<br>🖼️ **尺寸:** `1000x1000 px`<br>⚖️ **大小:** `68.16KB`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![Black-GivingRight-f4.png](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/3Ds/3D_EmojisGestures/Black-GivingRight-f4.png)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/3Ds/3D_EmojisGestures/Black-GivingRight-f4.png</code><br>📥 [檢視原始檔](Black-GivingRight-f4.png) |

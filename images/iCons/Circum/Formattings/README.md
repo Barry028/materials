@@ -4,7 +4,7 @@
 
 本目錄共有 `8` 個檔案
 
-| 🎨 預覽 (點擊放大)<br><img src="data:image/gif;base64,R0lGODlh+gABAPAAAAAAAAAAACH5BAEAAAAALAAAAAD6AAEAAAINhI+py+0Po5y02ovzLQA7"> | 📋 檔案詳細資訊與連結 |
+| 🎨 預覽 (點擊放大)<br><img src="data:image/gif;base64,R0lGODlh+gABAPAAAAAAAAAAACH5BAEAAAAALAAAAAD6AAEAAAINhI+py+0Po5y02ovzLQA7" width="250" height="1"> | 📋 檔案詳細資訊與連結 |
 | :--- | :--- |
 | <a href="Box_List.svg"><img src="Box_List.svg" width="250" alt="Box_List.svg"></a> | **📂 檔名:** `Box_List.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.09KB`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![Box_List.svg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Circum/Formattings/Box_List.svg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Circum/Formattings/Box_List.svg</code><br>📥 [檢視原始檔](Box_List.svg) |
 | <a href="Filter.svg"><img src="Filter.svg" width="250" alt="Filter.svg"></a> | **📂 檔名:** `Filter.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `552.00B`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![Filter.svg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Circum/Formattings/Filter.svg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Circum/Formattings/Filter.svg</code><br>📥 [檢視原始檔](Filter.svg) |

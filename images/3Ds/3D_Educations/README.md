@@ -4,7 +4,7 @@
 
 本目錄共有 `40` 個檔案
 
-| 🎨 預覽 (點擊放大)<br><img src="data:image/gif;base64,R0lGODlh+gABAPAAAAAAAAAAACH5BAEAAAAALAAAAAD6AAEAAAINhI+py+0Po5y02ovzLQA7"> | 📋 檔案詳細資訊與連結 |
+| 🎨 預覽 (點擊放大)<br><img src="data:image/gif;base64,R0lGODlh+gABAPAAAAAAAAAAACH5BAEAAAAALAAAAAD6AAEAAAINhI+py+0Po5y02ovzLQA7" width="250" height="1"> | 📋 檔案詳細資訊與連結 |
 | :--- | :--- |
 | <a href="3d-Icon-education-01-4a.webp"><img src="3d-Icon-education-01-4a.webp" width="250" alt="3d-Icon-education-01-4a.webp"></a> | **📂 檔名:** `3d-Icon-education-01-4a.webp`<br>🖼️ **尺寸:** `500x500 px`<br>⚖️ **大小:** `8.06KB`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![3d-Icon-education-01-4a.webp](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/3Ds/3D_Educations/3d-Icon-education-01-4a.webp)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/3Ds/3D_Educations/3d-Icon-education-01-4a.webp</code><br>📥 [檢視原始檔](3d-Icon-education-01-4a.webp) |
 | <a href="3d-Icon-education-01-cd.png"><img src="3d-Icon-education-01-cd.png" width="250" alt="3d-Icon-education-01-cd.png"></a> | **📂 檔名:** `3d-Icon-education-01-cd.png`<br>🖼️ **尺寸:** `500x500 px`<br>⚖️ **大小:** `83.03KB`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![3d-Icon-education-01-cd.png](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/3Ds/3D_Educations/3d-Icon-education-01-cd.png)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/3Ds/3D_Educations/3d-Icon-education-01-cd.png</code><br>📥 [檢視原始檔](3d-Icon-education-01-cd.png) |

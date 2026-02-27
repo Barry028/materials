@@ -4,7 +4,7 @@
 
 本目錄共有 `109` 個檔案
 
-| 🎨 預覽 (點擊放大)<br><img src="data:image/gif;base64,R0lGODlh+gABAPAAAAAAAAAAACH5BAEAAAAALAAAAAD6AAEAAAINhI+py+0Po5y02ovzLQA7"> | 📋 檔案詳細資訊與連結 |
+| 🎨 預覽 (點擊放大)<br><img src="data:image/gif;base64,R0lGODlh+gABAPAAAAAAAAAAACH5BAEAAAAALAAAAAD6AAEAAAINhI+py+0Po5y02ovzLQA7" width="250" height="1"> | 📋 檔案詳細資訊與連結 |
 | :--- | :--- |
 | <a href="action.svg"><img src="action.svg" width="250" alt="action.svg"></a> | **📂 檔名:** `action.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `702.00B`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![action.svg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Fabulous/action.svg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Fabulous/action.svg</code><br>📥 [檢視原始檔](action.svg) |
 | <a href="array.svg"><img src="array.svg" width="250" alt="array.svg"></a> | **📂 檔名:** `array.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.50KB`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![array.svg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Fabulous/array.svg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Fabulous/array.svg</code><br>📥 [檢視原始檔](array.svg) |

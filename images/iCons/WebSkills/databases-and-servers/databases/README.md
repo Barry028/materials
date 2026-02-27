@@ -4,7 +4,7 @@
 
 本目錄共有 `23` 個檔案
 
-| 🎨 預覽 (點擊放大)<br><img src="data:image/gif;base64,R0lGODlh+gABAPAAAAAAAAAAACH5BAEAAAAALAAAAAD6AAEAAAINhI+py+0Po5y02ovzLQA7"> | 📋 檔案詳細資訊與連結 |
+| 🎨 預覽 (點擊放大)<br><img src="data:image/gif;base64,R0lGODlh+gABAPAAAAAAAAAAACH5BAEAAAAALAAAAAD6AAEAAAINhI+py+0Po5y02ovzLQA7" width="250" height="1"> | 📋 檔案詳細資訊與連結 |
 | :--- | :--- |
 | <a href="acid.svg"><img src="acid.svg" width="250" alt="acid.svg"></a> | **📂 檔名:** `acid.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `5.95KB`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![acid.svg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/WebSkills/databases-and-servers/databases/acid.svg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/WebSkills/databases-and-servers/databases/acid.svg</code><br>📥 [檢視原始檔](acid.svg) |
 | <a href="armstrongs-axioms.svg"><img src="armstrongs-axioms.svg" width="250" alt="armstrongs-axioms.svg"></a> | **📂 檔名:** `armstrongs-axioms.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `3.81KB`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![armstrongs-axioms.svg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/WebSkills/databases-and-servers/databases/armstrongs-axioms.svg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/WebSkills/databases-and-servers/databases/armstrongs-axioms.svg</code><br>📥 [檢視原始檔](armstrongs-axioms.svg) |

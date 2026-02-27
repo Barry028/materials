@@ -4,7 +4,7 @@
 
 本目錄共有 `10` 個檔案
 
-| 🎨 預覽 (點擊放大)<br><img src="data:image/gif;base64,R0lGODlh+gABAPAAAAAAAAAAACH5BAEAAAAALAAAAAD6AAEAAAINhI+py+0Po5y02ovzLQA7"> | 📋 檔案詳細資訊與連結 |
+| 🎨 預覽 (點擊放大)<br><img src="data:image/gif;base64,R0lGODlh+gABAPAAAAAAAAAAACH5BAEAAAAALAAAAAD6AAEAAAINhI+py+0Po5y02ovzLQA7" width="250" height="1"> | 📋 檔案詳細資訊與連結 |
 | :--- | :--- |
 | <a href="Badge_Dollar.svg"><img src="Badge_Dollar.svg" width="250" alt="Badge_Dollar.svg"></a> | **📂 檔名:** `Badge_Dollar.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `2.26KB`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![Badge_Dollar.svg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Circum/Shopping%20%26%20Ecommerce/Badge_Dollar.svg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Circum/Shopping%20%26%20Ecommerce/Badge_Dollar.svg</code><br>📥 [檢視原始檔](Badge_Dollar.svg) |
 | <a href="Barcode.svg"><img src="Barcode.svg" width="250" alt="Barcode.svg"></a> | **📂 檔名:** `Barcode.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.45KB`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![Barcode.svg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Circum/Shopping%20%26%20Ecommerce/Barcode.svg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Circum/Shopping%20%26%20Ecommerce/Barcode.svg</code><br>📥 [檢視原始檔](Barcode.svg) |

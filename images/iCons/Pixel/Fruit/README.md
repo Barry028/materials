@@ -4,7 +4,7 @@
 
 本目錄共有 `20` 個檔案
 
-| 🎨 預覽 (點擊放大)<br><img src="data:image/gif;base64,R0lGODlh+gABAPAAAAAAAAAAACH5BAEAAAAALAAAAAD6AAEAAAINhI+py+0Po5y02ovzLQA7"> | 📋 檔案詳細資訊與連結 |
+| 🎨 預覽 (點擊放大)<br><img src="data:image/gif;base64,R0lGODlh+gABAPAAAAAAAAAAACH5BAEAAAAALAAAAAD6AAEAAAINhI+py+0Po5y02ovzLQA7" width="250" height="1"> | 📋 檔案詳細資訊與連結 |
 | :--- | :--- |
 | <a href="apple-svgrepo-com.svg"><img src="apple-svgrepo-com.svg" width="250" alt="apple-svgrepo-com.svg"></a> | **📂 檔名:** `apple-svgrepo-com.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `3.63KB`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![apple-svgrepo-com.svg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Pixel/Fruit/apple-svgrepo-com.svg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Pixel/Fruit/apple-svgrepo-com.svg</code><br>📥 [檢視原始檔](apple-svgrepo-com.svg) |
 | <a href="avocado-svgrepo-com.svg"><img src="avocado-svgrepo-com.svg" width="250" alt="avocado-svgrepo-com.svg"></a> | **📂 檔名:** `avocado-svgrepo-com.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `2.54KB`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![avocado-svgrepo-com.svg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Pixel/Fruit/avocado-svgrepo-com.svg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Pixel/Fruit/avocado-svgrepo-com.svg</code><br>📥 [檢視原始檔](avocado-svgrepo-com.svg) |

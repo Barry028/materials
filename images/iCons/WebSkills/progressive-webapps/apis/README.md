@@ -4,7 +4,7 @@
 
 本目錄共有 `10` 個檔案
 
-| 🎨 預覽 (點擊放大)<br><img src="data:image/gif;base64,R0lGODlh+gABAPAAAAAAAAAAACH5BAEAAAAALAAAAAD6AAEAAAINhI+py+0Po5y02ovzLQA7"> | 📋 檔案詳細資訊與連結 |
+| 🎨 預覽 (點擊放大)<br><img src="data:image/gif;base64,R0lGODlh+gABAPAAAAAAAAAAACH5BAEAAAAALAAAAAD6AAEAAAINhI+py+0Po5y02ovzLQA7" width="250" height="1"> | 📋 檔案詳細資訊與連結 |
 | :--- | :--- |
 | <a href="add-to-homescreen.svg"><img src="add-to-homescreen.svg" width="250" alt="add-to-homescreen.svg"></a> | **📂 檔名:** `add-to-homescreen.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `17.45KB`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![add-to-homescreen.svg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/WebSkills/progressive-webapps/apis/add-to-homescreen.svg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/WebSkills/progressive-webapps/apis/add-to-homescreen.svg</code><br>📥 [檢視原始檔](add-to-homescreen.svg) |
 | <a href="history-api.svg"><img src="history-api.svg" width="250" alt="history-api.svg"></a> | **📂 檔名:** `history-api.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `14.63KB`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![history-api.svg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/WebSkills/progressive-webapps/apis/history-api.svg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/WebSkills/progressive-webapps/apis/history-api.svg</code><br>📥 [檢視原始檔](history-api.svg) |

@@ -4,7 +4,7 @@
 
 本目錄共有 `13` 個檔案
 
-| 🎨 預覽 (點擊放大)<br><img src="data:image/gif;base64,R0lGODlh+gABAPAAAAAAAAAAACH5BAEAAAAALAAAAAD6AAEAAAINhI+py+0Po5y02ovzLQA7"> | 📋 檔案詳細資訊與連結 |
+| 🎨 預覽 (點擊放大)<br><img src="data:image/gif;base64,R0lGODlh+gABAPAAAAAAAAAAACH5BAEAAAAALAAAAAD6AAEAAAINhI+py+0Po5y02ovzLQA7" width="250" height="1"> | 📋 檔案詳細資訊與連結 |
 | :--- | :--- |
 | <a href="Bulb.svg"><img src="Bulb.svg" width="250" alt="Bulb.svg"></a> | **📂 檔名:** `Bulb.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `667.00B`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![Bulb.svg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Coolicons%20/Environment/Bulb.svg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Coolicons%20/Environment/Bulb.svg</code><br>📥 [檢視原始檔](Bulb.svg) |
 | <a href="Coffe_To_Go.svg"><img src="Coffe_To_Go.svg" width="250" alt="Coffe_To_Go.svg"></a> | **📂 檔名:** `Coffe_To_Go.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.34KB`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![Coffe_To_Go.svg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Coolicons%20/Environment/Coffe_To_Go.svg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Coolicons%20/Environment/Coffe_To_Go.svg</code><br>📥 [檢視原始檔](Coffe_To_Go.svg) |

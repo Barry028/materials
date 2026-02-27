@@ -4,7 +4,7 @@
 
 本目錄共有 `11` 個檔案
 
-| 🎨 預覽 (點擊放大)<br><img src="data:image/gif;base64,R0lGODlh+gABAPAAAAAAAAAAACH5BAEAAAAALAAAAAD6AAEAAAINhI+py+0Po5y02ovzLQA7"> | 📋 檔案詳細資訊與連結 |
+| 🎨 預覽 (點擊放大)<br><img src="data:image/gif;base64,R0lGODlh+gABAPAAAAAAAAAAACH5BAEAAAAALAAAAAD6AAEAAAINhI+py+0Po5y02ovzLQA7" width="250" height="1"> | 📋 檔案詳細資訊與連結 |
 | :--- | :--- |
 | <a href="Apple.svg"><img src="Apple.svg" width="250" alt="Apple.svg"></a> | **📂 檔名:** `Apple.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `998.00B`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![Apple.svg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Circum/Food%20%26%20Drinks/Apple.svg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Circum/Food%20%26%20Drinks/Apple.svg</code><br>📥 [檢視原始檔](Apple.svg) |
 | <a href="Avocado.svg"><img src="Avocado.svg" width="250" alt="Avocado.svg"></a> | **📂 檔名:** `Avocado.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `716.00B`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![Avocado.svg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Circum/Food%20%26%20Drinks/Avocado.svg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Circum/Food%20%26%20Drinks/Avocado.svg</code><br>📥 [檢視原始檔](Avocado.svg) |

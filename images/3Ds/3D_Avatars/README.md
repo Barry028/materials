@@ -4,7 +4,7 @@
 
 本目錄共有 `21` 個檔案
 
-| 🎨 預覽 (點擊放大)<br><img src="data:image/gif;base64,R0lGODlh+gABAPAAAAAAAAAAACH5BAEAAAAALAAAAAD6AAEAAAINhI+py+0Po5y02ovzLQA7"> | 📋 檔案詳細資訊與連結 |
+| 🎨 預覽 (點擊放大)<br><img src="data:image/gif;base64,R0lGODlh+gABAPAAAAAAAAAAACH5BAEAAAAALAAAAAD6AAEAAAINhI+py+0Po5y02ovzLQA7" width="250" height="1"> | 📋 檔案詳細資訊與連結 |
 | :--- | :--- |
 | <a href="3d-female-001-12.webp"><img src="3d-female-001-12.webp" width="250" alt="3d-female-001-12.webp"></a> | **📂 檔名:** `3d-female-001-12.webp`<br>🖼️ **尺寸:** `200x200 px`<br>⚖️ **大小:** `3.99KB`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![3d-female-001-12.webp](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/3Ds/3D_Avatars/3d-female-001-12.webp)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/3Ds/3D_Avatars/3d-female-001-12.webp</code><br>📥 [檢視原始檔](3d-female-001-12.webp) |
 | <a href="3d-female-001-2x-3c.webp"><img src="3d-female-001-2x-3c.webp" width="250" alt="3d-female-001-2x-3c.webp"></a> | **📂 檔名:** `3d-female-001-2x-3c.webp`<br>🖼️ **尺寸:** `400x400 px`<br>⚖️ **大小:** `8.17KB`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![3d-female-001-2x-3c.webp](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/3Ds/3D_Avatars/3d-female-001-2x-3c.webp)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/3Ds/3D_Avatars/3d-female-001-2x-3c.webp</code><br>📥 [檢視原始檔](3d-female-001-2x-3c.webp) |

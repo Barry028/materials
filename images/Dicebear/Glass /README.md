@@ -4,7 +4,7 @@
 
 本目錄共有 `20` 個檔案
 
-| 🎨 預覽 (點擊放大)<br><img src="data:image/gif;base64,R0lGODlh+gABAPAAAAAAAAAAACH5BAEAAAAALAAAAAD6AAEAAAINhI+py+0Po5y02ovzLQA7"> | 📋 檔案詳細資訊與連結 |
+| 🎨 預覽 (點擊放大)<br><img src="data:image/gif;base64,R0lGODlh+gABAPAAAAAAAAAAACH5BAEAAAAALAAAAAD6AAEAAAINhI+py+0Po5y02ovzLQA7" width="250" height="1"> | 📋 檔案詳細資訊與連結 |
 | :--- | :--- |
 | <a href="glass-1771675570981.svg"><img src="glass-1771675570981.svg" width="250" alt="glass-1771675570981.svg"></a> | **📂 檔名:** `glass-1771675570981.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `2.13KB`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![glass-1771675570981.svg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/Dicebear/Glass%20/glass-1771675570981.svg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/Dicebear/Glass%20/glass-1771675570981.svg</code><br>📥 [檢視原始檔](glass-1771675570981.svg) |
 | <a href="glass-1771675572421.svg"><img src="glass-1771675572421.svg" width="250" alt="glass-1771675572421.svg"></a> | **📂 檔名:** `glass-1771675572421.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `2.31KB`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![glass-1771675572421.svg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/Dicebear/Glass%20/glass-1771675572421.svg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/Dicebear/Glass%20/glass-1771675572421.svg</code><br>📥 [檢視原始檔](glass-1771675572421.svg) |

@@ -4,7 +4,7 @@
 
 本目錄共有 `12` 個檔案
 
-| 🎨 預覽 (點擊放大)<br><img src="data:image/gif;base64,R0lGODlh+gABAPAAAAAAAAAAACH5BAEAAAAALAAAAAD6AAEAAAINhI+py+0Po5y02ovzLQA7"> | 📋 檔案詳細資訊與連結 |
+| 🎨 預覽 (點擊放大)<br><img src="data:image/gif;base64,R0lGODlh+gABAPAAAAAAAAAAACH5BAEAAAAALAAAAAD6AAEAAAINhI+py+0Po5y02ovzLQA7" width="250" height="1"> | 📋 檔案詳細資訊與連結 |
 | :--- | :--- |
 | <a href="bem.svg"><img src="bem.svg" width="250" alt="bem.svg"></a> | **📂 檔名:** `bem.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `5.62KB`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![bem.svg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/WebSkills/architecture-and-paradigms/architecture/bem.svg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/WebSkills/architecture-and-paradigms/architecture/bem.svg</code><br>📥 [檢視原始檔](bem.svg) |
 | <a href="bridge.svg"><img src="bridge.svg" width="250" alt="bridge.svg"></a> | **📂 檔名:** `bridge.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `8.34KB`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![bridge.svg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/WebSkills/architecture-and-paradigms/architecture/bridge.svg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/WebSkills/architecture-and-paradigms/architecture/bridge.svg</code><br>📥 [檢視原始檔](bridge.svg) |

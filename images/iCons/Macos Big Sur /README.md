@@ -4,7 +4,7 @@
 
 本目錄共有 `70` 個檔案
 
-| 🎨 預覽 (點擊放大)<br><img src="data:image/gif;base64,R0lGODlh+gABAPAAAAAAAAAAACH5BAEAAAAALAAAAAD6AAEAAAINhI+py+0Po5y02ovzLQA7"> | 📋 檔案詳細資訊與連結 |
+| 🎨 預覽 (點擊放大)<br><img src="data:image/gif;base64,R0lGODlh+gABAPAAAAAAAAAAACH5BAEAAAAALAAAAAD6AAEAAAINhI+py+0Po5y02ovzLQA7" width="250" height="1"> | 📋 檔案詳細資訊與連結 |
 | :--- | :--- |
 | <a href="Activity%20Monitor.svg"><img src="Activity%20Monitor.svg" width="250" alt="Activity Monitor.svg"></a> | **📂 檔名:** `Activity Monitor.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `1.00MB`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![Activity Monitor.svg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Macos%20Big%20Sur%20/Activity%20Monitor.svg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Macos%20Big%20Sur%20/Activity%20Monitor.svg</code><br>📥 [檢視原始檔](Activity%20Monitor.svg) |
 | <a href="Airport%20Utility.svg"><img src="Airport%20Utility.svg" width="250" alt="Airport Utility.svg"></a> | **📂 檔名:** `Airport Utility.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `895.73KB`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![Airport Utility.svg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Macos%20Big%20Sur%20/Airport%20Utility.svg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Macos%20Big%20Sur%20/Airport%20Utility.svg</code><br>📥 [檢視原始檔](Airport%20Utility.svg) |

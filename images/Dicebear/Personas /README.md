@@ -4,7 +4,7 @@
 
 本目錄共有 `20` 個檔案
 
-| 🎨 預覽 (點擊放大)<br><img src="data:image/gif;base64,R0lGODlh+gABAPAAAAAAAAAAACH5BAEAAAAALAAAAAD6AAEAAAINhI+py+0Po5y02ovzLQA7"> | 📋 檔案詳細資訊與連結 |
+| 🎨 預覽 (點擊放大)<br><img src="data:image/gif;base64,R0lGODlh+gABAPAAAAAAAAAAACH5BAEAAAAALAAAAAD6AAEAAAINhI+py+0Po5y02ovzLQA7" width="250" height="1"> | 📋 檔案詳細資訊與連結 |
 | :--- | :--- |
 | <a href="personas-1771676344894.svg"><img src="personas-1771676344894.svg" width="250" alt="personas-1771676344894.svg"></a> | **📂 檔名:** `personas-1771676344894.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `3.71KB`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![personas-1771676344894.svg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/Dicebear/Personas%20/personas-1771676344894.svg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/Dicebear/Personas%20/personas-1771676344894.svg</code><br>📥 [檢視原始檔](personas-1771676344894.svg) |
 | <a href="personas-1771676346130.svg"><img src="personas-1771676346130.svg" width="250" alt="personas-1771676346130.svg"></a> | **📂 檔名:** `personas-1771676346130.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `3.11KB`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![personas-1771676346130.svg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/Dicebear/Personas%20/personas-1771676346130.svg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/Dicebear/Personas%20/personas-1771676346130.svg</code><br>📥 [檢視原始檔](personas-1771676346130.svg) |

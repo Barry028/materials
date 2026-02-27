@@ -4,7 +4,7 @@
 
 本目錄共有 `20` 個檔案
 
-| 🎨 預覽 (點擊放大)<br><img src="data:image/gif;base64,R0lGODlh+gABAPAAAAAAAAAAACH5BAEAAAAALAAAAAD6AAEAAAINhI+py+0Po5y02ovzLQA7"> | 📋 檔案詳細資訊與連結 |
+| 🎨 預覽 (點擊放大)<br><img src="data:image/gif;base64,R0lGODlh+gABAPAAAAAAAAAAACH5BAEAAAAALAAAAAD6AAEAAAINhI+py+0Po5y02ovzLQA7" width="250" height="1"> | 📋 檔案詳細資訊與連結 |
 | :--- | :--- |
 | <a href="animations.svg"><img src="animations.svg" width="250" alt="animations.svg"></a> | **📂 檔名:** `animations.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `2.94KB`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![animations.svg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/WebSkills/fundamentals/css/animations.svg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/WebSkills/fundamentals/css/animations.svg</code><br>📥 [檢視原始檔](animations.svg) |
 | <a href="best-practices.svg"><img src="best-practices.svg" width="250" alt="best-practices.svg"></a> | **📂 檔名:** `best-practices.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `6.16KB`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![best-practices.svg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/WebSkills/fundamentals/css/best-practices.svg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/WebSkills/fundamentals/css/best-practices.svg</code><br>📥 [檢視原始檔](best-practices.svg) |

@@ -4,7 +4,7 @@
 
 本目錄共有 `107` 個檔案
 
-| 🎨 預覽 (點擊放大)<br><img src="data:image/gif;base64,R0lGODlh+gABAPAAAAAAAAAAACH5BAEAAAAALAAAAAD6AAEAAAINhI+py+0Po5y02ovzLQA7"> | 📋 檔案詳細資訊與連結 |
+| 🎨 預覽 (點擊放大)<br><img src="data:image/gif;base64,R0lGODlh+gABAPAAAAAAAAAAACH5BAEAAAAALAAAAAD6AAEAAAINhI+py+0Po5y02ovzLQA7" width="250" height="1"> | 📋 檔案詳細資訊與連結 |
 | :--- | :--- |
 | <a href="ACH%20Transfer.svg"><img src="ACH%20Transfer.svg" width="250" alt="ACH Transfer.svg"></a> | **📂 檔名:** `ACH Transfer.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `28.71KB`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![ACH Transfer.svg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Payment%20And%20Credit%20Card%20/ACH%20Transfer.svg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Payment%20And%20Credit%20Card%20/ACH%20Transfer.svg</code><br>📥 [檢視原始檔](ACH%20Transfer.svg) |
 | <a href="Adyen.svg"><img src="Adyen.svg" width="250" alt="Adyen.svg"></a> | **📂 檔名:** `Adyen.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `22.90KB`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![Adyen.svg](https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Payment%20And%20Credit%20Card%20/Adyen.svg)`<br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.net/gh/barry028/materials@main/images/iCons/Payment%20And%20Credit%20Card%20/Adyen.svg</code><br>📥 [檢視原始檔](Adyen.svg) |
