@@ -29,23 +29,25 @@ for root, dirs, files in sorted(os.walk(IMAGE_DIR)):
         folder_name = os.path.basename(root)
         readme_path = os.path.join(root, 'README.md')
         
-        # 紀錄樹狀導覽資訊
-        depth = folder_path.count(os.sep) + 1 
-        back_prefix = "../" * depth
-        indent = "　" * depth + ("┗ " if depth > 0 else "📂 ")
+        # 動態計算「回到主目錄」的層級
+        # root 相對於根目錄的深度
+        rel_depth = folder_path.replace('\\', '/').count('/') + 1
+        back_to_root = "../" * rel_depth
+        
+        # 紀錄樹狀導覽資訊（用於根目錄）
+        tree_depth = folder_path.replace('\\', '/').count('/')
+        indent = "　" * tree_depth + ("┗ " if tree_depth > 0 else "📂 ")
         cover_file = sorted(valid_files)[0]
         cover_url = os.path.join(folder_path, cover_file).replace('\\', '/')
         
-        # 製作圓形封面 HTML
         img_style = 'width="45" height="45" style="border-radius:50%; border:2px solid #eee; object-fit:cover;"'
         img_html = f'<a href="{folder_path}/README.md"><img src="{cover_url}" {img_style}></a>'
-        
         subdir_links.append(f"| [{indent}{folder_name}]({folder_path}/README.md) | {img_html} | `{len(valid_files)} Items` |")
         
-        # 子目錄 README：含「回到首頁」
+        # 生成子目錄 README
         sub_content = [
             f"# 🖼️ {folder_name} 素材庫\n",
-            f"[⬅️ 返回主目錄]({back_prefix}{ROOT_README})\n", # 動態路徑修正
+            f"[⬅️ 返回主目錄]({back_to_root}{ROOT_README})\n", # 修正處
             "| 預覽 (點擊放大) | 檔案資訊 |",
             "| :--- | :--- |"
         ]
