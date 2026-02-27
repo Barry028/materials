@@ -1,6 +1,6 @@
 # 📂 目錄：Design System iCons
 
-> [🏠 主目錄](../../../README.md) / [images](../../README.md) / [DesignSystem](../README.md) / **Design System iCons**
+> [🏠 主目錄](../../../README.md) / [images](../../README.md) / [Design System](../README.md) / **Design System iCons**
 
 此目錄目前沒有直接存放圖片，請選擇下方子分類：
 
