@@ -5,22 +5,25 @@
 此目錄目前沒有直接存放圖片，請選擇下方子分類：
 
 ### 🗂️ 子分類列表
-- [📁 arrow](arrow/README.md)
-- [📁 building](building/README.md)
-- [📁 business](business/README.md)
-- [📁 contact](contact/README.md)
-- [📁 design](design/README.md)
-- [📁 device](device/README.md)
-- [📁 editor](editor/README.md)
-- [📁 education](education/README.md)
-- [📁 file](file/README.md)
-- [📁 food](food/README.md)
-- [📁 logo](logo/README.md)
-- [📁 map](map/README.md)
-- [📁 media](media/README.md)
-- [📁 part](part/README.md)
-- [📁 shape](shape/README.md)
-- [📁 system](system/README.md)
-- [📁 transport](transport/README.md)
-- [📁 user](user/README.md)
-- [📁 weather](weather/README.md)
+
+| 分類名稱 | 封面預覽 | 統計 |
+| :--- | :--- | :--- |
+| [📁 **arrow**](arrow/README.md) | <img src="arrow/arrow_down_fill.svg" width="30" height="30" align="top">&nbsp;<img src="arrow/arrow_down_line.svg" width="30" height="30" align="top">&nbsp;<img src="arrow/arrow_left_down_fill.svg" width="30" height="30" align="top"> | 共 `40` 張 |
+| [📁 **building**](building/README.md) | <img src="building/bank_fill.svg" width="30" height="30" align="top">&nbsp;<img src="building/bank_line.svg" width="30" height="30" align="top">&nbsp;<img src="building/bridge_2_fill.svg" width="30" height="30" align="top"> | 共 `56` 張 |
+| [📁 **business**](business/README.md) | <img src="business/VIP_1_fill.svg" width="30" height="30" align="top">&nbsp;<img src="business/VIP_1_line.svg" width="30" height="30" align="top">&nbsp;<img src="business/VIP_2_fill.svg" width="30" height="30" align="top"> | 共 `112` 張 |
+| [📁 **contact**](contact/README.md) | <img src="contact/chat_1_fill.svg" width="30" height="30" align="top">&nbsp;<img src="contact/chat_1_line.svg" width="30" height="30" align="top">&nbsp;<img src="contact/chat_2_fill.svg" width="30" height="30" align="top"> | 共 `40` 張 |
+| [📁 **design**](design/README.md) | <img src="design/anticlockwise_fill.svg" width="30" height="30" align="top">&nbsp;<img src="design/anticlockwise_line.svg" width="30" height="30" align="top">&nbsp;<img src="design/bling_fill.svg" width="30" height="30" align="top"> | 共 `64` 張 |
+| [📁 **device**](device/README.md) | <img src="device/airplay_fill.svg" width="30" height="30" align="top">&nbsp;<img src="device/airplay_line.svg" width="30" height="30" align="top">&nbsp;<img src="device/alarm_1_fill.svg" width="30" height="30" align="top"> | 共 `98` 張 |
+| [📁 **editor**](editor/README.md) | <img src="editor/%26and_fill.svg" width="30" height="30" align="top">&nbsp;<img src="editor/%26and_line.svg" width="30" height="30" align="top">&nbsp;<img src="editor/A-Z_sort_ascending_letters_fill.svg" width="30" height="30" align="top"> | 共 `98` 張 |
+| [📁 **education**](education/README.md) | <img src="education/book_2_fill.svg" width="30" height="30" align="top">&nbsp;<img src="education/book_2_line.svg" width="30" height="30" align="top">&nbsp;<img src="education/book_3_fill.svg" width="30" height="30" align="top"> | 共 `34` 張 |
+| [📁 **file**](file/README.md) | <img src="file/attachment_2_fill.svg" width="30" height="30" align="top">&nbsp;<img src="file/attachment_2_line.svg" width="30" height="30" align="top">&nbsp;<img src="file/attachment_fill.svg" width="30" height="30" align="top"> | 共 `90` 張 |
+| [📁 **food**](food/README.md) | <img src="food/bowl_fill.svg" width="30" height="30" align="top">&nbsp;<img src="food/bowl_line.svg" width="30" height="30" align="top">&nbsp;<img src="food/bread_fill.svg" width="30" height="30" align="top"> | 共 `20` 張 |
+| [📁 **logo**](logo/README.md) | <img src="logo/Android_2_fill.svg" width="30" height="30" align="top">&nbsp;<img src="logo/Android_2_line.svg" width="30" height="30" align="top">&nbsp;<img src="logo/airbnb_fill.svg" width="30" height="30" align="top"> | 共 `60` 張 |
+| [📁 **map**](map/README.md) | <img src="map/aiming_2_fill.svg" width="30" height="30" align="top">&nbsp;<img src="map/aiming_2_line.svg" width="30" height="30" align="top">&nbsp;<img src="map/aiming_fill.svg" width="30" height="30" align="top"> | 共 `44` 張 |
+| [📁 **media**](media/README.md) | <img src="media/album_fill.svg" width="30" height="30" align="top">&nbsp;<img src="media/album_line.svg" width="30" height="30" align="top">&nbsp;<img src="media/camcorder_fill.svg" width="30" height="30" align="top"> | 共 `84` 張 |
+| [📁 **part**](part/README.md) | <img src="part/beard_fill.svg" width="30" height="30" align="top">&nbsp;<img src="part/beard_line.svg" width="30" height="30" align="top">&nbsp;<img src="part/body_fill.svg" width="30" height="30" align="top"> | 共 `20` 張 |
+| [📁 **shape**](shape/README.md) | <img src="shape/diamond_fill.svg" width="30" height="30" align="top">&nbsp;<img src="shape/diamond_line.svg" width="30" height="30" align="top">&nbsp;<img src="shape/heart_fill.svg" width="30" height="30" align="top"> | 共 `20` 張 |
+| [📁 **system**](system/README.md) | <img src="system/add_circle_fill.svg" width="30" height="30" align="top">&nbsp;<img src="system/add_circle_line.svg" width="30" height="30" align="top">&nbsp;<img src="system/alert_fill.svg" width="30" height="30" align="top"> | 共 `116` 張 |
+| [📁 **transport**](transport/README.md) | <img src="transport/UFO_fill.svg" width="30" height="30" align="top">&nbsp;<img src="transport/UFO_line.svg" width="30" height="30" align="top">&nbsp;<img src="transport/airplane_fill.svg" width="30" height="30" align="top"> | 共 `46` 張 |
+| [📁 **user**](user/README.md) | <img src="user/IDcard_fill.svg" width="30" height="30" align="top">&nbsp;<img src="user/IDcard_line.svg" width="30" height="30" align="top">&nbsp;<img src="user/badge_fill.svg" width="30" height="30" align="top"> | 共 `28` 張 |
+| [📁 **weather**](weather/README.md) | <img src="weather/cloud_fill.svg" width="30" height="30" align="top">&nbsp;<img src="weather/cloud_lightning_fill.svg" width="30" height="30" align="top">&nbsp;<img src="weather/cloud_lightning_line.svg" width="30" height="30" align="top"> | 共 `36` 張 |

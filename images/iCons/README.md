@@ -5,46 +5,49 @@
 此目錄目前沒有直接存放圖片，請選擇下方子分類：
 
 ### 🗂️ 子分類列表
-- [📁 3D Hand Emojis](3D%20Hand%20Emojis/README.md)
-- [📁 AdobeCreativeSoftwareiiCons](AdobeCreativeSoftwareiiCons/README.md)
-- [📁 Ai Icons Text And Image Generation](Ai%20Icons%20Text%20And%20Image%20Generation/README.md)
-- [📁 Brands](Brands/README.md)
-- [📁 Browsers](Browsers/README.md)
-- [📁 CRM](CRM/README.md)
-- [📁 CandyiCons](CandyiCons/README.md)
-- [📁 CapitaineCursors](CapitaineCursors/README.md)
-- [📁 Circum](Circum/README.md)
-- [📁 Company ](Company%20/README.md)
-- [📁 Coolicons ](Coolicons%20/README.md)
-- [📁 Cryptocurrency ](Cryptocurrency%20/README.md)
-- [📁 DuoTune](DuoTune/README.md)
-- [📁 Fabulous](Fabulous/README.md)
-- [📁 Files](Files/README.md)
-- [📁 Folders](Folders/README.md)
-- [📁 Gaming](Gaming/README.md)
-- [📁 Glassmorphism ](Glassmorphism%20/README.md)
-- [📁 GoogleCloud](GoogleCloud/README.md)
-- [📁 Hicon ](Hicon%20/README.md)
-- [📁 Iconbrew ](Iconbrew%20/README.md)
-- [📁 Iconly ](Iconly%20/README.md)
-- [📁 Iconos Ikon ](Iconos%20Ikon%20/README.md)
-- [📁 Icons Vector Pixel ](Icons%20Vector%20Pixel%20/README.md)
-- [📁 Interface Vector ](Interface%20Vector%20/README.md)
-- [📁 KritaiCon](KritaiCon/README.md)
-- [📁 Learns](Learns/README.md)
-- [📁 Macos Big Sur ](Macos%20Big%20Sur%20/README.md)
-- [📁 Memoji Full ](Memoji%20Full%20/README.md)
-- [📁 Mingcute Icon ](Mingcute%20Icon%20/README.md)
-- [📁 Monstars](Monstars/README.md)
-- [📁 Palse Illustrations](Palse%20Illustrations/README.md)
-- [📁 Payment And Credit Card ](Payment%20And%20Credit%20Card%20/README.md)
-- [📁 Pixel](Pixel/README.md)
-- [📁 Pixelated Emoji Pack Emoji ](Pixelated%20Emoji%20Pack%20Emoji%20/README.md)
-- [📁 Pro Emoji Pack](Pro%20Emoji%20Pack/README.md)
-- [📁 Remix ](Remix%20/README.md)
-- [📁 Sitemap Cards](Sitemap%20Cards/README.md)
-- [📁 Sketch](Sketch/README.md)
-- [📁 Socialicious](Socialicious/README.md)
-- [📁 Ui Ux Graphic Design](Ui%20Ux%20Graphic%20Design/README.md)
-- [📁 Unicons ](Unicons%20/README.md)
-- [📁 WebSkills](WebSkills/README.md)
+
+| 分類名稱 | 封面預覽 | 統計 |
+| :--- | :--- | :--- |
+| [📁 **3D Hand Emojis**](3D%20Hand%20Emojis/README.md) | <img src="3D%20Hand%20Emojis/Black/call-me.svg" width="30" height="30" align="top">&nbsp;<img src="3D%20Hand%20Emojis/Black/claps.svg" width="30" height="30" align="top">&nbsp;<img src="3D%20Hand%20Emojis/Black/crossed.svg" width="30" height="30" align="top"> | 共 `94` 張 |
+| [📁 **AdobeCreativeSoftwareiiCons**](AdobeCreativeSoftwareiiCons/README.md) | <img src="AdobeCreativeSoftwareiiCons/001-aftereffects.svg" width="30" height="30" align="top">&nbsp;<img src="AdobeCreativeSoftwareiiCons/002-aftereffects.svg" width="30" height="30" align="top">&nbsp;<img src="AdobeCreativeSoftwareiiCons/003-aftereffects.svg" width="30" height="30" align="top"> | 共 `27` 張 |
+| [📁 **Ai Icons Text And Image Generation**](Ai%20Icons%20Text%20And%20Image%20Generation/README.md) | <img src="Ai%20Icons%20Text%20And%20Image%20Generation/AI%20Icon-1.svg" width="30" height="30" align="top">&nbsp;<img src="Ai%20Icons%20Text%20And%20Image%20Generation/AI%20Icon-2.svg" width="30" height="30" align="top">&nbsp;<img src="Ai%20Icons%20Text%20And%20Image%20Generation/AI%20Icon-3.svg" width="30" height="30" align="top"> | 共 `82` 張 |
+| [📁 **Brands**](Brands/README.md) | <img src="Brands/100tb.svg" width="30" height="30" align="top">&nbsp;<img src="Brands/500px.svg" width="30" height="30" align="top">&nbsp;<img src="Brands/App/play-store-73.svg" width="30" height="30" align="top"> | 共 `1775` 張 |
+| [📁 **Browsers**](Browsers/README.md) | <img src="Browsers/android-browser.svg" width="30" height="30" align="top">&nbsp;<img src="Browsers/aol-explorer.svg" width="30" height="30" align="top">&nbsp;<img src="Browsers/blackberry.svg" width="30" height="30" align="top"> | 共 `18` 張 |
+| [📁 **CRM**](CRM/README.md) | <img src="CRM/Add%20File%20Duotone%20Black.1.svg" width="30" height="30" align="top">&nbsp;<img src="CRM/Add%20File%20Duotone%20Black.svg" width="30" height="30" align="top">&nbsp;<img src="CRM/Add%20File%20Monotone%20Black.svg" width="30" height="30" align="top"> | 共 `185` 張 |
+| [📁 **CandyiCons**](CandyiCons/README.md) | <img src="CandyiCons/apps/4kvideodownloader.svg" width="30" height="30" align="top">&nbsp;<img src="CandyiCons/apps/4kyoutubetomp3.svg" width="30" height="30" align="top">&nbsp;<img src="CandyiCons/apps/AdobeReader12.svg" width="30" height="30" align="top"> | 共 `665` 張 |
+| [📁 **CapitaineCursors**](CapitaineCursors/README.md) | <img src="CapitaineCursors/Dark/000-template.svg" width="30" height="30" align="top">&nbsp;<img src="CapitaineCursors/Dark/alias.svg" width="30" height="30" align="top">&nbsp;<img src="CapitaineCursors/Dark/all-scroll.svg" width="30" height="30" align="top"> | 共 `112` 張 |
+| [📁 **Circum**](Circum/README.md) | <img src="Circum/Communication/At.svg" width="30" height="30" align="top">&nbsp;<img src="Circum/Communication/Bullhorn.svg" width="30" height="30" align="top">&nbsp;<img src="Circum/Communication/Chat_1.svg" width="30" height="30" align="top"> | 共 `153` 張 |
+| [📁 **Company **](Company%20/README.md) | <img src="Company%20/adidas.svg" width="30" height="30" align="top">&nbsp;<img src="Company%20/adobe.svg" width="30" height="30" align="top">&nbsp;<img src="Company%20/airbnb.svg" width="30" height="30" align="top"> | 共 `81` 張 |
+| [📁 **Coolicons **](Coolicons%20/README.md) | <img src="Coolicons%20/Arrow/Arrow_Circle_Down.svg" width="30" height="30" align="top">&nbsp;<img src="Coolicons%20/Arrow/Arrow_Circle_Down_Left.svg" width="30" height="30" align="top">&nbsp;<img src="Coolicons%20/Arrow/Arrow_Circle_Down_Right.svg" width="30" height="30" align="top"> | 共 `440` 張 |
+| [📁 **Cryptocurrency **](Cryptocurrency%20/README.md) | <img src="Cryptocurrency%20/Cryptocurrency%202/0x.svg" width="30" height="30" align="top">&nbsp;<img src="Cryptocurrency%20/Cryptocurrency%202/AC3%20%28AC3%29.svg" width="30" height="30" align="top">&nbsp;<img src="Cryptocurrency%20/Cryptocurrency%202/ALQO%20%28XLQ%29.svg" width="30" height="30" align="top"> | 共 `663` 張 |
+| [📁 **DuoTune**](DuoTune/README.md) | <img src="DuoTune/abs001.svg" width="30" height="30" align="top">&nbsp;<img src="DuoTune/abs002.svg" width="30" height="30" align="top">&nbsp;<img src="DuoTune/abs003.svg" width="30" height="30" align="top"> | 共 `285` 張 |
+| [📁 **Fabulous**](Fabulous/README.md) | <img src="Fabulous/action.svg" width="30" height="30" align="top">&nbsp;<img src="Fabulous/array.svg" width="30" height="30" align="top">&nbsp;<img src="Fabulous/attribute.svg" width="30" height="30" align="top"> | 共 `109` 張 |
+| [📁 **Files**](Files/README.md) | <img src="Files/dark-ai-ce.svg" width="30" height="30" align="top">&nbsp;<img src="Files/dark-css-4b.svg" width="30" height="30" align="top">&nbsp;<img src="Files/dark-doc-95.svg" width="30" height="30" align="top"> | 共 `20` 張 |
+| [📁 **Folders**](Folders/README.md) | <img src="Folders/files-and-document-01/001-add%20file.svg" width="30" height="30" align="top">&nbsp;<img src="Folders/files-and-document-01/002-add%20folder.svg" width="30" height="30" align="top">&nbsp;<img src="Folders/files-and-document-01/003-add%20document.svg" width="30" height="30" align="top"> | 共 `294` 張 |
+| [📁 **Gaming**](Gaming/README.md) | <img src="Gaming/001-puzzle.svg" width="30" height="30" align="top">&nbsp;<img src="Gaming/002-dice.svg" width="30" height="30" align="top">&nbsp;<img src="Gaming/003-marble.svg" width="30" height="30" align="top"> | 共 `50` 張 |
+| [📁 **Glassmorphism **](Glassmorphism%20/README.md) | <img src="Glassmorphism%20/Glass%20/Achievement.svg" width="30" height="30" align="top">&nbsp;<img src="Glassmorphism%20/Glass%20/Add%20user.svg" width="30" height="30" align="top">&nbsp;<img src="Glassmorphism%20/Glass%20/Archive.svg" width="30" height="30" align="top"> | 共 `152` 張 |
+| [📁 **GoogleCloud**](GoogleCloud/README.md) | <img src="GoogleCloud/access-context-manager.svg" width="30" height="30" align="top">&nbsp;<img src="GoogleCloud/administration.svg" width="30" height="30" align="top">&nbsp;<img src="GoogleCloud/advanced-agent-modeling.svg" width="30" height="30" align="top"> | 共 `216` 張 |
+| [📁 **Hicon **](Hicon%20/README.md) | <img src="Hicon%20/Bold/Activity%201.svg" width="30" height="30" align="top">&nbsp;<img src="Hicon%20/Bold/Activity%202.svg" width="30" height="30" align="top">&nbsp;<img src="Hicon%20/Bold/Activity%203.svg" width="30" height="30" align="top"> | 共 `2616` 張 |
+| [📁 **Iconbrew **](Iconbrew%20/README.md) | <img src="Iconbrew%20/Icon%20pack%20-%20IconBrew%20%28Community%29%202/icon-abc.svg" width="30" height="30" align="top">&nbsp;<img src="Iconbrew%20/Icon%20pack%20-%20IconBrew%20%28Community%29%202/icon-academic-book.svg" width="30" height="30" align="top">&nbsp;<img src="Iconbrew%20/Icon%20pack%20-%20IconBrew%20%28Community%29%202/icon-accessibility.svg" width="30" height="30" align="top"> | 共 `1494` 張 |
+| [📁 **Iconly **](Iconly%20/README.md) | <img src="Iconly%20/Curved/Bold/2%20User.svg" width="30" height="30" align="top">&nbsp;<img src="Iconly%20/Curved/Bold/3%20User.svg" width="30" height="30" align="top">&nbsp;<img src="Iconly%20/Curved/Bold/Activity.svg" width="30" height="30" align="top"> | 共 `1933` 張 |
+| [📁 **Iconos Ikon **](Iconos%20Ikon%20/README.md) | <img src="Iconos%20Ikon%20/Alignbar_1.svg" width="30" height="30" align="top">&nbsp;<img src="Iconos%20Ikon%20/Alignbar_10.svg" width="30" height="30" align="top">&nbsp;<img src="Iconos%20Ikon%20/Alignbar_11.svg" width="30" height="30" align="top"> | 共 `736` 張 |
+| [📁 **Icons Vector Pixel **](Icons%20Vector%20Pixel%20/README.md) | <img src="Icons%20Vector%20Pixel%20/Business-Products-treasure--Streamline-Pixel-1.svg" width="30" height="30" align="top">&nbsp;<img src="Icons%20Vector%20Pixel%20/Business-Products-treasure--Streamline-Pixel.svg" width="30" height="30" align="top">&nbsp;<img src="Icons%20Vector%20Pixel%20/Figma-logo%203.svg" width="30" height="30" align="top"> | 共 `1325` 張 |
+| [📁 **Interface Vector **](Interface%20Vector%20/README.md) | <img src="Interface%20Vector%20/Plump/interface-add-1--expand-cross-buttons-button-more-remove-plus-add.svg" width="30" height="30" align="top">&nbsp;<img src="Interface%20Vector%20/Plump/interface-add-2--remove-bold-cross-buttons-button-add-plus.svg" width="30" height="30" align="top">&nbsp;<img src="Interface%20Vector%20/Plump/interface-add-circle--button-remove-cross-add-buttons-plus-circle.svg" width="30" height="30" align="top"> | 共 `221` 張 |
+| [📁 **KritaiCon**](KritaiCon/README.md) | <img src="KritaiCon/16_dark_align-horizontal-right.svg" width="30" height="30" align="top">&nbsp;<img src="KritaiCon/16_dark_align-vertical-bottom.svg" width="30" height="30" align="top">&nbsp;<img src="KritaiCon/16_dark_align-vertical-center.svg" width="30" height="30" align="top"> | 共 `283` 張 |
+| [📁 **Learns**](Learns/README.md) | <img src="Learns/Arrival%20Flag.1.svg" width="30" height="30" align="top">&nbsp;<img src="Learns/Arrival%20Flag.svg" width="30" height="30" align="top">&nbsp;<img src="Learns/Book%20Close.1.svg" width="30" height="30" align="top"> | 共 `50` 張 |
+| [📁 **Macos Big Sur **](Macos%20Big%20Sur%20/README.md) | <img src="Macos%20Big%20Sur%20/Activity%20Monitor.svg" width="30" height="30" align="top">&nbsp;<img src="Macos%20Big%20Sur%20/Airport%20Utility.svg" width="30" height="30" align="top">&nbsp;<img src="Macos%20Big%20Sur%20/App%20Store.svg" width="30" height="30" align="top"> | 共 `70` 張 |
+| [📁 **Memoji Full **](Memoji%20Full%20/README.md) | <img src="Memoji%20Full%20/Character%3DAngela%2C%20Skin%20tone%3DBlack%2C%20Posture%3D1%20Happy.png" width="30" height="30" align="top">&nbsp;<img src="Memoji%20Full%20/Character%3DAngela%2C%20Skin%20tone%3DBlack%2C%20Posture%3D10%20Kiss.png" width="30" height="30" align="top">&nbsp;<img src="Memoji%20Full%20/Character%3DAngela%2C%20Skin%20tone%3DBlack%2C%20Posture%3D11%20Party.png" width="30" height="30" align="top"> | 共 `1651` 張 |
+| [📁 **Mingcute Icon **](Mingcute%20Icon%20/README.md) | <img src="Mingcute%20Icon%20/arrow/arrow_down_fill.svg" width="30" height="30" align="top">&nbsp;<img src="Mingcute%20Icon%20/arrow/arrow_down_line.svg" width="30" height="30" align="top">&nbsp;<img src="Mingcute%20Icon%20/arrow/arrow_left_down_fill.svg" width="30" height="30" align="top"> | 共 `1106` 張 |
+| [📁 **Monstars**](Monstars/README.md) | <img src="Monstars/Baby%20Teeth%20Monster%20With%20One%20Horn.svg" width="30" height="30" align="top">&nbsp;<img src="Monstars/Cute%20One%20Eye%20Ghost%20Monster%20With%20Baby%20Teeth.svg" width="30" height="30" align="top">&nbsp;<img src="Monstars/Cute%20Pink%20Eye%20Monster%20With%20One%20Horn.svg" width="30" height="30" align="top"> | 共 `28` 張 |
+| [📁 **Palse Illustrations**](Palse%20Illustrations/README.md) | <img src="Palse%20Illustrations/Pulse%20Illustration%20Kit/Background/Chair_1.svg" width="30" height="30" align="top">&nbsp;<img src="Palse%20Illustrations/Pulse%20Illustration%20Kit/Background/Chair_2.svg" width="30" height="30" align="top">&nbsp;<img src="Palse%20Illustrations/Pulse%20Illustration%20Kit/Background/Coffee.svg" width="30" height="30" align="top"> | 共 `143` 張 |
+| [📁 **Payment And Credit Card **](Payment%20And%20Credit%20Card%20/README.md) | <img src="Payment%20And%20Credit%20Card%20/ACH%20Transfer.svg" width="30" height="30" align="top">&nbsp;<img src="Payment%20And%20Credit%20Card%20/Adyen.svg" width="30" height="30" align="top">&nbsp;<img src="Payment%20And%20Credit%20Card%20/Affirm.svg" width="30" height="30" align="top"> | 共 `107` 張 |
+| [📁 **Pixel**](Pixel/README.md) | <img src="Pixel/16px%20/16px/fonts/16px.svg" width="30" height="30" align="top">&nbsp;<img src="Pixel/16px%20/align-bottom-svgrepo-com.svg" width="30" height="30" align="top">&nbsp;<img src="Pixel/16px%20/align-horizontal-svgrepo-com.svg" width="30" height="30" align="top"> | 共 `9723` 張 |
+| [📁 **Pixelated Emoji Pack Emoji **](Pixelated%20Emoji%20Pack%20Emoji%20/README.md) | <img src="Pixelated%20Emoji%20Pack%20Emoji%20/AI.svg" width="30" height="30" align="top">&nbsp;<img src="Pixelated%20Emoji%20Pack%20Emoji%20/Academic%20Research%20Paper.svg" width="30" height="30" align="top">&nbsp;<img src="Pixelated%20Emoji%20Pack%20Emoji%20/Associated%20Companies.svg" width="30" height="30" align="top"> | 共 `23` 張 |
+| [📁 **Pro Emoji Pack**](Pro%20Emoji%20Pack/README.md) | <img src="Pro%20Emoji%20Pack/Angry%20Face%20with%20Horns.svg" width="30" height="30" align="top">&nbsp;<img src="Pro%20Emoji%20Pack/Angry%20Face.svg" width="30" height="30" align="top">&nbsp;<img src="Pro%20Emoji%20Pack/Anguished%20Face.svg" width="30" height="30" align="top"> | 共 `141` 張 |
+| [📁 **Remix **](Remix%20/README.md) | <img src="Remix%20/fill/buildings/ancient-gate-fill.svg" width="30" height="30" align="top">&nbsp;<img src="Remix%20/fill/buildings/ancient-pavilion-fill.svg" width="30" height="30" align="top">&nbsp;<img src="Remix%20/fill/buildings/bank-fill.svg" width="30" height="30" align="top"> | 共 `2271` 張 |
+| [📁 **Sitemap Cards**](Sitemap%20Cards/README.md) | <img src="Sitemap%20Cards/article-01.svg" width="30" height="30" align="top">&nbsp;<img src="Sitemap%20Cards/article-02.svg" width="30" height="30" align="top">&nbsp;<img src="Sitemap%20Cards/article-03.svg" width="30" height="30" align="top"> | 共 `120` 張 |
+| [📁 **Sketch**](Sketch/README.md) | <img src="Sketch/color/Itch-io-color.svg" width="30" height="30" align="top">&nbsp;<img src="Sketch/color/acrobat-reader-color.svg" width="30" height="30" align="top">&nbsp;<img src="Sketch/color/adobe-aero-color.svg" width="30" height="30" align="top"> | 共 `670` 張 |
+| [📁 **Socialicious**](Socialicious/README.md) | <img src="Socialicious/icon_aboutme-sign.svg" width="30" height="30" align="top">&nbsp;<img src="Socialicious/icon_aboutme.svg" width="30" height="30" align="top">&nbsp;<img src="Socialicious/icon_angellist-sign.svg" width="30" height="30" align="top"> | 共 `74` 張 |
+| [📁 **Ui Ux Graphic Design**](Ui%20Ux%20Graphic%20Design/README.md) | <img src="Ui%20Ux%20Graphic%20Design/Bookmark-10.svg" width="30" height="30" align="top">&nbsp;<img src="Ui%20Ux%20Graphic%20Design/Bookmark-11.svg" width="30" height="30" align="top">&nbsp;<img src="Ui%20Ux%20Graphic%20Design/Bookmark-12.svg" width="30" height="30" align="top"> | 共 `1026` 張 |
+| [📁 **Unicons **](Unicons%20/README.md) | <img src="Unicons%20/0-plus.svg" width="30" height="30" align="top">&nbsp;<img src="Unicons%20/10-plus.svg" width="30" height="30" align="top">&nbsp;<img src="Unicons%20/12-plus.svg" width="30" height="30" align="top"> | 共 `1896` 張 |
+| [📁 **WebSkills**](WebSkills/README.md) | <img src="WebSkills/accessibility/accessibility-tree.svg" width="30" height="30" align="top">&nbsp;<img src="WebSkills/accessibility/accessible-colors.svg" width="30" height="30" align="top">&nbsp;<img src="WebSkills/accessibility/accessible-css.svg" width="30" height="30" align="top"> | 共 `351` 張 |

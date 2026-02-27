@@ -5,31 +5,34 @@
 此目錄目前沒有直接存放圖片，請選擇下方子分類：
 
 ### 🗂️ 子分類列表
-- [📁 Adventurer](Adventurer/README.md)
-- [📁 Adventurer Neutral ](Adventurer%20Neutral%20/README.md)
-- [📁 Avataaars ](Avataaars%20/README.md)
-- [📁 Avataaars Neutral ](Avataaars%20Neutral%20/README.md)
-- [📁 Big Ears ](Big%20Ears%20/README.md)
-- [📁 Big Ears Neutral ](Big%20Ears%20Neutral%20/README.md)
-- [📁 Big Smile ](Big%20Smile%20/README.md)
-- [📁 Bottts ](Bottts%20/README.md)
-- [📁 Bottts Neutral ](Bottts%20Neutral%20/README.md)
-- [📁 Croodles ](Croodles%20/README.md)
-- [📁 Croodles Netral ](Croodles%20Netral%20/README.md)
-- [📁 Dylan ](Dylan%20/README.md)
-- [📁 Fun Emoji ](Fun%20Emoji%20/README.md)
-- [📁 Glass ](Glass%20/README.md)
-- [📁 Identicon ](Identicon%20/README.md)
-- [📁 Lorelei ](Lorelei%20/README.md)
-- [📁 Lorelei Netral ](Lorelei%20Netral%20/README.md)
-- [📁 Micah ](Micah%20/README.md)
-- [📁 Miniavs ](Miniavs%20/README.md)
-- [📁 Notionists ](Notionists%20/README.md)
-- [📁 Notionists Netral ](Notionists%20Netral%20/README.md)
-- [📁 Openpeeps ](Openpeeps%20/README.md)
-- [📁 Personas ](Personas%20/README.md)
-- [📁 Pixelart ](Pixelart%20/README.md)
-- [📁 Pixelart Netral ](Pixelart%20Netral%20/README.md)
-- [📁 Shapes ](Shapes%20/README.md)
-- [📁 Thumbs ](Thumbs%20/README.md)
-- [📁 Toonhead ](Toonhead%20/README.md)
+
+| 分類名稱 | 封面預覽 | 統計 |
+| :--- | :--- | :--- |
+| [📁 **Adventurer**](Adventurer/README.md) | <img src="Adventurer/adventurer-01.jpeg" width="30" height="30" align="top">&nbsp;<img src="Adventurer/adventurer-01.png" width="30" height="30" align="top">&nbsp;<img src="Adventurer/adventurer-01.svg" width="30" height="30" align="top"> | 共 `23` 張 |
+| [📁 **Adventurer Neutral **](Adventurer%20Neutral%20/README.md) | <img src="Adventurer%20Neutral%20/adventurerNeutral-01.svg" width="30" height="30" align="top">&nbsp;<img src="Adventurer%20Neutral%20/adventurerNeutral-010.svg" width="30" height="30" align="top">&nbsp;<img src="Adventurer%20Neutral%20/adventurerNeutral-011.svg" width="30" height="30" align="top"> | 共 `20` 張 |
+| [📁 **Avataaars **](Avataaars%20/README.md) | <img src="Avataaars%20/avataaars-1771674221581.svg" width="30" height="30" align="top">&nbsp;<img src="Avataaars%20/avataaars-1771674223281.svg" width="30" height="30" align="top">&nbsp;<img src="Avataaars%20/avataaars-1771674225136.svg" width="30" height="30" align="top"> | 共 `20` 張 |
+| [📁 **Avataaars Neutral **](Avataaars%20Neutral%20/README.md) | <img src="Avataaars%20Neutral%20/avataaarsNeutral-1771674363583.svg" width="30" height="30" align="top">&nbsp;<img src="Avataaars%20Neutral%20/avataaarsNeutral-1771674366076.svg" width="30" height="30" align="top">&nbsp;<img src="Avataaars%20Neutral%20/avataaarsNeutral-1771674370676.svg" width="30" height="30" align="top"> | 共 `20` 張 |
+| [📁 **Big Ears **](Big%20Ears%20/README.md) | <img src="Big%20Ears%20/bigEars-1771674432740.svg" width="30" height="30" align="top">&nbsp;<img src="Big%20Ears%20/bigEars-1771674436885.svg" width="30" height="30" align="top">&nbsp;<img src="Big%20Ears%20/bigEars-1771674438179.svg" width="30" height="30" align="top"> | 共 `20` 張 |
+| [📁 **Big Ears Neutral **](Big%20Ears%20Neutral%20/README.md) | <img src="Big%20Ears%20Neutral%20/bigEarsNeutral-1771674494895.svg" width="30" height="30" align="top">&nbsp;<img src="Big%20Ears%20Neutral%20/bigEarsNeutral-1771674496648.svg" width="30" height="30" align="top">&nbsp;<img src="Big%20Ears%20Neutral%20/bigEarsNeutral-1771674498922.svg" width="30" height="30" align="top"> | 共 `20` 張 |
+| [📁 **Big Smile **](Big%20Smile%20/README.md) | <img src="Big%20Smile%20/bigSmile-1771674553784.svg" width="30" height="30" align="top">&nbsp;<img src="Big%20Smile%20/bigSmile-1771674555280.svg" width="30" height="30" align="top">&nbsp;<img src="Big%20Smile%20/bigSmile-1771674556951.svg" width="30" height="30" align="top"> | 共 `20` 張 |
+| [📁 **Bottts **](Bottts%20/README.md) | <img src="Bottts%20/bottts-1771674753329.svg" width="30" height="30" align="top">&nbsp;<img src="Bottts%20/bottts-1771674755303.svg" width="30" height="30" align="top">&nbsp;<img src="Bottts%20/bottts-1771674756947.svg" width="30" height="30" align="top"> | 共 `20` 張 |
+| [📁 **Bottts Neutral **](Bottts%20Neutral%20/README.md) | <img src="Bottts%20Neutral%20/botttsNeutral-1771674823109.svg" width="30" height="30" align="top">&nbsp;<img src="Bottts%20Neutral%20/botttsNeutral-1771674827397.svg" width="30" height="30" align="top">&nbsp;<img src="Bottts%20Neutral%20/botttsNeutral-1771674859149.svg" width="30" height="30" align="top"> | 共 `20` 張 |
+| [📁 **Croodles **](Croodles%20/README.md) | <img src="Croodles%20/croodles-1771675022391.svg" width="30" height="30" align="top">&nbsp;<img src="Croodles%20/croodles-1771675024998.svg" width="30" height="30" align="top">&nbsp;<img src="Croodles%20/croodles-1771675026409.svg" width="30" height="30" align="top"> | 共 `20` 張 |
+| [📁 **Croodles Netral **](Croodles%20Netral%20/README.md) | <img src="Croodles%20Netral%20/croodlesNeutral-1771675281089.svg" width="30" height="30" align="top">&nbsp;<img src="Croodles%20Netral%20/croodlesNeutral-1771675282907.svg" width="30" height="30" align="top">&nbsp;<img src="Croodles%20Netral%20/croodlesNeutral-1771675284426.svg" width="30" height="30" align="top"> | 共 `20` 張 |
+| [📁 **Dylan **](Dylan%20/README.md) | <img src="Dylan%20/dylan-1771675357372.svg" width="30" height="30" align="top">&nbsp;<img src="Dylan%20/dylan-1771675360303.svg" width="30" height="30" align="top">&nbsp;<img src="Dylan%20/dylan-1771675362958.svg" width="30" height="30" align="top"> | 共 `19` 張 |
+| [📁 **Fun Emoji **](Fun%20Emoji%20/README.md) | <img src="Fun%20Emoji%20/funEmoji-1771675516991.svg" width="30" height="30" align="top">&nbsp;<img src="Fun%20Emoji%20/funEmoji-1771675519328.svg" width="30" height="30" align="top">&nbsp;<img src="Fun%20Emoji%20/funEmoji-1771675520870.svg" width="30" height="30" align="top"> | 共 `20` 張 |
+| [📁 **Glass **](Glass%20/README.md) | <img src="Glass%20/glass-1771675570981.svg" width="30" height="30" align="top">&nbsp;<img src="Glass%20/glass-1771675572421.svg" width="30" height="30" align="top">&nbsp;<img src="Glass%20/glass-1771675574627.svg" width="30" height="30" align="top"> | 共 `20` 張 |
+| [📁 **Identicon **](Identicon%20/README.md) | <img src="Identicon%20/identicon-1771675635859.svg" width="30" height="30" align="top">&nbsp;<img src="Identicon%20/identicon-1771675638226.svg" width="30" height="30" align="top">&nbsp;<img src="Identicon%20/identicon-1771675642108.svg" width="30" height="30" align="top"> | 共 `20` 張 |
+| [📁 **Lorelei **](Lorelei%20/README.md) | <img src="Lorelei%20/lorelei-1771675715940.svg" width="30" height="30" align="top">&nbsp;<img src="Lorelei%20/lorelei-1771675716585.svg" width="30" height="30" align="top">&nbsp;<img src="Lorelei%20/lorelei-1771675718288.svg" width="30" height="30" align="top"> | 共 `20` 張 |
+| [📁 **Lorelei Netral **](Lorelei%20Netral%20/README.md) | <img src="Lorelei%20Netral%20/loreleiNeutral-1771675765788.svg" width="30" height="30" align="top">&nbsp;<img src="Lorelei%20Netral%20/loreleiNeutral-1771675767398.svg" width="30" height="30" align="top">&nbsp;<img src="Lorelei%20Netral%20/loreleiNeutral-1771675768877.svg" width="30" height="30" align="top"> | 共 `20` 張 |
+| [📁 **Micah **](Micah%20/README.md) | <img src="Micah%20/micah-1771675921046.svg" width="30" height="30" align="top">&nbsp;<img src="Micah%20/micah-1771675921329.svg" width="30" height="30" align="top">&nbsp;<img src="Micah%20/micah-1771675924427.svg" width="30" height="30" align="top"> | 共 `20` 張 |
+| [📁 **Miniavs **](Miniavs%20/README.md) | <img src="Miniavs%20/miniavs-1771676000100.svg" width="30" height="30" align="top">&nbsp;<img src="Miniavs%20/miniavs-1771676003995.svg" width="30" height="30" align="top">&nbsp;<img src="Miniavs%20/miniavs-1771676008388.svg" width="30" height="30" align="top"> | 共 `20` 張 |
+| [📁 **Notionists **](Notionists%20/README.md) | <img src="Notionists%20/notionists-1771676119792.svg" width="30" height="30" align="top">&nbsp;<img src="Notionists%20/notionists-1771676123100.svg" width="30" height="30" align="top">&nbsp;<img src="Notionists%20/notionists-1771676126868.svg" width="30" height="30" align="top"> | 共 `17` 張 |
+| [📁 **Notionists Netral **](Notionists%20Netral%20/README.md) | <img src="Notionists%20Netral%20/notionistsNeutral-1771676262259.svg" width="30" height="30" align="top">&nbsp;<img src="Notionists%20Netral%20/notionistsNeutral-1771676265630.svg" width="30" height="30" align="top">&nbsp;<img src="Notionists%20Netral%20/notionistsNeutral-1771676267481.svg" width="30" height="30" align="top"> | 共 `20` 張 |
+| [📁 **Openpeeps **](Openpeeps%20/README.md) | <img src="Openpeeps%20/openPeeps-1771676303310.svg" width="30" height="30" align="top">&nbsp;<img src="Openpeeps%20/openPeeps-1771676304747.svg" width="30" height="30" align="top">&nbsp;<img src="Openpeeps%20/openPeeps-1771676306081.svg" width="30" height="30" align="top"> | 共 `20` 張 |
+| [📁 **Personas **](Personas%20/README.md) | <img src="Personas%20/personas-1771676344894.svg" width="30" height="30" align="top">&nbsp;<img src="Personas%20/personas-1771676346130.svg" width="30" height="30" align="top">&nbsp;<img src="Personas%20/personas-1771676348061.svg" width="30" height="30" align="top"> | 共 `20` 張 |
+| [📁 **Pixelart **](Pixelart%20/README.md) | <img src="Pixelart%20/pixelArt-1771676378279.svg" width="30" height="30" align="top">&nbsp;<img src="Pixelart%20/pixelArt-1771676379502.svg" width="30" height="30" align="top">&nbsp;<img src="Pixelart%20/pixelArt-1771676380635.svg" width="30" height="30" align="top"> | 共 `20` 張 |
+| [📁 **Pixelart Netral **](Pixelart%20Netral%20/README.md) | <img src="Pixelart%20Netral%20/pixelArtNeutral-1771676420980.svg" width="30" height="30" align="top">&nbsp;<img src="Pixelart%20Netral%20/pixelArtNeutral-1771676422204.svg" width="30" height="30" align="top">&nbsp;<img src="Pixelart%20Netral%20/pixelArtNeutral-1771676423221.svg" width="30" height="30" align="top"> | 共 `20` 張 |
+| [📁 **Shapes **](Shapes%20/README.md) | <img src="Shapes%20/shapes-1771676455275.svg" width="30" height="30" align="top">&nbsp;<img src="Shapes%20/shapes-1771676456368.svg" width="30" height="30" align="top">&nbsp;<img src="Shapes%20/shapes-1771676457435.svg" width="30" height="30" align="top"> | 共 `20` 張 |
+| [📁 **Thumbs **](Thumbs%20/README.md) | <img src="Thumbs%20/thumbs-1771676494634.svg" width="30" height="30" align="top">&nbsp;<img src="Thumbs%20/thumbs-1771676496242.svg" width="30" height="30" align="top">&nbsp;<img src="Thumbs%20/thumbs-1771676497265.svg" width="30" height="30" align="top"> | 共 `19` 張 |
+| [📁 **Toonhead **](Toonhead%20/README.md) | <img src="Toonhead%20/toonHead-1771676535353.svg" width="30" height="30" align="top">&nbsp;<img src="Toonhead%20/toonHead-1771676537002.svg" width="30" height="30" align="top">&nbsp;<img src="Toonhead%20/toonHead-1771676539367.svg" width="30" height="30" align="top"> | 共 `20` 張 |

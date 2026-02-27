@@ -5,16 +5,19 @@
 此目錄目前沒有直接存放圖片，請選擇下方子分類：
 
 ### 🗂️ 子分類列表
-- [📁 accessibility](accessibility/README.md)
-- [📁 algorithms-and-data-structures](algorithms-and-data-structures/README.md)
-- [📁 architecture-and-paradigms](architecture-and-paradigms/README.md)
-- [📁 build-tools](build-tools/README.md)
-- [📁 databases-and-servers](databases-and-servers/README.md)
-- [📁 design-and-ux](design-and-ux/README.md)
-- [📁 frameworks-and-libraries](frameworks-and-libraries/README.md)
-- [📁 fundamentals](fundamentals/README.md)
-- [📁 progressive-webapps](progressive-webapps/README.md)
-- [📁 team-collaboration](team-collaboration/README.md)
-- [📁 testing](testing/README.md)
-- [📁 the-modern-web](the-modern-web/README.md)
-- [📁 web-components](web-components/README.md)
+
+| 分類名稱 | 封面預覽 | 統計 |
+| :--- | :--- | :--- |
+| [📁 **accessibility**](accessibility/README.md) | <img src="accessibility/accessibility-tree.svg" width="30" height="30" align="top">&nbsp;<img src="accessibility/accessible-colors.svg" width="30" height="30" align="top">&nbsp;<img src="accessibility/accessible-css.svg" width="30" height="30" align="top"> | 共 `14` 張 |
+| [📁 **algorithms-and-data-structures**](algorithms-and-data-structures/README.md) | <img src="algorithms-and-data-structures/algorithms/binary-search.svg" width="30" height="30" align="top">&nbsp;<img src="algorithms-and-data-structures/algorithms/breadth-first-search.svg" width="30" height="30" align="top">&nbsp;<img src="algorithms-and-data-structures/algorithms/depth-first-search.svg" width="30" height="30" align="top"> | 共 `28` 張 |
+| [📁 **architecture-and-paradigms**](architecture-and-paradigms/README.md) | <img src="architecture-and-paradigms/architecture/bem.svg" width="30" height="30" align="top">&nbsp;<img src="architecture-and-paradigms/architecture/bridge.svg" width="30" height="30" align="top">&nbsp;<img src="architecture-and-paradigms/architecture/chain-of-responsibility.svg" width="30" height="30" align="top"> | 共 `20` 張 |
+| [📁 **build-tools**](build-tools/README.md) | <img src="build-tools/babel.svg" width="30" height="30" align="top">&nbsp;<img src="build-tools/css-pre-processors.svg" width="30" height="30" align="top">&nbsp;<img src="build-tools/eslint.svg" width="30" height="30" align="top"> | 共 `21` 張 |
+| [📁 **databases-and-servers**](databases-and-servers/README.md) | <img src="databases-and-servers/databases/acid.svg" width="30" height="30" align="top">&nbsp;<img src="databases-and-servers/databases/armstrongs-axioms.svg" width="30" height="30" align="top">&nbsp;<img src="databases-and-servers/databases/data-integrity.svg" width="30" height="30" align="top"> | 共 `39` 張 |
+| [📁 **design-and-ux**](design-and-ux/README.md) | <img src="design-and-ux/accessibility.svg" width="30" height="30" align="top">&nbsp;<img src="design-and-ux/alignment.svg" width="30" height="30" align="top">&nbsp;<img src="design-and-ux/best-practices.svg" width="30" height="30" align="top"> | 共 `22` 張 |
+| [📁 **frameworks-and-libraries**](frameworks-and-libraries/README.md) | <img src="frameworks-and-libraries/angular.svg" width="30" height="30" align="top">&nbsp;<img src="frameworks-and-libraries/lit-element.svg" width="30" height="30" align="top">&nbsp;<img src="frameworks-and-libraries/react.svg" width="30" height="30" align="top"> | 共 `6` 張 |
+| [📁 **fundamentals**](fundamentals/README.md) | <img src="fundamentals/css/animations.svg" width="30" height="30" align="top">&nbsp;<img src="fundamentals/css/best-practices.svg" width="30" height="30" align="top">&nbsp;<img src="fundamentals/css/box-model.svg" width="30" height="30" align="top"> | 共 `64` 張 |
+| [📁 **progressive-webapps**](progressive-webapps/README.md) | <img src="progressive-webapps/apis/add-to-homescreen.svg" width="30" height="30" align="top">&nbsp;<img src="progressive-webapps/apis/history-api.svg" width="30" height="30" align="top">&nbsp;<img src="progressive-webapps/apis/offline-first.svg" width="30" height="30" align="top"> | 共 `55` 張 |
+| [📁 **team-collaboration**](team-collaboration/README.md) | <img src="team-collaboration/management/agile-development.svg" width="30" height="30" align="top">&nbsp;<img src="team-collaboration/management/kanban.svg" width="30" height="30" align="top">&nbsp;<img src="team-collaboration/management/scrum.svg" width="30" height="30" align="top"> | 共 `8` 張 |
+| [📁 **testing**](testing/README.md) | <img src="testing/a-b-testing.svg" width="30" height="30" align="top">&nbsp;<img src="testing/acceptance-testing.svg" width="30" height="30" align="top">&nbsp;<img src="testing/automated-testing.svg" width="30" height="30" align="top"> | 共 `21` 張 |
+| [📁 **the-modern-web**](the-modern-web/README.md) | <img src="the-modern-web/beacon.svg" width="30" height="30" align="top">&nbsp;<img src="the-modern-web/browser-extensions.svg" width="30" height="30" align="top">&nbsp;<img src="the-modern-web/clipboard.svg" width="30" height="30" align="top"> | 共 `45` 張 |
+| [📁 **web-components**](web-components/README.md) | <img src="web-components/best-practices.svg" width="30" height="30" align="top">&nbsp;<img src="web-components/constructible-stylesheets.svg" width="30" height="30" align="top">&nbsp;<img src="web-components/custom-elements.svg" width="30" height="30" align="top"> | 共 `8` 張 |

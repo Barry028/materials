@@ -5,6 +5,9 @@
 此目錄目前沒有直接存放圖片，請選擇下方子分類：
 
 ### 🗂️ 子分類列表
-- [📁 Curved](Curved/README.md)
-- [📁 Regular](Regular/README.md)
-- [📁 Sharp](Sharp/README.md)
+
+| 分類名稱 | 封面預覽 | 統計 |
+| :--- | :--- | :--- |
+| [📁 **Curved**](Curved/README.md) | <img src="Curved/Bold/2%20User.svg" width="30" height="30" align="top">&nbsp;<img src="Curved/Bold/3%20User.svg" width="30" height="30" align="top">&nbsp;<img src="Curved/Bold/Activity.svg" width="30" height="30" align="top"> | 共 `596` 張 |
+| [📁 **Regular**](Regular/README.md) | <img src="Regular/Bold/2%20User.svg" width="30" height="30" align="top">&nbsp;<img src="Regular/Bold/3%20User.svg" width="30" height="30" align="top">&nbsp;<img src="Regular/Bold/Activity.svg" width="30" height="30" align="top"> | 共 `593` 張 |
+| [📁 **Sharp**](Sharp/README.md) | <img src="Sharp/Bold/2%20User.svg" width="30" height="30" align="top">&nbsp;<img src="Sharp/Bold/3%20User.svg" width="30" height="30" align="top">&nbsp;<img src="Sharp/Bold/Activity.svg" width="30" height="30" align="top"> | 共 `744` 張 |

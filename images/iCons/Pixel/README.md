@@ -5,31 +5,34 @@
 此目錄目前沒有直接存放圖片，請選擇下方子分類：
 
 ### 🗂️ 子分類列表
-- [📁 16px ](16px%20/README.md)
-- [📁 Action](Action/README.md)
-- [📁 Base ](Base%20/README.md)
-- [📁 Breeze ](Breeze%20/README.md)
-- [📁 Business ](Business%20/README.md)
-- [📁 Commerceand Shopping ](Commerceand%20Shopping%20/README.md)
-- [📁 Cursor ](Cursor%20/README.md)
-- [📁 Emojis ](Emojis%20/README.md)
-- [📁 File ](File%20/README.md)
-- [📁 Fontaudi](Fontaudi/README.md)
-- [📁 Fruit](Fruit/README.md)
-- [📁 Games](Games/README.md)
-- [📁 Handgesture ](Handgesture%20/README.md)
-- [📁 Highquality ](Highquality%20/README.md)
-- [📁 Industrial Sharp](Industrial%20Sharp/README.md)
-- [📁 Interface](Interface/README.md)
-- [📁 Library](Library/README.md)
-- [📁 Line](Line/README.md)
-- [📁 Memory Icons ](Memory%20Icons%20/README.md)
-- [📁 Nes](Nes/README.md)
-- [📁 Offices](Offices/README.md)
-- [📁 Pixel Art ](Pixel%20Art%20/README.md)
-- [📁 Pixel Icon Set ](Pixel%20Icon%20Set%20/README.md)
-- [📁 Plump](Plump/README.md)
-- [📁 Skware ](Skware%20/README.md)
-- [📁 Textures ](Textures%20/README.md)
-- [📁 Userinterface ](Userinterface%20/README.md)
-- [📁 Zodiacsigns ](Zodiacsigns%20/README.md)
+
+| 分類名稱 | 封面預覽 | 統計 |
+| :--- | :--- | :--- |
+| [📁 **16px **](16px%20/README.md) | <img src="16px%20/16px/fonts/16px.svg" width="30" height="30" align="top">&nbsp;<img src="16px%20/align-bottom-svgrepo-com.svg" width="30" height="30" align="top">&nbsp;<img src="16px%20/align-horizontal-svgrepo-com.svg" width="30" height="30" align="top"> | 共 `127` 張 |
+| [📁 **Action**](Action/README.md) | <img src="Action/accommodate-svgrepo-com.svg" width="30" height="30" align="top">&nbsp;<img src="Action/add-svgrepo-com.svg" width="30" height="30" align="top">&nbsp;<img src="Action/adjust-svgrepo-com.svg" width="30" height="30" align="top"> | 共 `162` 張 |
+| [📁 **Base **](Base%20/README.md) | <img src="Base%20/Designed%20by%20Tom%20for%20Basedash.svg" width="30" height="30" align="top">&nbsp;<img src="Base%20/accordionDown.svg" width="30" height="30" align="top">&nbsp;<img src="Base%20/accordionLeft.svg" width="30" height="30" align="top"> | 共 `190` 張 |
+| [📁 **Breeze **](Breeze%20/README.md) | <img src="Breeze%20/Actions%20/12/transform-affect-stroke.svg" width="30" height="30" align="top">&nbsp;<img src="Breeze%20/Actions%20/16/accept_signal.svg" width="30" height="30" align="top">&nbsp;<img src="Breeze%20/Actions%20/16/add-subtitle.svg" width="30" height="30" align="top"> | 共 `5261` 張 |
+| [📁 **Business **](Business%20/README.md) | <img src="Business%20/beauty-mirror-2-11.svg" width="30" height="30" align="top">&nbsp;<img src="Business%20/business-money-coin-currency-19.svg" width="30" height="30" align="top">&nbsp;<img src="Business%20/business-prodect-diamond-25.svg" width="30" height="30" align="top"> | 共 `50` 張 |
+| [📁 **Commerceand Shopping **](Commerceand%20Shopping%20/README.md) | <img src="Commerceand%20Shopping%20/001-shopping%20cart.svg" width="30" height="30" align="top">&nbsp;<img src="Commerceand%20Shopping%20/002-transporting.svg" width="30" height="30" align="top">&nbsp;<img src="Commerceand%20Shopping%20/003-delivery%20cancelled.svg" width="30" height="30" align="top"> | 共 `100` 張 |
+| [📁 **Cursor **](Cursor%20/README.md) | <img src="Cursor%20/Group%201.svg" width="30" height="30" align="top">&nbsp;<img src="Cursor%20/Mail.svg" width="30" height="30" align="top">&nbsp;<img src="Cursor%20/add%20Mail.svg" width="30" height="30" align="top"> | 共 `40` 張 |
+| [📁 **Emojis **](Emojis%20/README.md) | <img src="Emojis%20/001-angry.svg" width="30" height="30" align="top">&nbsp;<img src="Emojis%20/002-kissing.svg" width="30" height="30" align="top">&nbsp;<img src="Emojis%20/003-crush.svg" width="30" height="30" align="top"> | 共 `37` 張 |
+| [📁 **File **](File%20/README.md) | <img src="File%20/pixelated-Add-Folder.svg" width="30" height="30" align="top">&nbsp;<img src="File%20/pixelated-Alert.svg" width="30" height="30" align="top">&nbsp;<img src="File%20/pixelated-Archive.svg" width="30" height="30" align="top"> | 共 `31` 張 |
+| [📁 **Fontaudi**](Fontaudi/README.md) | <img src="Fontaudi/arpchord-svgrepo-com.svg" width="30" height="30" align="top">&nbsp;<img src="Fontaudi/arpdown-svgrepo-com.svg" width="30" height="30" align="top">&nbsp;<img src="Fontaudi/arpdownandup-svgrepo-com.svg" width="30" height="30" align="top"> | 共 `52` 張 |
+| [📁 **Fruit**](Fruit/README.md) | <img src="Fruit/apple-svgrepo-com.svg" width="30" height="30" align="top">&nbsp;<img src="Fruit/avocado-svgrepo-com.svg" width="30" height="30" align="top">&nbsp;<img src="Fruit/banana-svgrepo-com.svg" width="30" height="30" align="top"> | 共 `20` 張 |
+| [📁 **Games**](Games/README.md) | <img src="Games/bear-face-dark-svgrepo-com.svg" width="30" height="30" align="top">&nbsp;<img src="Games/bear-face-light-svgrepo-com.svg" width="30" height="30" align="top">&nbsp;<img src="Games/bee-svgrepo-com.svg" width="30" height="30" align="top"> | 共 `59` 張 |
+| [📁 **Handgesture **](Handgesture%20/README.md) | <img src="Handgesture%20/001-line.svg" width="30" height="30" align="top">&nbsp;<img src="Handgesture%20/002-thumb%20down.svg" width="30" height="30" align="top">&nbsp;<img src="Handgesture%20/003-fist.svg" width="30" height="30" align="top"> | 共 `20` 張 |
+| [📁 **Highquality **](Highquality%20/README.md) | <img src="Highquality%20/account-box.svg" width="30" height="30" align="top">&nbsp;<img src="Highquality%20/account.svg" width="30" height="30" align="top">&nbsp;<img src="Highquality%20/alert-box-fill.svg" width="30" height="30" align="top"> | 共 `350` 張 |
+| [📁 **Industrial Sharp**](Industrial%20Sharp/README.md) | <img src="Industrial%20Sharp/add-document-note-svgrepo-com.svg" width="30" height="30" align="top">&nbsp;<img src="Industrial%20Sharp/add-eye-svgrepo-com.svg" width="30" height="30" align="top">&nbsp;<img src="Industrial%20Sharp/add-task-list-svgrepo-com.svg" width="30" height="30" align="top"> | 共 `153` 張 |
+| [📁 **Interface**](Interface/README.md) | <img src="Interface/camera-video-image-svgrepo-com.svg" width="30" height="30" align="top">&nbsp;<img src="Interface/chat-bubble-balloon-svgrepo-com.svg" width="30" height="30" align="top">&nbsp;<img src="Interface/download-arrow-down-svgrepo-com.svg" width="30" height="30" align="top"> | 共 `42` 張 |
+| [📁 **Library**](Library/README.md) | <img src="Library/brands/android.svg" width="30" height="30" align="top">&nbsp;<img src="Library/brands/angellist.svg" width="30" height="30" align="top">&nbsp;<img src="Library/brands/apple.svg" width="30" height="30" align="top"> | 共 `398` 張 |
+| [📁 **Line**](Line/README.md) | <img src="Line/align-center-svgrepo-com.svg" width="30" height="30" align="top">&nbsp;<img src="Line/align-justify-svgrepo-com.svg" width="30" height="30" align="top">&nbsp;<img src="Line/align-left-svgrepo-com.svg" width="30" height="30" align="top"> | 共 `76` 張 |
+| [📁 **Memory Icons **](Memory%20Icons%20/README.md) | <img src="Memory%20Icons%20/account-box-svgrepo-com.svg" width="30" height="30" align="top">&nbsp;<img src="Memory%20Icons%20/account-box.svg" width="30" height="30" align="top">&nbsp;<img src="Memory%20Icons%20/account-svgrepo-com.svg" width="30" height="30" align="top"> | 共 `872` 張 |
+| [📁 **Nes**](Nes/README.md) | <img src="Nes/Pixelbrick-1.svg" width="30" height="30" align="top">&nbsp;<img src="Nes/Pixelbrick-10.svg" width="30" height="30" align="top">&nbsp;<img src="Nes/Pixelbrick-11.svg" width="30" height="30" align="top"> | 共 `89` 張 |
+| [📁 **Offices**](Offices/README.md) | <img src="Offices/accounting-budget-calc-svgrepo-com.svg" width="30" height="30" align="top">&nbsp;<img src="Offices/agenda-calendar-date-svgrepo-com.svg" width="30" height="30" align="top">&nbsp;<img src="Offices/agenda-handbook-note-svgrepo-com.svg" width="30" height="30" align="top"> | 共 `25` 張 |
+| [📁 **Pixel Art **](Pixel%20Art%20/README.md) | <img src="Pixel%20Art%20/4g.svg" width="30" height="30" align="top">&nbsp;<img src="Pixel%20Art%20/4k-box.svg" width="30" height="30" align="top">&nbsp;<img src="Pixel%20Art%20/4k.svg" width="30" height="30" align="top"> | 共 `471` 張 |
+| [📁 **Pixel Icon Set **](Pixel%20Icon%20Set%20/README.md) | <img src="Pixel%20Icon%20Set%20/Commerce/Linear/001-basket-4.svg" width="30" height="30" align="top">&nbsp;<img src="Pixel%20Icon%20Set%20/Commerce/Linear/002-basket-3.svg" width="30" height="30" align="top">&nbsp;<img src="Pixel%20Icon%20Set%20/Commerce/Linear/003-basket-2.svg" width="30" height="30" align="top"> | 共 `733` 張 |
+| [📁 **Plump**](Plump/README.md) | <img src="Plump/Plump/streamlinehq-computer-battery-charging-%20%20%20%20%20%20%20%20%20%20flat-48-ico_uabLv4gSZJlZ2V6e.svg" width="30" height="30" align="top">&nbsp;<img src="Plump/Plump/streamlinehq-computer-battery-low-2-%20%20%20%20%20%20%20%20%20%20flat-48-ico_gpbpkjzp2i9OMnn5.svg" width="30" height="30" align="top">&nbsp;<img src="Plump/Plump/streamlinehq-computer-connection-bluetooth-%20%20%20%20%20%20%20%20%20%20flat-48-ico_fXhryIEKpIoc8U70.svg" width="30" height="30" align="top"> | 共 `145` 張 |
+| [📁 **Skware **](Skware%20/README.md) | <img src="Skware%20/Add.svg" width="30" height="30" align="top">&nbsp;<img src="Skware%20/Add_Bookmark.svg" width="30" height="30" align="top">&nbsp;<img src="Skware%20/Add_Messages.svg" width="30" height="30" align="top"> | 共 `101` 張 |
+| [📁 **Textures **](Textures%20/README.md) | <img src="Textures%20/texture-check-3.svg" width="30" height="30" align="top">&nbsp;<img src="Textures%20/texture-dot-grain-4.svg" width="30" height="30" align="top">&nbsp;<img src="Textures%20/texture-drawing-curly-8.svg" width="30" height="30" align="top"> | 共 `14` 張 |
+| [📁 **Userinterface **](Userinterface%20/README.md) | <img src="Userinterface%20/001-folder.svg" width="30" height="30" align="top">&nbsp;<img src="Userinterface%20/002-upload%20file.svg" width="30" height="30" align="top">&nbsp;<img src="Userinterface%20/003-text%20file.svg" width="30" height="30" align="top"> | 共 `83` 張 |
+| [📁 **Zodiacsigns **](Zodiacsigns%20/README.md) | <img src="Zodiacsigns%20/001-aquarius.svg" width="30" height="30" align="top">&nbsp;<img src="Zodiacsigns%20/002-aries.svg" width="30" height="30" align="top">&nbsp;<img src="Zodiacsigns%20/003-cancer.svg" width="30" height="30" align="top"> | 共 `22` 張 |

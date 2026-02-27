@@ -5,7 +5,10 @@
 此目錄目前沒有直接存放圖片，請選擇下方子分類：
 
 ### 🗂️ 子分類列表
-- [📁 Bold](Bold/README.md)
-- [📁 Linear](Linear/README.md)
-- [📁 Outline](Outline/README.md)
-- [📁 w](w/README.md)
+
+| 分類名稱 | 封面預覽 | 統計 |
+| :--- | :--- | :--- |
+| [📁 **Bold**](Bold/README.md) | <img src="Bold/Activity%201.svg" width="30" height="30" align="top">&nbsp;<img src="Bold/Activity%202.svg" width="30" height="30" align="top">&nbsp;<img src="Bold/Activity%203.svg" width="30" height="30" align="top"> | 共 `407` 張 |
+| [📁 **Linear**](Linear/README.md) | <img src="Linear/Activity%201.svg" width="30" height="30" align="top">&nbsp;<img src="Linear/Activity%202.svg" width="30" height="30" align="top">&nbsp;<img src="Linear/Activity%203.svg" width="30" height="30" align="top"> | 共 `456` 張 |
+| [📁 **Outline**](Outline/README.md) | <img src="Outline/Activity%201.svg" width="30" height="30" align="top">&nbsp;<img src="Outline/Activity%202.svg" width="30" height="30" align="top">&nbsp;<img src="Outline/Activity%203.svg" width="30" height="30" align="top"> | 共 `445` 張 |
+| [📁 **w**](w/README.md) | <img src="w/Bold/Activity%201.svg" width="30" height="30" align="top">&nbsp;<img src="w/Bold/Activity%202.svg" width="30" height="30" align="top">&nbsp;<img src="w/Bold/Activity%203.svg" width="30" height="30" align="top"> | 共 `1308` 張 |

@@ -5,19 +5,22 @@
 此目錄目前沒有直接存放圖片，請選擇下方子分類：
 
 ### 🗂️ 子分類列表
-- [📁 3D_Avatars](3D_Avatars/README.md)
-- [📁 3D_CharacterNurse](3D_CharacterNurse/README.md)
-- [📁 3D_Ecommercia](3D_Ecommercia/README.md)
-- [📁 3D_Education](3D_Education/README.md)
-- [📁 3D_Educations](3D_Educations/README.md)
-- [📁 3D_Emojis](3D_Emojis/README.md)
-- [📁 3D_EmojisGestures](3D_EmojisGestures/README.md)
-- [📁 3D_Finacially](3D_Finacially/README.md)
-- [📁 3D_Hands](3D_Hands/README.md)
-- [📁 3D_Heros](3D_Heros/README.md)
-- [📁 3D_Illustration-Nikuu](3D_Illustration-Nikuu/README.md)
-- [📁 3D_Illustration-Saly](3D_Illustration-Saly/README.md)
-- [📁 3D_Illustration-V1](3D_Illustration-V1/README.md)
-- [📁 3D_Illustration-V2](3D_Illustration-V2/README.md)
-- [📁 3D_Web-V1](3D_Web-V1/README.md)
-- [📁 3D_Web-V2](3D_Web-V2/README.md)
+
+| 分類名稱 | 封面預覽 | 統計 |
+| :--- | :--- | :--- |
+| [📁 **3D_Avatars**](3D_Avatars/README.md) | <img src="3D_Avatars/3d-female-001-12.webp" width="30" height="30" align="top">&nbsp;<img src="3D_Avatars/3d-female-001-2x-3c.webp" width="30" height="30" align="top">&nbsp;<img src="3D_Avatars/3d-female-001-2x-7e.png" width="30" height="30" align="top"> | 共 `21` 張 |
+| [📁 **3D_CharacterNurse**](3D_CharacterNurse/README.md) | <img src="3D_CharacterNurse/3d_CharacterNurse-1-af.webp" width="30" height="30" align="top">&nbsp;<img src="3D_CharacterNurse/3d_CharacterNurse-1-b9.png" width="30" height="30" align="top">&nbsp;<img src="3D_CharacterNurse/3d_CharacterNurse-10-73.webp" width="30" height="30" align="top"> | 共 `30` 張 |
+| [📁 **3D_Ecommercia**](3D_Ecommercia/README.md) | <img src="3D_Ecommercia/3d-Icon-ecommercia-01-22.webp" width="30" height="30" align="top">&nbsp;<img src="3D_Ecommercia/3d-Icon-ecommercia-01-3b.png" width="30" height="30" align="top">&nbsp;<img src="3D_Ecommercia/3d-Icon-ecommercia-010-48.webp" width="30" height="30" align="top"> | 共 `29` 張 |
+| [📁 **3D_Education**](3D_Education/README.md) | <img src="3D_Education/BackPack-60.webp" width="30" height="30" align="top">&nbsp;<img src="3D_Education/BackPack-b3.png" width="30" height="30" align="top">&nbsp;<img src="3D_Education/BlackBoard-8c.webp" width="30" height="30" align="top"> | 共 `22` 張 |
+| [📁 **3D_Educations**](3D_Educations/README.md) | <img src="3D_Educations/3d-Icon-education-01-4a.webp" width="30" height="30" align="top">&nbsp;<img src="3D_Educations/3d-Icon-education-01-cd.png" width="30" height="30" align="top">&nbsp;<img src="3D_Educations/3d-Icon-education-010-db.png" width="30" height="30" align="top"> | 共 `40` 張 |
+| [📁 **3D_Emojis**](3D_Emojis/README.md) | <img src="3D_Emojis/Black-Claps-bf.png" width="30" height="30" align="top">&nbsp;<img src="3D_Emojis/Black-Claps_Black-22.png" width="30" height="30" align="top">&nbsp;<img src="3D_Emojis/Black-Cool-be.png" width="30" height="30" align="top"> | 共 `25` 張 |
+| [📁 **3D_EmojisGestures**](3D_EmojisGestures/README.md) | <img src="3D_EmojisGestures/Black-Claps-83.png" width="30" height="30" align="top">&nbsp;<img src="3D_EmojisGestures/Black-GivingRight-f4.png" width="30" height="30" align="top">&nbsp;<img src="3D_EmojisGestures/Black-HandHoldingPencilRight-7d.png" width="30" height="30" align="top"> | 共 `33` 張 |
+| [📁 **3D_Finacially**](3D_Finacially/README.md) | <img src="3D_Finacially/3d-Icon-finacially-01-19.webp" width="30" height="30" align="top">&nbsp;<img src="3D_Finacially/3d-Icon-finacially-01-b2.png" width="30" height="30" align="top">&nbsp;<img src="3D_Finacially/3d-Icon-finacially-010-8e.png" width="30" height="30" align="top"> | 共 `76` 張 |
+| [📁 **3D_Hands**](3D_Hands/README.md) | <img src="3D_Hands/3d_Hands-1-12.png" width="30" height="30" align="top">&nbsp;<img src="3D_Hands/3d_Hands-1-81.webp" width="30" height="30" align="top"> | 共 `2` 張 |
+| [📁 **3D_Heros**](3D_Heros/README.md) | <img src="3D_Heros/hero-1-14.webp" width="30" height="30" align="top">&nbsp;<img src="3D_Heros/hero-1-c5.png" width="30" height="30" align="top">&nbsp;<img src="3D_Heros/hero-10-6f.png" width="30" height="30" align="top"> | 共 `24` 張 |
+| [📁 **3D_Illustration-Nikuu**](3D_Illustration-Nikuu/README.md) | <img src="3D_Illustration-Nikuu/Badrun_1-2d.webp" width="30" height="30" align="top">&nbsp;<img src="3D_Illustration-Nikuu/Badrun_1-dd.png" width="30" height="30" align="top">&nbsp;<img src="3D_Illustration-Nikuu/Badrun_2-c6.png" width="30" height="30" align="top"> | 共 `43` 張 |
+| [📁 **3D_Illustration-Saly**](3D_Illustration-Saly/README.md) | <img src="3D_Illustration-Saly/Saly_1-70.webp" width="30" height="30" align="top">&nbsp;<img src="3D_Illustration-Saly/Saly_1-9d.png" width="30" height="30" align="top">&nbsp;<img src="3D_Illustration-Saly/Saly_10-d9.png" width="30" height="30" align="top"> | 共 `90` 張 |
+| [📁 **3D_Illustration-V1**](3D_Illustration-V1/README.md) | <img src="3D_Illustration-V1/atm-29.png" width="30" height="30" align="top">&nbsp;<img src="3D_Illustration-V1/atm-5f.webp" width="30" height="30" align="top">&nbsp;<img src="3D_Illustration-V1/curve-1f.png" width="30" height="30" align="top"> | 共 `6` 張 |
+| [📁 **3D_Illustration-V2**](3D_Illustration-V2/README.md) | <img src="3D_Illustration-V2/01.ARTIST-9e.webp" width="30" height="30" align="top">&nbsp;<img src="3D_Illustration-V2/01.ARTIST-dc.png" width="30" height="30" align="top">&nbsp;<img src="3D_Illustration-V2/01.AwardIcon-4c.png" width="30" height="30" align="top"> | 共 `120` 張 |
+| [📁 **3D_Web-V1**](3D_Web-V1/README.md) | <img src="3D_Web-V1/3d_web-01-82.png" width="30" height="30" align="top">&nbsp;<img src="3D_Web-V1/3d_web-010-2f.webp" width="30" height="30" align="top">&nbsp;<img src="3D_Web-V1/3d_web-011-4c.png" width="30" height="30" align="top"> | 共 `40` 張 |
+| [📁 **3D_Web-V2**](3D_Web-V2/README.md) | <img src="3D_Web-V2/3d-Icon-webs-01-44.webp" width="30" height="30" align="top">&nbsp;<img src="3D_Web-V2/3d-Icon-webs-01-f8.png" width="30" height="30" align="top">&nbsp;<img src="3D_Web-V2/3d-Icon-webs-010-1f.png" width="30" height="30" align="top"> | 共 `40` 張 |

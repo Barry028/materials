@@ -5,6 +5,9 @@
 此目錄目前沒有直接存放圖片，請選擇下方子分類：
 
 ### 🗂️ 子分類列表
-- [📁 algorithms](algorithms/README.md)
-- [📁 analysis](analysis/README.md)
-- [📁 data-structures](data-structures/README.md)
+
+| 分類名稱 | 封面預覽 | 統計 |
+| :--- | :--- | :--- |
+| [📁 **algorithms**](algorithms/README.md) | <img src="algorithms/binary-search.svg" width="30" height="30" align="top">&nbsp;<img src="algorithms/breadth-first-search.svg" width="30" height="30" align="top">&nbsp;<img src="algorithms/depth-first-search.svg" width="30" height="30" align="top"> | 共 `12` 張 |
+| [📁 **analysis**](analysis/README.md) | <img src="analysis/big-o-notation.svg" width="30" height="30" align="top">&nbsp;<img src="analysis/cost-model.svg" width="30" height="30" align="top">&nbsp;<img src="analysis/order-of-growth.svg" width="30" height="30" align="top"> | 共 `5` 張 |
+| [📁 **data-structures**](data-structures/README.md) | <img src="data-structures/arrays.svg" width="30" height="30" align="top">&nbsp;<img src="data-structures/binary-indexed-tree.svg" width="30" height="30" align="top">&nbsp;<img src="data-structures/graphs.svg" width="30" height="30" align="top"> | 共 `11` 張 |

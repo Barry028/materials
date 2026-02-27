@@ -5,6 +5,9 @@
 此目錄目前沒有直接存放圖片，請選擇下方子分類：
 
 ### 🗂️ 子分類列表
-- [📁 Linear](Linear/README.md)
-- [📁 Outline](Outline/README.md)
-- [📁 Solid](Solid/README.md)
+
+| 分類名稱 | 封面預覽 | 統計 |
+| :--- | :--- | :--- |
+| [📁 **Linear**](Linear/README.md) | <img src="Linear/031-celsius.svg" width="30" height="30" align="top">&nbsp;<img src="Linear/031-cloud.svg" width="30" height="30" align="top">&nbsp;<img src="Linear/031-cloudy-1.svg" width="30" height="30" align="top"> | 共 `30` 張 |
+| [📁 **Outline**](Outline/README.md) | <img src="Outline/031-celsius.svg" width="30" height="30" align="top">&nbsp;<img src="Outline/031-cloud.svg" width="30" height="30" align="top">&nbsp;<img src="Outline/031-cloudy-1.svg" width="30" height="30" align="top"> | 共 `30` 張 |
+| [📁 **Solid**](Solid/README.md) | <img src="Solid/031-celsius.svg" width="30" height="30" align="top">&nbsp;<img src="Solid/031-cloud.svg" width="30" height="30" align="top">&nbsp;<img src="Solid/031-cloudy-1.svg" width="30" height="30" align="top"> | 共 `30` 張 |

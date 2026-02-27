@@ -5,18 +5,21 @@
 此目錄目前沒有直接存放圖片，請選擇下方子分類：
 
 ### 🗂️ 子分類列表
-- [📁 AmazingCatIllustrations](AmazingCatIllustrations/README.md)
-- [📁 Byte Dance](Byte%20Dance/README.md)
-- [📁 Circuitill](Circuitill/README.md)
-- [📁 CorporateScenesillustrationOctetDesignStudio](CorporateScenesillustrationOctetDesignStudio/README.md)
-- [📁 DeskDudes-illustration](DeskDudes-illustration/README.md)
-- [📁 DoozyProSvg](DoozyProSvg/README.md)
-- [📁 ErrorStateillustrationsPixelTrue](ErrorStateillustrationsPixelTrue/README.md)
-- [📁 GrowwwKit 01](GrowwwKit%2001/README.md)
-- [📁 GrowwwKit 02](GrowwwKit%2002/README.md)
-- [📁 Life & Work Flat](Life%20%26%20Work%20Flat/README.md)
-- [📁 SigmaProSvg](SigmaProSvg/README.md)
-- [📁 SketchyProSvg](SketchyProSvg/README.md)
-- [📁 Social Media Marketing Illustratio](Social%20Media%20Marketing%20Illustratio/README.md)
-- [📁 Workspace Activity](Workspace%20Activity/README.md)
-- [📁 illustrations-Simplicity](illustrations-Simplicity/README.md)
+
+| 分類名稱 | 封面預覽 | 統計 |
+| :--- | :--- | :--- |
+| [📁 **AmazingCatIllustrations**](AmazingCatIllustrations/README.md) | <img src="AmazingCatIllustrations/SVG/alien-mushroom.svg" width="30" height="30" align="top">&nbsp;<img src="AmazingCatIllustrations/SVG/alieny.svg" width="30" height="30" align="top">&nbsp;<img src="AmazingCatIllustrations/SVG/amanita.svg" width="30" height="30" align="top"> | 共 `20` 張 |
+| [📁 **Byte Dance**](Byte%20Dance/README.md) | <img src="Byte%20Dance/404.svg" width="30" height="30" align="top">&nbsp;<img src="Byte%20Dance/bug%20fix.svg" width="30" height="30" align="top">&nbsp;<img src="Byte%20Dance/loading%20failed.svg" width="30" height="30" align="top"> | 共 `15` 張 |
+| [📁 **Circuitill**](Circuitill/README.md) | <img src="Circuitill/SVG/Circuit1aGrowwwKit.svg" width="30" height="30" align="top">&nbsp;<img src="Circuitill/SVG/Circuit1bGrowwwKit.svg" width="30" height="30" align="top">&nbsp;<img src="Circuitill/SVG/Circuit1cGrowwwKit.svg" width="30" height="30" align="top"> | 共 `29` 張 |
+| [📁 **CorporateScenesillustrationOctetDesignStudio**](CorporateScenesillustrationOctetDesignStudio/README.md) | <img src="CorporateScenesillustrationOctetDesignStudio/Man%20transferring%20data%20to%20cloud.svg" width="30" height="30" align="top"> | 共 `1` 張 |
+| [📁 **DeskDudes-illustration**](DeskDudes-illustration/README.md) | <img src="DeskDudes-illustration/Desk_Dudes%2037.svg" width="30" height="30" align="top">&nbsp;<img src="DeskDudes-illustration/Desk_Dudes1.svg" width="30" height="30" align="top">&nbsp;<img src="DeskDudes-illustration/Desk_Dudes10.svg" width="30" height="30" align="top"> | 共 `20` 張 |
+| [📁 **DoozyProSvg**](DoozyProSvg/README.md) | <img src="DoozyProSvg/1.svg" width="30" height="30" align="top">&nbsp;<img src="DoozyProSvg/10.svg" width="30" height="30" align="top">&nbsp;<img src="DoozyProSvg/11.svg" width="30" height="30" align="top"> | 共 `20` 張 |
+| [📁 **ErrorStateillustrationsPixelTrue**](ErrorStateillustrationsPixelTrue/README.md) | <img src="ErrorStateillustrationsPixelTrue/Astronaut-01.svg" width="30" height="30" align="top">&nbsp;<img src="ErrorStateillustrationsPixelTrue/Cat-01.svg" width="30" height="30" align="top">&nbsp;<img src="ErrorStateillustrationsPixelTrue/Chemical-01.svg" width="30" height="30" align="top"> | 共 `30` 張 |
+| [📁 **GrowwwKit 01**](GrowwwKit%2001/README.md) | <img src="GrowwwKit%2001/Call%20waiting.svg" width="30" height="30" align="top">&nbsp;<img src="GrowwwKit%2001/Cat%20shot.svg" width="30" height="30" align="top">&nbsp;<img src="GrowwwKit%2001/Coffe%20call.svg" width="30" height="30" align="top"> | 共 `8` 張 |
+| [📁 **GrowwwKit 02**](GrowwwKit%2002/README.md) | <img src="GrowwwKit%2002/Chubbs%20by%20growwwkit.svg" width="30" height="30" align="top">&nbsp;<img src="GrowwwKit%2002/Chubbs_1%20by%20growwwkit.svg" width="30" height="30" align="top">&nbsp;<img src="GrowwwKit%2002/Chubbs_10%20by%20growwwkit.svg" width="30" height="30" align="top"> | 共 `12` 張 |
+| [📁 **Life & Work Flat**](Life%20%26%20Work%20Flat/README.md) | <img src="Life%20%26%20Work%20Flat/Business%20Team/8233819_smartphone_service_customer_support_center_call.svg" width="30" height="30" align="top">&nbsp;<img src="Life%20%26%20Work%20Flat/Business%20Team/8233820_handshake_partnership_contract_agreement.svg" width="30" height="30" align="top">&nbsp;<img src="Life%20%26%20Work%20Flat/Business%20Team/8233821_laptop_working_wheelchair_disabled.svg" width="30" height="30" align="top"> | 共 `111` 張 |
+| [📁 **SigmaProSvg**](SigmaProSvg/README.md) | <img src="SigmaProSvg/404.svg" width="30" height="30" align="top">&nbsp;<img src="SigmaProSvg/associate.svg" width="30" height="30" align="top">&nbsp;<img src="SigmaProSvg/basket.svg" width="30" height="30" align="top"> | 共 `4` 張 |
+| [📁 **SketchyProSvg**](SketchyProSvg/README.md) | <img src="SketchyProSvg/Basket.svg" width="30" height="30" align="top">&nbsp;<img src="SketchyProSvg/Clearing.svg" width="30" height="30" align="top">&nbsp;<img src="SketchyProSvg/PRO.svg" width="30" height="30" align="top"> | 共 `21` 張 |
+| [📁 **Social Media Marketing Illustratio**](Social%20Media%20Marketing%20Illustratio/README.md) | <img src="Social%20Media%20Marketing%20Illustratio/Digital%20Marketing.svg" width="30" height="30" align="top">&nbsp;<img src="Social%20Media%20Marketing%20Illustratio/Email%20Marketing.svg" width="30" height="30" align="top">&nbsp;<img src="Social%20Media%20Marketing%20Illustratio/Endorsement.svg" width="30" height="30" align="top"> | 共 `12` 張 |
+| [📁 **Workspace Activity**](Workspace%20Activity/README.md) | <img src="Workspace%20Activity/Asleep%20at%20Work%20Desk.svg" width="30" height="30" align="top">&nbsp;<img src="Workspace%20Activity/Become%20an%20online%20mentor.svg" width="30" height="30" align="top">&nbsp;<img src="Workspace%20Activity/Create%20a%20Todolist.svg" width="30" height="30" align="top"> | 共 `12` 張 |
+| [📁 **illustrations-Simplicity**](illustrations-Simplicity/README.md) | <img src="illustrations-Simplicity/Bgs/bg-Aquarium-16.svg" width="30" height="30" align="top">&nbsp;<img src="illustrations-Simplicity/Bgs/bg-Bench-f1.svg" width="30" height="30" align="top">&nbsp;<img src="illustrations-Simplicity/Bgs/bg-Detail-0f.svg" width="30" height="30" align="top"> | 共 `130` 張 |
