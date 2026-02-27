@@ -62,7 +62,7 @@ for root, dirs, files in sorted(os.walk(IMAGE_DIR)):
             preview_imgs_html.append(f'<img src="{safe_pf_url}" {style}>')
         
         more_tag = f'<span style="font-size:12px; color:#666; margin-left:8px;">+{len(valid_files)-max_previews}</span>' if len(valid_files) > max_previews else ""
-        img_html = f'<a href="{safe_folder_url}/README.md" style="white-space:nowrap;">' + "".join(preview_imgs_html) + f'{more_tag}</a>'
+        img_html = f'<a href="{safe_folder_url}/README.md" style="white-space:nowrap;">' + "".join(preview_imgs_html) + f'{more_tag}</a> '
         
         subdir_links.append(f"| [{display_name}]({safe_folder_url}/README.md) | {img_html} | `{len(valid_files)} Items` |")
 
