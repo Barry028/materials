@@ -1,6 +1,6 @@
-# 📂 目錄：Mingcute i Con
+# 📂 目錄：Mingcute iCon
 
-> [🏠 主目錄](../../../README.md) / [images](../../README.md) / [iCons](../README.md) / **Mingcute i Con**
+> [🏠 主目錄](../../../README.md) / [images](../../README.md) / [iCons](../README.md) / **Mingcute iCon**
 
 此目錄目前沒有直接存放圖片，請選擇下方子分類：
 
