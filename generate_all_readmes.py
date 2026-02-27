@@ -163,7 +163,7 @@ for root, dirs, files in sorted(os.walk(IMAGE_DIR)):
                     sub_img_row = "📁 *(無圖片)*"
                     sub_count_tag = "-"
 
-                sub_content.append(f"| [📁 **{d}**]({urllib.parse.quote(d)}/README.md) | {sub_img_row} | {sub_count_tag} |")
+                sub_content.append(f"| [📁 **{d}**]({urllib.parse.quote(d)}/{ROOT_README}) | {sub_img_row} | {sub_count_tag} |")
         
         if not has_sub:
             sub_content = sub_content[:4] # 移除表格頭部
