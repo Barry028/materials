@@ -9,12 +9,11 @@ IMAGE_DIR = 'images'
 ROOT_README = 'README.md'
 START_MARKER = '<!-- thumbnails-start -->'
 END_MARKER = '<!-- thumbnails-end -->'
-MAIN_WIDTH = 20 # 主導覽縮圖大小
-SUB_WIDTH = 200 # 子目錄圖片預覽寬度
+MAIN_WIDTH = 30 # 主導覽縮圖大小
+SUB_WIDTH = 250 # 子目錄圖片預覽寬度
+# 自動抓取 GitHub 倉庫名稱，若在本機執行請修改預設值
 REPO_NAME = os.getenv('GITHUB_REPOSITORY', '你的帳號/你的倉庫名')
-BRANCH = 'main' # 或是 'master'，視您的主分支而定
-
-
+BRANCH = 'main' # 確保這是您的主分支名稱
 
 def get_size_format(b):
     for unit in ["", "K", "M", "G"]:
@@ -64,10 +63,23 @@ for root, dirs, files in sorted(os.walk(IMAGE_DIR)):
         
         subdir_links.append(f"| [{display_name}]({safe_folder_url}/README.md) | {img_html} | `{len(valid_files)} Items` |")
 
-        # --- 子目錄 README 美化 (卡片樣式 + 複製連結) ---
+        # --- 💡 強化版：動態生成完整層級麵包屑 ---
+        path_parts = folder_path.split(os.sep)
+        breadcrumb_links = [f"[🏠 主目錄]({back_to_root}{ROOT_README})"]
+        for i in range(len(path_parts)):
+            part_name = path_parts[i]
+            if i == len(path_parts) - 1:
+                breadcrumb_links.append(f"**{part_name}**")
+            else:
+                steps_back = len(path_parts) - 1 - i
+                link_path = "../" * steps_back + "README.md"
+                breadcrumb_links.append(f"[{part_name}]({link_path})")
+        breadcrumb_str = " / ".join(breadcrumb_links)
+
+        # --- 子目錄 README 美化 (卡片樣式 + CDN 複製區塊) ---
         sub_content = [
             f"# 🖼️ 素材分類：{folder_name}\n",
-            f"> [🏠 主目錄]({back_to_root}{ROOT_README}) / **{folder_name}**\n",
+            f"> {breadcrumb_str}\n",
             f"本目錄共有 `{len(valid_files)}` 個檔案\n",
             "| 🎨 預覽 (點擊放大) | 📋 檔案詳細資訊與連結 |",
             "| :--- | :--- |"
@@ -75,7 +87,6 @@ for root, dirs, files in sorted(os.walk(IMAGE_DIR)):
         
         for f in sorted(valid_files):
             f_path = os.path.join(root, f)
-            # 取得圖片相對於根目錄的路徑，並轉換為 URL 格式
             rel_img_path = os.path.relpath(f_path, '.').replace('\\', '/')
             safe_rel_path = urllib.parse.quote(rel_img_path)
             safe_f = urllib.parse.quote(f)
@@ -91,26 +102,22 @@ for root, dirs, files in sorted(os.walk(IMAGE_DIR)):
                         w, h = img.size
                     spec = f"🖼️ **尺寸:** `{w}x{h} px`"
 
-                # 💡 生成複製用的 Markdown 語法區塊
+                # 💡 jsDelivr CDN 連結與 Markdown 語法
                 cdn_url = f"https://cdn.jsdelivr.net/gh/{REPO_NAME}@{BRANCH}/{safe_rel_path}"
                 copy_md = f"![{f}]({cdn_url})"
 
                 details = (
                     f"**📂 檔名:** `{f}`<br>"
                     f"{spec}<br>"
-                    f"⚖️ **大小:** `{size}`<br>"
-                    f"📅 **更新:** `{mtime}`<br><br>"
-                    f"🔗 **複製 Markdown 語法:**<br>`{copy_md}`<br>"
-                    f"🔗 **複製 Url:**<br>`{cdn_url}`<br>"
+                    f"⚖️ **大小:** `{size}` | 📅 **更新:** `{mtime}`<br><br>"
+                    f"🚀 **jsDelivr Markdown:**<br>`{copy_md}`<br>"
+                    f"🔗 **直接連結 (Url):**<br>`{cdn_url}`<br>"
                     f"📥 [檢視原始檔]({safe_f})"
                 )
                 
                 img_tag = f'<a href="{safe_f}"><img src="{safe_f}" width="{SUB_WIDTH}" alt="{f}"></a>'
                 sub_content.append(f"| {img_tag} | {details} |")
-
-
             except Exception as e:
-                # 如果出錯，至少顯示基本檔名並印出錯誤原因到 GitHub Actions Log
                 print(f"Error processing {f}: {e}")
                 sub_content.append(f"| `{f}` | ⚠️ 無法讀取詳細資訊 |")
         
