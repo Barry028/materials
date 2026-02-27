@@ -1,6 +1,7 @@
 import os
 import datetime
 import re
+import urllib.parse  # 必須加入這行來處理空格路徑
 from PIL import Image
 
 # 設定
@@ -8,6 +9,26 @@ IMAGE_DIR = 'images'
 ROOT_README = 'README.md'
 START_MARKER = '<!-- thumbnails-start -->'
 END_MARKER = '<!-- thumbnails-end -->'
+
+
+# --- 修正路徑編碼 ---
+# 1. 處理資料夾路徑 (轉換成 GitHub 可讀取的 URL 格式)
+folder_path_url = folder_path.replace('\\', '/')
+safe_folder_url = urllib.parse.quote(folder_path_url)
+
+# 2. 處理封面圖片路徑
+cover_file = sorted(valid_files)[0]
+cover_path_url = os.path.join(folder_path, cover_file).replace('\\', '/')
+safe_cover_url = urllib.parse.quote(cover_path_url)
+
+# 製作圓形封面 HTML
+img_style = 'width="45" height="45" style="border-radius:50%; border:2px solid #eee; object-fit:cover;"'
+img_html = f'<a href="{safe_folder_url}/README.md"><img src="{safe_cover_url}" {img_style}></a>'
+
+# 建立樹狀連結 (注意：顯示文字 indent+folder_name 不需要 quote，但連結路徑需要)
+folder_link = f"[{indent}{folder_name}]({safe_folder_url}/README.md)"
+
+subdir_links.append(f"| {folder_link} | {img_html} | `{len(valid_files)} Items` |")
 
 def get_size_format(b):
     for unit in ["", "K", "M", "G"]:
@@ -73,6 +94,7 @@ for root, dirs, files in sorted(os.walk(IMAGE_DIR)):
 
 # 2. 生成或更新根目錄 README
 # 建立分類導覽表格 (如果 subdir_links 是空的，給予提示)
+# --- 檢查根目錄 README 是否存在並寫入 ---
 if not subdir_links:
     nav_table_text = "\n目前 `images/` 資料夾中還沒有圖片，請上傳圖片至子目錄後再執行。\n"
 else:
@@ -85,7 +107,6 @@ else:
 
 new_nav_section = f"{START_MARKER}\n{nav_table_text}\n{END_MARKER}"
 
-# 檢查根目錄 README 是否存在
 if os.path.exists(ROOT_README):
     with open(ROOT_README, 'r', encoding='utf-8') as f_in:
         content = f_in.read()
@@ -93,13 +114,11 @@ if os.path.exists(ROOT_README):
     if START_MARKER in content:
         content = re.sub(f"{START_MARKER}.*?{END_MARKER}", new_nav_section, content, flags=re.DOTALL)
     else:
-        # 如果檔案存在但沒有標記，就補在最後面
         content += f"\n\n{new_nav_section}"
 else:
-    # 關鍵：如果完全沒檔案，直接建立一個
     header = "# 🎨 我的設計素材庫\n這是一個全自動更新的素材導覽。"
     content = f"{header}\n\n{new_nav_section}\n\n---\n*Last Sync: {datetime.datetime.now().strftime('%Y-%m-%d %H:%M')}*"
 
 with open(ROOT_README, 'w', encoding='utf-8') as f_out:
     f_out.write(content)
-print(f"Successfully processed {ROOT_README}") # 讓 Log 顯示進度
+print(f"Successfully processed {ROOT_README}")
