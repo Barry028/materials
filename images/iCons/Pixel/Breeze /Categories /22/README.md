@@ -4,6 +4,6 @@
 
 本目錄共有 `1` 個檔案
 
-| 🎨 預覽 (點擊放大) | 📋 檔案詳細資訊與連結 |
+| 🎨 預覽 (點擊放大)<br><img src="https://via.placeholder.com250x1/ffffff/000000?text=+" width="250" height="1"> | 📋 檔案詳細資訊與連結 |
 | :--- | :--- |
-| <a href="applications-all-symbolic.svg"><img src="applications-all-symbolic.svg" width="250" alt="applications-all-symbolic.svg"></a> | **📂 檔名:** `applications-all-symbolic.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `2.04KB`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br>`![applications-all-symbolic.svg](https://cdn.jsdelivr.net/ghbarry028/materials@main/images/iCons/Pixel/Breeze%20/Categories%20/22/applications-all-symbolic.svg)`<br>🔗 **直接連結 (Url):**<br>`https://cdn.jsdelivr.net/ghbarry028/materials@main/images/iCons/Pixel/Breeze%20/Categories%20/22/applications-all-symbolic.svg`<br>📥 [檢視原始檔](applications-all-symbolic.svg) |
+| <a href="applications-all-symbolic.svg"><img src="applications-all-symbolic.svg" width="250" alt="applications-all-symbolic.svg"></a> | **📂 檔名:** `applications-all-symbolic.svg`<br>✨ **格式:** `Vector (SVG)`<br>⚖️ **大小:** `2.04KB`<br>📅 **更新:** `2026-02-27`<br><br>🚀 **jsDelivr Markdown:**<br><code>![applications-all-symbolic.svg](https://cdn.jsdelivr.netbarry028/materials@main/images/iCons/Pixel/Breeze%20/Categories%20/22/applications-all-symbolic.svg)</code><br>🔗 **直接連結 (Url):**<br><code>https://cdn.jsdelivr.netbarry028/materials@main/images/iCons/Pixel/Breeze%20/Categories%20/22/applications-all-symbolic.svg</code><br>📥 [檢視原始檔](applications-all-symbolic.svg) |
