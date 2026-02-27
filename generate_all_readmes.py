@@ -72,24 +72,34 @@ for root, dirs, files in sorted(os.walk(IMAGE_DIR)):
             f_out.write("\n".join(sub_content))
 
 # 2. 生成或更新根目錄 README
-default_header = "# 🎨 我的自動化設計素材庫\n這是一個透過 **GitHub Actions** 自動生成的圖庫系統。只需上傳圖片至 `images/` 資料夾即可自動更新。\n"
-tree_table = [
-    "## 📂 素材目錄樹狀導覽\n",
-    "| 目錄路徑 | 封面 | 統計 |",
-    "| :--- | :---: | :---: |"
-] + subdir_links
+# 建立分類導覽表格 (如果 subdir_links 是空的，給予提示)
+if not subdir_links:
+    nav_table_text = "\n目前 `images/` 資料夾中還沒有圖片，請上傳圖片至子目錄後再執行。\n"
+else:
+    tree_table = [
+        "## 📂 素材目錄樹狀導覽\n",
+        "| 目錄路徑 | 封面 | 統計 |",
+        "| :--- | :---: | :---: |"
+    ] + subdir_links
+    nav_table_text = "\n".join(tree_table)
 
-new_nav_section = f"{START_MARKER}\n" + "\n".join(tree_table) + f"\n{END_MARKER}"
+new_nav_section = f"{START_MARKER}\n{nav_table_text}\n{END_MARKER}"
 
+# 檢查根目錄 README 是否存在
 if os.path.exists(ROOT_README):
     with open(ROOT_README, 'r', encoding='utf-8') as f_in:
         content = f_in.read()
+    
     if START_MARKER in content:
         content = re.sub(f"{START_MARKER}.*?{END_MARKER}", new_nav_section, content, flags=re.DOTALL)
     else:
+        # 如果檔案存在但沒有標記，就補在最後面
         content += f"\n\n{new_nav_section}"
 else:
-    content = f"{default_header}\n\n{new_nav_section}\n\n---\n*最後更新於: {datetime.datetime.now().strftime('%Y-%m-%d %H:%M')}*"
+    # 關鍵：如果完全沒檔案，直接建立一個
+    header = "# 🎨 我的設計素材庫\n這是一個全自動更新的素材導覽。"
+    content = f"{header}\n\n{new_nav_section}\n\n---\n*Last Sync: {datetime.datetime.now().strftime('%Y-%m-%d %H:%M')}*"
 
 with open(ROOT_README, 'w', encoding='utf-8') as f_out:
     f_out.write(content)
+print(f"Successfully processed {ROOT_README}") # 讓 Log 顯示進度
