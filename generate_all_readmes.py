@@ -32,19 +32,28 @@ for root, dirs, files in sorted(os.walk(IMAGE_DIR)):
     # 檢查是否有圖片
     valid_files = [f for f in files if f.lower().endswith(('.png', '.jpg', '.jpeg', '.gif', '.webp', '.svg'))]
     
-    # 計算樹狀縮排
+    # 計算樹狀縮排與字體大小
     rel_url = folder_path.replace('\\', '/')
     depth = rel_url.count('/')
+    
+    # 字體大小邏輯：第一層 size=4，之後每深一層減 1，最小為 1
+    f_size = max(1, 4 - depth)
     indent = "　" * depth + ("┗ " if depth > 0 else "📂 ")
+    
+    # 第一層加粗，其餘正常
+    bold_s, bold_e = ("**", "**") if depth == 0 else ("", "")
+    
+    # 組合美化後的顯示名稱
+    display_name = f'<font size="{f_size}">{indent}{bold_s}{folder_name}{bold_e}</font>'
     safe_folder_url = urllib.parse.quote(rel_url)
 
     if valid_files:
-        # --- 有圖片：生成 README 並在主目錄顯示縮圖 ---
+        # --- 有圖片：生成 README 並顯示多圖封面 ---
         readme_path = os.path.join(root, 'README.md')
         rel_depth = depth + 1
         back_to_root = "../" * rel_depth
         
-        # 多圖封面
+        # 多圖封面 (Avatar Stack 效果)
         max_previews = 5
         preview_files = sorted(valid_files)[:max_previews]
         preview_imgs_html = []
@@ -58,7 +67,8 @@ for root, dirs, files in sorted(os.walk(IMAGE_DIR)):
         more_tag = f'<span style="font-size:12px; color:#666; margin-left:8px;">+{len(valid_files)-max_previews}</span>' if len(valid_files) > max_previews else ""
         img_html = f'<a href="{safe_folder_url}/README.md" style="white-space:nowrap;">' + "".join(preview_imgs_html) + f'{more_tag}</a>'
         
-        subdir_links.append(f"| [{indent}{folder_name}]({safe_folder_url}/README.md) | {img_html} | `{len(valid_files)} Items` |")
+        # 加入連結
+        subdir_links.append(f"| [{display_name}]({safe_folder_url}/README.md) | {img_html} | `{len(valid_files)} Items` |")
 
         # 生成子 README
         sub_content = [f"# 🖼️ {folder_name}\n", f"[⬅️ 返回主目錄]({back_to_root}{ROOT_README})\n", "| 預覽 | 資訊 |", "| :--- | :--- |"]
@@ -68,10 +78,9 @@ for root, dirs, files in sorted(os.walk(IMAGE_DIR)):
         with open(readme_path, 'w', encoding='utf-8') as f_out:
             f_out.write("\n".join(sub_content))
     else:
-        # --- 沒圖片 (父資料夾)：保留名稱，作為樹狀標記 ---
-        # 僅當資料夾不是 images 本身時加入
+        # --- 沒圖片 (父資料夾)：保留樹狀結構，僅顯示文字 ---
         if folder_name != IMAGE_DIR:
-            subdir_links.append(f"| {indent}{folder_name} | 📁 (資料夾) | - |")
+            subdir_links.append(f"| {display_name} | 📁 (資料夾) | - |")
 
 # 2. 更新根目錄 README
 if not subdir_links:
@@ -92,3 +101,4 @@ else:
 
 with open(ROOT_README, 'w', encoding='utf-8') as f_out:
     f_out.write(content)
+print(f"Successfully processed {ROOT_README}")
