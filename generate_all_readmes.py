@@ -103,16 +103,14 @@ for root, dirs, files in sorted(os.walk(IMAGE_DIR)):
                         w, h = img.size
                     spec = f"🖼️ **尺寸:** `{w}x{h} px`"
 
-
-                
                 cdn_url = f"https://cdn.jsdelivr.net/gh{safe_repo}@{BRANCH}/{safe_rel_path}"
                 copy_md = f"![{f}]({cdn_url})"
 
                 details = (
                     f"**📂 檔名:** `{f}`<br>"
                     f"{spec}<br>"
-                    f"⚖️ **大小:** `{size}` | 📅 **更新:** `{mtime}`<br><br>"
-                    f"🚀 **jsDelivr Markdown:**<br>`{copy_md}`<br>"
+                    f"⚖️ **大小:** `{size}` | 📅 **更新:** `{mtime}`<br>"
+                    f"<br>🚀 **jsDelivr Markdown:**<br>`{copy_md}`<br>"
                     f"🔗 **直接連結 (Url):**<br>`{cdn_url}`<br>"
                     f"📥 [檢視原始檔]({safe_f})"
                 )
