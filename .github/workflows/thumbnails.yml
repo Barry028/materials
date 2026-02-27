@@ -1,24 +1,24 @@
 name: Generate Thumbnails
 on:
   push:
-    branches: [ main, master ] # 當你 push 到這兩個分支時觸發
-  workflow_dispatch:           # 允許你在 GitHub 介面手動按按鈕執行
+    branches: [ main, master ]
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Code
-        uses: actions/checkout@v4 # 使用最新版 checkout
+        uses: actions/checkout@v4
 
       - name: Generate Thumbnails and Update README
-        # 修正版本號，使用 main 確保能抓到
-        uses: firefly-cpp/thumbnails-readme@main 
+        # 修正：改用確定的分支名稱 master
+        uses: firefly-cpp/thumbnails-readme@master 
         with:
-          images_path: 'images'      # 請確認你的圖片資料夾名稱真的是 images
-          thumbnails_path: 'thumbs'  # 縮圖會存到這裡
-          recursive: true            # 掃描子資料夾
-          width: '150px'             # 縮圖顯示寬度
+          images_path: 'images'     # 👈 請確認你的資料夾名稱
+          thumbnails_path: 'thumbs' 
+          recursive: true           
+          width: '150px'
 
       - name: Commit and Push Changes
         run: |
