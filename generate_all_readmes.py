@@ -34,9 +34,10 @@ for root, dirs, files in sorted(os.walk(IMAGE_DIR)):
     rel_url = folder_path.replace('\\', '/')
     depth = rel_url.count('/')
     
-    # 樹狀縮排
+    # 樹狀縮排符號
     indent = "　" * depth + ("┗ " if depth > 0 else "📂 ")
     
+    # 視覺層級：第一層粗體，其餘代碼樣式
     if depth == 0:
         display_name = f"{indent}**{folder_name}**"
     else:
@@ -55,16 +56,16 @@ for root, dirs, files in sorted(os.walk(IMAGE_DIR)):
         preview_imgs_html = [f'<img src="{urllib.parse.quote(os.path.join(folder_path, pf).replace("\\", "/"))}" width="{MAIN_WIDTH}" height="{MAIN_WIDTH}" align="top">' for pf in preview_files]
         img_row = "&nbsp;".join(preview_imgs_html)
         more_tag = f'<sub>(+{len(valid_files)-max_previews})</sub>' if len(valid_files) > max_previews else ""
-        img_html = f'<a href="{safe_folder_url}/README.md">{img_row}</a> {more_tag}'
+        img_html = f'{img_row} <a href="{safe_folder_url}/README.md">{more_tag}</a>'
         
         subdir_links.append(f"| [{display_name}]({safe_folder_url}/README.md) | {img_html} | `{len(valid_files)} Items` |")
 
-        # --- 子目錄 README 美化化 (卡片樣式) ---
+        # --- 子目錄 README 美化 (卡片樣式 + 複製連結) ---
         sub_content = [
             f"# 🖼️ 素材分類：{folder_name}\n",
             f"> [🏠 主目錄]({back_to_root}{ROOT_README}) / **{folder_name}**\n",
             f"本目錄共有 `{len(valid_files)}` 個檔案\n",
-            "| 🎨 預覽 (點擊放大) | 📋 檔案詳細資訊 |",
+            "| 🎨 預覽 (點擊放大) | 📋 檔案詳細資訊與連結 |",
             "| :--- | :--- |"
         ]
         
@@ -76,7 +77,6 @@ for root, dirs, files in sorted(os.walk(IMAGE_DIR)):
                 size = get_size_format(stat.st_size)
                 mtime = datetime.datetime.fromtimestamp(stat.st_mtime).strftime('%Y-%m-%d')
                 
-                # 取得尺寸資訊
                 if f.lower().endswith('.svg'):
                     spec = "✨ **格式:** `Vector (SVG)`"
                 else:
@@ -84,13 +84,15 @@ for root, dirs, files in sorted(os.walk(IMAGE_DIR)):
                         w, h = img.size
                     spec = f"🖼️ **尺寸:** `{w}x{h} px`"
 
-                # 建立資訊欄位 (卡片化)
+                # 💡 生成複製用的 Markdown 語法區塊
+                copy_md = f"![{f}]({safe_f})"
+
                 details = (
                     f"**📂 檔名:** `{f}`<br>"
-                    f"{spec}<br>"
-                    f"⚖️ **大小:** `{size}`<br>"
+                    f"{spec} | ⚖️ `{size}`<br>"
                     f"📅 **更新:** `{mtime}`<br><br>"
-                    f"🔗 [直接查看原始檔]({safe_f})"
+                    f"🔗 **複製 Markdown 語法:**<br>`{copy_md}`<br>"
+                    f"📥 [檢視原始檔]({safe_f})"
                 )
                 
                 img_tag = f'<a href="{safe_f}"><img src="{safe_f}" width="{SUB_WIDTH}" alt="{f}"></a>'
@@ -101,10 +103,11 @@ for root, dirs, files in sorted(os.walk(IMAGE_DIR)):
         with open(readme_path, 'w', encoding='utf-8') as f_out:
             f_out.write("\n".join(sub_content))
     else:
+        # 保留父資料夾名稱（如 3Ds）
         if folder_name != IMAGE_DIR:
             subdir_links.append(f"| {display_name} | 📁 (資料夾) | - |")
 
-# 2. 更新根目錄 README (邏輯保持穩定)
+# 2. 更新根目錄 README
 if not subdir_links:
     nav_table_text = "\n目前 `images/` 中還沒有內容。\n"
 else:
