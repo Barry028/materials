@@ -9,8 +9,8 @@ IMAGE_DIR = 'images'
 ROOT_README = 'README.md'
 START_MARKER = '<!-- thumbnails-start -->'
 END_MARKER = '<!-- thumbnails-end -->'
-MAIN_WIDTH = 20
-SUB_WIDTH = 200
+MAIN_WIDTH = '20'
+SUB_WIDTH = '200'
 
 
 def get_size_format(b):
