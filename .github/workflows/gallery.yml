@@ -34,6 +34,12 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add "**/README.md"
-          git commit -m "docs: sync sub-galleries and update navigation" || exit 0
+          
+          # 關鍵修正：確保同時追蹤根目錄與子目錄的 README
+          git add README.md "**/README.md"
+          
+          # 如果有自動生成的 .jpg/.png 縮圖也要追蹤的話（目前腳本是直接引用原始圖，故這行選配）
+          # git add "**/thumbnails/**"
+          
+          git commit -m "docs: sync all galleries and update root navigation" || exit 0
           git push
