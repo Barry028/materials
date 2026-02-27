@@ -9,6 +9,9 @@ IMAGE_DIR = 'images'
 ROOT_README = 'README.md'
 START_MARKER = '<!-- thumbnails-start -->'
 END_MARKER = '<!-- thumbnails-end -->'
+MAIN_WIDTH = 20
+SUB_WIDTH = 200
+
 
 def get_size_format(b):
     for unit in ["", "K", "M", "G"]:
@@ -58,7 +61,7 @@ for root, dirs, files in sorted(os.walk(IMAGE_DIR)):
             pf_path_raw = os.path.join(folder_path, pf).replace('\\', '/')
             safe_pf_url = urllib.parse.quote(pf_path_raw)
             overlap = 'margin-left: -15px;' if i > 0 else ''
-            style = f'width="20" height="20" style="border-radius:50%; border:2px solid #fff; object-fit:cover; {overlap} box-shadow: 1px 1px 3px rgba(0,0,0,0.1);"'
+            style = f'width={MAIN_WIDTH} height={MAIN_WIDTH} style="border-radius:50%; border:2px solid #fff; object-fit:cover; {overlap} box-shadow: 1px 1px 3px rgba(0,0,0,0.1);"'
             preview_imgs_html.append(f'<img src="{safe_pf_url}" {style}>')
         
         more_tag = f'<span style="font-size:12px; color:#666; margin-left:8px;">+{len(valid_files)-max_previews}</span>' if len(valid_files) > max_previews else ""
@@ -70,7 +73,7 @@ for root, dirs, files in sorted(os.walk(IMAGE_DIR)):
         sub_content = [f"# 🖼️ {folder_name}\n", f"[⬅️ 返回主目錄]({back_to_root}{ROOT_README})\n", "| 預覽 | 資訊 |", "| :--- | :--- |"]
         for f in sorted(valid_files):
             safe_f = urllib.parse.quote(f)
-            sub_content.append(f'| <a href="{safe_f}"><img src="{safe_f}" width="250"></a> | **{f}** |')
+            sub_content.append(f'| <a href="{safe_f}"><img src="{safe_f}" width={SUB_WIDTH}></a> | **{f}** |')
         with open(readme_path, 'w', encoding='utf-8') as f_out:
             f_out.write("\n".join(sub_content))
     else:
