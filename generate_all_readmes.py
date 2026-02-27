@@ -66,7 +66,7 @@ for root, dirs, files in sorted(os.walk(IMAGE_DIR)):
         
         # 使用 <sub> 縮小字體顯示剩餘數量
         more_tag = f'<sub>(+{len(valid_files)-max_previews})</sub>' if len(valid_files) > max_previews else ""
-        img_html = f'<a href="{safe_folder_url}/README.md">{img_row}</a> {more_tag}'
+        img_html = f'{img_row} <a href="{safe_folder_url}/README.md">{more_tag}</a>'
         
         subdir_links.append(f"| [{display_name}]({safe_folder_url}/README.md) | {img_html} | `{len(valid_files)} Items` |")
 
