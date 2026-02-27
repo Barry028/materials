@@ -147,7 +147,7 @@ for root, dirs, files in sorted(os.walk(IMAGE_DIR)):
                 
                 # 製作子分類的封面 HTML
                 if sub_valid_files:
-                    sub_preview_count = 10
+                    sub_preview_count = 20
                     # 取得前幾張圖的路徑並轉為 URL
                     previews = sorted(sub_valid_files)[:sub_preview_count]
                     previews_html = []
