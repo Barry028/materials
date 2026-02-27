@@ -147,7 +147,7 @@ for root, dirs, files in sorted(os.walk(IMAGE_DIR)):
                 
                 # 製作子分類的封面 HTML
                 if sub_valid_files:
-                    sub_preview_count = 3
+                    sub_preview_count = 10
                     # 取得前幾張圖的路徑並轉為 URL
                     previews = sorted(sub_valid_files)[:sub_preview_count]
                     previews_html = []
@@ -171,7 +171,7 @@ for root, dirs, files in sorted(os.walk(IMAGE_DIR)):
         with open(readme_path, 'w', encoding='utf-8') as f_out:
             f_out.write("\n".join(sub_content))
 
-            
+
 # 2. 更新根目錄 README
 tree_table = ["## 📂 素材目錄樹狀導覽\n", "| 目錄路徑 | 封面預覽 | 統計 |", "| :--- | :---: | :---: |"] + subdir_links
 nav_table_text = "\n".join(tree_table)
