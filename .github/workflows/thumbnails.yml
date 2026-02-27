@@ -1,0 +1,24 @@
+name: Generate Thumbnails
+on: [push] # 當有新的 push 時觸發
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Generate Thumbnails
+        uses: subic/ghaction-thumbnails@master
+        with:
+          source: 'images'     # 原始圖片所在的資料夾名稱
+          output: 'thumbnails' # 縮圖要存放的目標資料夾
+          sizes: 300           # 縮圖寬度 (px)，多個尺寸可用逗號隔開如 "300,600"
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add .
+          git commit -m "Auto-generate thumbnails" || echo "No changes to commit"
+          git push
