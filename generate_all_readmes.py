@@ -1,7 +1,7 @@
 import os
 import datetime
 import re
-import urllib.parse  # 必須加入這行來處理空格路徑
+import urllib.parse  # 處理空格路徑的關鍵
 from PIL import Image
 
 # 設定
@@ -9,26 +9,6 @@ IMAGE_DIR = 'images'
 ROOT_README = 'README.md'
 START_MARKER = '<!-- thumbnails-start -->'
 END_MARKER = '<!-- thumbnails-end -->'
-
-
-# --- 修正路徑編碼 ---
-# 1. 處理資料夾路徑 (轉換成 GitHub 可讀取的 URL 格式)
-folder_path_url = folder_path.replace('\\', '/')
-safe_folder_url = urllib.parse.quote(folder_path_url)
-
-# 2. 處理封面圖片路徑
-cover_file = sorted(valid_files)[0]
-cover_path_url = os.path.join(folder_path, cover_file).replace('\\', '/')
-safe_cover_url = urllib.parse.quote(cover_path_url)
-
-# 製作圓形封面 HTML
-img_style = 'width="45" height="45" style="border-radius:50%; border:2px solid #eee; object-fit:cover;"'
-img_html = f'<a href="{safe_folder_url}/README.md"><img src="{safe_cover_url}" {img_style}></a>'
-
-# 建立樹狀連結 (注意：顯示文字 indent+folder_name 不需要 quote，但連結路徑需要)
-folder_link = f"[{indent}{folder_name}]({safe_folder_url}/README.md)"
-
-subdir_links.append(f"| {folder_link} | {img_html} | `{len(valid_files)} Items` |")
 
 def get_size_format(b):
     for unit in ["", "K", "M", "G"]:
@@ -51,24 +31,30 @@ for root, dirs, files in sorted(os.walk(IMAGE_DIR)):
         readme_path = os.path.join(root, 'README.md')
         
         # 動態計算「回到主目錄」的層級
-        # root 相對於根目錄的深度
         rel_depth = folder_path.replace('\\', '/').count('/') + 1
         back_to_root = "../" * rel_depth
+        
+        # --- 核心修正：對路徑進行編碼以處理空格 ---
+        folder_url_raw = folder_path.replace('\\', '/')
+        safe_folder_url = urllib.parse.quote(folder_url_raw)
         
         # 紀錄樹狀導覽資訊（用於根目錄）
         tree_depth = folder_path.replace('\\', '/').count('/')
         indent = "　" * tree_depth + ("┗ " if tree_depth > 0 else "📂 ")
+        
         cover_file = sorted(valid_files)[0]
-        cover_url = os.path.join(folder_path, cover_file).replace('\\', '/')
+        cover_path_raw = os.path.join(folder_path, cover_file).replace('\\', '/')
+        safe_cover_url = urllib.parse.quote(cover_path_raw)
         
         img_style = 'width="45" height="45" style="border-radius:50%; border:2px solid #eee; object-fit:cover;"'
-        img_html = f'<a href="{folder_path}/README.md"><img src="{cover_url}" {img_style}></a>'
-        subdir_links.append(f"| [{indent}{folder_name}]({folder_path}/README.md) | {img_html} | `{len(valid_files)} Items` |")
+        # 修正：連結與圖片路徑皆使用編碼後的 safe_url
+        img_html = f'<a href="{safe_folder_url}/README.md"><img src="{safe_cover_url}" {img_style}></a>'
+        subdir_links.append(f"| [{indent}{folder_name}]({safe_folder_url}/README.md) | {img_html} | `{len(valid_files)} Items` |")
         
         # 生成子目錄 README
         sub_content = [
             f"# 🖼️ {folder_name} 素材庫\n",
-            f"[⬅️ 返回主目錄]({back_to_root}{ROOT_README})\n", # 修正處
+            f"[⬅️ 返回主目錄]({back_to_root}{ROOT_README})\n",
             "| 預覽 (點擊放大) | 檔案資訊 |",
             "| :--- | :--- |"
         ]
@@ -78,6 +64,9 @@ for root, dirs, files in sorted(os.walk(IMAGE_DIR)):
             try:
                 stat = os.stat(f_path)
                 size = get_size_format(stat.st_size)
+                # 檔名也進行編碼處理以防連結失效
+                safe_file_url = urllib.parse.quote(f)
+                
                 if f.lower().endswith('.svg'):
                     info_text = f"Vector (SVG) | {size}"
                 else:
@@ -85,7 +74,7 @@ for root, dirs, files in sorted(os.walk(IMAGE_DIR)):
                         w, h = img.size
                         info_text = f"{w}x{h} | {size}"
                 
-                sub_content.append(f'| <a href="{f}"><img src="{f}" width="250"></a> | **{f}**<br>{info_text} |')
+                sub_content.append(f'| <a href="{safe_file_url}"><img src="{safe_file_url}" width="250"></a> | **{f}**<br>{info_text} |')
             except:
                 continue
 
@@ -93,8 +82,6 @@ for root, dirs, files in sorted(os.walk(IMAGE_DIR)):
             f_out.write("\n".join(sub_content))
 
 # 2. 生成或更新根目錄 README
-# 建立分類導覽表格 (如果 subdir_links 是空的，給予提示)
-# --- 檢查根目錄 README 是否存在並寫入 ---
 if not subdir_links:
     nav_table_text = "\n目前 `images/` 資料夾中還沒有圖片，請上傳圖片至子目錄後再執行。\n"
 else:
@@ -110,7 +97,6 @@ new_nav_section = f"{START_MARKER}\n{nav_table_text}\n{END_MARKER}"
 if os.path.exists(ROOT_README):
     with open(ROOT_README, 'r', encoding='utf-8') as f_in:
         content = f_in.read()
-    
     if START_MARKER in content:
         content = re.sub(f"{START_MARKER}.*?{END_MARKER}", new_nav_section, content, flags=re.DOTALL)
     else:
