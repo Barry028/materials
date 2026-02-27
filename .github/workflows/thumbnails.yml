@@ -1,0 +1,32 @@
+name: Generate Thumbnails
+on:
+  push:
+    branches:
+      - main  # 或是您專案預設的分支名稱（如 master）
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v3
+
+      - name: Generate Thumbnails and Update README
+        uses: firefly-cpp/thumbnails-readme@v1.0.0
+        with:
+          # 修改為您存放「原始圖片」的資料夾路徑
+          images_path: 'images'     
+          # 修改為您想存放「產出的縮圖」的資料夾路徑
+          thumbnails_path: 'thumbs' 
+          # 是否掃描子資料夾（適合您的狀況，請設為 true）
+          recursive: true           
+          # 縮圖在 README 顯示的寬度
+          width: '200px'
+
+      - name: Commit and Push Changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add .
+          git commit -m "docs: auto-generate thumbnails" || echo "No changes to commit"
+          git push
