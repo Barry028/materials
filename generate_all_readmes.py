@@ -9,8 +9,8 @@ IMAGE_DIR = 'images'
 ROOT_README = 'README.md'
 START_MARKER = '<!-- thumbnails-start -->'
 END_MARKER = '<!-- thumbnails-end -->'
-MAIN_WIDTH = 30 # 主導覽縮圖大小
-SUB_WIDTH = 250 # 子目錄圖片預覽寬度鎖定
+MAIN_WIDTH = 24 # 主導覽縮圖大小
+SUB_WIDTH = 200 # 子目錄圖片預覽寬度鎖定
 REPO_NAME = os.getenv('GITHUB_REPOSITORY', '你的帳號/你的倉庫名')
 BRANCH = 'main' 
 IMG_EXTENSIONS = ('.png', '.jpg', '.jpeg', '.gif', '.webp', '.svg')
@@ -64,7 +64,7 @@ for root, dirs, files in sorted(os.walk(IMAGE_DIR)):
             breadcrumb_links.append(f"[{part_name}]({link_path})")
     breadcrumb_str = " / ".join(breadcrumb_links)
 
-    width_lock = '<img src="https://raw.githubusercontent.com" width="250" height="1">'
+    width_lock = '<img src="https://raw.githubusercontent.com" width="{SUB_WIDTH}" height="1">'
 
     if valid_files:
         # --- 主目錄預覽邏輯 ---
