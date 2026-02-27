@@ -1,6 +1,6 @@
-# 📂 目錄：Pixel iCon Library
+# 📂 目錄：Pixel iCons Library
 
-> [🏠 主目錄](../../../../README.md) / [images](../../../README.md) / [iCons](../../README.md) / [Pixel](../README.md) / **Pixel iCon Library**
+> [🏠 主目錄](../../../../README.md) / [images](../../../README.md) / [iCons](../../README.md) / [Pixel](../README.md) / **Pixel iCons Library**
 
 此目錄目前沒有直接存放圖片，請選擇下方子分類：
 
