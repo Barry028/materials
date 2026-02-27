@@ -1,0 +1,23 @@
+name: Auto Generate Thumbnails
+on: [push] # 每次上傳圖片後自動執行
+
+jobs:
+  build:
+  runs-on: ubuntu-latest
+  steps:
+    - uses: actions/checkout@v3
+
+    - name: Generate Thumbnails and Update README
+      uses: firefly-cpp/thumbnails-readme@v1.0.0
+      with:
+        images_path: 'images'     # 原始圖片目錄
+        thumbnails_path: 'thumbs' # 縮圖存放目錄
+        # 這裡可以設定每排顯示幾張、圖片寬度等
+
+    - name: Commit and Push
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add .
+        git commit -m "Updated thumbnails in README" || echo "No changes"
+        git push
