@@ -122,30 +122,56 @@ for root, dirs, files in sorted(os.walk(IMAGE_DIR)):
             f_out.write("\n".join(sub_content))
     else:
         # --- 處理無圖片的導覽層 (包含 images/ 根目錄) ---
-        if folder_path == IMAGE_DIR:
-            # 根目錄不重複加入 subdir_links，但要生成 README
-            pass 
-        else:
+        if folder_path != IMAGE_DIR:
             subdir_links.append(f"| [{display_name}]({safe_folder_url}/README.md) | 📁 (導覽層) | - |")
             
         sub_content = [
             f"# 📂 目錄：{folder_name}\n",
             f"> {breadcrumb_str}\n",
             "此目錄目前沒有直接存放圖片，請選擇下方子分類：\n",
-            "### 🗂️ 子分類列表"
+            "### 🗂️ 子分類列表\n",
+            "| 分類名稱 | 封面預覽 | 統計 |",
+            "| :--- | :--- | :--- |"
         ]
+        
         has_sub = False
         for d in sorted(dirs):
             if not d.startswith('.'):
-                sub_content.append(f"- [📁 {d}]({urllib.parse.quote(d)}/README.md)")
                 has_sub = True
+                sub_dir_path = os.path.join(root, d)
+                
+                # 遍歷子資料夾找圖片當封面
+                sub_valid_files = []
+                for sub_root, _, sub_files in os.walk(sub_dir_path):
+                    sub_valid_files.extend([os.path.join(sub_root, sf) for sf in sub_files if sf.lower().endswith(('.png', '.jpg', '.jpeg', '.gif', '.webp', '.svg'))])
+                
+                # 製作子分類的封面 HTML
+                if sub_valid_files:
+                    sub_preview_count = 3
+                    # 取得前幾張圖的路徑並轉為 URL
+                    previews = sorted(sub_valid_files)[:sub_preview_count]
+                    previews_html = []
+                    for p in previews:
+                        # 這裡要計算相對於當前 README 的路徑
+                        rel_p = os.path.relpath(p, root).replace('\\', '/')
+                        previews_html.append(f'<img src="{urllib.parse.quote(rel_p)}" width="{MAIN_WIDTH}" height="{MAIN_WIDTH}" align="top">')
+                    
+                    sub_img_row = "&nbsp;".join(previews_html)
+                    sub_count_tag = f"共 `{len(sub_valid_files)}` 張"
+                else:
+                    sub_img_row = "📁 *(無圖片)*"
+                    sub_count_tag = "-"
+
+                sub_content.append(f"| [📁 **{d}**]({urllib.parse.quote(d)}/README.md) | {sub_img_row} | {sub_count_tag} |")
         
         if not has_sub:
+            sub_content = sub_content[:4] # 移除表格頭部
             sub_content.append("*(此目錄目前為空)*")
 
         with open(readme_path, 'w', encoding='utf-8') as f_out:
             f_out.write("\n".join(sub_content))
 
+            
 # 2. 更新根目錄 README
 tree_table = ["## 📂 素材目錄樹狀導覽\n", "| 目錄路徑 | 封面預覽 | 統計 |", "| :--- | :---: | :---: |"] + subdir_links
 nav_table_text = "\n".join(tree_table)
@@ -161,3 +187,21 @@ else:
 with open(ROOT_README, 'w', encoding='utf-8') as f_out:
     f_out.write(content)
 print("Done! All READMEs (including images/README.md) generated.")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
