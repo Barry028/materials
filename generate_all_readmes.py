@@ -9,8 +9,8 @@ IMAGE_DIR = 'images'
 ROOT_README = 'README.md'
 START_MARKER = '<!-- thumbnails-start -->'
 END_MARKER = '<!-- thumbnails-end -->'
-MAIN_WIDTH = 30 # 主導覽縮圖大小
-SUB_WIDTH = 250 # 子目錄圖片預覽寬度
+MAIN_WIDTH = 20 # 主導覽縮圖大小
+SUB_WIDTH = 200 # 子目錄圖片預覽寬度
 
 def get_size_format(b):
     for unit in ["", "K", "M", "G"]:
